@@ -1,28 +1,83 @@
 .itemCard {
-  display: inline-block;
-  flex-shrink: 0;
+  display: inline-flex;
+  flex-direction: column;
+  width: 150px;
   height: 200px;
-  width: 200px;
-  max-width: 300px;
-  border-radius: 2px;
-  border: 2px solid transparent;
+  border-radius: 5px;
   background: white;
   padding: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-right: 20px;
+  position: relative;
 
-  .label {
-    word-wrap: anywhere;
+  .img {
+    // position: absolute;
+    // top: 0;
+    // right: 0;
+    // bottom: 0;
+    // left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-grow: 1;
+    min-height: 0;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  span,
+  div {
+    z-index: 1;
+  }
+
+  .title {
+    font-weight: bold;
+    word-wrap: break-word;
+
+    .label {
+      text-transform: capitalize;
+    }
+  }
+
+  .playedInfo {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-height: 0;
+    justify-content: end;
   }
 
   .types {
     margin-top: 5px;
 
     .type {
-      font-size: 14px;
+      font-size: 12px;
       color: #6b778c;
       text-transform: capitalize;
     }
+  }
+
+  .dateProp {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .description {
+    overflow: auto;
+    font-size: 12px;
+  }
+
+  .date {
+    font-size: 120%;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
   }
 }

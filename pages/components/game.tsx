@@ -26,7 +26,7 @@ export default function Game() {
       const res = await fetch("/items.json");
       const deck = (await res.text())
         .split("\n")
-        .slice(0, 10)
+        .slice(0, 100)
         .map((line) => {
           return JSON.parse(line);
         });
