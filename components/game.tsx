@@ -1,10 +1,9 @@
 import React, { useState } from "react";
-import { DragDropContext, Droppable, DropResult } from "react-beautiful-dnd";
-import NoSSR from "react-no-ssr";
-import { Item } from "../../types/item";
+import { DragDropContext, DropResult } from "react-beautiful-dnd";
+import { Item } from "../types/item";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
-import styles from "../../styles/game.module.scss";
+// import styles from "../../styles/game.module.scss";
 
 interface State {
   loaded: boolean;
@@ -66,19 +65,17 @@ export default function Game() {
   return (
     <>
       {state.loaded ? (
-        <NoSSR>
-          <DragDropContext
-            onDragEnd={onDragEnd}
-            onDragUpdate={() => {
-              setTimeout(() => {
-                // debugger;
-              }, 1000);
-            }}
-          >
-            <NextItemList next={state.next} />
-            <PlayedItemList items={state.played} />
-          </DragDropContext>
-        </NoSSR>
+        <DragDropContext
+          onDragEnd={onDragEnd}
+          onDragUpdate={() => {
+            setTimeout(() => {
+              // debugger;
+            }, 1000);
+          }}
+        >
+          <NextItemList next={state.next} />
+          <PlayedItemList items={state.played} />
+        </DragDropContext>
       ) : (
         <h2>Loading</h2>
       )}

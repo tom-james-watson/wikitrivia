@@ -1,9 +1,9 @@
 import moment from "moment";
+import classNames from "classnames";
 import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
-import { Item } from "../../types/item";
-import styles from "../../styles/item-card.module.scss";
-import classNames from "classnames";
+import { Item } from "../types/item";
+import styles from "../styles/item-card.module.scss";
 
 interface Props {
   item: Item;

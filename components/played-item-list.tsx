@@ -1,7 +1,7 @@
 import { Droppable } from "react-beautiful-dnd";
-import { Item } from "../../types/item";
+import { Item } from "../types/item";
 import ItemCard from "./item-card";
-import styles from "../../styles/played-item-list.module.scss";
+import styles from "../styles/played-item-list.module.scss";
 
 interface PlayedItemListProps {
   items: Item[];
