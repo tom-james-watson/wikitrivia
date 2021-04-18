@@ -1,0 +1,15 @@
+.container {
+  background: #ebecf0;
+  padding: 60px 40px;
+
+  .list {
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+
+    .items {
+      display: flex;
+      align-items: center;
+    }
+  }
+}

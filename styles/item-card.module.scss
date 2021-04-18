@@ -1,0 +1,28 @@
+.itemCard {
+  display: inline-block;
+  flex-shrink: 0;
+  height: 200px;
+  width: 200px;
+  max-width: 300px;
+  border-radius: 2px;
+  border: 2px solid transparent;
+  background: white;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+
+  .label {
+    word-wrap: anywhere;
+  }
+
+  .types {
+    margin-top: 5px;
+
+    .type {
+      font-size: 14px;
+      color: #6b778c;
+      text-transform: capitalize;
+    }
+  }
+}

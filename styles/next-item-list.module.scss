@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+  .wrapper {
+    padding-left: 20px;
+    width: 240px;
+    height: 240px;
+    background: #ebecf0;
+
+    .list {
+      // display: flex;
+      height: 250px;
+    }
+  }
+}
