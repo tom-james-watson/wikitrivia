@@ -3,7 +3,7 @@ import { DragDropContext, DropResult } from "react-beautiful-dnd";
 import { Item } from "../types/item";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
-// import styles from "../../styles/game.module.scss";
+import styles from "../styles/game.module.scss";
 
 interface State {
   loaded: boolean;
@@ -73,8 +73,14 @@ export default function Game() {
             }, 1000);
           }}
         >
-          <NextItemList next={state.next} />
-          <PlayedItemList items={state.played} />
+          <div className={styles.wrapper}>
+            <div className={styles.top}>
+              <NextItemList next={state.next} />
+            </div>
+            <div className={styles.bottom}>
+              <PlayedItemList items={state.played} />
+            </div>
+          </div>
         </DragDropContext>
       ) : (
         <h2>Loading</h2>

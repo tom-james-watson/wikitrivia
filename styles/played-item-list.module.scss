@@ -1,21 +1,25 @@
-.container {
-  background: #ebecf0;
-  padding: 60px 40px;
+.wrapper {
+  width: 100%;
 
-  .list {
-    display: flex;
-    align-items: center;
-    overflow-x: auto;
+  .listContainer {
+    width: min-content;
+    min-width: 100%;
+    padding: 0 40px;
 
-    .items {
+    .list {
       display: flex;
       align-items: center;
+
+      .items {
+        display: flex;
+        align-items: center;
+      }
     }
   }
-}
 
-@media screen and (max-width: 600px) {
-  .container {
-    padding: 60px 0px;
+  @media screen and (max-width: 600px) {
+    .listContainer {
+      padding: 0;
+    }
   }
 }

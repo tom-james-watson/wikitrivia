@@ -11,23 +11,25 @@ export default function PlayedItemList(props: PlayedItemListProps) {
   const { items } = props;
 
   return (
-    <div className={styles.container}>
-      <Droppable droppableId="played" direction="horizontal">
-        {(provided) => (
-          <div
-            ref={provided.innerRef}
-            {...provided.droppableProps}
-            className={styles.list}
-          >
-            <div className={styles.items}>
-              {items.map((item, index) => (
-                <ItemCard item={item} index={index} key={item.id} played />
-              ))}
+    <div className={styles.wrapper}>
+      <div className={styles.listContainer}>
+        <Droppable droppableId="played" direction="horizontal">
+          {(provided) => (
+            <div
+              ref={provided.innerRef}
+              {...provided.droppableProps}
+              className={styles.list}
+            >
+              <div className={styles.items}>
+                {items.map((item, index) => (
+                  <ItemCard item={item} index={index} key={item.id} played />
+                ))}
+              </div>
+              {provided.placeholder}
             </div>
-            {provided.placeholder}
-          </div>
-        )}
-      </Droppable>
+          )}
+        </Droppable>
+      </div>
     </div>
   );
 }
