@@ -49,6 +49,10 @@ const datePropIdMap2: { [datePropId: string]: string } = {
   P7124: "Date of first",
 };
 
+function capitalize(str: string): string {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 export default function ItemCard(props: Props) {
   const { played, item, index } = props;
 
@@ -75,9 +79,7 @@ export default function ItemCard(props: Props) {
           {...provided.draggableProps}
           {...provided.dragHandleProps}
         >
-          <span className={styles.title}>
-            <span className={styles.label}>{item.label}</span>
-          </span>
+          <span className={styles.label}>{capitalize(item.label)}</span>
           {item.types.length > 0 && (
             <div className={styles.types}>
               <span className={styles.type}>{item.types[0]}</span>
@@ -86,7 +88,7 @@ export default function ItemCard(props: Props) {
           <div className={styles.img} /*style={{ backgroundImage: imgUrl }}*/>
             {played ? (
               <animated.div style={springProps} className={styles.playedInfo}>
-                <div className={styles.description}>{item.description}</div>
+                <div className={styles.description}>{item.description}.</div>
                 <span className={styles.date}>{yearStr}</span>
               </animated.div>
             ) : (

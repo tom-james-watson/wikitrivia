@@ -1,14 +1,19 @@
 .wrapper {
   width: 100%;
+  height: 100%;
 
   .listContainer {
     width: min-content;
     min-width: 100%;
-    padding: 0 40px;
+    // 20px more on the left because the right has extra 20px margin-right from cards
+    padding: 0 40px 0 60px;
+    height: 100%;
+    position: relative;
 
     .list {
       display: flex;
       align-items: center;
+      height: 100%;
 
       .items {
         display: flex;
@@ -20,6 +25,7 @@
   @media screen and (max-width: 600px) {
     .listContainer {
       padding: 0;
+      padding-left: 20px;
     }
   }
 }
