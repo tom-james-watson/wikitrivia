@@ -20,6 +20,9 @@ export default function PlayedItemList(props: PlayedItemListProps) {
               {...provided.droppableProps}
               className={styles.list}
             >
+              <div className={styles.timelineContainer}>
+                <div className={styles.timeline}></div>
+              </div>
               <div className={styles.items}>
                 {items.map((item, index) => (
                   <ItemCard item={item} index={index} key={item.id} played />

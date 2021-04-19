@@ -1,5 +1,6 @@
 .wrapper {
-  width: 100%;
+  width: min-content;
+  min-width: 100%;
   height: 100%;
 
   .listContainer {
@@ -9,6 +10,18 @@
     padding: 0 40px 0 60px;
     height: 100%;
     position: relative;
+
+    .timelineContainer {
+      position: absolute;
+      left: 0;
+      width: 100%;
+
+      .timeline {
+        height: 3px;
+        background-color: #fff1bd;
+        width: 100%;
+      }
+    }
 
     .list {
       display: flex;
