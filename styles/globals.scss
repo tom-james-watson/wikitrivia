@@ -1,12 +1,14 @@
+@import "./variables.scss";
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  color: rgb(9, 30, 66);
+  color: $text;
   font-size: 14px;
-  background: #293742;
+  background: $background;
 }
 
 html,
@@ -17,8 +19,7 @@ body,
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: $text-link;
 }
 
 * {

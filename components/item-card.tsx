@@ -1,3 +1,4 @@
+import React from "react";
 import moment from "moment";
 import classNames from "classnames";
 import { useSpring, animated } from "react-spring";
@@ -6,28 +7,30 @@ import { Item } from "../types/item";
 import styles from "../styles/item-card.module.scss";
 
 interface Props {
-  item: Item;
+  flippedId?: null | string;
   index: number;
+  item: Item;
   played?: true;
+  setFlippedId?: (flippedId: string | null) => void;
 }
 
 const datePropIdMap: { [datePropId: string]: string } = {
-  P575: "time of discovery or invention",
-  P7589: "date of assent",
-  P577: "publication date",
-  P1191: "date of first performance",
-  P1619: "date of official opening",
-  P571: "creation or founding of",
-  P1249: "time of earliest written record",
-  P576: "abolished or demolished date",
-  P8556: "extinction date",
-  P6949: "announcement date",
-  P1319: "earliest date",
-  P570: "date of death",
-  P582: "end time",
-  P580: "start time",
-  P7125: "date of the latest one",
-  P7124: "date of the first one",
+  P575: "discovery or invention",
+  P7589: "assent",
+  P577: "publication",
+  P1191: "first performance",
+  P1619: "official opening",
+  P571: "creation",
+  P1249: "earliest written record",
+  P576: "end of",
+  P8556: "extinction",
+  P6949: "announcement",
+  P1319: "earliest",
+  P570: "death",
+  P582: "end",
+  P580: "start",
+  P7125: "latest one",
+  P7124: "first one",
 };
 
 const datePropIdMap2: { [datePropId: string]: string } = {
@@ -54,9 +57,17 @@ function capitalize(str: string): string {
 }
 
 export default function ItemCard(props: Props) {
-  const { played, item, index } = props;
+  const { flippedId, index, item, played, setFlippedId } = props;
 
-  const springProps = useSpring({ opacity: 1, from: { opacity: 0 } });
+  const flipped = item.id === flippedId;
+
+  const { transform, opacity } = useSpring({
+    opacity: flipped ? 1 : 0,
+    transform: `perspective(600px) rotateY(${flipped ? 180 : 0}deg)`,
+    config: { mass: 5, tension: 750, friction: 100 },
+  });
+
+  const fadeProps = useSpring({ opacity: 1, from: { opacity: 0 } });
 
   const imgUrl = item.image
     ? `url(https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/${encodeURIComponent(
@@ -74,29 +85,72 @@ export default function ItemCard(props: Props) {
     <Draggable draggableId={item.id} index={index} isDragDisabled={played}>
       {(provided) => (
         <div
-          className={classNames(styles.itemCard, { [styles.played]: played })}
+          className={classNames(styles.itemCard, {
+            [styles.played]: played,
+            [styles.flipped]: flipped,
+          })}
           ref={provided.innerRef}
           {...provided.draggableProps}
           {...provided.dragHandleProps}
+          onClick={() => {
+            if (played && setFlippedId) {
+              if (flipped) {
+                setFlippedId(null);
+              } else {
+                setFlippedId(item.id);
+              }
+            }
+          }}
         >
-          <span className={styles.label}>{capitalize(item.label)}</span>
-          {item.types.length > 0 && (
-            <div className={styles.types}>
-              <span className={styles.type}>{item.types[0]}</span>
+          <animated.div
+            className={styles.front}
+            style={{ opacity: opacity.to((o) => 1 - o), transform }}
+          >
+            <div className={styles.top}>
+              <span className={styles.label}>{capitalize(item.label)}</span>
+              {item.types.length > 0 && (
+                <div className={styles.types}>
+                  <span className={styles.type}>{item.types[0]}</span>
+                </div>
+              )}
             </div>
-          )}
-          <div className={styles.img} /*style={{ backgroundImage: imgUrl }}*/>
-            {played ? (
-              <animated.div style={springProps} className={styles.playedInfo}>
-                <div className={styles.description}>{item.description}.</div>
-                <span className={styles.date}>{yearStr}</span>
-              </animated.div>
-            ) : (
-              <div className={styles.dateProp}>
-                {datePropIdMap[item.date_prop_id]}
-              </div>
-            )}
-          </div>
+            <div className={styles.bottom} style={{ backgroundImage: imgUrl }}>
+              {played ? (
+                <animated.div style={fadeProps} className={styles.playedInfo}>
+                  <span className={styles.date}>{yearStr}</span>
+                </animated.div>
+              ) : (
+                <div className={styles.dateProp}>
+                  {datePropIdMap[item.date_prop_id]}
+                </div>
+              )}
+            </div>
+          </animated.div>
+          <animated.div
+            className={styles.back}
+            style={{
+              opacity,
+              transform: transform.to(
+                (t) => `${t} rotateX(180deg) rotateZ(180deg)`
+              ),
+            }}
+          >
+            <span className={styles.label}>{capitalize(item.label)}</span>
+            <span className={styles.description}>{item.description}.</span>
+            <a
+              href={`https://www.wikipedia.org/wiki/${encodeURIComponent(
+                item.wikipedia
+              )}`}
+              className={styles.wikipedia}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => {
+                e.stopPropagation();
+              }}
+            >
+              Wikipedia
+            </a>
+          </animated.div>
         </div>
       )}
     </Draggable>

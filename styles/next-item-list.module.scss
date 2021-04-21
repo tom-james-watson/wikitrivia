@@ -1,3 +1,5 @@
+@import "./variables.scss";
+
 .container {
   display: flex;
   justify-content: center;
@@ -7,9 +9,9 @@
 
   .wrapper {
     padding-left: 20px;
-    width: 190px;
+    width: 192px;
     position: relative;
-    border: 1px dashed #5c7080;
+    border: 1px dashed $dashes;
     border-radius: 5px;
 
     .list {
@@ -31,25 +33,25 @@
   // .wrapper::before {
   //   top: -3px;
   //   left: -3px;
-  //   border-top: 3px solid #5c7080;
-  //   border-left: 3px solid #5c7080;
+  //   border-top: 3px solid $dashes;
+  //   border-left: 3px solid $dashes;
   // }
   // .wrapper::after {
   //   top: -3px;
   //   right: -3px;
-  //   border-top: 3px solid #5c7080;
-  //   border-right: 3px solid #5c7080;
+  //   border-top: 3px solid $dashes;
+  //   border-right: 3px solid $dashes;
   // }
   // .list::before {
   //   bottom: -3px;
   //   left: -3px;
-  //   border-bottom: 3px solid #5c7080;
-  //   border-left: 3px solid #5c7080;
+  //   border-bottom: 3px solid $dashes;
+  //   border-left: 3px solid $dashes;
   // }
   // .list::after {
   //   bottom: -3px;
   //   right: -3px;
-  //   border-bottom: 3px solid #5c7080;
-  //   border-right: 3px solid #5c7080;
+  //   border-bottom: 3px solid $dashes;
+  //   border-right: 3px solid $dashes;
   // }
 }

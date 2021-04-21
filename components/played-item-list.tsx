@@ -1,3 +1,4 @@
+import React from "react";
 import { Droppable } from "react-beautiful-dnd";
 import { Item } from "../types/item";
 import ItemCard from "./item-card";
@@ -9,6 +10,8 @@ interface PlayedItemListProps {
 
 export default function PlayedItemList(props: PlayedItemListProps) {
   const { items } = props;
+
+  const [flippedId, setFlippedId] = React.useState<null | string>(null);
 
   return (
     <div className={styles.wrapper}>
@@ -25,7 +28,14 @@ export default function PlayedItemList(props: PlayedItemListProps) {
               </div>
               <div className={styles.items}>
                 {items.map((item, index) => (
-                  <ItemCard item={item} index={index} key={item.id} played />
+                  <ItemCard
+                    item={item}
+                    index={index}
+                    key={item.id}
+                    played
+                    flippedId={flippedId}
+                    setFlippedId={setFlippedId}
+                  />
                 ))}
               </div>
               {provided.placeholder}

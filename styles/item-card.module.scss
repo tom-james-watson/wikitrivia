@@ -1,20 +1,58 @@
+@import "./variables";
+
 .itemCard {
-  display: inline-flex;
-  flex-direction: column;
+  display: inline-block;
   width: 150px;
   height: 200px;
-  border-radius: 5px;
-  background: white;
-  padding: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-right: 20px;
   position: relative;
-  // use this one whilst dragged
-  // box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 
-  .img {
+  .front,
+  .back {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    border-radius: 5px;
+    background: white;
+    // use this one whilst dragged
+    // box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+      rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    will-change: transform, opacity;
+  }
+
+  &.played {
+    .front,
+    .back {
+      cursor: pointer;
+    }
+  }
+
+  .back {
+    z-index: -1;
+  }
+
+  &.flipped {
+    .front {
+      z-index: -1;
+    }
+
+    .back {
+      z-index: initial;
+    }
+  }
+
+  .top {
+    padding: 10px;
+  }
+
+  .bottom {
     // position: absolute;
     // top: 0;
     // right: 0;
@@ -25,11 +63,14 @@
     justify-content: flex-end;
     flex-grow: 1;
     min-height: 0;
-    margin-top: 10px;
-    border-radius: 5px;
+    border-radius: 0 0 5px 5px;
+    background-color: $background-alt;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    padding: 10px;
+    padding-bottom: 0;
+    color: $text-light;
   }
 
   span,
@@ -55,28 +96,50 @@
 
     .type {
       font-size: 12px;
-      color: #6b778c;
+      color: $text-muted;
       text-transform: capitalize;
     }
   }
 
   .dateProp {
+    font-weight: bold;
     margin-top: 10px;
     margin-bottom: 5px;
     text-align: center;
     font-size: 12px;
+    padding: 5px 10px;
+    background: $primary;
+    margin: 0 auto;
+    border-radius: 5px 5px 0 0;
+  }
+
+  .back {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 10px;
   }
 
   .description {
     overflow: auto;
     font-size: 12px;
+    margin-top: 10px;
+    flex-grow: 1;
+  }
+
+  .wikipedia {
+    margin-top: 10px;
+    text-align: center;
   }
 
   .date {
-    font-size: 120%;
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 5px;
     text-align: center;
+    padding: 5px 10px;
+    background: $success;
+    margin: 0 auto;
+    border-radius: 5px 5px 0 0;
   }
 }

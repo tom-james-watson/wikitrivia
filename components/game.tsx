@@ -23,12 +23,10 @@ export default function Game() {
   React.useEffect(() => {
     const fetchData = async () => {
       const res = await fetch("/items.json");
-      const deck = (await res.text())
-        .split("\n")
-        .slice(0, 100)
-        .map((line) => {
-          return JSON.parse(line);
-        });
+      const items = (await res.text()).split("\n");
+      const deck = items.slice(0, 0 + 100).map((line) => {
+        return JSON.parse(line);
+      });
       const next = deck.pop();
       const played = [deck.pop()];
       setState({ next, deck, played, loaded: true });

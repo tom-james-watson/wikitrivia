@@ -1,3 +1,5 @@
+@import "./variables.scss";
+
 .wrapper {
   width: min-content;
   min-width: 100%;
@@ -19,7 +21,7 @@
       .timeline {
         width: 100%;
         height: 1px;
-        border: 1px dashed #5c7080;
+        border: 1px dashed $dashes;
       }
     }
 
