@@ -1,6 +1,7 @@
 import React, { useState } from "react";
+import moment from "moment";
 import { DragDropContext, DropResult } from "react-beautiful-dnd";
-import { Item } from "../types/item";
+import { Item, PlayedItem } from "../types/item";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/game.module.scss";
@@ -9,7 +10,23 @@ interface State {
   loaded: boolean;
   deck: Item[];
   next: Item | null;
-  played: Item[];
+  played: PlayedItem[];
+}
+
+function checkCorrect(
+  played: PlayedItem[],
+  item: Item,
+  index: number
+): boolean {
+  if (index > 0 && item.year <= played[index - 1].year) {
+    return false;
+  }
+
+  if (index < played.length && item.year >= played[index].year) {
+    return false;
+  }
+
+  return true;
 }
 
 export default function Game() {
@@ -20,15 +37,40 @@ export default function Game() {
     played: [],
   });
 
+  function getRandomItem(deck: Item[], played: Item[]): Item {
+    let next: Item;
+
+    const playedYears = played.map((item): number => {
+      return item.year;
+    });
+
+    while (true) {
+      const index = Math.floor(Math.random() * deck.length);
+      next = deck[index];
+      const year = moment(next.date).year();
+
+      if (playedYears.includes(year)) {
+        continue;
+      }
+
+      deck.splice(index, 1);
+
+      return { ...next, year };
+    }
+  }
+
   React.useEffect(() => {
     const fetchData = async () => {
       const res = await fetch("/items.json");
       const items = (await res.text()).split("\n");
-      const deck = items.slice(0, 0 + 100).map((line) => {
+      const deck: Item[] = items.slice(0, 0 + 100).map((line) => {
         return JSON.parse(line);
       });
-      const next = deck.pop();
-      const played = [deck.pop()];
+      const next = getRandomItem(deck, []);
+      const played = [
+        { ...getRandomItem(deck, []), played: { correct: true } },
+      ];
+
       setState({ next, deck, played, loaded: true });
     };
 
@@ -39,15 +81,20 @@ export default function Game() {
     // debugger;
     const { source, destination } = result;
 
-    if (!destination) {
+    if (!destination || state.next === null) {
       return;
     }
 
     if (source.droppableId === "next" && destination.droppableId === "played") {
       const newDeck = [...state.deck];
       const newPlayed = [...state.played];
-      const newNext = newDeck.pop() || null;
-      newPlayed.splice(destination.index, 0, state.next as Item);
+      const newNext = getRandomItem(newDeck, newPlayed);
+
+      const correct = checkCorrect(newPlayed, state.next, destination.index);
+      newPlayed.splice(destination.index, 0, {
+        ...state.next,
+        played: { correct },
+      });
 
       setState({
         ...state,

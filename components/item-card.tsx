@@ -3,13 +3,13 @@ import moment from "moment";
 import classNames from "classnames";
 import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
-import { Item } from "../types/item";
+import { Item, PlayedItem } from "../types/item";
 import styles from "../styles/item-card.module.scss";
 
 interface Props {
   flippedId?: null | string;
   index: number;
-  item: Item;
+  item: Item | PlayedItem;
   played?: true;
   setFlippedId?: (flippedId: string | null) => void;
 }
@@ -117,7 +117,15 @@ export default function ItemCard(props: Props) {
             <div className={styles.bottom} style={{ backgroundImage: imgUrl }}>
               {played ? (
                 <animated.div style={fadeProps} className={styles.playedInfo}>
-                  <span className={styles.date}>{yearStr}</span>
+                  <span
+                    className={classNames(styles.date, {
+                      [styles.correct]: "played" in item && item.played.correct,
+                      [styles.incorrect]:
+                        "played" in item && !item.played.correct,
+                    })}
+                  >
+                    {yearStr}
+                  </span>
                 </animated.div>
               ) : (
                 <div className={styles.dateProp}>

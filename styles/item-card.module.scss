@@ -138,8 +138,15 @@
     margin-bottom: 5px;
     text-align: center;
     padding: 5px 10px;
-    background: $success;
     margin: 0 auto;
     border-radius: 5px 5px 0 0;
+
+    &.correct {
+      background: $correct;
+    }
+
+    &.incorrect {
+      background: $incorrect;
+    }
   }
 }
