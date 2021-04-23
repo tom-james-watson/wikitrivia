@@ -247,14 +247,14 @@ export default function Game() {
       });
       console.timeEnd("json parse");
       const next = getRandomItem(deck, []);
-      // const played = [
-      //   { ...getRandomItem(deck, []), played: { correct: true } },
-      // ];
-      const played: PlayedItem[] = [];
-      for (let x = 0; x < 10; x++) {
-        played.push({ ...getRandomItem(deck, []), played: { correct: true } });
-      }
-      played.sort((a, b) => a.year - b.year);
+      const played = [
+        { ...getRandomItem(deck, []), played: { correct: true } },
+      ];
+      // const played: PlayedItem[] = [];
+      // for (let x = 0; x < 10; x++) {
+      //   played.push({ ...getRandomItem(deck, []), played: { correct: true } });
+      // }
+      // played.sort((a, b) => a.year - b.year);
 
       setState((state) => {
         return { ...state, next, deck, played, loaded: true };
