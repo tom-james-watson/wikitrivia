@@ -12,6 +12,7 @@ import { Item, PlayedItem } from "../types/item";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/game.module.scss";
+import useWindowSize from "./useWindowSize";
 
 function noop() {}
 
@@ -37,15 +38,6 @@ function checkCorrect(
     return i.id === item.id;
   });
 
-  console.log({
-    played: [...played],
-    sorted,
-    item,
-    index,
-    correctIndex,
-    delta: correctIndex - index,
-  });
-
   if (index !== correctIndex) {
     return { correct: false, delta: correctIndex - index };
   }
@@ -59,21 +51,32 @@ function wait(ms: number) {
 
 function moveStepByStep(
   drag: FluidDragActions,
-  values: { x: number; y: number }[]
+  transformValues: number[],
+  scrollValues: number[]
 ) {
   requestAnimationFrame(() => {
-    const newPosition = values.shift();
+    const bottom = document.getElementById("bottom");
 
-    if (newPosition === undefined) {
+    if (bottom === null) {
+      throw new Error("Can't find #bottom");
+    }
+
+    const newPosition = transformValues.shift();
+    const newScroll = scrollValues.shift();
+
+    if (newPosition === undefined || newScroll === undefined) {
       drag.drop();
     } else {
-      drag.move(newPosition);
-      moveStepByStep(drag, values);
+      // console.log({ newPosition });
+      bottom.scrollLeft = newScroll;
+      // console.log(bottom.scrollLeft);
+      drag.move({ x: newPosition, y: 0 });
+      moveStepByStep(drag, transformValues, scrollValues);
     }
   });
 }
 
-function useAutoMoveSensor(state: State, api: SensorAPI) {
+async function useAutoMoveSensor(state: State, api: SensorAPI) {
   if (
     state.badlyPlaced === null ||
     state.badlyPlaced.index === null ||
@@ -91,23 +94,110 @@ function useAutoMoveSensor(state: State, api: SensorAPI) {
     return;
   }
 
-  const start = { x: 0, y: 0 };
-  const end = { x: 170 * state.badlyPlaced.delta, y: 0 };
+  const itemEl: HTMLElement | null = document.querySelector(
+    `[data-rbd-draggable-id='${state.played[state.badlyPlaced.index].id}']`
+  );
+  const destEl: HTMLElement | null = document.querySelector(
+    `[data-rbd-draggable-id='${
+      state.played[state.badlyPlaced.index + state.badlyPlaced.delta].id
+    }']`
+  );
+  const bottomEl: HTMLElement | null = document.getElementById("bottom");
 
-  const drag = preDrag.fluidLift(start);
+  if (itemEl === null || destEl === null || bottomEl === null) {
+    throw new Error("Can't find element");
+  }
 
-  const points = [];
+  // const bottomElLeft = bottomEl.scrollLeft;
+  // const bottomElRight = bottomEl.scrollLeft + bottomEl.clientWidth;
+  // const bottomElThirdWidth = bottomEl.clientWidth / 3;
+  const bottomElCentreLeft = bottomEl.scrollLeft + bottomEl.clientWidth / 3;
+  const bottomElCentreRight =
+    bottomEl.scrollLeft + (bottomEl.clientWidth / 3) * 2;
 
-  const numberOfPoints = 20 * Math.abs(state.badlyPlaced.delta);
+  let distance = 0;
 
-  for (let i = 0; i < numberOfPoints; i++) {
-    points.push({
-      x: tweenFunctions.easeOutCirc(i, start.x, end.x, numberOfPoints),
-      y: tweenFunctions.easeOutCirc(i, start.y, end.y, numberOfPoints),
+  if (
+    destEl.offsetLeft < bottomElCentreLeft ||
+    destEl.offsetLeft > bottomElCentreRight
+  ) {
+    // Destination is not in centre third of the screen.
+    // Calculate distance to cover
+
+    distance =
+      destEl.offsetLeft < bottomElCentreLeft
+        ? destEl.offsetLeft - bottomElCentreLeft
+        : destEl.offsetLeft - bottomElCentreRight;
+
+    console.log({
+      distance,
+      width: bottomEl.clientWidth,
+      current: bottomEl.scrollLeft,
+      future: bottomEl.scrollLeft + distance,
+    });
+
+    if (bottomEl.scrollLeft + distance < 0) {
+      distance = -bottomEl.scrollLeft;
+    } else if (
+      bottomEl.scrollLeft + distance >
+      bottomEl.scrollWidth - bottomEl.clientWidth
+    ) {
+      distance =
+        bottomEl.scrollWidth - bottomEl.clientWidth - bottomEl.scrollLeft;
+    }
+
+    console.log({
+      distance,
+      width: bottomEl.clientWidth,
+      current: bottomEl.scrollLeft,
+      future: bottomEl.scrollLeft + distance,
     });
   }
 
-  moveStepByStep(drag, points);
+  // const destOnScreen = destEl.offsetWidth;
+  // bottomEl.scrollLeft;
+  // bottomEl.clientWidth;
+
+  // console.log(itemEl.offsetLeft);
+
+  // console.log({ destEl });
+  // console.log(destEl.offsetLeft);
+
+  // destEl.scrollIntoView({ inline: "center", behavior: "smooth" });
+
+  // await wait(1000);
+
+  // console.log(itemEl.offsetLeft);
+  // console.log(destEl.offsetLeft);
+
+  const moveDistance = destEl.offsetLeft - itemEl.offsetLeft - distance;
+
+  const drag = preDrag.fluidLift({ x: 0, y: 0 });
+
+  const transformPoints = [];
+  const scrollPoints = [];
+
+  const numberOfPoints = 10 * Math.abs(state.badlyPlaced.delta);
+
+  console.log({
+    moveDistance,
+  });
+
+  for (let i = 0; i < numberOfPoints; i++) {
+    transformPoints.push(
+      tweenFunctions.easeOutCirc(i, 0, moveDistance, numberOfPoints)
+    );
+    scrollPoints.push(
+      tweenFunctions.easeOutCirc(
+        i,
+        bottomEl.scrollLeft,
+        bottomEl.scrollLeft + distance,
+        numberOfPoints
+      )
+    );
+  }
+
+  moveStepByStep(drag, transformPoints, scrollPoints);
 }
 
 export default function Game() {
@@ -118,6 +208,7 @@ export default function Game() {
     next: null,
     played: [],
   });
+  const size = useWindowSize();
 
   function getRandomItem(deck: Item[], played: Item[]): Item {
     let next: Item;
@@ -156,9 +247,14 @@ export default function Game() {
       });
       console.timeEnd("json parse");
       const next = getRandomItem(deck, []);
-      const played = [
-        { ...getRandomItem(deck, []), played: { correct: true } },
-      ];
+      // const played = [
+      //   { ...getRandomItem(deck, []), played: { correct: true } },
+      // ];
+      const played: PlayedItem[] = [];
+      for (let x = 0; x < 10; x++) {
+        played.push({ ...getRandomItem(deck, []), played: { correct: true } });
+      }
+      played.sort((a, b) => a.year - b.year);
 
       setState((state) => {
         return { ...state, next, deck, played, loaded: true };
@@ -254,7 +350,7 @@ export default function Game() {
             <div className={styles.top}>
               <NextItemList next={state.next} />
             </div>
-            <div className={styles.bottom}>
+            <div id="bottom" className={styles.bottom}>
               <PlayedItemList
                 badlyPlacedIndex={
                   state.badlyPlaced === null ? null : state.badlyPlaced.index
