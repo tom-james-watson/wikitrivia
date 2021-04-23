@@ -30,7 +30,7 @@ export default function PlayedItemList(props: PlayedItemListProps) {
               <div className={styles.items}>
                 {items.map((item, index) => (
                   <ItemCard
-                    draggable={badlyPlacedIndex !== index}
+                    draggable={badlyPlacedIndex !== null}
                     flippedId={flippedId}
                     index={index}
                     item={item}

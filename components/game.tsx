@@ -12,12 +12,15 @@ import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/game.module.scss";
 
+function noop() {}
+
 interface State {
-  loaded: boolean;
+  badlyPlacedIndex: number | null;
+  badlyPlacedRendered: boolean;
   deck: Item[];
+  loaded: boolean;
   next: Item | null;
   played: PlayedItem[];
-  badlyPlacedIndex: number | null;
 }
 
 function checkCorrect(
@@ -40,89 +43,46 @@ function wait(ms: number) {
   return new Promise((res) => setTimeout(res, ms));
 }
 
-export interface UseRbdCommandsProps {
-  // isDragging: boolean;
-  moveDurationMs?: number;
+function useAutoMoveSensor(state: State, api: SensorAPI) {
+  console.log({ api, state });
+  console.log("autoMoveSensor", state.badlyPlacedIndex);
+
+  if (state.badlyPlacedIndex === null || state.badlyPlacedRendered === false) {
+    console.log("abandon");
+    return;
+  }
+
+  console.log("move id", state.played[state.badlyPlacedIndex].id);
+
+  const preDrag = api.tryGetLock?.(
+    state.played[state.badlyPlacedIndex].id,
+    noop
+  );
+  console.log("move 1");
+
+  if (!preDrag) {
+    console.log("cant find or lock");
+    return;
+  }
+  console.log("move 2");
+
+  const drag = preDrag.snapLift();
+
+  // drag.move({ x: 170 * delta, y: 0 });
+  drag.moveRight();
+  console.log("move 3");
+  // await wait(moveDurationMs);
+  drag.drop();
 }
-
-export const useRbdCommands = ({
-  // isDragging,
-  moveDurationMs = 200,
-}: UseRbdCommandsProps): {
-  useSensor: (api: SensorAPI) => void;
-  move: (id: string, delta: number) => Promise<void>;
-} => {
-  const sensorApiRef = React.useRef<SensorAPI | null>(null);
-
-  const useSensor = React.useCallback(
-    (api: SensorAPI) => {
-      console.log("set sensorApi");
-      sensorApiRef.current = api;
-    },
-    [sensorApiRef]
-  );
-
-  const lift = React.useCallback(
-    // (id: string): FluidDragActions | null => {
-    (id: string): SnapDragActions | null => {
-      // if (isDragging) {
-      //   return null;
-      // }
-
-      console.log("lift", { id });
-
-      const preDrag = sensorApiRef.current?.tryGetLock?.(id);
-
-      if (!preDrag) {
-        console.log("cant find or lock");
-        return null;
-      }
-
-      //return preDrag.fluidLift({ x: 0, y: 0 });
-      return preDrag.snapLift();
-    },
-    [sensorApiRef]
-  );
-
-  const move = React.useCallback(
-    async (id: string, delta: number) => {
-      const drag = lift(id);
-
-      console.log("move 1");
-
-      if (!drag) {
-        return;
-      }
-      console.log("move 2");
-
-      // drag.move({ x: 170 * delta, y: 0 });
-      drag.moveRight();
-      console.log("move 3");
-      await wait(moveDurationMs);
-      console.log("move 4");
-      drag.drop();
-      console.log("move 5");
-    },
-    [lift, moveDurationMs]
-  );
-
-  return {
-    useSensor,
-    move,
-  };
-};
 
 export default function Game() {
   const [state, setState] = useState<State>({
+    badlyPlacedIndex: null,
+    badlyPlacedRendered: false,
+    deck: [],
     loaded: false,
     next: null,
-    deck: [],
     played: [],
-    badlyPlacedIndex: null,
-  });
-
-  const { useSensor, move } = useRbdCommands({
-    // isDragging
   });
 
   function getRandomItem(deck: Item[], played: Item[]): Item {
@@ -212,47 +172,34 @@ export default function Game() {
         next: newNext,
         played: newPlayed,
         badlyPlacedIndex: correct ? null : destination.index,
+        badlyPlacedRendered: false,
       });
     } else if (
       source.droppableId === "played" &&
       destination.droppableId === "played"
     ) {
-      console.log("played to played");
+      console.log("played to played", ...state.played);
+      console.log(`${source.index} to ${destination.index}`);
+
       const newPlayed = [...state.played];
-      newPlayed.splice(
-        destination.index,
-        0,
-        ...newPlayed.splice(source.index, 1)
-      );
+      const [item] = newPlayed.splice(source.index, 1);
+      newPlayed.splice(destination.index, 0, item);
+      console.log("played to played end", newPlayed);
 
       setState({
         ...state,
         played: newPlayed,
         badlyPlacedIndex: null,
+        badlyPlacedRendered: false,
       });
     }
   }
 
-  React.useEffect(() => {
-    console.log("move changed");
-  }, [move]);
-
   React.useLayoutEffect(() => {
-    (async () => {
-      console.log("layout effect");
-      if (state.badlyPlacedIndex === null) {
-        return;
-      }
-
-      // console.log("wait");
-      // await wait(3000);
-      console.log("do move", { badlyPlacedIndex: state.badlyPlacedIndex });
-
-      await move(state.played[state.badlyPlacedIndex].id, 1);
-
-      // setState({ ...state, badlyPlacedIndex: null });
-    })();
-  }, [move, state]);
+    if (state.badlyPlacedIndex !== null && !state.badlyPlacedRendered) {
+      setState({ ...state, badlyPlacedRendered: true });
+    }
+  }, [state]);
 
   console.log(state);
 
@@ -266,7 +213,7 @@ export default function Game() {
               // debugger;
             }, 1000);
           }}
-          sensors={[useSensor]}
+          sensors={[useAutoMoveSensor.bind(null, state)]}
         >
           <div className={styles.wrapper}>
             <div className={styles.top}>
