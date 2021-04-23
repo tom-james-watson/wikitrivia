@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import * as tweenFunctions from "tween-functions";
 import moment from "moment";
 import {
   DragDropContext,
@@ -15,8 +16,11 @@ import styles from "../styles/game.module.scss";
 function noop() {}
 
 interface State {
-  badlyPlacedIndex: number | null;
-  badlyPlacedRendered: boolean;
+  badlyPlaced: {
+    index: number;
+    rendered: boolean;
+    delta: number;
+  } | null;
   deck: Item[];
   loaded: boolean;
   next: Item | null;
@@ -27,58 +31,89 @@ function checkCorrect(
   played: PlayedItem[],
   item: Item,
   index: number
-): boolean {
-  if (index > 0 && item.year <= played[index - 1].year) {
-    return false;
+): { correct: boolean; delta: number } {
+  const sorted = [...played, item].sort((a, b) => a.year - b.year);
+  const correctIndex = sorted.findIndex((i) => {
+    return i.id === item.id;
+  });
+
+  console.log({
+    played: [...played],
+    sorted,
+    item,
+    index,
+    correctIndex,
+    delta: correctIndex - index,
+  });
+
+  if (index !== correctIndex) {
+    return { correct: false, delta: correctIndex - index };
   }
 
-  if (index < played.length && item.year >= played[index].year) {
-    return false;
-  }
-
-  return true;
+  return { correct: true, delta: 0 };
 }
 
 function wait(ms: number) {
   return new Promise((res) => setTimeout(res, ms));
 }
 
-function useAutoMoveSensor(state: State, api: SensorAPI) {
-  console.log({ api, state });
-  console.log("autoMoveSensor", state.badlyPlacedIndex);
+function moveStepByStep(
+  drag: FluidDragActions,
+  values: { x: number; y: number }[]
+) {
+  requestAnimationFrame(() => {
+    const newPosition = values.shift();
 
-  if (state.badlyPlacedIndex === null || state.badlyPlacedRendered === false) {
-    console.log("abandon");
+    if (newPosition === undefined) {
+      drag.drop();
+    } else {
+      drag.move(newPosition);
+      moveStepByStep(drag, values);
+    }
+  });
+}
+
+function useAutoMoveSensor(state: State, api: SensorAPI) {
+  if (
+    state.badlyPlaced === null ||
+    state.badlyPlaced.index === null ||
+    state.badlyPlaced.rendered === false
+  ) {
     return;
   }
-
-  console.log("move id", state.played[state.badlyPlacedIndex].id);
 
   const preDrag = api.tryGetLock?.(
-    state.played[state.badlyPlacedIndex].id,
+    state.played[state.badlyPlaced.index].id,
     noop
   );
-  console.log("move 1");
 
   if (!preDrag) {
-    console.log("cant find or lock");
     return;
   }
-  console.log("move 2");
 
-  const drag = preDrag.snapLift();
+  const start = { x: 0, y: 0 };
+  const end = { x: 170 * state.badlyPlaced.delta, y: 0 };
 
-  // drag.move({ x: 170 * delta, y: 0 });
-  drag.moveRight();
-  console.log("move 3");
-  // await wait(moveDurationMs);
-  drag.drop();
+  const drag = preDrag.fluidLift(start);
+
+  const points = [];
+
+  // we want to generate 20 points between the start and the end
+  const numberOfPoints = 20;
+
+  for (let i = 0; i < numberOfPoints; i++) {
+    points.push({
+      x: tweenFunctions.easeOutCirc(i, start.x, end.x, numberOfPoints),
+      y: tweenFunctions.easeOutCirc(i, start.y, end.y, numberOfPoints),
+    });
+  }
+
+  moveStepByStep(drag, points);
 }
 
 export default function Game() {
   const [state, setState] = useState<State>({
-    badlyPlacedIndex: null,
-    badlyPlacedRendered: false,
+    badlyPlaced: null,
     deck: [],
     loaded: false,
     next: null,
@@ -135,9 +170,7 @@ export default function Game() {
   }, []);
 
   async function onDragEnd(result: DropResult) {
-    // debugger;
     const { source, destination } = result;
-    console.log("onDragEnd", { source, destination });
 
     if (
       !destination ||
@@ -154,54 +187,57 @@ export default function Game() {
       const newPlayed = [...state.played];
       const newNext = getRandomItem(newDeck, newPlayed);
 
-      const correct = checkCorrect(newPlayed, item, destination.index);
+      const { correct, delta } = checkCorrect(
+        newPlayed,
+        item,
+        destination.index
+      );
       newPlayed.splice(destination.index, 0, {
         ...state.next,
         played: { correct },
       });
-
-      // setTimeout(async () => {
-      //   await move(item.id, 1);
-      // }, 2000);
-
-      console.log("next to played");
 
       setState({
         ...state,
         deck: newDeck,
         next: newNext,
         played: newPlayed,
-        badlyPlacedIndex: correct ? null : destination.index,
-        badlyPlacedRendered: false,
+        badlyPlaced: correct
+          ? null
+          : {
+              index: destination.index,
+              rendered: false,
+              delta,
+            },
       });
     } else if (
       source.droppableId === "played" &&
       destination.droppableId === "played"
     ) {
-      console.log("played to played", ...state.played);
-      console.log(`${source.index} to ${destination.index}`);
-
       const newPlayed = [...state.played];
       const [item] = newPlayed.splice(source.index, 1);
       newPlayed.splice(destination.index, 0, item);
-      console.log("played to played end", newPlayed);
 
       setState({
         ...state,
         played: newPlayed,
-        badlyPlacedIndex: null,
-        badlyPlacedRendered: false,
+        badlyPlaced: null,
       });
     }
   }
 
   React.useLayoutEffect(() => {
-    if (state.badlyPlacedIndex !== null && !state.badlyPlacedRendered) {
-      setState({ ...state, badlyPlacedRendered: true });
+    if (
+      state.badlyPlaced &&
+      state.badlyPlaced.index !== null &&
+      !state.badlyPlaced.rendered
+    ) {
+      setState({
+        ...state,
+        badlyPlaced: { ...state.badlyPlaced, rendered: true },
+      });
     }
   }, [state]);
-
-  console.log(state);
 
   return (
     <>
@@ -221,7 +257,9 @@ export default function Game() {
             </div>
             <div className={styles.bottom}>
               <PlayedItemList
-                badlyPlacedIndex={state.badlyPlacedIndex}
+                badlyPlacedIndex={
+                  state.badlyPlaced === null ? null : state.badlyPlaced.index
+                }
                 items={state.played}
               />
             </div>
