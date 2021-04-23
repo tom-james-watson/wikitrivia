@@ -98,8 +98,7 @@ function useAutoMoveSensor(state: State, api: SensorAPI) {
 
   const points = [];
 
-  // we want to generate 20 points between the start and the end
-  const numberOfPoints = 20;
+  const numberOfPoints = 20 * Math.abs(state.badlyPlaced.delta);
 
   for (let i = 0; i < numberOfPoints; i++) {
     points.push({
