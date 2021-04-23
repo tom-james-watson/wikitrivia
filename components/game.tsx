@@ -6,15 +6,15 @@ import {
   DropResult,
   FluidDragActions,
   SensorAPI,
-  SnapDragActions,
 } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/game.module.scss";
-import useWindowSize from "./useWindowSize";
 
-function noop() {}
+function noop() {
+  // noop
+}
 
 interface State {
   badlyPlaced: {
@@ -43,10 +43,6 @@ function checkCorrect(
   }
 
   return { correct: true, delta: 0 };
-}
-
-function wait(ms: number) {
-  return new Promise((res) => setTimeout(res, ms));
 }
 
 function moveStepByStep(
@@ -208,8 +204,6 @@ export default function Game() {
     next: null,
     played: [],
   });
-  const size = useWindowSize();
-
   function getRandomItem(deck: Item[], played: Item[]): Item {
     let next: Item;
 
