@@ -5,11 +5,12 @@ import ItemCard from "./item-card";
 import styles from "../styles/played-item-list.module.scss";
 
 interface PlayedItemListProps {
+  badlyPlacedIndex: number | null;
   items: Item[];
 }
 
 export default function PlayedItemList(props: PlayedItemListProps) {
-  const { items } = props;
+  const { badlyPlacedIndex, items } = props;
 
   const [flippedId, setFlippedId] = React.useState<null | string>(null);
 
@@ -29,11 +30,12 @@ export default function PlayedItemList(props: PlayedItemListProps) {
               <div className={styles.items}>
                 {items.map((item, index) => (
                   <ItemCard
-                    item={item}
+                    draggable={badlyPlacedIndex !== index}
+                    flippedId={flippedId}
                     index={index}
+                    item={item}
                     key={item.id}
                     played
-                    flippedId={flippedId}
                     setFlippedId={setFlippedId}
                   />
                 ))}

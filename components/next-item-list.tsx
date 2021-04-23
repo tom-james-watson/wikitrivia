@@ -20,7 +20,9 @@ export default function NextItemList(props: NextItemListProps) {
               {...provided.droppableProps}
               className={styles.list}
             >
-              {next && <ItemCard item={next} index={0} key={next.id} />}
+              {next && (
+                <ItemCard draggable index={0} item={next} key={next.id} />
+              )}
               {provided.placeholder}
             </div>
           </div>

@@ -7,6 +7,7 @@ import { Item, PlayedItem } from "../types/item";
 import styles from "../styles/item-card.module.scss";
 
 interface Props {
+  draggable?: boolean;
   flippedId?: null | string;
   index: number;
   item: Item | PlayedItem;
@@ -33,31 +34,31 @@ const datePropIdMap: { [datePropId: string]: string } = {
   P7124: "first one",
 };
 
-const datePropIdMap2: { [datePropId: string]: string } = {
-  P575: "Discovery or invention of",
-  P7589: "Assent of ",
-  P577: "Publication of",
-  P1191: "First performance of",
-  P1619: "Official opening of",
-  P571: "Creation of",
-  P1249: "Earliest written record of",
-  P576: "Abolishing or demolishing of",
-  P8556: "Extinction of",
-  P6949: "Announcement of",
-  P1319: "Earliest record of",
-  P570: "Death of",
-  P582: "End of",
-  P580: "Start of",
-  P7125: "Date of latest",
-  P7124: "Date of first",
-};
+// const datePropIdMap2: { [datePropId: string]: string } = {
+//   P575: "Discovery or invention of",
+//   P7589: "Assent of ",
+//   P577: "Publication of",
+//   P1191: "First performance of",
+//   P1619: "Official opening of",
+//   P571: "Creation of",
+//   P1249: "Earliest written record of",
+//   P576: "Abolishing or demolishing of",
+//   P8556: "Extinction of",
+//   P6949: "Announcement of",
+//   P1319: "Earliest record of",
+//   P570: "Death of",
+//   P582: "End of",
+//   P580: "Start of",
+//   P7125: "Date of latest",
+//   P7124: "Date of first",
+// };
 
 function capitalize(str: string): string {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
 export default function ItemCard(props: Props) {
-  const { flippedId, index, item, played, setFlippedId } = props;
+  const { draggable, flippedId, index, item, played, setFlippedId } = props;
 
   const flipped = item.id === flippedId;
 
@@ -82,7 +83,7 @@ export default function ItemCard(props: Props) {
   const yearStr = year < -10000 ? year.toLocaleString() : year.toString();
 
   return (
-    <Draggable draggableId={item.id} index={index} isDragDisabled={played}>
+    <Draggable draggableId={item.id} index={index} isDragDisabled={!draggable}>
       {(provided) => (
         <div
           className={classNames(styles.itemCard, {
