@@ -16,6 +16,10 @@ function noop() {
   // noop
 }
 
+function timeout(ms: number) {
+  return new Promise((res) => setTimeout(res, ms));
+}
+
 interface State {
   badlyPlaced: {
     index: number;
@@ -90,6 +94,8 @@ async function useAutoMoveSensor(state: State, api: SensorAPI) {
     return;
   }
 
+  // await timeout(500);
+
   const itemEl: HTMLElement | null = document.querySelector(
     `[data-rbd-draggable-id='${state.played[state.badlyPlaced.index].id}']`
   );
@@ -107,9 +113,9 @@ async function useAutoMoveSensor(state: State, api: SensorAPI) {
   // const bottomElLeft = bottomEl.scrollLeft;
   // const bottomElRight = bottomEl.scrollLeft + bottomEl.clientWidth;
   // const bottomElThirdWidth = bottomEl.clientWidth / 3;
-  const bottomElCentreLeft = bottomEl.scrollLeft + bottomEl.clientWidth / 3;
+  const bottomElCentreLeft = bottomEl.scrollLeft + bottomEl.clientWidth / 4;
   const bottomElCentreRight =
-    bottomEl.scrollLeft + (bottomEl.clientWidth / 3) * 2;
+    bottomEl.scrollLeft + (bottomEl.clientWidth / 4) * 3 - itemEl.clientWidth;
 
   let distance = 0;
 
