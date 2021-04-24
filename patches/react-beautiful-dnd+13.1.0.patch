@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
+index 351b787..220cb0f 100644
+--- a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
++++ b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
+@@ -6045,7 +6045,7 @@ function useKeyboardSensor(api) {
+ var idle$2 = {
+   type: 'IDLE'
+ };
+-var timeForLongPress = 120;
++var timeForLongPress = 0;
+ var forcePressThreshold = 0.15;
+ 
+ function getWindowBindings(_ref) {
