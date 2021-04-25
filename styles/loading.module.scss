@@ -1,0 +1,14 @@
+@import "./variables.scss";
+
+.loading {
+  display: flex;
+  height: calc(100% - 100px);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  h1 {
+    color: $text-light;
+    margin-bottom: 20px;
+  }
+}
