@@ -7,6 +7,7 @@ import {
   SensorAPI,
 } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
+import { createWikimediaImage } from "../lib/image";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/game.module.scss";
@@ -18,9 +19,19 @@ interface State {
     delta: number;
   } | null;
   deck: Item[];
+  // If we don't keep a reference to the preloaded images they can end up being
+  // garbage collected.
+  imageCache: HTMLImageElement[];
   loaded: boolean;
   next: Item | null;
+  nextButOne: Item | null;
   played: PlayedItem[];
+}
+
+function preloadImage(url: string): HTMLImageElement {
+  const img = new Image();
+  img.src = createWikimediaImage(url);
+  return img;
 }
 
 function checkCorrect(
@@ -156,15 +167,16 @@ export default function Game() {
   const [state, setState] = useState<State>({
     badlyPlaced: null,
     deck: [],
+    imageCache: [],
     loaded: false,
     next: null,
+    nextButOne: null,
     played: [],
   });
   function getRandomItem(deck: Item[], played: Item[]): Item {
     const playedYears = played.map((item): number => {
       return item.year;
     });
-    console.log({ playedYears });
     let item: Item | undefined = undefined;
     let iterations = 0;
 
@@ -215,12 +227,25 @@ export default function Game() {
       });
       console.timeEnd("json parse");
       const next = getRandomItem(deck, []);
+      const nextButOne = getRandomItem(deck, []);
+      const imageCache = [
+        preloadImage(next.image),
+        preloadImage(nextButOne.image),
+      ];
       const played = [
         { ...getRandomItem(deck, []), played: { correct: true } },
       ];
 
       setState((state) => {
-        return { ...state, next, deck, played, loaded: true };
+        return {
+          ...state,
+          deck,
+          imageCache,
+          loaded: true,
+          next,
+          nextButOne,
+          played,
+        };
       });
     };
 
@@ -243,7 +268,9 @@ export default function Game() {
     if (source.droppableId === "next" && destination.droppableId === "played") {
       const newDeck = [...state.deck];
       const newPlayed = [...state.played];
-      const newNext = getRandomItem(newDeck, newPlayed);
+      const newNext = state.nextButOne;
+      const newNextButOne = getRandomItem(newDeck, newPlayed);
+      const newImageCache = [preloadImage(newNextButOne.image)];
 
       const { correct, delta } = checkCorrect(
         newPlayed,
@@ -258,7 +285,9 @@ export default function Game() {
       setState({
         ...state,
         deck: newDeck,
+        imageCache: newImageCache,
         next: newNext,
+        nextButOne: newNextButOne,
         played: newPlayed,
         badlyPlaced: correct
           ? null
