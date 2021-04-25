@@ -6,16 +6,27 @@ import { checkCorrect, getRandomItem, preloadImage } from "../lib/items";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/board.module.scss";
+import Hearts from "./hearts";
+import GameOver from "./game-over";
 
 interface Props {
+  resetGame: () => void;
   state: GameState;
   setState: (state: GameState) => void;
 }
 
 export default function Board(props: Props) {
-  const { state, setState } = props;
+  const { resetGame, state, setState } = props;
+
+  const [isDragging, setIsDragging] = React.useState(false);
+
+  async function onDragStart() {
+    setIsDragging(true);
+  }
 
   async function onDragEnd(result: DropResult) {
+    setIsDragging(false);
+
     const { source, destination } = result;
 
     if (
@@ -52,6 +63,7 @@ export default function Board(props: Props) {
         next: newNext,
         nextButOne: newNextButOne,
         played: newPlayed,
+        lives: correct ? state.lives : state.lives - 1,
         badlyPlaced: correct
           ? null
           : {
@@ -93,9 +105,14 @@ export default function Board(props: Props) {
 
   console.log(state);
 
+  const score = React.useMemo(() => {
+    return state.played.filter((item) => item.played.correct).length - 1;
+  }, [state.played]);
+
   return (
     <DragDropContext
       onDragEnd={onDragEnd}
+      onDragStart={onDragStart}
       onDragUpdate={() => {
         setTimeout(() => {
           // debugger;
@@ -105,13 +122,19 @@ export default function Board(props: Props) {
     >
       <div className={styles.wrapper}>
         <div className={styles.top}>
-          <NextItemList next={state.next} />
+          <Hearts lives={state.lives} />
+          {state.lives > 0 ? (
+            <NextItemList next={state.next} />
+          ) : (
+            <GameOver resetGame={resetGame} score={score} />
+          )}
         </div>
         <div id="bottom" className={styles.bottom}>
           <PlayedItemList
             badlyPlacedIndex={
               state.badlyPlaced === null ? null : state.badlyPlaced.index
             }
+            isDragging={isDragging}
             items={state.played}
           />
         </div>

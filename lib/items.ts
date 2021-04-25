@@ -10,10 +10,10 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
 
   const periods: [number, number][] = [
     [-100000, 1000],
-    [1000, 1800],
-    [1800, 1920],
-    [1920, 1960],
-    [1960, 2020],
+    [800, 1600],
+    [1600, 1870],
+    [1870, 1930],
+    [1930, 2020],
   ];
   const [fromYear, toYear] = periods[
     Math.floor(Math.random() * periods.length)

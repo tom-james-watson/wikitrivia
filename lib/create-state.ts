@@ -12,6 +12,7 @@ export default async function createState(deck: Item[]): Promise<GameState> {
     badlyPlaced: null,
     deck,
     imageCache,
+    lives: 3,
     next,
     nextButOne,
     played,

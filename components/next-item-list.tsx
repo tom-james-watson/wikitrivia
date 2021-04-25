@@ -1,3 +1,4 @@
+import React from "react";
 import { Droppable } from "react-beautiful-dnd";
 import { Item } from "../types/item";
 import ItemCard from "./item-card";

@@ -6,13 +6,20 @@ import styles from "../styles/played-item-list.module.scss";
 
 interface PlayedItemListProps {
   badlyPlacedIndex: number | null;
+  isDragging: boolean;
   items: Item[];
 }
 
 export default function PlayedItemList(props: PlayedItemListProps) {
-  const { badlyPlacedIndex, items } = props;
+  const { badlyPlacedIndex, isDragging, items } = props;
 
   const [flippedId, setFlippedId] = React.useState<null | string>(null);
+
+  React.useEffect(() => {
+    if (isDragging && flippedId !== null) {
+      setFlippedId(null);
+    }
+  }, [flippedId, isDragging]);
 
   return (
     <div className={styles.wrapper}>
