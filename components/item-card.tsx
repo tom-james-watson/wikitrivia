@@ -101,6 +101,12 @@ export default function ItemCard(props: Props) {
                 backgroundImage: `url('${createWikimediaImage(item.image)}')`,
               }}
             >
+              <div
+                className={styles.image}
+                style={{
+                  backgroundImage: `url('${createWikimediaImage(item.image)}')`,
+                }}
+              ></div>
               {played ? (
                 <animated.div style={fadeProps} className={styles.playedInfo}>
                   <span

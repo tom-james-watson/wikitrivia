@@ -56,13 +56,29 @@
       flex-grow: 1;
       min-height: 0;
       border-radius: 0 0 5px 5px;
-      background-color: $background-alt;
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size: contain;
       background-position: center;
       padding: 10px;
       padding-bottom: 0;
       color: $text-light;
+      position: relative;
+      overflow: hidden;
+
+      .image {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: $background-alt;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        z-index: -1;
+        transform: scale(1.5);
+        filter: blur(20px);
+      }
 
       .playedInfo {
         display: flex;
