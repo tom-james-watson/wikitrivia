@@ -1,15 +1,15 @@
 export interface Item {
-  id: string;
-  label: string;
-  description: string;
-  image?: string;
-  date: string;
-  year: number;
   date_prop_id: string;
-  wikipedia: string;
+  description: string;
+  id: string;
+  image: string;
+  instance_of: string[];
+  label: string;
   num_sitelinks: number;
+  occupations: string[] | null;
   page_views: number;
-  types: string[];
+  wikipedia_title: string;
+  year: number;
 }
 
 export type PlayedItem = Item & {

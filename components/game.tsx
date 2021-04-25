@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import * as tweenFunctions from "tween-functions";
-import moment from "moment";
 import {
   DragDropContext,
   DropResult,
@@ -11,14 +10,6 @@ import { Item, PlayedItem } from "../types/item";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/game.module.scss";
-
-function noop() {
-  // noop
-}
-
-function timeout(ms: number) {
-  return new Promise((res) => setTimeout(res, ms));
-}
 
 interface State {
   badlyPlaced: {
@@ -67,9 +58,7 @@ function moveStepByStep(
     if (newPosition === undefined || newScroll === undefined) {
       drag.drop();
     } else {
-      // console.log({ newPosition });
       bottom.scrollLeft = newScroll;
-      // console.log(bottom.scrollLeft);
       drag.move({ x: newPosition, y: 0 });
       moveStepByStep(drag, transformValues, scrollValues);
     }
@@ -85,16 +74,11 @@ async function useAutoMoveSensor(state: State, api: SensorAPI) {
     return;
   }
 
-  const preDrag = api.tryGetLock?.(
-    state.played[state.badlyPlaced.index].id,
-    noop
-  );
+  const preDrag = api.tryGetLock?.(state.played[state.badlyPlaced.index].id);
 
   if (!preDrag) {
     return;
   }
-
-  // await timeout(500);
 
   const itemEl: HTMLElement | null = document.querySelector(
     `[data-rbd-draggable-id='${state.played[state.badlyPlaced.index].id}']`
@@ -110,90 +94,56 @@ async function useAutoMoveSensor(state: State, api: SensorAPI) {
     throw new Error("Can't find element");
   }
 
-  // const bottomElLeft = bottomEl.scrollLeft;
-  // const bottomElRight = bottomEl.scrollLeft + bottomEl.clientWidth;
-  // const bottomElThirdWidth = bottomEl.clientWidth / 3;
   const bottomElCentreLeft = bottomEl.scrollLeft + bottomEl.clientWidth / 4;
   const bottomElCentreRight =
     bottomEl.scrollLeft + (bottomEl.clientWidth / 4) * 3 - itemEl.clientWidth;
 
-  let distance = 0;
+  let scrollDistance = 0;
 
   if (
     destEl.offsetLeft < bottomElCentreLeft ||
     destEl.offsetLeft > bottomElCentreRight
   ) {
-    // Destination is not in centre third of the screen.
-    // Calculate distance to cover
-
-    distance =
+    // Destination is not in middle two quarters of the screen. Calculate
+    // distance we therefore need to scroll.
+    scrollDistance =
       destEl.offsetLeft < bottomElCentreLeft
         ? destEl.offsetLeft - bottomElCentreLeft
         : destEl.offsetLeft - bottomElCentreRight;
 
-    console.log({
-      distance,
-      width: bottomEl.clientWidth,
-      current: bottomEl.scrollLeft,
-      future: bottomEl.scrollLeft + distance,
-    });
-
-    if (bottomEl.scrollLeft + distance < 0) {
-      distance = -bottomEl.scrollLeft;
+    if (bottomEl.scrollLeft + scrollDistance < 0) {
+      scrollDistance = -bottomEl.scrollLeft;
     } else if (
-      bottomEl.scrollLeft + distance >
+      bottomEl.scrollLeft + scrollDistance >
       bottomEl.scrollWidth - bottomEl.clientWidth
     ) {
-      distance =
+      scrollDistance =
         bottomEl.scrollWidth - bottomEl.clientWidth - bottomEl.scrollLeft;
     }
-
-    console.log({
-      distance,
-      width: bottomEl.clientWidth,
-      current: bottomEl.scrollLeft,
-      future: bottomEl.scrollLeft + distance,
-    });
   }
 
-  // const destOnScreen = destEl.offsetWidth;
-  // bottomEl.scrollLeft;
-  // bottomEl.clientWidth;
-
-  // console.log(itemEl.offsetLeft);
-
-  // console.log({ destEl });
-  // console.log(destEl.offsetLeft);
-
-  // destEl.scrollIntoView({ inline: "center", behavior: "smooth" });
-
-  // await wait(1000);
-
-  // console.log(itemEl.offsetLeft);
-  // console.log(destEl.offsetLeft);
-
-  const moveDistance = destEl.offsetLeft - itemEl.offsetLeft - distance;
+  // Calculate the distance we need to move the item after taking into account
+  // how far we are scrolling.
+  const transformDistance =
+    destEl.offsetLeft - itemEl.offsetLeft - scrollDistance;
 
   const drag = preDrag.fluidLift({ x: 0, y: 0 });
 
+  // Create a series of eased transformations and scrolls to animate from the
+  // current state to the desired state.
   const transformPoints = [];
   const scrollPoints = [];
-
-  const numberOfPoints = 10 * Math.abs(state.badlyPlaced.delta);
-
-  console.log({
-    moveDistance,
-  });
+  const numberOfPoints = 30 + 5 * Math.abs(state.badlyPlaced.delta);
 
   for (let i = 0; i < numberOfPoints; i++) {
     transformPoints.push(
-      tweenFunctions.easeOutCirc(i, 0, moveDistance, numberOfPoints)
+      tweenFunctions.easeOutCirc(i, 0, transformDistance, numberOfPoints)
     );
     scrollPoints.push(
       tweenFunctions.easeOutCirc(
         i,
         bottomEl.scrollLeft,
-        bottomEl.scrollLeft + distance,
+        bottomEl.scrollLeft + scrollDistance,
         numberOfPoints
       )
     );
@@ -211,26 +161,44 @@ export default function Game() {
     played: [],
   });
   function getRandomItem(deck: Item[], played: Item[]): Item {
-    let next: Item;
-
     const playedYears = played.map((item): number => {
       return item.year;
     });
-
+    console.log({ playedYears });
     let item: Item | undefined = undefined;
+    let iterations = 0;
+
+    const periods: [number, number][] = [
+      [-100000, 1000],
+      [1000, 1800],
+      [1800, 1920],
+      [1920, 1960],
+      [1960, 2020],
+    ];
+    const [fromYear, toYear] = periods[
+      Math.floor(Math.random() * periods.length)
+    ];
 
     while (item === undefined) {
-      const index = Math.floor(Math.random() * deck.length);
-      next = deck[index];
-      const year = moment(next.date).year();
+      iterations += 1;
 
-      if (playedYears.includes(year)) {
+      if (iterations > 1000) {
+        throw new Error(`Couldn't find item after ${iterations} iterations`);
+      }
+
+      const index = Math.floor(Math.random() * deck.length);
+      const candidate = deck[index];
+
+      if (candidate.year < fromYear || candidate.year > toYear) {
+        continue;
+      }
+
+      if (playedYears.includes(candidate.year)) {
         continue;
       }
 
       deck.splice(index, 1);
-
-      item = { ...next, year };
+      item = { ...candidate };
     }
 
     return item;
@@ -250,11 +218,6 @@ export default function Game() {
       const played = [
         { ...getRandomItem(deck, []), played: { correct: true } },
       ];
-      // const played: PlayedItem[] = [];
-      // for (let x = 0; x < 10; x++) {
-      //   played.push({ ...getRandomItem(deck, []), played: { correct: true } });
-      // }
-      // played.sort((a, b) => a.year - b.year);
 
       setState((state) => {
         return { ...state, next, deck, played, loaded: true };
@@ -333,6 +296,8 @@ export default function Game() {
       });
     }
   }, [state]);
+
+  console.log(state);
 
   return (
     <>

@@ -34,10 +34,6 @@
     }
   }
 
-  .back {
-    z-index: -1;
-  }
-
   &.flipped {
     .front {
       z-index: -1;
@@ -48,69 +44,64 @@
     }
   }
 
-  .top {
-    padding: 10px;
-  }
-
-  .bottom {
-    // position: absolute;
-    // top: 0;
-    // right: 0;
-    // bottom: 0;
-    // left: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    flex-grow: 1;
-    min-height: 0;
-    border-radius: 0 0 5px 5px;
-    background-color: $background-alt;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding: 10px;
-    padding-bottom: 0;
-    color: $text-light;
-  }
-
-  span,
-  div {
-    z-index: 1;
-  }
-
-  .label {
-    font-weight: bold;
-    word-wrap: break-word;
-  }
-
-  .playedInfo {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    min-height: 0;
-    justify-content: flex-end;
-  }
-
-  .types {
-    margin-top: 5px;
-
-    .type {
-      font-size: 12px;
-      color: $text-muted;
-      text-transform: capitalize;
+  .front {
+    .top {
+      padding: 10px;
     }
-  }
 
-  .dateProp {
-    font-weight: bold;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    text-align: center;
-    font-size: 12px;
-    padding: 5px 10px;
-    background: $primary;
-    margin: 0 auto;
-    border-radius: 5px 5px 0 0;
+    .bottom {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      flex-grow: 1;
+      min-height: 0;
+      border-radius: 0 0 5px 5px;
+      background-color: $background-alt;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      padding: 10px;
+      padding-bottom: 0;
+      color: $text-light;
+
+      .playedInfo {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        min-height: 0;
+        justify-content: flex-end;
+
+        .date {
+          font-weight: bold;
+          margin-top: 10px;
+          margin-bottom: 5px;
+          text-align: center;
+          padding: 5px 10px;
+          margin: 0 auto;
+          border-radius: 5px 5px 0 0;
+
+          &.correct {
+            background: $correct;
+          }
+
+          &.incorrect {
+            background: $incorrect;
+          }
+        }
+      }
+
+      .dateProp {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+        font-size: 12px;
+        padding: 5px 10px;
+        background: $primary;
+        margin: 0 auto;
+        border-radius: 5px 5px 0 0;
+      }
+    }
   }
 
   .back {
@@ -118,35 +109,33 @@
     flex-direction: column;
     height: 100%;
     padding: 10px;
+    z-index: -1;
+
+    .description {
+      overflow: auto;
+      flex-grow: 1;
+      color: $text;
+    }
+
+    .wikipedia {
+      margin-top: 10px;
+      text-align: center;
+    }
+
+    .date {
+      margin-top: 5px;
+      font-size: 12px;
+    }
+  }
+
+  .label {
+    font-weight: bold;
+    word-wrap: break-word;
   }
 
   .description {
-    overflow: auto;
+    margin-top: 5px;
     font-size: 12px;
-    margin-top: 10px;
-    flex-grow: 1;
-  }
-
-  .wikipedia {
-    margin-top: 10px;
-    text-align: center;
-  }
-
-  .date {
-    font-weight: bold;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    text-align: center;
-    padding: 5px 10px;
-    margin: 0 auto;
-    border-radius: 5px 5px 0 0;
-
-    &.correct {
-      background: $correct;
-    }
-
-    &.incorrect {
-      background: $incorrect;
-    }
+    color: $text-muted;
   }
 }

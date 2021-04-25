@@ -1,5 +1,4 @@
 import React from "react";
-import moment from "moment";
 import classNames from "classnames";
 import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
@@ -27,31 +26,13 @@ const datePropIdMap: { [datePropId: string]: string } = {
   P8556: "extinction",
   P6949: "announcement",
   P1319: "earliest",
+  P569: "birth",
   P570: "death",
   P582: "end",
   P580: "start",
   P7125: "latest one",
   P7124: "first one",
 };
-
-// const datePropIdMap2: { [datePropId: string]: string } = {
-//   P575: "Discovery or invention of",
-//   P7589: "Assent of ",
-//   P577: "Publication of",
-//   P1191: "First performance of",
-//   P1619: "Official opening of",
-//   P571: "Creation of",
-//   P1249: "Earliest written record of",
-//   P576: "Abolishing or demolishing of",
-//   P8556: "Extinction of",
-//   P6949: "Announcement of",
-//   P1319: "Earliest record of",
-//   P570: "Death of",
-//   P582: "End of",
-//   P580: "Start of",
-//   P7125: "Date of latest",
-//   P7124: "Date of first",
-// };
 
 function capitalize(str: string): string {
   return str.charAt(0).toUpperCase() + str.slice(1);
@@ -70,17 +51,19 @@ export default function ItemCard(props: Props) {
 
   const fadeProps = useSpring({ opacity: 1, from: { opacity: 0 } });
 
-  const imgUrl = item.image
-    ? `url(https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/${encodeURIComponent(
-        item.image
-      )}&width=300)`
-    : undefined;
+  const type = React.useMemo(() => {
+    const safeDescription = item.description.replace(/ \(.+\)/g, "");
 
-  item.date_prop_id;
+    if (item.description.length < 60 && !/\d\d/.test(safeDescription)) {
+      return item.description.replace(/ \(.+\)/g, "");
+    }
 
-  const year = moment(item.date).year();
+    if (item.instance_of.includes("human") && item.occupations !== null) {
+      return item.occupations[0];
+    }
 
-  const yearStr = year < -10000 ? year.toLocaleString() : year.toString();
+    return item.instance_of[0];
+  }, [item]);
 
   return (
     <Draggable draggableId={item.id} index={index} isDragDisabled={!draggable}>
@@ -108,14 +91,17 @@ export default function ItemCard(props: Props) {
             style={{ opacity: opacity.to((o) => 1 - o), transform }}
           >
             <div className={styles.top}>
-              <span className={styles.label}>{capitalize(item.label)}</span>
-              {item.types.length > 0 && (
-                <div className={styles.types}>
-                  <span className={styles.type}>{item.types[0]}</span>
-                </div>
-              )}
+              <div className={styles.label}>{capitalize(item.label)}</div>
+              <div className={styles.description}>{capitalize(type)}</div>
             </div>
-            <div className={styles.bottom} style={{ backgroundImage: imgUrl }}>
+            <div
+              className={styles.bottom}
+              style={{
+                backgroundImage: `url('https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/${encodeURIComponent(
+                  item.image
+                )}&width=300')`,
+              }}
+            >
               {played ? (
                 <animated.div style={fadeProps} className={styles.playedInfo}>
                   <span
@@ -125,7 +111,9 @@ export default function ItemCard(props: Props) {
                         "played" in item && !item.played.correct,
                     })}
                   >
-                    {yearStr}
+                    {item.year < -10000
+                      ? item.year.toLocaleString()
+                      : item.year.toString()}
                   </span>
                 </animated.div>
               ) : (
@@ -145,10 +133,13 @@ export default function ItemCard(props: Props) {
             }}
           >
             <span className={styles.label}>{capitalize(item.label)}</span>
+            <span className={styles.date}>
+              {capitalize(datePropIdMap[item.date_prop_id])}: {item.year}
+            </span>
             <span className={styles.description}>{item.description}.</span>
             <a
               href={`https://www.wikipedia.org/wiki/${encodeURIComponent(
-                item.wikipedia
+                item.wikipedia_title
               )}`}
               className={styles.wikipedia}
               target="_blank"
