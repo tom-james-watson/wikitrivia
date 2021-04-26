@@ -98,7 +98,7 @@ export default function ItemCard(props: Props) {
             <div
               className={styles.bottom}
               style={{
-                backgroundImage: `url('${createWikimediaImage(item.image)}')`,
+                backgroundImage: `url("${createWikimediaImage(item.image)}")`,
               }}
             >
               {played ? (
