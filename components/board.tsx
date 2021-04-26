@@ -56,6 +56,7 @@ export default function Board(props: Props) {
         played: { correct },
       });
 
+      console.log({ added1: { ...state.next } });
       setState({
         ...state,
         deck: newDeck,
@@ -79,6 +80,7 @@ export default function Board(props: Props) {
       const newPlayed = [...state.played];
       const [item] = newPlayed.splice(source.index, 1);
       newPlayed.splice(destination.index, 0, item);
+      console.log({ added2: item });
 
       setState({
         ...state,

@@ -9,15 +9,15 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   let iterations = 0;
 
   const periods: [number, number][] = [
-    [-100000, 1000],
-    [800, 1600],
-    [1600, 1870],
-    [1870, 1930],
+    [-100000, 1400],
+    [1400, 1850],
+    [1850, 1930],
     [1930, 2020],
   ];
   const [fromYear, toYear] = periods[
     Math.floor(Math.random() * periods.length)
   ];
+  const avoidPeople = Math.random() > 0.5;
 
   while (item === undefined) {
     iterations += 1;
@@ -28,6 +28,10 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
 
     const index = Math.floor(Math.random() * deck.length);
     const candidate = deck[index];
+
+    if (avoidPeople && candidate.instance_of.includes("human")) {
+      continue;
+    }
 
     if (candidate.year < fromYear || candidate.year > toYear) {
       continue;
