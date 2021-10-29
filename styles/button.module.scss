@@ -1,0 +1,17 @@
+@import "./variables";
+
+.button {
+  border: none;
+  background: $primary;
+  color: $text-light;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 700;
+  transform: skewX(-12deg);
+
+  &:hover {
+    filter: brightness(1.3);
+  }
+}

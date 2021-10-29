@@ -1,6 +1,7 @@
 import React from "react";
 import { animated, useSpring } from "react-spring";
 import styles from "../styles/game-over.module.scss";
+import Button from "./button";
 
 interface Props {
   resetGame: () => void;
@@ -30,9 +31,7 @@ export default function GameOver(props: Props) {
       {highscore !== 0 && (
         <span className={styles.highscore}>High Score: {highscore}</span>
       )}
-      <button onClick={resetGame} className={styles.resetGame}>
-        Play again
-      </button>
+      <Button onClick={resetGame} text="Play again" />
     </animated.div>
   );
 }

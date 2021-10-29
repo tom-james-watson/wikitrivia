@@ -21,17 +21,4 @@
     margin-top: 10px;
     margin-bottom: 40px;
   }
-
-  .resetGame {
-    border: none;
-    background: $primary;
-    color: $text-light;
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
-
-    &:hover {
-      filter: brightness(1.3);
-    }
-  }
 }
