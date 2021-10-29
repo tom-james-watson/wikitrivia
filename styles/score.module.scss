@@ -1,0 +1,22 @@
+@import "./variables.scss";
+
+.score {
+  display: inline-block;
+  transform: skewX(-12deg);
+  border-radius: $box-border-radius;
+  padding: 10px 24px;
+  text-align: left;
+  width: 140px;
+
+  .title {
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    white-space: nowrap;
+  }
+
+  .value {
+    font-weight: 700;
+    font-size: 24px;
+  }
+}

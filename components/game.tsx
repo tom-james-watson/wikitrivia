@@ -5,10 +5,12 @@ import { Item } from "../types/item";
 import createState from "../lib/create-state";
 import Board from "./board";
 import Loading from "./loading";
+import Instructions from "./instructions";
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
   const [loaded, setLoaded] = useState(false);
+  const [started, setStarted] = useState(false);
   const [items, setItems] = useState<Item[] | null>(null);
 
   React.useEffect(() => {
@@ -43,13 +45,32 @@ export default function Game() {
     })();
   }, [items]);
 
+  const [highscore, setHighscore] = React.useState<number>(
+    Number(localStorage.getItem("highscore") ?? "0")
+  );
+
+  const updateHighscore = React.useCallback((score: number) => {
+    localStorage.setItem("highscore", String(score));
+    setHighscore(score);
+  }, []);
+
+  if (!loaded || state === null) {
+    return <Loading />;
+  }
+
+  if (!started) {
+    return (
+      <Instructions highscore={highscore} start={() => setStarted(true)} />
+    );
+  }
+
   return (
-    <>
-      {loaded && state !== null ? (
-        <Board state={state} setState={setState} resetGame={resetGame} />
-      ) : (
-        <Loading />
-      )}
-    </>
+    <Board
+      highscore={highscore}
+      state={state}
+      setState={setState}
+      resetGame={resetGame}
+      updateHighscore={updateHighscore}
+    />
   );
 }

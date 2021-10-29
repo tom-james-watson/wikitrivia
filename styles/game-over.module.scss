@@ -5,20 +5,19 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 60px;
 
-  .score,
-  .highscore {
-    color: $text-light;
-    font-size: 28px;
-  }
+  .scoresWrapper {
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-evenly;
 
-  .score {
-    margin-top: 20px;
-  }
+    .score {
+      display: inline-block;
 
-  .highscore {
-    margin-top: 10px;
-    margin-bottom: 40px;
+      &:last-child {
+        margin-left: 20px;
+      }
+    }
   }
 }

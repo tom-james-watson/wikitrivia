@@ -10,13 +10,15 @@ import Hearts from "./hearts";
 import GameOver from "./game-over";
 
 interface Props {
+  highscore: number;
   resetGame: () => void;
   state: GameState;
   setState: (state: GameState) => void;
+  updateHighscore: (score: number) => void;
 }
 
 export default function Board(props: Props) {
-  const { resetGame, state, setState } = props;
+  const { highscore, resetGame, state, setState, updateHighscore } = props;
 
   const [isDragging, setIsDragging] = React.useState(false);
 
@@ -57,7 +59,6 @@ export default function Board(props: Props) {
         played: { correct },
       });
 
-      console.log({ added1: { ...state.next } });
       setState({
         ...state,
         deck: newDeck,
@@ -81,7 +82,6 @@ export default function Board(props: Props) {
       const newPlayed = [...state.played];
       const [item] = newPlayed.splice(source.index, 1);
       newPlayed.splice(destination.index, 0, item);
-      console.log({ added2: item });
 
       setState({
         ...state,
@@ -110,6 +110,12 @@ export default function Board(props: Props) {
     return state.played.filter((item) => item.played.correct).length - 1;
   }, [state.played]);
 
+  React.useLayoutEffect(() => {
+    if (score > highscore) {
+      updateHighscore(score);
+    }
+  }, [score, highscore, updateHighscore]);
+
   return (
     <DragDropContext
       onDragEnd={onDragEnd}
@@ -120,9 +126,15 @@ export default function Board(props: Props) {
         <div className={styles.top}>
           <Hearts lives={state.lives} />
           {state.lives > 0 ? (
-            <NextItemList next={state.next} />
+            <>
+              <NextItemList next={state.next} />
+            </>
           ) : (
-            <GameOver resetGame={resetGame} score={score} />
+            <GameOver
+              highscore={highscore}
+              resetGame={resetGame}
+              score={score}
+            />
           )}
         </div>
         <div id="bottom" className={styles.bottom}>

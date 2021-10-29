@@ -4,13 +4,12 @@
   border: none;
   background: $primary;
   color: $text-light;
-  padding: 10px;
-  border-radius: 20px;
+  padding: 10px 24px;
+  border-radius: $button-border-radius;
   cursor: pointer;
   text-transform: uppercase;
   font-weight: 700;
   font-style: italic;
-  padding: 10px 24px;
 
   &:hover {
     filter: brightness(1.3);

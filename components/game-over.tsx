@@ -2,22 +2,16 @@ import React from "react";
 import { animated, useSpring } from "react-spring";
 import styles from "../styles/game-over.module.scss";
 import Button from "./button";
+import Score from "./score";
 
 interface Props {
+  highscore: number;
   resetGame: () => void;
   score: number;
 }
 
 export default function GameOver(props: Props) {
-  const { resetGame, score } = props;
-
-  const highscore = Number(localStorage.getItem("highscore") ?? "0");
-
-  React.useLayoutEffect(() => {
-    if (score > highscore) {
-      localStorage.setItem("highscore", String(score));
-    }
-  }, [score, highscore]);
+  const { highscore, resetGame, score } = props;
 
   const animProps = useSpring({
     opacity: 1,
@@ -27,11 +21,15 @@ export default function GameOver(props: Props) {
 
   return (
     <animated.div style={animProps} className={styles.gameOver}>
-      <span className={styles.score}>Score: {score}</span>
-      {highscore !== 0 && (
-        <span className={styles.highscore}>High Score: {highscore}</span>
-      )}
-      <Button onClick={resetGame} text="Play again" />
+      <div className={styles.scoresWrapper}>
+        <div className={styles.score}>
+          <Score score={score} title="Streak" />
+        </div>
+        <div className={styles.score}>
+          <Score score={highscore} title="Best streak" />
+        </div>
+      </div>
+      <Button onClick={resetGame} text="Play again!" />
     </animated.div>
   );
 }
