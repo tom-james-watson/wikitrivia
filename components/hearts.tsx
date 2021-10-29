@@ -9,7 +9,7 @@ interface HeartProps {
 function Heart(props: HeartProps) {
   const { have } = props;
   const { opacity } = useSpring({
-    opacity: have ? 1 : 0.2,
+    opacity: have ? 1 : 0.4,
     config: { duration: 300 },
   });
   const { scale } = useSpring({
@@ -20,7 +20,7 @@ function Heart(props: HeartProps) {
 
   return (
     <animated.img
-      className={`${styles.heart} ${styles.used}`}
+      className={styles.heart}
       style={{ opacity, scale }}
       src="/images/heart.svg"
     />

@@ -19,12 +19,32 @@
     left: 0;
     bottom: 0;
     border-radius: 5px;
-    background: white;
-    // use this one whilst dragged
-    // box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
       rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    background-color: #ffffff;
     will-change: transform, opacity;
+
+    &::after {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      border-radius: 5px;
+      box-shadow: rgba(0, 0, 0, 0.65) 0px 10px 25px,
+        rgba(0, 0, 0, 0.75) 0px 6px 12px;
+      transition: opacity 0.3s ease-in-out;
+    }
+  }
+
+  &.dragging {
+    .front,
+    .back {
+      &::after {
+        opacity: 1;
+      }
+    }
   }
 
   &.played {
@@ -49,13 +69,13 @@
       padding: 10px;
     }
 
-    .bottom {
+    .image {
       display: flex;
       flex-direction: column;
       justify-content: flex-end;
       flex-grow: 1;
       min-height: 0;
-      border-radius: 0 0 5px 5px;
+      // border-radius: 0 0 5px 5px;
       background-color: $background-alt;
       background-repeat: no-repeat;
       background-size: cover;
@@ -63,43 +83,29 @@
       padding: 10px;
       padding-bottom: 0;
       color: $text-light;
+    }
 
-      .playedInfo {
-        display: flex;
-        flex-direction: column;
-        flex-grow: 1;
-        min-height: 0;
-        justify-content: flex-end;
+    .bottom {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      line-height: 30px;
+      font-weight: 700;
+      background-color: $primary;
+      color: $text-light;
+      border-radius: 0 0 5px 5px;
+      transition: background-color 5s ease-in-out;
 
-        .date {
-          font-weight: bold;
-          margin-top: 10px;
-          margin-bottom: 5px;
-          text-align: center;
-          padding: 5px 10px;
-          margin: 0 auto;
-          border-radius: 5px 5px 0 0;
-
-          &.correct {
-            background: $correct;
-          }
-
-          &.incorrect {
-            background: $incorrect;
-          }
-        }
+      &:hover {
+        background-color: #ad310b;
       }
 
-      .dateProp {
-        font-weight: bold;
-        margin-top: 10px;
-        margin-bottom: 5px;
-        text-align: center;
-        font-size: 12px;
-        padding: 5px 10px;
-        background: $primary;
-        margin: 0 auto;
-        border-radius: 5px 5px 0 0;
+      &.correct {
+        background-color: $correct;
+      }
+
+      &.incorrect {
+        background-color: $incorrect;
       }
     }
   }

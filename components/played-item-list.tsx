@@ -42,7 +42,6 @@ export default function PlayedItemList(props: PlayedItemListProps) {
                     index={index}
                     item={item}
                     key={item.id}
-                    played
                     setFlippedId={setFlippedId}
                   />
                 ))}
