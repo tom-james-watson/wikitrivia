@@ -5,11 +5,12 @@
   background: $primary;
   color: $text-light;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 20px;
   cursor: pointer;
   text-transform: uppercase;
   font-weight: 700;
-  transform: skewX(-12deg);
+  font-style: italic;
+  padding: 10px 24px;
 
   &:hover {
     filter: brightness(1.3);

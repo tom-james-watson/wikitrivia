@@ -114,11 +114,6 @@ export default function Board(props: Props) {
     <DragDropContext
       onDragEnd={onDragEnd}
       onDragStart={onDragStart}
-      onDragUpdate={() => {
-        setTimeout(() => {
-          // debugger;
-        }, 1000);
-      }}
       sensors={[useAutoMoveSensor.bind(null, state)]}
     >
       <div className={styles.wrapper}>

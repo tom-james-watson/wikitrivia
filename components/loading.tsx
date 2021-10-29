@@ -6,7 +6,7 @@ export default function Loading() {
   return (
     <div className={styles.loading}>
       <h1>Loading</h1>
-      <Loader type="Oval" color="#ffffff" height={80} width={80} />
+      <Loader type="Oval" color="#006699" height={60} width={60} />
     </div>
   );
 }
