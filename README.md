@@ -2,7 +2,7 @@
 
 This is the source code for the web app at https://wikitrivia.tomjwatson.com.
 
-The repository for the scraper can be found [here](https://github.com/tom-james-watson/wikitrivia).
+The repository for the scraper can be found [here](https://github.com/tom-james-watson/wikitrivia-scraper).
 
 ## Usage
 
