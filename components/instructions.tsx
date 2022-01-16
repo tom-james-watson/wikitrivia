@@ -23,8 +23,22 @@ export default function Instructions(props: Props) {
         <div className={styles.about}>
           <p>
             All data sourced from{" "}
-            <a href="https://www.wikidata.org">Wikidata</a> and{" "}
-            <a href="https://www.wikipedia.org">Wikipedia</a>.
+            <a
+              href="https://www.wikidata.org"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Wikidata
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.wikipedia.org"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Wikipedia
+            </a>
+            .
           </p>
           <GitHubButton
             href="https://github.com/tom-james-watson/wikitrivia"
