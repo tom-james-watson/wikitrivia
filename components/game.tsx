@@ -15,7 +15,9 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      const res = await axios.get<string>("/items.json");
+      const res = await axios.get<string>(
+        "https://wikitrivia-data.tomjwatson.com/items.json"
+      );
       const items: Item[] = res.data
         .trim()
         .split("\n")
