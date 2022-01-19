@@ -21,7 +21,7 @@ export default function Instructions(props: Props) {
         </div>
         <Button onClick={start} text="Start game!" />
         <div className={styles.about}>
-          <p>
+          <div>
             All data sourced from{" "}
             <a
               href="https://www.wikidata.org"
@@ -39,7 +39,18 @@ export default function Instructions(props: Props) {
               Wikipedia
             </a>
             .
-          </p>
+          </div>
+          <div>
+            Have feedback? Please report it on{" "}
+            <a
+              href="https://github.com/tom-james-watson/wikitrivia/issues/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub
+            </a>
+            .
+          </div>
           <GitHubButton
             href="https://github.com/tom-james-watson/wikitrivia"
             data-size="large"
