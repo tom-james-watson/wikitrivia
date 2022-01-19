@@ -21,7 +21,9 @@ export default function Game() {
         .split("\n")
         .map((line) => {
           return JSON.parse(line);
-        });
+        })
+        // Filter out questions which give away their answers
+        .filter((item) => !item.label.includes(String(item.year)));
       setItems(items);
     };
 
