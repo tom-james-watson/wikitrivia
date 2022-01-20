@@ -5,8 +5,6 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const playedYears = played.map((item): number => {
     return item.year;
   });
-  let item: Item | undefined = undefined;
-  let iterations = 0;
 
   const periods: [number, number][] = [
     [-100000, 1400],
@@ -18,33 +16,18 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     Math.floor(Math.random() * periods.length)
   ];
   const avoidPeople = Math.random() > 0.5;
-
-  while (item === undefined) {
-    iterations += 1;
-
-    if (iterations > 1000) {
-      throw new Error(`Couldn't find item after ${iterations} iterations`);
-    }
-
-    const index = Math.floor(Math.random() * deck.length);
-    const candidate = deck[index];
-
-    if (avoidPeople && candidate.instance_of.includes("human")) {
-      continue;
-    }
-
-    if (candidate.year < fromYear || candidate.year > toYear) {
-      continue;
-    }
-
-    if (playedYears.includes(candidate.year)) {
-      continue;
-    }
-
-    deck.splice(index, 1);
-    item = { ...candidate };
+  
+  let candidates = deck;
+  
+  if (avoidPeople) {
+    candidates = candidates.filter(candidate => !candidate.instance_of.includes("human"));
   }
-
+  
+  candidates = candidates.filter(candidate => candidate.year >= fromYear && candidate.year <= toYear);
+  candidates = candidates.filter(candidate => !playedYears.includes(candidate.year));
+  
+  const item = {...candidates[Math.floor(Math.random() * candidates.length)]};
+  
   return item;
 }
 
