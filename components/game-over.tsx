@@ -5,13 +5,12 @@ import Button from "./button";
 import Score from "./score";
 
 interface Props {
-  highscore: number;
   resetGame: () => void;
   score: number;
 }
 
 export default function GameOver(props: Props) {
-  const { highscore, resetGame, score } = props;
+  const { resetGame, score } = props;
 
   const animProps = useSpring({
     opacity: 1,

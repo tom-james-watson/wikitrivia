@@ -3,12 +3,11 @@ import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 
 interface Props {
-  highscore: number;
   start: () => void;
 }
 
 export default function Instructions(props: Props) {
-  const { highscore, start } = props;
+  const { start } = props;
 
   return (
     <div className={styles.instructions}>
