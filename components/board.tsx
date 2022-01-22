@@ -6,7 +6,6 @@ import { checkCorrect, getRandomItem, preloadImage } from "../lib/items";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/board.module.scss";
-import Hearts from "./hearts";
 import GameOver from "./game-over";
 
 interface Props {
@@ -24,7 +23,6 @@ export default function Board(props: Props) {
 
   async function onDragStart() {
     setIsDragging(true);
-    navigator.vibrate(20);
   }
 
   async function onDragEnd(result: DropResult) {
@@ -124,8 +122,7 @@ export default function Board(props: Props) {
     >
       <div className={styles.wrapper}>
         <div className={styles.top}>
-          <Hearts lives={state.lives} />
-          {state.lives > 0 ? (
+          {state.lives > 0 && score < 10 ? (
             <>
               <NextItemList next={state.next} />
             </>

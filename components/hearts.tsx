@@ -37,8 +37,6 @@ export default function Hearts(props: Props) {
   return (
     <div className={styles.hearts}>
       <Heart have={lives >= 1} />
-      <Heart have={lives >= 2} />
-      <Heart have={lives >= 3} />
     </div>
   );
 }

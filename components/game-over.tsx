@@ -23,10 +23,7 @@ export default function GameOver(props: Props) {
     <animated.div style={animProps} className={styles.gameOver}>
       <div className={styles.scoresWrapper}>
         <div className={styles.score}>
-          <Score score={score} title="Streak" />
-        </div>
-        <div className={styles.score}>
-          <Score score={highscore} title="Best streak" />
+          <Score score={score} title={score === 10 ? "You won!" : "Score"} />
         </div>
       </div>
       <Button onClick={resetGame} text="Play again!" />
