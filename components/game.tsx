@@ -6,7 +6,7 @@ import createState from "../lib/create-state";
 import Board from "./board";
 import Loading from "./loading";
 import Instructions from "./instructions";
-import { BadCards } from "../lib/bad-cards";
+import badCards from "../lib/bad-cards";
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
