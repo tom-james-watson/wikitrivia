@@ -28,7 +28,7 @@ export default function Game() {
         // Filter out questions which give away their answers
         .filter((item) => !item.label.includes(String(item.year)))
         // Filter cards which have bad data as submitted in https://github.com/tom-james-watson/wikitrivia/discussions/2
-        .filter((item) => !(item.id in BadCards));
+        .filter((item) => !(item.id in badCards));
       setItems(items);
     };
 
