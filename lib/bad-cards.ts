@@ -81,6 +81,9 @@ const badCards = {
   Q183562: "Umayyad Mosque",
   Q82613: "Krakatoa",
   Q459188: "Kingdom of the Isles",
+  Q465283: "Russian Navy",
+  Q461606: "Arsène Lupin",
+  Q304690: "Li Ching-Yuen",
 };
 
 export default badCards;
