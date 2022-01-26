@@ -3,10 +3,10 @@ import { Item } from "../types/item";
 import { getRandomItem, preloadImage } from "./items";
 
 export default async function createState(deck: Item[]): Promise<GameState> {
-  const next = getRandomItem(deck, []);
-  const nextButOne = getRandomItem(deck, []);
-  const imageCache = [preloadImage(next.image), preloadImage(nextButOne.image)];
   const played = [{ ...getRandomItem(deck, []), played: { correct: true } }];
+  const next = getRandomItem(deck, played);
+  const nextButOne = getRandomItem(deck, [...played, next]);
+  const imageCache = [preloadImage(next.image), preloadImage(nextButOne.image)];
 
   return {
     badlyPlaced: null,

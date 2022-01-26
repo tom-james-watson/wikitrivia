@@ -45,10 +45,6 @@ export default function Board(props: Props) {
     if (source.droppableId === "next" && destination.droppableId === "played") {
       const newDeck = [...state.deck];
       const newPlayed = [...state.played];
-      const newNext = state.nextButOne;
-      const newNextButOne = getRandomItem(newDeck, newPlayed);
-      const newImageCache = [preloadImage(newNextButOne.image)];
-
       const { correct, delta } = checkCorrect(
         newPlayed,
         item,
@@ -58,6 +54,10 @@ export default function Board(props: Props) {
         ...state.next,
         played: { correct },
       });
+      
+      const newNext = state.nextButOne;
+      const newNextButOne = getRandomItem(newDeck, newNext ? [...newPlayed, newNext] : newPlayed);
+      const newImageCache = [preloadImage(newNextButOne.image)];
 
       setState({
         ...state,
