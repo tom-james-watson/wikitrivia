@@ -15,18 +15,29 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const [fromYear, toYear] =
     periods[Math.floor(Math.random() * periods.length)];
   const avoidPeople = Math.random() > 0.5;
-  
-  let candidates = deck;
-  
-  if (avoidPeople) {
-    candidates = candidates.filter(candidate => !candidate.instance_of.includes("human"));
+
+  const candidates = deck.filter((candidate) => {
+    if (avoidPeople && candidate.instance_of.includes("human")) {
+      return false;
+    }
+
+    if (candidate.year < fromYear || candidate.year > toYear) {
+      return false;
+    }
+
+    if (playedYears.includes(candidate.year)) {
+      return false;
+    }
+
+    return true;
+  });
+
+  if (candidates.length === 0) {
+    throw new Error("No item candidates");
   }
-  
-  candidates = candidates.filter(candidate => candidate.year >= fromYear && candidate.year <= toYear);
-  candidates = candidates.filter(candidate => !playedYears.includes(candidate.year));
-  
-  const item = {...candidates[Math.floor(Math.random() * candidates.length)]};
-  
+
+  const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };
+
   return item;
 }
 
