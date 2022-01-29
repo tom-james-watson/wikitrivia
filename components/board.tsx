@@ -54,9 +54,12 @@ export default function Board(props: Props) {
         ...state.next,
         played: { correct },
       });
-      
+
       const newNext = state.nextButOne;
-      const newNextButOne = getRandomItem(newDeck, newNext ? [...newPlayed, newNext] : newPlayed);
+      const newNextButOne = getRandomItem(
+        newDeck,
+        newNext ? [...newPlayed, newNext] : newPlayed
+      );
       const newImageCache = [preloadImage(newNextButOne.image)];
 
       setState({

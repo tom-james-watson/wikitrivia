@@ -14,9 +14,8 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     [1850, 1930],
     [1930, 2020],
   ];
-  const [fromYear, toYear] = periods[
-    Math.floor(Math.random() * periods.length)
-  ];
+  const [fromYear, toYear] =
+    periods[Math.floor(Math.random() * periods.length)];
   const avoidPeople = Math.random() > 0.5;
 
   while (item === undefined) {

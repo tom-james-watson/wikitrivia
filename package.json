@@ -5,6 +5,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss,json,yml}\"",
     "lint": "eslint --max-warnings=0 --cache --ext .js,.ts,.tsx .",
     "lint-fix": "eslint --fix --cache --ext .js,.ts,.tsx .",
     "start": "next start"
@@ -32,6 +33,7 @@
     "eslint": "^7.24.0",
     "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.5.1",
     "sass": "^1.32.10",
     "typescript": "^4.4.4"
   }
