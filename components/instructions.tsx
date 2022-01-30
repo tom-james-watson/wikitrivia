@@ -16,9 +16,11 @@ export default function Instructions(props: Props) {
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
         <h2>Place the cards on the timeline in the correct order.</h2>
-        <div className={styles.highscoreWrapper}>
-          <Score score={highscore} title="Best streak" />
-        </div>
+        {highscore !== 0 && (
+          <div className={styles.highscoreWrapper}>
+            <Score score={highscore} title="Best streak" />
+          </div>
+        )}
         <Button onClick={start} text="Start game" />
         <div className={styles.about}>
           <div>

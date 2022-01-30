@@ -12,6 +12,17 @@ interface Props {
 
 const defaultShareText = "Share";
 
+function getMedal(score: number): string {
+  if (score >= 20) {
+    return "🥇 ";
+  } else if (score >= 10) {
+    return "🥈 ";
+  } else if (score >= 1) {
+    return "🥉 ";
+  }
+  return "";
+}
+
 export default function GameOver(props: Props) {
   const { highscore, resetGame, score } = props;
 
@@ -25,7 +36,9 @@ export default function GameOver(props: Props) {
 
   const share = React.useCallback(async () => {
     await navigator?.clipboard?.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\nStreak: ${score}\nBest Streak: ${highscore}`
+      `🏛️ wikitrivia.tomjwatson.com\n\n${getMedal(
+        score
+      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
     );
     setShareText("Copied");
     setTimeout(() => {

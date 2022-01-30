@@ -6,7 +6,6 @@
   border-radius: $box-border-radius;
   padding: 10px 24px;
   text-align: left;
-  width: 140px;
 
   .title {
     font-weight: 700;
@@ -16,6 +15,7 @@
   }
 
   .value {
+    display: flex;
     font-weight: 700;
     font-size: 24px;
   }
