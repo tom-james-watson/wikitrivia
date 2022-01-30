@@ -19,7 +19,7 @@ export default function Instructions(props: Props) {
         <div className={styles.highscoreWrapper}>
           <Score score={highscore} title="Best streak" />
         </div>
-        <Button onClick={start} text="Start game!" />
+        <Button onClick={start} text="Start game" />
         <div className={styles.about}>
           <div>
             All data sourced from{" "}

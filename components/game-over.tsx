@@ -10,6 +10,8 @@ interface Props {
   score: number;
 }
 
+const defaultShareText = "Share";
+
 export default function GameOver(props: Props) {
   const { highscore, resetGame, score } = props;
 
@@ -18,6 +20,18 @@ export default function GameOver(props: Props) {
     from: { opacity: 0 },
     config: { duration: 500 },
   });
+
+  const [shareText, setShareText] = React.useState(defaultShareText);
+
+  const share = React.useCallback(() => {
+    navigator?.clipboard.writeText(
+      `🏛️ wikitrivia.tomjwatson.com\n\nStreak: ${score}\nBest Streak: ${highscore}`
+    );
+    setShareText("Copied");
+    setTimeout(() => {
+      setShareText(defaultShareText);
+    }, 2000);
+  }, [highscore, score]);
 
   return (
     <animated.div style={animProps} className={styles.gameOver}>
@@ -29,7 +43,10 @@ export default function GameOver(props: Props) {
           <Score score={highscore} title="Best streak" />
         </div>
       </div>
-      <Button onClick={resetGame} text="Play again!" />
+      <div className={styles.buttons}>
+        <Button onClick={resetGame} text="Play again" />
+        <Button onClick={share} text={shareText} minimal />
+      </div>
     </animated.div>
   );
 }
