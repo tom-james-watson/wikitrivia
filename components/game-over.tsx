@@ -23,11 +23,16 @@ export default function GameOver(props: Props) {
 
   const [shareText, setShareText] = React.useState(defaultShareText);
 
-  const share = React.useCallback(() => {
-    navigator?.clipboard.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\nStreak: ${score}\nBest Streak: ${highscore}`
-    );
-    setShareText("Copied");
+  const share = React.useCallback(async () => {
+    try {
+      await navigator?.clipboard.writeText(
+        `🏛️ wikitrivia.tomjwatson.com\n\nStreak: ${score}\nBest Streak: ${highscore}`
+      );
+      setShareText("Copied");
+    } catch (err) {
+      alert(err);
+      setShareText("Error");
+    }
     setTimeout(() => {
       setShareText(defaultShareText);
     }, 2000);
