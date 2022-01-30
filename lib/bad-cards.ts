@@ -84,6 +84,7 @@ const badCards = {
   Q465283: "Russian Navy",
   Q461606: "Arsène Lupin",
   Q304690: "Li Ching-Yuen",
+  Q2001966: "Company rule in India",
 };
 
 export default badCards;
