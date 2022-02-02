@@ -85,6 +85,15 @@ const badCards = {
   Q461606: "Arsène Lupin",
   Q304690: "Li Ching-Yuen",
   Q2001966: "Company rule in India",
+  Q651532: "The Three Little Pigs",
+  Q184661: "Ogham",
+  Q31057: "Norfolk Island",
+  Q213804: "Lindisfarne",
+  Q212746: "Anglo-Saxon Chronicle",
+  Q1246283: "Kumbhalgarh",
+  Q735349: "Russian conquest of Siberia",
+  Q2223341: "Elizabeth Bennet",
+  Q40185: "Divine Comedy",
 };
 
 export default badCards;
