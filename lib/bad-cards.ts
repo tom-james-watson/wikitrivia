@@ -88,7 +88,6 @@ const badCards = {
   Q651532: "The Three Little Pigs",
   Q184661: "Ogham",
   Q31057: "Norfolk Island",
-  Q213804: "Lindisfarne",
   Q212746: "Anglo-Saxon Chronicle",
   Q1246283: "Kumbhalgarh",
   Q735349: "Russian conquest of Siberia",
