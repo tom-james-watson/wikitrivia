@@ -85,6 +85,7 @@ const badCards = {
   Q461606: "Arsène Lupin",
   Q304690: "Li Ching-Yuen",
   Q2001966: "Company rule in India",
+  Q133600: "Banksy",
 };
 
 export default badCards;
