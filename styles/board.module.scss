@@ -1,19 +1,21 @@
 .wrapper {
   display: grid;
-  grid-auto-columns: auto;
-  grid-template-rows: 350px auto;
+  grid-template-rows: 1fr auto;
+
   width: 100%;
   height: 100%;
 }
 
 .top {
-  grid-row: 1;
+  display: grid;
+  place-content: center;
 }
 
 .bottom {
-  grid-row: 2;
-  overflow-x: auto;
   display: flex;
   align-items: center;
+
   position: relative;
+  overflow-x: auto;
+  padding: 0 0 3rem 0;
 }

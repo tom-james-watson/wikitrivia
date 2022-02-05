@@ -20,6 +20,8 @@ body,
 }
 
 body {
+  overflow: hidden;
+  height: 100vh;
   overscroll-behavior-y: contain;
 }
 

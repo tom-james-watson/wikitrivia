@@ -23,6 +23,7 @@
       rgba(0, 0, 0, 0.23) 0px 6px 6px;
     background-color: #ffffff;
     will-change: transform, opacity;
+    pointer-events: none;
 
     &::after {
       content: "";
