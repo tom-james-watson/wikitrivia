@@ -22,7 +22,6 @@ body,
 body {
   overflow: hidden;
   height: 100vh;
-  overscroll-behavior-y: contain;
 
   // Account for mobile Safari UI
   // https://www.bram.us/2020/05/06/100vh-in-safari-on-ios/
