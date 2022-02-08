@@ -24,7 +24,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     }
 
     for (let i = 0; i < played.length; i++) {
-      if (Math.abs(candidate.year - played.year) < distance) {
+      if (Math.abs(candidate.year - played[i].year) < distance) {
         return false;
       }
     }
