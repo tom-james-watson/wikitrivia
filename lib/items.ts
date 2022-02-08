@@ -11,7 +11,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const [fromYear, toYear] =
     periods[Math.floor(Math.random() * periods.length)];
   const avoidPeople = Math.random() > 0.5;
-  let distance = 100 - 10 * played.length;
+  let distance = 110 - 10 * played.length;
   distance = distance < 5 ? 5 : distance;
 
   const candidates = deck.filter((candidate) => {
