@@ -17,8 +17,12 @@ export default function Game() {
   React.useEffect(() => {
     const fetchGameData = async () => {
       const res = await axios.get<string>(
-        "https://wikitrivia-data.tomjwatson.com/items.json"
-      );
+//        "items.json"
+	  "http://www.karenerobinson.com/wikitrivia-data/items.json"
+//      "http://www.karenerobinson.com/wikitrivia-data/items-test.json"
+//	"https://wikitrivia-data.tomjwatson.com/items.json"
+
+	);
       const items: Item[] = res.data
         .trim()
         .split("\n")
@@ -28,7 +32,8 @@ export default function Game() {
         // Filter out questions which give away their answers
         .filter((item) => !item.label.includes(String(item.year)))
         // Filter cards which have bad data as submitted in https://github.com/tom-james-watson/wikitrivia/discussions/2
-        .filter((item) => !(item.id in badCards));
+	// or discussion 41
+	.filter((item) => !(item.id in badCards));
       setItems(items);
     };
 

@@ -4,6 +4,7 @@ import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
 import { createWikimediaImage } from "../lib/image";
+import { createCardImage } from "../lib/image";
 import styles from "../styles/item-card.module.scss";
 
 type Props = {
@@ -13,6 +14,9 @@ type Props = {
   item: Item | PlayedItem;
   setFlippedId?: (flippedId: string | null) => void;
 };
+
+// it would be nice if some cards could have a JSON category that
+// overrides this. e.g. "created" is bad for a lot of islands etc.
 
 const datePropIdMap: { [datePropId: string]: string } = {
   P575: "discovered", // or invented
@@ -99,8 +103,9 @@ export default function ItemCard(props: Props) {
               </div>
               <div
                 className={styles.image}
-                style={{
-                  backgroundImage: `url("${createWikimediaImage(item.image)}")`,
+		// suggested change: if the image text has a full url, use it, otherwise:
+		style={{
+                  backgroundImage: `url("${createCardImage(item.image)}")`,
                 }}
               ></div>
               <animated.div
