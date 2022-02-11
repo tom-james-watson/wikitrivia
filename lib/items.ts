@@ -1,5 +1,6 @@
 import { Item, PlayedItem } from "../types/item";
 import { createWikimediaImage } from "./image";
+import { createCardImage } from "./image";
 
 export function getRandomItem(deck: Item[], played: Item[]): Item {
   const playedYears = played.map((item): number => {
