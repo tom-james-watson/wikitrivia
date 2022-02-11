@@ -26,7 +26,7 @@ export default function Game() {
           return JSON.parse(line);
         })
         // Filter out questions which give away their answers
-        .filter((item) => !item.label.includes(String(item.year)))
+        .filter((item) => !item.label.includes((String(item.year)) || "present" || "th century"))
         // Filter cards which have bad data as submitted in https://github.com/tom-james-watson/wikitrivia/discussions/2
         .filter((item) => !(item.id in badCards));
       setItems(items);
