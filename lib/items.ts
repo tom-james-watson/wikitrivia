@@ -3,10 +3,6 @@ import { createWikimediaImage } from "./image";
 import { createCardImage } from "./image";
 
 export function getRandomItem(deck: Item[], played: Item[]): Item {
-  const playedYears = played.map((item): number => {
-    return item.year;
-  });
-
   const periods: [number, number][] = [
     [-100000, 1400],
     [1400, 1850],
@@ -17,6 +13,9 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     periods[Math.floor(Math.random() * periods.length)];
   const avoidPeople = Math.random() > 0.5;
 
+  let distance = 110 - 10 * played.length;
+  distance = distance < 5 ? 5 : distance;
+  
   const candidates = deck.filter((candidate) => {
     if (avoidPeople && candidate.instance_of.includes("human")) {
       return false;
@@ -26,8 +25,10 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
       return false;
     }
 
-    if (playedYears.includes(candidate.year)) {
-      return false;
+    for (let i = 0; i < played.length; i++) {
+	if (Math.abs(candidate.year - played[i].year) < distance) {
+	    return false;
+	}
     }
 
     return true;
