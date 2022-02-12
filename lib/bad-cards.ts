@@ -88,11 +88,16 @@ const badCards = {
   Q651532: "The Three Little Pigs",
   Q184661: "Ogham",
   Q31057: "Norfolk Island",
-  Q212746: "Anglo-Saxon Chronicle",
   Q1246283: "Kumbhalgarh",
   Q735349: "Russian conquest of Siberia",
   Q2223341: "Elizabeth Bennet",
   Q40185: "Divine Comedy",
+  Q2723024: "Enron scandal",
+  Q133600: "Banksy",
+  Q14112: "Corsica",
+  Q1892745: "Salvator Mundi (Leonardo)",
+  Q994776: "Brutalist architecture",
+  Q182865: "War in Afghanistan",
 };
 
 export default badCards;
