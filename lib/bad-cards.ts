@@ -98,6 +98,19 @@ const badCards = {
   Q1892745: "Salvator Mundi (Leonardo)",
   Q994776: "Brutalist architecture",
   Q182865: "War in Afghanistan",
+  Q936394: "Pornhub",
+  Q466683: "Chyna",
+  Q824540: "AVN Awards",
+  Q19559884: "August Ames",
+  Q2709: "Sasha Grey",
+  Q260794: "Sunny Leone",
+  Q973475: "Dustin Diamond",
+  Q3700050: "XVideos",
+  Q18735049: "Mia Khalifa",
+  Q233118: "Traci Lords",
+  Q3916703: "Riley Reid",
+  Q18749736: "Johnny Sins",
+  Q65115154: "Belle Delphine",
 };
 
 export default badCards;
