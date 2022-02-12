@@ -87,6 +87,7 @@ const badCards = {
   Q2001966: "Company rule in India",
   Q2723024: "Enron scandal",
   Q133600: "Banksy",
+  Q1892745: "Salvator Mundi (Leonardo)",
   Q994776: "Brutalist architecture",
   Q182865: "War in Afghanistan",
 };
