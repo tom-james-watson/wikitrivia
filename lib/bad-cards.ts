@@ -111,6 +111,7 @@ const badCards = {
   Q3916703: "Riley Reid",
   Q18749736: "Johnny Sins",
   Q65115154: "Belle Delphine",
+  Q739550: "M&M's"
 };
 
 export default badCards;
