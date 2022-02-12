@@ -2,24 +2,12 @@ import { Item, PlayedItem } from "../types/item";
 import { createWikimediaImage } from "./image";
 
 export function getRandomItem(deck: Item[], played: Item[]): Item {
-  const periods: [number, number][] = [
-    [-100000, 1400],
-    [1400, 1850],
-    [1850, 1930],
-    [1930, 2020],
-  ];
-  const [fromYear, toYear] =
-    periods[Math.floor(Math.random() * periods.length)];
   const avoidPeople = Math.random() > 0.5;
   let distance = 110 - 10 * played.length;
   distance = distance < 5 ? 5 : distance;
 
   const candidates = deck.filter((candidate) => {
     if (avoidPeople && candidate.instance_of.includes("human")) {
-      return false;
-    }
-
-    if (candidate.year < fromYear || candidate.year > toYear) {
       return false;
     }
 
