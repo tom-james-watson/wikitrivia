@@ -87,7 +87,8 @@ const badCards = {
   Q2001966: "Company rule in India",
   Q2723024: "Enron scandal",
   Q133600: "Banksy",
-  Q546359: "Brutalist architecture"
+  Q546359: "Brutalist architecture",
+  Q182865: "War in Afghanistan",
 };
 
 export default badCards;
