@@ -14,16 +14,16 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   distance = distance < 5 ? 5 : distance;
   let item;
 
-  for (let i = 0; i < 1000; i++) {
+  for (let i = 0; i < 10000; i++) {
     item = deck[Math.floor(Math.random() * deck.length)];
-    if (avoidPeople && candidate.instance_of.includes("human")) {
+    if (avoidPeople && item.instance_of.includes("human")) {
       continue;
     }
-    if (candidate.year < fromYear || candidate.year > toYear) {
+    if (item.year < fromYear || item.year > toYear) {
       continue;
     }
     for (let j = 0; j < played.length; j++) {
-      if (Math.abs(candidate.year - played[j].year) < distance) {
+      if (Math.abs(item.year - played[j].year) < distance) {
         continue;
       }
     }
