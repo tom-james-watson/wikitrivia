@@ -18,7 +18,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
       return false;
     }
 
-    if (candidate.year < fromYear || candidate.year > toYear) {
+    if (played.length < 40 && (candidate.year < fromYear || candidate.year > toYear)) {
       return false;
     }
 
