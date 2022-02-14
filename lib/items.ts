@@ -30,12 +30,12 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     if (candidate.year < fromYear || candidate.year > toYear) {
       return false;
     }
-
+      
     // tweak on @benguraldi suggestion
     for (let i = 0; i < played.length; i++) {
-	if (Math.abs(candidate.year - played[i].year) < distance * (thisperiod + 1)) {
-	    return false;
-	}
+        if (Math.abs(candidate.year - played[i].year) < distance * (thisperiod + 1)) {
+            return false;
+        }
     }
 
     return true;
