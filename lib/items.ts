@@ -13,7 +13,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     [-100000, 1400],
   ];
 
-  const thisperiod = Math.floor(Math.random() * periods.length);  
+  const iperiod = Math.floor(Math.random() * periods.length);  
   const [fromYear, toYear] =
     periods[iperiod];
   const avoidPeople = Math.random() > 0.5;
