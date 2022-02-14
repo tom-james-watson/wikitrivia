@@ -12,30 +12,22 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const avoidPeople = Math.random() > 0.5;
   let distance = 110 - 10 * played.length;
   distance = distance < 5 ? 5 : distance;
+  let item;
 
-  const candidates = deck.filter((candidate) => {
+  for (let i = 0; i < 1000; i++) {
+    item = deck[Math.floor(Math.random() * deck.length)];
     if (avoidPeople && candidate.instance_of.includes("human")) {
-      return false;
+      continue;
     }
-
-    if (played.length < 40 && (candidate.year < fromYear || candidate.year > toYear)) {
-      return false;
+    if (candidate.year < fromYear || candidate.year > toYear) {
+      continue;
     }
-
-    for (let i = 0; i < played.length; i++) {
-      if (Math.abs(candidate.year - played[i].year) < distance) {
-        return false;
+    for (let j = 0; j < played.length; j++) {
+      if (Math.abs(candidate.year - played[j].year) < distance) {
+        continue;
       }
     }
-
-    return true;
-  });
-
-  if (candidates.length > 0) {
-    const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };
-  } else {
-    throw new Error("No item candidates");
-    const item = { ...deck[Math.floor(Math.random() * deck.length)] };
+    return item;
   }
 
   return item;
