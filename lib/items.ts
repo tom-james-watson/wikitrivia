@@ -15,7 +15,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
 
   const thisperiod = Math.floor(Math.random() * periods.length);  
   const [fromYear, toYear] =
-    periods[thisperiod];
+    periods[iperiod];
   const avoidPeople = Math.random() > 0.5;
 
   // as suggested by @benguraldi  
@@ -33,7 +33,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
       
     // tweak on @benguraldi suggestion
     for (let i = 0; i < played.length; i++) {
-        if (Math.abs(candidate.year - played[i].year) < distance * (thisperiod + 1)) {
+        if (Math.abs(candidate.year - played[i].year) < distance * (iperiod + 1)) {
             return false;
         }
     }
