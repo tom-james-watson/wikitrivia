@@ -19,8 +19,8 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const avoidPeople = Math.random() > 0.5;
 
   // as suggested by @benguraldi  
-  let distance = 30 - 3 * played.length;
-  distance = distance < 3 ? 3 : distance;
+  let distance = 10 - 1 * played.length;
+  distance = distance < 1 ? 1 : distance;
     
   const candidates = deck.filter((candidate) => {
     if (avoidPeople && candidate.instance_of.includes("human")) {
@@ -33,7 +33,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
       
     // tweak on @benguraldi suggestion
     for (let i = 0; i < played.length; i++) {
-        if (Math.abs(candidate.year - played[i].year) < distance * (iperiod + 1)) {
+        if (Math.abs(candidate.year - played[i].year) < distance * (iperiod + 1) * (iperiod + 1)) {
             return false;
         }
     }
