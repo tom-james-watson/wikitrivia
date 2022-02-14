@@ -31,11 +31,12 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     return true;
   });
 
-  if (candidates.length === 0) {
+  if (candidates.length > 0) {
+    const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };
+  } else {
     throw new Error("No item candidates");
+    const item = { ...deck[Math.floor(Math.random() * deck.length)] };
   }
-
-  const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };
 
   return item;
 }
