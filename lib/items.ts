@@ -12,7 +12,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const avoidPeople = Math.random() > 0.5;
   let distance = 110 - 10 * played.length;
   distance = distance < 5 ? 5 : distance;
-  let item;
+  let item = deck[Math.floor(Math.random() * deck.length)];
 
   for (let i = 0; i < 10000; i++) {
     item = deck[Math.floor(Math.random() * deck.length)];
