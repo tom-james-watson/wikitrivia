@@ -52,7 +52,9 @@ export function checkCorrect(
   });
 
   if (index !== correctIndex) {
-    return { correct: false, delta: correctIndex - index };
+    if([...played, item][correctIndex].year !== [...played, item][index].year) {
+      return { correct: false, delta: correctIndex - index };
+    }
   }
 
   return { correct: true, delta: 0 };
