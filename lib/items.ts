@@ -31,7 +31,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   return item;
 }
 
-function tooClose(item, played, distance) {
+function tooClose(item: Item, played: Item[], distance: number) {
   for (let j = 0; j < played.length; j++) {
     if (Math.abs(item.year - played[j].year) < distance) {
       return true;
