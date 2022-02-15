@@ -22,15 +22,22 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     if (item.year < fromYear || item.year > toYear) {
       continue;
     }
-    for (let j = 0; j < played.length; j++) {
-      if (Math.abs(item.year - played[j].year) < distance) {
-        continue;
-      }
+    if (tooClose(item, played, distance)) {
+      continue;
     }
     return item;
   }
 
   return item;
+}
+
+function tooClose(item, played, distance) {
+  for (let j = 0; j < played.length; j++) {
+    if (Math.abs(item.year - played[j].year) < distance) {
+      return true;
+    }
+  }
+  return false;
 }
 
 export function checkCorrect(
