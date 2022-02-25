@@ -10,32 +10,33 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const [fromYear, toYear] =
     periods[Math.floor(Math.random() * periods.length)];
   const avoidPeople = Math.random() > 0.5;
-  let distance = 5;
-  if (played.length < 11) { 
-    distance = 110 - 10 * played.length;
-  } else if (played.length > 40) {
-    distance = 1;
-  }
-  let item = deck[Math.floor(Math.random() * deck.length)];
+  const candidates = deck.filter((candidate) => {
+    if (avoidPeople && candidate.instance_of.includes("human")) {
+      return false;
+    }
+    if (candidate.year < fromYear || candidate.year > toYear) {
+      return false;
+    }
+    if (tooClose(candidate, played)) {
+      return false;
+    }
+    return true;
+  });
 
-  for (let i = 0; i < 10000; i++) {
-    item = deck[Math.floor(Math.random() * deck.length)];
-    if (avoidPeople && item.instance_of.includes("human")) {
-      continue;
-    }
-    if (item.year < fromYear || item.year > toYear) {
-      continue;
-    }
-    if (tooClose(item, played, distance)) {
-      continue;
-    }
-    return item;
+  if (candidates.length > 0) {
+    const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };
+  } else {
+    throw new Error("No item candidates");
+    const item = { ...deck[Math.floor(Math.random() * deck.length)] };
   }
-
   return item;
 }
 
-function tooClose(item: Item, played: Item[], distance: number) {
+function tooClose(item: Item, played: Item[]) {
+  let distance = (played.length < 40) ? 5 : 1;
+  if (played.length < 11)
+    distance = 110 - 10 * played.length;
+
   for (let j = 0; j < played.length; j++) {
     if (Math.abs(item.year - played[j].year) < distance) {
       return true;
@@ -54,7 +55,7 @@ export function checkCorrect(
     return i.id === item.id;
   });
 
-  if (index !== correctIndex && item.year !== [...played, item][correctIndex].year) {
+  if (index !== correctIndex) {
     return { correct: false, delta: correctIndex - index };
   }
 
