@@ -24,12 +24,10 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   });
 
   if (candidates.length > 0) {
-    const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };
-  } else {
-    throw new Error("No item candidates");
-    const item = { ...deck[Math.floor(Math.random() * deck.length)] };
+    return candidates[Math.floor(Math.random() * candidates.length)];
   }
-  return item;
+  throw new Error("No item candidates");
+  return deck[Math.floor(Math.random() * deck.length)];
 }
 
 function tooClose(item: Item, played: Item[]) {
