@@ -51,7 +51,7 @@ export function checkCorrect(
     return i.id === item.id;
   });
 
-  if (index !== correctIndex && sorted[correctIndex].year !== sorted[index].year) {
+  if (index !== correctIndex && sorted[index].year !== item.year) {
     return { correct: false, delta: correctIndex - index };
   }
 
