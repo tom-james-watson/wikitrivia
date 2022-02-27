@@ -26,7 +26,6 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   if (candidates.length > 0) {
     return candidates[Math.floor(Math.random() * candidates.length)];
   }
-  throw new Error("No item candidates");
   return deck[Math.floor(Math.random() * deck.length)];
 }
 
@@ -35,12 +34,7 @@ function tooClose(item: Item, played: Item[]) {
   if (played.length < 11)
     distance = 110 - 10 * played.length;
 
-  for (let j = 0; j < played.length; j++) {
-    if (Math.abs(item.year - played[j].year) < distance) {
-      return true;
-    }
-  }
-  return false;
+  return played.some((p) => Math.abs(item.year - p.year) < distance);
 }
 
 export function checkCorrect(
