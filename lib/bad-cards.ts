@@ -112,7 +112,7 @@ const badCards = {
   Q18749736: "Johnny Sins",
   Q65115154: "Belle Delphine",
   Q739550: "M&M's",
-  Q1431121: "St Michael's Mount"
+  Q1431121: "St Michael's Mount",
   Q174097: "Hogwarts"
 };
 
