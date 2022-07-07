@@ -114,7 +114,8 @@ const badCards = {
   Q739550: "M&M's",
   Q1431121: "St Michael's Mount",
   Q174097: "Hogwarts",
-  Q8690: "Cultural Revolution"
+  Q8690: "Cultural Revolution",
+  Q149086: "Homicide"
 };
 
 export default badCards;
