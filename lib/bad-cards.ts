@@ -116,7 +116,7 @@ const badCards = {
   Q174097: "Hogwarts",
   Q8690: "Cultural Revolution",
   Q149086: "Homicide",
-  Q319947: "Longinus"
+  Q319947: "Longinus",
   Q539890: "Lazarus of Bethany"
 };
 
