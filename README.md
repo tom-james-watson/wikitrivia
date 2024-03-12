@@ -6,6 +6,9 @@ The repository for the scraper can be found [here](https://github.com/tom-james-
 
 ## Usage
 
+This project is using the [NextJS](https://nextjs.org/) framework, itself based on ReactJS.
+NodeJS 18.17.0 or higher is required to build and run the project.
+
 ### Prerequisites
 
 ```bash

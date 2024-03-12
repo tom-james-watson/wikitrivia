@@ -1,12 +1,14 @@
 import { GameState } from "../types/game";
 import { Item } from "../types/item";
-import { getRandomItem, preloadImage } from "./items";
 
 export default async function createState(deck: Item[]): Promise<GameState> {
-  const played = [{ ...getRandomItem(deck, []), played: { correct: true } }];
-  const next = getRandomItem(deck, played);
-  const nextButOne = getRandomItem(deck, [...played, next]);
-  const imageCache = [preloadImage(next.image), preloadImage(nextButOne.image)];
+  let randomIndex = Math.floor(Math.random() * deck.length);
+  const played = [{ ...deck[randomIndex], played: { correct: true } }];
+  deck.splice(randomIndex, 1);
+  randomIndex = Math.floor(Math.random() * deck.length);
+  const next = deck[randomIndex];
+  deck.splice(randomIndex, 1);
+  const imageCache = [] as HTMLImageElement[]; // TODO preload images? [preloadImage(next.image)];
 
   return {
     badlyPlaced: null,
@@ -14,7 +16,7 @@ export default async function createState(deck: Item[]): Promise<GameState> {
     imageCache,
     lives: 5,
     next,
-    nextButOne,
+    nextButOne: null,
     played,
   };
 }

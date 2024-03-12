@@ -2,7 +2,7 @@ import React from "react";
 import { DragDropContext, DropResult } from "react-beautiful-dnd";
 import { GameState } from "../types/game";
 import useAutoMoveSensor from "../lib/useAutoMoveSensor";
-import { checkCorrect, getRandomItem, preloadImage } from "../lib/items";
+import { checkCorrect } from "../lib/items";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import styles from "../styles/board.module.scss";
@@ -54,20 +54,16 @@ export default function Board(props: Props) {
         ...state.next,
         played: { correct },
       });
-
-      const newNext = state.nextButOne;
-      const newNextButOne = getRandomItem(
-        newDeck,
-        newNext ? [...newPlayed, newNext] : newPlayed
-      );
-      const newImageCache = [preloadImage(newNextButOne.image)];
+      const randomIndex = Math.floor(Math.random() * newDeck.length);
+      const newNext = newDeck[randomIndex]
+      const newImageCache = [] as HTMLImageElement[]; // TODO preload images?
+      newDeck.splice(randomIndex, 1);
 
       setState({
         ...state,
         deck: newDeck,
         imageCache: newImageCache,
         next: newNext,
-        nextButOne: newNextButOne,
         played: newPlayed,
         lives: correct ? state.lives : state.lives - 1,
         badlyPlaced: correct
