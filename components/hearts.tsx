@@ -22,7 +22,7 @@ function Heart(props: HeartProps) {
     <animated.img
       className={styles.heart}
       style={{ opacity, scale }}
-      src="/images/heart.svg"
+      src="/autres/co2/images/heart.svg"
     />
   );
 }

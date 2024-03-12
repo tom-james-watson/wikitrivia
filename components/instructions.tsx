@@ -1,5 +1,4 @@
 import React from "react";
-import GitHubButton from "react-github-btn";
 import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
@@ -15,7 +14,8 @@ export default function Instructions(props: Props) {
   return (
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
-        <h2>Place the cards on the timeline in the correct order.</h2>
+        <h1>How much CO<sub>2</sub>?</h1>
+        <h2>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</h2>
         {highscore !== 0 && (
           <div className={styles.highscoreWrapper}>
             <Score score={highscore} title="Best streak" />
@@ -23,44 +23,9 @@ export default function Instructions(props: Props) {
         )}
         <Button onClick={start} text="Start game" />
         <div className={styles.about}>
-          <div>
-            All data sourced from{" "}
-            <a
-              href="https://www.wikidata.org"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Wikidata
-            </a>{" "}
-            and{" "}
-            <a
-              href="https://www.wikipedia.org"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Wikipedia
-            </a>
-            .
-          </div>
-          <div>
-            Have feedback? Please report it on{" "}
-            <a
-              href="https://github.com/tom-james-watson/wikitrivia/issues/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              GitHub
-            </a>
-            .
-          </div>
-          <GitHubButton
-            href="https://github.com/tom-james-watson/wikitrivia"
-            data-size="large"
-            data-show-count="true"
-            aria-label="Star tom-james-watson/wikitrivia on GitHub"
-          >
-            Star
-          </GitHubButton>
+          <p>Made with <img src="/autres/co2/images/heart.svg" title="love" alt="love" className={styles.heartImg} /> by <a href="https://antoine.duparay.fr">Fla</a> &amp; Sara.</p>
+          <p>License MIT - Source code available <a href="https://github.com/flaburgan/wikitrivia">on github</a>.</p>
+          <p>Based on the <a href="https://wikitrivia.tomjwatson.com/"></a> games by Tom James Watson.</p>
         </div>
       </div>
     </div>

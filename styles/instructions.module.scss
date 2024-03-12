@@ -11,6 +11,7 @@
     padding: 0 20px;
     text-align: center;
 
+    h1,
     h2 {
       color: $text-light;
       font-style: italic;
@@ -33,6 +34,11 @@
       width: 100%;
       margin-bottom: 10px;
       color: $text-light;
+
+      .heartImg {
+        vertical-align: bottom;
+        width: 18px;
+      }
 
       > div {
         margin-bottom: 10px;
