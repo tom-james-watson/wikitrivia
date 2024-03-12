@@ -39,6 +39,8 @@ export default function Hearts(props: Props) {
       <Heart have={lives >= 1} />
       <Heart have={lives >= 2} />
       <Heart have={lives >= 3} />
+      <Heart have={lives >= 4} />
+      <Heart have={lives >= 5} />
     </div>
   );
 }
