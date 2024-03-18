@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "label": "10km cycling",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 0
+  },
+  {
+    "id": "2",
+    "label": "10km scooter",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 0.8
+  },
+  {
+    "id": "3",
+    "label": "50km motocycle",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 9.5
+  },
+  {
+    "id": "4",
+    "label": "10km Métro",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 0.04
+  },
+  {
+    "id": "5",
+    "label": "200km TGV",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 0.6
+  },
+  {
+    "id": "6",
+    "label": "10km Vélo électrique",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 0.04
+  },
+  {
+    "id": "7",
+    "label": "200km Autocar",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 6
+  },
+  {
+    "id": "8",
+    "label": "50km Voiture électrique",
+    "description": "",
+    "category": "mobility",
+    "image": "",
+    "co2": 5
+  }
+]
