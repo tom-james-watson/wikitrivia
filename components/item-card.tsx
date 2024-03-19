@@ -58,10 +58,10 @@ export default function ItemCard(props: Props) {
                 transform: cardSpring.transform,
               }}
             >
-              <div className={styles.top}>
+              <header className={styles.top}>
                 <div className={styles.label}>{capitalize(item.label)}</div>
                 <div className={styles.description}>{capitalize(item.description)}</div>
-              </div>
+              </header>
               <div
                 className={styles.image}
                 style={{
@@ -88,9 +88,13 @@ export default function ItemCard(props: Props) {
                 ),
               }}
             >
-              <span className={styles.label}>{capitalize(item.label)}</span>
-              <span className={styles.date}>{item.co2}</span>
-              <span className={styles.description}>{item.description}.</span>
+              <header className={styles.top}>
+                <span className={styles.label}>{capitalize(item.label)}:</span>
+              </header>
+              <span className={styles.explanation} dangerouslySetInnerHTML={{__html: item.explanation}}></span>
+              <footer className={styles.bottom + " " + styles.incorrect}>
+                <span>{item.co2} kg CO<sub>2</sub></span>
+              </footer>
             </animated.div>
           </div>
         );
