@@ -59,9 +59,9 @@ export default function ItemCard(props: Props) {
               }}
             >
               <header className={styles.top}>
-                <div className={styles.label}>{capitalize(item.label)}</div>
-                <div className={styles.description}>{capitalize(item.description)}</div>
+                <h2 className={styles.label}>{capitalize(item.label)}</h2>
               </header>
+              <div className={styles.description} dangerouslySetInnerHTML={{__html: item.description}}></div>
               <div
                 className={styles.image}
                 style={{
@@ -89,7 +89,7 @@ export default function ItemCard(props: Props) {
               }}
             >
               <header className={styles.top}>
-                <span className={styles.label}>{capitalize(item.label)}:</span>
+                <h2 className={styles.label}>{capitalize(item.label)}:</h2>
               </header>
               <span className={styles.explanation} dangerouslySetInnerHTML={{__html: item.explanation}}></span>
               <footer className={styles.bottom + " " + styles.incorrect}>

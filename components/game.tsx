@@ -6,6 +6,9 @@ import Board from "./board";
 import Loading from "./loading";
 import Instructions from "./instructions";
 import mobility from "../data/mobility.json";
+import heating from "../data/heating.json";
+import food from "../data/food.json";
+import digital from "../data/digital.json";
 
 
 export default function Game() {
@@ -16,7 +19,7 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      setItems(mobility);
+      setItems(digital.concat(food).concat(heating).concat(mobility));
     };
 
     fetchGameData();

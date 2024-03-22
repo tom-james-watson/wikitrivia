@@ -41,6 +41,11 @@
 
   .top {
     padding: 10px;
+
+    h2 {
+      margin: 0;
+      font-size: 14px;
+    }
   }
 
   .bottom {
@@ -118,10 +123,12 @@
     word-wrap: break-word;
   }
 
+  .description,
   .explanation {
     font-size: 12px;
 
     h3 {
+      font-size: 13px;
       margin: 0;
       margin-bottom: 5px;
     }

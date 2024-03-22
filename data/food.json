@@ -1,0 +1,56 @@
+[
+  {
+    "id": "food-1",
+    "label": "Meal with white fish",
+    "description": "",
+    "explanation": "",
+    "category": "food",
+    "image": "",
+    "co2": 2
+  },
+  {
+    "id": "food-2",
+    "label": "Meal with beef",
+    "description": "",
+    "explanation": "",
+    "category": "food",
+    "image": "",
+    "co2": 7
+  },
+  {
+    "id": "food-3",
+    "label": "Meal with chicken",
+    "description": "",
+    "explanation": "",
+    "category": "food",
+    "image": "",
+    "co2": 1.6
+  },
+  {
+    "id": "food-4",
+    "label": "Meal with fat fish",
+    "description": "",
+    "explanation": "",
+    "category": "food",
+    "image": "",
+    "co2": 2.5
+  },
+  {
+    "id": "food-5",
+    "label": "Vegetarian meal",
+    "description": "",
+    "explanation": "",
+    "category": "food",
+    "image": "",
+    "co2": 0.5
+  },
+  {
+    "id": "food-6",
+    "label": "Vegan meal",
+    "description": "",
+    "explanation": "",
+    "category": "food",
+    "image": "",
+    "co2": 0.4
+  }
+]
