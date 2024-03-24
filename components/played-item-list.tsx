@@ -6,20 +6,11 @@ import styles from "../styles/played-item-list.module.scss";
 
 interface PlayedItemListProps {
   badlyPlacedIndex: number | null;
-  isDragging: boolean;
   items: Item[];
 }
 
 export default function PlayedItemList(props: PlayedItemListProps) {
-  const { badlyPlacedIndex, isDragging, items } = props;
-
-  const [flippedId, setFlippedId] = React.useState<null | string>(null);
-
-  React.useEffect(() => {
-    if (isDragging && flippedId !== null) {
-      setFlippedId(null);
-    }
-  }, [flippedId, isDragging]);
+  const { badlyPlacedIndex, items } = props;
 
   return (
     <div className={styles.wrapper}>
@@ -38,11 +29,9 @@ export default function PlayedItemList(props: PlayedItemListProps) {
                 {items.map((item, index) => (
                   <ItemCard
                     draggable={badlyPlacedIndex !== null}
-                    flippedId={flippedId}
                     index={index}
                     item={item}
                     key={item.id}
-                    setFlippedId={setFlippedId}
                   />
                 ))}
               </div>

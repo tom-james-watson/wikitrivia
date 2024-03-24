@@ -14,7 +14,7 @@ export default function Instructions(props: Props) {
   return (
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
-        <h1>How much CO<sub>2</sub>?</h1>
+        <h1>Dis<span style={{color: "#993344"}}>CO<sub>2</sub></span>very</h1>
         <h2>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</h2>
         {highscore !== 0 && (
           <div className={styles.highscoreWrapper}>

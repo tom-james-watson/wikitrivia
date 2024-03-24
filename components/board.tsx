@@ -20,15 +20,15 @@ interface Props {
 export default function Board(props: Props) {
   const { highscore, resetGame, state, setState, updateHighscore } = props;
 
-  const [isDragging, setIsDragging] = React.useState(false);
+  // const [isDragging, setIsDragging] = React.useState(false);
 
   async function onDragStart() {
-    setIsDragging(true);
+    // setIsDragging(true);
     navigator.vibrate(20);
   }
 
   async function onDragEnd(result: DropResult) {
-    setIsDragging(false);
+    // setIsDragging(false);
 
     const { source, destination } = result;
 
@@ -141,7 +141,6 @@ export default function Board(props: Props) {
             badlyPlacedIndex={
               state.badlyPlaced === null ? null : state.badlyPlaced.index
             }
-            isDragging={isDragging}
             items={state.played}
           />
         </div>

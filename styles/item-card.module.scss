@@ -39,7 +39,8 @@
     }
   }
 
-  .top {
+  .top,
+  main {
     padding: 10px;
 
     h2 {
@@ -123,8 +124,7 @@
     word-wrap: break-word;
   }
 
-  .description,
-  .explanation {
+  .description {
     font-size: 12px;
 
     h3 {

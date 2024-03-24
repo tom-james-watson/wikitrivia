@@ -1,0 +1,47 @@
+.explanationDialogContainer {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.explanationDialog {
+  width: 100%;
+  max-width: 400px;
+  background-color: #fff;
+  border-radius: 1rem;
+
+  header,
+  main {
+    padding: 1rem;
+  }
+
+  h2,
+  h3 {
+    margin: 0;
+  }
+  h3 {
+    margin-bottom: 5px;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 1rem;
+    list-style: none;
+  }
+
+  footer {
+    text-align: center;
+  }
+}
