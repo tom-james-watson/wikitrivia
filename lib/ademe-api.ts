@@ -14,7 +14,7 @@ export function loadDigital(): Item[] {
       id: element.slug,
       category: "digital",
       label: element.name,
-      description: "Achat et usage pendant " + element.usage.defaultyears,
+      description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
       explanation: "",
       image: "",
       source: element
@@ -28,7 +28,7 @@ export function loadDigital(): Item[] {
   //     id: element.slug,
   //     category: "digital",
   //     label: element.name,
-  //     description: "Achat et usage pendant " + element.usage.defaultyears,
+  //     description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
   //     explanation: "",
   //     image: "",
   //     source: element
