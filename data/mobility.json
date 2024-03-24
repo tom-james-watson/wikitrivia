@@ -70,5 +70,23 @@
     "category": "mobility",
     "image": "",
     "co2": 5
+  },
+  {
+    "id": "mobility-9",
+    "label": "Plane",
+    "description": "<h3>Distance: 8000km</h3>",
+    "explanation": "<ul><li><h3>Fabrication:</h3><span>83,60g</span></li><li><h3>Usage:</h3><span>19,80g</span></li>",
+    "category": "mobility",
+    "image": "",
+    "co2": 1216
+  },
+  {
+    "id": "mobility-10",
+    "label": "Plane",
+    "description": "<h3>Distance: 3000km</h3>",
+    "explanation": "<ul><li><h3>Fabrication:</h3><span>83,60g</span></li><li><h3>Usage:</h3><span>19,80g</span></li>",
+    "category": "mobility",
+    "image": "",
+    "co2": 563
   }
 ]

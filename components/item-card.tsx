@@ -4,6 +4,8 @@ import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
 import styles from "../styles/item-card.module.scss";
+import { round2 } from "../lib/items";
+import Explanation from "./explanation";
 
 type Props = {
   draggable?: boolean;
@@ -75,7 +77,7 @@ export default function ItemCard(props: Props) {
                 })}
               >
                 <span>
-                  {"played" in item ? item.co2 : "?"} kg CO<sub>2</sub>
+                  {"played" in item ? round2(item.source.ecv) : "?"} kg CO<sub>2</sub>
                 </span>
               </animated.div>
             </animated.div>
@@ -91,9 +93,11 @@ export default function ItemCard(props: Props) {
               <header className={styles.top}>
                 <h2 className={styles.label}>{capitalize(item.label)}:</h2>
               </header>
-              <span className={styles.explanation} dangerouslySetInnerHTML={{__html: item.explanation}}></span>
+              <span className={styles.explanation}>
+                <Explanation item={item} />
+              </span>
               <footer className={styles.bottom + " " + styles.incorrect}>
-                <span>{item.co2} kg CO<sub>2</sub></span>
+                <span>{round2(item.source.ecv)} kg CO<sub>2</sub></span>
               </footer>
             </animated.div>
           </div>

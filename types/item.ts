@@ -1,3 +1,5 @@
+import { AdemeECV } from "./AdemeECV";
+
 export interface Item {
   id: string;
   label: string;
@@ -5,7 +7,7 @@ export interface Item {
   explanation: string;
   category: string;
   image: string;
-  co2: number;
+  source: AdemeECV;
 }
 
 export type PlayedItem = Item & {
