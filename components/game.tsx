@@ -5,7 +5,7 @@ import createState from "../lib/create-state";
 import Board from "./board";
 import Loading from "./loading";
 import Instructions from "./instructions";
-import { loadDigital, loadMeal, loadClothes } from "../lib/ademe-api";
+import { loadDigital, loadMeal, loadClothes, loadHouseholdAppliances } from "../lib/ademe-api";
 
 
 export default function Game() {
@@ -16,7 +16,7 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      setItems(loadDigital().concat(loadMeal()).concat(loadClothes()));
+      setItems(loadDigital().concat(loadMeal()).concat(loadClothes()).concat(loadHouseholdAppliances()));
     };
 
     fetchGameData();
