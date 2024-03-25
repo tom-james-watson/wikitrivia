@@ -146,7 +146,7 @@
       "endOfLife": -5.36739103823929
     },
     {
-      "name": "Tablette détachable",
+      "name": "Tablette (détachable)",
       "slug": "tablettedetachable",
       "ecv": 86.28999022039561,
       "footprint": 82.212,
@@ -175,7 +175,7 @@
       "endOfLife": -3.3718663396044
     },
     {
-      "name": "Tablette",
+      "name": "Tablette (classique)",
       "slug": "tabletteclassique",
       "ecv": 69.5837761232212,
       "footprint": 63.187000000000005,
@@ -204,7 +204,7 @@
       "endOfLife": -1.0530804367788
     },
     {
-      "name": "Tablette",
+      "name": "Tablette (mini)",
       "slug": "tablettemini",
       "ecv": 47.70156560714469,
       "footprint": 40.9758,
@@ -465,7 +465,7 @@
       "endOfLife": -4.71436019956684
     },
     {
-      "name": "Modem",
+      "name": "Modem Fibre",
       "slug": "modemfibre",
       "ecv": 142.59172740390866,
       "footprint": 82.916,
@@ -639,7 +639,7 @@
       "endOfLife": -2.20297495821832
     },
     {
-      "name": "Imprimante",
+      "name": "Imprimante Jet d'encre",
       "slug": "imprimantejetdencre",
       "ecv": 108.1411327150618,
       "footprint": 88.19,
