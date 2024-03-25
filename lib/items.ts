@@ -23,5 +23,5 @@ export function round2(value: number):number {
 
 export function displayCO2(value: number): string {
   console.debug(value);
-  return value < 0.1 ? round2(value * 1000) + "g" : round2(value) + "kg";
+  return (Math.abs(value) < 0.1 ? round2(value * 1000) + " g" : round2(value) + " kg");
 }

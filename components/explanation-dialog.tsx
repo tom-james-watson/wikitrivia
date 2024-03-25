@@ -14,7 +14,7 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
   const {item, onExit} = props;
   const details = item.source.footprintDetail;
   const usage = item.source.usage;
-  const endOfLife = item.source.endoflife;
+  const endOfLife = item.source.endOfLife;
 
   return (
     <div className={classNames(styles.explanationDialogContainer)} onClick={onExit}>
@@ -25,11 +25,11 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
         <main>
           {
             item.explanation ? <p>{item.explanation}</p> : (
-              <>
-                {details && <ul>{details.map(displayDetail)}</ul>}
+              <ul>
+                {details && details.map(displayDetail)}
                 {usage && displayUsage(usage)}
                 {endOfLife && displayEndOfLife(endOfLife)}
-              </>
+              </ul>
             )
           }
         </main>
@@ -50,15 +50,15 @@ function displayDetail(detail: {id: number, value: number}): JSX.Element {
 }
 
 function displayUsage(usage: {peryear: number, defaultyears: number}): JSX.Element {
-  return <>
+  return <li>
     <h3>Usage :</h3>
     <span>{displayCO2(usage.peryear) + " par an, durée de vie estimée : " + usage.defaultyears + " ans."}</span>
-  </>;
+  </li>;
 }
 
 function displayEndOfLife(endOfLife: number): JSX.Element {
-  return <>
+  return <li>
     <h3>Fin de vie :</h3>
     <span>{displayCO2(endOfLife)}</span>
-  </>;
+  </li>;
 }

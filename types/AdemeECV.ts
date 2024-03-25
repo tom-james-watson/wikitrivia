@@ -13,5 +13,5 @@ export interface AdemeECV {
     peryear: number;
     defaultyears: number;
   },
-  endoflife?: number
+  endOfLife?: number
 }
