@@ -1,19 +1,11 @@
 ---
-name: Bug report (NOT bad cards - please see pinned issue)
+name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-<!--
-🛑 STOP - are you trying to report a bad card? 🛑
-
-Please don't open an issue to report a bad card.
-Please read https://github.com/tom-james-watson/wikitrivia/issues/12. Thank you.
--->
-
 
 **Describe the bug**
 A clear and concise description of what the bug is.
