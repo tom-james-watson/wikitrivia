@@ -23,7 +23,7 @@ export default function Instructions(props: Props) {
         )}
         <Button onClick={start} text="Start game" />
         <div className={styles.about}>
-          <p>Made with <img src="/autres/co2/images/heart.svg" title="love" alt="love" className={styles.heartImg} /> by <a href="https://antoine.duparay.fr">Fla</a> &amp; Sara.</p>
+          <p>Made with <img src="/images/heart.svg" title="love" alt="love" className={styles.heartImg} /> by <a href="https://antoine.duparay.fr">Fla</a> &amp; Sara.</p>
           <p>License MIT - Source code available <a href="https://github.com/flaburgan/wikitrivia">on github</a>.</p>
           <p>Based on the <a href="https://wikitrivia.tomjwatson.com/"></a> games by Tom James Watson.</p>
         </div>
