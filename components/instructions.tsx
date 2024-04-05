@@ -2,14 +2,17 @@ import React from "react";
 import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
+import CategoriesSelector from "./categories-selector";
 
 interface Props {
   highscore: number;
   start: () => void;
+  selectedCategories: boolean[];
+  setSelectedCategories: (selectedCategories: boolean[]) => void;
 }
 
 export default function Instructions(props: Props) {
-  const { highscore, start } = props;
+  const { highscore, start, selectedCategories } = props;
 
   return (
     <div className={styles.instructions}>
@@ -21,7 +24,10 @@ export default function Instructions(props: Props) {
             <Score score={highscore} title="Best streak" />
           </div>
         )}
-        <Button onClick={start} text="Start game" />
+        <CategoriesSelector selectedCategories={props.selectedCategories} setSelectedCategories={props.setSelectedCategories} />
+        <p>
+          <Button onClick={start} disabled={!selectedCategories.includes(true)} text="Start game" />
+        </p>
         <div className={styles.about}>
           <p>Made with <img src="/images/heart.svg" title="love" alt="love" className={styles.heartImg} /> by <a href="https://antoine.duparay.fr">Fla</a> &amp; Sara.</p>
           <p>License AGPL - Source code available <a href="https://github.com/flaburgan/wikitrivia">on github</a>.</p>
