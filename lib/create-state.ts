@@ -1,7 +1,7 @@
 import { GameState } from "../types/game";
 import { Item } from "../types/item";
 
-export default async function createState(deck: Item[]): Promise<GameState> {
+export default function createState(deck: Item[]): GameState {
   let randomIndex = Math.floor(Math.random() * deck.length);
   const played = [{ ...deck[randomIndex], played: { correct: true } }];
   deck.splice(randomIndex, 1);

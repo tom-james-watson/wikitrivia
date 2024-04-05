@@ -1,13 +1,39 @@
 
 import { Item } from "../types/item";
+import categories from "../data/ademe/0-categories.json";
 import numerique from "../data/ademe/1-numerique.json";
 import repas from "../data/ademe/2-repas.json";
 import boisson from "../data/ademe/3-boisson.json";
 import habillement from "../data/ademe/5-habillement.json";
 import electromenager from "../data/ademe/6-electromenager.json";
+import { AdemeCategory } from "../types/AdemeECV";
 //import usageNumerique from "../data/ademe/10-usagenumerique.json";
 
-export function loadDigital(): Item[] {
+export function loadCategories(): AdemeCategory[]  {
+  return categories.data;
+}
+
+export function loadCategory(id: number): Item[] {
+  // Hardcoded at the moment, to be seen with ADEME if we don't need to extend their data at some point
+  switch(id) {
+    case 1:
+      return loadDigital();
+    case 2:
+      return loadMeal();
+    case 3:
+      return loadDrinks();
+    case 4:
+      return []; // TODO Transport needs more work
+    case 5:
+      return loadClothes();
+    case 6:
+      return loadHouseholdAppliances();
+    default:
+      return [];
+  }
+}
+
+function loadDigital(): Item[] {
   const items: Item[] = [];
   numerique.data.forEach(element => {
     const item: Item = {
@@ -35,16 +61,15 @@ export function loadDigital(): Item[] {
   //   }
   //   items.push(item);
   // });
-
   return items;
 }
 
-export function loadMeal(): Item[] {
+function loadMeal(): Item[] {
   const items: Item[] = [];
   repas.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "food",
+      category: "meal",
       label: element.name,
       description: "",
       explanation: "",
@@ -53,7 +78,11 @@ export function loadMeal(): Item[] {
     }
     items.push(item);
   });
+  return items;
+}
 
+function loadDrinks(): Item[] {
+  const items: Item[] = [];
   boisson.data.forEach(element => {
     const item: Item = {
       id: element.slug,
@@ -66,11 +95,10 @@ export function loadMeal(): Item[] {
     }
     items.push(item);
   });
-
   return items;
 }
 
-export function loadClothes(): Item[] {
+function loadClothes(): Item[] {
   const items: Item[] = [];
   habillement.data.forEach(element => {
     const item: Item = {
@@ -88,7 +116,7 @@ export function loadClothes(): Item[] {
   return items;
 }
 
-export function loadHouseholdAppliances(): Item[] {
+function loadHouseholdAppliances(): Item[] {
   const items: Item[] = [];
   electromenager.data.forEach(element => {
     const item: Item = {

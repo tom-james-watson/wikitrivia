@@ -15,3 +15,10 @@ export interface AdemeECV {
   },
   endOfLife?: number
 }
+
+export interface AdemeCategory {
+  id: number;
+  name: string;
+  emoji: string;
+  slug: string;
+}

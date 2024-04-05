@@ -21,4 +21,9 @@
     background: none;
     border: 2px solid $primary;
   }
+
+  &:disabled {
+    background-color: #444;
+    cursor: not-allowed;
+  }
 }
