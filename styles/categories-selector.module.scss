@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
-  max-width: 1200px;
+  max-width: 1100px;
   justify-content: center;
 
   > div {
@@ -39,6 +39,15 @@
     p {
       margin: 0;
       font-size: 2rem;
+    }
+  }
+
+  @media screen and (max-width: 450px) {
+    gap: 12px;
+
+    > div {
+      height: 130px;
+      max-width: 150px;
     }
   }
 }

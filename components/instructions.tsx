@@ -25,14 +25,14 @@ export default function Instructions(props: Props) {
           </div>
         )}
         <CategoriesSelector selectedCategories={props.selectedCategories} setSelectedCategories={props.setSelectedCategories} />
-        <p>
-          <Button onClick={start} disabled={!selectedCategories.includes(true)} text="Start game" />
-        </p>
-        <div className={styles.about}>
-          <p>Made with <img src="/images/heart.svg" title="love" alt="love" className={styles.heartImg} /> by <a href="https://antoine.duparay.fr">Fla</a> &amp; Sara.</p>
-          <p>License AGPL - Source code available <a href="https://github.com/flaburgan/wikitrivia">on github</a>.</p>
-          <p>Based on the <a href="https://wikitrivia.tomjwatson.com/"></a> games by Tom James Watson.</p>
+        <div className={styles.startButton}>
+          <Button onClick={start} big={true} disabled={!selectedCategories.includes(true)} text="Start game" />
         </div>
+      </div>
+      <div className={styles.about}>
+        <p>Made with <img src="/images/heart.svg" title="love" alt="love" className={styles.heartImg} /> by <a href="https://antoine.duparay.fr">Fla</a> &amp; Sara.</p>
+        <p>License AGPL - Source code available <a href="https://github.com/flaburgan/wikitrivia">on github</a>.</p>
+        <p>Based on the <a href="https://wikitrivia.tomjwatson.com/"></a> games by Tom James Watson.</p>
       </div>
     </div>
   );
