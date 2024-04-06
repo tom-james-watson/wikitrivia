@@ -6,6 +6,8 @@ import repas from "../data/ademe/2-repas.json";
 import boisson from "../data/ademe/3-boisson.json";
 import habillement from "../data/ademe/5-habillement.json";
 import electromenager from "../data/ademe/6-electromenager.json";
+import mobilier from "../data/ademe/7-mobilier.json";
+import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
 import { AdemeCategory } from "../types/AdemeECV";
 //import usageNumerique from "../data/ademe/10-usagenumerique.json";
 
@@ -28,6 +30,10 @@ export function loadCategory(id: number): Item[] {
       return loadClothes();
     case 6:
       return loadHouseholdAppliances();
+    case 7:
+      return loadFurnitures();
+    case 9:
+      return loadVegetablesAndFruits();
     default:
       return [];
   }
@@ -124,6 +130,42 @@ function loadHouseholdAppliances(): Item[] {
       category: "housholdAppliances",
       label: element.name,
       description: element.usage ? "Achat et usage pendant " + element.usage.defaultyears + " ans." : "",
+      explanation: "",
+      image: "",
+      source: element
+    }
+    items.push(item);
+  });
+
+  return items;
+}
+
+function loadFurnitures(): Item[] {
+  const items: Item[] = [];
+  mobilier.data.forEach(element => {
+    const item: Item = {
+      id: element.slug,
+      category: "furnitures",
+      label: element.name,
+      description: "",
+      explanation: "",
+      image: "",
+      source: element
+    }
+    items.push(item);
+  });
+
+  return items;
+}
+
+function loadVegetablesAndFruits(): Item[] {
+  const items: Item[] = [];
+  vegetablesAndFruits.data.forEach(element => {
+    const item: Item = {
+      id: element.slug,
+      category: "vegetablesAndFruits",
+      label: element.name + " (1kg)",
+      description: "Consommé le mois de mars",
       explanation: "",
       image: "",
       source: element

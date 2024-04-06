@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "Canapé",
+      "name": "Canapé convertible",
       "slug": "canapeconvertible",
       "ecv": 197.5,
       "footprint": 197.5,
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "name": "Chaise",
+      "name": "Chaise en bois",
       "slug": "chaiseenbois",
       "ecv": 18.63,
       "footprint": 18.63,
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Table",
+      "name": "Table en bois",
       "slug": "tableenbois",
       "ecv": 80.22,
       "footprint": 80.22,
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Canapé",
+      "name": "Canapé en textile",
       "slug": "canapetextile",
       "ecv": 179.1,
       "footprint": 179.1,

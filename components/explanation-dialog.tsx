@@ -35,7 +35,7 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
         </main>
         <footer>
           <h3>Total :</h3>
-          <p><strong>{round2(item.source.ecv)}kg CO<sub>2</sub></strong></p>
+          <p><strong>{round2(item.source.ecv)} kg CO<sub>2</sub>e</strong></p>
         </footer>
       </div>
     </div>
