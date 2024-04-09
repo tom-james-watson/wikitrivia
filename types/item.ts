@@ -5,7 +5,7 @@ export interface Item {
   label: string;
   description: string;
   explanation: string;
-  category: string;
+  categoryId: number;
   image: string;
   source: AdemeECV;
 }

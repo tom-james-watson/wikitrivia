@@ -4,61 +4,71 @@
       "id": 1,
       "name": "Numérique",
       "emoji": "💻",
-      "slug": "numerique"
+      "slug": "numerique",
+      "color": "#28c"
     },
     {
       "id": 2,
       "name": "Repas",
       "emoji": "🍽",
-      "slug": "repas"
+      "slug": "repas",
+      "color": "#eee"
     },
     {
       "id": 3,
       "name": "Boisson",
       "emoji": "🍹",
-      "slug": "boisson"
+      "slug": "boisson",
+      "color": "#959"
     },
     {
       "id": 4,
       "name": "Transport",
       "emoji": "🚴‍♂️",
-      "slug": "transport"
+      "slug": "transport",
+      "color": ""
     },
     {
       "id": 5,
       "name": "Habillement",
       "emoji": "👔",
-      "slug": "habillement"
+      "slug": "habillement",
+      "color": "#eb0"
     },
     {
       "id": 6,
       "name": "Électroménager",
       "emoji": "🛁",
-      "slug": "electromenager"
+      "slug": "electromenager",
+      "color": "#acf"
     },
     {
       "id": 7,
       "name": "Mobilier",
       "emoji": "🪑",
-      "slug": "mobilier"
+      "slug": "mobilier",
+      "color": "#d90"
     },
     {
       "id": 8,
       "name": "Chauffage",
       "emoji": "🏠",
-      "slug": "chauffage"
+      "slug": "chauffage",
+      "color": "#481"
     },
     {
       "id": 9,
       "name": "Fruits et légumes",
       "emoji": "🍅",
-      "slug": "fruitsetlegumes"
+      "slug": "fruitsetlegumes",
+      "color": "#d26"
     },
     {
       "id": 10,
       "name": "Usage numérique",
       "emoji": "✉️",
-      "slug": "usagenumerique"
+      "slug": "usagenumerique",
+      "color": "#d26"
     }
   ]
 }
