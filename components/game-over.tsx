@@ -36,9 +36,12 @@ export default function GameOver(props: Props) {
 
   const share = React.useCallback(async () => {
     await navigator?.clipboard?.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\n${getMedal(
-        score
-      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
+      `🌍 disCO2very 🚲
+Guess the CO2 footprint!
+
+${getMedal(score)}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}
+
+https://disco2very.org`
     );
     setShareText("Copied");
     setTimeout(() => {
