@@ -7,7 +7,7 @@ import { loadCategory } from "../lib/ademe-api";
 export default function Game() {
   const [started, setStarted] = useState(false);
    // 0 is a fake one, to avoid the hassle of subtracting by one all the time. 1, 2, 3, 5 & 6 are selected by default
-  const [selectedCategories, setSelectedCategories] = useState<boolean[]>([false, true, true, true, false, true, true, false, false, false, false]);
+  const [selectedCategories, setSelectedCategories] = useState<boolean[]>([false, false, false, false, false, false, false, false, false, false, false]);
 
   const items: Item[] = [];
   for (let i = 1; i < selectedCategories.length; i++) {

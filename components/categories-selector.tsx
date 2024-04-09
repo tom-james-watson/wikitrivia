@@ -11,21 +11,31 @@ interface CategoriesSelectorProps {
 export default function CategoriesSelector({selectedCategories, setSelectedCategories}: CategoriesSelectorProps) {
   const categories = loadCategories();
   const updateCategories = (id: number) => {
-    selectedCategories[id] = !selectedCategories[id];
-    setSelectedCategories([...selectedCategories]); // We create a new array to force a React rerender 
+    // Some categories are not available yet
+    if (id === 4 || id === 8 || id === 10) {
+      alert("This category is not available yet.");
+    } else {
+      selectedCategories[id] = !selectedCategories[id];
+      setSelectedCategories([...selectedCategories]); // We create a new array to force a React rerender 
+    }
   };
 
-  return <div className={classNames(styles.categoriesSelection)}>
-    {categories.map((category) => {
-      const id = category.id;
-      return (
-        <div key={id} className={selectedCategories[id] ? classNames(styles.selected) : ""} onClick={() => updateCategories(id)}>
-          <div>
-            <h3>{category.name}</h3>
-            <p>{category.emoji}</p>
-          </div>
-        </div>
-      );
-    })}
-  </div>;
+  return (
+    <div>
+      <h3>Select the categories you want to play with:</h3>
+      <div className={classNames(styles.categoriesSelection)}>
+        {categories.map((category) => {
+          const id = category.id;
+          return (
+            <div key={id} className={selectedCategories[id] ? classNames(styles.selected) : ""} onClick={() => updateCategories(id)}>
+              <div>
+                <h3>{category.name}</h3>
+                <p>{category.emoji}</p>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
 }

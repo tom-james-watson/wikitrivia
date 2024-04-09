@@ -5,6 +5,7 @@
   height: 100%;
   flex-direction: column;
   padding: 0 20px;
+  color: $text-light;
 
   .wrapper {
     flex-grow: 1;
@@ -26,6 +27,7 @@
     .highscoreWrapper {
       margin-top: 2rem;
       margin-bottom: 3rem;
+      color: $text;
     }
 
     .startButton {
