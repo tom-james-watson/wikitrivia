@@ -43,7 +43,7 @@ ${getMedal(score)}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highsco
 
 https://disco2very.org`
     );
-    setShareText("Copied");
+    setShareText("Copied!");
     setTimeout(() => {
       setShareText(defaultShareText);
     }, 2000);

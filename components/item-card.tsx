@@ -5,6 +5,7 @@ import { Item, PlayedItem } from "../types/item";
 import styles from "../styles/item-card.module.scss";
 import { round2 } from "../lib/items";
 import ExplanationDialog from "./explanation-dialog";
+import { loadCategories } from "../lib/ademe-api";
 
 type Props = {
   draggable?: boolean;
@@ -20,12 +21,16 @@ export default function ItemCard(props: Props) {
   const { draggable, index, item } = props;
   const [showExplanation, setShowExplanation] = React.useState<boolean>(false);
 
+  const categories = loadCategories();
+
   return (<>
     <Draggable draggableId={item.id} index={index} isDragDisabled={!draggable}>
       {(provided, snapshot) => {
         return (
           <div
-            className={classNames(styles.itemCard, {
+            className={classNames(
+              styles.itemCard,
+            {
               [styles.played]: "played" in item,
               [styles.dragging]: snapshot.isDragging,
             })}
@@ -38,7 +43,10 @@ export default function ItemCard(props: Props) {
               }
             }}
           >
-            <div className={styles.front}>
+            <div
+              className={styles.front}
+              style={{border: "solid " + categories[item.categoryId - 1].color + " 4px" }}
+            >
               <header className={styles.top}>
                 <h2 className={styles.label}>{capitalize(item.label)}</h2>
               </header>
@@ -47,7 +55,7 @@ export default function ItemCard(props: Props) {
                 // style={{
                 //   backgroundImage: `url("${item.image}")`,
                 // }}
-                dangerouslySetInnerHTML={{__html: item.description}}
+                dangerouslySetInnerHTML={{__html: "<div>" + item.description + "</div><div>" + item.image + "</div>"}}
               >
               </main>
               <div

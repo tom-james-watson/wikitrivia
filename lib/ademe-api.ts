@@ -32,8 +32,12 @@ export function loadCategory(id: number): Item[] {
       return loadHouseholdAppliances();
     case 7:
       return loadFurnitures();
+    case 8:
+      return []; // TODO Chauffage needs more work
     case 9:
       return loadVegetablesAndFruits();
+    case 10:
+      return []; // TODO Usage numérique needs more work
     default:
       return [];
   }
@@ -44,11 +48,11 @@ function loadDigital(): Item[] {
   numerique.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "digital",
+      categoryId: 1,
       label: element.name,
       description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
       explanation: "",
-      image: "",
+      image: "📱 💻 🖥️",
       source: element
     }
     items.push(item);
@@ -75,11 +79,11 @@ function loadMeal(): Item[] {
   repas.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "meal",
+      categoryId: 2,
       label: element.name,
       description: "",
       explanation: "",
-      image: "",
+      image: "🐟 🍽 🥩",
       source: element
     }
     items.push(item);
@@ -92,11 +96,11 @@ function loadDrinks(): Item[] {
   boisson.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "food",
+      categoryId: 3,
       label: element.name + " (1L)",
       description: "",
       explanation: "",
-      image: "",
+      image: "🍺 🍹 🥛",
       source: element
     }
     items.push(item);
@@ -109,11 +113,11 @@ function loadClothes(): Item[] {
   habillement.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "clothes",
+      categoryId: 5,
       label: element.name,
       description: "",
       explanation: "",
-      image: "",
+      image: "👞 👔 👗",
       source: element
     }
     items.push(item);
@@ -127,11 +131,11 @@ function loadHouseholdAppliances(): Item[] {
   electromenager.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "housholdAppliances",
+      categoryId: 6,
       label: element.name,
       description: element.usage ? "Achat et usage pendant " + element.usage.defaultyears + " ans." : "",
       explanation: "",
-      image: "",
+      image: "🧊 🛁 ☕",
       source: element
     }
     items.push(item);
@@ -145,11 +149,11 @@ function loadFurnitures(): Item[] {
   mobilier.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "furnitures",
+      categoryId: 7,
       label: element.name,
       description: "",
       explanation: "",
-      image: "",
+      image: "🛏️ 🪑 🛋️",
       source: element
     }
     items.push(item);
@@ -163,11 +167,11 @@ function loadVegetablesAndFruits(): Item[] {
   vegetablesAndFruits.data.forEach(element => {
     const item: Item = {
       id: element.slug,
-      category: "vegetablesAndFruits",
+      categoryId: 9,
       label: element.name + " (1kg)",
       description: "Consommé le mois de mars",
       explanation: "",
-      image: "",
+      image: "🥑 🍇 🍅",
       source: element
     }
     items.push(item);

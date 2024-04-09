@@ -21,4 +21,5 @@ export interface AdemeCategory {
   name: string;
   emoji: string;
   slug: string;
+  color: string;
 }
