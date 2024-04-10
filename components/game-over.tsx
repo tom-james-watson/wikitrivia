@@ -8,6 +8,7 @@ interface Props {
   highscore: number;
   resetGame: () => void;
   score: number;
+  lives: number;
 }
 
 const defaultShareText = "Share";
@@ -24,7 +25,7 @@ function getMedal(score: number): string {
 }
 
 export default function GameOver(props: Props) {
-  const { highscore, resetGame, score } = props;
+  const { highscore, resetGame, score, lives } = props;
 
   const animProps = useSpring({
     opacity: 1,
@@ -51,6 +52,18 @@ https://disco2very.org`
 
   return (
     <animated.div style={animProps} className={styles.gameOver}>
+      {lives > 0 ?
+        <>
+          <h1>Congratulations!</h1>
+          <h2>You ordered all the cards!</h2>
+          <h3>You should probably select more categories?</h3>
+        </>
+        :
+        <>
+          <h1>Game over</h1>
+          <h2>Try again!</h2>
+        </>
+      }
       <div className={styles.scoresWrapper}>
         <div className={styles.score}>
           <Score score={score} title="Streak" />

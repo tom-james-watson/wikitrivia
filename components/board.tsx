@@ -126,15 +126,14 @@ export default function Board(props: Props) {
       <div className={styles.wrapper}>
         <div className={styles.top}>
           <Hearts lives={state.lives} />
-          {state.lives > 0 ? (
-            <>
+          {state.lives > 0 && state.next ? (
               <NextItemList next={state.next} />
-            </>
           ) : (
             <GameOver
               highscore={highscore}
               resetGame={restart}
               score={score}
+              lives={state.lives}
             />
           )}
         </div>

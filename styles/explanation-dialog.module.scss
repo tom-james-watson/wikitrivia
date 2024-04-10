@@ -1,3 +1,5 @@
+@import "./variables";
+
 .explanationDialogContainer {
   position: fixed;
   top: 0;
@@ -16,6 +18,7 @@
 .explanationDialog {
   width: 100%;
   max-width: 400px;
+  color: $text;
   background-color: #fff;
   border-radius: 1rem;
 

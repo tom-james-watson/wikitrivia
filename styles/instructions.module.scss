@@ -5,7 +5,6 @@
   height: 100%;
   flex-direction: column;
   padding: 0 20px;
-  color: $text-light;
 
   .wrapper {
     flex-grow: 1;
@@ -17,7 +16,6 @@
 
     h1,
     h2 {
-      color: $text-light;
       font-style: italic;
       text-transform: uppercase;
       margin: 0;
@@ -39,7 +37,6 @@
     flex-grow: 0;
     text-align: center;
     margin-bottom: 10px;
-    color: $text-light;
 
     .heartImg {
       vertical-align: bottom;
@@ -51,7 +48,6 @@
     }
 
     a {
-      color: $text-light;
       margin-bottom: 10px;
     }
 
