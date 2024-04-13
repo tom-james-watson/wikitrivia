@@ -33,3 +33,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# i18n compilation files
+/locales/**/*.ts

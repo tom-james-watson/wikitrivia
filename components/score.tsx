@@ -3,11 +3,11 @@ import styles from "../styles/score.module.scss";
 
 interface Props {
   score: number;
-  title: string;
+  children: React.JSX.Element;
 }
 
 export default function Score(props: Props) {
-  const { score, title } = props;
+  const { score, children } = props;
 
   let backgroundColor = "#ffffff";
 
@@ -21,7 +21,7 @@ export default function Score(props: Props) {
 
   return (
     <div className={styles.score} style={{ backgroundColor }}>
-      <div className={styles.title}>{title}</div>
+      <div className={styles.title}>{children}</div>
       <div className={styles.value}>{score}</div>
     </div>
   );

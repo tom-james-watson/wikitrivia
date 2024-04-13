@@ -13,6 +13,182 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: components/instructions.tsx:22
+#: components/explanation-dialog.tsx:56
+msgid "{0} per year, estimated lifetime: {1} years."
+msgstr "{0} per year, estimated lifetime: {1} years."
+
+#: data/ademe/footprintDetailCategories.ts:11
+msgid "Assembly and delivery"
+msgstr "Assembly and delivery"
+
+#: components/game-over.tsx:43
+#: components/game-over.tsx:77
+#: components/instructions.tsx:28
+msgid "Best streak"
+msgstr "Best streak"
+
+#: data/ademe/footprintDetailCategories.ts:12
+msgid "Building"
+msgstr "Building"
+
+#: components/instructions.tsx:40
+msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
+msgstr "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
+
+#: data/ademe/footprintDetailCategories.ts:14
+msgid "Condensation trails"
+msgstr "Condensation trails"
+
+#: components/game-over.tsx:62
+msgid "Congratulations!"
+msgstr "Congratulations!"
+
+#: data/ademe/footprintDetailCategories.ts:26
+msgid "Consumption"
+msgstr "Consumption"
+
+#: components/game-over.tsx:52
+msgid "Copied!"
+msgstr "Copied!"
+
+#: data/ademe/footprintDetailCategories.ts:19
+msgid "Data-centers construction"
+msgstr "Data-centers construction"
+
+#: data/ademe/footprintDetailCategories.ts:20
+msgid "Data-centers usage"
+msgstr "Data-centers usage"
+
+#: data/ademe/footprintDetailCategories.ts:24
+msgid "Delivery"
+msgstr "Delivery"
+
+#: data/ademe/footprintDetailCategories.ts:16
+msgid "Devices building"
+msgstr "Devices building"
+
+#: data/ademe/footprintDetailCategories.ts:17
+msgid "Devices usage"
+msgstr "Devices usage"
+
+#: components/App.tsx:19
+msgid "Discover the CO2 footprint of actions or objects by ordering them"
+msgstr "Discover the CO2 footprint of actions or objects by ordering them"
+
+#: components/explanation-dialog.tsx:62
+msgid "End of life:"
+msgstr "End of life:"
+
+#: data/ademe/footprintDetailCategories.ts:21
+msgid "Farming"
+msgstr "Farming"
+
+#: data/ademe/footprintDetailCategories.ts:10
+msgid "Formatting"
+msgstr "Formatting"
+
+#: data/ademe/footprintDetailCategories.ts:13
+msgid "Fuel"
+msgstr "Fuel"
+
+#: components/game-over.tsx:68
+msgid "Game over"
+msgstr "Game over"
+
+#: components/game-over.tsx:41
+msgid "Guess the CO2 footprint!"
+msgstr "Guess the CO2 footprint!"
+
+#: components/instructions.tsx:38
+msgid "License AGPL - Source code available <0>on github</0>."
+msgstr "License AGPL - Source code available <0>on github</0>."
+
+#: components/instructions.tsx:37
+#: components/instructions.tsx:37
+msgid "love"
+msgstr "love"
+
+#: components/instructions.tsx:37
+msgid "Made with <0/> by <1>Fla</1> & Sara."
+msgstr "Made with <0/> by <1>Fla</1> & Sara."
+
+#: data/ademe/footprintDetailCategories.ts:23
+msgid "Packaging"
+msgstr "Packaging"
+
+#: components/instructions.tsx:25
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Place the cards in the correct order guessing their CO<0>2</0> footprint."
+
+#: components/game-over.tsx:81
+msgid "Play again"
+msgstr "Play again"
+
+#: data/ademe/footprintDetailCategories.ts:22
+msgid "Processing"
+msgstr "Processing"
+
+#: data/ademe/footprintDetailCategories.ts:8
+msgid "Raw materials"
+msgstr "Raw materials"
+
+#: components/categories-selector.tsx:26
+msgid "Select the categories you want to play with:"
+msgstr "Select the categories you want to play with:"
+
+#: components/game-over.tsx:15
+msgid "Share"
+msgstr "Share"
+
+#: components/instructions.tsx:33
+msgid "Start game"
+msgstr "Start game"
+
+#: data/ademe/footprintDetailCategories.ts:25
+msgid "Supermarket and distribution"
+msgstr "Supermarket and distribution"
+
+#: data/ademe/footprintDetailCategories.ts:9
+msgid "Supplying"
+msgstr "Supplying"
+
+#: components/instructions.tsx:45
+msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
+msgstr "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
+
+#: components/categories-selector.tsx:17
+msgid "This category is not yet available."
+msgstr "This category is not yet available."
+
+#: components/game-over.tsx:42
+#: components/game-over.tsx:74
+msgid "This streak"
+msgstr "This streak"
+
+#: components/explanation-dialog.tsx:38
+msgid "Total:"
+msgstr "Total:"
+
+#: data/ademe/footprintDetailCategories.ts:18
+msgid "Transmission"
+msgstr "Transmission"
+
+#: components/game-over.tsx:69
+msgid "Try again!"
+msgstr "Try again!"
+
+#: data/ademe/footprintDetailCategories.ts:15
+msgid "Usage"
+msgstr "Usage"
+
+#: components/explanation-dialog.tsx:55
+msgid "Usage:"
+msgstr "Usage:"
+
+#: components/game-over.tsx:63
+msgid "You ordered all the cards!"
+msgstr "You ordered all the cards!"
+
+#: components/game-over.tsx:64
+msgid "You should probably select more categories?"
+msgstr "You should probably select more categories?"

@@ -9,8 +9,8 @@
     "lint": "eslint --max-warnings=0 --cache --ext .js,.ts,.tsx .",
     "lint-fix": "eslint --fix --cache --ext .js,.ts,.tsx .",
     "start": "next start",
-    "extract": "lingui extract",
-    "compile": "lingui compile --typescript"
+    "i18n-extract": "lingui extract",
+    "i18n-compile": "lingui compile --typescript"
   },
   "dependencies": {
     "@lingui/react": "^4.10.0",

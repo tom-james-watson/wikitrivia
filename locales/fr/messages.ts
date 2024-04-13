@@ -1,1 +1,0 @@
-/*eslint-disable*/import type{Messages}from"@lingui/core";export const messages:Messages=JSON.parse("{\"GbY7Ab\":\"Placez les cartes dans le bon ordre en estimant leur empreinte CO<0>2</0>\"}");

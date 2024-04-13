@@ -3,6 +3,7 @@ import { animated, useSpring } from "react-spring";
 import styles from "../styles/game-over.module.scss";
 import Button from "./button";
 import Score from "./score";
+import { Trans, t } from "@lingui/macro";
 
 interface Props {
   highscore: number;
@@ -11,7 +12,7 @@ interface Props {
   lives: number;
 }
 
-const defaultShareText = "Share";
+const defaultShareText = <Trans>Share</Trans>;
 
 function getMedal(score: number): string {
   if (score >= 20) {
@@ -33,18 +34,22 @@ export default function GameOver(props: Props) {
     config: { duration: 500 },
   });
 
+
   const [shareText, setShareText] = React.useState(defaultShareText);
 
   const share = React.useCallback(async () => {
+    const guess = t`Guess the CO2 footprint!`;
+    const streak = t`This streak`;
+    const bestStreak = t`Best streak`;
     await navigator?.clipboard?.writeText(
       `🌍 disCO2very 🚲
-Guess the CO2 footprint!
+${guess}
 
-${getMedal(score)}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}
+${getMedal(score)}${streak}: ${score}\n${getMedal(highscore)}${bestStreak}: ${highscore}
 
 https://disco2very.org`
     );
-    setShareText("Copied!");
+    setShareText(<Trans>Copied!</Trans>);
     setTimeout(() => {
       setShareText(defaultShareText);
     }, 2000);
@@ -54,27 +59,27 @@ https://disco2very.org`
     <animated.div style={animProps} className={styles.gameOver}>
       {lives > 0 ?
         <>
-          <h1>Congratulations!</h1>
-          <h2>You ordered all the cards!</h2>
-          <h3>You should probably select more categories?</h3>
+          <h1><Trans>Congratulations!</Trans></h1>
+          <h2><Trans>You ordered all the cards!</Trans></h2>
+          <h3><Trans>You should probably select more categories?</Trans></h3>
         </>
         :
         <>
-          <h1>Game over</h1>
-          <h2>Try again!</h2>
+          <h1><Trans>Game over</Trans></h1>
+          <h2><Trans>Try again!</Trans></h2>
         </>
       }
       <div className={styles.scoresWrapper}>
         <div className={styles.score}>
-          <Score score={score} title="Streak" />
+          <Score score={score}><Trans>This streak</Trans></Score>
         </div>
         <div className={styles.score}>
-          <Score score={highscore} title="Best streak" />
+          <Score score={highscore}><Trans>Best streak</Trans></Score>
         </div>
       </div>
       <div className={styles.buttons}>
-        <Button onClick={resetGame} text="Play again" />
-        <Button onClick={share} text={shareText} minimal />
+        <Button onClick={resetGame}><Trans>Play again</Trans></Button>
+        <Button onClick={share} minimal>{shareText}</Button>
       </div>
     </animated.div>
   );

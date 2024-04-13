@@ -1,27 +1,29 @@
+import { t } from "@lingui/macro";
+
 export interface FootprintDetailCategories {
   [key: number]: string;
 }
 
 const footprintDetailCategories: FootprintDetailCategories = {
-  1: "Matières premières",
-  2: "Approvisionnement",
-  3: "Mise en forme",
-  4: "Assemblage et distribution",
-  5: "Construction",
-  6: "Carburant",
-  7: "Trainées de condensation",
-  8: "Usage",
-  13: "Construction des terminaux",
-  14: "Usage des terminaux",
-  15: "Transmission",
-  16: "Construction des data-centers",
-  17: "Usage des data-centers",
-  30: "Agriculture",
-  31: "Transformation",
-  32: "Emballage",
-  33: "Transport",
-  34: "Supermarché et distribution",
-  35: "Consommation"
+  1: t`Raw materials`,
+  2: t`Supplying`,
+  3: t`Formatting`,
+  4: t`Assembly and delivery`,
+  5: t`Building`,
+  6: t`Fuel`,
+  7: t`Condensation trails`,
+  8: t`Usage`,
+  13: t`Devices building`,
+  14: t`Devices usage`,
+  15: t`Transmission`,
+  16: t`Data-centers construction`,
+  17: t`Data-centers usage`,
+  30: t`Farming`,
+  31: t`Processing`,
+  32: t`Packaging`,
+  33: t`Delivery`,
+  34: t`Supermarket and distribution`,
+  35: t`Consumption`
 }
 
 export default footprintDetailCategories;

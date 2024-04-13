@@ -13,6 +13,182 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: components/instructions.tsx:22
+#: components/explanation-dialog.tsx:56
+msgid "{0} per year, estimated lifetime: {1} years."
+msgstr "{0} par an, durée de vie estimée : {1} ans."
+
+#: data/ademe/footprintDetailCategories.ts:11
+msgid "Assembly and delivery"
+msgstr "Assemblage et distribution"
+
+#: components/game-over.tsx:43
+#: components/game-over.tsx:77
+#: components/instructions.tsx:28
+msgid "Best streak"
+msgstr "Meilleure série"
+
+#: data/ademe/footprintDetailCategories.ts:12
+msgid "Building"
+msgstr "Construction"
+
+#: components/instructions.tsx:40
+msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
+msgstr "Code basé sur le jeu <0>wikitrivia</0> par <1>Tom James Watson</1>. Merci !"
+
+#: data/ademe/footprintDetailCategories.ts:14
+msgid "Condensation trails"
+msgstr "Trainées de condensation"
+
+#: components/game-over.tsx:62
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+#: data/ademe/footprintDetailCategories.ts:26
+msgid "Consumption"
+msgstr "Consommation"
+
+#: components/game-over.tsx:52
+msgid "Copied!"
+msgstr "Copié !"
+
+#: data/ademe/footprintDetailCategories.ts:19
+msgid "Data-centers construction"
+msgstr "Construction des data-centers"
+
+#: data/ademe/footprintDetailCategories.ts:20
+msgid "Data-centers usage"
+msgstr "Usage des data-centers"
+
+#: data/ademe/footprintDetailCategories.ts:24
+msgid "Delivery"
+msgstr "Transport"
+
+#: data/ademe/footprintDetailCategories.ts:16
+msgid "Devices building"
+msgstr "Construction des appareils"
+
+#: data/ademe/footprintDetailCategories.ts:17
+msgid "Devices usage"
+msgstr "Usage des appareils"
+
+#: components/App.tsx:19
+msgid "Discover the CO2 footprint of actions or objects by ordering them"
+msgstr "Découvrez l'empreinte CO2 d'actions ou d'objets en les triant"
+
+#: components/explanation-dialog.tsx:62
+msgid "End of life:"
+msgstr "Fin de vie :"
+
+#: data/ademe/footprintDetailCategories.ts:21
+msgid "Farming"
+msgstr "Agriculture"
+
+#: data/ademe/footprintDetailCategories.ts:10
+msgid "Formatting"
+msgstr "Mise en forme"
+
+#: data/ademe/footprintDetailCategories.ts:13
+msgid "Fuel"
+msgstr "Carburant"
+
+#: components/game-over.tsx:68
+msgid "Game over"
+msgstr "Partie terminée"
+
+#: components/game-over.tsx:41
+msgid "Guess the CO2 footprint!"
+msgstr "Devinez l'empreinte CO2 !"
+
+#: components/instructions.tsx:38
+msgid "License AGPL - Source code available <0>on github</0>."
+msgstr "Licence AGPL - Code source disponible <0>sur github</0>."
+
+#: components/instructions.tsx:37
+#: components/instructions.tsx:37
+msgid "love"
+msgstr "amour"
+
+#: components/instructions.tsx:37
+msgid "Made with <0/> by <1>Fla</1> & Sara."
+msgstr "Fait avec <0/> par <1>Fla</1> & Sara."
+
+#: data/ademe/footprintDetailCategories.ts:23
+msgid "Packaging"
+msgstr "Emballage"
+
+#: components/instructions.tsx:25
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Placez les cartes dans le bon ordre en estimant leur empreinte CO<0>2</0>"
+
+#: components/game-over.tsx:81
+msgid "Play again"
+msgstr "Rejouer"
+
+#: data/ademe/footprintDetailCategories.ts:22
+msgid "Processing"
+msgstr "Transformation"
+
+#: data/ademe/footprintDetailCategories.ts:8
+msgid "Raw materials"
+msgstr "Matières premières"
+
+#: components/categories-selector.tsx:26
+msgid "Select the categories you want to play with:"
+msgstr "Sélectionnez les catégories avec lesquelles vous voulez jouer :"
+
+#: components/game-over.tsx:15
+msgid "Share"
+msgstr "Partager"
+
+#: components/instructions.tsx:33
+msgid "Start game"
+msgstr "Démarrer la partie"
+
+#: data/ademe/footprintDetailCategories.ts:25
+msgid "Supermarket and distribution"
+msgstr "Supermarché et distribution"
+
+#: data/ademe/footprintDetailCategories.ts:9
+msgid "Supplying"
+msgstr "Approvisionnement"
+
+#: components/instructions.tsx:45
+msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
+msgstr "Les chiffres viennent de la plateforme de l'<0>Ademe</0> <1>Impact CO<2>2</2></1>. Merci à eux pour leur travail incroyable !"
+
+#: components/categories-selector.tsx:17
+msgid "This category is not yet available."
+msgstr "Cette catégorie n'est pas encore disponible."
+
+#: components/game-over.tsx:42
+#: components/game-over.tsx:74
+msgid "This streak"
+msgstr "Cette série"
+
+#: components/explanation-dialog.tsx:38
+msgid "Total:"
+msgstr "Total :"
+
+#: data/ademe/footprintDetailCategories.ts:18
+msgid "Transmission"
+msgstr "Transmission"
+
+#: components/game-over.tsx:69
+msgid "Try again!"
+msgstr "Essayez à nouveau !"
+
+#: data/ademe/footprintDetailCategories.ts:15
+msgid "Usage"
+msgstr "Usage"
+
+#: components/explanation-dialog.tsx:55
+msgid "Usage:"
+msgstr "Usage :"
+
+#: components/game-over.tsx:63
+msgid "You ordered all the cards!"
+msgstr "Vous avez ordonné toutes les cartes !"
+
+#: components/game-over.tsx:64
+msgid "You should probably select more categories?"
+msgstr "Vous devriez probablement sélectionner plus de catégories ?"

@@ -7,11 +7,11 @@ interface Props {
   big?: boolean;
   disabled?: boolean;
   onClick: () => void;
-  text: string;
+  children: React.JSX.Element;
 }
 
 export default function Button(props: Props) {
-  const { minimal = false, big = false, disabled = false, onClick, text } = props;
+  const { minimal = false, big = false, disabled = false, onClick, children } = props;
 
   return (
     <button
@@ -19,7 +19,7 @@ export default function Button(props: Props) {
       className={classNames(styles.button, { [styles.minimal]: minimal }, { [styles.big]: big })}
       disabled={disabled}
     >
-      {text}
+      {children}
     </button>
   );
 }
