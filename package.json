@@ -8,9 +8,12 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss,json,yml}\"",
     "lint": "eslint --max-warnings=0 --cache --ext .js,.ts,.tsx .",
     "lint-fix": "eslint --fix --cache --ext .js,.ts,.tsx .",
-    "start": "next start"
+    "start": "next start",
+    "extract": "lingui extract",
+    "compile": "lingui compile --typescript"
   },
   "dependencies": {
+    "@lingui/react": "^4.10.0",
     "axios": "^1.6.7",
     "classnames": "^2.3.1",
     "next": "^14.1.0",
@@ -24,12 +27,16 @@
     "tween-functions": "^1.2.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@lingui/cli": "^4.10.0",
+    "@lingui/macro": "^4.10.0",
     "@types/node": "^14.14.41",
     "@types/react": "^17.0.3",
     "@types/react-beautiful-dnd": "^13.0.0",
     "@types/react-no-ssr": "^1.1.1",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
+    "babel-plugin-macros": "^3.1.0",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",

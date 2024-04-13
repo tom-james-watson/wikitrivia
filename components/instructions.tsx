@@ -3,6 +3,7 @@ import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
 import CategoriesSelector from "./categories-selector";
+import { Trans } from "@lingui/macro";
 
 interface Props {
   highscore: number;
@@ -18,7 +19,7 @@ export default function Instructions(props: Props) {
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
         <h1>Dis<span style={{color: "#993344"}}>CO<sub>2</sub></span>very</h1>
-        <h2>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</h2>
+        <h2><Trans>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</Trans></h2>
         {highscore !== 0 && (
           <div className={styles.highscoreWrapper}>
             <Score score={highscore} title="Best streak" />
