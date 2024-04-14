@@ -5,22 +5,24 @@
   height: 100%;
   flex-direction: column;
   padding: 0 20px;
+  align-items: center;
+
+  h1,
+  h2 {
+    font-style: italic;
+    text-transform: uppercase;
+    margin: 0;
+    margin-top: 1rem;
+  }
 
   .wrapper {
     flex-grow: 1;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     text-align: center;
-
-    h1,
-    h2 {
-      font-style: italic;
-      text-transform: uppercase;
-      margin: 0;
-      margin-top: 1rem;
-    }
+    max-width: 1015px;
 
     .highscoreWrapper {
       margin-top: 2rem;

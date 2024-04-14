@@ -1,8 +1,9 @@
+@import "./variables";
+
 .categoriesSelection {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
-  max-width: 1100px;
   justify-content: center;
 
   > div {
@@ -14,8 +15,8 @@
     justify-content: center;
     padding: 1rem;
     border: solid #aaa 2px;
-    border-radius: 5px;
-    background-color: #33373c;
+    border-radius: $small-border-radius;
+    background-color: $box-background;
 
     &.selected {
       background-color: #050;

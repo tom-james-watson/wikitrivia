@@ -6,6 +6,7 @@ import CategoriesSelector from "./categories-selector";
 import { Trans } from "@lingui/macro";
 import { msg } from "@lingui/macro";
 import { useLingui } from "@lingui/react";
+import RealCardsGame from "./real-cards-game";
 
 interface Props {
   highscore: number;
@@ -32,7 +33,9 @@ export default function Instructions(props: Props) {
         <div className={styles.startButton}>
           <Button onClick={start} big={true} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
         </div>
+        <RealCardsGame />
       </div>
+
       <div className={styles.about}>
         <p><Trans>Made with <img src="/images/heart.svg" title={_(msg`love`)} alt={_(msg`love`)} className={styles.heartImg} /> by <a href="https://antoine.duparay.fr" rel="noreferrer" target="_blank">Fla</a> &amp; Sara.</Trans></p>
         <p><Trans>License AGPL - Source code available <a href="https://github.com/flaburgan/disco2very" rel="noreferrer" target="_blank">on github</a>.</Trans></p>

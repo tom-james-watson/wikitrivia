@@ -17,13 +17,29 @@ msgstr ""
 msgid "{0} per year, estimated lifetime: {1} years."
 msgstr "{0} par an, durée de vie estimée : {1} ans."
 
+#: components/email-registration.tsx:22
+msgid "{email} has been successfully registered."
+msgstr "{email} a été enregistré avec succès."
+
+#: components/email-registration.tsx:28
+msgid "{email} is already registered."
+msgstr "{email} est déjà enregistré."
+
+#: components/email-registration.tsx:26
+msgid "{email} is not a valid email address."
+msgstr "{email} n'est pas une adresse e-mail valide."
+
+#: components/real-cards-game.tsx:9
+msgid "A real pack of cards?"
+msgstr "Un vrai jeu de cartes ?"
+
 #: data/ademe/footprintDetailCategories.ts:11
 msgid "Assembly and delivery"
 msgstr "Assemblage et distribution"
 
 #: components/game-over.tsx:43
 #: components/game-over.tsx:77
-#: components/instructions.tsx:28
+#: components/instructions.tsx:29
 msgid "Best streak"
 msgstr "Meilleure série"
 
@@ -31,7 +47,7 @@ msgstr "Meilleure série"
 msgid "Building"
 msgstr "Construction"
 
-#: components/instructions.tsx:40
+#: components/instructions.tsx:43
 msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 msgstr "Code basé sur le jeu <0>wikitrivia</0> par <1>Tom James Watson</1>. Merci !"
 
@@ -71,13 +87,17 @@ msgstr "Construction des appareils"
 msgid "Devices usage"
 msgstr "Usage des appareils"
 
-#: components/App.tsx:19
+#: components/App.tsx:30
 msgid "Discover the CO2 footprint of actions or objects by ordering them"
 msgstr "Découvrez l'empreinte CO2 d'actions ou d'objets en les triant"
 
 #: components/explanation-dialog.tsx:62
 msgid "End of life:"
 msgstr "Fin de vie :"
+
+#: components/email-registration.tsx:30
+msgid "Error: {0}"
+msgstr "Erreur : {0}"
 
 #: data/ademe/footprintDetailCategories.ts:21
 msgid "Farming"
@@ -99,30 +119,42 @@ msgstr "Partie terminée"
 msgid "Guess the CO2 footprint!"
 msgstr "Devinez l'empreinte CO2 !"
 
-#: components/instructions.tsx:38
+#: components/real-cards-game.tsx:14
+msgid "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
+msgstr "Interessé ? Ou simplement vous voulez être au courant des dernières nouvelles de disCO<0>2</0>very ? Restons en contact par e-mail !"
+
+#: components/instructions.tsx:41
 msgid "License AGPL - Source code available <0>on github</0>."
 msgstr "Licence AGPL - Code source disponible <0>sur github</0>."
 
-#: components/instructions.tsx:37
-#: components/instructions.tsx:37
+#: components/instructions.tsx:40
+#: components/instructions.tsx:40
 msgid "love"
 msgstr "amour"
 
-#: components/instructions.tsx:37
+#: components/instructions.tsx:40
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Fait avec <0/> par <1>Fla</1> & Sara."
+
+#: components/email-registration.tsx:40
+msgid "myemail@myprovider.org"
+msgstr "monemail@monfournisseur.fr"
 
 #: data/ademe/footprintDetailCategories.ts:23
 msgid "Packaging"
 msgstr "Emballage"
 
-#: components/instructions.tsx:25
+#: components/instructions.tsx:26
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Placez les cartes dans le bon ordre en estimant leur empreinte CO<0>2</0>"
 
 #: components/game-over.tsx:81
 msgid "Play again"
 msgstr "Rejouer"
+
+#: components/email-registration.tsx:48
+msgid "Please contact fla (a) framasoft.org to unregister"
+msgstr "Merci de contacter fla (a) framasoft.org pour vous désinscrire"
 
 #: data/ademe/footprintDetailCategories.ts:22
 msgid "Processing"
@@ -132,6 +164,10 @@ msgstr "Transformation"
 msgid "Raw materials"
 msgstr "Matières premières"
 
+#: components/email-registration.tsx:41
+msgid "Register"
+msgstr "S'inscrire"
+
 #: components/categories-selector.tsx:26
 msgid "Select the categories you want to play with:"
 msgstr "Sélectionnez les catégories avec lesquelles vous voulez jouer :"
@@ -140,7 +176,7 @@ msgstr "Sélectionnez les catégories avec lesquelles vous voulez jouer :"
 msgid "Share"
 msgstr "Partager"
 
-#: components/instructions.tsx:33
+#: components/instructions.tsx:34
 msgid "Start game"
 msgstr "Démarrer la partie"
 
@@ -152,13 +188,17 @@ msgstr "Supermarché et distribution"
 msgid "Supplying"
 msgstr "Approvisionnement"
 
-#: components/instructions.tsx:45
+#: components/instructions.tsx:48
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 msgstr "Les chiffres viennent de la plateforme de l'<0>Ademe</0> <1>Impact CO<2>2</2></1>. Merci à eux pour leur travail incroyable !"
 
 #: components/categories-selector.tsx:17
 msgid "This category is not yet available."
 msgstr "Cette catégorie n'est pas encore disponible."
+
+#: components/real-cards-game.tsx:11
+msgid "This game has been created as a web app to test the idea and see if it is enjoyable, but the ultimate goal is to print a real deck of cards as we feel that it can be a useful tool for raising awareness about climate change. Possibly, we may do a crowdfunding campaign, so you could order your own pack of cards!"
+msgstr "Ce jeu a été créé comme application web pour essayer l'idée et voir si elle plaît, mais le but final est de l'imprimer en un vrai jeu de cartes, car nous pensons qu'il pourrait être un bon outil pour sensibiliser au changement climatique. Potentiellement, nous ferons une campagne de financement participatif, donc vous pourrez commander le vôtre !"
 
 #: components/game-over.tsx:42
 #: components/game-over.tsx:74

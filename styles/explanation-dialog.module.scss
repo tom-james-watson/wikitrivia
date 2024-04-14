@@ -20,7 +20,7 @@
   max-width: 400px;
   color: $text;
   background-color: #fff;
-  border-radius: 1rem;
+  border-radius: $box-border-radius;
 
   header,
   main {

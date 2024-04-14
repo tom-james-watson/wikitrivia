@@ -36,3 +36,6 @@ yarn-error.log*
 
 # i18n compilation files
 /locales/**/*.ts
+
+#server
+/server

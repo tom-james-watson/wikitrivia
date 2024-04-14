@@ -1,4 +1,4 @@
-@import "./variables.scss";
+@import "./variables";
 @import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 
 html,
@@ -33,4 +33,82 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.button {
+  border: none;
+  background: $primary;
+  color: $text-light;
+  padding: 10px 24px;
+  border-radius: $button-border-radius;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: italic;
+  white-space: nowrap;
+  min-width: 140px;
+
+  &:hover {
+    filter: brightness(1.3);
+  }
+
+  &.minimal {
+    background: none;
+    border: 2px solid $primary;
+  }
+
+  &.big {
+    font-size: 1.3rem;
+    padding: 12px 28px;
+  }
+
+  &:disabled {
+    background-color: #444;
+    cursor: not-allowed;
+  }
+}
+
+input {
+  padding: 10px;
+  border: solid 3px $box-background;
+  border-radius: $box-border-radius;
+
+  &:focus {
+    outline: none;
+    border: solid 3px $primary;
+  }
+}
+
+@mixin message-box($font-color, $background-color) {
+  border: solid 2px $font-color;
+  background-color: $background-color;
+  border-radius: 5px;
+  padding: 12px;
+  color: $font-color;
+
+  :first-child {
+    margin-top: 0;
+  }
+
+  :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.error-box {
+  @include message-box(#b31f1f, #e38f8f);
+}
+
+.warning-box {
+  @include message-box(#8c2c0c, #fd9f36);
+}
+
+.success-box {
+  @include message-box(#0c6c2c, #76bd8f);
+}
+
+.info {
+  font-style: italic;
+  font-size: .9rem;
+  opacity: .8;
 }

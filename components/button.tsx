@@ -1,6 +1,4 @@
 import React from "react";
-import classNames from "classnames";
-import styles from "../styles/button.module.scss";
 
 interface Props {
   minimal?: boolean;
@@ -16,7 +14,7 @@ export default function Button(props: Props) {
   return (
     <button
       onClick={onClick}
-      className={classNames(styles.button, { [styles.minimal]: minimal }, { [styles.big]: big })}
+      className={"button" + (minimal ? " minimal" : "") + (big ? " big" : "")}
       disabled={disabled}
     >
       {children}
