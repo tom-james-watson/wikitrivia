@@ -112,3 +112,35 @@ input {
   font-size: .9rem;
   opacity: .8;
 }
+
+.hoverInterrogation {
+  display: none;
+  background-color: #0007;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+  justify-content: center;
+
+  > div {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 2rem;
+    border-radius: 50%;
+    color: $text;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 6px 20px;
+  }
+}
+
+.notDragging .played {
+  cursor: pointer;
+
+  &:hover .hoverInterrogation {
+    display: flex;
+  }
+}

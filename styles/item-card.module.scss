@@ -9,8 +9,7 @@
   margin-right: 20px;
   position: relative;
 
-  .front,
-  .back {
+  .front {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -81,28 +80,10 @@
   }
 
   &.dragging {
-    .front,
-    .back {
+    .front {
       &::after {
         opacity: 1;
       }
-    }
-  }
-
-  &.played {
-    .front,
-    .back {
-      cursor: pointer;
-    }
-  }
-
-  &.flipped {
-    .front {
-      z-index: -1;
-    }
-
-    .back {
-      z-index: initial;
     }
   }
 
@@ -119,11 +100,6 @@
     padding: 10px;
     padding-bottom: 0;
     color: $text-light;
-  }
-
-  .back {
-    height: 100%;
-    z-index: -1;
   }
 
   .label {

@@ -2,10 +2,10 @@ import React from "react";
 import classNames from "classnames";
 import { Draggable } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
-import styles from "../styles/item-card.module.scss";
 import { round2 } from "../lib/items";
 import ExplanationDialog from "./explanation-dialog";
 import { loadCategories } from "../lib/ademe-api";
+import styles from "../styles/item-card.module.scss";
 
 type Props = {
   draggable?: boolean;
@@ -31,9 +31,8 @@ export default function ItemCard(props: Props) {
             className={classNames(
               styles.itemCard,
             {
-              [styles.played]: "played" in item,
               [styles.dragging]: snapshot.isDragging,
-            })}
+            }) + " " + ("played" in item && "played")}
             ref={provided.innerRef}
             {...provided.draggableProps}
             {...provided.dragHandleProps}
@@ -68,6 +67,9 @@ export default function ItemCard(props: Props) {
                   {"played" in item ? round2(item.source.ecv) : "?"} kg CO<sub>2</sub>
                 </span>
               </div>
+            </div>
+            <div className="hoverInterrogation">
+              <div>?</div>
             </div>
           </div>
         );

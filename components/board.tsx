@@ -22,15 +22,15 @@ export default function Board(props: Props) {
   const { highscore, updateHighscore, items, restart } = props;
   const [state, setState] = useState<GameState>(createState(items));
 
-  // const [isDragging, setIsDragging] = React.useState(false);
+  const [isDragging, setIsDragging] = React.useState(false);
 
   async function onDragStart() {
-    // setIsDragging(true);
+    setIsDragging(true);
     navigator.vibrate(20);
   }
 
   async function onDragEnd(result: DropResult) {
-    // setIsDragging(false);
+    setIsDragging(false);
 
     const { source, destination } = result;
 
@@ -123,7 +123,7 @@ export default function Board(props: Props) {
       onDragStart={onDragStart}
       sensors={[useAutoMoveSensor.bind(null, state)]}
     >
-      <div className={styles.wrapper}>
+      <div className={styles.wrapper + " " + (isDragging ? "dragging" : "notDragging")}>
         <div className={styles.top}>
           <Hearts lives={state.lives} />
           {state.lives > 0 && state.next ? (
