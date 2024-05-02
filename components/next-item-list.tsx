@@ -15,7 +15,7 @@ export default function NextItemList(props: NextItemListProps) {
     <div className={styles.container}>
       <Droppable droppableId="next" direction="horizontal">
         {(provided) => (
-          <div className={styles.wrapper}>
+          <div className={styles.wrapper + " bordered-area"}>
             <div
               ref={provided.innerRef}
               {...provided.droppableProps}

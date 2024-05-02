@@ -33,6 +33,19 @@
       .items {
         display: flex;
         align-items: center;
+        z-index: 1;
+
+        .emptyItem {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: $card-height;
+          width: $card-width;
+          padding: $card-margin;
+          margin-right: $card-margin;
+          background-color: $background;
+          font-size: 2rem;
+        }
       }
     }
   }

@@ -26,6 +26,7 @@ export default function PlayedItemList(props: PlayedItemListProps) {
                 <div className={styles.timeline}></div>
               </div>
               <div className={styles.items}>
+                <div className={styles.emptyItem + " bordered-area"}>-</div>
                 {items.map((item, index) => (
                   <ItemCard
                     draggable={badlyPlacedIndex !== null}
@@ -34,6 +35,7 @@ export default function PlayedItemList(props: PlayedItemListProps) {
                     key={item.id}
                   />
                 ))}
+                <div className={styles.emptyItem + " bordered-area"}>+</div>
               </div>
               {provided.placeholder}
             </div>

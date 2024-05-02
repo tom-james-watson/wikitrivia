@@ -113,6 +113,11 @@ input {
   opacity: .8;
 }
 
+.bordered-area {
+  border: 1px dashed $dashes;
+  border-radius: 5px;
+}
+
 .hoverInterrogation {
   display: none;
   background-color: #0007;
