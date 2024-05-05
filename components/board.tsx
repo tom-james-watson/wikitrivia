@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import createState from "../lib/create-state";
 import { DragDropContext, DropResult } from "react-beautiful-dnd";
 import { GameState } from "../types/game";
 import useAutoMoveSensor from "../lib/useAutoMoveSensor";
@@ -9,18 +8,17 @@ import PlayedItemList from "./played-item-list";
 import styles from "../styles/board.module.scss";
 import Hearts from "./hearts";
 import GameOver from "./game-over";
-import { Item } from "../types/item";
 
 interface Props {
   highscore: number;
-  items: Item[];
+  initialState: GameState;
   updateHighscore: (score: number) => void;
   restart: () => void;
 }
 
 export default function Board(props: Props) {
-  const { highscore, updateHighscore, items, restart } = props;
-  const [state, setState] = useState<GameState>(createState(items));
+  const { highscore, updateHighscore, initialState, restart } = props;
+  const [state, setState] = useState<GameState>(initialState);
 
   const [isDragging, setIsDragging] = React.useState(false);
 
@@ -31,7 +29,6 @@ export default function Board(props: Props) {
 
   async function onDragEnd(result: DropResult) {
     setIsDragging(false);
-
     const { source, destination } = result;
 
     if (

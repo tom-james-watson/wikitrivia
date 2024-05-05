@@ -3,6 +3,7 @@ import Board from "./board";
 import Instructions from "./instructions";
 import { Item } from "../types/item";
 import { loadCategory } from "../lib/ademe-api";
+import createState from "../lib/create-state";
 
 export default function Game() {
   const [started, setStarted] = useState(false);
@@ -26,7 +27,7 @@ export default function Game() {
   }, []);
 
   return (started ?
-    <Board highscore={highscore} items={items} updateHighscore={updateHighscore} restart={() => setStarted(false)} />
+    <Board highscore={highscore} initialState={createState(items)} updateHighscore={updateHighscore} restart={() => setStarted(false)} />
     :
     <Instructions highscore={highscore} start={() => setStarted(true)} selectedCategories={selectedCategories} setSelectedCategories={setSelectedCategories} />
   );
