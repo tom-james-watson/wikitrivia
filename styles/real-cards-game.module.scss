@@ -1,14 +1,17 @@
 @import "./variables";
 
 .realCardsGame {
-  padding: 2rem;
-  border: 2px solid $text-light;
+  max-width: $content-max-width;
+  padding: 1.2rem;
+  border: 2px solid $text-muted;
   border-radius: $small-border-radius;
+  color: #ddd;
   background-color: $box-background;
   text-align: left;
 
   h2 {
     margin: 0;
+    font-size: 1.3rem;
   }
 
   form {
@@ -19,6 +22,7 @@
 
     [type=email] {
       width: 250px;
+      background-color: #ddd;
     }
   }
 }
