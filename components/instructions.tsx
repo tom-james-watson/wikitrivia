@@ -1,23 +1,21 @@
 import React from "react";
 import styles from "../styles/instructions.module.scss";
-import Button from "./button";
 import Score from "./score";
 import CategoriesSelector from "./categories-selector";
 import { Trans } from "@lingui/macro";
 import { msg } from "@lingui/macro";
 import { useLingui } from "@lingui/react";
 import RealCardsGame from "./real-cards-game";
+import { Item } from "../types/item";
 
 interface Props {
   highscore: number;
-  start: () => void;
-  selectedCategories: boolean[];
-  setSelectedCategories: (selectedCategories: boolean[]) => void;
+  setSelectedItems: (selectedItems: Item[]) => void;
 }
 
 export default function Instructions(props: Props) {
-  const { highscore, start, selectedCategories } = props;
   const { _ } = useLingui();
+  const { highscore, setSelectedItems } = props;
 
   return (
     <div className={styles.instructions}>
@@ -29,10 +27,7 @@ export default function Instructions(props: Props) {
             <Score score={highscore}><Trans>Best streak</Trans></Score>
           </div>
         )}
-        <CategoriesSelector selectedCategories={props.selectedCategories} setSelectedCategories={props.setSelectedCategories} />
-        <div className={styles.startButton}>
-          <Button onClick={start} big={true} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
-        </div>
+        <CategoriesSelector setSelectedItems={setSelectedItems} />
       </div>
 
       <RealCardsGame />

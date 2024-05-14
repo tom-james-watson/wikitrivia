@@ -1,16 +1,21 @@
-import React from "react";
+import React, { useState } from "react";
 import { loadCategories } from "../lib/ademe-api";
 import classNames from "classnames";
 import styles from "../styles/categories-selector.module.scss";
 import { Trans, t } from "@lingui/macro";
+import { Item } from "../types/item";
+import Button from "./button";
+import { loadCategory } from "../lib/ademe-api";
 
 interface CategoriesSelectorProps {
-  selectedCategories: boolean[];
-  setSelectedCategories: (selectedCategories: boolean[]) => void;
+  setSelectedItems: (selectedItems: Item[]) => void;
 }
 
-export default function CategoriesSelector({selectedCategories, setSelectedCategories}: CategoriesSelectorProps) {
+export default function CategoriesSelector({setSelectedItems}: CategoriesSelectorProps) {
   const categories = loadCategories();
+  // Make 0 a fake one, to avoid the hassle of subtracting by one all the time.
+  const [selectedCategories, setSelectedCategories] = useState<boolean[]>(Array(categories.length + 1).fill(false));
+
   const updateCategories = (id: number) => {
     // Some categories are not available yet
     if (id === 4 || id === 8 || id === 10) {
@@ -23,20 +28,35 @@ export default function CategoriesSelector({selectedCategories, setSelectedCateg
 
   return (
     <div>
-      <h3><Trans>Select the categories you want to play with:</Trans></h3>
-      <div className={classNames(styles.categoriesSelection)}>
-        {categories.map((category) => {
-          const id = category.id;
-          return (
-            <div key={id} className={selectedCategories[id] ? classNames(styles.selected) : ""} onClick={() => updateCategories(id)}>
-              <div>
-                <h3>{category.name}</h3>
-                <p>{category.emoji}</p>
+      <div>
+        <h3><Trans>Select the categories you want to play with:</Trans></h3>
+        <div className={classNames(styles.categoriesSelection)}>
+          {categories.map((category) => {
+            const id = category.id;
+            return (
+              <div key={id} className={selectedCategories[id] ? classNames(styles.selected) : ""} onClick={() => updateCategories(id)}>
+                <div>
+                  <h3>{category.name}</h3>
+                  <p>{category.emoji}</p>
+                </div>
               </div>
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
+      </div>
+      <div>
+        <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories)); }} big={true} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
       </div>
     </div>
   );
+}
+
+function getItemsFromCategories(selectedCategories: boolean[]) {
+  const items: Item[] = [];
+  for (let i = 1; i < selectedCategories.length; i++) {
+    if (selectedCategories[i]) {
+      items.push(...loadCategory(i));
+    }
+  }
+  return items;
 }
