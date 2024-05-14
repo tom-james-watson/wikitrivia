@@ -9,6 +9,7 @@ import { useLingui } from "@lingui/react";
 import RealCardsGame from "./real-cards-game";
 import { Item } from "../types/item";
 import { getDefaultItems } from "../lib/ademe-api";
+import ExampleCards from "./example-cards";
 
 interface Props {
   highscore: number;
@@ -34,9 +35,12 @@ export default function Instructions(props: Props) {
           categoriesMode ?
             <CategoriesSelector setSelectedItems={setSelectedItems} setCategoriesMode={setCategoriesMode} />
             : 
-          <div className="button-container">
-            <Button onClick={() => {setSelectedItems(getDefaultItems());}}><Trans>Start game</Trans></Button>
-            <Button onClick={() => setCategoriesMode(true)} minimal={true}><Trans>Manually pick categories</Trans></Button>
+          <div>
+            <ExampleCards />
+            <div className="button-container">
+              <Button onClick={() => {setSelectedItems(getDefaultItems());}}><Trans>Start game</Trans></Button>
+              <Button onClick={() => setCategoriesMode(true)} minimal={true}><Trans>Pick categories</Trans></Button>
+            </div>
           </div>
         }
       </div>

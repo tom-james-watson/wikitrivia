@@ -1,0 +1,14 @@
+.exampleCardsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+
+  .question {
+    font-size: 2rem;
+
+    p {
+      margin: .5rem 0;
+    }
+  }
+}

@@ -1,30 +1,17 @@
 @import "./variables";
 
-.itemCard {
-  display: inline-block;
+.front {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: $card-width;
   height: $card-height;
-  margin-top: $card-margin;
-  margin-bottom: $card-margin;
-  margin-right: $card-margin;
-  position: relative;
-
-  .front {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    border-radius: $box-border-radius;
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
-      rgba(0, 0, 0, 0.23) 0px 6px 6px;
-    background-color: #ffffff;
-    color: $text;
-    will-change: transform, opacity;
-  }
+  border-radius: $box-border-radius;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+    rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  background-color: #ffffff;
+  color: $text;
+  will-change: transform, opacity;
 
   .top,
   main {
@@ -79,14 +66,6 @@
     }
   }
 
-  &.dragging {
-    .front {
-      &::after {
-        opacity: 1;
-      }
-    }
-  }
-
   .image {
     display: flex;
     flex-direction: column;
@@ -115,14 +94,17 @@
       margin: 0;
       margin-bottom: 5px;
     }
+
     ul {
       margin: 0;
       padding: 0 10px;
     }
+
     li {
       margin: 0;
       list-style: none;
     }
+
     span {
       display: block;
       text-align: center;

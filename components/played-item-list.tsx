@@ -1,7 +1,7 @@
 import React from "react";
 import { Droppable } from "react-beautiful-dnd";
 import { Item } from "../types/item";
-import ItemCard from "./item-card";
+import DraggableItemCard from "./draggable-item-card";
 import styles from "../styles/played-item-list.module.scss";
 
 interface PlayedItemListProps {
@@ -28,7 +28,7 @@ export default function PlayedItemList(props: PlayedItemListProps) {
               <div className={styles.items}>
                 <div className={styles.emptyItem + " bordered-area"}>-</div>
                 {items.map((item, index) => (
-                  <ItemCard
+                  <DraggableItemCard
                     draggable={badlyPlacedIndex !== null}
                     index={index}
                     item={item}
