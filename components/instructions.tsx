@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import styles from "../styles/instructions.module.scss";
+import Button from "./button";
 import Score from "./score";
 import CategoriesSelector from "./categories-selector";
 import { Trans } from "@lingui/macro";
@@ -7,6 +8,7 @@ import { msg } from "@lingui/macro";
 import { useLingui } from "@lingui/react";
 import RealCardsGame from "./real-cards-game";
 import { Item } from "../types/item";
+import { getDefaultItems } from "../lib/ademe-api";
 
 interface Props {
   highscore: number;
@@ -14,6 +16,7 @@ interface Props {
 }
 
 export default function Instructions(props: Props) {
+  const [categoriesMode, setCategoriesMode] = useState(false);
   const { _ } = useLingui();
   const { highscore, setSelectedItems } = props;
 
@@ -27,7 +30,15 @@ export default function Instructions(props: Props) {
             <Score score={highscore}><Trans>Best streak</Trans></Score>
           </div>
         )}
-        <CategoriesSelector setSelectedItems={setSelectedItems} />
+        {
+          categoriesMode ?
+            <CategoriesSelector setSelectedItems={setSelectedItems} setCategoriesMode={setCategoriesMode} />
+            : 
+          <div className="button-container">
+            <Button onClick={() => {setSelectedItems(getDefaultItems());}}><Trans>Start game</Trans></Button>
+            <Button onClick={() => setCategoriesMode(true)} minimal={true}><Trans>Manually pick categories</Trans></Button>
+          </div>
+        }
       </div>
 
       <RealCardsGame />

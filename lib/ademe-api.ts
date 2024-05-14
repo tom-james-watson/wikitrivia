@@ -11,6 +11,55 @@ import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
 import { AdemeCategory } from "../types/AdemeECV";
 //import usageNumerique from "../data/ademe/10-usagenumerique.json";
 
+export function getDefaultItems(): Item[] {
+  const slugs = [
+    "smartphone",
+    "television",
+    "ordinateurportable",
+    "repasavecduboeuf",
+    "repasvegetarien",
+    "repasavecdupoulet",
+    "eauenbouteille",
+    "vin",
+    "laitdevache",
+    "jeans",
+    "tshirtencoton",
+    "pullenlaine",
+    "fourelectrique",
+    "lavelinge",
+    "refrigirateur",
+    "chaiseenbois",
+    "lit"
+  ];
+
+  const selectedItems: Item[] = [];
+  getAllItems().forEach(item => {
+    if (slugs.includes(item.source.slug)) {
+      selectedItems.push(item);
+    }
+  });
+  return selectedItems;
+}
+
+export function getItemFromSlug(slug: string): Item | undefined {
+  for (let i = 0; i < getAllItems().length; i++) {
+    if (getAllItems()[i].source.slug === slug) {
+      return getAllItems()[i];
+    }
+  }
+  return undefined;
+}
+
+const allItems: Item[] = [];
+function getAllItems(): Item[] {
+  if (allItems.length === 0) {
+    for (let i = 1; i <= loadCategories().length; i++) {
+      allItems.push(...loadCategory(i));
+    }
+  }
+  return allItems;
+}
+
 let categories: AdemeCategory[] = [];
 export function loadCategories(): AdemeCategory[] {
   if (categories.length === 0) {

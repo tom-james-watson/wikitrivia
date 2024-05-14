@@ -35,6 +35,14 @@ a {
   box-sizing: border-box;
 }
 
+.button-container {
+  margin: 2rem;
+
+  button:first-child {
+    margin-right: 1rem;
+  }
+}
+
 .button {
   border: none;
   background: $primary;

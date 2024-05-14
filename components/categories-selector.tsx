@@ -9,13 +9,14 @@ import { loadCategory } from "../lib/ademe-api";
 
 interface CategoriesSelectorProps {
   setSelectedItems: (selectedItems: Item[]) => void;
+  setCategoriesMode: (categoriesMode: boolean) => void;
 }
 
-export default function CategoriesSelector({setSelectedItems}: CategoriesSelectorProps) {
+export default function CategoriesSelector({setSelectedItems, setCategoriesMode}: CategoriesSelectorProps) {
+
   const categories = loadCategories();
   // Make 0 a fake one, to avoid the hassle of subtracting by one all the time.
   const [selectedCategories, setSelectedCategories] = useState<boolean[]>(Array(categories.length + 1).fill(false));
-
   const updateCategories = (id: number) => {
     // Some categories are not available yet
     if (id === 4 || id === 8 || id === 10) {
@@ -44,8 +45,9 @@ export default function CategoriesSelector({setSelectedItems}: CategoriesSelecto
           })}
         </div>
       </div>
-      <div>
-        <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories)); }} big={true} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
+      <div className="button-container">
+        <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories)); }} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
+        <Button onClick={() => setCategoriesMode(false)} minimal={true}><Trans>Back</Trans></Button>
       </div>
     </div>
   );
