@@ -1,6 +1,6 @@
 
 import { Item } from "../types/item";
-import categories from "../data/ademe/0-categories.json";
+import ademeCategories from "../data/ademe/0-categories.json";
 import numerique from "../data/ademe/1-numerique.json";
 import repas from "../data/ademe/2-repas.json";
 import boisson from "../data/ademe/3-boisson.json";
@@ -11,13 +11,17 @@ import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
 import { AdemeCategory } from "../types/AdemeECV";
 //import usageNumerique from "../data/ademe/10-usagenumerique.json";
 
-export function loadCategories(): AdemeCategory[]  {
-  return categories.data;
+let categories: AdemeCategory[] = [];
+export function loadCategories(): AdemeCategory[] {
+  if (categories.length === 0) {
+    categories = ademeCategories.data;
+  }
+  return categories;
 }
 
 export function loadCategory(id: number): Item[] {
   // Hardcoded at the moment, to be seen with ADEME if we don't need to extend their data at some point
-  switch(id) {
+  switch (id) {
     case 1:
       return loadDigital();
     case 2:
@@ -43,139 +47,151 @@ export function loadCategory(id: number): Item[] {
   }
 }
 
+const digitalItems: Item[] = [];
 function loadDigital(): Item[] {
-  const items: Item[] = [];
-  numerique.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 1,
-      label: element.name,
-      description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
-      explanation: "",
-      image: "📱 💻 🖥️",
-      source: element
-    }
-    items.push(item);
-  });
-
-  // Not ready on Ademe side, they should explain with which device, on which network, how much, etc.
-  // usageNumerique.data.forEach(element => {
-  //   const item: Item = {
-  //     id: element.slug,
-  //     category: "digital",
-  //     label: element.name,
-  //     description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
-  //     explanation: "",
-  //     image: "",
-  //     source: element
-  //   }
-  //   items.push(item);
-  // });
-  return items;
+  if (digitalItems.length === 0) {
+    numerique.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 1,
+        label: element.name,
+        description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
+        explanation: "",
+        image: "📱 💻 🖥️",
+        source: element
+      }
+      digitalItems.push(item);
+    });
+  }
+  return digitalItems;
 }
 
+const mealItems: Item[] = [];
 function loadMeal(): Item[] {
-  const items: Item[] = [];
-  repas.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 2,
-      label: element.name,
-      description: "",
-      explanation: "",
-      image: "🐟 🍽 🥩",
-      source: element
-    }
-    items.push(item);
-  });
-  return items;
+  if (mealItems.length === 0) {
+    repas.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 2,
+        label: element.name,
+        description: "",
+        explanation: "",
+        image: "🐟 🍽 🥩",
+        source: element
+      }
+      mealItems.push(item);
+    });
+  }
+  return mealItems;
 }
 
+const drinkItems: Item[] = [];
 function loadDrinks(): Item[] {
-  const items: Item[] = [];
-  boisson.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 3,
-      label: element.name + " (1L)",
-      description: "",
-      explanation: "",
-      image: "🍺 🍹 🥛",
-      source: element
-    }
-    items.push(item);
-  });
-  return items;
+  if (drinkItems.length === 0) {
+    boisson.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 3,
+        label: element.name + " (1L)",
+        description: "",
+        explanation: "",
+        image: "🍺 🍹 🥛",
+        source: element
+      }
+      drinkItems.push(item);
+    });
+  }
+  return drinkItems;
 }
 
+const clotheItems: Item[] = [];
 function loadClothes(): Item[] {
-  const items: Item[] = [];
-  habillement.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 5,
-      label: element.name,
-      description: "",
-      explanation: "",
-      image: "👞 👔 👗",
-      source: element
-    }
-    items.push(item);
-  });
-
-  return items;
+  if (clotheItems.length === 0) {
+    habillement.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 5,
+        label: element.name,
+        description: "",
+        explanation: "",
+        image: "👞 👔 👗",
+        source: element
+      }
+      clotheItems.push(item);
+    });
+  }
+  return clotheItems;
 }
 
+const householdApplianceItems: Item[] = [];
 function loadHouseholdAppliances(): Item[] {
-  const items: Item[] = [];
-  electromenager.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 6,
-      label: element.name,
-      description: element.usage ? "Achat et usage pendant " + element.usage.defaultyears + " ans." : "",
-      explanation: "",
-      image: "🧊 🛁 ☕",
-      source: element
-    }
-    items.push(item);
-  });
-
-  return items;
+  if (householdApplianceItems.length === 0) {
+    electromenager.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 6,
+        label: element.name,
+        description: element.usage ? "Achat et usage pendant " + element.usage.defaultyears + " ans." : "",
+        explanation: "",
+        image: "🧊 🛁 ☕",
+        source: element
+      }
+      householdApplianceItems.push(item);
+    });
+  }
+  return householdApplianceItems;
 }
 
+const furnitureItems: Item[] = [];
 function loadFurnitures(): Item[] {
-  const items: Item[] = [];
-  mobilier.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 7,
-      label: element.name,
-      description: "",
-      explanation: "",
-      image: "🛏️ 🪑 🛋️",
-      source: element
-    }
-    items.push(item);
-  });
-
-  return items;
+  if (furnitureItems.length === 0) {
+    mobilier.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 7,
+        label: element.name,
+        description: "",
+        explanation: "",
+        image: "🛏️ 🪑 🛋️",
+        source: element
+      }
+      furnitureItems.push(item);
+    });
+  }
+  return furnitureItems;
 }
 
+const vegetablesAndFruitsItems: Item[] = [];
 function loadVegetablesAndFruits(): Item[] {
-  const items: Item[] = [];
-  vegetablesAndFruits.data.forEach(element => {
-    const item: Item = {
-      id: element.slug,
-      categoryId: 9,
-      label: element.name + " (1kg)",
-      description: "Consommé le mois de mars",
-      explanation: "",
-      image: "🥑 🍇 🍅",
-      source: element
-    }
-    items.push(item);
-  });
-
-  return items;
+  if (vegetablesAndFruitsItems.length === 0) {
+    vegetablesAndFruits.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 9,
+        label: element.name + " (1kg)",
+        description: "Consommé le mois de mars",
+        explanation: "",
+        image: "🥑 🍇 🍅",
+        source: element
+      }
+      vegetablesAndFruitsItems.push(item);
+    });
+  }
+  return vegetablesAndFruitsItems;
 }
+
+
+
+// Not ready on Ademe side, they should explain with which device, on which network, how much, etc.
+// usageNumerique.data.forEach(element => {
+//   const item: Item = {
+//     id: element.slug,
+//     category: "digital",
+//     label: element.name,
+//     description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
+//     explanation: "",
+//     image: "",
+//     source: element
+//   }
+//   items.push(item);
+// });
