@@ -1,9 +1,14 @@
 @import "./variables.scss";
 
-.wrapper {
+
+.listContainer {
   width: min-content;
   min-width: 100%;
-  height: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+  position: relative;
 
   &::before {
     content: "";
@@ -12,44 +17,28 @@
     width: 100%;
     border-bottom: 1px dashed #5c7080;
   }
+}
 
-  .listContainer {
-    width: min-content;
-    min-width: 100%;
-    // 20px more on the left because the right has extra 20px margin-right from cards
-    padding: 0 40px 0 60px;
-    height: 100%;
-    position: relative;
+.emptyItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: $card-height;
+  min-width: $card-width;
+  padding: $card-margin;
+  background-color: $background;
+  font-size: 2rem;
+  z-index: 1;
+}
 
-    .list {
-      display: flex;
-      align-items: center;
-      height: 100%;
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
 
-      .items {
-        display: flex;
-        align-items: center;
-        z-index: 1;
-
-        .emptyItem {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          height: $card-height;
-          width: $card-width;
-          padding: $card-margin;
-          margin-right: $card-margin;
-          background-color: $background;
-          font-size: 2rem;
-        }
-      }
-    }
-  }
-
-  @media screen and (max-width: 600px) {
-    .listContainer {
-      padding: 0;
-      padding-left: 20px;
-    }
+  > * {
+    /* Everything in the list should be on top of the dashed timeline */
+    z-index: 1;
   }
 }

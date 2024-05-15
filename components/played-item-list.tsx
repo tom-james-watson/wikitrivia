@@ -13,32 +13,28 @@ export default function PlayedItemList(props: PlayedItemListProps) {
   const { badlyPlacedIndex, items } = props;
 
   return (
-    <div className={styles.wrapper}>
-      <div className={styles.listContainer}>
-        <Droppable droppableId="played" direction="horizontal">
-          {(provided) => (
-            <div
-              ref={provided.innerRef}
-              {...provided.droppableProps}
-              className={styles.list}
-            >
-              <div className={styles.items}>
-                <div className={styles.emptyItem + " bordered-area"}>-</div>
-                {items.map((item, index) => (
-                  <DraggableItemCard
-                    draggable={badlyPlacedIndex !== null}
-                    index={index}
-                    item={item}
-                    key={item.id}
-                  />
-                ))}
-                <div className={styles.emptyItem + " bordered-area"}>+</div>
-              </div>
-              {provided.placeholder}
-            </div>
-          )}
-        </Droppable>
-      </div>
+    <div className={styles.listContainer}>
+      <div className={styles.emptyItem + " bordered-area"}>-</div>
+      <Droppable droppableId="played" direction="horizontal">
+        {(provided) => (
+          <div
+            ref={provided.innerRef}
+            {...provided.droppableProps}
+            className={styles.items}
+          >
+            {items.map((item, index) => (
+              <DraggableItemCard
+                draggable={badlyPlacedIndex !== null}
+                index={index}
+                item={item}
+                key={item.id}
+              />
+            ))}
+            {provided.placeholder}
+          </div>
+        )}
+      </Droppable>
+      <div className={styles.emptyItem + " bordered-area"}>+</div>
     </div>
   );
 }
