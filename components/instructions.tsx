@@ -24,24 +24,24 @@ export default function Instructions(props: Props) {
   return (
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
-        <h1>Dis<span style={{color: "#993344"}}>CO<sub>2</sub></span>very</h1>
-        <h2><Trans>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</Trans></h2>
-        {highscore !== 0 && (
-          <div className={styles.highscoreWrapper}>
+        <header className={styles.mainHeader}>
+          <h1>Dis<span style={{color: "#993344"}}>CO<sub>2</sub></span>very</h1>
+          <h2><Trans>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</Trans></h2>
+          {highscore !== 0 && (
             <Score score={highscore}><Trans>Best streak</Trans></Score>
-          </div>
-        )}
+          )}
+        </header>
         {
           categoriesMode ?
             <CategoriesSelector setSelectedItems={setSelectedItems} setCategoriesMode={setCategoriesMode} />
             : 
-          <div>
+          <>
             <ExampleCards />
             <div className="button-container">
               <Button onClick={() => {setSelectedItems(getDefaultItems());}}><Trans>Start game</Trans></Button>
               <Button onClick={() => setCategoriesMode(true)} minimal={true}><Trans>Pick categories</Trans></Button>
             </div>
-          </div>
+          </>
         }
       </div>
 

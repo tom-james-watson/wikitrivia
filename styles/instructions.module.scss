@@ -4,19 +4,14 @@
   display: flex;
   height: 100%;
   flex-direction: column;
-  padding: 0 20px;
+  padding: 0 1rem;
   align-items: center;
-
-  h1,
-  h2 {
-    font-style: italic;
-    text-transform: uppercase;
-    margin: 0;
-    margin-top: 1rem;
-  }
+  gap: 3rem;
 
   .wrapper {
     flex-grow: 1;
+    gap: 3rem;
+    margin: 2rem;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -24,22 +19,28 @@
     text-align: center;
     max-width: $content-max-width;
 
-    .highscoreWrapper {
-      margin-top: 2rem;
-      margin-bottom: 3rem;
-      color: $text;
-    }
+    .mainHeader {
+      h1,
+      h2 {
+        font-style: italic;
+        text-transform: uppercase;
+      }
 
-    .startButton {
-      margin: 3rem 0;
+      h2 {
+        margin-top: 0;
+      }
     }
   }
 
   .about {
     flex-grow: 0;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
     color: $text-muted;
+
+    p:first-child {
+      margin-top: 0;
+    }
 
     .heartImg {
       vertical-align: bottom;

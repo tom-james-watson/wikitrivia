@@ -28,7 +28,7 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
   };
 
   return (
-    <div>
+    <>
       <div>
         <h3><Trans>Select the categories you want to play with:</Trans></h3>
         <div className={classNames(styles.categoriesSelection)}>
@@ -49,7 +49,7 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
         <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories)); }} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
         <Button onClick={() => setCategoriesMode(false)} minimal={true}><Trans>Back</Trans></Button>
       </div>
-    </div>
+    </>
   );
 }
 
