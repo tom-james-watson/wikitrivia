@@ -37,9 +37,13 @@ msgstr "A real pack of cards?"
 msgid "Assembly and delivery"
 msgstr "Assembly and delivery"
 
+#: components/categories-selector.tsx:50
+msgid "Back"
+msgstr "Back"
+
 #: components/game-over.tsx:43
 #: components/game-over.tsx:77
-#: components/instructions.tsx:29
+#: components/instructions.tsx:31
 msgid "Best streak"
 msgstr "Best streak"
 
@@ -47,7 +51,7 @@ msgstr "Best streak"
 msgid "Building"
 msgstr "Building"
 
-#: components/instructions.tsx:43
+#: components/instructions.tsx:54
 msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 msgstr "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 
@@ -123,16 +127,16 @@ msgstr "Guess the CO2 footprint!"
 msgid "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 msgstr "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 
-#: components/instructions.tsx:41
+#: components/instructions.tsx:52
 msgid "License AGPL - Source code available <0>on github</0>."
 msgstr "License AGPL - Source code available <0>on github</0>."
 
-#: components/instructions.tsx:40
-#: components/instructions.tsx:40
+#: components/instructions.tsx:51
+#: components/instructions.tsx:51
 msgid "love"
 msgstr "love"
 
-#: components/instructions.tsx:40
+#: components/instructions.tsx:51
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Made with <0/> by <1>Fla</1> & Sara."
 
@@ -140,11 +144,19 @@ msgstr "Made with <0/> by <1>Fla</1> & Sara."
 msgid "myemail@myprovider.org"
 msgstr "myemail@myprovider.org"
 
+#: components/example-cards.tsx:13
+msgid "or"
+msgstr "or"
+
 #: data/ademe/footprintDetailCategories.ts:23
 msgid "Packaging"
 msgstr "Packaging"
 
-#: components/instructions.tsx:26
+#: components/instructions.tsx:42
+msgid "Pick categories"
+msgstr "Pick categories"
+
+#: components/instructions.tsx:29
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 
@@ -168,7 +180,7 @@ msgstr "Raw materials"
 msgid "Register"
 msgstr "Register"
 
-#: components/categories-selector.tsx:26
+#: components/categories-selector.tsx:33
 msgid "Select the categories you want to play with:"
 msgstr "Select the categories you want to play with:"
 
@@ -176,7 +188,8 @@ msgstr "Select the categories you want to play with:"
 msgid "Share"
 msgstr "Share"
 
-#: components/instructions.tsx:34
+#: components/categories-selector.tsx:49
+#: components/instructions.tsx:41
 msgid "Start game"
 msgstr "Start game"
 
@@ -188,11 +201,11 @@ msgstr "Supermarket and distribution"
 msgid "Supplying"
 msgstr "Supplying"
 
-#: components/instructions.tsx:48
+#: components/instructions.tsx:59
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 msgstr "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 
-#: components/categories-selector.tsx:17
+#: components/categories-selector.tsx:23
 msgid "This category is not yet available."
 msgstr "This category is not yet available."
 
