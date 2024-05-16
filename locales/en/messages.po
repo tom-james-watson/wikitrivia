@@ -91,10 +91,6 @@ msgstr "Devices building"
 msgid "Devices usage"
 msgstr "Devices usage"
 
-#: components/App.tsx:30
-msgid "Discover the CO2 footprint of actions or objects by ordering them"
-msgstr "Discover the CO2 footprint of actions or objects by ordering them"
-
 #: components/explanation-dialog.tsx:62
 msgid "End of life:"
 msgstr "End of life:"
@@ -147,6 +143,10 @@ msgstr "myemail@myprovider.org"
 #: components/example-cards.tsx:13
 msgid "or"
 msgstr "or"
+
+#: components/App.tsx:21
+msgid "Order items to discover their CO2 footprint!"
+msgstr "Order items to discover their CO2 footprint!"
 
 #: data/ademe/footprintDetailCategories.ts:23
 msgid "Packaging"

@@ -91,10 +91,6 @@ msgstr "Construction des appareils"
 msgid "Devices usage"
 msgstr "Usage des appareils"
 
-#: components/App.tsx:30
-msgid "Discover the CO2 footprint of actions or objects by ordering them"
-msgstr "Découvrez l'empreinte CO2 d'actions ou d'objets en les triant"
-
 #: components/explanation-dialog.tsx:62
 msgid "End of life:"
 msgstr "Fin de vie :"
@@ -147,6 +143,10 @@ msgstr "monemail@monfournisseur.fr"
 #: components/example-cards.tsx:13
 msgid "or"
 msgstr "ou"
+
+#: components/App.tsx:21
+msgid "Order items to discover their CO2 footprint!"
+msgstr "Ordonne des éléments pour découvrir leur empreinte CO2 !"
 
 #: data/ademe/footprintDetailCategories.ts:23
 msgid "Packaging"
