@@ -36,9 +36,4 @@
   justify-content: center;
   align-items: center;
   gap: 1rem;
-
-  > * {
-    /* Everything in the list should be on top of the dashed timeline */
-    z-index: 1;
-  }
 }
