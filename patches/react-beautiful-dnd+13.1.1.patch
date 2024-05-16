@@ -1,0 +1,39 @@
+diff --git a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.cjs.js b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.cjs.js
+index 12884e9..d580373 100644
+--- a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.cjs.js
++++ b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.cjs.js
+@@ -6052,7 +6052,7 @@ function useKeyboardSensor(api) {
+ var idle$2 = {
+   type: 'IDLE'
+ };
+-var timeForLongPress = 120;
++var timeForLongPress = 0;
+ var forcePressThreshold = 0.15;
+ 
+ function getWindowBindings(_ref) {
+diff --git a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
+index ecced69..8c697a7 100644
+--- a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
++++ b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
+@@ -6045,7 +6045,7 @@ function useKeyboardSensor(api) {
+ var idle$2 = {
+   type: 'IDLE'
+ };
+-var timeForLongPress = 120;
++var timeForLongPress = 0;
+ var forcePressThreshold = 0.15;
+ 
+ function getWindowBindings(_ref) {
+diff --git a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.js b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.js
+index 84b63e9..8af2fd5 100644
+--- a/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.js
++++ b/node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.js
+@@ -9049,7 +9049,7 @@
+   var idle$2 = {
+     type: 'IDLE'
+   };
+-  var timeForLongPress = 120;
++  var timeForLongPress = 0;
+   var forcePressThreshold = 0.15;
+ 
+   function getWindowBindings(_ref) {
