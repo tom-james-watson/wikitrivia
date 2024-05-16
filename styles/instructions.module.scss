@@ -30,6 +30,12 @@
         margin-top: 0;
       }
     }
+
+    .startGameContainer {
+      display: grid;
+      justify-content: center;
+      gap: 1rem;
+    }
   }
 
   .about {

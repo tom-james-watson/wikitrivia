@@ -37,7 +37,7 @@ export default function Instructions(props: Props) {
             : 
           <>
             <ExampleCards />
-            <div className="button-container">
+            <div className={styles.startGameContainer}>
               <Button onClick={() => {setSelectedItems(getDefaultItems());}}><Trans>Start game</Trans></Button>
               <Button onClick={() => setCategoriesMode(true)} minimal={true}><Trans>Pick categories</Trans></Button>
             </div>
