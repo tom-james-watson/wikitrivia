@@ -51,3 +51,20 @@
     }
   }
 }
+
+.startGameContainer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+
+  @media screen and (max-width: 450px) {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: solid 2px #666;
+    background-color: $background;
+    padding: 1rem;
+    z-index: 1;
+  }
+}

@@ -45,7 +45,7 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
           })}
         </div>
       </div>
-      <div className="button-container">
+      <div className={styles.startGameContainer}>
         <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories)); }} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
         <Button onClick={() => setCategoriesMode(false)} minimal={true}><Trans>Back</Trans></Button>
       </div>
