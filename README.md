@@ -26,6 +26,7 @@ NodeJS 18.17.0 or higher is required to build and run the project.
 
 ```bash
 npm install
+npm run i18n-compile
 ```
 
 ### Development
