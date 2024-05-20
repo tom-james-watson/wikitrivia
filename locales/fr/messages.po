@@ -13,7 +13,7 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: components/explanation-dialog.tsx:56
+#: components/explanation-dialog.tsx:61
 msgid "{0} per year, estimated lifetime: {1} years."
 msgstr "{0} par an, durée de vie estimée : {1} ans."
 
@@ -33,10 +33,6 @@ msgstr "{email} n'est pas une adresse e-mail valide."
 msgid "A real pack of cards?"
 msgstr "Un vrai jeu de cartes ?"
 
-#: data/ademe/footprintDetailCategories.ts:11
-msgid "Assembly and delivery"
-msgstr "Assemblage et distribution"
-
 #: components/categories-selector.tsx:50
 msgid "Back"
 msgstr "Retour"
@@ -47,69 +43,25 @@ msgstr "Retour"
 msgid "Best streak"
 msgstr "Meilleure série"
 
-#: data/ademe/footprintDetailCategories.ts:12
-msgid "Building"
-msgstr "Construction"
-
 #: components/instructions.tsx:54
 msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 msgstr "Code basé sur le jeu <0>wikitrivia</0> par <1>Tom James Watson</1>. Merci !"
-
-#: data/ademe/footprintDetailCategories.ts:14
-msgid "Condensation trails"
-msgstr "Trainées de condensation"
 
 #: components/game-over.tsx:62
 msgid "Congratulations!"
 msgstr "Félicitations !"
 
-#: data/ademe/footprintDetailCategories.ts:26
-msgid "Consumption"
-msgstr "Consommation"
-
 #: components/game-over.tsx:52
 msgid "Copied!"
 msgstr "Copié !"
 
-#: data/ademe/footprintDetailCategories.ts:19
-msgid "Data-centers construction"
-msgstr "Construction des data-centers"
-
-#: data/ademe/footprintDetailCategories.ts:20
-msgid "Data-centers usage"
-msgstr "Usage des data-centers"
-
-#: data/ademe/footprintDetailCategories.ts:24
-msgid "Delivery"
-msgstr "Transport"
-
-#: data/ademe/footprintDetailCategories.ts:16
-msgid "Devices building"
-msgstr "Construction des appareils"
-
-#: data/ademe/footprintDetailCategories.ts:17
-msgid "Devices usage"
-msgstr "Usage des appareils"
-
-#: components/explanation-dialog.tsx:62
+#: components/explanation-dialog.tsx:67
 msgid "End of life:"
 msgstr "Fin de vie :"
 
 #: components/email-registration.tsx:30
 msgid "Error: {0}"
 msgstr "Erreur : {0}"
-
-#: data/ademe/footprintDetailCategories.ts:21
-msgid "Farming"
-msgstr "Agriculture"
-
-#: data/ademe/footprintDetailCategories.ts:10
-msgid "Formatting"
-msgstr "Mise en forme"
-
-#: data/ademe/footprintDetailCategories.ts:13
-msgid "Fuel"
-msgstr "Carburant"
 
 #: components/game-over.tsx:68
 msgid "Game over"
@@ -148,10 +100,6 @@ msgstr "ou"
 msgid "Order items to discover their CO2 footprint!"
 msgstr "Ordonne des éléments pour découvrir leur empreinte CO2 !"
 
-#: data/ademe/footprintDetailCategories.ts:23
-msgid "Packaging"
-msgstr "Emballage"
-
 #: components/instructions.tsx:42
 msgid "Pick categories"
 msgstr "Choisir les catégories"
@@ -167,14 +115,6 @@ msgstr "Rejouer"
 #: components/email-registration.tsx:48
 msgid "Please contact fla (a) framasoft.org to unregister"
 msgstr "Merci de contacter fla (a) framasoft.org pour vous désinscrire"
-
-#: data/ademe/footprintDetailCategories.ts:22
-msgid "Processing"
-msgstr "Transformation"
-
-#: data/ademe/footprintDetailCategories.ts:8
-msgid "Raw materials"
-msgstr "Matières premières"
 
 #: components/email-registration.tsx:41
 msgid "Register"
@@ -193,14 +133,6 @@ msgstr "Partager"
 msgid "Start game"
 msgstr "Démarrer la partie"
 
-#: data/ademe/footprintDetailCategories.ts:25
-msgid "Supermarket and distribution"
-msgstr "Supermarché et distribution"
-
-#: data/ademe/footprintDetailCategories.ts:9
-msgid "Supplying"
-msgstr "Approvisionnement"
-
 #: components/instructions.tsx:59
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 msgstr "Les chiffres viennent de la plateforme de l'<0>Ademe</0> <1>Impact CO<2>2</2></1>. Merci à eux pour leur travail incroyable !"
@@ -218,23 +150,15 @@ msgstr "Ce jeu a été créé comme application web pour essayer l'idée et voir
 msgid "This streak"
 msgstr "Cette série"
 
-#: components/explanation-dialog.tsx:38
+#: components/explanation-dialog.tsx:43
 msgid "Total:"
 msgstr "Total :"
-
-#: data/ademe/footprintDetailCategories.ts:18
-msgid "Transmission"
-msgstr "Transmission"
 
 #: components/game-over.tsx:69
 msgid "Try again!"
 msgstr "Essayez à nouveau !"
 
-#: data/ademe/footprintDetailCategories.ts:15
-msgid "Usage"
-msgstr "Usage"
-
-#: components/explanation-dialog.tsx:55
+#: components/explanation-dialog.tsx:60
 msgid "Usage:"
 msgstr "Usage :"
 

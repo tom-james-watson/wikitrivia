@@ -8,8 +8,10 @@ import habillement from "../data/ademe/5-habillement.json";
 import electromenager from "../data/ademe/6-electromenager.json";
 import mobilier from "../data/ademe/7-mobilier.json";
 import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
-import { AdemeCategory } from "../types/AdemeECV";
+import footprintDetailCategories from "../data/ademe/footprintDetailCategories.json";
+import { AdemeCategory, FootprintDetails } from "../types/AdemeECV";
 //import usageNumerique from "../data/ademe/10-usagenumerique.json";
+
 
 export function getDefaultItems(): Item[] {
   const slugs = [
@@ -244,3 +246,7 @@ function loadVegetablesAndFruits(): Item[] {
 //   }
 //   items.push(item);
 // });
+
+export function getFootprintDetails(): FootprintDetails {
+  return footprintDetailCategories;
+}

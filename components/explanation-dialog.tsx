@@ -1,10 +1,13 @@
 import React from "react";
 import classNames from "classnames";
-import footprintDetailCategories from "../data/ademe/footprintDetailCategories";
 import { Item } from "../types/item";
 import { displayCO2, round2 } from "../lib/items";
 import styles from "../styles/explanation-dialog.module.scss";
 import { Trans, t } from "@lingui/macro";
+import { FootprintDetails } from "../types/AdemeECV";
+import { useLingui } from "@lingui/react";
+import { getFootprintDetails } from "../lib/ademe-api";
+import { Locale } from "../types/i18n";
 
 interface ExplanationDialogProps {
   item: Item;
@@ -12,6 +15,8 @@ interface ExplanationDialogProps {
 }
 
 export default function ExplanationDialog(props: ExplanationDialogProps) {
+  const { i18n } = useLingui();
+  const footprintDetails = getFootprintDetails();
   const {item, onExit} = props;
   const details = item.source.footprintDetail;
   const usage = item.source.usage;
@@ -27,7 +32,7 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
           {
             item.explanation ? <p>{item.explanation}</p> : (
               <ul>
-                {details && details.map(displayDetail)}
+                {details && details.map((detail) => displayDetail(detail, footprintDetails, i18n.locale as Locale))}
                 {usage && displayUsage(usage)}
                 {endOfLife && displayEndOfLife(endOfLife)}
               </ul>
@@ -43,9 +48,9 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
   );
 }
 
-function displayDetail(detail: {id: number, value: number}): JSX.Element {
+function displayDetail(detail: {id: number, value: number}, footprintDetails: FootprintDetails, locale: Locale): JSX.Element {
   return <li key={"explanation-" + detail.id}>
-    <h3>{footprintDetailCategories[detail.id]}</h3>
+    <h3>{footprintDetails[detail.id][locale]}</h3>
     <span>{displayCO2(detail.value)}</span>
   </li>;
 }

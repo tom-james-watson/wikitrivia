@@ -1,3 +1,5 @@
+import { I18nString } from "./i18n";
+
 export interface AdemeECV {
   name: string;
   ecv: number;
@@ -22,4 +24,8 @@ export interface AdemeCategory {
   emoji: string;
   slug: string;
   color: string;
+}
+
+export interface FootprintDetails {
+  [key: number]: I18nString;
 }
