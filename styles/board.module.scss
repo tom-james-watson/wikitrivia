@@ -13,3 +13,21 @@
 .bottom {
   overflow-x: auto;
 }
+
+.arrowContainer {
+  text-align: center;
+}
+
+.arrow {
+  width: 40px;
+  height: 40px;
+  animation: bounce 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes bounce {
+  50% {
+    transform: translateY(-8px);
+  }
+}

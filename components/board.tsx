@@ -124,7 +124,14 @@ export default function Board(props: Props) {
         <div className={styles.top}>
           <Hearts lives={state.lives} />
           {state.lives > 0 && state.next ? (
+            <>
               <NextItemList next={state.next} />
+              {state.played.length === 1 &&
+                <p className={styles.arrowContainer}>
+                  <img className={styles.arrow} src="images/arrow.svg" />
+                </p>
+              }
+            </>
           ) : (
             <GameOver
               highscore={highscore}
