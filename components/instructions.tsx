@@ -25,7 +25,9 @@ export default function Instructions(props: Props) {
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
         <header className={styles.mainHeader}>
-          <h1>Dis<span style={{color: "#993344"}}>CO<sub>2</sub></span>very</h1>
+          <h1>
+            <img src="/images/logo.png" title="disCO2very" alt="disCO2very" className={styles.logo} />
+          </h1>
           <h2><Trans>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</Trans></h2>
           {highscore !== 0 && (
             <Score score={highscore}><Trans>Best streak</Trans></Score>
