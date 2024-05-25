@@ -124,16 +124,33 @@ input {
   border-radius: 5px;
 }
 
+.clickInterrogation,
 .hoverInterrogation {
   display: none;
-  background-color: #0007;
   position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
+.clickInterrogation {
+  top: -8px;
+  right: -8px;
+  width: 24px;
+  height: 24px;
+  font-size: 1.2rem;
+  border: solid $dashes 2px;
+  border-radius: 50%;
+  color: $text;
+  background-color: #fff;
+  z-index: 2;
+}
+
+.hoverInterrogation {
+  background-color: #0007;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  align-items: center;
-  justify-content: center;
 
   > div {
     width: 50px;
@@ -151,6 +168,7 @@ input {
 .notDragging .played {
   cursor: pointer;
 
+  .clickInterrogation,
   &:hover .hoverInterrogation {
     display: flex;
   }

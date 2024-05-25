@@ -35,6 +35,7 @@ export default function DraggableItemCard(props: Props) {
               }
             }}
           >
+            <div className="clickInterrogation">?</div>
             <ItemCard item={item} />
             <div className="hoverInterrogation">
               <div>?</div>
