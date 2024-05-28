@@ -1,0 +1,17 @@
+{
+  "short_name": "disCO2very",
+  "name": "disCO2very",
+  "description": "disCO2very is a free game to discover the orders of magnitude of the CO2 footprint",
+  "icons": [
+    {
+      "src": "/images/logo-app.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#23272c",
+  "orientation": "portrait-primary"
+}
