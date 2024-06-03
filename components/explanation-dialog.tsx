@@ -8,6 +8,7 @@ import { FootprintDetails } from "../types/AdemeECV";
 import { useLingui } from "@lingui/react";
 import { getFootprintDetails } from "../lib/ademe-api";
 import { Locale } from "../types/i18n";
+import ChartBar from "./chart-bar";
 
 interface ExplanationDialogProps {
   item: Item;
@@ -21,6 +22,7 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
   const details = item.source.footprintDetail;
   const usage = item.source.usage;
   const endOfLife = item.source.endOfLife;
+  const total = round2(item.source.ecv);
 
   return (
     <div className={classNames(styles.explanationDialogContainer)} onClick={onExit}>
@@ -32,39 +34,41 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
           {
             item.explanation ? <p>{item.explanation}</p> : (
               <ul>
-                {details && details.map((detail) => displayDetail(detail, footprintDetails, i18n.locale as Locale))}
-                {usage && displayUsage(usage)}
-                {endOfLife && displayEndOfLife(endOfLife)}
+                {details && details.map((detail) => displayDetail(detail, footprintDetails, total, i18n.locale as Locale))}
+                {usage && displayUsage(usage, total)}
+                {endOfLife && displayEndOfLife(endOfLife, total)}
               </ul>
             )
           }
         </main>
         <footer>
           <h3><Trans>Total:</Trans></h3>
-          <p><strong>{round2(item.source.ecv)} kg CO<sub>2</sub>e</strong></p>
+          <p><strong>{total} kg CO<sub>2</sub>e</strong></p>
         </footer>
       </div>
     </div>
   );
 }
 
-function displayDetail(detail: {id: number, value: number}, footprintDetails: FootprintDetails, locale: Locale): JSX.Element {
+function displayDetail(detail: {id: number, value: number}, footprintDetails: FootprintDetails, total: number, locale: Locale): JSX.Element {
   return <li key={"explanation-" + detail.id}>
     <h3>{footprintDetails[detail.id][locale]}</h3>
-    <span>{displayCO2(detail.value)}</span>
+    <ChartBar value={detail.value} total={total} />
   </li>;
 }
 
-function displayUsage(usage: {peryear: number, defaultyears: number}): JSX.Element {
+function displayUsage(usage: {peryear: number, defaultyears: number}, total: number): JSX.Element {
+  const value = usage.peryear * usage.defaultyears;
   return <li>
     <h3><Trans>Usage:</Trans></h3>
-    <span>{t`${displayCO2(usage.peryear)} per year, estimated lifetime: ${usage.defaultyears} years.`}</span>
+    <ChartBar value={value} total={total} />
+    <em>{t`${displayCO2(usage.peryear)} per year, estimated lifetime: ${usage.defaultyears} years.`}</em>
   </li>;
 }
 
-function displayEndOfLife(endOfLife: number): JSX.Element {
+function displayEndOfLife(endOfLife: number, total: number): JSX.Element {
   return <li>
     <h3><Trans>End of life:</Trans></h3>
-    <span>{displayCO2(endOfLife)}</span>
+    <ChartBar value={endOfLife} total={total} />
   </li>;
 }

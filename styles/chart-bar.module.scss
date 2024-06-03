@@ -1,0 +1,10 @@
+.chartBar {
+  display: flex;
+  align-items: center;
+
+  .bar {
+    display: inline-block;
+    height: 1rem;
+    margin-right: 5px;
+  }
+}
