@@ -1,7 +1,10 @@
 {
   "data": [
     {
-      "name": "Jean",
+      "name": {
+        "en": "Jeans",
+        "fr": "Jean"
+      },
       "slug": "jeans",
       "ecv": 25.08872880618721,
       "footprint": 23.2,
@@ -30,7 +33,10 @@
       "endOfLife": 0.63563578618721
     },
     {
-      "name": "Polo",
+      "name": {
+        "en": "Polo shirt",
+        "fr": "Polo"
+      },
       "slug": "polo",
       "ecv": 10.163529075648208,
       "footprint": 8.2,
@@ -59,7 +65,10 @@
       "endOfLife": 0.544462785648209
     },
     {
-      "name": "T-shirt en coton",
+      "name": {
+        "en": "Cotton t-shirt",
+        "fr": "T-shirt en coton"
+      },
       "slug": "tshirtencoton",
       "ecv": 6.433790554863734,
       "footprint": 5.199999999999999,
@@ -88,7 +97,10 @@
       "endOfLife": 0.250404099863735
     },
     {
-      "name": "T-shirt en polyester",
+      "name": {
+        "en": "Polyester t-shirt",
+        "fr": "T-shirt en polyester"
+      },
       "slug": "tshirtenpolyester",
       "ecv": 6.211492878123854,
       "footprint": 5.5,
@@ -117,7 +129,10 @@
       "endOfLife": 0.172305318123854
     },
     {
-      "name": "Sweat en coton",
+      "name": {
+        "en": "Cotton hoodie",
+        "fr": "Sweat en coton"
+      },
       "slug": "sweatencoton",
       "ecv": 32.49278107847502,
       "footprint": 27.4,
@@ -146,7 +161,10 @@
       "endOfLife": 1.51606227347502
     },
     {
-      "name": "Chemise en coton",
+      "name": {
+        "en": "Cotton shirt",
+        "fr": "Chemise en coton"
+      },
       "slug": "chemiseencoton",
       "ecv": 13.23466182713826,
       "footprint": 11.2,
@@ -175,7 +193,10 @@
       "endOfLife": 0.462075432138259
     },
     {
-      "name": "Chemise en viscose",
+      "name": {
+        "en": "Viscose shirt",
+        "fr": "Chemise en viscose"
+      },
       "slug": "chemiseenviscose",
       "ecv": 12.139796272777625,
       "footprint": 10.2,
@@ -204,7 +225,10 @@
       "endOfLife": 0.464139172777627
     },
     {
-      "name": "Paire de chaussures en cuir",
+      "name": {
+        "en": "Leather shoes",
+        "fr": "Paire de chaussures en cuir"
+      },
       "slug": "chaussuresencuir",
       "ecv": 14.954494546022259,
       "footprint": 13.399999999999999,
@@ -233,7 +257,10 @@
       "endOfLife": 1.55449454602226
     },
     {
-      "name": "Paire de chaussures en tissu",
+      "name": {
+        "en": "Fabric shoes",
+        "fr": "Paire de chaussures en tissu"
+      },
       "slug": "chaussuresentissu",
       "ecv": 18.519884267564898,
       "footprint": 17.299999999999997,
@@ -262,7 +289,10 @@
       "endOfLife": 1.2198842675649
     },
     {
-      "name": "Paire de chaussures de sport",
+      "name": {
+        "en": "Sport shoes",
+        "fr": "Paire de chaussures de sport"
+      },
       "slug": "chaussuresdesport",
       "ecv": 20.125551283507104,
       "footprint": 18.700000000000003,
@@ -291,7 +321,10 @@
       "endOfLife": 1.4255512835071
     },
     {
-      "name": "Robe en coton",
+      "name": {
+        "en": "Cotton dress",
+        "fr": "Robe en coton"
+      },
       "slug": "robeencoton",
       "ecv": 56.90736582785554,
       "footprint": 49.8,
@@ -320,7 +353,10 @@
       "endOfLife": 1.29416237785554
     },
     {
-      "name": "Robe en polyester",
+      "name": {
+        "en": "Polyester dress",
+        "fr": "Robe en polyester"
+      },
       "slug": "robeenpolyester",
       "ecv": 58.257205518739376,
       "footprint": 51.900000000000006,
@@ -349,7 +385,10 @@
       "endOfLife": 1.53486702873937
     },
     {
-      "name": "Robe en viscose",
+      "name": {
+        "en": "Viscose dress",
+        "fr": "Robe en viscose"
+      },
       "slug": "robeenviscose",
       "ecv": 52.48152206560145,
       "footprint": 44.9,
@@ -378,7 +417,10 @@
       "endOfLife": 2.39476716560145
     },
     {
-      "name": "Pull en laine",
+      "name": {
+        "en": "Wool pullover",
+        "fr": "Pull en laine"
+      },
       "slug": "pullenlaine",
       "ecv": 56.69545613769189,
       "footprint": 52.9,
@@ -407,7 +449,10 @@
       "endOfLife": 1.27881830769189
     },
     {
-      "name": "Pull en acrylique",
+      "name": {
+        "en": "Acrylic pullover",
+        "fr": "Pull en acrylique"
+      },
       "slug": "pullenacrylique",
       "ecv": 28.96838102563544,
       "footprint": 25.5,
@@ -436,7 +481,10 @@
       "endOfLife": 1.01073009563544
     },
     {
-      "name": "Pull en coton recyclé",
+      "name": {
+        "en": "Recycled cotton pullover",
+        "fr": "Pull en coton recyclé"
+      },
       "slug": "pullencotonrecycle",
       "ecv": 13.19278107847502,
       "footprint": 8.100000000000001,
@@ -465,7 +513,10 @@
       "endOfLife": 1.51606227347502
     },
     {
-      "name": "Manteau",
+      "name": {
+        "en": "Coat",
+        "fr": "Manteau"
+      },
       "slug": "manteau",
       "ecv": 101.42051607966856,
       "footprint": 85.8,
@@ -494,7 +545,10 @@
       "endOfLife": 2.39840212966855
     },
     {
-      "name": "Veste imperméable",
+      "name": {
+        "en": "Waterproof jacket",
+        "fr": "Veste imperméable"
+      },
       "slug": "vesteimpermeable",
       "ecv": 41.14715954637288,
       "footprint": 38.699999999999996,
@@ -523,7 +577,10 @@
       "endOfLife": 0.646349561372889
     },
     {
-      "name": "Veste simili-cuir",
+      "name": {
+        "en": "Imitation leather jacket",
+        "fr": "Veste simili-cuir"
+      },
       "slug": "vestesimilicuir",
       "ecv": 26.825820363170223,
       "footprint": 24.000000000000004,

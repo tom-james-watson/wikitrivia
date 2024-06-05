@@ -1,7 +1,10 @@
 {
   "data": [
     {
-      "name": "Email",
+      "name": {
+        "en": "Email",
+        "fr": "Émail"
+      },
       "slug": "email",
       "ecv": 0.00246181262,
       "footprint": 0.00246181262,
@@ -29,7 +32,10 @@
       ]
     },
     {
-      "name": "Spam",
+      "name": {
+        "en": "Spam",
+        "fr": "Spam"
+      },
       "slug": "spam",
       "ecv": 0.00373863698,
       "footprint": 0.00373863698,
@@ -49,7 +55,10 @@
       ]
     },
     {
-      "name": "Stocker un Go de donnée",
+      "name": {
+        "en": "Store 1Gb of data",
+        "fr": "Stocker 1Go de donnée"
+      },
       "slug": "stockagedonnee",
       "ecv": 0.00023533417,
       "footprint": 0.00023533417,
@@ -65,7 +74,10 @@
       ]
     },
     {
-      "name": "Rechercher sur le web",
+      "name": {
+        "en": "Web Search",
+        "fr": "Rechercher sur le web"
+      },
       "slug": "rechercheweb",
       "ecv": 0.051042269652307,
       "footprint": 0.051042269652307,
@@ -93,7 +105,10 @@
       ]
     },
     {
-      "name": "Streaming vidéo",
+      "name": {
+        "en": "Streaming video",
+        "fr": "Streaming vidéo"
+      },
       "slug": "streamingvideo",
       "ecv": 0.06401675291000002,
       "footprint": 0.06401675291000002,
@@ -121,7 +136,10 @@
       ]
     },
     {
-      "name": "1h de visioconférence",
+      "name": {
+        "en": "1h of online meeting",
+        "fr": "1h de visioconférence"
+      },
       "slug": "visioconference",
       "ecv": 0.05706336546216,
       "footprint": 0.05706336546216,
@@ -149,7 +167,10 @@
       ]
     },
     {
-      "name": "Télécharger 1 Go de donnée",
+      "name": {
+        "en": "Download 1 Gb of data",
+        "fr": "Télécharger 1 Go de donnée"
+      },
       "slug": "telechargement",
       "ecv": 0.00950468087,
       "footprint": 0.00950468087,

@@ -1,7 +1,10 @@
 {
   "data": [
     {
-      "name": "Smartphone",
+      "name": {
+        "en": "Smartphone",
+        "fr": "Smartphone"
+      },
       "slug": "smartphone",
       "ecv": 37.7857171234219,
       "footprint": 39.0684,
@@ -30,7 +33,10 @@
       "endOfLife": -1.8163965605781
     },
     {
-      "name": "Ordinateur fixe sans écran (basse performance)",
+      "name": {
+        "en": "Desktop computer without screen (low performance)",
+        "fr": "Ordinateur fixe sans écran (basse performance)"
+      },
       "slug": "ordinateurfixebureautique",
       "ecv": 188.9721498647794,
       "footprint": 169,
@@ -59,7 +65,10 @@
       "endOfLife": -10.2418849552206
     },
     {
-      "name": "Ordinateur fixe sans écran (haute performance)",
+      "name": {
+        "en": "Desktop computer without screen (high performance)",
+        "fr": "Ordinateur fixe sans écran (haute performance)"
+      },
       "slug": "ordinateurfixeperformance",
       "ecv": 394.22839770107805,
       "footprint": 295.21000000000004,
@@ -88,7 +97,10 @@
       "endOfLife": -20.479642298922
     },
     {
-      "name": "Écran 21.5 pouces",
+      "name": {
+        "en": "Screen 21.5 inches",
+        "fr": "Écran 21.5 pouces"
+      },
       "slug": "ecran215pouces",
       "ecv": 236.4005793417607,
       "footprint": 221.31,
@@ -117,7 +129,10 @@
       "endOfLife": -5.36739103823929
     },
     {
-      "name": "Écran 24 pouces",
+      "name": {
+        "en": "Screen 24 inches",
+        "fr": "Écran 24 pouces"
+      },
       "slug": "ecran24pouces",
       "ecv": 263.2705793417607,
       "footprint": 248.18,
@@ -146,7 +161,10 @@
       "endOfLife": -5.36739103823929
     },
     {
-      "name": "Tablette (détachable)",
+      "name": {
+        "en": "Tablet with keyboard",
+        "fr": "Tablette (détachable)"
+      },
       "slug": "tablettedetachable",
       "ecv": 86.28999022039561,
       "footprint": 82.212,
@@ -175,7 +193,10 @@
       "endOfLife": -3.3718663396044
     },
     {
-      "name": "Tablette (classique)",
+      "name": {
+        "en": "Tablet",
+        "fr": "Tablette (classique)"
+      },
       "slug": "tabletteclassique",
       "ecv": 69.5837761232212,
       "footprint": 63.187000000000005,
@@ -204,7 +225,10 @@
       "endOfLife": -1.0530804367788
     },
     {
-      "name": "Tablette (mini)",
+      "name": {
+        "en": "Mini tablet",
+        "fr": "Tablette (mini)"
+      },
       "slug": "tablettemini",
       "ecv": 47.70156560714469,
       "footprint": 40.9758,
@@ -233,7 +257,10 @@
       "endOfLife": -0.724090952855313
     },
     {
-      "name": "Chaine hifi",
+      "name": {
+        "en": "Hi-fi stereo",
+        "fr": "Chaine hifi"
+      },
       "slug": "chainehifi",
       "ecv": 136.28218772408428,
       "footprint": 123.29,
@@ -262,7 +289,10 @@
       "endOfLife": -10.3424901759157
     },
     {
-      "name": "Liseuse",
+      "name": {
+        "en": "E-reader",
+        "fr": "Liseuse"
+      },
       "slug": "liseuse",
       "ecv": 36.695156875991344,
       "footprint": 38.2234,
@@ -291,7 +321,10 @@
       "endOfLife": -1.71514674850865
     },
     {
-      "name": "Télévision ",
+      "name": {
+        "en": "Television",
+        "fr": "Télévision "
+      },
       "slug": "television",
       "ecv": 425.15349609789376,
       "footprint": 371.69,
@@ -320,7 +353,10 @@
       "endOfLife": -8.69420838210626
     },
     {
-      "name": "Ordinateur portable",
+      "name": {
+        "en": "Laptop",
+        "fr": "Ordinateur portable"
+      },
       "slug": "ordinateurportable",
       "ecv": 177.98764585279912,
       "footprint": 156.24,
@@ -349,7 +385,10 @@
       "endOfLife": -5.78881336720088
     },
     {
-      "name": "Montre connectée",
+      "name": {
+        "en": "Smartwatch",
+        "fr": "Montre connectée"
+      },
       "slug": "montreconnectee",
       "ecv": 9.858212649590849,
       "footprint": 9.7279,
@@ -378,7 +417,10 @@
       "endOfLife": 0.0106943300908481
     },
     {
-      "name": "Cadre photo digital",
+      "name": {
+        "en": "Digital photo frame",
+        "fr": "Cadre photo digital"
+      },
       "slug": "cadrephotodigital",
       "ecv": 39.15117683893988,
       "footprint": 40.187999999999995,
@@ -407,7 +449,10 @@
       "endOfLife": -1.22372678556011
     },
     {
-      "name": "Home cinéma",
+      "name": {
+        "en": "Home cinema",
+        "fr": "Home cinéma"
+      },
       "slug": "homecinema",
       "ecv": 153.563823982641,
       "footprint": 132.65,
@@ -436,7 +481,10 @@
       "endOfLife": -11.166985067359
     },
     {
-      "name": "Barre de son",
+      "name": {
+        "en": "Home speaker",
+        "fr": "Barre de son"
+      },
       "slug": "barredeson",
       "ecv": 45.45222930043316,
       "footprint": 40.196,
@@ -465,7 +513,10 @@
       "endOfLife": -4.71436019956684
     },
     {
-      "name": "Modem Fibre",
+      "name": {
+        "en": "Fiber Modem",
+        "fr": "Modem Fibre"
+      },
       "slug": "modemfibre",
       "ecv": 142.59172740390866,
       "footprint": 82.916,
@@ -494,7 +545,10 @@
       "endOfLife": -7.33144459609132
     },
     {
-      "name": "Enceinte bluetooth",
+      "name": {
+        "en": "Bluetooth speaker",
+        "fr": "Enceinte bluetooth"
+      },
       "slug": "enceintebluetooth",
       "ecv": 9.515179528037962,
       "footprint": 8.979999999999999,
@@ -523,7 +577,10 @@
       "endOfLife": -0.587240636962036
     },
     {
-      "name": "Console de salon",
+      "name": {
+        "en": "Games console",
+        "fr": "Console de salon"
+      },
       "slug": "consoledesalon",
       "ecv": 101.62688532134777,
       "footprint": 73.75,
@@ -552,7 +609,10 @@
       "endOfLife": -3.40627657865222
     },
     {
-      "name": "Console portable",
+      "name": {
+        "en": "Handheld game console",
+        "fr": "Console portable"
+      },
       "slug": "consoleportable",
       "ecv": 30.884070899056205,
       "footprint": 30.797,
@@ -581,7 +641,10 @@
       "endOfLife": -0.880643030943794
     },
     {
-      "name": "Appareil photo réflexe",
+      "name": {
+        "en": "Reflex digital camera",
+        "fr": "Appareil photo réflexe"
+      },
       "slug": "appareilphotoreflex",
       "ecv": 28.109783588679548,
       "footprint": 30.592,
@@ -610,7 +673,10 @@
       "endOfLife": -2.78661372432045
     },
     {
-      "name": "Appareil photo compact",
+      "name": {
+        "en": "Compact digital camera",
+        "fr": "Appareil photo compact"
+      },
       "slug": "appareilphotocompact",
       "ecv": 22.341835057281678,
       "footprint": 24.424999999999997,
@@ -639,7 +705,10 @@
       "endOfLife": -2.20297495821832
     },
     {
-      "name": "Imprimante Jet d'encre",
+      "name": {
+        "en": "Inkjet printer",
+        "fr": "Imprimante Jet d'encre"
+      },
       "slug": "imprimantejetdencre",
       "ecv": 108.1411327150618,
       "footprint": 88.19,

@@ -10,10 +10,11 @@ import mobilier from "../data/ademe/7-mobilier.json";
 import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
 import footprintDetailCategories from "../data/ademe/footprintDetailCategories.json";
 import { AdemeCategory, FootprintDetails } from "../types/AdemeECV";
+import { Locale } from "../types/i18n";
 //import usageNumerique from "../data/ademe/10-usagenumerique.json";
 
 
-export function getDefaultItems(): Item[] {
+export function getDefaultItems(locale: Locale): Item[] {
   const slugs = [
     "smartphone",
     "television",
@@ -35,7 +36,7 @@ export function getDefaultItems(): Item[] {
   ];
 
   const selectedItems: Item[] = [];
-  getAllItems().forEach(item => {
+  getAllItems(locale).forEach(item => {
     if (slugs.includes(item.source.slug)) {
       selectedItems.push(item);
     }
@@ -43,20 +44,21 @@ export function getDefaultItems(): Item[] {
   return selectedItems;
 }
 
-export function getItemFromSlug(slug: string): Item | undefined {
-  for (let i = 0; i < getAllItems().length; i++) {
-    if (getAllItems()[i].source.slug === slug) {
-      return getAllItems()[i];
+export function getItemFromSlug(slug: string, locale: Locale): Item | undefined {
+  const allItems = getAllItems(locale);
+  for (let i = 0; i < allItems.length; i++) {
+    if (allItems[i].source.slug === slug) {
+      return allItems[i];
     }
   }
   return undefined;
 }
 
 const allItems: Item[] = [];
-function getAllItems(): Item[] {
+function getAllItems(locale: Locale): Item[] {
   if (allItems.length === 0) {
     for (let i = 1; i <= loadCategories().length; i++) {
-      allItems.push(...loadCategory(i));
+      allItems.push(...loadCategory(i, locale));
     }
   }
   return allItems;
@@ -70,27 +72,27 @@ export function loadCategories(): AdemeCategory[] {
   return categories;
 }
 
-export function loadCategory(id: number): Item[] {
+export function loadCategory(id: number, locale: Locale): Item[] {
   // Hardcoded at the moment, to be seen with ADEME if we don't need to extend their data at some point
   switch (id) {
     case 1:
-      return loadDigital();
+      return loadDigital(locale);
     case 2:
-      return loadMeal();
+      return loadMeal(locale);
     case 3:
-      return loadDrinks();
+      return loadDrinks(locale);
     case 4:
       return []; // TODO Transport needs more work
     case 5:
-      return loadClothes();
+      return loadClothes(locale);
     case 6:
-      return loadHouseholdAppliances();
+      return loadHouseholdAppliances(locale);
     case 7:
-      return loadFurnitures();
+      return loadFurnitures(locale);
     case 8:
       return []; // TODO Chauffage needs more work
     case 9:
-      return loadVegetablesAndFruits();
+      return loadVegetablesAndFruits(locale);
     case 10:
       return []; // TODO Usage numérique needs more work
     default:
@@ -99,14 +101,16 @@ export function loadCategory(id: number): Item[] {
 }
 
 const digitalItems: Item[] = [];
-function loadDigital(): Item[] {
+function loadDigital(locale: Locale): Item[] {
   if (digitalItems.length === 0) {
     numerique.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 1,
-        label: element.name,
-        description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
+        label: element.name[locale],
+        description: locale === "fr" ?
+          "Achat et usage pendant " + element.usage.defaultyears + " ans." :
+          "Purchase and usage for " + element.usage.defaultyears + " years.",
         explanation: "",
         image: "📱 💻 🖥️",
         source: element
@@ -118,13 +122,13 @@ function loadDigital(): Item[] {
 }
 
 const mealItems: Item[] = [];
-function loadMeal(): Item[] {
+function loadMeal(locale: Locale): Item[] {
   if (mealItems.length === 0) {
     repas.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 2,
-        label: element.name,
+        label: element.name[locale],
         description: "",
         explanation: "",
         image: "🐟 🍽 🥩",
@@ -137,13 +141,13 @@ function loadMeal(): Item[] {
 }
 
 const drinkItems: Item[] = [];
-function loadDrinks(): Item[] {
+function loadDrinks(locale: Locale): Item[] {
   if (drinkItems.length === 0) {
     boisson.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 3,
-        label: element.name + " (1L)",
+        label: element.name[locale] + " (1L)",
         description: "",
         explanation: "",
         image: "🍺 🍹 🥛",
@@ -156,13 +160,13 @@ function loadDrinks(): Item[] {
 }
 
 const clotheItems: Item[] = [];
-function loadClothes(): Item[] {
+function loadClothes(locale: Locale): Item[] {
   if (clotheItems.length === 0) {
     habillement.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 5,
-        label: element.name,
+        label: element.name[locale],
         description: "",
         explanation: "",
         image: "👞 👔 👗",
@@ -175,13 +179,13 @@ function loadClothes(): Item[] {
 }
 
 const householdApplianceItems: Item[] = [];
-function loadHouseholdAppliances(): Item[] {
+function loadHouseholdAppliances(locale: Locale): Item[] {
   if (householdApplianceItems.length === 0) {
     electromenager.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 6,
-        label: element.name,
+        label: element.name[locale],
         description: element.usage ? "Achat et usage pendant " + element.usage.defaultyears + " ans." : "",
         explanation: "",
         image: "🧊 🛁 ☕",
@@ -194,13 +198,13 @@ function loadHouseholdAppliances(): Item[] {
 }
 
 const furnitureItems: Item[] = [];
-function loadFurnitures(): Item[] {
+function loadFurnitures(locale: Locale): Item[] {
   if (furnitureItems.length === 0) {
     mobilier.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 7,
-        label: element.name,
+        label: element.name[locale],
         description: "",
         explanation: "",
         image: "🛏️ 🪑 🛋️",
@@ -213,13 +217,13 @@ function loadFurnitures(): Item[] {
 }
 
 const vegetablesAndFruitsItems: Item[] = [];
-function loadVegetablesAndFruits(): Item[] {
+function loadVegetablesAndFruits(locale: Locale): Item[] {
   if (vegetablesAndFruitsItems.length === 0) {
     vegetablesAndFruits.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 9,
-        label: element.name + " (1kg)",
+        label: element.name[locale] + " (1kg)",
         description: "Consommé le mois de mars",
         explanation: "",
         image: "🥑 🍇 🍅",

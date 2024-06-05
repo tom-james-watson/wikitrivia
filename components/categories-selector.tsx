@@ -6,6 +6,8 @@ import { Trans, t } from "@lingui/macro";
 import { Item } from "../types/item";
 import Button from "./button";
 import { loadCategory } from "../lib/ademe-api";
+import { useLingui } from "@lingui/react";
+import { Locale } from "../types/i18n";
 
 interface CategoriesSelectorProps {
   setSelectedItems: (selectedItems: Item[]) => void;
@@ -13,6 +15,8 @@ interface CategoriesSelectorProps {
 }
 
 export default function CategoriesSelector({setSelectedItems, setCategoriesMode}: CategoriesSelectorProps) {
+  const { i18n } = useLingui();
+  const locale = i18n.locale as Locale;
 
   const categories = loadCategories();
   // Make 0 a fake one, to avoid the hassle of subtracting by one all the time.
@@ -34,10 +38,11 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
         <div className={classNames(styles.categoriesSelection)}>
           {categories.map((category) => {
             const id = category.id;
+
             return (
               <div key={id} className={selectedCategories[id] ? classNames(styles.selected) : ""} onClick={() => updateCategories(id)}>
                 <div>
-                  <h3>{category.name}</h3>
+                  <h3>{category.name[locale]}</h3>
                   <p>{category.emoji}</p>
                 </div>
               </div>
@@ -46,18 +51,18 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
         </div>
       </div>
       <div className={styles.startGameContainer}>
-        <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories)); }} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
+        <Button onClick={() => { setSelectedItems(getItemsFromCategories(selectedCategories, locale)); }} disabled={!selectedCategories.includes(true)}><Trans>Start game</Trans></Button>
         <Button onClick={() => setCategoriesMode(false)} minimal={true}><Trans>Back</Trans></Button>
       </div>
     </>
   );
 }
 
-function getItemsFromCategories(selectedCategories: boolean[]) {
+function getItemsFromCategories(selectedCategories: boolean[], locale: Locale) {
   const items: Item[] = [];
   for (let i = 1; i < selectedCategories.length; i++) {
     if (selectedCategories[i]) {
-      items.push(...loadCategory(i));
+      items.push(...loadCategory(i, locale));
     }
   }
   return items;

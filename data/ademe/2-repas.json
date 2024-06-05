@@ -1,37 +1,55 @@
 {
   "data": [
     {
-      "name": "Repas avec du boeuf",
+      "name": {
+        "en": "Meal with beef",
+        "fr": "Repas avec du boeuf"
+      },
       "slug": "repasavecduboeuf",
       "ecv": 7.26,
       "footprint": 7.26
     },
     {
-      "name": "Repas végétarien",
+      "name": {
+        "en": "Vegetarian Meal",
+        "fr": "Repas végétarien"
+      },
       "slug": "repasvegetarien",
       "ecv": 0.51,
       "footprint": 0.51
     },
     {
-      "name": "Repas végétalien",
+      "name": {
+        "en": "Vegan Meal",
+        "fr": "Repas végétalien"
+      },
       "slug": "repasvegetalien",
       "ecv": 0.39,
       "footprint": 0.39
     },
     {
-      "name": "Repas avec du poisson blanc",
+      "name": {
+        "en": "Meal with lean fish",
+        "fr": "Repas avec du poisson blanc"
+      },
       "slug": "repasavecdupoissonblanc",
       "ecv": 1.98,
       "footprint": 1.98
     },
     {
-      "name": "Repas avec du poisson gras",
+      "name": {
+        "en": "Meal with fat fish",
+        "fr": "Repas avec du poisson gras"
+      },
       "slug": "repasavecdupoissongras",
       "ecv": 1.11,
       "footprint": 1.11
     },
     {
-      "name": "Repas avec du poulet",
+      "name": {
+        "en": "Meal with chicken",
+        "fr": "Repas avec du poulet"
+      },
       "slug": "repasavecdupoulet",
       "ecv": 1.58,
       "footprint": 1.58

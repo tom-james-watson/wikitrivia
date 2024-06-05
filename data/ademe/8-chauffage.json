@@ -1,43 +1,64 @@
 {
   "data": [
     {
-      "name": "Chauffage au gaz",
+      "name": {
+        "en": "Gas heating",
+        "fr": "Chauffage au gaz"
+      },
       "slug": "chauffagegaz",
       "ecv": 39,
       "footprint": 39
     },
     {
-      "name": "Chauffage au fioul",
+      "name": {
+        "en": "Oil heating",
+        "fr": "Chauffage au fioul"
+      },
       "slug": "chauffagefioul",
       "ecv": 57.17,
       "footprint": 57.17
     },
     {
-      "name": "Chauffage électrique",
+      "name": {
+        "en": "Electrical heating",
+        "fr": "Chauffage électrique"
+      },
       "slug": "chauffageelectrique",
       "ecv": 7.5,
       "footprint": 7.5
     },
     {
-      "name": "Chauffage avec une pompe à chaleur",
+      "name": {
+        "en": "Heating with heat pump",
+        "fr": "Chauffage avec une pompe à chaleur"
+      },
       "slug": "pompeachaleur",
       "ecv": 2.5,
       "footprint": 2.5
     },
     {
-      "name": "Chauffage avec un poêle à granulés",
+      "name": {
+        "en": "Heating with pellet stove",
+        "fr": "Chauffage avec un poêle à granulés"
+      },
       "slug": "poeleagranule",
       "ecv": 5.64,
       "footprint": 5.64
     },
     {
-      "name": "Chauffage avec un poêle à bois",
+      "name": {
+        "en": "Heating with wood stove",
+        "fr": "Chauffage avec un poêle à bois"
+      },
       "slug": "poeleabois",
       "ecv": 9.2,
       "footprint": 9.2
     },
     {
-      "name": "Chauffage via un réseau de chaleur",
+      "name": {
+        "en": "Heating with district heating",
+        "fr": "Chauffage via un réseau de chaleur"
+      },
       "slug": "reseaudechaleur",
       "ecv": 18.67,
       "footprint": 18.67

@@ -13,7 +13,7 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: components/explanation-dialog.tsx:61
+#: components/explanation-dialog.tsx:65
 msgid "{0} per year, estimated lifetime: {1} years."
 msgstr "{0} par an, durée de vie estimée : {1} ans."
 
@@ -33,17 +33,17 @@ msgstr "{email} n'est pas une adresse e-mail valide."
 msgid "A real pack of cards?"
 msgstr "Un vrai jeu de cartes ?"
 
-#: components/categories-selector.tsx:50
+#: components/categories-selector.tsx:55
 msgid "Back"
 msgstr "Retour"
 
 #: components/game-over.tsx:43
 #: components/game-over.tsx:77
-#: components/instructions.tsx:31
+#: components/instructions.tsx:35
 msgid "Best streak"
 msgstr "Meilleure série"
 
-#: components/instructions.tsx:54
+#: components/instructions.tsx:58
 msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 msgstr "Code basé sur le jeu <0>wikitrivia</0> par <1>Tom James Watson</1>. Merci !"
 
@@ -55,7 +55,7 @@ msgstr "Félicitations !"
 msgid "Copied!"
 msgstr "Copié !"
 
-#: components/explanation-dialog.tsx:67
+#: components/explanation-dialog.tsx:71
 msgid "End of life:"
 msgstr "Fin de vie :"
 
@@ -75,16 +75,16 @@ msgstr "Devinez l'empreinte CO2 !"
 msgid "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 msgstr "Interessé ? Ou simplement vous voulez être au courant des dernières nouvelles de disCO<0>2</0>very ? Restons en contact par e-mail !"
 
-#: components/instructions.tsx:52
+#: components/instructions.tsx:56
 msgid "License AGPL - Source code available <0>on github</0>."
 msgstr "Licence AGPL - Code source disponible <0>sur github</0>."
 
-#: components/instructions.tsx:51
-#: components/instructions.tsx:51
+#: components/instructions.tsx:55
+#: components/instructions.tsx:55
 msgid "love"
 msgstr "amour"
 
-#: components/instructions.tsx:51
+#: components/instructions.tsx:55
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Fait avec <0/> par <1>Fla</1> & Sara."
 
@@ -92,7 +92,7 @@ msgstr "Fait avec <0/> par <1>Fla</1> & Sara."
 msgid "myemail@myprovider.org"
 msgstr "monemail@monfournisseur.fr"
 
-#: components/example-cards.tsx:13
+#: components/example-cards.tsx:18
 msgid "or"
 msgstr "ou"
 
@@ -100,11 +100,11 @@ msgstr "ou"
 msgid "Order items to discover their CO2 footprint!"
 msgstr "Ordonne des éléments pour découvrir leur empreinte CO2 !"
 
-#: components/instructions.tsx:42
+#: components/instructions.tsx:46
 msgid "Pick categories"
 msgstr "Choisir les catégories"
 
-#: components/instructions.tsx:29
+#: components/instructions.tsx:33
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Placez les cartes dans le bon ordre en estimant leur empreinte CO<0>2</0>"
 
@@ -120,7 +120,7 @@ msgstr "Merci de contacter fla (a) framasoft.org pour vous désinscrire"
 msgid "Register"
 msgstr "S'inscrire"
 
-#: components/categories-selector.tsx:33
+#: components/categories-selector.tsx:37
 msgid "Select the categories you want to play with:"
 msgstr "Sélectionnez les catégories avec lesquelles vous voulez jouer :"
 
@@ -128,16 +128,16 @@ msgstr "Sélectionnez les catégories avec lesquelles vous voulez jouer :"
 msgid "Share"
 msgstr "Partager"
 
-#: components/categories-selector.tsx:49
-#: components/instructions.tsx:41
+#: components/categories-selector.tsx:54
+#: components/instructions.tsx:45
 msgid "Start game"
 msgstr "Démarrer la partie"
 
-#: components/instructions.tsx:59
+#: components/instructions.tsx:63
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 msgstr "Les chiffres viennent de la plateforme de l'<0>Ademe</0> <1>Impact CO<2>2</2></1>. Merci à eux pour leur travail incroyable !"
 
-#: components/categories-selector.tsx:23
+#: components/categories-selector.tsx:27
 msgid "This category is not yet available."
 msgstr "Cette catégorie n'est pas encore disponible."
 
@@ -150,7 +150,7 @@ msgstr "Ce jeu a été créé comme application web pour essayer l'idée et voir
 msgid "This streak"
 msgstr "Cette série"
 
-#: components/explanation-dialog.tsx:43
+#: components/explanation-dialog.tsx:45
 msgid "Total:"
 msgstr "Total :"
 
@@ -158,7 +158,7 @@ msgstr "Total :"
 msgid "Try again!"
 msgstr "Essayez à nouveau !"
 
-#: components/explanation-dialog.tsx:60
+#: components/explanation-dialog.tsx:63
 msgid "Usage:"
 msgstr "Usage :"
 

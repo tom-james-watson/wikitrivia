@@ -1,7 +1,10 @@
 {
   "data": [
     {
-      "name": "Bouilloire",
+      "name": {
+        "en": "Kettle",
+        "fr": "Bouilloire"
+      },
       "slug": "bouilloire",
       "ecv": 40.88403605825422,
       "footprint": 9.907,
@@ -30,7 +33,10 @@
       "endOfLife": -0.659363081745786
     },
     {
-      "name": "Cafetière (dosette)",
+      "name": {
+        "en": "Pods coffee maker",
+        "fr": "Cafetière (dosette)"
+      },
       "slug": "cafetieredosette",
       "ecv": 251.0035526905852,
       "footprint": 22.454,
@@ -59,7 +65,10 @@
       "endOfLife": 52.7491626905852
     },
     {
-      "name": "Cafetière (filtre)",
+      "name": {
+        "en": "Filters coffee maker",
+        "fr": "Cafetière (filtre)"
+      },
       "slug": "cafetierefiltre",
       "ecv": 197.69817433391722,
       "footprint": 31.9,
@@ -88,7 +97,10 @@
       "endOfLife": 29.8824988339172
     },
     {
-      "name": "Cafetière (expresso)",
+      "name": {
+        "en": "Expresso coffee maker",
+        "fr": "Cafetière (expresso)"
+      },
       "slug": "cafetiereexpresso",
       "ecv": 211.7710842705374,
       "footprint": 47.617000000000004,
@@ -117,7 +129,10 @@
       "endOfLife": 23.9101982705374
     },
     {
-      "name": "Four électrique",
+      "name": {
+        "en": "Electrical oven",
+        "fr": "Four électrique"
+      },
       "slug": "fourelectrique",
       "ecv": 263.06469996,
       "footprint": 217.58999999999997,
@@ -146,7 +161,10 @@
       "endOfLife": -30.0927
     },
     {
-      "name": "Lave-vaisselle",
+      "name": {
+        "en": "Dishwasher",
+        "fr": "Lave-vaisselle"
+      },
       "slug": "lavevaisselle",
       "ecv": 467.9982177292116,
       "footprint": 271.19,
@@ -175,7 +193,10 @@
       "endOfLife": -22.6301522707884
     },
     {
-      "name": "Lave-linge",
+      "name": {
+        "en": "Washing machine",
+        "fr": "Lave-linge"
+      },
       "slug": "lavelinge",
       "ecv": 510.2572583409827,
       "footprint": 341.09999999999997,
@@ -204,7 +225,10 @@
       "endOfLife": -47.7754436590173
     },
     {
-      "name": "Réfrigérateur",
+      "name": {
+        "en": "Fridge",
+        "fr": "Réfrigérateur"
+      },
       "slug": "refrigirateur",
       "ecv": 325.46071642401705,
       "footprint": 257.3,
@@ -233,7 +257,10 @@
       "endOfLife": -20.163316975983
     },
     {
-      "name": "Aspirateur",
+      "name": {
+        "en": "Vacuum cleaner",
+        "fr": "Aspirateur"
+      },
       "slug": "aspirateur",
       "ecv": 47.31,
       "footprint": 47.31,
@@ -257,7 +284,10 @@
       ]
     },
     {
-      "name": "Climatiseur",
+      "name": {
+        "en": "Air conditioner",
+        "fr": "Climatiseur"
+      },
       "slug": "climatiseur",
       "ecv": 413.8812884443126,
       "footprint": 238.89999999999998,

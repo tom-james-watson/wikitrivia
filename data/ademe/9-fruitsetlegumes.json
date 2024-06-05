@@ -1,7 +1,10 @@
 {
   "data": [
     {
-      "name": "Fraise",
+      "name": {
+        "en": "Strawberry",
+        "fr": "Fraise"
+      },
       "slug": "fraise",
       "ecv": 0.47706577790000004,
       "footprint": 0.47706577790000004,
@@ -25,7 +28,10 @@
       ]
     },
     {
-      "name": "Pomme",
+      "name": {
+        "en": "Apple",
+        "fr": "Pomme"
+      },
       "slug": "pomme",
       "ecv": 0.396515083,
       "footprint": 0.396515083,
@@ -49,7 +55,10 @@
       ]
     },
     {
-      "name": "Orange",
+      "name": {
+        "en": "Orange",
+        "fr": "Orange"
+      },
       "slug": "orange",
       "ecv": 0.633964319,
       "footprint": 0.633964319,
@@ -73,7 +82,10 @@
       ]
     },
     {
-      "name": "Citron",
+      "name": {
+        "en": "Lemon",
+        "fr": "Citron"
+      },
       "slug": "citron",
       "ecv": 0.711263074,
       "footprint": 0.711263074,
@@ -97,7 +109,10 @@
       ]
     },
     {
-      "name": "Ail",
+      "name": {
+        "en": "Garlic",
+        "fr": "Ail"
+      },
       "slug": "ail",
       "ecv": 0.358042894,
       "footprint": 0.358042894,
@@ -121,7 +136,10 @@
       ]
     },
     {
-      "name": "Artichaut",
+      "name": {
+        "en": "Artichoke",
+        "fr": "Artichaut"
+      },
       "slug": "artichaut",
       "ecv": 3.876929068,
       "footprint": 3.876929068,
@@ -145,7 +163,10 @@
       ]
     },
     {
-      "name": "Asperge",
+      "name": {
+        "en": "Asparagus",
+        "fr": "Asperge"
+      },
       "slug": "asperge",
       "ecv": 1.559309081,
       "footprint": 1.559309081,
@@ -169,7 +190,10 @@
       ]
     },
     {
-      "name": "Betterave",
+      "name": {
+        "en": "Beetroot",
+        "fr": "Betterave"
+      },
       "slug": "betterave",
       "ecv": 0.3643210989999999,
       "footprint": 0.3643210989999999,
@@ -193,7 +217,10 @@
       ]
     },
     {
-      "name": "Blette",
+      "name": {
+        "en": "Chard",
+        "fr": "Blette"
+      },
       "slug": "blette",
       "ecv": 0.542753575,
       "footprint": 0.542753575,
@@ -217,7 +244,10 @@
       ]
     },
     {
-      "name": "Carotte",
+      "name": {
+        "en": "Carrot",
+        "fr": "Carotte"
+      },
       "slug": "carotte",
       "ecv": 0.3643210989999999,
       "footprint": 0.3643210989999999,
@@ -241,7 +271,10 @@
       ]
     },
     {
-      "name": "Céleri",
+      "name": {
+        "en": "Celery",
+        "fr": "Céleri"
+      },
       "slug": "celeri",
       "ecv": 0.6770180851000002,
       "footprint": 0.6770180851000002,
@@ -265,7 +298,10 @@
       ]
     },
     {
-      "name": "Champignon (morille crue)",
+      "name": {
+        "en": "Mushroom (raw morel)",
+        "fr": "Champignon (morille crue)"
+      },
       "slug": "champignonmorille",
       "ecv": 0.4937143989999999,
       "footprint": 0.4937143989999999,
@@ -289,7 +325,10 @@
       ]
     },
     {
-      "name": "Chou",
+      "name": {
+        "en": "Cabbage",
+        "fr": "Chou"
+      },
       "slug": "chou",
       "ecv": 0.862097522,
       "footprint": 0.862097522,
@@ -313,7 +352,10 @@
       ]
     },
     {
-      "name": "Chou de Bruxelles",
+      "name": {
+        "en": "Brussels sprout",
+        "fr": "Chou de Bruxelles"
+      },
       "slug": "choudebruxelles",
       "ecv": 0.5758186729,
       "footprint": 0.5758186729,
@@ -337,7 +379,10 @@
       ]
     },
     {
-      "name": "Chou-fleur",
+      "name": {
+        "en": "Cauliflower",
+        "fr": "Chou-fleur"
+      },
       "slug": "choufleur",
       "ecv": 0.735512212,
       "footprint": 0.735512212,
@@ -361,7 +406,10 @@
       ]
     },
     {
-      "name": "Concombre",
+      "name": {
+        "en": "Cucumber",
+        "fr": "Concombre"
+      },
       "slug": "concombre",
       "ecv": 0.473201203,
       "footprint": 0.473201203,
@@ -385,7 +433,10 @@
       ]
     },
     {
-      "name": "Courge",
+      "name": {
+        "en": "Squash",
+        "fr": "Courge"
+      },
       "slug": "courge",
       "ecv": 0.618848881,
       "footprint": 0.618848881,
@@ -409,7 +460,10 @@
       ]
     },
     {
-      "name": "Courgette",
+      "name": {
+        "en": "Zucchini",
+        "fr": "Courgette"
+      },
       "slug": "courgette",
       "ecv": 0.48351979,
       "footprint": 0.48351979,
@@ -433,7 +487,10 @@
       ]
     },
     {
-      "name": "Cresson",
+      "name": {
+        "en": "Watercress",
+        "fr": "Cresson"
+      },
       "slug": "cresson",
       "ecv": 0.9410662189999999,
       "footprint": 0.9410662189999999,
@@ -457,7 +514,10 @@
       ]
     },
     {
-      "name": "Échalote",
+      "name": {
+        "en": "Shallot",
+        "fr": "Échalote"
+      },
       "slug": "echalote",
       "ecv": 0.3648632602000001,
       "footprint": 0.3648632602000001,
@@ -481,7 +541,10 @@
       ]
     },
     {
-      "name": "Endive",
+      "name": {
+        "en": "Endive",
+        "fr": "Endive"
+      },
       "slug": "endive",
       "ecv": 0.9380277949999998,
       "footprint": 0.9380277949999998,
@@ -505,7 +568,10 @@
       ]
     },
     {
-      "name": "Épinard",
+      "name": {
+        "en": "Spinach",
+        "fr": "Épinard"
+      },
       "slug": "epinard",
       "ecv": 0.3912991521,
       "footprint": 0.3912991521,
@@ -529,7 +595,10 @@
       ]
     },
     {
-      "name": "Mangue",
+      "name": {
+        "en": "Mango",
+        "fr": "Mangue"
+      },
       "slug": "mangue",
       "ecv": 10.641545366999999,
       "footprint": 10.641545366999999,
@@ -553,7 +622,10 @@
       ]
     },
     {
-      "name": "Fenouil",
+      "name": {
+        "en": "Fennel",
+        "fr": "Fenouil"
+      },
       "slug": "fenouil",
       "ecv": 0.962528871,
       "footprint": 0.962528871,
@@ -577,7 +649,10 @@
       ]
     },
     {
-      "name": "Haricot vert",
+      "name": {
+        "en": "Green bean",
+        "fr": "Haricot vert"
+      },
       "slug": "haricotvert",
       "ecv": 0.41306197199999994,
       "footprint": 0.41306197199999994,
@@ -601,7 +676,10 @@
       ]
     },
     {
-      "name": "Laitue",
+      "name": {
+        "en": "Lettuce",
+        "fr": "Laitue"
+      },
       "slug": "laitue",
       "ecv": 0.9410662189999999,
       "footprint": 0.9410662189999999,
@@ -625,7 +703,10 @@
       ]
     },
     {
-      "name": "Mâche",
+      "name": {
+        "en": "Lamb's lettuce",
+        "fr": "Mâche"
+      },
       "slug": "mache",
       "ecv": 0.9410662189999999,
       "footprint": 0.9410662189999999,
@@ -649,7 +730,10 @@
       ]
     },
     {
-      "name": "Navet",
+      "name": {
+        "en": "Turnip",
+        "fr": "Navet"
+      },
       "slug": "navet",
       "ecv": 0.364321099,
       "footprint": 0.364321099,
@@ -673,7 +757,10 @@
       ]
     },
     {
-      "name": "Maïs",
+      "name": {
+        "en": "Corn",
+        "fr": "Maïs"
+      },
       "slug": "mais",
       "ecv": 0.810485801,
       "footprint": 0.810485801,
@@ -697,7 +784,10 @@
       ]
     },
     {
-      "name": "Oignon",
+      "name": {
+        "en": "Onion",
+        "fr": "Oignon"
+      },
       "slug": "oignon",
       "ecv": 0.38953612800000015,
       "footprint": 0.38953612800000015,
@@ -721,7 +811,10 @@
       ]
     },
     {
-      "name": "Panais",
+      "name": {
+        "en": "Parsnip",
+        "fr": "Panais"
+      },
       "slug": "panais",
       "ecv": 0.45782909000000005,
       "footprint": 0.45782909000000005,
@@ -745,7 +838,10 @@
       ]
     },
     {
-      "name": "Petit pois",
+      "name": {
+        "en": "Pea",
+        "fr": "Petit pois"
+      },
       "slug": "petitpois",
       "ecv": 0.6651291770000001,
       "footprint": 0.6651291770000001,
@@ -765,7 +861,10 @@
       ]
     },
     {
-      "name": "Poireau",
+      "name": {
+        "en": "Leek",
+        "fr": "Poireau"
+      },
       "slug": "poireau",
       "ecv": 0.768865685,
       "footprint": 0.768865685,
@@ -789,7 +888,10 @@
       ]
     },
     {
-      "name": "Poivron",
+      "name": {
+        "en": "Bell pepper",
+        "fr": "Poivron"
+      },
       "slug": "poivron",
       "ecv": 1.1836197739999998,
       "footprint": 1.1836197739999998,
@@ -813,7 +915,10 @@
       ]
     },
     {
-      "name": "Potiron",
+      "name": {
+        "en": "Pumpkin",
+        "fr": "Potiron"
+      },
       "slug": "potiron",
       "ecv": 0.618848881,
       "footprint": 0.618848881,
@@ -837,7 +942,10 @@
       ]
     },
     {
-      "name": "Radis",
+      "name": {
+        "en": "Radish",
+        "fr": "Radis"
+      },
       "slug": "radis",
       "ecv": 0.6018473451,
       "footprint": 0.6018473451,
@@ -861,7 +969,10 @@
       ]
     },
     {
-      "name": "Salsifis",
+      "name": {
+        "en": "Salsify",
+        "fr": "Salsifis"
+      },
       "slug": "salsifis",
       "ecv": 0.45782908999999994,
       "footprint": 0.45782908999999994,
@@ -885,7 +996,10 @@
       ]
     },
     {
-      "name": "Topinambour",
+      "name": {
+        "en": "Jerusalem artichoke",
+        "fr": "Topinambour"
+      },
       "slug": "topinambour",
       "ecv": 0.5048719700000001,
       "footprint": 0.5048719700000001,
@@ -909,7 +1023,10 @@
       ]
     },
     {
-      "name": "Cassis",
+      "name": {
+        "en": "Blackcurrant",
+        "fr": "Cassis"
+      },
       "slug": "cassis",
       "ecv": 1.7963874969999998,
       "footprint": 1.7963874969999998,
@@ -933,7 +1050,10 @@
       ]
     },
     {
-      "name": "Châtaigne",
+      "name": {
+        "en": "Chestnut",
+        "fr": "Châtaigne"
+      },
       "slug": "chataigne",
       "ecv": 1.880205125,
       "footprint": 1.880205125,
@@ -957,7 +1077,10 @@
       ]
     },
     {
-      "name": "Clémentine",
+      "name": {
+        "en": "Clementine",
+        "fr": "Clémentine"
+      },
       "slug": "clementine",
       "ecv": 1.2214244939999999,
       "footprint": 1.2214244939999999,
@@ -981,7 +1104,10 @@
       ]
     },
     {
-      "name": "Pamplemousse",
+      "name": {
+        "en": "Grapefruit",
+        "fr": "Pamplemousse"
+      },
       "slug": "pamplemousse",
       "ecv": 0.8728596140000001,
       "footprint": 0.8728596140000001,
@@ -1005,7 +1131,10 @@
       ]
     },
     {
-      "name": "Coing",
+      "name": {
+        "en": "Quince",
+        "fr": "Coing"
+      },
       "slug": "coing",
       "ecv": 0.5410901117000001,
       "footprint": 0.5410901117000001,
@@ -1029,7 +1158,10 @@
       ]
     },
     {
-      "name": "Figue",
+      "name": {
+        "en": "Fig",
+        "fr": "Figue"
+      },
       "slug": "figue",
       "ecv": 0.6135498970000001,
       "footprint": 0.6135498970000001,
@@ -1053,7 +1185,10 @@
       ]
     },
     {
-      "name": "Groseille",
+      "name": {
+        "en": "Currant",
+        "fr": "Groseille"
+      },
       "slug": "groseille",
       "ecv": 1.7875465516999998,
       "footprint": 1.7875465516999998,
@@ -1077,7 +1212,10 @@
       ]
     },
     {
-      "name": "Kiwi",
+      "name": {
+        "en": "Kiwi",
+        "fr": "Kiwi"
+      },
       "slug": "kiwi",
       "ecv": 0.9768151836999999,
       "footprint": 0.9768151836999999,
@@ -1105,7 +1243,10 @@
       ]
     },
     {
-      "name": "Mandarine",
+      "name": {
+        "en": "Mandarin",
+        "fr": "Mandarine"
+      },
       "slug": "mandarine",
       "ecv": 0.42273830129999995,
       "footprint": 0.42273830129999995,
@@ -1129,7 +1270,10 @@
       ]
     },
     {
-      "name": "Melon",
+      "name": {
+        "en": "Melon",
+        "fr": "Melon"
+      },
       "slug": "melon",
       "ecv": 0.931394984,
       "footprint": 0.931394984,
@@ -1153,7 +1297,10 @@
       ]
     },
     {
-      "name": "Mûre",
+      "name": {
+        "en": "Blackberry",
+        "fr": "Mûre"
+      },
       "slug": "mure",
       "ecv": 1.2060856469999999,
       "footprint": 1.2060856469999999,
@@ -1177,7 +1324,10 @@
       ]
     },
     {
-      "name": "Nectarine",
+      "name": {
+        "en": "Nectarine",
+        "fr": "Nectarine"
+      },
       "slug": "nectarine",
       "ecv": 0.6373697500000002,
       "footprint": 0.6373697500000002,
@@ -1201,7 +1351,10 @@
       ]
     },
     {
-      "name": "Myrtille",
+      "name": {
+        "en": "Blueberry",
+        "fr": "Myrtille"
+      },
       "slug": "myrtille",
       "ecv": 0.8815012491,
       "footprint": 0.8815012491,
@@ -1225,7 +1378,10 @@
       ]
     },
     {
-      "name": "Noisette",
+      "name": {
+        "en": "Hazelnut",
+        "fr": "Noisette"
+      },
       "slug": "noisette",
       "ecv": 4.652965420999999,
       "footprint": 4.652965420999999,
@@ -1249,7 +1405,10 @@
       ]
     },
     {
-      "name": "Noix",
+      "name": {
+        "en": "Nut",
+        "fr": "Noix"
+      },
       "slug": "noix",
       "ecv": 4.164838912,
       "footprint": 4.164838912,
@@ -1277,7 +1436,10 @@
       ]
     },
     {
-      "name": "Prune",
+      "name": {
+        "en": "Plum",
+        "fr": "Prune"
+      },
       "slug": "prune",
       "ecv": 0.9630279916999999,
       "footprint": 0.9630279916999999,
@@ -1301,7 +1463,10 @@
       ]
     },
     {
-      "name": "Reine Claude",
+      "name": {
+        "en": "Greengage",
+        "fr": "Reine Claude"
+      },
       "slug": "reineclaude",
       "ecv": 0.971868937,
       "footprint": 0.971868937,
@@ -1325,7 +1490,10 @@
       ]
     },
     {
-      "name": "Rhubarbe",
+      "name": {
+        "en": "Rhubarb",
+        "fr": "Rhubarbe"
+      },
       "slug": "rhubarbe",
       "ecv": 0.7167486917,
       "footprint": 0.7167486917,
@@ -1349,7 +1517,10 @@
       ]
     },
     {
-      "name": "Pêche",
+      "name": {
+        "en": "Peach",
+        "fr": "Pêche"
+      },
       "slug": "peche",
       "ecv": 0.5957366917,
       "footprint": 0.5957366917,
@@ -1373,7 +1544,10 @@
       ]
     },
     {
-      "name": "Cerise",
+      "name": {
+        "en": "Cherry",
+        "fr": "Cerise"
+      },
       "slug": "cerise",
       "ecv": 1.3353255069999996,
       "footprint": 1.3353255069999996,
@@ -1401,7 +1575,10 @@
       ]
     },
     {
-      "name": "Abricot",
+      "name": {
+        "en": "Apricot",
+        "fr": "Abricot"
+      },
       "slug": "abricot",
       "ecv": 0.8806383170000001,
       "footprint": 0.8806383170000001,
@@ -1429,7 +1606,10 @@
       ]
     },
     {
-      "name": "Framboise",
+      "name": {
+        "en": "Raspberry",
+        "fr": "Framboise"
+      },
       "slug": "framboise",
       "ecv": 1.4750375679,
       "footprint": 1.4750375679,
@@ -1453,7 +1633,10 @@
       ]
     },
     {
-      "name": "Poire",
+      "name": {
+        "en": "Pear",
+        "fr": "Poire"
+      },
       "slug": "poire",
       "ecv": 0.36428259399999996,
       "footprint": 0.36428259399999996,
@@ -1477,7 +1660,10 @@
       ]
     },
     {
-      "name": "Raisin",
+      "name": {
+        "en": "Grape",
+        "fr": "Raisin"
+      },
       "slug": "raisin",
       "ecv": 0.45672809300000006,
       "footprint": 0.45672809300000006,
@@ -1501,7 +1687,10 @@
       ]
     },
     {
-      "name": "Aubergine",
+      "name": {
+        "en": "Eggplant",
+        "fr": "Aubergine"
+      },
       "slug": "aubergine",
       "ecv": 0.4571093429,
       "footprint": 0.4571093429,
@@ -1525,7 +1714,10 @@
       ]
     },
     {
-      "name": "Brocoli",
+      "name": {
+        "en": "Broccoli",
+        "fr": "Brocoli"
+      },
       "slug": "brocoli",
       "ecv": 0.9025554719999999,
       "footprint": 0.9025554719999999,
@@ -1549,7 +1741,10 @@
       ]
     },
     {
-      "name": "Tomate",
+      "name": {
+        "en": "Tomato",
+        "fr": "Tomate"
+      },
       "slug": "tomate",
       "ecv": 0.581556477,
       "footprint": 0.581556477,
@@ -1573,7 +1768,10 @@
       ]
     },
     {
-      "name": "Ananas",
+      "name": {
+        "en": "Pineapple",
+        "fr": "Ananas"
+      },
       "slug": "ananas",
       "ecv": 1.292282106,
       "footprint": 1.292282106,
@@ -1597,7 +1795,10 @@
       ]
     },
     {
-      "name": "Banane",
+      "name": {
+        "en": "Banana",
+        "fr": "Banane"
+      },
       "slug": "banane",
       "ecv": 0.8806108929999997,
       "footprint": 0.8806108929999997,
@@ -1621,7 +1822,10 @@
       ]
     },
     {
-      "name": "Avocat",
+      "name": {
+        "en": "Avocado",
+        "fr": "Avocat"
+      },
       "slug": "avocat",
       "ecv": 1.4804702330000001,
       "footprint": 1.4804702330000001,
@@ -1645,7 +1849,10 @@
       ]
     },
     {
-      "name": "Carambole",
+      "name": {
+        "en": "Starfruit",
+        "fr": "Carambole"
+      },
       "slug": "carambole",
       "ecv": 0.533048897,
       "footprint": 0.533048897,
@@ -1669,7 +1876,10 @@
       ]
     },
     {
-      "name": "Datte",
+      "name": {
+        "en": "Date",
+        "fr": "Datte"
+      },
       "slug": "datte",
       "ecv": 2.7601109879999997,
       "footprint": 2.7601109879999997,
@@ -1693,7 +1903,10 @@
       ]
     },
     {
-      "name": "Fruit de la passion",
+      "name": {
+        "en": "Passion fruit",
+        "fr": "Fruit de la passion"
+      },
       "slug": "fruitdelapassion",
       "ecv": 0.89281737,
       "footprint": 0.89281737,
@@ -1717,7 +1930,10 @@
       ]
     },
     {
-      "name": "Grenade",
+      "name": {
+        "en": "Pomegranate",
+        "fr": "Grenade"
+      },
       "slug": "grenade",
       "ecv": 0.48557222170000003,
       "footprint": 0.48557222170000003,
@@ -1741,7 +1957,10 @@
       ]
     },
     {
-      "name": "Kaki",
+      "name": {
+        "en": "Persimmon",
+        "fr": "Kaki"
+      },
       "slug": "kaki",
       "ecv": 0.9004313517,
       "footprint": 0.9004313517,
@@ -1765,7 +1984,10 @@
       ]
     },
     {
-      "name": "Noix de coco",
+      "name": {
+        "en": "Coconut",
+        "fr": "Noix de coco"
+      },
       "slug": "noixdecoco",
       "ecv": 2.493762422,
       "footprint": 2.493762422,
@@ -1793,7 +2015,10 @@
       ]
     },
     {
-      "name": "Pastèque",
+      "name": {
+        "en": "Watermelon",
+        "fr": "Pastèque"
+      },
       "slug": "pasteque",
       "ecv": 0.6414638217000002,
       "footprint": 0.6414638217000002,

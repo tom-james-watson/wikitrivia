@@ -13,7 +13,7 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: components/explanation-dialog.tsx:61
+#: components/explanation-dialog.tsx:65
 msgid "{0} per year, estimated lifetime: {1} years."
 msgstr "{0} per year, estimated lifetime: {1} years."
 
@@ -33,17 +33,17 @@ msgstr "{email} is not a valid email address."
 msgid "A real pack of cards?"
 msgstr "A real pack of cards?"
 
-#: components/categories-selector.tsx:50
+#: components/categories-selector.tsx:55
 msgid "Back"
 msgstr "Back"
 
 #: components/game-over.tsx:43
 #: components/game-over.tsx:77
-#: components/instructions.tsx:31
+#: components/instructions.tsx:35
 msgid "Best streak"
 msgstr "Best streak"
 
-#: components/instructions.tsx:54
+#: components/instructions.tsx:58
 msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 msgstr "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 
@@ -55,7 +55,7 @@ msgstr "Congratulations!"
 msgid "Copied!"
 msgstr "Copied!"
 
-#: components/explanation-dialog.tsx:67
+#: components/explanation-dialog.tsx:71
 msgid "End of life:"
 msgstr "End of life:"
 
@@ -75,16 +75,16 @@ msgstr "Guess the CO2 footprint!"
 msgid "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 msgstr "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 
-#: components/instructions.tsx:52
+#: components/instructions.tsx:56
 msgid "License AGPL - Source code available <0>on github</0>."
 msgstr "License AGPL - Source code available <0>on github</0>."
 
-#: components/instructions.tsx:51
-#: components/instructions.tsx:51
+#: components/instructions.tsx:55
+#: components/instructions.tsx:55
 msgid "love"
 msgstr "love"
 
-#: components/instructions.tsx:51
+#: components/instructions.tsx:55
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Made with <0/> by <1>Fla</1> & Sara."
 
@@ -92,7 +92,7 @@ msgstr "Made with <0/> by <1>Fla</1> & Sara."
 msgid "myemail@myprovider.org"
 msgstr "myemail@myprovider.org"
 
-#: components/example-cards.tsx:13
+#: components/example-cards.tsx:18
 msgid "or"
 msgstr "or"
 
@@ -100,11 +100,11 @@ msgstr "or"
 msgid "Order items to discover their CO2 footprint!"
 msgstr "Order items to discover their CO2 footprint!"
 
-#: components/instructions.tsx:42
+#: components/instructions.tsx:46
 msgid "Pick categories"
 msgstr "Pick categories"
 
-#: components/instructions.tsx:29
+#: components/instructions.tsx:33
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 
@@ -120,7 +120,7 @@ msgstr "Please contact fla (a) framasoft.org to unregister"
 msgid "Register"
 msgstr "Register"
 
-#: components/categories-selector.tsx:33
+#: components/categories-selector.tsx:37
 msgid "Select the categories you want to play with:"
 msgstr "Select the categories you want to play with:"
 
@@ -128,16 +128,16 @@ msgstr "Select the categories you want to play with:"
 msgid "Share"
 msgstr "Share"
 
-#: components/categories-selector.tsx:49
-#: components/instructions.tsx:41
+#: components/categories-selector.tsx:54
+#: components/instructions.tsx:45
 msgid "Start game"
 msgstr "Start game"
 
-#: components/instructions.tsx:59
+#: components/instructions.tsx:63
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 msgstr "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 
-#: components/categories-selector.tsx:23
+#: components/categories-selector.tsx:27
 msgid "This category is not yet available."
 msgstr "This category is not yet available."
 
@@ -150,7 +150,7 @@ msgstr "This game has been created as a web app to test the idea and see if it i
 msgid "This streak"
 msgstr "This streak"
 
-#: components/explanation-dialog.tsx:43
+#: components/explanation-dialog.tsx:45
 msgid "Total:"
 msgstr "Total:"
 
@@ -158,7 +158,7 @@ msgstr "Total:"
 msgid "Try again!"
 msgstr "Try again!"
 
-#: components/explanation-dialog.tsx:60
+#: components/explanation-dialog.tsx:63
 msgid "Usage:"
 msgstr "Usage:"
 

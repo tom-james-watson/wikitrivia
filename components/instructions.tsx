@@ -10,6 +10,7 @@ import RealCardsGame from "./real-cards-game";
 import { Item } from "../types/item";
 import { getDefaultItems } from "../lib/ademe-api";
 import ExampleCards from "./example-cards";
+import { Locale } from "../types/i18n";
 
 interface Props {
   highscore: number;
@@ -18,7 +19,8 @@ interface Props {
 
 export default function Instructions(props: Props) {
   const [categoriesMode, setCategoriesMode] = useState(false);
-  const { _ } = useLingui();
+  const { _, i18n } = useLingui();
+  const locale = i18n.locale as Locale;
   const { highscore, setSelectedItems } = props;
 
   return (
@@ -40,7 +42,7 @@ export default function Instructions(props: Props) {
           <>
             <ExampleCards />
             <div className={styles.startGameContainer}>
-              <Button onClick={() => {setSelectedItems(getDefaultItems());}}><Trans>Start game</Trans></Button>
+              <Button onClick={() => {setSelectedItems(getDefaultItems(locale));}}><Trans>Start game</Trans></Button>
               <Button onClick={() => setCategoriesMode(true)} minimal={true}><Trans>Pick categories</Trans></Button>
             </div>
           </>

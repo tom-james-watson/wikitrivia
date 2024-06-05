@@ -1,7 +1,10 @@
 import { I18nString } from "./i18n";
 
 export interface AdemeECV {
-  name: string;
+  name: {
+    en: string;
+    fr: string;
+  };
   ecv: number;
   slug: string;
   footprint?: number;
@@ -20,7 +23,10 @@ export interface AdemeECV {
 
 export interface AdemeCategory {
   id: number;
-  name: string;
+  name: {
+    en: string;
+    fr: string;
+  };
   emoji: string;
   slug: string;
   color: string;

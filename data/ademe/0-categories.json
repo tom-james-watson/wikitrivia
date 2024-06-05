@@ -2,70 +2,100 @@
   "data": [
     {
       "id": 1,
-      "name": "Numérique",
+      "name": {
+        "en": "Digital",
+        "fr": "Numérique"
+      },
       "emoji": "💻",
       "slug": "numerique",
       "color": "#28c"
     },
     {
       "id": 2,
-      "name": "Repas",
+      "name": {
+        "en": "Meal",
+        "fr": "Repas"
+      },
       "emoji": "🍽",
       "slug": "repas",
       "color": "#acf"
     },
     {
       "id": 3,
-      "name": "Boisson",
+      "name": {
+        "en": "Drink",
+        "fr": "Boisson"
+      },
       "emoji": "🍹",
       "slug": "boisson",
       "color": "#d04"
     },
     {
       "id": 4,
-      "name": "Transport",
+      "name": {
+        "en": "Transport",
+        "fr": "Transport"
+      },
       "emoji": "🚴‍♂️",
       "slug": "transport",
       "color": ""
     },
     {
       "id": 5,
-      "name": "Habillement",
+      "name": {
+        "en": "Clothing",
+        "fr": "Habillement"
+      },
       "emoji": "👔",
       "slug": "habillement",
       "color": "#b0b"
     },
     {
       "id": 6,
-      "name": "Électroménager",
+      "name": {
+        "en": "Home Appliance",
+        "fr": "Électroménager"
+      },
       "emoji": "🛁",
       "slug": "electromenager",
       "color": "#aab"
     },
     {
       "id": 7,
-      "name": "Mobilier",
+      "name": {
+        "en": "Furniture",
+        "fr": "Mobilier"
+      },
       "emoji": "🪑",
       "slug": "mobilier",
       "color": "#d74"
     },
     {
       "id": 8,
-      "name": "Chauffage",
+      "name": {
+        "en": "Heating",
+        "fr": "Chauffage"
+      },
       "emoji": "🏠",
       "slug": "chauffage",
       "color": "#4b1"
     },
     {
       "id": 9,
-      "name": "Fruits et légumes",
+      "name": {
+        "en": "Fruits and Vegetables",
+        "fr": "Fruits et légumes"
+      },
       "emoji": "🍅",
       "slug": "fruitsetlegumes",
       "color": "#d26"
     },
     {
       "id": 10,
-      "name": "Usage numérique",
+      "name": {
+        "en": "Digital Use",
+        "fr": "Usage numérique"
+      },
       "emoji": "✉️",
       "slug": "usagenumerique",
       "color": "#d26"
