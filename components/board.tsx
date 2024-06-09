@@ -13,7 +13,7 @@ interface Props {
   highscore: number;
   initialState: GameState;
   updateHighscore: (score: number) => void;
-  restart: () => void;
+  restart: (categoriesMode: boolean) => void;
 }
 
 export default function Board(props: Props) {

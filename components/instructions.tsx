@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
@@ -15,13 +15,14 @@ import { Locale } from "../types/i18n";
 interface Props {
   highscore: number;
   setSelectedItems: (selectedItems: Item[]) => void;
+  categoriesMode: boolean;
+  setCategoriesMode: (categoriesMode: boolean) => void;
 }
 
 export default function Instructions(props: Props) {
-  const [categoriesMode, setCategoriesMode] = useState(false);
   const { _, i18n } = useLingui();
   const locale = i18n.locale as Locale;
-  const { highscore, setSelectedItems } = props;
+  const { highscore, setSelectedItems, categoriesMode, setCategoriesMode } = props;
 
   return (
     <div className={styles.instructions}>

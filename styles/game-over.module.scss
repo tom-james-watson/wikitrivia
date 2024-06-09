@@ -13,8 +13,10 @@
     margin-bottom: 0;
   }
 
+  $score-margin: 30px;
+
   .scoresWrapper {
-    margin: 30px 0;
+    margin-top: $score-margin;
     display: flex;
     justify-content: space-evenly;
 
@@ -25,6 +27,14 @@
         margin-left: 20px;
       }
     }
+  }
+
+  .shareAction {
+    color: $link-hover;
+    margin-top: 1rem;
+    margin-bottom: $score-margin;
+    cursor: pointer;
+    text-decoration: underline;
   }
 
   .buttons {

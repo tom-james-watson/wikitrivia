@@ -6,6 +6,7 @@ import createState from "../lib/create-state";
 
 export default function Game() {
   const [selectedItems, setSelectedItems] = useState<Item[]>([]);
+  const [categoriesMode, setCategoriesMode] = useState(false);
 
   const [highscore, setHighscore] = React.useState<number>(
     Number(localStorage.getItem("highscore") ?? "0")
@@ -16,9 +17,14 @@ export default function Game() {
     setHighscore(score);
   }, []);
 
+  const restart = (categoriesMode: boolean) => {
+    setSelectedItems([]);
+    setCategoriesMode(categoriesMode);
+  };
+
   return (selectedItems.length > 0 ?
-    <Board highscore={highscore} initialState={createState(selectedItems)} updateHighscore={updateHighscore} restart={() => setSelectedItems([])} />
+    <Board highscore={highscore} initialState={createState(selectedItems)} updateHighscore={updateHighscore} restart={restart} />
     :
-    <Instructions highscore={highscore} setSelectedItems={setSelectedItems} />
+    <Instructions highscore={highscore} setSelectedItems={setSelectedItems} categoriesMode={categoriesMode} setCategoriesMode={setCategoriesMode} />
   );
 }

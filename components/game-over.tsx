@@ -7,12 +7,12 @@ import { Trans, t } from "@lingui/macro";
 
 interface Props {
   highscore: number;
-  resetGame: () => void;
+  resetGame: (categoriesMode: boolean) => void;
   score: number;
   lives: number;
 }
 
-const defaultShareText = <Trans>Share</Trans>;
+const defaultShareText = <Trans>Share your score</Trans>;
 
 function getMedal(score: number): string {
   if (score >= 20) {
@@ -77,10 +77,11 @@ https://disco2very.org`
           <Score score={highscore}><Trans>Best streak</Trans></Score>
         </div>
       </div>
-      <div className={styles.buttons}>
-        <Button onClick={resetGame}><Trans>Play again</Trans></Button>
-        <Button onClick={share} minimal>{shareText}</Button>
-      </div>
+      <div onClick={share} className={styles.shareAction}>{shareText}</div>
+      <p className={styles.buttons}>
+        <Button onClick={() => resetGame(false)} minimal={lives > 0}><Trans>Play again</Trans></Button>
+        <Button onClick={() => resetGame(true)} minimal={lives === 0}><Trans>Select categories</Trans></Button>
+      </p>
     </animated.div>
   );
 }
