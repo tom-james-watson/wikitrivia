@@ -7,6 +7,7 @@ import boisson from "../data/ademe/3-boisson.json";
 import habillement from "../data/ademe/5-habillement.json";
 import electromenager from "../data/ademe/6-electromenager.json";
 import mobilier from "../data/ademe/7-mobilier.json";
+import chauffage from "../data/ademe/8-chauffage.json";
 import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
 import footprintDetailCategories from "../data/ademe/footprintDetailCategories.json";
 import { AdemeCategory, FootprintDetails } from "../types/AdemeECV";
@@ -32,7 +33,11 @@ export function getDefaultItems(locale: Locale): Item[] {
     "lavelinge",
     "refrigirateur",
     "chaiseenbois",
-    "lit"
+    "lit",
+    "chauffagegaz",
+    "chauffagefioul",
+    "chauffageelectrique",
+    "pompeachaleur"
   ];
 
   const selectedItems: Item[] = [];
@@ -90,7 +95,7 @@ export function loadCategory(id: number, locale: Locale): Item[] {
     case 7:
       return loadFurnitures(locale);
     case 8:
-      return []; // TODO Chauffage needs more work
+      return loadHeating(locale);
     case 9:
       return loadVegetablesAndFruits(locale);
     case 10:
@@ -214,6 +219,27 @@ function loadFurnitures(locale: Locale): Item[] {
     });
   }
   return furnitureItems;
+}
+
+const heatingItems: Item[] = [];
+function loadHeating(locale: Locale): Item[] {
+  if (heatingItems.length === 0) {
+    chauffage.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 8,
+        label: element.name[locale],
+        description: locale === "fr" ?
+          "60m2 pendant un an." :
+          "60m2 during a year.",
+        explanation: "",
+        image: "🪵 🏠 🌡️",
+        source: element
+      }
+      heatingItems.push(item);
+    });
+  }
+  return heatingItems;
 }
 
 const vegetablesAndFruitsItems: Item[] = [];

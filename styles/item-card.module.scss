@@ -12,6 +12,7 @@
   background-color: #ffffff;
   color: $text;
   will-change: transform, opacity;
+  overflow: hidden;
 
   .top,
   main {

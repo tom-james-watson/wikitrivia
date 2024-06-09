@@ -6,8 +6,8 @@
         "fr": "Chauffage au gaz"
       },
       "slug": "chauffagegaz",
-      "ecv": 39,
-      "footprint": 39
+      "ecv": 2340,
+      "footprint": 2340
     },
     {
       "name": {
@@ -15,8 +15,8 @@
         "fr": "Chauffage au fioul"
       },
       "slug": "chauffagefioul",
-      "ecv": 57.17,
-      "footprint": 57.17
+      "ecv": 3430.2,
+      "footprint": 3430.2
     },
     {
       "name": {
@@ -24,8 +24,8 @@
         "fr": "Chauffage électrique"
       },
       "slug": "chauffageelectrique",
-      "ecv": 7.5,
-      "footprint": 7.5
+      "ecv": 711,
+      "footprint": 711
     },
     {
       "name": {
@@ -33,8 +33,8 @@
         "fr": "Chauffage avec une pompe à chaleur"
       },
       "slug": "pompeachaleur",
-      "ecv": 2.5,
-      "footprint": 2.5
+      "ecv": 237,
+      "footprint": 237
     },
     {
       "name": {
@@ -42,8 +42,8 @@
         "fr": "Chauffage avec un poêle à granulés"
       },
       "slug": "poeleagranule",
-      "ecv": 5.64,
-      "footprint": 5.64
+      "ecv": 338.4,
+      "footprint": 338.4
     },
     {
       "name": {
@@ -51,8 +51,8 @@
         "fr": "Chauffage avec un poêle à bois"
       },
       "slug": "poeleabois",
-      "ecv": 9.2,
-      "footprint": 9.2
+      "ecv": 552,
+      "footprint": 552
     },
     {
       "name": {
@@ -60,8 +60,8 @@
         "fr": "Chauffage via un réseau de chaleur"
       },
       "slug": "reseaudechaleur",
-      "ecv": 18.67,
-      "footprint": 18.67
+      "ecv": 1120.2,
+      "footprint": 1120.2
     }
   ]
 }
