@@ -4,6 +4,7 @@ import ademeCategories from "../data/ademe/0-categories.json";
 import numerique from "../data/ademe/1-numerique.json";
 import repas from "../data/ademe/2-repas.json";
 import boisson from "../data/ademe/3-boisson.json";
+import transport from "../data/ademe/4-transport.json";
 import habillement from "../data/ademe/5-habillement.json";
 import electromenager from "../data/ademe/6-electromenager.json";
 import mobilier from "../data/ademe/7-mobilier.json";
@@ -37,7 +38,11 @@ export function getDefaultItems(locale: Locale): Item[] {
     "chauffagegaz",
     "chauffagefioul",
     "chauffageelectrique",
-    "pompeachaleur"
+    "pompeachaleur",
+    "avioncourtcourrier",
+    "tgv",
+    "voiturethermique",
+    "voitureelectrique"
   ];
 
   const selectedItems: Item[] = [];
@@ -83,11 +88,11 @@ export function loadCategory(id: number, locale: Locale): Item[] {
     case 1:
       return loadDigital(locale);
     case 2:
-      return loadMeal(locale);
+      return loadMeals(locale);
     case 3:
       return loadDrinks(locale);
     case 4:
-      return []; // TODO Transport needs more work
+      return loadTransports(locale);
     case 5:
       return loadClothes(locale);
     case 6:
@@ -127,7 +132,7 @@ function loadDigital(locale: Locale): Item[] {
 }
 
 const mealItems: Item[] = [];
-function loadMeal(locale: Locale): Item[] {
+function loadMeals(locale: Locale): Item[] {
   if (mealItems.length === 0) {
     repas.data.forEach(element => {
       const item: Item = {
@@ -162,6 +167,25 @@ function loadDrinks(locale: Locale): Item[] {
     });
   }
   return drinkItems;
+}
+
+const transportItems: Item[] = [];
+function loadTransports(locale: Locale): Item[] {
+  if (transportItems.length === 0) {
+    transport.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 4,
+        label: element.name[locale],
+        description: "",
+        explanation: "",
+        image: "🚗 🚄 ✈️",
+        source: element
+      }
+      transportItems.push(item);
+    });
+  }
+  return transportItems;
 }
 
 const clotheItems: Item[] = [];

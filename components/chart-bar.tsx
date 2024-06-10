@@ -18,6 +18,6 @@ export default function ChartBar(props: ChartBarProps) {
 
   return (<div className={styles.chartBar}>
     <span className={styles.bar} style={{width: percent + "%", backgroundColor: color}}></span>
-    <span>{displayCO2(value)}</span>
+    <span className={styles.co2}>{displayCO2(value)}</span>
   </div>);
 }

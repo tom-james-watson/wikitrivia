@@ -23,7 +23,7 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
   const [selectedCategories, setSelectedCategories] = useState<boolean[]>(Array(categories.length + 1).fill(false));
   const updateCategories = (id: number) => {
     // Some categories are not available yet
-    if (id === 4 || id === 10) {
+    if (id === 10) {
       alert(t`This category is not yet available.`);
     } else {
       selectedCategories[id] = !selectedCategories[id];
