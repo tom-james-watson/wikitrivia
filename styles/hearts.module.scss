@@ -2,11 +2,14 @@
 
 .hearts {
   display: flex;
-  justify-content: center;
-  margin-top: 20px;
+  gap: 10px;
 
   .heart {
-    height: 50px;
-    margin: 10px;
+    height: 30px;
+  }
+
+  .lost {
+    opacity: .4;
+    scale: .8;
   }
 }

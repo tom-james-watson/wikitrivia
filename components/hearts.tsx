@@ -1,5 +1,5 @@
-import { useSpring, animated } from "react-spring";
 import React from "react";
+import classNames from "classnames";
 import styles from "../styles/hearts.module.scss";
 
 interface HeartProps {
@@ -8,20 +8,10 @@ interface HeartProps {
 
 function Heart(props: HeartProps) {
   const { have } = props;
-  const { opacity } = useSpring({
-    opacity: have ? 1 : 0.4,
-    config: { duration: 300 },
-  });
-  const { scale } = useSpring({
-    scale: have ? 1 : 0.8,
-    config: { mass: 1, tension: 200, friction: 20, duration: 300 },
-    delay: 200,
-  });
 
   return (
-    <animated.img
-      className={styles.heart}
-      style={{ opacity, scale }}
+    <img
+      className={classNames(styles.heart, have ? "" : styles.lost)}
       src="/images/heart.svg"
     />
   );
