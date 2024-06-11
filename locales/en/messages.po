@@ -39,11 +39,11 @@ msgstr "Back"
 
 #: components/game-over.tsx:43
 #: components/game-over.tsx:77
-#: components/instructions.tsx:35
+#: components/instructions.tsx:36
 msgid "Best streak"
 msgstr "Best streak"
 
-#: components/instructions.tsx:58
+#: components/instructions.tsx:59
 msgid "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 msgstr "Code based on from the <0>wikitrivia</0> game by <1>Tom James Watson</1>. Thank you!"
 
@@ -75,16 +75,16 @@ msgstr "Guess the CO2 footprint!"
 msgid "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 msgstr "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
 
-#: components/instructions.tsx:56
+#: components/instructions.tsx:57
 msgid "License AGPL - Source code available <0>on github</0>."
 msgstr "License AGPL - Source code available <0>on github</0>."
 
-#: components/instructions.tsx:55
-#: components/instructions.tsx:55
+#: components/instructions.tsx:56
+#: components/instructions.tsx:56
 msgid "love"
 msgstr "love"
 
-#: components/instructions.tsx:55
+#: components/instructions.tsx:56
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Made with <0/> by <1>Fla</1> & Sara."
 
@@ -100,15 +100,15 @@ msgstr "or"
 msgid "Order items to discover their CO2 footprint!"
 msgstr "Order items to discover their CO2 footprint!"
 
-#: components/instructions.tsx:46
+#: components/instructions.tsx:47
 msgid "Pick categories"
 msgstr "Pick categories"
 
-#: components/instructions.tsx:33
+#: components/instructions.tsx:34
 msgid "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 msgstr "Place the cards in the correct order guessing their CO<0>2</0> footprint."
 
-#: components/game-over.tsx:81
+#: components/game-over.tsx:82
 msgid "Play again"
 msgstr "Play again"
 
@@ -120,20 +120,24 @@ msgstr "Please contact fla (a) framasoft.org to unregister"
 msgid "Register"
 msgstr "Register"
 
+#: components/game-over.tsx:83
+msgid "Select categories"
+msgstr "Select categories"
+
 #: components/categories-selector.tsx:37
 msgid "Select the categories you want to play with:"
 msgstr "Select the categories you want to play with:"
 
 #: components/game-over.tsx:15
-msgid "Share"
-msgstr "Share"
+msgid "Share your score"
+msgstr "Share your score"
 
 #: components/categories-selector.tsx:54
-#: components/instructions.tsx:45
+#: components/instructions.tsx:46
 msgid "Start game"
 msgstr "Start game"
 
-#: components/instructions.tsx:63
+#: components/instructions.tsx:64
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 msgstr "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
 
