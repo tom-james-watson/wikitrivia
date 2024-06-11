@@ -39,7 +39,7 @@ export function getDefaultItems(locale: Locale): Item[] {
     "chauffagefioul",
     "chauffageelectrique",
     "pompeachaleur",
-    "avioncourtcourrier",
+    "avionmoyencourrier",
     "tgv",
     "voiturethermique",
     "voitureelectrique"
@@ -254,8 +254,8 @@ function loadHeating(locale: Locale): Item[] {
         categoryId: 8,
         label: element.name[locale],
         description: locale === "fr" ?
-          "60m2 pendant un an." :
-          "60m2 during a year.",
+          "60m2 par mois en moyenne annuel." :
+          "60m2 per month on yearly average.",
         explanation: "",
         image: "🪵 🏠 🌡️",
         source: element
