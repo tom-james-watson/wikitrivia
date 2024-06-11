@@ -1,3 +1,5 @@
+@import "./variables";
+
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -8,6 +10,22 @@
 .top,
 .bottom {
   flex-basis: 50%;
+  flex-grow: 1;
+}
+
+.top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+
+  .gameHeader {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: $content-max-width;
+    padding: 1rem;
+  }
 }
 
 .bottom {
@@ -15,12 +33,12 @@
 }
 
 .arrowContainer {
+  width: 40px;
+  height: 40px;
   text-align: center;
 }
 
 .arrow {
-  width: 40px;
-  height: 40px;
   animation: bounce 3s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;

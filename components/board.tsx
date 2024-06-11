@@ -8,6 +8,8 @@ import PlayedItemList from "./played-item-list";
 import styles from "../styles/board.module.scss";
 import Hearts from "./hearts";
 import GameOver from "./game-over";
+import Button from "./button";
+import { Trans } from "@lingui/macro";
 
 interface Props {
   highscore: number;
@@ -122,15 +124,19 @@ export default function Board(props: Props) {
     >
       <div className={styles.wrapper + " " + (isDragging ? "dragging" : "notDragging")}>
         <div className={styles.top}>
-          <Hearts lives={state.lives} />
+          <div className={styles.gameHeader}>
+            <Button onClick={() => restart(false)} small><Trans>Back</Trans></Button>
+            <Hearts lives={state.lives} />
+          </div>
           {state.lives > 0 && state.next ? (
             <>
               <NextItemList next={state.next} />
-              {state.played.length === 1 &&
-                <p className={styles.arrowContainer}>
+              {/* We keep the container outside of the if so the space is still used when the arrow disappears and the bottom part doesn't move */}
+              <div className={styles.arrowContainer}>
+                {state.played.length === 1 &&
                   <img className={styles.arrow} src="images/arrow.svg" />
-                </p>
-              }
+                }
+              </div>
             </>
           ) : (
             <GameOver
