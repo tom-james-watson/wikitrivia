@@ -12,7 +12,7 @@ export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [started, setStarted] = useState(false);
-  const [items, setItems] = useState<Item[] | null>(null);
+  const [items, setItems] = useState<Item[] | null>(null); 
 
   React.useEffect(() => {
     const fetchGameData = async () => {
@@ -28,7 +28,7 @@ export default function Game() {
         // Filter out questions which give away their answers
         .filter((item) => !item.label.includes(String(item.year)))
         .filter((item) => !item.description.includes(String(item.year)))
-        .filter((item) => !item.description.includes(String("st century" || "nd century" || "th century")))
+        .filter((item) => !/(?:th|st|nd)[ -]century/i.test(item.description))
         // Filter cards which have bad data as submitted in https://github.com/tom-james-watson/wikitrivia/discussions/2
         .filter((item) => !(item.id in badCards));
       setItems(items);
