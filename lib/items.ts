@@ -7,10 +7,12 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     [1000, 1800],
     [1800, 2020],
   ];
+  const validPeriods = periods.filter(
+    ([fromYear, toYear]) => checkPeriodWillFail(played, fromYear, toYear)
+  );
   const [fromYear, toYear] =
-    periods[Math.floor(Math.random() * periods.length)];
+    validPeriods[Math.floor(Math.random() * validPeriods.length)];
   const avoidPeople = Math.random() > 0.5;
-  const periodWillFail = checkPeriodWillFail(played, fromYear, toYear);
   const candidates = deck.filter((candidate) => {
     if (avoidPeople && candidate.instance_of.includes("human")) {
       return false;
@@ -18,7 +20,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     if (candidate.year < fromYear || candidate.year > toYear) {
       return false;
     }
-    if (tooClose(candidate, played, periodWillFail)) {
+    if (tooClose(candidate, played)) {
       return false;
     }
     return true;
@@ -39,9 +41,9 @@ function getIdealDistance(played: Item[]) {
  * true for all years in a period (possible for 1800-2020)
  */
 function checkPeriodWillFail(
-  played: Item[], 
-  fromYear: number, 
-  toYear: number
+  played: Item[],
+  fromYear: number,
+  toYear: number,
 ): boolean {
   if (played.length > 11 || played.length === 0) {
     return false;
@@ -77,13 +79,9 @@ function checkPeriodWillFail(
   return true;
 }
 
-function tooClose(
-  item: Item, 
-  played: Item[], 
-  periodWillFail: boolean
-): boolean {
+function tooClose(item: Item, played: Item[]): boolean {
   let distance = (played.length < 40) ? 5 : 1;
-  if (!periodWillFail && played.length < 11) {
+  if (played.length < 11) {
     distance = getIdealDistance(played);
   }
 
