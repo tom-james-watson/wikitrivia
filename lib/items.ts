@@ -8,7 +8,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     [1800, 2020],
   ];
   const validPeriods = periods.filter(
-    ([fromYear, toYear]) => checkPeriodWillFail(played, fromYear, toYear)
+    ([fromYear, toYear]) => !checkPeriodWillFail(played, fromYear, toYear)
   );
   const [fromYear, toYear] =
     validPeriods[Math.floor(Math.random() * validPeriods.length)];
