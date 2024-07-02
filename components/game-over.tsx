@@ -73,8 +73,8 @@ export default function GameOver(props: Props) {
         </div>
       </div>
       <div className={styles.buttons}>
-        <Button onClick={dailyGame} text={seedInfo?.daily ? "Replay" : "Today's"} />
-        <Button onClick={resetGame} text="Random" minimal />
+        <Button onClick={resetGame} text="Random" />
+        <Button onClick={dailyGame} text={seedInfo?.daily ? "Replay" : "Today's"} minimal />
         <Button onClick={share} text={shareText} minimal />
       </div>
     </animated.div>

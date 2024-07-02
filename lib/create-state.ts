@@ -4,7 +4,7 @@ import { getRandomItem, preloadImage } from "./items";
 
 export default async function createState(
   deck: Item[], 
-  seed?: string, 
+  seed: string = Math.floor(Math.random() * 100000000).toString(), 
   daily: boolean = false,
 ): Promise<GameState> {
   const played = [{ 
@@ -23,6 +23,6 @@ export default async function createState(
     next,
     nextButOne,
     played,
-    seed: { seed, daily },
+    seed: { seed: seed, daily },
   };
 }
