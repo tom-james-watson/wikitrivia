@@ -4,10 +4,14 @@ import styles from "../styles/game-over.module.scss";
 import Button from "./button";
 import Score from "./score";
 
+interface SeedInfo { seed?: string; daily: boolean }
+
 interface Props {
   highscore: number;
   resetGame: () => void;
+  dailyGame: () => void;
   score: number;
+  seedInfo: SeedInfo;
 }
 
 const defaultShareText = "Share";
@@ -23,8 +27,19 @@ function getMedal(score: number): string {
   return "";
 }
 
+function getSeedText({ seed, daily }: SeedInfo): string {
+  if (!seed) {
+    return "";
+  }
+  if (daily) {
+    return `📅 ${seed}\n`;
+  } else {
+    return `🫘 ${seed}\n`;
+  }
+}
+
 export default function GameOver(props: Props) {
-  const { highscore, resetGame, score } = props;
+  const { highscore, resetGame, dailyGame, score, seedInfo } = props;
 
   const animProps = useSpring({
     opacity: 1,
@@ -35,8 +50,9 @@ export default function GameOver(props: Props) {
   const [shareText, setShareText] = React.useState(defaultShareText);
 
   const share = React.useCallback(async () => {
+    // if (seed)
     await navigator?.clipboard?.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\n${getMedal(
+      `🏛️ wikitrivia.tomjwatson.com\n\n${getSeedText(seedInfo)}${getMedal(
         score
       )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
     );
@@ -57,7 +73,8 @@ export default function GameOver(props: Props) {
         </div>
       </div>
       <div className={styles.buttons}>
-        <Button onClick={resetGame} text="Play again" />
+        <Button onClick={dailyGame} text={seedInfo?.daily ? "Replay" : "Today's"} />
+        <Button onClick={resetGame} text="Random" minimal />
         <Button onClick={share} text={shareText} minimal />
       </div>
     </animated.div>

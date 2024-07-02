@@ -54,6 +54,16 @@ export default function Game() {
     })();
   }, [items]);
 
+  const dailyGame = React.useCallback(() => {
+    (async () => {
+      if (items !== null) {
+        const date = new Date();
+        const seed = `${date.getMonth()}/${date.getDay()}/${date.getFullYear()}`;
+        setState(await createState(items, seed, true));
+      }
+    })();
+  }, [items]);
+
   const [highscore, setHighscore] = React.useState<number>(
     Number(localStorage.getItem("highscore") ?? "0")
   );
@@ -79,6 +89,7 @@ export default function Game() {
       state={state}
       setState={setState}
       resetGame={resetGame}
+      dailyGame={dailyGame}
       updateHighscore={updateHighscore}
     />
   );

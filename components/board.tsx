@@ -12,13 +12,21 @@ import GameOver from "./game-over";
 interface Props {
   highscore: number;
   resetGame: () => void;
+  dailyGame: () => void;
   state: GameState;
   setState: (state: GameState) => void;
   updateHighscore: (score: number) => void;
 }
 
 export default function Board(props: Props) {
-  const { highscore, resetGame, state, setState, updateHighscore } = props;
+  const { 
+    highscore, 
+    resetGame, 
+    dailyGame, 
+    state,
+    setState, 
+    updateHighscore 
+  } = props;
 
   const [isDragging, setIsDragging] = React.useState(false);
 
@@ -58,7 +66,8 @@ export default function Board(props: Props) {
       const newNext = state.nextButOne;
       const newNextButOne = getRandomItem(
         newDeck,
-        newNext ? [...newPlayed, newNext] : newPlayed
+        newNext ? [...newPlayed, newNext] : newPlayed,
+        state.seed?.seed,
       );
       const newImageCache = [preloadImage(newNextButOne.image)];
 
@@ -135,8 +144,10 @@ export default function Board(props: Props) {
           ) : (
             <GameOver
               highscore={highscore}
+              dailyGame={dailyGame}
               resetGame={resetGame}
               score={score}
+              seedInfo={state.seed}
             />
           )}
         </div>
