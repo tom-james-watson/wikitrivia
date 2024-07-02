@@ -45,11 +45,29 @@ export default function Game() {
       }
     })();
   }, [items]);
-
+  
   const resetGame = React.useCallback(() => {
     (async () => {
       if (items !== null) {
         setState(await createState(items));
+      }
+    })();
+  }, [items]);
+
+  const joinGame = React.useCallback((seed: string) => {
+    (async () => {
+      if (items !== null) {
+        setState(await createState(items, seed, false));
+      }
+    })();
+  }, [items]);
+
+  const dailyGame = React.useCallback(() => {
+    (async () => {
+      if (items !== null) {
+        const date = new Date();
+        const seed = `${date.getMonth()}/${date.getDay()}/${date.getFullYear()}`;
+        setState(await createState(items, seed, true));
       }
     })();
   }, [items]);
@@ -69,7 +87,21 @@ export default function Game() {
 
   if (!started) {
     return (
-      <Instructions highscore={highscore} start={() => setStarted(true)} />
+      <Instructions 
+        highscore={highscore} 
+        startDaily={() => {
+          dailyGame();
+          setStarted(true);
+        }}
+        startRandom={() => {
+          resetGame();
+          setStarted(true);
+        }}
+        startSpecific={(seed: string) => {
+          joinGame(seed);
+          setStarted(true);
+        }}
+        />
     );
   }
 
@@ -79,6 +111,7 @@ export default function Game() {
       state={state}
       setState={setState}
       resetGame={resetGame}
+      dailyGame={dailyGame}
       updateHighscore={updateHighscore}
     />
   );

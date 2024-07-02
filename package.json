@@ -21,6 +21,7 @@
     "react-loader-spinner": "^4.0.0",
     "react-spring": "^9.7.3",
     "seamless-scroll-polyfill": "^1.2.3",
+    "seedrandom": "^3.0.5",
     "tween-functions": "^1.2.0"
   },
   "devDependencies": {
@@ -28,6 +29,7 @@
     "@types/react": "^17.0.3",
     "@types/react-beautiful-dnd": "^13.0.0",
     "@types/react-no-ssr": "^1.1.1",
+    "@types/seedrandom": "^3.0.8",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "eslint": "^8.56.0",

@@ -1,16 +1,50 @@
-import React from "react";
+import React, { useState } from "react";
 import GitHubButton from "react-github-btn";
 import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
+import classNames from "classnames";
+import buttonStyles from "../styles/button.module.scss";
 
 interface Props {
   highscore: number;
-  start: () => void;
+  startDaily: () => void;
+  startRandom: () => void;
+  startSpecific: (seed: string) => void;
+}
+
+interface JoinFieldProps {
+  startSpecific: (seed: string) => void;
+}
+
+
+function JoinField(props: JoinFieldProps) {
+  const [seedInput, setSeedInput] = useState("");
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setSeedInput(event.currentTarget.value)
+  }
+
+  const handleKey = (event: React.KeyboardEvent) => {
+    console.log(event.key);
+    if (event.key === "Enter") {
+      props.startSpecific(seedInput);
+    }
+  }
+
+  return (
+    <input 
+      autoFocus
+      type="text" 
+      onChange={handleChange} 
+      onKeyPress={handleKey} 
+      className={classNames(buttonStyles.button, buttonStyles.minimal)}
+    />
+  );
 }
 
 export default function Instructions(props: Props) {
-  const { highscore, start } = props;
+  const [joining, setJoining] = useState<boolean>(false);
+  const { highscore, startDaily, startRandom, startSpecific } = props;
 
   return (
     <div className={styles.instructions}>
@@ -21,7 +55,17 @@ export default function Instructions(props: Props) {
             <Score score={highscore} title="Best streak" />
           </div>
         )}
-        <Button onClick={start} text="Start game" />
+        <div className={styles.buttons}>
+          <Button onClick={startDaily} text="Daily" />
+          <Button onClick={startRandom} text="New game" />
+          {
+            joining ? (
+              <JoinField startSpecific={startSpecific}/>
+            ) : (
+              <Button onClick={() => {setJoining(true);}} text="Join game" />
+            )
+          }
+        </div>
         <div className={styles.about}>
           <div>
             All data sourced from{" "}

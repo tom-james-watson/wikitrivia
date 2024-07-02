@@ -1,15 +1,28 @@
 import { Item, PlayedItem } from "../types/item";
 import { createWikimediaImage } from "./image";
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const seedrandom = require("seedrandom");
 
-export function getRandomItem(deck: Item[], played: Item[]): Item {
+export function getRandomItem(
+  deck: Item[], 
+  played: Item[], 
+  seed?: string
+): Item {
+  let rng;
+  console.log(seed);
+  if ( seed ) {
+    rng = seedrandom(seed + `${played.length}`);
+  } else {
+    rng = Math.random;
+  }
   const periods: [number, number][] = [
     [-100000, 1000],
     [1000, 1800],
     [1800, 2020],
   ];
   const [fromYear, toYear] =
-    periods[Math.floor(Math.random() * periods.length)];
-  const avoidPeople = Math.random() > 0.5;
+    periods[Math.floor(rng() * periods.length)];
+  const avoidPeople = rng() > 0.5;
   const candidates = deck.filter((candidate) => {
     if (avoidPeople && candidate.instance_of.includes("human")) {
       return false;
@@ -24,9 +37,11 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   });
 
   if (candidates.length > 0) {
-    return candidates[Math.floor(Math.random() * candidates.length)];
+    const result = candidates[Math.floor(rng() * candidates.length)];
+    console.log(result);
+    return result;
   }
-  return deck[Math.floor(Math.random() * deck.length)];
+  return deck[Math.floor(rng() * deck.length)];
 }
 
 function tooClose(item: Item, played: Item[]) {
