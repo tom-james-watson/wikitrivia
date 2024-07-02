@@ -66,7 +66,7 @@ export default function Game() {
     (async () => {
       if (items !== null) {
         const date = new Date();
-        const seed = `${date.getMonth()}/${date.getDay()}/${date.getFullYear()}`;
+        const seed = `${date.getDay()}/${date.getMonth() + 1}/${date.getFullYear()}`;
         setState(await createState(items, seed, true));
       }
     })();
