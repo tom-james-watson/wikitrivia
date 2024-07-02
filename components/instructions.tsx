@@ -25,7 +25,6 @@ function JoinField(props: JoinFieldProps) {
   }
 
   const handleKey = (event: React.KeyboardEvent) => {
-    console.log(event.key);
     if (event.key === "Enter") {
       props.startSpecific(seedInput);
     }

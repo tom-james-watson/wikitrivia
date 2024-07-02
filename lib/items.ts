@@ -9,7 +9,6 @@ export function getRandomItem(
   seed?: string
 ): Item {
   let rng;
-  console.log(seed);
   if ( seed ) {
     rng = seedrandom(seed + `${played.length}`);
   } else {
@@ -38,7 +37,6 @@ export function getRandomItem(
 
   if (candidates.length > 0) {
     const result = candidates[Math.floor(rng() * candidates.length)];
-    console.log(result);
     return result;
   }
   return deck[Math.floor(rng() * deck.length)];
