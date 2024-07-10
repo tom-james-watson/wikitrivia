@@ -7,12 +7,16 @@ import Board from "./board";
 import Loading from "./loading";
 import Instructions from "./instructions";
 import badCards from "../lib/bad-cards";
+import { useRouter } from "next/router";
+import { useSearchParams } from "next/navigation";
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [started, setStarted] = useState(false);
   const [items, setItems] = useState<Item[] | null>(null); 
+  
+  const router = useRouter();
 
   React.useEffect(() => {
     const fetchGameData = async () => {
@@ -37,19 +41,44 @@ export default function Game() {
     fetchGameData();
   }, []);
 
+  
+  const searchParams = useSearchParams();
   React.useEffect(() => {
     (async () => {
       if (items !== null) {
-        setState(await createState(items));
+        const URLSeed = searchParams.get("seed");
+        if (Number.isNaN(Number(URLSeed))) {
+          const { pathname } = router;
+          router.replace(
+              { pathname, query: "" },
+              undefined, 
+              { shallow: true }
+          );
+        } else {
+          setStarted(true);
+        }
+        setState(await createState(items, URLSeed ?? undefined));
         setLoaded(true);
       }
     })();
   }, [items]);
+
+  const setURLSeed = (seed?: string) => {    
+    const query = seed ?? ""
+    const { pathname } = router;
+    console.log(router);
+    router.replace(
+        { pathname, query },
+        undefined, 
+        { shallow: true }
+    );
+  };
   
   const resetGame = React.useCallback(() => {
     (async () => {
       if (items !== null) {
         setState(await createState(items));
+        setURLSeed();
       }
     })();
   }, [items]);
@@ -64,6 +93,7 @@ export default function Game() {
 
   const dailyGame = React.useCallback(() => {
     (async () => {
+      setURLSeed();
       if (items !== null) {
         const date = new Date();
         const seed = `${date.getDay()}/${date.getMonth() + 1}/${date.getFullYear()}`;

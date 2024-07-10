@@ -159,9 +159,6 @@ export default function Board(props: Props) {
             isDragging={isDragging}
             items={state.played}
           />
-        <div className={styles.seed}> {
-          (state.seed.daily ? "" : "Join Code: ") + state.seed.seed} 
-        </div>
         </div>
       </div>
     </DragDropContext>

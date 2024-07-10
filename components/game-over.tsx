@@ -29,13 +29,14 @@ function getMedal(score: number): string {
 
 function getSeedText({ seed, daily }: SeedInfo): string {
   if (!seed) {
-    return "";
+    return "\n\n";
   }
   if (daily) {
-    return `📅 ${seed}\n`;
-  } else {
-    return `🫘 ${seed}\n`;
+    return `\n\n📅 ${seed}\n`;
   }
+  
+  const seedParams = new URLSearchParams({ seed });
+  return `?${seedParams.toString()}\n\n`;
 }
 
 export default function GameOver(props: Props) {
@@ -51,10 +52,13 @@ export default function GameOver(props: Props) {
 
   const share = React.useCallback(async () => {
     // if (seed)
+    const highScoreText = `\n${getMedal(highscore)}Best Streak: ${highscore}`;
     await navigator?.clipboard?.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\n${getSeedText(seedInfo)}${getMedal(
-        score
-      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
+      `🏛️ wikitrivia.tomjwatson.com${
+        getSeedText(seedInfo)}${getMedal(score)
+      }Streak: ${score}${
+        seedInfo.daily ? highScoreText : ""
+      }`
     );
     setShareText("Copied");
     setTimeout(() => {
@@ -73,7 +77,7 @@ export default function GameOver(props: Props) {
         </div>
       </div>
       <div className={styles.buttons}>
-        <Button onClick={resetGame} text="Random" />
+        <Button onClick={resetGame} text="Practice" />
         <Button onClick={dailyGame} text={seedInfo?.daily ? "Replay" : "Today's"} minimal />
         <Button onClick={share} text={shareText} minimal />
       </div>
