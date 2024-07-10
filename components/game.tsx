@@ -47,14 +47,14 @@ export default function Game() {
     (async () => {
       if (items !== null) {
         const URLSeed = searchParams.get("seed");
-        if (Number.isNaN(Number(URLSeed))) {
+        if (URLSeed && Number.isNaN(Number(URLSeed))) {
           const { pathname } = router;
           router.replace(
               { pathname, query: "" },
               undefined, 
               { shallow: true }
           );
-        } else {
+        } else if (URLSeed) {
           setStarted(true);
         }
         setState(await createState(items, URLSeed ?? undefined));
