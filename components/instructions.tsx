@@ -6,11 +6,13 @@ import Score from "./score";
 
 interface Props {
   highscore: number;
-  start: () => void;
+  startDaily: () => void;
+  startRandom: () => void;
+  startSpecific: (seed: string) => void;
 }
 
 export default function Instructions(props: Props) {
-  const { highscore, start } = props;
+  const { highscore, startDaily, startRandom } = props;
 
   return (
     <div className={styles.instructions}>
@@ -21,7 +23,10 @@ export default function Instructions(props: Props) {
             <Score score={highscore} title="Best streak" />
           </div>
         )}
-        <Button onClick={start} text="Start game" />
+        <div className={styles.buttons}>
+          <Button onClick={startDaily} text="Daily" />
+          <Button onClick={startRandom} text="Practice" />
+        </div>
         <div className={styles.about}>
           <div>
             All data sourced from{" "}

@@ -4,10 +4,14 @@ import styles from "../styles/game-over.module.scss";
 import Button from "./button";
 import Score from "./score";
 
+interface SeedInfo { seed?: string; daily: boolean }
+
 interface Props {
   highscore: number;
   resetGame: () => void;
+  dailyGame: () => void;
   score: number;
+  seedInfo: SeedInfo;
 }
 
 const defaultShareText = "Share";
@@ -23,8 +27,20 @@ function getMedal(score: number): string {
   return "";
 }
 
+function getSeedText({ seed, daily }: SeedInfo): string {
+  if (!seed) {
+    return "\n\n";
+  }
+  if (daily) {
+    return `\n\n📅 ${seed}\n`;
+  }
+  
+  const seedParams = new URLSearchParams({ seed });
+  return `?${seedParams.toString()}\n\n`;
+}
+
 export default function GameOver(props: Props) {
-  const { highscore, resetGame, score } = props;
+  const { highscore, resetGame, dailyGame, score, seedInfo } = props;
 
   const animProps = useSpring({
     opacity: 1,
@@ -35,10 +51,14 @@ export default function GameOver(props: Props) {
   const [shareText, setShareText] = React.useState(defaultShareText);
 
   const share = React.useCallback(async () => {
+    // if (seed)
+    const highScoreText = `\n${getMedal(highscore)}Best Streak: ${highscore}`;
     await navigator?.clipboard?.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\n${getMedal(
-        score
-      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
+      `🏛️ wikitrivia.tomjwatson.com${
+        getSeedText(seedInfo)}${getMedal(score)
+      }Streak: ${score}${
+        seedInfo.daily ? highScoreText : ""
+      }`
     );
     setShareText("Copied");
     setTimeout(() => {
@@ -57,7 +77,8 @@ export default function GameOver(props: Props) {
         </div>
       </div>
       <div className={styles.buttons}>
-        <Button onClick={resetGame} text="Play again" />
+        <Button onClick={resetGame} text="Practice" />
+        <Button onClick={dailyGame} text={seedInfo?.daily ? "Replay" : "Today's"} minimal />
         <Button onClick={share} text={shareText} minimal />
       </div>
     </animated.div>

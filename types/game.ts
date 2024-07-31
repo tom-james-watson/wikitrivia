@@ -14,4 +14,5 @@ export interface GameState {
   next: Item | null;
   nextButOne: Item | null;
   played: PlayedItem[];
+  seed: {seed?: string; daily: boolean};
 }

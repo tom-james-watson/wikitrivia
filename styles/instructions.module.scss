@@ -18,6 +18,16 @@
       margin-bottom: 40px;
     }
 
+    .buttons {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      > Button {
+        margin-bottom: 10px;
+      }
+    }
+
     .highscoreWrapper {
       margin: 40px 0;
     }
