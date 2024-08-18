@@ -37,7 +37,7 @@ export default function EmailRegistration() {
   return (
     <div>
       <form method="post" action="https://www.disco2very.org/server/" id="register-email" onSubmit={onSubmit}>
-        <input type="email" name="email" placeholder={t`myemail@myprovider.org`} required />
+        <input type="email" name="email" placeholder={t`myemail@myprovider.org`} autoComplete="email" required />
         <input type="submit" className="button" value={t`Register`} />
       </form>
       {messageText &&
