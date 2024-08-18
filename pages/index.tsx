@@ -19,12 +19,12 @@ export default function Index() {
       <meta property="og:description" content="disCO2very is a free game to discover the orders of magnitude of the CO2 footprint" />
       <meta property="og:image" content="https://disco2very.org/images/logo-app.png" />
       <meta property="og:image:type" content="image/png" />
-      <meta property="og:image:height" content="128" />
-      <meta property="og:image:width" content="128" />
+      <meta property="og:image:height" content="192" />
+      <meta property="og:image:width" content="192" />
       <meta property="og:image:alt" content="The disCO2very logo, featuring a molecule of CO2." />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:creator" content="Fla" />
-      <link rel="icon" href="/favicon.png" />
+      <link rel="icon" href="/favicon.svg" />
       <link rel="apple-touch-icon" href="/images/logo-app.png" />
       <link rel="manifest" href="/manifest.json" />
       <link rel="canonical" href="https://www.disco2very.org/" />

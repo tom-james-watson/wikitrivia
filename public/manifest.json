@@ -5,7 +5,12 @@
   "icons": [
     {
       "src": "/images/logo-app.png",
-      "sizes": "144x144",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo-app_512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
@@ -13,5 +18,13 @@
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#23272c",
-  "orientation": "portrait-primary"
+  "orientation": "portrait-primary",
+  "screenshots" : [
+    {
+      "src": "/images/screenshots/home-page.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "label": "Home page of disCO2very"
+    }
+  ]
 }
