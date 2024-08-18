@@ -33,6 +33,7 @@ msgstr "{email} n'est pas une adresse e-mail valide."
 msgid "A real pack of cards?"
 msgstr "Un vrai jeu de cartes ?"
 
+#: components/board.tsx:128
 #: components/categories-selector.tsx:55
 msgid "Back"
 msgstr "Retour"
@@ -54,6 +55,11 @@ msgstr "Félicitations !"
 #: components/game-over.tsx:52
 msgid "Copied!"
 msgstr "Copié !"
+
+#: components/App.tsx:22
+#: components/App.tsx:23
+msgid "disCO2very is a free game to discover the orders of magnitude of the CO2 footprint"
+msgstr "disCO2very est un jeu libre pour découvrir les ordres de grandeur de l'empreinte carbone"
 
 #: components/explanation-dialog.tsx:71
 msgid "End of life:"
@@ -136,6 +142,10 @@ msgstr "Partagez votre score"
 #: components/instructions.tsx:46
 msgid "Start game"
 msgstr "Démarrer la partie"
+
+#: components/App.tsx:24
+msgid "The disCO2very logo, featuring a molecule of CO2."
+msgstr "Le logo disCO2very, avec une molécule de CO2."
 
 #: components/instructions.tsx:64
 msgid "The numbers are coming from the <0>Ademe</0> platform <1>Impact CO<2>2</2></1>. Thanks to them for their amazing work!"
