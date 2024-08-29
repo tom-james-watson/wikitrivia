@@ -12,13 +12,11 @@ export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [started, setStarted] = useState(false);
-  const [items, setItems] = useState<Item[] | null>(null); 
+  const [items, setItems] = useState<Item[] | null>(null);
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      const res = await axios.get<string>(
-        "https://wikitrivia-data.tomjwatson.com/items.json"
-      );
+      const res = await axios.get<string>("/items.json");
       const items: Item[] = res.data
         .trim()
         .split("\n")
