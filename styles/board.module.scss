@@ -7,35 +7,40 @@
   min-height: 100%;
 }
 
+.gameHeader {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  width: 100%;
+  max-width: $content-max-width;
+  padding: 1rem;
+}
+
 .top,
 .bottom {
-  flex-basis: 50%;
   flex-grow: 1;
 }
 
 .top {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 1.5rem;
-
-  .gameHeader {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    max-width: $content-max-width;
-    padding: 1rem;
-  }
+  justify-content: center;
+  overflow-x: auto;
 }
 
 .bottom {
-  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
 }
 
 .arrowContainer {
   width: 40px;
   height: 40px;
   text-align: center;
+  transform: rotate(180deg);
 }
 
 .arrow {

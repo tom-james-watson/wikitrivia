@@ -122,20 +122,28 @@ export default function Board(props: Props) {
       sensors={[useAutoMoveSensor.bind(null, state)]}
     >
       <div className={styles.wrapper + " " + (isDragging ? "dragging" : "notDragging")}>
-        <div className={styles.top}>
-          <div className={styles.gameHeader}>
-            <Button onClick={() => restart(false)} small><Trans>Back</Trans></Button>
-            <Hearts lives={state.lives} />
-          </div>
+        <div className={styles.gameHeader}>
+          <Button onClick={() => restart(false)} small><Trans>Back</Trans></Button>
+          <Hearts lives={state.lives} />
+        </div>
+        <div id="top" className={styles.top}>
+          <PlayedItemList
+            badlyPlacedIndex={
+              state.badlyPlaced === null ? null : state.badlyPlaced.index
+            }
+            items={state.played}
+          />
+        </div>
+        <div className={styles.bottom}>
           {state.lives > 0 && state.next ? (
             <>
-              <NextItemList next={state.next} />
               {/* We keep the container outside of the if so the space is still used when the arrow disappears and the bottom part doesn't move */}
               <div className={styles.arrowContainer}>
                 {state.played.length === 1 &&
                   <img className={styles.arrow} src="images/arrow.svg" />
                 }
               </div>
+              <NextItemList next={state.next} />
             </>
           ) : (
             <GameOver
@@ -145,14 +153,6 @@ export default function Board(props: Props) {
               lives={state.lives}
             />
           )}
-        </div>
-        <div id="bottom" className={styles.bottom}>
-          <PlayedItemList
-            badlyPlacedIndex={
-              state.badlyPlaced === null ? null : state.badlyPlaced.index
-            }
-            items={state.played}
-          />
         </div>
       </div>
     </DragDropContext>

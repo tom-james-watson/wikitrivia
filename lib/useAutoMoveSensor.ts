@@ -8,10 +8,10 @@ function moveStepByStep(
   scrollValues: number[]
 ) {
   requestAnimationFrame(() => {
-    const bottom = document.getElementById("bottom");
+    const top = document.getElementById("top");
 
-    if (bottom === null) {
-      throw new Error("Can't find #bottom");
+    if (top === null) {
+      throw new Error("Can't find #top");
     }
 
     const newPosition = transformValues.shift();
@@ -20,7 +20,7 @@ function moveStepByStep(
     if (newPosition === undefined || newScroll === undefined) {
       drag.drop();
     } else {
-      bottom.scrollLeft = newScroll;
+      top.scrollLeft = newScroll;
       drag.move({ x: newPosition, y: 0 });
       moveStepByStep(drag, transformValues, scrollValues);
     }
@@ -53,7 +53,7 @@ export default async function useAutoMoveSensor(
       state.played[state.badlyPlaced.index + state.badlyPlaced.delta].id
     }']`
   );
-  const bottomEl: HTMLElement | null = document.getElementById("bottom");
+  const bottomEl: HTMLElement | null = document.getElementById("top");
 
   if (itemEl === null || destEl === null || bottomEl === null) {
     throw new Error("Can't find element");
