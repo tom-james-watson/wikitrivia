@@ -1,20 +1,27 @@
 
 import { Item } from "../types/item";
 import ademeCategories from "../data/ademe/0-categories.json";
-import numerique from "../data/ademe/1-numerique.json";
-import repas from "../data/ademe/2-repas.json";
-import boisson from "../data/ademe/3-boisson.json";
-import transport from "../data/ademe/4-transport.json";
-import habillement from "../data/ademe/5-habillement.json";
-import electromenager from "../data/ademe/6-electromenager.json";
-import mobilier from "../data/ademe/7-mobilier.json";
-import chauffage from "../data/ademe/8-chauffage.json";
-import vegetablesAndFruits from "../data/ademe/9-fruitsetlegumes.json";
+import enNumerique from "../data/ademe/en/1-numerique.json";
+import enRepas from "../data/ademe/en/2-repas.json";
+import enBoisson from "../data/ademe/en/3-boisson.json";
+import enTransport from "../data/ademe/en/4-transport.json";
+import enHabillement from "../data/ademe/en/5-habillement.json";
+import enElectromenager from "../data/ademe/en/6-electromenager.json";
+import enMobilier from "../data/ademe/en/7-mobilier.json";
+import enChauffage from "../data/ademe/en/8-chauffage.json";
+import enVegetablesAndFruits from "../data/ademe/en/9-fruitsetlegumes.json";
+import frNumerique from "../data/ademe/fr/1-numerique.json";
+import frRepas from "../data/ademe/fr/2-repas.json";
+import frBoisson from "../data/ademe/fr/3-boisson.json";
+import frTransport from "../data/ademe/fr/4-transport.json";
+import frHabillement from "../data/ademe/fr/5-habillement.json";
+import frElectromenager from "../data/ademe/fr/6-electromenager.json";
+import frMobilier from "../data/ademe/fr/7-mobilier.json";
+import frChauffage from "../data/ademe/fr/8-chauffage.json";
+import frVegetablesAndFruits from "../data/ademe/fr/9-fruitsetlegumes.json";
 import footprintDetailCategories from "../data/ademe/footprintDetailCategories.json";
-import { AdemeCategory, FootprintDetails } from "../types/AdemeECV";
+import { AdemeCategory, AdemeECV, FootprintDetails } from "../types/AdemeECV";
 import { Locale } from "../types/i18n";
-//import usageNumerique from "../data/ademe/10-usagenumerique.json";
-
 
 export function getDefaultItems(locale: Locale): Item[] {
   const slugs = [
@@ -39,7 +46,7 @@ export function getDefaultItems(locale: Locale): Item[] {
     "chauffagefioul",
     "chauffageelectrique",
     "pompeachaleur",
-    "avionmoyencourrier",
+    "avion-moyencourrier",
     "tgv",
     "voiturethermique",
     "voitureelectrique"
@@ -113,14 +120,16 @@ export function loadCategory(id: number, locale: Locale): Item[] {
 const digitalItems: Item[] = [];
 function loadDigital(locale: Locale): Item[] {
   if (digitalItems.length === 0) {
+    const numerique = locale === "fr" ? frNumerique : enNumerique;
     numerique.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 1,
-        label: element.name[locale],
-        description: locale === "fr" ?
-          "Achat et usage pendant " + element.usage.defaultyears + " ans." :
-          "Purchase and usage for " + element.usage.defaultyears + " years.",
+        label: element.name,
+        description: !element.usage ? "" :
+          locale === "fr" ?
+            "Achat et usage pendant " + element.usage.defaultyears + " ans" :
+            "Purchase and usage for " + element.usage.defaultyears + " years.",
         explanation: "",
         image: "📱 💻 🖥️",
         source: element
@@ -134,11 +143,12 @@ function loadDigital(locale: Locale): Item[] {
 const mealItems: Item[] = [];
 function loadMeals(locale: Locale): Item[] {
   if (mealItems.length === 0) {
+    const repas = locale === "fr" ? frRepas : enRepas;
     repas.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 2,
-        label: element.name[locale],
+        label: element.name,
         description: "",
         explanation: "",
         image: "🐟 🍽 🥩",
@@ -153,11 +163,12 @@ function loadMeals(locale: Locale): Item[] {
 const drinkItems: Item[] = [];
 function loadDrinks(locale: Locale): Item[] {
   if (drinkItems.length === 0) {
+    const boisson = locale === "fr" ? frBoisson : enBoisson;
     boisson.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 3,
-        label: element.name[locale] + " (1L)",
+        label: element.name + " (1L)",
         description: "",
         explanation: "",
         image: "🍺 🍹 🥛",
@@ -172,11 +183,14 @@ function loadDrinks(locale: Locale): Item[] {
 const transportItems: Item[] = [];
 function loadTransports(locale: Locale): Item[] {
   if (transportItems.length === 0) {
+    const transport = locale === "fr" ? frTransport : enTransport;
     transport.data.forEach(element => {
+      const coeff = transportCoeff[element.slug];
+      applyCoefficient(element, coeff);
       const item: Item = {
         id: element.slug,
         categoryId: 4,
-        label: element.name[locale],
+        label: element.name + ` (${coeff}km)`,
         description: "",
         explanation: "",
         image: "🚗 🚄 ✈️",
@@ -191,11 +205,12 @@ function loadTransports(locale: Locale): Item[] {
 const clotheItems: Item[] = [];
 function loadClothes(locale: Locale): Item[] {
   if (clotheItems.length === 0) {
+    const habillement = locale === "fr" ? frHabillement : enHabillement;
     habillement.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 5,
-        label: element.name[locale],
+        label: element.name,
         description: "",
         explanation: "",
         image: "👞 👔 👗",
@@ -210,12 +225,16 @@ function loadClothes(locale: Locale): Item[] {
 const householdApplianceItems: Item[] = [];
 function loadHouseholdAppliances(locale: Locale): Item[] {
   if (householdApplianceItems.length === 0) {
+    const electromenager = locale === "fr" ? frElectromenager : enElectromenager;
     electromenager.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 6,
-        label: element.name[locale],
-        description: element.usage ? "Achat et usage pendant " + element.usage.defaultyears + " ans." : "",
+        label: element.name,
+        description: !element.usage ? "" :
+          locale === "fr" ?
+            "Achat et usage pendant " + element.usage.defaultyears + " ans" :
+            "Purchase and usage for " + element.usage.defaultyears + " years.",
         explanation: "",
         image: "🧊 🛁 ☕",
         source: element
@@ -229,11 +248,12 @@ function loadHouseholdAppliances(locale: Locale): Item[] {
 const furnitureItems: Item[] = [];
 function loadFurnitures(locale: Locale): Item[] {
   if (furnitureItems.length === 0) {
+    const mobilier = locale === "fr" ? frMobilier : enMobilier;
     mobilier.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 7,
-        label: element.name[locale],
+        label: element.name,
         description: "",
         explanation: "",
         image: "🛏️ 🪑 🛋️",
@@ -248,11 +268,13 @@ function loadFurnitures(locale: Locale): Item[] {
 const heatingItems: Item[] = [];
 function loadHeating(locale: Locale): Item[] {
   if (heatingItems.length === 0) {
+    const chauffage = locale === "fr" ? frChauffage : enChauffage;
     chauffage.data.forEach(element => {
+      applyCoefficient(element, 1/12);
       const item: Item = {
         id: element.slug,
         categoryId: 8,
-        label: element.name[locale],
+        label: element.name,
         description: locale === "fr" ?
           "60m2 par mois en moyenne annuel." :
           "60m2 per month on yearly average.",
@@ -269,12 +291,15 @@ function loadHeating(locale: Locale): Item[] {
 const vegetablesAndFruitsItems: Item[] = [];
 function loadVegetablesAndFruits(locale: Locale): Item[] {
   if (vegetablesAndFruitsItems.length === 0) {
+    const vegetablesAndFruits = locale === "fr" ? frVegetablesAndFruits : enVegetablesAndFruits;
     vegetablesAndFruits.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 9,
-        label: element.name[locale] + " (1kg)",
-        description: "Consommé le mois de mars",
+        label: element.name + " (1kg)",
+        description: locale === "fr" ?
+          "Consommé le mois d'octobre" :
+          "Bought in October",
         explanation: "",
         image: "🥑 🍇 🍅",
         source: element
@@ -284,8 +309,6 @@ function loadVegetablesAndFruits(locale: Locale): Item[] {
   }
   return vegetablesAndFruitsItems;
 }
-
-
 
 // Not ready on Ademe side, they should explain with which device, on which network, how much, etc.
 // usageNumerique.data.forEach(element => {
@@ -303,4 +326,37 @@ function loadVegetablesAndFruits(locale: Locale): Item[] {
 
 export function getFootprintDetails(): FootprintDetails {
   return footprintDetailCategories;
+}
+
+const transportCoeff: {[key: string]: number} = {
+  "avion-courtcourrier": 800,
+  "avion-moyencourrier": 2000,
+  "avion-longcourrier": 6000,
+  "tgv": 700,
+  "intercites": 400,
+  "voiturethermique": 100,
+  "voitureelectrique": 100,
+  "autocar": 400,
+  "velo": 5,
+  "veloelectrique": 5,
+  "busthermique": 5,
+  "tramway": 5,
+  "metro": 5,
+  "scooter": 5,
+  "moto": 100,
+  "rer": 20,
+  "ter": 100,
+  "buselectrique": 5,
+  "trottinette": 5,
+  "busgnv": 5
+}
+
+function applyCoefficient(element: AdemeECV, coeff: number) {
+  element.ecv = element.ecv * coeff;
+  if (element.footprint) {
+    element.footprint = element.footprint * coeff;
+  }
+  if (element.footprintDetail) {
+    element.footprintDetail.forEach(detail => detail.value = detail.value * coeff);
+  }
 }

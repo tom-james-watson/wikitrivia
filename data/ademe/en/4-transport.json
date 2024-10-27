@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "name": "Plane short-haul",
+      "slug": "avion-courtcourrier",
+      "ecv": 0.25858,
+      "footprint": 0.25858,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00038
+        },
+        {
+          "id": 6,
+          "value": 0.1412
+        },
+        {
+          "id": 7,
+          "value": 0.117
+        }
+      ]
+    },
+    {
+      "name": "Plane medium-haul",
+      "slug": "avion-moyencourrier",
+      "ecv": 0.18756,
+      "footprint": 0.18756,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00036
+        },
+        {
+          "id": 6,
+          "value": 0.1024
+        },
+        {
+          "id": 7,
+          "value": 0.0848
+        }
+      ]
+    },
+    {
+      "name": "Plane long-haul",
+      "slug": "avion-longcourrier",
+      "ecv": 0.15195999999999998,
+      "footprint": 0.15195999999999998,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00026
+        },
+        {
+          "id": 6,
+          "value": 0.08299999999999999
+        },
+        {
+          "id": 7,
+          "value": 0.0687
+        }
+      ]
+    },
+    {
+      "name": "High-speed train",
+      "slug": "tgv",
+      "ecv": 0.00293,
+      "footprint": 0.00293,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00063
+        },
+        {
+          "id": 6,
+          "value": 0.0023
+        }
+      ]
+    },
+    {
+      "name": "Intercity train",
+      "slug": "intercites",
+      "ecv": 0.00898,
+      "footprint": 0.00898,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00318
+        },
+        {
+          "id": 6,
+          "value": 0.0058
+        }
+      ]
+    },
+    {
+      "name": "Combustion car",
+      "slug": "voiturethermique",
+      "ecv": 0.21760000000000002,
+      "footprint": 0.21760000000000002,
+      "footprintDetail": [
+        {
+          "value": 0.192,
+          "id": 6
+        },
+        {
+          "value": 0.0256,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Electric car",
+      "slug": "voitureelectrique",
+      "ecv": 0.10339999999999999,
+      "footprint": 0.10339999999999999,
+      "footprintDetail": [
+        {
+          "value": 0.0198,
+          "id": 6
+        },
+        {
+          "value": 0.0836,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Combustion coach",
+      "slug": "autocar",
+      "ecv": 0.029421306270000003,
+      "footprint": 0.029421306270000003,
+      "footprintDetail": [
+        {
+          "value": 0.025,
+          "id": 6
+        },
+        {
+          "value": 0.00442130627,
+          "_comment": "// = (Valeur en kgCO₂e/kg de véhicule * Masse type) / Nombre de passagers / Durée de vie en km = (4 * 12000) / 30 / 361884",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Bicycle or walking",
+      "slug": "velo",
+      "ecv": 0,
+      "footprint": 0
+    },
+    {
+      "name": "Electrically assisted bicycle",
+      "slug": "veloelectrique",
+      "ecv": 0.010950000000000001,
+      "footprint": 0.010950000000000001,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00872
+        },
+        {
+          "id": 6,
+          "value": 0.00223
+        }
+      ]
+    },
+    {
+      "name": "Combustion bus",
+      "slug": "busthermique",
+      "ecv": 0.11320000000000001,
+      "footprint": 0.11320000000000001,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.0089
+        },
+        {
+          "id": 6,
+          "value": 0.1043
+        }
+      ]
+    },
+    {
+      "name": "Tram",
+      "slug": "tramway",
+      "ecv": 0.00428,
+      "footprint": 0.00428,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00048
+        },
+        {
+          "id": 6,
+          "value": 0.0038
+        }
+      ]
+    },
+    {
+      "name": "Metro",
+      "slug": "metro",
+      "ecv": 0.0044399999999999995,
+      "footprint": 0.0044399999999999995,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00024
+        },
+        {
+          "id": 6,
+          "value": 0.0042
+        }
+      ]
+    },
+    {
+      "name": "Combustion scooter or lightweight combustion motorcycle",
+      "slug": "scooter",
+      "ecv": 0.0763,
+      "footprint": 0.0763,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.0159
+        },
+        {
+          "id": 6,
+          "value": 0.0604
+        }
+      ]
+    },
+    {
+      "name": "Combustion motorcycle",
+      "slug": "moto",
+      "ecv": 0.1913,
+      "footprint": 0.1913,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.0265
+        },
+        {
+          "id": 6,
+          "value": 0.1648
+        }
+      ]
+    },
+    {
+      "name": "RER or suburban train",
+      "slug": "rer",
+      "ecv": 0.00978,
+      "footprint": 0.00978,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00318
+        },
+        {
+          "id": 6,
+          "value": 0.0066
+        }
+      ]
+    },
+    {
+      "name": "Regional train",
+      "slug": "ter",
+      "ecv": 0.02769,
+      "footprint": 0.02769,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00479
+        },
+        {
+          "id": 6,
+          "value": 0.0229
+        }
+      ]
+    },
+    {
+      "name": "Electric bus",
+      "slug": "buselectrique",
+      "ecv": 0.0217,
+      "footprint": 0.0217,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.0122
+        },
+        {
+          "id": 6,
+          "value": 0.0095
+        }
+      ]
+    },
+    {
+      "name": "Electrically assisted scooter",
+      "slug": "trottinette",
+      "ecv": 0.0249,
+      "footprint": 0.0249,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.0229
+        },
+        {
+          "id": 6,
+          "value": 0.002
+        }
+      ]
+    },
+    {
+      "name": "Bus (natural gas vehicle)",
+      "slug": "busgnv",
+      "ecv": 0.1217,
+      "footprint": 0.1217,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.0089
+        },
+        {
+          "id": 6,
+          "value": 0.1128
+        }
+      ]
+    }
+  ]
+}

@@ -1,19 +1,13 @@
 {
   "data": [
     {
-      "name": {
-        "en": "Tap Water",
-        "fr": "Eau du robinet"
-      },
+      "name": "Eau du robinet",
       "slug": "eaudurobinet",
       "ecv": 0.000132,
       "footprint": 0.000132
     },
     {
-      "name": {
-        "en": "Bottled Water",
-        "fr": "Eau en bouteille"
-      },
+      "name": "Eau en bouteille",
       "slug": "eauenbouteille",
       "ecv": 0.26707461992000003,
       "footprint": 0.26707461992000003,
@@ -41,10 +35,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Soda",
-        "fr": "Soda"
-      },
+      "name": "Soda",
       "slug": "soda",
       "ecv": 0.5112250549,
       "footprint": 0.5112250549,
@@ -76,10 +67,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Beer",
-        "fr": "Bière"
-      },
+      "name": "Bière",
       "slug": "biere",
       "ecv": 1.1193685269,
       "footprint": 1.1193685269,
@@ -111,10 +99,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Wine",
-        "fr": "Vin"
-      },
+      "name": "Vin",
       "slug": "vin",
       "ecv": 1.1903542188999998,
       "footprint": 1.1903542188999998,
@@ -146,10 +131,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Cow Milk",
-        "fr": "Lait de vache"
-      },
+      "name": "Lait de vache",
       "slug": "laitdevache",
       "ecv": 1.1821407829999997,
       "footprint": 1.1821407829999997,
@@ -177,11 +159,8 @@
       ]
     },
     {
-      "name": {
-        "en": "Soya Milk",
-        "fr": "Lait de soja"
-      },
-      "slug": "laitdesoja",
+      "name": "Boisson au soja",
+      "slug": "soja",
       "ecv": 0.44564955900000003,
       "footprint": 0.44564955900000003,
       "footprintDetail": [
@@ -208,11 +187,8 @@
       ]
     },
     {
-      "name": {
-        "en": "Tea",
-        "fr": "Thé"
-      },
-      "slug": "thé",
+      "name": "Thé",
+      "slug": "the",
       "ecv": 0.0391613535,
       "footprint": 0.0391613535,
       "footprintDetail": [
@@ -239,10 +215,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Coffee",
-        "fr": "Café"
-      },
+      "name": "Café",
       "slug": "cafe",
       "ecv": 0.59422464326,
       "footprint": 0.59422464326,

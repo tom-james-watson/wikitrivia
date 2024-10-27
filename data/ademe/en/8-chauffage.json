@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Gas heating",
+      "slug": "chauffagegaz",
+      "ecv": 2340
+    },
+    {
+      "name": "Oil heating",
+      "slug": "chauffagefioul",
+      "ecv": 3430.2000000000003
+    },
+    {
+      "name": "Electric heating",
+      "slug": "chauffageelectrique",
+      "ecv": 711
+    },
+    {
+      "name": "Heating with a heat pump",
+      "slug": "pompeachaleur",
+      "ecv": 237
+    },
+    {
+      "name": "Heating with a pellet stove",
+      "slug": "poeleagranule",
+      "ecv": 338.4
+    },
+    {
+      "name": "Heating with a wood stove",
+      "slug": "poeleabois",
+      "ecv": 552
+    },
+    {
+      "name": "Heating via a district heating network",
+      "slug": "reseaudechaleur",
+      "ecv": 1120.2
+    }
+  ]
+}

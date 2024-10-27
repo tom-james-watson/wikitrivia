@@ -1,10 +1,7 @@
 {
   "data": [
     {
-      "name": {
-        "en": "Canapé convertible",
-        "fr": "Convertible sofa"
-      },
+      "name": "Sofa convertible",
       "slug": "canapeconvertible",
       "ecv": 197.5,
       "footprint": 197.5,
@@ -28,10 +25,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Wooden chair",
-        "fr": "Chaise en bois"
-      },
+      "name": "Wooden chair",
       "slug": "chaiseenbois",
       "ecv": 18.63,
       "footprint": 18.63,
@@ -55,10 +49,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Wooden table",
-        "fr": "Table en bois"
-      },
+      "name": "Wooden table",
       "slug": "tableenbois",
       "ecv": 80.22,
       "footprint": 80.22,
@@ -82,10 +73,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Textile sofa",
-        "fr": "Canapé en textile"
-      },
+      "name": "Fabric sofa",
       "slug": "canapetextile",
       "ecv": 179.1,
       "footprint": 179.1,
@@ -109,10 +97,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Wardrobe",
-        "fr": "Armoire"
-      },
+      "name": "Wardrobe",
       "slug": "armoire",
       "ecv": 906.88,
       "footprint": 906.88,
@@ -136,10 +121,7 @@
       ]
     },
     {
-      "name": {
-        "en": "Bed",
-        "fr": "Lit"
-      },
+      "name": "Bed",
       "slug": "lit",
       "ecv": 443.81000000000006,
       "footprint": 443.81000000000006,

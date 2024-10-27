@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "name": "Smartphone",
+      "slug": "smartphone",
+      "ecv": 85.85,
+      "footprint": 85.1,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 2.1
+        },
+        {
+          "id": 5,
+          "value": 83
+        }
+      ],
+      "usage": {
+        "peryear": 0.22,
+        "defaultyears": 2.5
+      },
+      "endOfLife": 0.2
+    },
+    {
+      "name": "Desktop computer without screen (personal)",
+      "slug": "ordinateurfixeparticulier",
+      "ecv": 299.3,
+      "footprint": 261.5,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 2.9
+        },
+        {
+          "id": 5,
+          "value": 258.6
+        }
+      ],
+      "usage": {
+        "peryear": 5.2,
+        "defaultyears": 6
+      },
+      "endOfLife": 6.6
+    },
+    {
+      "name": "Desktop computer without screen (office)",
+      "slug": "ordinateurfixeprofessionnel",
+      "ecv": 258.1,
+      "footprint": 204.4,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 1.8
+        },
+        {
+          "id": 5,
+          "value": 202.6
+        }
+      ],
+      "usage": {
+        "peryear": 7.85,
+        "defaultyears": 6
+      },
+      "endOfLife": 6.6
+    },
+    {
+      "name": "Computer screen",
+      "slug": "ecran",
+      "ecv": 91.4,
+      "footprint": 65.89999999999999,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 1.3
+        },
+        {
+          "id": 5,
+          "value": 64.6
+        }
+      ],
+      "usage": {
+        "peryear": 3.6,
+        "defaultyears": 6
+      },
+      "endOfLife": 3.9
+    },
+    {
+      "name": "Tablet",
+      "slug": "tabletteclassique",
+      "ecv": 61.89999999999999,
+      "footprint": 59.699999999999996,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 3.4
+        },
+        {
+          "id": 5,
+          "value": 56.3
+        }
+      ],
+      "usage": {
+        "peryear": 0.6,
+        "defaultyears": 3
+      },
+      "endOfLife": 0.4
+    },
+    {
+      "name": "Television",
+      "slug": "television",
+      "ecv": 472.40000000000003,
+      "footprint": 375.8,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 3.2
+        },
+        {
+          "id": 5,
+          "value": 372.6
+        }
+      ],
+      "usage": {
+        "peryear": 10.6,
+        "defaultyears": 8
+      },
+      "endOfLife": 11.8
+    },
+    {
+      "name": "Laptop",
+      "slug": "ordinateurportable",
+      "ecv": 193.00000000000003,
+      "footprint": 182.60000000000002,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 12.3
+        },
+        {
+          "id": 5,
+          "value": 170.3
+        }
+      ],
+      "usage": {
+        "peryear": 1.52,
+        "defaultyears": 5
+      },
+      "endOfLife": 2.8
+    },
+    {
+      "name": "Bluetooth speaker",
+      "slug": "enceintebluetooth",
+      "ecv": 26.5,
+      "footprint": 19.8,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0.3
+        },
+        {
+          "id": 5,
+          "value": 19.5
+        }
+      ],
+      "usage": {
+        "peryear": 1.2,
+        "defaultyears": 5
+      },
+      "endOfLife": 0.7
+    },
+    {
+      "name": "Basic phone",
+      "slug": "telephonebasique",
+      "ecv": 23.400000000000002,
+      "footprint": 23.3,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 23.3
+        }
+      ],
+      "usage": {
+        "peryear": 0,
+        "defaultyears": 2.5
+      },
+      "endOfLife": 0.1
+    },
+    {
+      "name": "Virtual reality headset",
+      "slug": "casquevr",
+      "ecv": 72.30000000000001,
+      "footprint": 70.80000000000001,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0.4
+        },
+        {
+          "id": 5,
+          "value": 70.4
+        }
+      ],
+      "usage": {
+        "peryear": 0.04,
+        "defaultyears": 5
+      },
+      "endOfLife": 1.3
+    },
+    {
+      "name": "External power supply for laptop",
+      "slug": "alimentationordinateur",
+      "ecv": 4.1,
+      "footprint": 3.6,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0.1
+        },
+        {
+          "id": 5,
+          "value": 3.5
+        }
+      ],
+      "endOfLife": 0.5
+    },
+    {
+      "name": "External power supply for smartphone or tablet",
+      "slug": "alimentationsmartphone",
+      "ecv": 0.4,
+      "footprint": 0.3,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0
+        },
+        {
+          "id": 5,
+          "value": 0.3
+        }
+      ],
+      "endOfLife": 0.1
+    },
+    {
+      "name": "External hard drive",
+      "slug": "disquedur",
+      "ecv": 11.9,
+      "footprint": 11.6,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0.1
+        },
+        {
+          "id": 5,
+          "value": 11.5
+        }
+      ],
+      "endOfLife": 0.3
+    },
+    {
+      "name": "Usb key",
+      "slug": "clefusb",
+      "ecv": 2.9,
+      "footprint": 2.9,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0
+        },
+        {
+          "id": 5,
+          "value": 2.9
+        }
+      ]
+    },
+    {
+      "name": "Box",
+      "slug": "box",
+      "ecv": 82,
+      "footprint": 61.4,
+      "footprintDetail": [
+        {
+          "id": 4,
+          "value": 0.6
+        },
+        {
+          "id": 5,
+          "value": 60.8
+        }
+      ],
+      "usage": {
+        "peryear": 3.8,
+        "defaultyears": 5
+      },
+      "endOfLife": 1.6
+    }
+  ]
+}

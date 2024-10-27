@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "name": "Kettle",
+      "slug": "bouilloire",
+      "ecv": 40.88403605825422,
+      "footprint": 9.907,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 3.93
+        },
+        {
+          "id": 2,
+          "value": 0.237
+        },
+        {
+          "id": 3,
+          "value": 0.59
+        },
+        {
+          "id": 4,
+          "value": 5.1499999999999995
+        }
+      ],
+      "usage": {
+        "peryear": 5.27273319,
+        "defaultyears": 6
+      },
+      "endOfLife": -0.659363081745786
+    },
+    {
+      "name": "Coffee maker pods",
+      "slug": "cafetieredosette",
+      "ecv": 251.0035526905852,
+      "footprint": 22.454,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 8.46
+        },
+        {
+          "id": 2,
+          "value": 0.394
+        },
+        {
+          "id": 3,
+          "value": 1.28
+        },
+        {
+          "id": 4,
+          "value": 12.32
+        }
+      ],
+      "usage": {
+        "peryear": 35.160078,
+        "defaultyears": 5
+      },
+      "endOfLife": 52.7491626905852
+    },
+    {
+      "name": "Coffee maker filter",
+      "slug": "cafetierefiltre",
+      "ecv": 197.69817433391722,
+      "footprint": 31.9,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 16.7
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 1.5
+        },
+        {
+          "id": 4,
+          "value": 13.200000000000001
+        }
+      ],
+      "usage": {
+        "peryear": 27.1831351,
+        "defaultyears": 5
+      },
+      "endOfLife": 29.8824988339172
+    },
+    {
+      "name": "Coffee maker espresso",
+      "slug": "cafetiereexpresso",
+      "ecv": 211.7710842705374,
+      "footprint": 47.617000000000004,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 27.1
+        },
+        {
+          "id": 2,
+          "value": 0.937
+        },
+        {
+          "id": 3,
+          "value": 3.21
+        },
+        {
+          "id": 4,
+          "value": 16.37
+        }
+      ],
+      "usage": {
+        "peryear": 28.0487772,
+        "defaultyears": 5
+      },
+      "endOfLife": 23.9101982705374
+    },
+    {
+      "name": "Electric oven",
+      "slug": "fourelectrique",
+      "ecv": 263.06469996,
+      "footprint": 217.58999999999997,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 133
+        },
+        {
+          "id": 2,
+          "value": 8.19
+        },
+        {
+          "id": 3,
+          "value": 33.6
+        },
+        {
+          "id": 4,
+          "value": 42.8
+        }
+      ],
+      "usage": {
+        "peryear": 6.29728333,
+        "defaultyears": 12
+      },
+      "endOfLife": -30.0927
+    },
+    {
+      "name": "Dishwasher",
+      "slug": "lavevaisselle",
+      "ecv": 467.9982177292116,
+      "footprint": 271.19,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 155
+        },
+        {
+          "id": 2,
+          "value": 9.09
+        },
+        {
+          "id": 3,
+          "value": 40.1
+        },
+        {
+          "id": 4,
+          "value": 67
+        }
+      ],
+      "usage": {
+        "peryear": 21.943837,
+        "defaultyears": 10
+      },
+      "endOfLife": -22.6301522707884
+    },
+    {
+      "name": "Washing machine",
+      "slug": "lavelinge",
+      "ecv": 510.2572583409827,
+      "footprint": 341.09999999999997,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 191
+        },
+        {
+          "id": 2,
+          "value": 12.2
+        },
+        {
+          "id": 3,
+          "value": 47.6
+        },
+        {
+          "id": 4,
+          "value": 90.3
+        }
+      ],
+      "usage": {
+        "peryear": 21.6932702,
+        "defaultyears": 10
+      },
+      "endOfLife": -47.7754436590173
+    },
+    {
+      "name": "Refrigerator",
+      "slug": "refrigirateur",
+      "ecv": 325.46071642401705,
+      "footprint": 257.3,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 133
+        },
+        {
+          "id": 2,
+          "value": 13.5
+        },
+        {
+          "id": 3,
+          "value": 28
+        },
+        {
+          "id": 4,
+          "value": 82.8
+        }
+      ],
+      "usage": {
+        "peryear": 8.83240334,
+        "defaultyears": 10
+      },
+      "endOfLife": -20.163316975983
+    },
+    {
+      "name": "Vacuum cleaner",
+      "slug": "aspirateur",
+      "ecv": 47.31,
+      "footprint": 47.31,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 20.2
+        },
+        {
+          "id": 2,
+          "value": 2.43
+        },
+        {
+          "id": 3,
+          "value": 7.23
+        },
+        {
+          "id": 4,
+          "value": 17.45
+        }
+      ]
+    },
+    {
+      "name": "Air conditioner",
+      "slug": "climatiseur",
+      "ecv": 413.8812884443126,
+      "footprint": 238.89999999999998,
+      "footprintDetail": [
+        {
+          "id": 1,
+          "value": 170
+        },
+        {
+          "id": 2,
+          "value": 5.2
+        },
+        {
+          "id": 3,
+          "value": 18.7
+        },
+        {
+          "id": 4,
+          "value": 45
+        }
+      ],
+      "usage": {
+        "peryear": 18.2596505,
+        "defaultyears": 6
+      },
+      "endOfLife": 65.4233854443126
+    }
+  ]
+}
