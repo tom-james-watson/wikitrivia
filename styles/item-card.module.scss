@@ -16,7 +16,7 @@
 
   .top,
   main {
-    padding: 10px;
+    padding: 8px;
 
     h2 {
       margin: 0;
@@ -30,6 +30,15 @@
     align-items: center;
     height: 100%;
     padding-top: 0;
+
+    .description {
+      font-size: .9rem;
+      font-style: italic;
+    }
+
+    img {
+      height: 50px;
+    }
 
     > div:first-child {
       flex-grow: 0;
@@ -67,48 +76,8 @@
     }
   }
 
-  .image {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    flex-grow: 1;
-    min-height: 0;
-    background-color: $background-alt;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 50% 25%;
-    padding: 10px;
-    padding-bottom: 0;
-    color: $text-light;
-  }
-
   .label {
     font-weight: bold;
     word-wrap: break-word;
-  }
-
-  .description {
-    font-size: 12px;
-
-    h3 {
-      font-size: 13px;
-      margin: 0;
-      margin-bottom: 5px;
-    }
-
-    ul {
-      margin: 0;
-      padding: 0 10px;
-    }
-
-    li {
-      margin: 0;
-      list-style: none;
-    }
-
-    span {
-      display: block;
-      text-align: center;
-    }
   }
 }
