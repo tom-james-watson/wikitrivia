@@ -8,7 +8,7 @@ import { FootprintDetails } from "../types/AdemeECV";
 import { useLingui } from "@lingui/react";
 import { getFootprintDetails } from "../lib/ademe-api";
 import { Locale } from "../types/i18n";
-import ChartBar from "./chart-bar";
+import ChartBar, { green, red } from "./chart-bar";
 
 interface ExplanationDialogProps {
   item: Item;
@@ -43,7 +43,9 @@ export default function ExplanationDialog(props: ExplanationDialogProps) {
         </main>
         <footer>
           <h3><Trans>Total:</Trans></h3>
-          <p><strong>{total} kg CO<sub>2</sub>e</strong></p>
+          <div>
+            <strong style={{backgroundColor: total > 0 ? red : green}}>{total} kg CO<sub>2</sub>e</strong>
+          </div>
         </footer>
       </div>
     </div>

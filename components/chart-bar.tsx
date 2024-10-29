@@ -10,10 +10,10 @@ interface ChartBarProps {
 export default function ChartBar(props: ChartBarProps) {
   const {value, total} = props;
   let percent = value * 100 / total;
-  let color = "red";
+  let color = red;
   if (value < 0) {
     percent = -percent;
-    color = "green";
+    color = green;
   }
 
   return (<div className={styles.chartBar}>
@@ -21,3 +21,6 @@ export default function ChartBar(props: ChartBarProps) {
     <span className={styles.co2}>{displayCO2(value)}</span>
   </div>);
 }
+
+export const red = "#ce2550";
+export const green = "#25CFA4";
