@@ -13,7 +13,7 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: components/explanation-dialog.tsx:65
+#: components/explanation-dialog.tsx:67
 msgid "{0} per year, estimated lifetime: {1} years."
 msgstr "{0} per year, estimated lifetime: {1} years."
 
@@ -30,10 +30,10 @@ msgid "{email} is not a valid email address."
 msgstr "{email} is not a valid email address."
 
 #: components/real-cards-game.tsx:9
-msgid "A real pack of cards?"
-msgstr "A real pack of cards?"
+msgid "A real deck of cards?"
+msgstr "A real deck of cards?"
 
-#: components/board.tsx:128
+#: components/board.tsx:124
 #: components/categories-selector.tsx:55
 msgid "Back"
 msgstr "Back"
@@ -61,7 +61,7 @@ msgstr "Copied!"
 msgid "disCO2very is a free game to discover the orders of magnitude of the CO2 footprint"
 msgstr "disCO2very is a free game to discover the orders of magnitude of the CO2 footprint"
 
-#: components/explanation-dialog.tsx:71
+#: components/explanation-dialog.tsx:73
 msgid "End of life:"
 msgstr "End of life:"
 
@@ -78,8 +78,8 @@ msgid "Guess the CO2 footprint!"
 msgstr "Guess the CO2 footprint!"
 
 #: components/real-cards-game.tsx:14
-msgid "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
-msgstr "Interested about this, or simply want to be aware of news about disCO<0>2</0>very? We can keep in touch by e-mail!"
+msgid "Interested? Or you simply want to be informed about the latest disCO<0>2</0>very news? We can keep in touch by e-mail!"
+msgstr "Interested? Or you simply want to be informed about the latest disCO<0>2</0>very news? We can keep in touch by e-mail!"
 
 #: components/instructions.tsx:57
 msgid "License AGPL - Source code available <0>on github</0>."
@@ -156,8 +156,8 @@ msgid "This category is not yet available."
 msgstr "This category is not yet available."
 
 #: components/real-cards-game.tsx:11
-msgid "This game has been created as a web app to test the idea and see if it is enjoyable, but the ultimate goal is to print a real deck of cards as we feel that it can be a useful tool for raising awareness about climate change. Possibly, we may do a crowdfunding campaign, so you could order your own pack of cards!"
-msgstr "This game has been created as a web app to test the idea and see if it is enjoyable, but the ultimate goal is to print a real deck of cards as we feel that it can be a useful tool for raising awareness about climate change. Possibly, we may do a crowdfunding campaign, so you could order your own pack of cards!"
+msgid "This game is currently a digital app but the ultimate goal is to print a real deck of cards, as we feel that it can be a useful tool to raise awareness about climate change. Possibly, we may do a crowdfunding campaign, so you could order your own deck!"
+msgstr "This game is currently a digital app but the ultimate goal is to print a real deck of cards, as we feel that it can be a useful tool to raise awareness about climate change. Possibly, we may do a crowdfunding campaign, so you could order your own deck!"
 
 #: components/game-over.tsx:42
 #: components/game-over.tsx:74
@@ -172,7 +172,7 @@ msgstr "Total:"
 msgid "Try again!"
 msgstr "Try again!"
 
-#: components/explanation-dialog.tsx:63
+#: components/explanation-dialog.tsx:65
 msgid "Usage:"
 msgstr "Usage:"
 

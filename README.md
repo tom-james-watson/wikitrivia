@@ -37,6 +37,21 @@ npm run dev
 
 Then visit http://localhost:3000/ to preview the website.
 
+### Translations
+
+disCO<sub>2</sub>very is using [Lingui](https://lingui.dev/) to manage translation. If you add or modify any sentences in the app, you have to run:
+
+```bash
+npm run i18n-extract
+```
+This will modify the english keys in `locales/en/messages.po`. Search for the ones starting with `#~`: they are now outdated and you should delete them.
+Then go in the other languages files like `locales/fr/messages.po` and search for empty strings `""` to add the missing translation.
+
+Once done, run:
+```bash
+npm run i18n-compile
+```
+
 ### Static build
 
 To build a static version of the website to the `out` folder, that you can then deploy anywhere (it's plain HTML + JS, no server needed) run:
