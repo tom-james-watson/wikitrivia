@@ -1,9 +1,11 @@
 import React, { FormEvent, useState } from "react";
 import { Trans, t } from "@lingui/macro";
+import { useLingui } from "@lingui/react";
 
 export default function EmailRegistration() {
   const [messageText, setMessageText] = useState<string>("");
   const [messageType, setMessageType] = useState<string>("success");
+  const { i18n } = useLingui();
 
   const onSubmit = (event: FormEvent<HTMLFormElement>): boolean => {
     event.preventDefault();
@@ -38,6 +40,7 @@ export default function EmailRegistration() {
     <div>
       <form method="post" action="https://www.disco2very.org/server/" id="register-email" onSubmit={onSubmit}>
         <input type="email" name="email" placeholder={t`myemail@myprovider.org`} autoComplete="email" required />
+        <input type="hidden" name="language" value={i18n.locale} />
         <input type="submit" className="button" value={t`Register`} />
       </form>
       {messageText &&
