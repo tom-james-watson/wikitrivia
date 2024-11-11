@@ -56,13 +56,11 @@ export default function Board(props: Props) {
       });
       const randomIndex = Math.floor(Math.random() * newDeck.length);
       const newNext = newDeck[randomIndex]
-      const newImageCache = [] as HTMLImageElement[]; // TODO preload images?
       newDeck.splice(randomIndex, 1);
 
       setState({
         ...state,
         deck: newDeck,
-        imageCache: newImageCache,
         next: newNext,
         played: newPlayed,
         lives: correct ? state.lives : state.lives - 1,

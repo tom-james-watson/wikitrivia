@@ -6,7 +6,6 @@ export interface Item {
   description: string;
   explanation: string;
   categoryId: number;
-  image: string;
   source: AdemeECV;
 }
 

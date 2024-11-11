@@ -5,7 +5,6 @@
     "description": "<ul><li><h3>Quality:</h3><span>Low definition</span></li><li><h3>Network:</h3><span>4G</span></li><li><h3>Device:</h3><span>Smartphone</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.04
   },
   {
@@ -14,7 +13,6 @@
     "description": "<ul><li><h3>Quality:</h3><span>High definition</span></li><li><h3>Network:</h3><span>4G</span></li><li><h3>Device:</h3><span>Smartphone</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.2
   },
   {
@@ -23,7 +21,6 @@
     "description": "<ul><li><h3>Quality:</h3><span>High definition</span></li><li><h3>Network:</h3><span>Wi-Fi</span></li><li><h3>Device:</h3><span>Laptop</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.06
   },
   {
@@ -32,7 +29,6 @@
     "description": "<ul><li><h3>Quality:</h3><span>Low definition</span></li><li><h3>Network:</h3><span>4G</span></li><li><h3>Device:</h3><span>Smartphone</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.04
   },
   {
@@ -41,7 +37,6 @@
     "description": "<ul><li><h3>Quality:</h3><span>High definition</span></li><li><h3>Network:</h3><span>Wi-Fi</span></li><li><h3>Device:</h3><span>Laptop</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.06
   },
   {
@@ -50,7 +45,6 @@
     "description": "<ul><li><h3>Quality:</h3><span>4K</span></li><li><h3>Network:</h3><span>Wi-Fi</span></li><li><h3>Device:</h3><span>Laptop</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.14
   },
   {
@@ -59,7 +53,6 @@
     "description": "<ul><li><h3>Attachment:</h3><span>None</span></li><li><h3>Network:</h3><span>Wi-Fi</span></li><li><h3>Device:</h3><span>Laptop</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.001
   },
   {
@@ -68,7 +61,6 @@
     "description": "<ul><li><h3>Attachment:</h3><span>1MB</span></li><li><h3>Network:</h3><span>Wi-Fi</span></li><li><h3>Device:</h3><span>Laptop</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.012
   },
   {
@@ -77,7 +69,6 @@
     "description": "<ul><li><h3>Attachment:</h3><span>5MB</span></li><li><h3>Network:</h3><span>Wi-Fi</span></li><li><h3>Device:</h3><span>Laptop</span></li>",
     "explanation": "This includes device usage, data transmission and datacenter storage, but <strong>not</strong> the device making",
     "category": "digital",
-    "image": "",
     "co2": 0.06
   },
   {
@@ -86,7 +77,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 37.79
   },
   {
@@ -95,7 +85,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 95.37
   },
   {
@@ -104,7 +93,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 9.83
   },
   {
@@ -113,7 +101,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 100.99
   },
   {
@@ -122,7 +109,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 168.81
   },
   {
@@ -131,7 +117,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 394.07
   },
   {
@@ -140,7 +125,6 @@
     "description": "And use it for 4 years",
     "explanation": "",
     "category": "digital",
-    "image": "",
     "co2": 256.45
   }
 ]

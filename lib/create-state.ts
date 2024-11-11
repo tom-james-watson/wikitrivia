@@ -12,12 +12,9 @@ export default function createState(deck: Item[]): GameState {
   const next = deck[randomIndex];
   deck.splice(randomIndex, 1);
 
-  const imageCache = [] as HTMLImageElement[]; // TODO preload images? [preloadImage(next.image)];
-
   return {
     badlyPlaced: null,
     deck,
-    imageCache,
     lives: 5,
     next,
     nextButOne: null,

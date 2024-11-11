@@ -131,7 +131,6 @@ function loadDigital(locale: Locale): Item[] {
             "Achat et usage pendant " + element.usage.defaultyears + " ans" :
             "Purchase and usage for " + element.usage.defaultyears + " years.",
         explanation: "",
-        image: "📱 💻 🖥️",
         source: element
       }
       digitalItems.push(item);
@@ -151,7 +150,6 @@ function loadMeals(locale: Locale): Item[] {
         label: element.name,
         description: "",
         explanation: "",
-        image: "🐟 🍽 🥩",
         source: element
       }
       mealItems.push(item);
@@ -171,7 +169,6 @@ function loadDrinks(locale: Locale): Item[] {
         label: element.name + " (1L)",
         description: "",
         explanation: "",
-        image: "🍺 🍹 🥛",
         source: element
       }
       drinkItems.push(item);
@@ -193,7 +190,6 @@ function loadTransports(locale: Locale): Item[] {
         label: element.name + ` (${coeff}km)`,
         description: "",
         explanation: "",
-        image: "🚗 🚄 ✈️",
         source: element
       }
       transportItems.push(item);
@@ -213,7 +209,6 @@ function loadClothes(locale: Locale): Item[] {
         label: element.name,
         description: "",
         explanation: "",
-        image: "👞 👔 👗",
         source: element
       }
       clotheItems.push(item);
@@ -236,7 +231,6 @@ function loadHouseholdAppliances(locale: Locale): Item[] {
             "Achat et usage pendant " + element.usage.defaultyears + " ans" :
             "Purchase and usage for " + element.usage.defaultyears + " years.",
         explanation: "",
-        image: "🧊 🛁 ☕",
         source: element
       }
       householdApplianceItems.push(item);
@@ -256,7 +250,6 @@ function loadFurnitures(locale: Locale): Item[] {
         label: element.name,
         description: "",
         explanation: "",
-        image: "🛏️ 🪑 🛋️",
         source: element
       }
       furnitureItems.push(item);
@@ -279,7 +272,6 @@ function loadHeating(locale: Locale): Item[] {
           "60m2 par mois en moyenne annuel." :
           "60m2 per month on yearly average.",
         explanation: "",
-        image: "🪵 🏠 🌡️",
         source: element
       }
       heatingItems.push(item);
@@ -301,7 +293,6 @@ function loadVegetablesAndFruits(locale: Locale): Item[] {
           "Consommé le mois d'octobre" :
           "Bought in October",
         explanation: "",
-        image: "🥑 🍇 🍅",
         source: element
       }
       vegetablesAndFruitsItems.push(item);
@@ -318,7 +309,6 @@ function loadVegetablesAndFruits(locale: Locale): Item[] {
 //     label: element.name,
 //     description: "Achat et usage pendant " + element.usage.defaultyears + " ans.",
 //     explanation: "",
-//     image: "",
 //     source: element
 //   }
 //   items.push(item);
