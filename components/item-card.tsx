@@ -60,7 +60,7 @@ export default function ItemCard(props: Props) {
       return item.occupations[0];
     }
 
-    return item.instance_of[0];
+    return item.instance_of[0] ?? "";
   }, [item]);
 
   return (
