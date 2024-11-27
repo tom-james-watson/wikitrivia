@@ -23,16 +23,17 @@
     "tween-functions": "^1.2.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.15.0",
     "@lingui/cli": "^4.10.0",
     "@lingui/macro": "^4.10.0",
     "@types/react-beautiful-dnd": "^13.0.0",
-    "@typescript-eslint/eslint-plugin": "^6.21.0",
-    "@typescript-eslint/parser": "^6.21.0",
+    "@typescript-eslint/eslint-plugin": "^8.16.0",
+    "@typescript-eslint/parser": "^8.16.0",
     "babel-plugin-macros": "^3.1.0",
-    "eslint": "^8.56.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint": "^9.15.0",
     "prettier": "^2.5.1",
-    "sass": "^1.32.10"
+    "sass": "^1.32.10",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.16.0"
   }
 }
