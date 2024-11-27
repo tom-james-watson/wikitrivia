@@ -2,7 +2,7 @@ import React from "react";
 import dynamic from "next/dynamic";
 import Head from "next/head";
 
-const App = dynamic(() => import("../components/App"), { ssr: false });
+const App = dynamic(() => import("../components/app"), { ssr: false });
 
 export default function Index() {
   return <>
