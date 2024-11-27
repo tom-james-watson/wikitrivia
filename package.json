@@ -18,14 +18,13 @@
     "next": "^14.2.16",
     "react": "18.3.1",
     "react-beautiful-dnd": "^13.1.1",
-    "react-dom": "18.2.0",
+    "react-dom": "18.3.1",
     "react-spring": "^9.7.3",
     "tween-functions": "^1.2.0"
   },
   "devDependencies": {
     "@lingui/cli": "^4.10.0",
     "@lingui/macro": "^4.10.0",
-    "@types/react": "^17.0.3",
     "@types/react-beautiful-dnd": "^13.0.0",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
