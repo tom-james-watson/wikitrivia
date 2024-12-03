@@ -8,9 +8,9 @@ function moveStepByStep(
   scrollValues: number[]
 ) {
   requestAnimationFrame(() => {
-    const top = document.getElementById("top");
+    const playedItemsContainer = document.getElementById("top");
 
-    if (top === null) {
+    if (playedItemsContainer === null) {
       throw new Error("Can't find #top");
     }
 
@@ -20,7 +20,7 @@ function moveStepByStep(
     if (newPosition === undefined || newScroll === undefined) {
       drag.drop();
     } else {
-      top.scrollLeft = newScroll;
+      playedItemsContainer.scrollLeft = newScroll;
       drag.move({ x: newPosition, y: 0 });
       moveStepByStep(drag, transformValues, scrollValues);
     }
@@ -53,37 +53,37 @@ export default async function useAutoMoveSensor(
       state.played[state.badlyPlaced.index + state.badlyPlaced.delta].id
     }']`
   );
-  const bottomEl: HTMLElement | null = document.getElementById("top");
+  const playedItemsContainer: HTMLElement | null = document.getElementById("top");
 
-  if (itemEl === null || destEl === null || bottomEl === null) {
+  if (itemEl === null || destEl === null || playedItemsContainer === null) {
     throw new Error("Can't find element");
   }
-
-  const bottomElCentreLeft = bottomEl.scrollLeft + bottomEl.clientWidth / 4;
-  const bottomElCentreRight =
-    bottomEl.scrollLeft + (bottomEl.clientWidth / 4) * 3 - itemEl.clientWidth;
+debugger;
+  const leftMarker = playedItemsContainer.scrollLeft + playedItemsContainer.clientWidth / 4;
+  const rightMarker =
+    playedItemsContainer.scrollLeft + (playedItemsContainer.clientWidth / 4) * 3 - itemEl.clientWidth;
 
   let scrollDistance = 0;
 
   if (
-    destEl.offsetLeft < bottomElCentreLeft ||
-    destEl.offsetLeft > bottomElCentreRight
+    destEl.offsetLeft < leftMarker ||
+    destEl.offsetLeft > rightMarker
   ) {
     // Destination is not in middle two quarters of the screen. Calculate
     // distance we therefore need to scroll.
     scrollDistance =
-      destEl.offsetLeft < bottomElCentreLeft
-        ? destEl.offsetLeft - bottomElCentreLeft
-        : destEl.offsetLeft - bottomElCentreRight;
+      destEl.offsetLeft < leftMarker
+        ? destEl.offsetLeft - leftMarker
+        : destEl.offsetLeft - rightMarker;
 
-    if (bottomEl.scrollLeft + scrollDistance < 0) {
-      scrollDistance = -bottomEl.scrollLeft;
+    if (playedItemsContainer.scrollLeft + scrollDistance < 0) {
+      scrollDistance = -playedItemsContainer.scrollLeft;
     } else if (
-      bottomEl.scrollLeft + scrollDistance >
-      bottomEl.scrollWidth - bottomEl.clientWidth
+      playedItemsContainer.scrollLeft + scrollDistance >
+      playedItemsContainer.scrollWidth - playedItemsContainer.clientWidth
     ) {
       scrollDistance =
-        bottomEl.scrollWidth - bottomEl.clientWidth - bottomEl.scrollLeft;
+        playedItemsContainer.scrollWidth - playedItemsContainer.clientWidth - playedItemsContainer.scrollLeft;
     }
   }
 
@@ -107,8 +107,8 @@ export default async function useAutoMoveSensor(
     scrollPoints.push(
       tweenFunctions.easeOutCirc(
         i,
-        bottomEl.scrollLeft,
-        bottomEl.scrollLeft + scrollDistance,
+        playedItemsContainer.scrollLeft,
+        playedItemsContainer.scrollLeft + scrollDistance,
         numberOfPoints
       )
     );
