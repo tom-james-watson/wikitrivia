@@ -14,7 +14,6 @@ export default function PlayedItemList(props: PlayedItemListProps) {
 
   return (
     <div className={styles.listContainer}>
-      <div className={styles.emptyItem + " bordered-area"}>-</div>
       <Droppable droppableId="played" direction="horizontal">
         {(provided) => (
           <div
@@ -22,6 +21,7 @@ export default function PlayedItemList(props: PlayedItemListProps) {
             {...provided.droppableProps}
             className={styles.items}
           >
+            <div className={styles.emptyItem + " bordered-area"}>-</div>
             {items.map((item, index) => (
               <DraggableItemCard
                 draggable={badlyPlacedIndex !== null}
@@ -31,10 +31,10 @@ export default function PlayedItemList(props: PlayedItemListProps) {
               />
             ))}
             {provided.placeholder}
+            <div className={styles.emptyItem + " bordered-area"}>+</div>
           </div>
         )}
       </Droppable>
-      <div className={styles.emptyItem + " bordered-area"}>+</div>
     </div>
   );
 }

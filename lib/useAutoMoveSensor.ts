@@ -58,7 +58,7 @@ export default async function useAutoMoveSensor(
   if (itemEl === null || destEl === null || playedItemsContainer === null) {
     throw new Error("Can't find element");
   }
-debugger;
+
   const leftMarker = playedItemsContainer.scrollLeft + playedItemsContainer.clientWidth / 4;
   const rightMarker =
     playedItemsContainer.scrollLeft + (playedItemsContainer.clientWidth / 4) * 3 - itemEl.clientWidth;
