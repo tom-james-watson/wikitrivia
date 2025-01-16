@@ -76,6 +76,30 @@ a {
     background-color: #444;
     cursor: not-allowed;
   }
+
+  &.animated {
+    position: relative;
+
+    &:before {
+      content: '';
+      position: absolute;
+      box-shadow: 0 0 2px 3px #99e;
+      animation: bounce 4s;
+      animation-iteration-count: infinite;
+      animation-timing-function: linear;
+      border-radius: $button-border-radius;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  }
+
+  @keyframes bounce {
+    50% {
+      opacity: 0.5;
+    }
+  }
 }
 
 input {
