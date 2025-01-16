@@ -17,15 +17,15 @@ msgstr ""
 msgid "{0} per year, estimated lifetime: {1} years."
 msgstr "{0} par an, durée de vie estimée : {1} ans."
 
-#: components/email-registration.tsx:22
+#: components/email-registration.tsx:24
 msgid "{email} has been successfully registered."
 msgstr "{email} a été enregistré avec succès."
 
-#: components/email-registration.tsx:28
+#: components/email-registration.tsx:30
 msgid "{email} is already registered."
 msgstr "{email} est déjà enregistré."
 
-#: components/email-registration.tsx:26
+#: components/email-registration.tsx:28
 msgid "{email} is not a valid email address."
 msgstr "{email} n'est pas une adresse e-mail valide."
 
@@ -33,7 +33,7 @@ msgstr "{email} n'est pas une adresse e-mail valide."
 msgid "A real deck of cards?"
 msgstr "Un vrai jeu de cartes ?"
 
-#: components/board.tsx:124
+#: components/board.tsx:133
 #: components/categories-selector.tsx:55
 msgid "Back"
 msgstr "Retour"
@@ -56,8 +56,8 @@ msgstr "Félicitations !"
 msgid "Copied!"
 msgstr "Copié !"
 
-#: components/App.tsx:22
-#: components/App.tsx:23
+#: components/app.tsx:22
+#: components/app.tsx:23
 msgid "disCO2very is a free game to discover the orders of magnitude of the CO2 footprint"
 msgstr "disCO2very est un jeu libre pour découvrir les ordres de grandeur de l'empreinte carbone"
 
@@ -65,7 +65,7 @@ msgstr "disCO2very est un jeu libre pour découvrir les ordres de grandeur de l'
 msgid "End of life:"
 msgstr "Fin de vie :"
 
-#: components/email-registration.tsx:30
+#: components/email-registration.tsx:32
 msgid "Error: {0}"
 msgstr "Erreur : {0}"
 
@@ -94,7 +94,7 @@ msgstr "amour"
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Fait avec <0/> par <1>Fla</1> & Sara."
 
-#: components/email-registration.tsx:40
+#: components/email-registration.tsx:42
 msgid "myemail@myprovider.org"
 msgstr "monemail@monfournisseur.fr"
 
@@ -102,7 +102,7 @@ msgstr "monemail@monfournisseur.fr"
 msgid "or"
 msgstr "ou"
 
-#: components/App.tsx:21
+#: components/app.tsx:21
 msgid "Order items to discover their CO2 footprint!"
 msgstr "Ordonne des éléments pour découvrir leur empreinte CO2 !"
 
@@ -118,13 +118,17 @@ msgstr "Placez les cartes dans le bon ordre en estimant leur empreinte CO<0>2</0
 msgid "Play again"
 msgstr "Rejouer"
 
-#: components/email-registration.tsx:48
+#: components/email-registration.tsx:51
 msgid "Please contact fla (a) framasoft.org to unregister"
 msgstr "Merci de contacter fla (a) framasoft.org pour vous désinscrire"
 
-#: components/email-registration.tsx:41
+#: components/email-registration.tsx:44
 msgid "Register"
 msgstr "S'inscrire"
+
+#: components/board.tsx:134
+msgid "Restart"
+msgstr "Recommencer"
 
 #: components/game-over.tsx:83
 msgid "Select categories"
@@ -143,7 +147,7 @@ msgstr "Partagez votre score"
 msgid "Start game"
 msgstr "Démarrer la partie"
 
-#: components/App.tsx:24
+#: components/app.tsx:24
 msgid "The disCO2very logo, featuring a molecule of CO2."
 msgstr "Le logo disCO2very, avec une molécule de CO2."
 

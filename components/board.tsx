@@ -19,10 +19,18 @@ interface Props {
 }
 
 export default function Board(props: Props) {
-  const { highscore, updateHighscore, initialState, restart } = props;
+  const { highscore, initialState, updateHighscore, restart } = props;
   const [state, setState] = useState<GameState>(initialState);
 
   const [isDragging, setIsDragging] = React.useState(false);
+
+  const playAgain = (toCategories: boolean) => {
+    if (toCategories) {
+      restart(true);
+    } else {
+      setState(initialState);
+    }
+  }
 
   async function onDragStart() {
     setIsDragging(true);
@@ -121,7 +129,10 @@ export default function Board(props: Props) {
     >
       <div className={styles.wrapper + " " + (isDragging ? "dragging" : "notDragging")}>
         <div className={styles.gameHeader}>
-          <Button onClick={() => restart(false)} small><Trans>Back</Trans></Button>
+          <div className={styles.actionsContainer}>
+            <Button onClick={() => restart(false)} small><Trans>Back</Trans></Button>
+            <Button onClick={() => playAgain(false)} small minimal><Trans>Restart</Trans></Button>
+          </div>
           <Hearts lives={state.lives} />
         </div>
         <div id="top" className={styles.top}>
@@ -146,7 +157,7 @@ export default function Board(props: Props) {
           ) : (
             <GameOver
               highscore={highscore}
-              resetGame={restart}
+              resetGame={playAgain}
               score={score}
               lives={state.lives}
             />

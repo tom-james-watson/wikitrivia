@@ -139,9 +139,9 @@ function loadDigital(locale: Locale): Item[] {
   return digitalItems;
 }
 
-const mealItems: Item[] = [];
+const foodItems: Item[] = [];
 function loadFood(locale: Locale): Item[] {
-  if (mealItems.length === 0) {
+  if (foodItems.length === 0) {
     const alimentation = locale === "fr" ? frAlimentation : enAlimentation;
     alimentation.data.forEach(element => {
       const item: Item = {
@@ -152,10 +152,10 @@ function loadFood(locale: Locale): Item[] {
         explanation: "",
         source: element
       }
-      mealItems.push(item);
+      foodItems.push(item);
     });
   }
-  return mealItems;
+  return foodItems;
 }
 
 const drinkItems: Item[] = [];
