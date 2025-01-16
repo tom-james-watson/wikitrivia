@@ -2,14 +2,14 @@
 
 .hearts {
   display: flex;
-  gap: 10px;
+  gap: 5px;
+  align-items: center;
+  font-size: 30px;
+  border: solid 2px $dashes;
+  border-radius: $small-border-radius;
+  padding: 3px 5px;
 
   .heart {
     height: 30px;
-  }
-
-  .lost {
-    opacity: .4;
-    scale: .8;
   }
 }

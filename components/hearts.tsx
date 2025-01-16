@@ -26,11 +26,8 @@ export default function Hearts(props: Props) {
 
   return (
     <div className={styles.hearts}>
-      <Heart have={lives >= 1} />
-      <Heart have={lives >= 2} />
-      <Heart have={lives >= 3} />
-      <Heart have={lives >= 4} />
-      <Heart have={lives >= 5} />
+      {lives}
+      <img className={styles.heart} src="/images/heart.svg" />
     </div>
   );
 }
