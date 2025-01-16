@@ -2,7 +2,7 @@
 import { Item } from "../types/item";
 import ademeCategories from "../data/ademe/0-categories.json";
 import enNumerique from "../data/ademe/en/1-numerique.json";
-import enRepas from "../data/ademe/en/2-repas.json";
+import enAlimentation from "../data/ademe/en/2-alimentation.json";
 import enBoisson from "../data/ademe/en/3-boisson.json";
 import enTransport from "../data/ademe/en/4-transport.json";
 import enHabillement from "../data/ademe/en/5-habillement.json";
@@ -11,7 +11,7 @@ import enMobilier from "../data/ademe/en/7-mobilier.json";
 import enChauffage from "../data/ademe/en/8-chauffage.json";
 import enVegetablesAndFruits from "../data/ademe/en/9-fruitsetlegumes.json";
 import frNumerique from "../data/ademe/fr/1-numerique.json";
-import frRepas from "../data/ademe/fr/2-repas.json";
+import frAlimentation from "../data/ademe/fr/2-alimentation.json";
 import frBoisson from "../data/ademe/fr/3-boisson.json";
 import frTransport from "../data/ademe/fr/4-transport.json";
 import frHabillement from "../data/ademe/fr/5-habillement.json";
@@ -95,7 +95,7 @@ export function loadCategory(id: number, locale: Locale): Item[] {
     case 1:
       return loadDigital(locale);
     case 2:
-      return loadMeals(locale);
+      return loadFood(locale);
     case 3:
       return loadDrinks(locale);
     case 4:
@@ -140,14 +140,14 @@ function loadDigital(locale: Locale): Item[] {
 }
 
 const mealItems: Item[] = [];
-function loadMeals(locale: Locale): Item[] {
+function loadFood(locale: Locale): Item[] {
   if (mealItems.length === 0) {
-    const repas = locale === "fr" ? frRepas : enRepas;
-    repas.data.forEach(element => {
+    const alimentation = locale === "fr" ? frAlimentation : enAlimentation;
+    alimentation.data.forEach(element => {
       const item: Item = {
         id: element.slug,
         categoryId: 2,
-        label: element.name,
+        label: element.name + (element.slug.startsWith("repas") ? "" : " (1kg)"),
         description: "",
         explanation: "",
         source: element
