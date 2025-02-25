@@ -29,7 +29,7 @@ export default function Instructions(props: Props) {
       <div className={styles.wrapper}>
         <header className={styles.mainHeader}>
           <h1>
-            <img src="/images/logo.png" title="disCO2very" alt="disCO2very" className={styles.logo} />
+            <img src="./images/logo.png" title="disCO2very" alt="disCO2very" className={styles.logo} />
           </h1>
           <h2><Trans>Place the cards in the correct order guessing their CO<sub>2</sub> footprint.</Trans></h2>
           {highscore !== 0 && (
@@ -53,7 +53,7 @@ export default function Instructions(props: Props) {
       <RealCardsGame />
 
       <div className={styles.about}>
-        <p><Trans>Made with <img src="/images/heart.svg" title={_(msg`love`)} alt={_(msg`love`)} className={styles.heartImg} /> by <a href="https://antoine.duparay.fr" rel="noreferrer" target="_blank">Fla</a> &amp; Sara.</Trans></p>
+        <p><Trans>Made with <img src="./images/heart.svg" title={_(msg`love`)} alt={_(msg`love`)} className={styles.heartImg} /> by <a href="https://antoine.duparay.fr" rel="noreferrer" target="_blank">Fla</a> &amp; Sara.</Trans></p>
         <p><Trans>License AGPL - Source code available <a href="https://github.com/flaburgan/disco2very" rel="noreferrer" target="_blank">on github</a>.</Trans></p>
         <p>
           <Trans>
