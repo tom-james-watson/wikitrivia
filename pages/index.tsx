@@ -24,9 +24,9 @@ export default function Index() {
       <meta property="og:image:alt" content="The disCO2very logo, featuring a molecule of CO2." />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:creator" content="Fla" />
-      <link rel="icon" href="/favicon.svg" />
-      <link rel="apple-touch-icon" href="/images/logo-app.png" />
-      <link rel="manifest" href="/manifest.json" />
+      <link rel="icon" href="./favicon.svg" />
+      <link rel="apple-touch-icon" href="./images/logo-app.png" />
+      <link rel="manifest" href="./manifest.json" />
       <link rel="canonical" href="https://www.disco2very.org/" />
     </Head>
     <App />

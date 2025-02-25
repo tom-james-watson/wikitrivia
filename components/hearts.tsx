@@ -12,7 +12,7 @@ function Heart(props: HeartProps) {
   return (
     <img
       className={classNames(styles.heart, have ? "" : styles.lost)}
-      src="/images/heart.svg"
+      src="./images/heart.svg"
     />
   );
 }
@@ -27,7 +27,7 @@ export default function Hearts(props: Props) {
   return (
     <div className={styles.hearts}>
       {lives}
-      <img className={styles.heart} src="/images/heart.svg" />
+      <img className={styles.heart} src="./images/heart.svg" />
     </div>
   );
 }
