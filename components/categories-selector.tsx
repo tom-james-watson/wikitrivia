@@ -43,7 +43,7 @@ export default function CategoriesSelector({setSelectedItems, setCategoriesMode}
               <div key={id} className={selectedCategories[id] ? classNames(styles.selected) : ""} onClick={() => updateCategories(id)}>
                 <div>
                   <h3>{category.name[locale]}</h3>
-                  <p>{category.emoji}</p>
+                  <img src={`./images/ademe/${category.slug}.svg`} />
                 </div>
               </div>
             );

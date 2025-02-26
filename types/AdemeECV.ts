@@ -24,7 +24,6 @@ export interface AdemeCategory {
     en: string;
     fr: string;
   };
-  emoji: string;
   slug: string;
   color: string;
 }
