@@ -36,7 +36,11 @@ export default function EmailRegistration() {
     return false;
   };
 
-  return (
+  // Blink (Used by QtWebEngine, used by Ubuntu Touch) is blocking requests from file:// with CORS. If we are offline, we display a link
+  // to the website instead of the form (even if it does work with Firefox)
+  return window.location.protocol === "file:" ?
+    <p><Trans>Access <a href="https://disco2very.org" target="_blank" rel="noreferrer">disCO<sub>2</sub>very</a> online to subscribe.</Trans></p> :
+    (
     <div>
       <form method="post" action="https://www.disco2very.org/server/" id="register-email" onSubmit={onSubmit}>
         <input type="email" name="email" placeholder={t`myemail@myprovider.org`} autoComplete="email" required />
