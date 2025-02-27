@@ -33,10 +33,6 @@ msgstr "{email} is not a valid email address."
 msgid "A real deck of cards?"
 msgstr "A real deck of cards?"
 
-#: components/email-registration.tsx:40
-msgid "Access <0>disCO<1>2</1>very</0> online to subscribe."
-msgstr "Access <0>disCO<1>2</1>very</0> online to subscribe."
-
 #: components/board.tsx:133
 #: components/categories-selector.tsx:55
 msgid "Back"
@@ -98,7 +94,7 @@ msgstr "love"
 msgid "Made with <0/> by <1>Fla</1> & Sara."
 msgstr "Made with <0/> by <1>Fla</1> & Sara."
 
-#: components/email-registration.tsx:44
+#: components/email-registration.tsx:42
 msgid "myemail@myprovider.org"
 msgstr "myemail@myprovider.org"
 
@@ -122,11 +118,11 @@ msgstr "Place the cards in the correct order guessing their CO<0>2</0> footprint
 msgid "Play again"
 msgstr "Play again"
 
-#: components/email-registration.tsx:53
+#: components/email-registration.tsx:51
 msgid "Please contact fla (a) framasoft.org to unregister"
 msgstr "Please contact fla (a) framasoft.org to unregister"
 
-#: components/email-registration.tsx:46
+#: components/email-registration.tsx:44
 msgid "Register"
 msgstr "Register"
 
