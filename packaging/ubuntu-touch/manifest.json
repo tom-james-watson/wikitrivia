@@ -1,0 +1,15 @@
+{
+    "name": "disco2very.flaburgan",
+    "description": "disCO2very is a free game to discover the orders of magnitude of the CO2 footprint",
+    "architecture": "@CLICK_ARCH@",
+    "title": "disCO2very",
+    "hooks": {
+        "disco2very": {
+            "apparmor": "disco2very.apparmor",
+            "desktop":  "disco2very.desktop"
+        }
+    },
+    "version": "0.1.2",
+    "maintainer": "Fla <fla@framasoft.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

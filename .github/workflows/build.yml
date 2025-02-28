@@ -1,0 +1,48 @@
+name: Build
+
+on:
+  push:
+
+jobs:
+  build-webapp:
+    name: Build the web app
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18.x'
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run i18n-compile
+    - run: npm run build
+    - name: Upload the build as Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: disco2very-web-app
+        path: ./out
+        retention-days: 7
+
+  build-click:
+    name: Build Click Package
+    runs-on: ubuntu-latest
+    container:
+      image: clickable/ci-20.04-amd64
+    needs: build-webapp
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download disco2very-web-app from previous job
+        uses: actions/download-artifact@v4
+        with:
+          name: disco2very-web-app
+          path: ./out
+      - name: Build with Clickable
+        run: cd packaging/ubuntu-touch && clickable build
+
+      - name: Upload Click Package as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: click-package
+          path: packaging/ubuntu-touch/build/all/app/*.click
+          retention-days: 7 

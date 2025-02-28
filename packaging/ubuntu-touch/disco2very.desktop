@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=disCO2very
+Exec=webapp-container --app-id="disco2very.flaburgan" --local-content-can-access-remote-urls $@ www/index.html
+Icon=www/images/logo-app.png
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true

@@ -1,0 +1,3 @@
+clickable_minimum_required: 8.0.0
+builder: pure
+kill: webapp-container*
