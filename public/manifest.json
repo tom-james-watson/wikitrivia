@@ -24,7 +24,29 @@
       "src": "./images/screenshots/home-page.png",
       "sizes": "750x1334",
       "type": "image/png",
-      "label": "Home page of disCO2very"
+      "label": "Home page of disCO2very",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./images/screenshots/in-game.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "label": "Main page in the game",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./images/screenshots/details.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "label": "Dialog detailing the impact of a t-shirt",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./images/screenshots/in-game-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "label": "Main page in the game",
+      "form_factor": "wide"
     }
   ]
 }
