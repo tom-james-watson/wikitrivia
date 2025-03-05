@@ -142,10 +142,22 @@
       ]
     },
     {
-      "name": "Bicycle or walking",
-      "slug": "velo",
+      "name": "Walking",
+      "slug": "marche",
       "ecv": 0,
       "footprint": 0
+    },
+    {
+      "name": "Mechanical bike",
+      "slug": "velo",
+      "ecv": 0.00017,
+      "footprint": 0.00017,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00017
+        }
+      ]
     },
     {
       "name": "Electrically assisted bicycle",

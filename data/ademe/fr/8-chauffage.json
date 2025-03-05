@@ -1,39 +1,46 @@
 {
   "data": [
     {
-      "name": "Chauffage au gaz",
+      "name": "Chauffage au gaz par m²",
       "slug": "chauffagegaz",
-      "ecv": 2340
+      "ecv": 39,
+      "footprint": 39
     },
     {
-      "name": "Chauffage au fioul",
+      "name": "Chauffage au fioul par m²",
       "slug": "chauffagefioul",
-      "ecv": 3430.2000000000003
+      "ecv": 57.17,
+      "footprint": 57.17
     },
     {
-      "name": "Chauffage électrique",
+      "name": "Chauffage électrique par m²",
       "slug": "chauffageelectrique",
-      "ecv": 711
+      "ecv": 11.85,
+      "footprint": 11.85
     },
     {
-      "name": "Chauffage avec une pompe à chaleur",
+      "name": "Chauffage avec une pompe à chaleur par m²",
       "slug": "pompeachaleur",
-      "ecv": 237
+      "ecv": 3.95,
+      "footprint": 3.95
     },
     {
-      "name": "Chauffage avec un poêle à granulés",
+      "name": "Chauffage avec un poêle à granulés par m²",
       "slug": "poeleagranule",
-      "ecv": 338.4
+      "ecv": 5.64,
+      "footprint": 5.64
     },
     {
-      "name": "Chauffage avec un poêle à bois",
+      "name": "Chauffage avec un poêle à bois par m²",
       "slug": "poeleabois",
-      "ecv": 552
+      "ecv": 9.2,
+      "footprint": 9.2
     },
     {
-      "name": "Chauffage via un réseau de chaleur",
+      "name": "Chauffage via un réseau de chaleur par m²",
       "slug": "reseaudechaleur",
-      "ecv": 1120.2
+      "ecv": 18.67,
+      "footprint": 18.67
     }
   ]
 }

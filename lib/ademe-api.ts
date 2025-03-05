@@ -263,15 +263,17 @@ function loadHeating(locale: Locale): Item[] {
   if (heatingItems.length === 0) {
     const chauffage = locale === "fr" ? frChauffage : enChauffage;
     chauffage.data.forEach(element => {
-      applyCoefficient(element, 1/12);
+      applyCoefficient(element, 60/12); // From 1m2 to 60m2, from 12 months to 1 month
       const item: Item = {
         id: element.slug,
         categoryId: 8,
-        label: element.name,
+        label: element.name.replace(" par m²", "").replace(" per m²", ""),
         description: locale === "fr" ?
-          "60m2 par mois en moyenne annuel." :
-          "60m2 per month on yearly average.",
-        explanation: "",
+          "<strong>par mois</strong> pour 60m²" :
+          "<strong>per month</strong> for 60m²",
+        explanation: locale === "fr" ?
+          "Impact pour un mois de chauffage d'un logement de 60m² en lissant la consommation sur l'année." :
+          "Impact of one month of heating a house of 60m², spreading the consumption over the year.",
         source: element
       }
       heatingItems.push(item);
@@ -290,8 +292,8 @@ function loadVegetablesAndFruits(locale: Locale): Item[] {
         categoryId: 9,
         label: element.name + " (1kg)",
         description: locale === "fr" ?
-          "Consommé le mois d'octobre" :
-          "Bought in October",
+          "Consommé le mois de mars" :
+          "Bought in March",
         explanation: "",
         source: element
       }
@@ -338,7 +340,8 @@ const transportCoeff: {[key: string]: number} = {
   "ter": 100,
   "buselectrique": 5,
   "trottinette": 5,
-  "busgnv": 5
+  "busgnv": 5,
+  "marche": 5
 }
 
 function applyCoefficient(element: AdemeECV, coeff: number) {

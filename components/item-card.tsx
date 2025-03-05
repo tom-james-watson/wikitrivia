@@ -27,7 +27,7 @@ export default function ItemCard(props: Props) {
       </header>
       <main>
         <div className={styles.description} dangerouslySetInnerHTML={{__html: item.description}}></div>
-        <div>
+        <div className={styles.imageContainer}>
           <img src={`./images/ademe/${item.id}.svg`} />
         </div>
       </main>

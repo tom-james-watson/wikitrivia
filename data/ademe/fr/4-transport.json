@@ -142,10 +142,22 @@
       ]
     },
     {
-      "name": "Vélo ou marche",
-      "slug": "velo",
+      "name": "Marche",
+      "slug": "marche",
       "ecv": 0,
       "footprint": 0
+    },
+    {
+      "name": "Vélo mécanique",
+      "slug": "velo",
+      "ecv": 0.00017,
+      "footprint": 0.00017,
+      "footprintDetail": [
+        {
+          "id": 5,
+          "value": 0.00017
+        }
+      ]
     },
     {
       "name": "Vélo à assistance électrique",

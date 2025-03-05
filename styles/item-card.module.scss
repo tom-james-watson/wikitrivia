@@ -27,28 +27,24 @@
   main {
     display: flex;
     flex-direction: column;
-    align-items: center;
     height: 100%;
     padding-top: 0;
 
     .description {
       font-size: .9rem;
       font-style: italic;
+      flex-grow: 0;
+    }
+
+    .imageContainer {
+      align-self: center;
+      flex-grow: 1;
+      display: flex;
+      align-items: center;
     }
 
     img {
       height: 50px;
-    }
-
-    > div:first-child {
-      flex-grow: 0;
-    }
-
-    > div:nth-child(2) {
-      flex-grow: 1;
-      display: flex;
-      align-items: center;
-      font-size: 2rem;
     }
   }
 

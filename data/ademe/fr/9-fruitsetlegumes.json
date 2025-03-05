@@ -1,1818 +1,2190 @@
 {
   "data": [
     {
-      "name": "Fraise",
-      "slug": "fraise",
-      "ecv": 0.47706577790000004,
-      "footprint": 0.47706577790000004,
+      "name": "Maïs",
+      "slug": "mais",
+      "ecv": 0.568793,
+      "footprint": 0.568793,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.40146402806811304
+          "value": 0.363
+        },
+        {
+          "id": 31,
+          "value": 0.000193
+        },
+        {
+          "id": 32,
+          "value": 0.0381
         },
         {
           "id": 33,
-          "value": 0.07100668042349577
+          "value": 0.146
         },
         {
           "id": 34,
-          "value": 0.003109841816120535
-        },
-        {
-          "id": 35,
-          "value": 0.0014852275922706364
+          "value": 0.0215
         }
       ]
     },
     {
       "name": "Pomme",
       "slug": "pomme",
-      "ecv": 0.396515083,
-      "footprint": 0.396515083,
+      "ecv": 0.408195,
+      "footprint": 0.408195
+    },
+    {
+      "name": "Carotte",
+      "slug": "carotte",
+      "ecv": 0.3960665,
+      "footprint": 0.3960665
+    },
+    {
+      "name": "Courgette",
+      "slug": "courgette",
+      "ecv": 0.498507,
+      "footprint": 0.498507
+    },
+    {
+      "name": "Tomate",
+      "slug": "tomate",
+      "ecv": 0.6256,
+      "footprint": 0.6256
+    },
+    {
+      "name": "Potiron",
+      "slug": "potiron",
+      "ecv": 0.638233,
+      "footprint": 0.638233
+    },
+    {
+      "name": "Laitue",
+      "slug": "laitue",
+      "ecv": 0.868145,
+      "footprint": 0.868145
+    },
+    {
+      "name": "Banane",
+      "slug": "banane",
+      "ecv": 0.908523,
+      "footprint": 0.908523
+    },
+    {
+      "name": "Mangue (importée par avion)",
+      "slug": "mangue",
+      "ecv": 11.65551,
+      "footprint": 11.65551
+    },
+    {
+      "name": "Poireau",
+      "slug": "poireau",
+      "ecv": 0.6113778000000001,
+      "footprint": 0.6113778000000001
+    },
+    {
+      "name": "Avocat",
+      "slug": "avocat",
+      "ecv": 1.552523,
+      "footprint": 1.552523
+    },
+    {
+      "name": "Fraise",
+      "slug": "fraise",
+      "ecv": 0.51107,
+      "footprint": 0.51107,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.2547701865767705
+          "value": 0.227
         },
         {
           "id": 33,
-          "value": 0.11500545989914154
+          "value": 0.261
         },
         {
           "id": 34,
-          "value": 0.018931904779608256
+          "value": 0.0131
         },
         {
           "id": 35,
-          "value": 0.007807531744479746
+          "value": 0.00997
+        }
+      ]
+    },
+    {
+      "name": "Pomme",
+      "slug": "pomme",
+      "ecv": 0.40819489999999997,
+      "footprint": 0.40819489999999997,
+      "footprintDetail": [
+        {
+          "id": 30,
+          "value": 0.0919
+        },
+        {
+          "id": 31,
+          "value": 0.0000949
+        },
+        {
+          "id": 33,
+          "value": 0.262
+        },
+        {
+          "id": 34,
+          "value": 0.0219
+        },
+        {
+          "id": 35,
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Orange",
       "slug": "orange",
-      "ecv": 0.633964319,
-      "footprint": 0.633964319,
+      "ecv": 0.6776838000000001,
+      "footprint": 0.6776838000000001,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.4846464505613365
+          "value": 0.198
+        },
+        {
+          "id": 31,
+          "value": 0.0000838
         },
         {
           "id": 33,
-          "value": 0.12374803403082975
+          "value": 0.378
         },
         {
           "id": 34,
-          "value": 0.011901309567525144
+          "value": 0.021
         },
         {
           "id": 35,
-          "value": 0.013668524840308626
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Citron",
       "slug": "citron",
-      "ecv": 0.711263074,
-      "footprint": 0.711263074,
+      "ecv": 0.7635958,
+      "footprint": 0.7635958,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5512462253829189
+          "value": 0.194
+        },
+        {
+          "id": 31,
+          "value": 0.0000958
         },
         {
           "id": 33,
-          "value": 0.12390561297084524
+          "value": 0.406
         },
         {
           "id": 34,
-          "value": 0.013388383947377347
+          "value": 0.0255
         },
         {
           "id": 35,
-          "value": 0.022722851698858557
+          "value": 0.138
         }
       ]
     },
     {
       "name": "Ail",
       "slug": "ail",
-      "ecv": 0.358042894,
-      "footprint": 0.358042894,
+      "ecv": 0.38349300000000003,
+      "footprint": 0.38349300000000003,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.2318884350768168
+          "value": 0.0841
+        },
+        {
+          "id": 31,
+          "value": 0.000193
         },
         {
           "id": 33,
-          "value": 0.07749464346752033
+          "value": 0.198
         },
         {
           "id": 34,
-          "value": 0.031008194059212856
+          "value": 0.0206
         },
         {
           "id": 35,
-          "value": 0.017651621396450073
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Artichaut",
       "slug": "artichaut",
-      "ecv": 3.876929068,
-      "footprint": 3.876929068,
+      "ecv": 2.556166,
+      "footprint": 2.556166,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 2.1967691892319436
+          "value": 0.615
+        },
+        {
+          "id": 31,
+          "value": 0.000266
         },
         {
           "id": 33,
-          "value": 0.9352055719787857
+          "value": 0.596
         },
         {
           "id": 34,
-          "value": 0.1862461113598876
+          "value": 0.0549
         },
         {
           "id": 35,
-          "value": 0.5587081954293829
+          "value": 1.29
         }
       ]
     },
     {
       "name": "Asperge",
       "slug": "asperge",
-      "ecv": 1.559309081,
-      "footprint": 1.559309081,
+      "ecv": 1.638878,
+      "footprint": 1.638878,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.327629397818207
+          "value": 0.97
+        },
+        {
+          "id": 31,
+          "value": 0.000178
         },
         {
           "id": 33,
-          "value": 0.157476163593698
+          "value": 0.417
         },
         {
           "id": 34,
-          "value": 0.029714931935578007
+          "value": 0.0367
         },
         {
           "id": 35,
-          "value": 0.04448858765251692
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Betterave",
       "slug": "betterave",
-      "ecv": 0.3643210989999999,
-      "footprint": 0.3643210989999999,
+      "ecv": 0.40736649999999996,
+      "footprint": 0.40736649999999996,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.21870781928982266
+          "value": 0.0941
+        },
+        {
+          "id": 31,
+          "value": 0.0000665
         },
         {
           "id": 33,
-          "value": 0.12288446318909398
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.014386392186676835
+          "value": 0.0189
         },
         {
           "id": 35,
-          "value": 0.008342424334406453
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Blette",
       "slug": "blette",
-      "ecv": 0.542753575,
-      "footprint": 0.542753575,
+      "ecv": 0.5811,
+      "footprint": 0.5811,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.1985556955183914
+          "value": 0.146
         },
         {
           "id": 33,
-          "value": 0.19964778729974925
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.11473182070388492
+          "value": 0.0565
         },
         {
           "id": 35,
-          "value": 0.029818271477974494
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Carotte",
       "slug": "carotte",
-      "ecv": 0.3643210989999999,
-      "footprint": 0.3643210989999999,
+      "ecv": 0.3960665,
+      "footprint": 0.3960665,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.21870781928982266
+          "value": 0.0828
+        },
+        {
+          "id": 31,
+          "value": 0.0000665
         },
         {
           "id": 33,
-          "value": 0.12288446318909398
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.014386392186676835
+          "value": 0.0189
         },
         {
           "id": 35,
-          "value": 0.008342424334406453
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Céleri",
       "slug": "celeri",
-      "ecv": 0.6770180851000002,
-      "footprint": 0.6770180851000002,
+      "ecv": 0.7157324,
+      "footprint": 0.7157324,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.48095696660704207
+          "value": 0.442
+        },
+        {
+          "id": 31,
+          "value": 0.0000624
         },
         {
           "id": 33,
-          "value": 0.17206273471044398
+          "value": 0.246
         },
         {
           "id": 34,
-          "value": 0.020143815778269795
+          "value": 0.0177
         },
         {
           "id": 35,
-          "value": 0.003854568004244177
+          "value": 0.00997
         }
       ]
     },
     {
       "name": "Champignon (morille crue)",
       "slug": "champignonmorille",
-      "ecv": 0.4937143989999999,
-      "footprint": 0.4937143989999999,
+      "ecv": 6.175009000000001,
+      "footprint": 6.175009000000001,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.2744686179990303
+          "value": 5.74
+        },
+        {
+          "id": 31,
+          "value": 0.000409
         },
         {
           "id": 33,
-          "value": 0.12717084462453185
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.07308141373145949
+          "value": 0.056
         },
         {
           "id": 35,
-          "value": 0.018993522644978326
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Chou",
       "slug": "chou",
-      "ecv": 0.862097522,
-      "footprint": 0.862097522,
+      "ecv": 0.8476329999999999,
+      "footprint": 0.8476329999999999,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5131364995464165
+          "value": 0.307
+        },
+        {
+          "id": 31,
+          "value": 0.000133
         },
         {
           "id": 33,
-          "value": 0.21845176415253645
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.04350465054337229
+          "value": 0.0275
         },
         {
           "id": 35,
-          "value": 0.08700460775767485
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Chou de Bruxelles",
       "slug": "choudebruxelles",
-      "ecv": 0.5758186729,
-      "footprint": 0.5758186729,
+      "ecv": 0.562147,
+      "footprint": 0.562147,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3788543057978092
+          "value": 0.27
+        },
+        {
+          "id": 31,
+          "value": 0.000117
         },
         {
           "id": 33,
-          "value": 0.1612853340230889
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.0321199608362954
+          "value": 0.0242
         },
         {
           "id": 35,
-          "value": 0.0035590722428065053
+          "value": 0.00583
         }
       ]
     },
     {
       "name": "Chou-fleur",
       "slug": "choufleur",
-      "ecv": 0.735512212,
-      "footprint": 0.735512212,
+      "ecv": 0.720705,
+      "footprint": 0.720705,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.45524941290667564
+          "value": 0.307
+        },
+        {
+          "id": 31,
+          "value": 0.000205
         },
         {
           "id": 33,
-          "value": 0.19380815332134424
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.057508549205910114
+          "value": 0.0349
         },
         {
           "id": 35,
-          "value": 0.028946096566070008
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Concombre",
       "slug": "concombre",
-      "ecv": 0.473201203,
-      "footprint": 0.473201203,
+      "ecv": 0.5122949,
+      "footprint": 0.5122949,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.2829827597867092
+          "value": 0.196
+        },
+        {
+          "id": 31,
+          "value": 0.0000949
         },
         {
           "id": 33,
-          "value": 0.15433472453021685
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.025406187771915913
+          "value": 0.0219
         },
         {
           "id": 35,
-          "value": 0.010477530911158064
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Courge",
       "slug": "courge",
-      "ecv": 0.618848881,
-      "footprint": 0.618848881,
+      "ecv": 0.6382,
+      "footprint": 0.6382,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3948815373068884
+          "value": 0.205
         },
         {
           "id": 33,
-          "value": 0.17027309100485263
+          "value": 0.325
         },
         {
           "id": 34,
-          "value": 0.030683139472821738
+          "value": 0.0276
         },
         {
           "id": 35,
-          "value": 0.023011113215437206
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Courgette",
       "slug": "courgette",
-      "ecv": 0.48351979,
-      "footprint": 0.48351979,
+      "ecv": 0.49850700000000003,
+      "footprint": 0.49850700000000003,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3249566112753587
+          "value": 0.181
+        },
+        {
+          "id": 31,
+          "value": 0.000107
         },
         {
           "id": 33,
-          "value": 0.1267880175884188
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.023167730906306763
+          "value": 0.0231
         },
         {
           "id": 35,
-          "value": 0.008607430229915764
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Cresson",
       "slug": "cresson",
-      "ecv": 0.9410662189999999,
-      "footprint": 0.9410662189999999,
+      "ecv": 0.868145,
+      "footprint": 0.868145,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5250268671805667
+          "value": 0.181
+        },
+        {
+          "id": 31,
+          "value": 0.000545
         },
         {
           "id": 33,
-          "value": 0.22207954480171793
+          "value": 0.397
         },
         {
           "id": 34,
-          "value": 0.1276227005592863
+          "value": 0.0746
         },
         {
           "id": 35,
-          "value": 0.06633710645842904
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Échalote",
       "slug": "echalote",
-      "ecv": 0.3648632602000001,
-      "footprint": 0.3648632602000001,
+      "ecv": 0.3935757,
+      "footprint": 0.3935757,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.23531079919928174
+          "value": 0.0814
+        },
+        {
+          "id": 31,
+          "value": 0.0000757
         },
         {
           "id": 33,
-          "value": 0.10902766714087427
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.013123084645555711
+          "value": 0.0178
         },
         {
           "id": 35,
-          "value": 0.007401709214288365
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Endive",
       "slug": "endive",
-      "ecv": 0.9380277949999998,
-      "footprint": 0.9380277949999998,
+      "ecv": 0.861009,
+      "footprint": 0.861009,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.6518647722304847
+          "value": 0.426
+        },
+        {
+          "id": 31,
+          "value": 0.000409
         },
         {
           "id": 33,
-          "value": 0.16598537558972426
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.09538700432995566
+          "value": 0.056
         },
         {
           "id": 35,
-          "value": 0.024790642849835256
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Épinard",
       "slug": "epinard",
-      "ecv": 0.3912991521,
-      "footprint": 0.3912991521,
+      "ecv": 0.42256999999999995,
+      "footprint": 0.42256999999999995,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.1501613878291217
+          "value": 0.12
         },
         {
           "id": 33,
-          "value": 0.15098729419749254
+          "value": 0.246
         },
         {
           "id": 34,
-          "value": 0.08676803636837423
+          "value": 0.0466
         },
         {
           "id": 35,
-          "value": 0.003382433705011497
+          "value": 0.00997
         }
       ]
     },
     {
-      "name": "Mangue",
+      "name": "Mangue (importée par avion)",
       "slug": "mangue",
-      "ecv": 10.641545366999999,
-      "footprint": 10.641545366999999,
+      "ecv": 11.655508000000001,
+      "footprint": 11.655508000000001,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.8072992522991684
+          "value": 0.15
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 8.755759543156284
+          "value": 11.4
         },
         {
           "id": 34,
-          "value": 0.04115101307427565
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.03733555847027189
+          "value": 0.0806
+        }
+      ]
+    },
+    {
+      "name": "Mangue (importée par bateau)",
+      "slug": "manguebateau",
+      "ecv": 0.727508,
+      "footprint": 0.727508,
+      "footprintDetail": [
+        {
+          "id": 30,
+          "value": 0.15
+        },
+        {
+          "id": 31,
+          "value": 0.000108
+        },
+        {
+          "id": 33,
+          "value": 0.472
+        },
+        {
+          "id": 34,
+          "value": 0.0248
+        },
+        {
+          "id": 35,
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Fenouil",
       "slug": "fenouil",
-      "ecv": 0.962528871,
-      "footprint": 0.962528871,
+      "ecv": 1.018233,
+      "footprint": 1.018233,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.6167064670815313
+          "value": 0.499
+        },
+        {
+          "id": 31,
+          "value": 0.000133
         },
         {
           "id": 33,
-          "value": 0.2823070232147077
+          "value": 0.411
         },
         {
           "id": 34,
-          "value": 0.036295342373374985
+          "value": 0.0275
         },
         {
           "id": 35,
-          "value": 0.027220038330385988
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Haricot vert (cru)",
       "slug": "haricotvert",
-      "ecv": 0.41306197199999994,
-      "footprint": 0.41306197199999994,
+      "ecv": 0.44645700000000005,
+      "footprint": 0.44645700000000005,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.31085338573632987
+          "value": 0.117
+        },
+        {
+          "id": 31,
+          "value": 0.000157
         },
         {
           "id": 33,
-          "value": 0.07009748452830465
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.01823640246843202
+          "value": 0.0282
         },
         {
           "id": 35,
-          "value": 0.01387469926693342
+          "value": 0.0391
         }
       ]
     },
     {
       "name": "Laitue",
       "slug": "laitue",
-      "ecv": 0.9410662189999999,
-      "footprint": 0.9410662189999999,
+      "ecv": 0.868145,
+      "footprint": 0.868145,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5250268671805667
+          "value": 0.181
+        },
+        {
+          "id": 31,
+          "value": 0.000545
         },
         {
           "id": 33,
-          "value": 0.22207954480171793
+          "value": 0.397
         },
         {
           "id": 34,
-          "value": 0.1276227005592863
+          "value": 0.0746
         },
         {
           "id": 35,
-          "value": 0.06633710645842904
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Mâche",
       "slug": "mache",
-      "ecv": 0.9410662189999999,
-      "footprint": 0.9410662189999999,
+      "ecv": 0.868145,
+      "footprint": 0.868145,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5250268671805667
+          "value": 0.181
+        },
+        {
+          "id": 31,
+          "value": 0.000545
         },
         {
           "id": 33,
-          "value": 0.22207954480171793
+          "value": 0.397
         },
         {
           "id": 34,
-          "value": 0.1276227005592863
+          "value": 0.0746
         },
         {
           "id": 35,
-          "value": 0.06633710645842904
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Navet",
       "slug": "navet",
-      "ecv": 0.364321099,
-      "footprint": 0.364321099,
+      "ecv": 0.3961,
+      "footprint": 0.3961,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.21870781928982266
+          "value": 0.0828
         },
         {
           "id": 33,
-          "value": 0.12288446318909398
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.014386392186676839
+          "value": 0.019
         },
         {
           "id": 35,
-          "value": 0.008342424334406453
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Maïs",
       "slug": "mais",
-      "ecv": 0.810485801,
-      "footprint": 0.810485801,
+      "ecv": 0.568793,
+      "footprint": 0.568793,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5590874300039954
+          "value": 0.363
+        },
+        {
+          "id": 31,
+          "value": 0.000193
         },
         {
           "id": 32,
-          "value": 0.14492032711285208
+          "value": 0.0381
         },
         {
           "id": 33,
-          "value": 0.06918517048486783
+          "value": 0.146
         },
         {
           "id": 34,
-          "value": 0.03729287339828466
+          "value": 0.0215
         }
       ]
     },
     {
       "name": "Oignon",
       "slug": "oignon",
-      "ecv": 0.38953612800000015,
-      "footprint": 0.38953612800000015,
+      "ecv": 0.4204685,
+      "footprint": 0.4204685,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.2488429591112444
+          "value": 0.101
+        },
+        {
+          "id": 31,
+          "value": 0.0000685
         },
         {
           "id": 33,
-          "value": 0.11861897696298362
+          "value": 0.268
         },
         {
           "id": 34,
-          "value": 0.014250534193702704
+          "value": 0.0191
         },
         {
           "id": 35,
-          "value": 0.007823657732069384
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Panais",
       "slug": "panais",
-      "ecv": 0.45782909000000005,
-      "footprint": 0.45782909000000005,
+      "ecv": 0.4942756,
+      "footprint": 0.4942756,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.267491959110919
+          "value": 0.0941
+        },
+        {
+          "id": 31,
+          "value": 0.0000756
         },
         {
           "id": 33,
-          "value": 0.1502946069120538
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.017595366153782457
+          "value": 0.0215
         },
         {
           "id": 35,
-          "value": 0.022447157823244808
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Petit pois",
       "slug": "petitpois",
-      "ecv": 0.6651291770000001,
-      "footprint": 0.6651291770000001,
+      "ecv": 0.701761,
+      "footprint": 0.701761,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5180955567960798
+          "value": 0.436
+        },
+        {
+          "id": 31,
+          "value": 0.000161
         },
         {
           "id": 33,
-          "value": 0.11384770088796828
+          "value": 0.238
         },
         {
           "id": 34,
-          "value": 0.03318591931595206
+          "value": 0.0276
         }
       ]
     },
     {
       "name": "Poireau",
       "slug": "poireau",
-      "ecv": 0.768865685,
-      "footprint": 0.768865685,
+      "ecv": 0.6113778000000001,
+      "footprint": 0.6113778000000001,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5518885583147793
+          "value": 0.211
+        },
+        {
+          "id": 31,
+          "value": 0.0000778
         },
         {
           "id": 33,
-          "value": 0.17044406082494665
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.02107649884179719
+          "value": 0.0217
         },
         {
           "id": 35,
-          "value": 0.025456567018476744
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Poivron",
       "slug": "poivron",
-      "ecv": 1.1836197739999998,
-      "footprint": 1.1836197739999998,
+      "ecv": 0.7154,
+      "footprint": 0.7154,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.8018993677679974
+          "value": 0.247
         },
         {
           "id": 33,
-          "value": 0.29034903892726466
+          "value": 0.357
         },
         {
           "id": 34,
-          "value": 0.05635866042364036
+          "value": 0.0308
         },
         {
           "id": 35,
-          "value": 0.03501270688109747
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Potiron",
       "slug": "potiron",
-      "ecv": 0.618848881,
-      "footprint": 0.618848881,
+      "ecv": 0.6382329999999999,
+      "footprint": 0.6382329999999999,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3948815373068884
+          "value": 0.205
+        },
+        {
+          "id": 31,
+          "value": 0.000133
         },
         {
           "id": 33,
-          "value": 0.17027309100485263
+          "value": 0.325
         },
         {
           "id": 34,
-          "value": 0.030683139472821738
+          "value": 0.0275
         },
         {
           "id": 35,
-          "value": 0.023011113215437206
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Radis",
       "slug": "radis",
-      "ecv": 0.6018473451,
-      "footprint": 0.6018473451,
+      "ecv": 0.3847324,
+      "footprint": 0.3847324,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3881547265906991
+          "value": 0.111
+        },
+        {
+          "id": 31,
+          "value": 0.0000624
         },
         {
           "id": 33,
-          "value": 0.18753609390158912
+          "value": 0.246
         },
         {
           "id": 34,
-          "value": 0.02195532073628385
+          "value": 0.0177
         },
         {
           "id": 35,
-          "value": 0.004201203871427947
+          "value": 0.00997
         }
       ]
     },
     {
       "name": "Salsifis",
       "slug": "salsifis",
-      "ecv": 0.45782908999999994,
-      "footprint": 0.45782908999999994,
+      "ecv": 0.4942756,
+      "footprint": 0.4942756,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.26749195911091894
+          "value": 0.0941
+        },
+        {
+          "id": 31,
+          "value": 0.0000756
         },
         {
           "id": 33,
-          "value": 0.1502946069120538
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.01759536615378246
+          "value": 0.0215
         },
         {
           "id": 35,
-          "value": 0.02244715782324481
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Topinambour",
       "slug": "topinambour",
-      "ecv": 0.5048719700000001,
-      "footprint": 0.5048719700000001,
+      "ecv": 0.49126650000000005,
+      "footprint": 0.49126650000000005,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.37484185214687293
+          "value": 0.27
+        },
+        {
+          "id": 31,
+          "value": 0.0000665
         },
         {
           "id": 33,
-          "value": 0.100514588828102
+          "value": 0.17
         },
         {
           "id": 34,
-          "value": 0.018682097933140285
+          "value": 0.0189
         },
         {
           "id": 35,
-          "value": 0.010833431091884844
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Cassis",
       "slug": "cassis",
-      "ecv": 1.7963874969999998,
-      "footprint": 1.7963874969999998,
+      "ecv": 1.903508,
+      "footprint": 1.903508,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.5808848689288106
+          "value": 1.5
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.16400856157383012
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.026998669479118702
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.024495397018240356
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Châtaigne",
       "slug": "chataigne",
-      "ecv": 1.880205125,
-      "footprint": 1.880205125,
+      "ecv": 1.943945,
+      "footprint": 1.943945,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.8023380399713715
+          "value": 1.71
+        },
+        {
+          "id": 31,
+          "value": 0.000245
         },
         {
           "id": 33,
-          "value": 0.04549092139611165
+          "value": 0.171
         },
         {
           "id": 34,
-          "value": 0.02701232284999322
+          "value": 0.0269
         },
         {
           "id": 35,
-          "value": 0.005363840782523507
+          "value": 0.0358
         }
       ]
     },
     {
       "name": "Clémentine",
       "slug": "clementine",
-      "ecv": 1.2214244939999999,
-      "footprint": 1.2214244939999999,
+      "ecv": 1.3019120000000002,
+      "footprint": 1.3019120000000002,
       "footprintDetail": [
         {
+          "id": 30,
+          "value": 0.583
+        },
+        {
           "id": 31,
-          "value": 1.0833147091099529
+          "value": 0.000112
         },
         {
           "id": 33,
-          "value": 0.10209270185223396
+          "value": 0.474
         },
         {
           "id": 34,
-          "value": 0.011031431598929678
+          "value": 0.0298
         },
         {
           "id": 35,
-          "value": 0.024985651438883212
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Pamplemousse",
       "slug": "pamplemousse",
-      "ecv": 0.8728596140000001,
-      "footprint": 0.8728596140000001,
+      "ecv": 0.9255958,
+      "footprint": 0.9255958,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.726023664597355
+          "value": 0.257
+        },
+        {
+          "id": 31,
+          "value": 0.0000958
         },
         {
           "id": 33,
-          "value": 0.12219019567494512
+          "value": 0.505
         },
         {
           "id": 34,
-          "value": 0.009137511017664302
+          "value": 0.0255
         },
         {
           "id": 35,
-          "value": 0.015508242710035574
+          "value": 0.138
         }
       ]
     },
     {
       "name": "Coing",
       "slug": "coing",
-      "ecv": 0.5410901117000001,
-      "footprint": 0.5410901117000001,
+      "ecv": 0.5615215,
+      "footprint": 0.5615215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.32696964988622773
+          "value": 0.104
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.18515294196122192
+          "value": 0.361
         },
         {
           "id": 34,
-          "value": 0.006923273026071387
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.022044246826478944
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Figue",
       "slug": "figue",
-      "ecv": 0.6135498970000001,
-      "footprint": 0.6135498970000001,
+      "ecv": 0.611508,
+      "footprint": 0.611508,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5264847662963503
+          "value": 0.179
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.06806288156514599
+          "value": 0.327
         },
         {
           "id": 34,
-          "value": 0.009963001152310288
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.009039247986193464
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Groseille",
       "slug": "groseille",
-      "ecv": 1.7875465516999998,
-      "footprint": 1.7875465516999998,
+      "ecv": 1.8945215,
+      "footprint": 1.8945215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.5901941672341455
+          "value": 1.5
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.16497435272935823
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.007738389579073022
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.024639642157423022
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Kiwi",
       "slug": "kiwi",
-      "ecv": 0.9768151836999999,
-      "footprint": 0.9768151836999999,
+      "ecv": 1.0015,
+      "footprint": 1.0015,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.7254928911153846
+          "value": 0.479
         },
         {
           "id": 31,
-          "value": 0.018875390793624165
+          "value": 0.0142
         },
         {
           "id": 33,
-          "value": 0.21183823246585762
+          "value": 0.414
         },
         {
           "id": 34,
-          "value": 0.0021630305838026376
+          "value": 0.0137
         },
         {
           "id": 35,
-          "value": 0.018445638741330768
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Mandarine",
       "slug": "mandarine",
-      "ecv": 0.42273830129999995,
-      "footprint": 0.42273830129999995,
+      "ecv": 0.4684038,
+      "footprint": 0.4684038,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.33080235322545093
+          "value": 0.00942
+        },
+        {
+          "id": 31,
+          "value": 0.0000838
         },
         {
           "id": 33,
-          "value": 0.07471912513665556
+          "value": 0.356
         },
         {
           "id": 34,
-          "value": 0.008073632430015852
+          "value": 0.0223
         },
         {
           "id": 35,
-          "value": 0.0091431905078776
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Melon",
       "slug": "melon",
-      "ecv": 0.931394984,
-      "footprint": 0.931394984,
+      "ecv": 0.978343,
+      "footprint": 0.978343,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.6671106652173151
+          "value": 0.318
+        },
+        {
+          "id": 31,
+          "value": 0.000143
         },
         {
           "id": 33,
-          "value": 0.1848975025015616
+          "value": 0.416
         },
         {
           "id": 34,
-          "value": 0.026953165351735784
+          "value": 0.0292
         },
         {
           "id": 35,
-          "value": 0.05243365092938753
+          "value": 0.215
         }
       ]
     },
     {
       "name": "Mûre",
       "slug": "mure",
-      "ecv": 1.2060856469999999,
-      "footprint": 1.2060856469999999,
+      "ecv": 1.2475079999999998,
+      "footprint": 1.2475079999999998,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.105821313370722
+          "value": 0.844
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.07630630439580667
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.012561348455141478
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.011396680778329766
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Nectarine",
       "slug": "nectarine",
-      "ecv": 0.6373697500000002,
-      "footprint": 0.6373697500000002,
+      "ecv": 0.613608,
+      "footprint": 0.613608,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5516745396456768
+          "value": 0.213
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.06577248673377466
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.010099314647502546
+          "value": 0.0219
         },
         {
           "id": 35,
-          "value": 0.009823408973046163
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Myrtille",
       "slug": "myrtille",
-      "ecv": 0.8815012491,
-      "footprint": 0.8815012491,
+      "ecv": 0.9215589,
+      "footprint": 0.9215589,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.81634159152278
+          "value": 0.645
+        },
+        {
+          "id": 31,
+          "value": 0.0000889
         },
         {
           "id": 33,
-          "value": 0.05489349981435049
+          "value": 0.246
         },
         {
           "id": 34,
-          "value": 0.009036427639252406
+          "value": 0.0205
         },
         {
           "id": 35,
-          "value": 0.0012297301236171496
+          "value": 0.00997
         }
       ]
     },
     {
       "name": "Noisette",
       "slug": "noisette",
-      "ecv": 4.652965420999999,
-      "footprint": 4.652965420999999,
+      "ecv": 4.8111999999999995,
+      "footprint": 4.8111999999999995,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 4.4273156212923395
+          "value": 4.31
         },
         {
           "id": 31,
-          "value": 0.06631423045897496
+          "value": 0.196
         },
         {
           "id": 33,
-          "value": 0.1243784389891823
+          "value": 0.281
         },
         {
           "id": 34,
-          "value": 0.034957130259502846
+          "value": 0.0242
         }
       ]
     },
     {
       "name": "Noix",
       "slug": "noix",
-      "ecv": 4.164838912,
-      "footprint": 4.164838912,
+      "ecv": 4.114,
+      "footprint": 4.114,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 3.7682299167498408
+          "value": 3.07
         },
         {
           "id": 32,
-          "value": 0.19227068360559735
+          "value": 0.376
         },
         {
           "id": 33,
-          "value": 0.09179029158898216
+          "value": 0.296
         },
         {
           "id": 34,
-          "value": 0.05647588702076113
+          "value": 0.049
         },
         {
           "id": 35,
-          "value": 0.05607213303481815
+          "value": 0.323
         }
       ]
     },
     {
       "name": "Prune",
       "slug": "prune",
-      "ecv": 0.9630279916999999,
-      "footprint": 0.9630279916999999,
+      "ecv": 1.0345215,
+      "footprint": 1.0345215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.9153825473257319
+          "value": 0.64
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.03982863631175173
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.0018682267824330797
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.0059485812800832245
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Reine claude",
       "slug": "reineclaude",
-      "ecv": 0.971868937,
-      "footprint": 0.971868937,
+      "ecv": 1.043508,
+      "footprint": 1.043508,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.9193106557979828
+          "value": 0.64
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.039999549777593374
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.006584623469626956
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.00597410795479691
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Rhubarbe",
       "slug": "rhubarbe",
-      "ecv": 0.7167486917,
-      "footprint": 0.7167486917,
+      "ecv": 0.7015215,
+      "footprint": 0.7015215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.4748974093662752
+          "value": 0.307
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.20217267132475333
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.009483237043029268
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.030195373965942154
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Pêche",
       "slug": "peche",
-      "ecv": 0.5957366917,
-      "footprint": 0.5957366917,
+      "ecv": 0.5905215,
+      "footprint": 0.5905215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5203124812236186
+          "value": 0.18
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.06366413517604866
+          "value": 0.314
         },
         {
           "id": 34,
-          "value": 0.002810672523080817
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.008949402777251819
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Cerise",
       "slug": "cerise",
-      "ecv": 1.3353255069999996,
-      "footprint": 1.3353255069999996,
+      "ecv": 1.7445080000000002,
+      "footprint": 1.7445080000000002,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.193131040702151
+          "value": 0.64
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 32,
-          "value": 0.07171672834715612
+          "value": 0.657
         },
         {
           "id": 33,
-          "value": 0.05417833774270202
+          "value": 0.342
         },
         {
           "id": 34,
-          "value": 0.008545880115061162
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.007753520092929479
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Abricot",
       "slug": "abricot",
-      "ecv": 0.8806383170000001,
-      "footprint": 0.8806383170000001,
+      "ecv": 1.451508,
+      "footprint": 1.451508,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.42247817556364853
+          "value": 0.347
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 32,
-          "value": 0.23107612594473056
+          "value": 0.657
         },
         {
           "id": 33,
-          "value": 0.17456625091857256
+          "value": 0.342
         },
         {
           "id": 34,
-          "value": 0.027535400948818504
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.024982363624229915
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Framboise",
       "slug": "framboise",
-      "ecv": 1.4750375679,
-      "footprint": 1.4750375679,
+      "ecv": 1.5430878,
+      "footprint": 1.5430878,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.2954829217552046
+          "value": 1.04
+        },
+        {
+          "id": 31,
+          "value": 0.0000178
         },
         {
           "id": 33,
-          "value": 0.17386182153933968
+          "value": 0.48
         },
         {
           "id": 34,
-          "value": 0.0038527783666459587
+          "value": 0.0131
         },
         {
           "id": 35,
-          "value": 0.0018400462388097818
+          "value": 0.00997
         }
       ]
     },
     {
       "name": "Poire",
       "slug": "poire",
-      "ecv": 0.36428259399999996,
-      "footprint": 0.36428259399999996,
+      "ecv": 0.387319,
+      "footprint": 0.387319,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.27341934474951646
+          "value": 0.069
+        },
+        {
+          "id": 31,
+          "value": 0.000019
         },
         {
           "id": 33,
-          "value": 0.08190737602897352
+          "value": 0.272
         },
         {
           "id": 34,
-          "value": 0.0036594786082843286
+          "value": 0.014
         },
         {
           "id": 35,
-          "value": 0.005296394613225656
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Raisin",
       "slug": "raisin",
-      "ecv": 0.45672809300000006,
-      "footprint": 0.45672809300000006,
+      "ecv": 0.5092949,
+      "footprint": 0.5092949,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3135493456304906
+          "value": 0.17
+        },
+        {
+          "id": 31,
+          "value": 0.0000949
         },
         {
           "id": 33,
-          "value": 0.11876845385012552
+          "value": 0.285
         },
         {
           "id": 34,
-          "value": 0.017282838108235988
+          "value": 0.0219
         },
         {
           "id": 35,
-          "value": 0.007127455411147958
+          "value": 0.0323
         }
       ]
     },
     {
       "name": "Aubergine",
       "slug": "aubergine",
-      "ecv": 0.4571093429,
-      "footprint": 0.4571093429,
+      "ecv": 0.47203700000000004,
+      "footprint": 0.47203700000000004,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.31094313792574774
+          "value": 0.181
+        },
+        {
+          "id": 31,
+          "value": 0.000107
         },
         {
           "id": 33,
-          "value": 0.12132039377688243
+          "value": 0.262
         },
         {
           "id": 34,
-          "value": 0.022168642510005814
+          "value": 0.0231
         },
         {
           "id": 35,
-          "value": 0.002677168687364001
+          "value": 0.00583
         }
       ]
     },
     {
       "name": "Brocoli",
       "slug": "brocoli",
-      "ecv": 0.9025554719999999,
-      "footprint": 0.9025554719999999,
+      "ecv": 0.950705,
+      "footprint": 0.950705,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.6052678990137963
+          "value": 0.537
+        },
+        {
+          "id": 31,
+          "value": 0.000205
         },
         {
           "id": 33,
-          "value": 0.20558117492666145
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.06100194915162366
+          "value": 0.0349
         },
         {
           "id": 35,
-          "value": 0.030704448907918618
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Tomate",
       "slug": "tomate",
-      "ecv": 0.581556477,
-      "footprint": 0.581556477,
+      "ecv": 0.6256,
+      "footprint": 0.6256,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3387797113397951
+          "value": 0.222
         },
         {
           "id": 33,
-          "value": 0.18476558024305728
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.030415636746221317
+          "value": 0.025
         },
         {
           "id": 35,
-          "value": 0.027595548670926253
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Ananas",
       "slug": "ananas",
-      "ecv": 1.292282106,
-      "footprint": 1.292282106,
+      "ecv": 1.3614345,
+      "footprint": 1.3614345,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.784887627238915
+          "value": 0.368
+        },
+        {
+          "id": 31,
+          "value": 0.0000345
         },
         {
           "id": 33,
-          "value": 0.40369427532200425
+          "value": 0.645
         },
         {
           "id": 34,
-          "value": 0.011573429169881933
+          "value": 0.0254
         },
         {
           "id": 35,
-          "value": 0.09212677426919891
+          "value": 0.323
         }
       ]
     },
     {
       "name": "Banane",
       "slug": "banane",
-      "ecv": 0.8806108929999997,
-      "footprint": 0.8806108929999997,
+      "ecv": 0.908523,
+      "footprint": 0.908523,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.5414110726969145
+          "value": 0.295
+        },
+        {
+          "id": 31,
+          "value": 0.000123
         },
         {
           "id": 33,
-          "value": 0.26905091124465946
+          "value": 0.447
         },
         {
           "id": 34,
-          "value": 0.029727700179135168
+          "value": 0.0284
         },
         {
           "id": 35,
-          "value": 0.0404212088792907
+          "value": 0.138
         }
       ]
     },
     {
       "name": "Avocat",
       "slug": "avocat",
-      "ecv": 1.4804702330000001,
-      "footprint": 1.4804702330000001,
+      "ecv": 1.5525229999999999,
+      "footprint": 1.5525229999999999,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.245661481703931
+          "value": 0.878
+        },
+        {
+          "id": 31,
+          "value": 0.000123
         },
         {
           "id": 33,
-          "value": 0.1925264065004108
+          "value": 0.508
         },
         {
           "id": 34,
-          "value": 0.017918409364132016
+          "value": 0.0284
         },
         {
           "id": 35,
-          "value": 0.024363935431526183
+          "value": 0.138
         }
       ]
     },
     {
       "name": "Carambole",
       "slug": "carambole",
-      "ecv": 0.533048897,
-      "footprint": 0.533048897,
+      "ecv": 0.5535079999999999,
+      "footprint": 0.5535079999999999,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.4510695936352177
+          "value": 0.15
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.06239045780565181
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.010270557419573601
+          "value": 0.0248
         },
         {
           "id": 35,
-          "value": 0.009318288139556933
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Datte",
       "slug": "datte",
-      "ecv": 2.7601109879999997,
-      "footprint": 2.7601109879999997,
+      "ecv": 2.8927609999999997,
+      "footprint": 2.8927609999999997,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 2.406885789206207
+          "value": 2.32
+        },
+        {
+          "id": 31,
+          "value": 0.000161
         },
         {
           "id": 32,
-          "value": 0.1848272926269017
+          "value": 0.346
         },
         {
           "id": 33,
-          "value": 0.1293980331458001
+          "value": 0.199
         },
         {
           "id": 34,
-          "value": 0.038999873021091015
+          "value": 0.0276
         }
       ]
     },
     {
       "name": "Fruit de la passion",
       "slug": "fruitdelapassion",
-      "ecv": 0.89281737,
-      "footprint": 0.89281737,
+      "ecv": 0.937608,
+      "footprint": 0.937608,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.6704029253772589
+          "value": 0.537
+        },
+        {
+          "id": 31,
+          "value": 0.000108
         },
         {
           "id": 33,
-          "value": 0.17070675301295968
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.026211890362449766
+          "value": 0.0219
         },
         {
           "id": 35,
-          "value": 0.025495801247331758
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Grenade",
       "slug": "grenade",
-      "ecv": 0.48557222170000003,
-      "footprint": 0.48557222170000003,
+      "ecv": 0.4985215,
+      "footprint": 0.4985215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.3153061169059525
+          "value": 0.104
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.14233190293683579
+          "value": 0.298
         },
         {
           "id": 34,
-          "value": 0.006676308748808555
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.021257893108403186
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Kaki",
       "slug": "kaki",
-      "ecv": 0.9004313517,
-      "footprint": 0.9004313517,
+      "ecv": 0.9495215,
+      "footprint": 0.9495215,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.6276714194919251
+          "value": 0.498
+        },
+        {
+          "id": 31,
+          "value": 0.0000215
         },
         {
           "id": 33,
-          "value": 0.2363260098786109
+          "value": 0.355
         },
         {
           "id": 34,
-          "value": 0.008707752440716822
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.027726169888747185
+          "value": 0.0806
         }
       ]
     },
     {
       "name": "Noix de coco",
       "slug": "noixdecoco",
-      "ecv": 2.493762422,
-      "footprint": 2.493762422,
+      "ecv": 2.4109410000000002,
+      "footprint": 2.4109410000000002,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 1.809626612518601
+          "value": 1.14
+        },
+        {
+          "id": 31,
+          "value": 0.000441
         },
         {
           "id": 32,
-          "value": 0.25422073154537705
+          "value": 0.376
         },
         {
           "id": 33,
-          "value": 0.28110383195738514
+          "value": 0.523
         },
         {
           "id": 34,
-          "value": 0.07467254520477501
+          "value": 0.0485
         },
         {
           "id": 35,
-          "value": 0.07413870077386148
+          "value": 0.323
         }
       ]
     },
     {
       "name": "Pastèque",
       "slug": "pasteque",
-      "ecv": 0.6414638217000002,
-      "footprint": 0.6414638217000002,
+      "ecv": 0.6805,
+      "footprint": 0.6805,
       "footprintDetail": [
         {
           "id": 30,
-          "value": 0.4709379119589203
+          "value": 0.239
         },
         {
           "id": 33,
-          "value": 0.14620600161122319
+          "value": 0.345
         },
         {
           "id": 34,
-          "value": 0.0058124880835162965
+          "value": 0.0159
         },
         {
           "id": 35,
-          "value": 0.018507420046340317
+          "value": 0.0806
         }
       ]
     }

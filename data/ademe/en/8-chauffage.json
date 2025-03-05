@@ -1,39 +1,46 @@
 {
   "data": [
     {
-      "name": "Gas heating",
+      "name": "Gas heating per m²",
       "slug": "chauffagegaz",
-      "ecv": 2340
+      "ecv": 39,
+      "footprint": 39
     },
     {
-      "name": "Oil heating",
+      "name": "Oil heating per m²",
       "slug": "chauffagefioul",
-      "ecv": 3430.2000000000003
+      "ecv": 57.17,
+      "footprint": 57.17
     },
     {
-      "name": "Electric heating",
+      "name": "Electric heating per m²",
       "slug": "chauffageelectrique",
-      "ecv": 711
+      "ecv": 11.85,
+      "footprint": 11.85
     },
     {
-      "name": "Heating with a heat pump",
+      "name": "Heating with a heat pump per m²",
       "slug": "pompeachaleur",
-      "ecv": 237
+      "ecv": 3.95,
+      "footprint": 3.95
     },
     {
-      "name": "Heating with a pellet stove",
+      "name": "Heating with a pellet stove per m²",
       "slug": "poeleagranule",
-      "ecv": 338.4
+      "ecv": 5.64,
+      "footprint": 5.64
     },
     {
-      "name": "Heating with a wood stove",
+      "name": "Heating with a wood stove per m²",
       "slug": "poeleabois",
-      "ecv": 552
+      "ecv": 9.2,
+      "footprint": 9.2
     },
     {
-      "name": "Heating via a district heating network",
+      "name": "Heating via a district heating network per m²",
       "slug": "reseaudechaleur",
-      "ecv": 1120.2
+      "ecv": 18.67,
+      "footprint": 18.67
     }
   ]
 }
