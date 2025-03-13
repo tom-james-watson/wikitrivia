@@ -34,11 +34,14 @@ interface Props {
 export default function Hearts(props: Props) {
   const { lives } = props;
 
+  const elements: JSX.Element[] = [];
+  for (let counter = 1; counter <= lives; counter++) {
+      elements.push(<Heart have={lives >= counter} />);
+  }
+
   return (
     <div className={styles.hearts}>
-      <Heart have={lives >= 1} />
-      <Heart have={lives >= 2} />
-      <Heart have={lives >= 3} />
+      {elements}
     </div>
   );
 }
