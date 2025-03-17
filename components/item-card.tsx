@@ -20,7 +20,7 @@ export default function ItemCard(props: Props) {
   return (
     <div
       className={styles.front}
-      style={{border: "solid " + categories[item.categoryId - 1].color + " 4px" }}
+      style={{border: "solid " + categories.get(item.categoryId)!.color + " 4px" }}
     >
       <header className={styles.top}>
         <h2 className={styles.label}>{capitalize(item.label)}</h2>

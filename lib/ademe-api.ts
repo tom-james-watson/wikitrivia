@@ -74,22 +74,22 @@ export function getItemFromSlug(slug: string, locale: Locale): Item | undefined 
 const allItems: Item[] = [];
 function getAllItems(locale: Locale): Item[] {
   if (allItems.length === 0) {
-    for (let i = 1; i <= loadCategories().length; i++) {
-      allItems.push(...loadCategory(i, locale));
-    }
+    loadCategories().forEach((_, id) => {
+      allItems.push(...loadCategoryItems(id, locale));
+    });
   }
   return allItems;
 }
 
-let categories: AdemeCategory[] = [];
-export function loadCategories(): AdemeCategory[] {
-  if (categories.length === 0) {
-    categories = ademeCategories.data;
+let categories: Map<number, AdemeCategory> = new Map();
+export function loadCategories(): Map<number, AdemeCategory> {
+  if (categories.size === 0) {
+    ademeCategories.data.forEach(category => categories.set(category.id, category));
   }
   return categories;
 }
 
-export function loadCategory(id: number, locale: Locale): Item[] {
+export function loadCategoryItems(id: number, locale: Locale): Item[] {
   // Hardcoded at the moment, to be seen with ADEME if we don't need to extend their data at some point
   switch (id) {
     case 1:
