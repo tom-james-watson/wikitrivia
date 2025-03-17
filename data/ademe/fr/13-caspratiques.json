@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "name": "A/R Paris - New-York en avion",
+      "slug": "avion-pny",
+      "ecv": 1770,
+      "footprint": 1770
+    },
+    {
+      "name": "A/R Paris - Berlin en tgv",
+      "slug": "tgv-paris-berlin",
+      "ecv": 7.26,
+      "footprint": 7.26
+    },
+    {
+      "name": "A/R Paris - Marseille en tgv",
+      "slug": "tgv-paris-marseille",
+      "ecv": 4.4,
+      "footprint": 4.4
+    },
+    {
+      "name": "A/R Lille - Nîmes en voiture",
+      "slug": "voiture-lille-nimes",
+      "ecv": 410,
+      "footprint": 410
+    },
+    {
+      "name": "Empreinte carbone d'un citoyen français",
+      "slug": "francais",
+      "ecv": 9300,
+      "footprint": 9300
+    },
+    {
+      "name": "Game of Thrones en streaming",
+      "slug": "game-of-thrones",
+      "ecv": 0.0317,
+      "footprint": 0.0317
+    },
+    {
+      "name": "Intégrale de Friends en streaming",
+      "slug": "friends",
+      "ecv": 7.86,
+      "footprint": 7.86
+    },
+    {
+      "name": "Journée au ski",
+      "slug": "ski",
+      "ecv": 48.9,
+      "footprint": 48.9
+    },
+    {
+      "name": "Remplissage de piscine",
+      "slug": "piscine",
+      "ecv": 7.54,
+      "footprint": 7.54
+    },
+    {
+      "name": "Tour de la terre en voiture",
+      "slug": "terre-voiture",
+      "ecv": 8704,
+      "footprint": 8704
+    },
+    {
+      "name": "Marathon des films Harry Potter en streaming",
+      "slug": "harry-potter",
+      "ecv": 0.63,
+      "footprint": 0.63
+    },
+    {
+      "name": "Nuit dans un hôtel",
+      "slug": "hotel",
+      "ecv": 4.3,
+      "footprint": 4.3,
+      "footprintDetail": [
+        {
+          "id": 50,
+          "value": 2.1
+        },
+        {
+          "id": 51,
+          "value": 1.5
+        },
+        {
+          "id": 52,
+          "value": 0.3
+        },
+        {
+          "id": 53,
+          "value": 0.4
+        }
+      ]
+    },
+    {
+      "name": "Nuit au camping",
+      "slug": "camping",
+      "ecv": 1.4,
+      "footprint": 1.4
+    },
+    {
+      "name": "Nuit dans une location saisonnière",
+      "slug": "location",
+      "ecv": 5.2,
+      "footprint": 5.2,
+      "footprintDetail": [
+        {
+          "id": 50,
+          "value": 2
+        },
+        {
+          "id": 51,
+          "value": 2.7
+        },
+        {
+          "id": 53,
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Nuit dans une résidence secondaire",
+      "slug": "residencesecondaire",
+      "ecv": 7,
+      "footprint": 7,
+      "footprintDetail": [
+        {
+          "id": 50,
+          "value": 2.4
+        },
+        {
+          "id": 51,
+          "value": 1.2
+        },
+        {
+          "id": 53,
+          "value": 3.4
+        }
+      ]
+    },
+    {
+      "name": "Objectif citoyen pour 2050",
+      "slug": "2050",
+      "ecv": 2000,
+      "footprint": 2000
+    }
+  ]
+}

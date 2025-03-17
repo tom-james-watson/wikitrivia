@@ -10,6 +10,7 @@ import enElectromenager from "../data/ademe/en/6-electromenager.json";
 import enMobilier from "../data/ademe/en/7-mobilier.json";
 import enChauffage from "../data/ademe/en/8-chauffage.json";
 import enVegetablesAndFruits from "../data/ademe/en/9-fruitsetlegumes.json";
+import enPracticalCases from "../data/ademe/en/13-caspratiques.json";
 import frNumerique from "../data/ademe/fr/1-numerique.json";
 import frAlimentation from "../data/ademe/fr/2-alimentation.json";
 import frBoisson from "../data/ademe/fr/3-boisson.json";
@@ -19,6 +20,7 @@ import frElectromenager from "../data/ademe/fr/6-electromenager.json";
 import frMobilier from "../data/ademe/fr/7-mobilier.json";
 import frChauffage from "../data/ademe/fr/8-chauffage.json";
 import frVegetablesAndFruits from "../data/ademe/fr/9-fruitsetlegumes.json";
+import frPracticalCases from "../data/ademe/fr/13-caspratiques.json";
 import footprintDetailCategories from "../data/ademe/footprintDetailCategories.json";
 import { AdemeCategory, AdemeECV, FootprintDetails } from "../types/AdemeECV";
 import { Locale } from "../types/i18n";
@@ -112,6 +114,8 @@ export function loadCategoryItems(id: number, locale: Locale): Item[] {
       return loadVegetablesAndFruits(locale);
     case 10:
       return []; // TODO Usage numérique needs more work
+    case 13:
+      return loadPracticalCases(locale);
     default:
       return [];
   }
@@ -315,6 +319,25 @@ function loadVegetablesAndFruits(locale: Locale): Item[] {
 //   }
 //   items.push(item);
 // });
+
+const practicalCasesItems: Item[] = [];
+function loadPracticalCases(locale: Locale): Item[] {
+  if (practicalCasesItems.length === 0) {
+    const practicalCases = locale === "fr" ? frPracticalCases : enPracticalCases;
+    practicalCases.data.forEach(element => {
+      const item: Item = {
+        id: element.slug,
+        categoryId: 13,
+        label: element.name,
+        description: "",
+        explanation: "",
+        source: element
+      }
+      practicalCasesItems.push(item);
+    });
+  }
+  return practicalCasesItems;
+}
 
 export function getFootprintDetails(): FootprintDetails {
   return footprintDetailCategories;
