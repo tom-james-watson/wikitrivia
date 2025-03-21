@@ -20,6 +20,11 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
     if (tooClose(candidate, played)) {
       return false;
     }
+    for (const playedItem of played) {
+      if (playedItem.id === candidate.id) {
+        return false;
+      }
+    }
     return true;
   });
 
