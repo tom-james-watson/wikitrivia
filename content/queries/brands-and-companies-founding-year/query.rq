@@ -1,0 +1,18 @@
+SELECT ?item ?itemLabel (MIN(YEAR(?date)) AS ?year) (SAMPLE(?descriptionText) AS ?description) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q431289; # instance of or subclass of "brand"
+    wdt:P571 ?date; # use inception as the date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionText.
+    FILTER(LANG(?descriptionText) = "en")
+  }
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 400
+

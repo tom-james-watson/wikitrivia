@@ -1,0 +1,822 @@
+[
+  {
+    "qid": "Q14116",
+    "title": "MacOS is released",
+    "subtitle": "Operating System",
+    "year": 2001,
+    "fact": "macOS is a proprietary Unix operating system, derived from OPENSTEP for Mach and FreeBSD, which has been marketed and developed by Apple since 2001.",
+    "wikipediaSlug": "MacOS",
+    "image": "MacOS_Tahoe_screenshot.png",
+    "pageViews": 144010
+  },
+  {
+    "qid": "Q48493",
+    "title": "IOS is released",
+    "subtitle": "Operating System",
+    "year": 2007,
+    "fact": "iOS is a mobile operating system created and developed by Apple for its iPhone line of smartphones.",
+    "wikipediaSlug": "IOS",
+    "image": "IOS_wordmark_(2017).svg",
+    "pageViews": 89124
+  },
+  {
+    "qid": "Q11215",
+    "title": "Windows 7 is released",
+    "subtitle": "Operating System",
+    "year": 2009,
+    "fact": "Windows 7 is a major release of the Windows NT operating system developed by Microsoft.",
+    "wikipediaSlug": "Windows_7",
+    "image": "Windows_7_SP1_screenshot.png",
+    "pageViews": 56856
+  },
+  {
+    "qid": "Q19961543",
+    "title": "TempleOS is released",
+    "subtitle": "Operating System",
+    "year": 2013,
+    "fact": "TempleOS is a biblical-themed lightweight operating system (OS) designed to be the Third Temple from the Hebrew Bible.",
+    "wikipediaSlug": "TempleOS",
+    "image": "TempleOS.jpg",
+    "pageViews": 52006
+  },
+  {
+    "qid": "Q85764357",
+    "title": "GrapheneOS is released",
+    "subtitle": "Operating System",
+    "year": 2019,
+    "fact": "GrapheneOS is a free and open-source, privacy- and security-focused, Android-based operating system for Google Pixel and future Motorola devices.",
+    "wikipediaSlug": "GrapheneOS",
+    "image": "GrapheneOS_Home_Screen.png",
+    "pageViews": 46690
+  },
+  {
+    "qid": "Q126392721",
+    "title": "IOS 18 is released",
+    "subtitle": "Operating System",
+    "year": 2024,
+    "fact": "iOS 18 is the eighteenth major release of Apple's iOS operating system for the iPhone.",
+    "wikipediaSlug": "IOS_18",
+    "image": "IOS_18_Home_Screen_iPhone_12.png",
+    "pageViews": 42827
+  },
+  {
+    "qid": "Q2027",
+    "title": "Linux Mint is released",
+    "subtitle": "Operating System",
+    "year": 2006,
+    "fact": "Linux Mint is a community-developed Linux distribution based on Ubuntu.",
+    "wikipediaSlug": "Linux_Mint",
+    "image": "LinuxMint22-Wilma-English.png",
+    "pageViews": 36857
+  },
+  {
+    "qid": "Q48267",
+    "title": "Fedora Linux is released",
+    "subtitle": "Operating System",
+    "year": 2003,
+    "fact": "Fedora Linux is a free and open-source Linux distribution developed by the Fedora Project.",
+    "wikipediaSlug": "Fedora_Linux",
+    "image": "Fedora_43_Workstation.png",
+    "pageViews": 33421
+  },
+  {
+    "qid": "Q34236",
+    "title": "FreeBSD is released",
+    "subtitle": "Operating System",
+    "year": 1993,
+    "fact": "FreeBSD is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD).",
+    "wikipediaSlug": "FreeBSD",
+    "image": "FreeBSD_13.0_boot_loader_autoboot_screenshot.png",
+    "pageViews": 30303
+  },
+  {
+    "qid": "Q107140155",
+    "title": "MacOS Monterey is released",
+    "subtitle": "Operating System",
+    "year": 2021,
+    "fact": "macOS Monterey is the eighteenth major release of macOS, Apple's desktop operating system for Macintosh computers.",
+    "wikipediaSlug": "MacOS_Monterey",
+    "image": "MacOS_Monterey_Desktop.png",
+    "pageViews": 28240
+  },
+  {
+    "qid": "Q112257668",
+    "title": "MacOS Ventura is released",
+    "subtitle": "Operating System",
+    "year": 2022,
+    "fact": "macOS Ventura is the nineteenth major release of macOS, Apple's operating system for Macintosh computers.",
+    "wikipediaSlug": "MacOS_Ventura",
+    "image": "MacOS_Ventura_Desktop.png",
+    "pageViews": 27033
+  },
+  {
+    "qid": "Q96583789",
+    "title": "MacOS Big Sur is released",
+    "subtitle": "Operating System",
+    "year": 2020,
+    "fact": "macOS Big Sur is the seventeenth major release of macOS, Apple's operating system for Macintosh computers.",
+    "wikipediaSlug": "MacOS_Big_Sur",
+    "image": "MacOS_Big_Sur_Desktop.png",
+    "pageViews": 24030
+  },
+  {
+    "qid": "Q8364850",
+    "title": "Kali Linux is released",
+    "subtitle": "Operating System",
+    "year": 2013,
+    "fact": "Kali Linux is a Linux distribution designed for digital forensics and penetration testing.",
+    "wikipediaSlug": "Kali_Linux",
+    "image": "Kali_Linux_2.0_wordmark.svg",
+    "pageViews": 23347
+  },
+  {
+    "qid": "Q64351129",
+    "title": "MacOS Catalina is released",
+    "subtitle": "Operating System",
+    "year": 2019,
+    "fact": "macOS Catalina is the sixteenth major release of macOS, Apple's desktop operating system for Macintosh computers.",
+    "wikipediaSlug": "MacOS_Catalina",
+    "image": "MacOS_Catalina_Desktop.png",
+    "pageViews": 21307
+  },
+  {
+    "qid": "Q58378",
+    "title": "Windows 1.0 is released",
+    "subtitle": "Operating System",
+    "year": 1985,
+    "fact": "Windows 1.0 is the first major release of Microsoft Windows, a family of graphical user shells and operating systems for personal computers developed by Microsoft.",
+    "wikipediaSlug": "Windows_1.0",
+    "image": "Windows1.0.png",
+    "pageViews": 19888
+  },
+  {
+    "qid": "Q2801412",
+    "title": "Tails is released",
+    "subtitle": "Operating System",
+    "year": 2009,
+    "fact": "Tails, or \"The Amnesic Incognito Live System\", is a security-focused Debian based Linux distribution running on a computer, aimed at preserving privacy and anonymity against surveillance.",
+    "wikipediaSlug": "Tails_(operating_system)",
+    "image": "Tails-logo-flat-inverted.svg",
+    "pageViews": 17845
+  },
+  {
+    "qid": "Q2625341",
+    "title": "Zorin OS is released",
+    "subtitle": "Operating System",
+    "year": 2009,
+    "fact": "Zorin OS is a Linux distribution based on Ubuntu which provides both free and paid versions.",
+    "wikipediaSlug": "Zorin_OS",
+    "image": "Zorin-18-Desktop_Installed.png",
+    "pageViews": 17511
+  },
+  {
+    "qid": "Q725779",
+    "title": "Plan 9 is released",
+    "subtitle": "Operating System",
+    "year": 1992,
+    "fact": "Plan 9 from Bell Labs is an operating system designed by the Computing Science Research Center (CSRC) at Bell Labs in the mid-1980s, built on the UNIX concepts first developed there in the late 1960s.",
+    "wikipediaSlug": "Plan_9_from_Bell_Labs",
+    "image": "Spaceglenda.svg",
+    "pageViews": 15771
+  },
+  {
+    "qid": "Q381215",
+    "title": "Mac OS X Snow Leopard is released",
+    "subtitle": "Operating System",
+    "year": 2009,
+    "fact": "Mac OS X Snow Leopard is the seventh major release of macOS, Apple's desktop and server operating system for Macintosh computers.",
+    "wikipediaSlug": "Mac_OS_X_Snow_Leopard",
+    "image": "Snow_Leopard_Desktop.png",
+    "pageViews": 15128
+  },
+  {
+    "qid": "Q64350339",
+    "title": "IPadOS is released",
+    "subtitle": "Operating System",
+    "year": 2019,
+    "fact": "iPadOS is a mobile operating system developed by Apple for its iPad line of tablet computers.",
+    "wikipediaSlug": "IPadOS",
+    "image": "IPadOS_wordmark.svg",
+    "pageViews": 15051
+  },
+  {
+    "qid": "Q17298682",
+    "title": "Android TV is released",
+    "subtitle": "Operating System",
+    "year": 2014,
+    "fact": "Android TV is an operating system that runs on smart TVs and related entertainment devices including soundbars, set-top boxes, and digital media players.",
+    "wikipediaSlug": "Android_TV",
+    "image": "Android_TV_New_Interface_Screenshot.png",
+    "pageViews": 14655
+  },
+  {
+    "qid": "Q890474",
+    "title": "Raspberry Pi OS is released",
+    "subtitle": "Operating System",
+    "year": 2012,
+    "fact": "Raspberry Pi OS is a Unix-like operating system developed for the Raspberry Pi line of single-board computers.",
+    "wikipediaSlug": "Raspberry_Pi_OS",
+    "image": "Raspberry_Pi_OS_13_screenshot.png",
+    "pageViews": 13864
+  },
+  {
+    "qid": "Q14646",
+    "title": "Solaris is released",
+    "subtitle": "Operating System",
+    "year": 1991,
+    "fact": "Oracle Solaris is a proprietary Unix operating system offered by Oracle for SPARC and x86-64 based workstations and servers.",
+    "wikipediaSlug": "Oracle_Solaris",
+    "image": "Oracle_Solaris_11,_running_with_GNOME_3.png",
+    "pageViews": 13494
+  },
+  {
+    "qid": "Q207542",
+    "title": "CentOS is released",
+    "subtitle": "Operating System",
+    "year": 2004,
+    "fact": "CentOS is a discontinued Linux distribution that provided a free and open-source community-supported computing platform, functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL).",
+    "wikipediaSlug": "CentOS",
+    "image": "CentOS_8.5_screenshot.png",
+    "pageViews": 12742
+  },
+  {
+    "qid": "Q54807273",
+    "title": "MacOS Mojave is released",
+    "subtitle": "Operating System",
+    "year": 2018,
+    "fact": "macOS Mojave is the fifteenth major release of macOS, Apple's desktop operating system for Macintosh computers. macOS Mojave was announced at Apple's Worldwide Developers Conference on June 4, 2018, and was released to the public on September 24.",
+    "wikipediaSlug": "MacOS_Mojave",
+    "image": "MacOS_Mojave_screenshot_in_dark_mode.png",
+    "pageViews": 12362
+  },
+  {
+    "qid": "Q62059755",
+    "title": "Android 10 is released",
+    "subtitle": "Operating System",
+    "year": 2019,
+    "fact": "Android 10 is the tenth major release and the 17th version of the Android mobile operating system.",
+    "wikipediaSlug": "Android_10",
+    "image": "Android_10_screenshot.png",
+    "pageViews": 12102
+  },
+  {
+    "qid": "Q30134996",
+    "title": "MacOS High Sierra is released",
+    "subtitle": "Operating System",
+    "year": 2017,
+    "fact": "macOS High Sierra is the fourteenth major release of macOS, Apple's desktop operating system for Macintosh computers. macOS High Sierra was announced at the WWDC 2017 on June 5, 2017 and was released on September 25, 2017.",
+    "wikipediaSlug": "MacOS_High_Sierra",
+    "image": "MacOS_High_Sierra_Desktop.png",
+    "pageViews": 11923
+  },
+  {
+    "qid": "Q17305518",
+    "title": "Android Lollipop is released",
+    "subtitle": "Operating System",
+    "year": 2014,
+    "fact": "Android Lollipop is the fifth major version of the Android mobile operating system developed by Google and the 12th version of Android, spanning versions between 5.0 and 5.1.1.",
+    "wikipediaSlug": "Android_Lollipop",
+    "image": "Android_Lollipop_statue.jpg",
+    "pageViews": 11303
+  },
+  {
+    "qid": "Q222996",
+    "title": "Mac OS X Leopard is released",
+    "subtitle": "Operating System",
+    "year": 2007,
+    "fact": "Mac OS X Leopard is the sixth major release of macOS, Apple's desktop and server operating system for Macintosh computers.",
+    "wikipediaSlug": "Mac_OS_X_Leopard",
+    "image": "Leopard_Desktop.png",
+    "pageViews": 10765
+  },
+  {
+    "qid": "Q215448",
+    "title": "Haiku is released",
+    "subtitle": "Operating System",
+    "year": 2002,
+    "fact": "Haiku, originally OpenBeOS, is a free and open-source operating system for personal computers.",
+    "wikipediaSlug": "Haiku_(operating_system)",
+    "image": "Haiku_R1_Beta_3_desktop_screenshot.png",
+    "pageViews": 10434
+  },
+  {
+    "qid": "Q13426234",
+    "title": "OS X Mavericks is released",
+    "subtitle": "Operating System",
+    "year": 2013,
+    "fact": "OS X Mavericks is the 10th major release of macOS, Apple's desktop and server operating system for Macintosh computers.",
+    "wikipediaSlug": "OS_X_Mavericks",
+    "image": "OS_X_Mavericks_Desktop.png",
+    "pageViews": 10157
+  },
+  {
+    "qid": "Q19310966",
+    "title": "Void Linux is released",
+    "subtitle": "Operating System",
+    "year": 2008,
+    "fact": "Void Linux is an independent Linux distribution that uses the X Binary Package System (XBPS) package manager, which was designed and implemented from scratch, and the runit init system.",
+    "wikipediaSlug": "Void_Linux",
+    "image": "Void_Linux_logo.svg",
+    "pageViews": 10002
+  },
+  {
+    "qid": "Q29000531",
+    "title": "Android Oreo is released",
+    "subtitle": "Operating System",
+    "year": 2017,
+    "fact": "Android Oreo is the eighth major release and the 15th version of the Android mobile operating system.",
+    "wikipediaSlug": "Android_Oreo",
+    "image": "Android_Oreo_8.1_screenshot.png",
+    "pageViews": 9649
+  },
+  {
+    "qid": "Q17318432",
+    "title": "Android Auto is released",
+    "subtitle": "Operating System",
+    "year": 2015,
+    "fact": "Android Auto is a mobile app developed by Google to mirror features of a smartphone on a car's dashboard information and entertainment head unit.",
+    "wikipediaSlug": "Android_Auto",
+    "image": "Android_Auto_Screenshot.png",
+    "pageViews": 9591
+  },
+  {
+    "qid": "Q2595413",
+    "title": "Ubuntu Touch is released",
+    "subtitle": "Operating System",
+    "year": 2013,
+    "fact": "Ubuntu Touch is a mobile version of the Ubuntu operating system, developed by the UBports community.",
+    "wikipediaSlug": "Ubuntu_Touch",
+    "image": "Ubuntu_Touch_applications_list,_24.04-1.0_Beta_2.png",
+    "pageViews": 9539
+  },
+  {
+    "qid": "Q20056454",
+    "title": "OS X El Capitan is released",
+    "subtitle": "Operating System",
+    "year": 2015,
+    "fact": "OS X El Capitan, also known as macOS El Capitan, is the twelfth major release of macOS, Apple's desktop and server operating system for Macintosh.",
+    "wikipediaSlug": "OS_X_El_Capitan",
+    "image": "OS_X_El_Capitan_screenshot.png",
+    "pageViews": 9516
+  },
+  {
+    "qid": "Q22095865",
+    "title": "MacOS Sierra is released",
+    "subtitle": "Operating System",
+    "year": 2016,
+    "fact": "macOS Sierra is the thirteenth major release of macOS, Apple's desktop and server operating system for Macintosh computers.",
+    "wikipediaSlug": "MacOS_Sierra",
+    "image": "MacOS_Sierra_Desktop.png",
+    "pageViews": 9501
+  },
+  {
+    "qid": "Q693478",
+    "title": "Mac OS X Tiger is released",
+    "subtitle": "Operating System",
+    "year": 2005,
+    "fact": "Mac OS X Tiger is the 5th major release of macOS, Apple's desktop and server operating system for Mac computers.",
+    "wikipediaSlug": "Mac_OS_X_Tiger",
+    "image": "TigerDesk.png",
+    "pageViews": 9463
+  },
+  {
+    "qid": "Q17107792",
+    "title": "OS X Yosemite is released",
+    "subtitle": "Operating System",
+    "year": 2014,
+    "fact": "OS X Yosemite is the eleventh major release of macOS, Apple's desktop and server operating system for Macintosh computers.",
+    "wikipediaSlug": "OS_X_Yosemite",
+    "image": "OS_X_Yosemite_Desktop.png",
+    "pageViews": 9438
+  },
+  {
+    "qid": "Q22274379",
+    "title": "Android Nougat is released",
+    "subtitle": "Operating System",
+    "year": 2016,
+    "fact": "Android Nougat is the seventh major version and 14th version of the Android operating system.",
+    "wikipediaSlug": "Android_Nougat",
+    "image": "Android_Nougat_homescreen.jpg",
+    "pageViews": 9331
+  },
+  {
+    "qid": "Q912481",
+    "title": "Mac OS X 10.0 is released",
+    "subtitle": "Operating System",
+    "year": 2001,
+    "fact": "Mac OS X 10.0 is the first major release of macOS, Apple's desktop and server operating system.",
+    "wikipediaSlug": "Mac_OS_X_10.0",
+    "image": "MacOSX10-0screenshot.png",
+    "pageViews": 9314
+  },
+  {
+    "qid": "Q485021",
+    "title": "Windows 2.0 is released",
+    "subtitle": "Operating System",
+    "year": 1987,
+    "fact": "Windows 2.0 is a major release of Microsoft Windows, a family of graphical user shells and operating systems developed by Microsoft.",
+    "wikipediaSlug": "Windows_2.0",
+    "image": "Windows_2.0.png",
+    "pageViews": 8857
+  },
+  {
+    "qid": "Q479882",
+    "title": "OpenVMS is released",
+    "subtitle": "Operating System",
+    "year": 1977,
+    "fact": "OpenVMS, often referred to as just VMS, is a multi-user, multiprocessing and virtual memory-based operating system.",
+    "wikipediaSlug": "OpenVMS",
+    "image": "DECwindows-openvms-v7.3-1.png",
+    "pageViews": 8826
+  },
+  {
+    "qid": "Q63734",
+    "title": "OS X Mountain Lion is released",
+    "subtitle": "Operating System",
+    "year": 2012,
+    "fact": "OS X Mountain Lion is the ninth major release of macOS, Apple's desktop and server operating system for Macintosh computers.",
+    "wikipediaSlug": "OS_X_Mountain_Lion",
+    "image": "OS_X_Mountain_Lion_Screenshot.jpg",
+    "pageViews": 8418
+  },
+  {
+    "qid": "Q15961745",
+    "title": "Wear OS is released",
+    "subtitle": "Operating System",
+    "year": 2014,
+    "fact": "Wear OS is a closed-source Android distribution designed for smartwatches and other wearable computers, developed by Google.",
+    "wikipediaSlug": "Wear_OS",
+    "image": "Wear_OS_icon.svg",
+    "pageViews": 8316
+  },
+  {
+    "qid": "Q269856",
+    "title": "IBM AIX is released",
+    "subtitle": "Operating System",
+    "year": 1986,
+    "fact": "AIX is a series of proprietary Unix operating systems developed and sold by IBM since 1986.",
+    "wikipediaSlug": "IBM_AIX",
+    "image": "IBM_AIX_screenshot.Png",
+    "pageViews": 8168
+  },
+  {
+    "qid": "Q18845397",
+    "title": "Windows 10 Mobile is released",
+    "subtitle": "Operating System",
+    "year": 2015,
+    "fact": "Windows 10 Mobile is a discontinued mobile operating system and is the fourth and final generation of Microsoft's Windows Phone, succeeding Windows Phone 8.1.",
+    "wikipediaSlug": "Windows_10_Mobile",
+    "image": "Windows_10_Mobile_homescreen.png",
+    "pageViews": 8021
+  },
+  {
+    "qid": "Q50364330",
+    "title": "Android Pie is released",
+    "subtitle": "Operating System",
+    "year": 2018,
+    "fact": "Android 9 Pie is the ninth major release and the 16th version of the Android mobile operating system.",
+    "wikipediaSlug": "Android_Pie",
+    "image": "Android_Pie.png",
+    "pageViews": 7866
+  },
+  {
+    "qid": "Q476915",
+    "title": "Mac OS X Lion is released",
+    "subtitle": "Operating System",
+    "year": 2011,
+    "fact": "OS X Lion, also known as Mac OS X Lion, is the eighth major release of macOS, Apple's desktop and server operating system for Mac computers.",
+    "wikipediaSlug": "OS_X_Lion",
+    "image": "Mac_OSX_Lion_screen.png",
+    "pageViews": 7484
+  },
+  {
+    "qid": "Q46094",
+    "title": "Oracle Linux is released",
+    "subtitle": "Operating System",
+    "year": 2006,
+    "fact": "Oracle Linux is a Linux distribution packaged and freely distributed by Oracle, available partially under the GNU General Public License since late 2006.",
+    "wikipediaSlug": "Oracle_Linux",
+    "image": "Oracle_Linux_9_screenshot.png",
+    "pageViews": 7272
+  },
+  {
+    "qid": "Q79534",
+    "title": "ChromiumOS is released",
+    "subtitle": "Operating System",
+    "year": 2009,
+    "fact": "ChromiumOS is a free and open-source Linux distribution designed for running web applications and browsing the World Wide Web.",
+    "wikipediaSlug": "ChromiumOS",
+    "image": "ChromiumOS-desk.png",
+    "pageViews": 6309
+  },
+  {
+    "qid": "Q633192",
+    "title": "UNIX System V is released",
+    "subtitle": "Operating System",
+    "year": 1983,
+    "fact": "UNIX System V is one of the first commercial versions of the Unix operating system.",
+    "wikipediaSlug": "UNIX_System_V",
+    "image": "HP-HP9000-715-100-Workstation_03.jpg",
+    "pageViews": 5929
+  },
+  {
+    "qid": "Q21041344",
+    "title": "OxygenOS is released",
+    "subtitle": "Operating System",
+    "year": 2015,
+    "fact": "OxygenOS is an Android-based operating system (OS) developed by Chinese smartphone manufacturer OnePlus exclusively for their smartphones.",
+    "wikipediaSlug": "OxygenOS",
+    "image": "OxygenOSLogo.svg",
+    "pageViews": 5696
+  },
+  {
+    "qid": "Q747434",
+    "title": "Mac OS X Panther is released",
+    "subtitle": "Operating System",
+    "year": 2003,
+    "fact": "Mac OS X Panther is the fourth major release of macOS, Apple's desktop and server operating system.",
+    "wikipediaSlug": "Mac_OS_X_Panther",
+    "image": "AM_MacOSX_Panther.png",
+    "pageViews": 5476
+  },
+  {
+    "qid": "Q473751",
+    "title": "FreeDOS is released",
+    "subtitle": "Operating System",
+    "year": 1998,
+    "fact": "FreeDOS is a free software operating system for IBM PC compatible computers.",
+    "wikipediaSlug": "FreeDOS",
+    "image": "FreeDOS_1.1_screenshot.png",
+    "pageViews": 5430
+  },
+  {
+    "qid": "Q1186761",
+    "title": "FreeRTOS is released",
+    "subtitle": "Operating System",
+    "year": 2003,
+    "fact": "FreeRTOS is a real-time operating system kernel for embedded devices that has been ported to 40 microcontroller platforms.",
+    "wikipediaSlug": "FreeRTOS",
+    "image": "Logo_freeRTOS.png",
+    "pageViews": 5416
+  },
+  {
+    "qid": "Q72688",
+    "title": "Xubuntu is released",
+    "subtitle": "Operating System",
+    "year": 2006,
+    "fact": "Xubuntu is a Canonical-recognized, community-maintained derivative of the Ubuntu operating system.",
+    "wikipediaSlug": "Xubuntu",
+    "image": "Xubuntu_25.10_default_desktop_-_English.png",
+    "pageViews": 5378
+  },
+  {
+    "qid": "Q2846916",
+    "title": "Android Gingerbread is released",
+    "subtitle": "Operating System",
+    "year": 2010,
+    "fact": "Android 2.3 Gingerbread is the seventh version of the Android mobile operating system developed by Google and released on December 6, 2010.",
+    "wikipediaSlug": "Android_Gingerbread",
+    "image": "Android_screenshot.png",
+    "pageViews": 5009
+  },
+  {
+    "qid": "Q283705",
+    "title": "Z/OS is released",
+    "subtitle": "Operating System",
+    "year": 2001,
+    "fact": "z/OS is a 64-bit operating system for IBM z/Architecture mainframes, introduced by IBM in October 2000.",
+    "wikipediaSlug": "Z/OS",
+    "image": "IBM_System_z10.jpg",
+    "pageViews": 4974
+  },
+  {
+    "qid": "Q847593",
+    "title": "HP-UX is released",
+    "subtitle": "Operating System",
+    "year": 1984,
+    "fact": "HP-UX is a discontinued proprietary implementation of the Unix operating system developed by Hewlett Packard Enterprise, now out of standard support ; the final versions support HPE Integrity Servers, based on Intel's Itanium architecture.",
+    "wikipediaSlug": "HP-UX",
+    "image": "HP-UX_logo_newer.svg",
+    "pageViews": 4959
+  },
+  {
+    "qid": "Q627611",
+    "title": "IRIX is released",
+    "subtitle": "Operating System",
+    "year": 1988,
+    "fact": "IRIX is a discontinued operating system developed by Silicon Graphics (SGI) to run on the company's proprietary MIPS workstations and servers.",
+    "wikipediaSlug": "IRIX",
+    "image": "IRIX_desktop.png",
+    "pageViews": 4769
+  },
+  {
+    "qid": "Q478451",
+    "title": "Mac OS X 10.1 is released",
+    "subtitle": "Operating System",
+    "year": 2001,
+    "fact": "Mac OS X 10.1 is the second major release of macOS, Apple's desktop and server operating system.",
+    "wikipediaSlug": "Mac_OS_X_10.1",
+    "image": "Mac_OS_X_10.1_Puma_screenshot.png",
+    "pageViews": 4734
+  },
+  {
+    "qid": "Q877084",
+    "title": "Android-x86 is released",
+    "subtitle": "Operating System",
+    "year": 2017,
+    "fact": "Android-x86 is an unofficial port of the Android mobile operating system for the Intel x86 platform.",
+    "wikipediaSlug": "Android-x86",
+    "image": "Android-x86.png",
+    "pageViews": 4658
+  },
+  {
+    "qid": "Q858368",
+    "title": "Windows NT 3.51 is released",
+    "subtitle": "Operating System",
+    "year": 1995,
+    "fact": "Windows NT 3.51 is the third major release of the Windows NT operating system, developed by Microsoft for the data server and personal workstation markets.",
+    "wikipediaSlug": "Windows_NT_3.51",
+    "image": "Windows_NT_3.51.png",
+    "pageViews": 4619
+  },
+  {
+    "qid": "Q719621",
+    "title": "MacOS Server is released",
+    "subtitle": "Operating System",
+    "year": 1999,
+    "fact": "Mac OS X Server is a series of discontinued Unix-like server operating systems developed by Apple, based on macOS.",
+    "wikipediaSlug": "Mac_OS_X_Server",
+    "image": "OS_X_Server_Snow_Leopard.png",
+    "pageViews": 4515
+  },
+  {
+    "qid": "Q129145",
+    "title": "Deepin is released",
+    "subtitle": "Operating System",
+    "year": 2016,
+    "fact": "deepin is a Linux distribution, formerly based on Ubuntu and Debian, that features the Deepin Desktop Environment (DDE), a desktop environment built on Qt and available for a variety of distributions.",
+    "wikipediaSlug": "Deepin",
+    "image": "Deepin_23.webp",
+    "pageViews": 4491
+  },
+  {
+    "qid": "Q751067",
+    "title": "DragonFly BSD is released",
+    "subtitle": "Operating System",
+    "year": 2003,
+    "fact": "DragonFly BSD is a free and open-source Unix-like operating system forked from FreeBSD 4.8.",
+    "wikipediaSlug": "DragonFly_BSD",
+    "image": "DragonFly_BSD_6.2.1_boot_loader_screenshot.png",
+    "pageViews": 4321
+  },
+  {
+    "qid": "Q863568",
+    "title": "IBM PC DOS is released",
+    "subtitle": "Operating System",
+    "year": 1981,
+    "fact": "IBM PC DOS, also known as PC DOS or IBM DOS, is a discontinued disk operating system for the IBM Personal Computer, its successors, and IBM PC compatibles.",
+    "wikipediaSlug": "IBM_PC_DOS",
+    "image": "PC_DOS_1.10_screenshot.png",
+    "pageViews": 4137
+  },
+  {
+    "qid": "Q570216",
+    "title": "Mac OS X 10.2 is released",
+    "subtitle": "Operating System",
+    "year": 2002,
+    "fact": "Mac OS X Jaguar is the third major release of macOS, Apple's desktop and server operating system.",
+    "wikipediaSlug": "Mac_OS_X_Jaguar",
+    "image": "Jaguar_on_G4.png",
+    "pageViews": 3912
+  },
+  {
+    "qid": "Q52056988",
+    "title": "KDE neon is released",
+    "subtitle": "Operating System",
+    "year": 2016,
+    "fact": "KDE neon is a Linux distribution developed by KDE based on Ubuntu long-term support (LTS) releases, bundled with a set of additional software repositories containing the latest versions of the Plasma 6 desktop environment/framework, Qt 6 toolkit and other compatible KDE software.",
+    "wikipediaSlug": "KDE_neon",
+    "image": "KDE_neon_6_Breeze_Desktop_English.png",
+    "pageViews": 3872
+  },
+  {
+    "qid": "Q1190822",
+    "title": "GhostBSD is released",
+    "subtitle": "Operating System",
+    "year": 2009,
+    "fact": "GhostBSD is a Unix-like operating system based on FreeBSD for x86-64, with MATE as its default desktop environment and an Xfce-desktop community based edition.",
+    "wikipediaSlug": "GhostBSD",
+    "image": "GhostBSD_18.10_MATE_screenshot.png",
+    "pageViews": 3685
+  },
+  {
+    "qid": "Q15282750",
+    "title": "Windows Phone 8.1 is released",
+    "subtitle": "Operating System",
+    "year": 2014,
+    "fact": "Windows Phone 8.1 is the third generation of Microsoft Mobile's Windows Phone mobile operating system, succeeding Windows Phone 8.",
+    "wikipediaSlug": "Windows_Phone_8.1",
+    "image": "WP8.1_Start_Screen.png",
+    "pageViews": 3496
+  },
+  {
+    "qid": "Q1550345",
+    "title": "86-DOS is released",
+    "subtitle": "Operating System",
+    "year": 1980,
+    "fact": "86-DOS is a discontinued operating system developed and marketed by Seattle Computer Products (SCP) for its Intel 8086-based computer kit.",
+    "wikipediaSlug": "86-DOS",
+    "image": "86-DOS_running_assembler_and_HEX2BIN_(screenshot).png",
+    "pageViews": 3453
+  },
+  {
+    "qid": "Q34825",
+    "title": "Windows Phone 8 is released",
+    "subtitle": "Operating System",
+    "year": 2012,
+    "fact": "Windows Phone 8 is the second generation of the Windows Phone mobile operating system from Microsoft, released on October 29, 2012.",
+    "wikipediaSlug": "Windows_Phone_8",
+    "image": "Windows_Phone_8_StartScreen.png",
+    "pageViews": 3321
+  },
+  {
+    "qid": "Q646795",
+    "title": "MorphOS is released",
+    "subtitle": "Operating System",
+    "year": 2000,
+    "fact": "MorphOS is an AmigaOS-like operating system designed for Power and PowerPC based computers.",
+    "wikipediaSlug": "MorphOS",
+    "image": "MorphOS_3.18_screenshot.jpg",
+    "pageViews": 2858
+  },
+  {
+    "qid": "Q228413",
+    "title": "386BSD is released",
+    "subtitle": "Operating System",
+    "year": 1992,
+    "fact": "386BSD is a Unix-like operating system that was developed by couple Lynne and William \"Bill\" Jolitz.",
+    "wikipediaSlug": "386BSD",
+    "image": "386BSD_logo.png",
+    "pageViews": 2678
+  },
+  {
+    "qid": "Q319307",
+    "title": "BackTrack is released",
+    "subtitle": "Operating System",
+    "year": 2006,
+    "fact": "BackTrack was a Linux distribution that focused on security, based on the Knoppix Linux distribution aimed at digital forensics and penetration testing use.",
+    "wikipediaSlug": "BackTrack",
+    "image": "BackTrack_5_R1.png",
+    "pageViews": 2440
+  },
+  {
+    "qid": "Q726395",
+    "title": "SkyOS is released",
+    "subtitle": "Operating System",
+    "year": 1997,
+    "fact": "SkyOS is a discontinued prototype commercial, proprietary, graphical desktop operating system written for the x86 computer architecture.",
+    "wikipediaSlug": "SkyOS",
+    "image": "SkyOS_Logo.svg",
+    "pageViews": 2381
+  },
+  {
+    "qid": "Q214390",
+    "title": "Ubuntu Studio is released",
+    "subtitle": "Operating System",
+    "year": 2007,
+    "fact": "Ubuntu Studio is a recognized flavor of the Ubuntu Linux distribution, which is geared to general multimedia production.",
+    "wikipediaSlug": "Ubuntu_Studio",
+    "image": "Ubuntu_Studio_24.04_Noble_Numbat_Desktop_English.png",
+    "pageViews": 2318
+  },
+  {
+    "qid": "Q34182",
+    "title": "TrueOS is released",
+    "subtitle": "Operating System",
+    "year": 2006,
+    "fact": "TrueOS is a discontinued Unix-like, server-oriented operating system built upon the most recent releases of FreeBSD-CURRENT.",
+    "wikipediaSlug": "TrueOS",
+    "image": "Lumina1.0.0-TrueOS.png",
+    "pageViews": 2199
+  },
+  {
+    "qid": "Q841291",
+    "title": "Google TV is released",
+    "subtitle": "Operating System",
+    "year": 2010,
+    "fact": "Google TV was a smart TV operating system from Google co-developed by Intel, Sony and Logitech.",
+    "wikipediaSlug": "Google_TV_(2010%E2%80%932014)",
+    "image": "Google_tv_logo_(2010-2014).svg",
+    "pageViews": 2165
+  },
+  {
+    "qid": "Q13422835",
+    "title": "Antergos is released",
+    "subtitle": "Operating System",
+    "year": 2013,
+    "fact": "Antergos is a discontinued Linux distribution based on Arch Linux.",
+    "wikipediaSlug": "Antergos",
+    "image": "Antergos_19.4_with_GNOME_3.32.0_screenshot.png",
+    "pageViews": 1552
+  }
+]

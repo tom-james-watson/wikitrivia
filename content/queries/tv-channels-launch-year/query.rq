@@ -1,0 +1,24 @@
+SELECT ?item ?itemLabel (MIN(YEAR(?date)) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q2001305; # instance of or subclass of television channel
+    wdt:P571 ?date; # use inception as the launch date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 30) # keep the channel set tighter and more recognisable
+
+  FILTER NOT EXISTS {
+    ?item wdt:P31 ?excludedClass.
+    VALUES ?excludedClass {
+      wd:Q59152282 # video streaming service
+      wd:Q829548 # over-the-top media service
+      wd:Q723685 # video on demand
+      wd:Q1668024 # service on Internet
+      wd:Q841645 # Internet television
+    }
+  } # exclude streaming products that leak into the channel class
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 400

@@ -1,0 +1,24 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?locationName) AS ?locationLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q483110; # instance of or subclass of "stadium"
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL { ?item wdt:P1619 ?openingDate. } # official opening date, if present
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. } # fallback date if there is no better one
+  BIND(COALESCE(?openingDate, ?inceptionDate) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  OPTIONAL {
+    ?item wdt:P131 ?location.
+    ?location rdfs:label ?locationName.
+    FILTER(LANG(?locationName) = "en")
+  }
+  FILTER(?sitelinks >= 10) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+  FILTER(?yearValue >= 1800)
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000
+
+

@@ -1,0 +1,30 @@
+SELECT DISTINCT ?item ?itemLabel ?positionLabel ?sexLabel ?year ?sitelinks WHERE {
+  VALUES ?position { wd:Q3240735 }
+  ?item
+    wdt:P31 wd:Q5; # instance of "human"
+    p:P39 ?statement; # grab the full position statement so we can read its start date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  ?statement
+    ps:P39 ?position; # the position named on that statement
+    pq:P580 ?date. # start date for that term
+  FILTER NOT EXISTS {
+    ?item p:P39 ?earlierStatement.
+    ?earlierStatement
+      ps:P39 ?position;
+      pq:P580 ?earlierDate.
+    FILTER(?earlierDate < ?date)
+  }
+  ?position rdfs:label ?positionLabel.
+  OPTIONAL {
+    ?item wdt:P21 ?sex. # use sex or gender for gender-aware leader titles when available
+    ?sex rdfs:label ?sexLabel.
+    FILTER(LANG(?sexLabel) = "en")
+  }
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(LANG(?positionLabel) = "en")
+  FILTER(?sitelinks >= 5) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
+}
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 80

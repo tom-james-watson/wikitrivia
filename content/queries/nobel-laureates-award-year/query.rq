@@ -1,0 +1,27 @@
+SELECT ?item ?itemLabel ?award ?awardLabel ?year (SAMPLE(?awardRationaleEn) AS ?awardRationale) (SAMPLE(?forWorkName) AS ?forWorkLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31 wd:Q5; # instance of "human"
+    p:P166 ?awardStatement; # grab the full award statement so we can read the year and qualifiers
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  ?awardStatement
+    ps:P166 ?award; # the award on that statement
+    pq:P585 ?date. # the year attached to that award statement
+  ?award wdt:P361 wd:Q7191. # only keep awards that belong to "Nobel Prize"
+  ?award rdfs:label ?awardLabel.
+  FILTER(LANG(?awardLabel) = "en")
+  OPTIONAL {
+    ?awardStatement pq:P6208 ?awardRationaleEn.
+    FILTER(LANG(?awardRationaleEn) = "en" || LANG(?awardRationaleEn) = "")
+  }
+  OPTIONAL {
+    ?awardStatement pq:P1686 ?forWork.
+    ?forWork rdfs:label ?forWorkName.
+    FILTER(LANG(?forWorkName) = "en")
+  }
+  BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?award ?awardLabel ?year ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

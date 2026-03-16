@@ -1,0 +1,20 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?manufacturerName) AS ?manufacturerLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q3231690; # instance of or subclass of "automobile model"
+    wdt:P571 ?date; # use inception as the date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item wdt:P176 ?manufacturer.
+    ?manufacturer rdfs:label ?manufacturerName.
+    FILTER(LANG(?manufacturerName) = "en")
+  }
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

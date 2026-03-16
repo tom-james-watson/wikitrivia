@@ -1,0 +1,38 @@
+SELECT
+  ?item
+  ?itemLabel
+  (SAMPLE(?descriptionValue) AS ?description)
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?countryLabelValue) AS ?countryLabel)
+  ?sitelinks WHERE {
+  VALUES ?class {
+    wd:Q12280 # bridge
+    wd:Q12518 # tower
+    wd:Q11303 # skyscraper
+    wd:Q39715 # lighthouse
+  }
+  ?item
+    wdt:P31 ?class;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionValue.
+    FILTER(LANG(?descriptionValue) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P17 ?country.
+    ?country rdfs:label ?countryLabelValue.
+    FILTER(LANG(?countryLabelValue) = "en")
+  }
+  OPTIONAL { ?item wdt:P1619 ?completedDate. }
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. }
+  BIND(COALESCE(?completedDate, ?inceptionDate) AS ?date)
+  FILTER(BOUND(?date))
+  BIND(YEAR(?date) AS ?yearValue)
+  FILTER(?sitelinks >= 10)
+  FILTER(?yearValue >= 0)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 1000

@@ -1,5 +1,4 @@
-import React from "react";
-import styles from "../styles/score.module.scss";
+import * as styles from "../styles/score.css";
 
 interface Props {
   score: number;
@@ -8,21 +7,31 @@ interface Props {
 
 export default function Score(props: Props) {
   const { score, title } = props;
-
-  let backgroundColor = "#ffffff";
+  let tone = "none";
+  let rankLabel = "None";
 
   if (score >= 20) {
-    backgroundColor = "#FFC940";
+    tone = "gold";
+    rankLabel = "Gold";
   } else if (score >= 10) {
-    backgroundColor = "#A7B6C2";
+    tone = "silver";
+    rankLabel = "Silver";
   } else if (score >= 1) {
-    backgroundColor = "#C99765";
+    tone = "bronze";
+    rankLabel = "Bronze";
   }
 
   return (
-    <div className={styles.score} style={{ backgroundColor }}>
-      <div className={styles.title}>{title}</div>
-      <div className={styles.value}>{score}</div>
+    <div className={styles.score} data-tone={tone}>
+      <span className={styles.segment}>{title}</span>
+      <span aria-hidden="true" className={styles.separator}>
+        /
+      </span>
+      <span className={styles.segment}>{score}</span>
+      <span aria-hidden="true" className={styles.separator}>
+        /
+      </span>
+      <span className={styles.segment}>{rankLabel}</span>
     </div>
   );
 }

@@ -1,0 +1,33 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?composerLabel) AS ?composerLabel) (SAMPLE(?lyricistLabel) AS ?lyricistLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31 wd:Q23691;
+    wikibase:sitelinks ?sitelinks.
+
+  OPTIONAL {
+    ?item wdt:P577 ?publicationDate.
+  }
+  OPTIONAL {
+    ?item wdt:P571 ?inceptionDate.
+  }
+  OPTIONAL {
+    ?item wdt:P86 ?composer.
+    ?composer rdfs:label ?composerLabel.
+    FILTER(LANG(?composerLabel) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P676 ?lyricist.
+    ?lyricist rdfs:label ?lyricistLabel.
+    FILTER(LANG(?lyricistLabel) = "en")
+  }
+
+  BIND(COALESCE(?publicationDate, ?inceptionDate) AS ?date)
+  FILTER(BOUND(?date))
+  FILTER(YEAR(?date) <= 1950)
+  FILTER(?sitelinks >= 10)
+  BIND(YEAR(?date) AS ?yearValue)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 250

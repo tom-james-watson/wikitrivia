@@ -1,0 +1,16 @@
+SELECT ?item ?itemLabel (MAX(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q3024240; # instance of or subclass of "historical country"
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  { ?item wdt:P576 ?date. }
+  UNION # second way into the result set
+  { ?item wdt:P582 ?date. }
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

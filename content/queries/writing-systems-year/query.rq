@@ -1,0 +1,18 @@
+SELECT ?item ?itemLabel (MIN(YEAR(?date)) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q8192; # instance of or subclass of "writing system"
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+
+  OPTIONAL { ?item wdt:P575 ?datedAt. }
+  OPTIONAL { ?item wdt:P571 ?inception. } # last-resort fallback date
+
+  BIND(COALESCE(?datedAt, ?inception) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+
+

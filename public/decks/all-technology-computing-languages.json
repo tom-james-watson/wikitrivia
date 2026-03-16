@@ -1,0 +1,542 @@
+[
+  {
+    "qid": "Q28865",
+    "title": "Python is created",
+    "subtitle": "Programming or computer language",
+    "year": 1991,
+    "fact": "Python is a high-level, general-purpose programming language.",
+    "wikipediaSlug": "Python_(programming_language)",
+    "image": "Python-logo-notext.svg",
+    "pageViews": 348902
+  },
+  {
+    "qid": "Q251",
+    "title": "Java is created",
+    "subtitle": "Programming or computer language",
+    "year": 1995,
+    "fact": "Java is a high-level, general-purpose, memory-safe, object-oriented programming language.",
+    "wikipediaSlug": "Java_(programming_language)",
+    "image": "Java_programming_language_logo.svg",
+    "pageViews": 308529
+  },
+  {
+    "qid": "Q275131",
+    "title": "Scratch is created",
+    "subtitle": "Programming or computer language",
+    "year": 2003,
+    "fact": "Scratch is a high-level, block-based visual programming language and website aimed primarily at children as an educational tool, with a target audience of ages 5 to 16.",
+    "wikipediaSlug": "Scratch_(programming_language)",
+    "image": "Scratch_editor_screenshot.png",
+    "pageViews": 102056
+  },
+  {
+    "qid": "Q206904",
+    "title": "R is created",
+    "subtitle": "Programming or computer language",
+    "year": 1993,
+    "fact": "R is a programming language for statistical computing and data visualization.",
+    "wikipediaSlug": "R_(programming_language)",
+    "image": "R_logo.svg",
+    "pageViews": 83008
+  },
+  {
+    "qid": "Q37227",
+    "title": "Go is created",
+    "subtitle": "Programming or computer language",
+    "year": 2009,
+    "fact": "Go is a high-level, general-purpose programming language that is statically typed and compiled.",
+    "wikipediaSlug": "Go_(programming_language)",
+    "image": "Go_Logo_Blue.svg",
+    "pageViews": 73776
+  },
+  {
+    "qid": "Q165436",
+    "title": "Assembly language is created",
+    "subtitle": "Programming or computer language",
+    "year": 1949,
+    "fact": "In computing, assembly language, often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.",
+    "wikipediaSlug": "Assembly_language",
+    "image": "Motorola_6800_Assembly_Language.png",
+    "pageViews": 43613
+  },
+  {
+    "qid": "Q59",
+    "title": "PHP is created",
+    "subtitle": "Programming or computer language",
+    "year": 1995,
+    "fact": "PHP is a general-purpose scripting language geared towards web development.",
+    "wikipediaSlug": "PHP",
+    "image": "PHP-logo.svg",
+    "pageViews": 40337
+  },
+  {
+    "qid": "Q978185",
+    "title": "TypeScript is created",
+    "subtitle": "Programming or computer language",
+    "year": 2012,
+    "fact": "TypeScript (TS) is a high-level programming language that adds static typing with optional type annotations to JavaScript.",
+    "wikipediaSlug": "TypeScript",
+    "image": "Typescript.svg",
+    "pageViews": 39967
+  },
+  {
+    "qid": "Q2115",
+    "title": "XML is created",
+    "subtitle": "Programming or computer language",
+    "year": 1998,
+    "fact": "Extensible Markup Language (XML) is a markup language and file format for storing, transmitting, and reconstructing data.",
+    "wikipediaSlug": "XML",
+    "image": "Extensible_Markup_Language_(XML)_logo.svg",
+    "pageViews": 39253
+  },
+  {
+    "qid": "Q46441",
+    "title": "Cascading Style Sheets is created",
+    "subtitle": "Programming or computer language",
+    "year": 1996,
+    "fact": "Cascading Style Sheets (CSS) is a style sheet language used for specifying the presentation and styling of a document written in a markup language, such as HTML or XML.",
+    "wikipediaSlug": "CSS",
+    "image": "Official_CSS_Logo.svg",
+    "pageViews": 37339
+  },
+  {
+    "qid": "Q83303",
+    "title": "Fortran is created",
+    "subtitle": "Programming or computer language",
+    "year": 1957,
+    "fact": "Fortran is a third-generation, compiled, imperative programming language designed for numeric computation and scientific computing.",
+    "wikipediaSlug": "Fortran",
+    "image": "Fortran_logo.svg",
+    "pageViews": 30344
+  },
+  {
+    "qid": "Q244627",
+    "title": "Brainfuck is created",
+    "subtitle": "Programming or computer language",
+    "year": 1993,
+    "fact": "Brainfuck is an esoteric programming language created in 1993 by Swiss student Urban Müller.",
+    "wikipediaSlug": "Brainfuck",
+    "image": "BrainfuckHelloWorld.png",
+    "pageViews": 28672
+  },
+  {
+    "qid": "Q169478",
+    "title": "MATLAB is created",
+    "subtitle": "Programming or computer language",
+    "year": 1984,
+    "fact": "MATLAB is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks.",
+    "wikipediaSlug": "MATLAB",
+    "image": "Matlab_Logo.png",
+    "pageViews": 23034
+  },
+  {
+    "qid": "Q5362035",
+    "title": "Elixir is created",
+    "subtitle": "Programming or computer language",
+    "year": 2011,
+    "fact": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+    "wikipediaSlug": "Elixir_(programming_language)",
+    "image": "Elixir_programming_language_logo.svg",
+    "pageViews": 22577
+  },
+  {
+    "qid": "Q207316",
+    "title": "Lua is created",
+    "subtitle": "Programming or computer language",
+    "year": 1993,
+    "fact": "Lua is a lightweight, high-level, multi-paradigm programming language designed mainly for embedded use in applications.",
+    "wikipediaSlug": "Lua",
+    "image": "Lua-Logo.svg",
+    "pageViews": 20130
+  },
+  {
+    "qid": "Q51885456",
+    "title": "Zig is created",
+    "subtitle": "Programming or computer language",
+    "year": 2015,
+    "fact": "Zig is a system programming language designed to be a general-purpose improvement to the C programming language.",
+    "wikipediaSlug": "Zig_(programming_language)",
+    "image": "Zig_logo_2020.svg",
+    "pageViews": 18038
+  },
+  {
+    "qid": "Q2613697",
+    "title": "Julia is created",
+    "subtitle": "Programming or computer language",
+    "year": 2009,
+    "fact": "Julia is a dynamic general-purpose programming language.",
+    "wikipediaSlug": "Julia_(programming_language)",
+    "image": "Julia_Programming_Language_Logo.svg",
+    "pageViews": 17528
+  },
+  {
+    "qid": "Q20155677",
+    "title": "WebAssembly is created",
+    "subtitle": "Programming or computer language",
+    "year": 2015,
+    "fact": "WebAssembly (Wasm) defines a portable binary code format and a corresponding text format for executable programs and software interfaces for facilitating communication between such programs and their host environment.",
+    "wikipediaSlug": "WebAssembly",
+    "image": "WebAssembly_Logo.svg",
+    "pageViews": 16299
+  },
+  {
+    "qid": "Q5301",
+    "title": "TeX is created",
+    "subtitle": "Programming or computer language",
+    "year": 1978,
+    "fact": "TeX, stylized as TeX, is a typesetting program that was designed and written by computer scientist and Stanford University professor Donald Knuth and first released in 1978.",
+    "wikipediaSlug": "TeX",
+    "image": "TeX_logo.svg",
+    "pageViews": 15652
+  },
+  {
+    "qid": "Q648619",
+    "title": "F# is created",
+    "subtitle": "Programming or computer language",
+    "year": 2005,
+    "fact": "F# is a general-purpose, high-level, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods.",
+    "wikipediaSlug": "F_Sharp_(programming_language)",
+    "image": "F_Sharp_logo.svg",
+    "pageViews": 15573
+  },
+  {
+    "qid": "Q235086",
+    "title": "Smalltalk is created",
+    "subtitle": "Programming or computer language",
+    "year": 1972,
+    "fact": "Smalltalk is a purely object-oriented programming language that was originally created in the 1970s for educational use, specifically for constructionist learning, but later found use in business.",
+    "wikipediaSlug": "Smalltalk",
+    "image": "Smalltalk_Balloon.svg",
+    "pageViews": 14338
+  },
+  {
+    "qid": "Q460584",
+    "title": "Scala is created",
+    "subtitle": "Programming or computer language",
+    "year": 2004,
+    "fact": "Scala is a strongly statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming.",
+    "wikipediaSlug": "Scala_(programming_language)",
+    "image": "Scala-full-color.svg",
+    "pageViews": 13321
+  },
+  {
+    "qid": "Q134471",
+    "title": "AJAX is created",
+    "subtitle": "Programming or computer language",
+    "year": 2005,
+    "fact": "The Asynchronous JavaScript and XML, usually referred as Ajax is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications.",
+    "wikipediaSlug": "Ajax_(programming)",
+    "image": "AJAX_logo_by_gengns.svg",
+    "pageViews": 11820
+  },
+  {
+    "qid": "Q50077",
+    "title": "Visual Basic is created",
+    "subtitle": "Programming or computer language",
+    "year": 2001,
+    "fact": "Visual Basic (VB), originally called Visual Basic.NET (VB.NET), is a multi-paradigm, object-oriented programming language developed by Microsoft and implemented on.NET, Mono, and the.NET Framework.",
+    "wikipediaSlug": "Visual_Basic_(.NET)",
+    "image": "VB.NET_Logo.svg",
+    "pageViews": 11302
+  },
+  {
+    "qid": "Q296187",
+    "title": "APL is created",
+    "subtitle": "Programming or computer language",
+    "year": 1966,
+    "fact": "APL is a programming language developed in the 1960s by Kenneth E.",
+    "wikipediaSlug": "APL_(programming_language)",
+    "image": "APL_(programming_language)_logo.svg",
+    "pageViews": 11220
+  },
+  {
+    "qid": "Q375913",
+    "title": "WebGL is created",
+    "subtitle": "Programming or computer language",
+    "year": 2011,
+    "fact": "WebGL is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins.",
+    "wikipediaSlug": "WebGL",
+    "image": "WebGL_Logo.svg",
+    "pageViews": 10314
+  },
+  {
+    "qid": "Q201436",
+    "title": "Logo is created",
+    "subtitle": "Programming or computer language",
+    "year": 1967,
+    "fact": "Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert, and Cynthia Solomon.",
+    "wikipediaSlug": "Logo_(programming_language)",
+    "image": "KochTurtleAnim.gif",
+    "pageViews": 10011
+  },
+  {
+    "qid": "Q681360",
+    "title": "OpenCL is created",
+    "subtitle": "Programming or computer language",
+    "year": 2009,
+    "fact": "OpenCL is a framework for writing programs that execute across heterogeneous platforms consisting of central processing units (CPUs), graphics processing units (GPUs), digital signal processors (DSPs), field-programmable gate arrays (FPGAs) and other processors or hardware accelerators.",
+    "wikipediaSlug": "OpenCL",
+    "image": "OpenCL_logo.svg",
+    "pageViews": 9615
+  },
+  {
+    "qid": "Q2378",
+    "title": "Visual Basic is created",
+    "subtitle": "Programming or computer language",
+    "year": 1991,
+    "fact": "Visual Basic (VB), sometimes referred to as Classic Visual Basic, is a third-generation programming language based on BASIC, as well as an associated integrated development environment (IDE).",
+    "wikipediaSlug": "Visual_Basic_(classic)",
+    "image": "Visual_Basic_6.0_logo.png",
+    "pageViews": 9043
+  },
+  {
+    "qid": "Q51798",
+    "title": "Clojure is created",
+    "subtitle": "Programming or computer language",
+    "year": 2007,
+    "fact": "Clojure is a dynamic and functional dialect of the programming language Lisp on the Java platform.",
+    "wikipediaSlug": "Clojure",
+    "image": "Clojure_logo.svg",
+    "pageViews": 8777
+  },
+  {
+    "qid": "Q319268",
+    "title": "D is created",
+    "subtitle": "Programming or computer language",
+    "year": 2001,
+    "fact": "D, also known as dlang, is a multi-paradigm system programming language created by Walter Bright at Digital Mars and released in 2001.",
+    "wikipediaSlug": "D_(programming_language)",
+    "image": "D_Programming_Language_logo.svg",
+    "pageViews": 8571
+  },
+  {
+    "qid": "Q5288",
+    "title": "Tcl is created",
+    "subtitle": "Programming or computer language",
+    "year": 1988,
+    "fact": "Tcl is a high-level, general-purpose, interpreted, dynamic programming language.",
+    "wikipediaSlug": "Tcl_(programming_language)",
+    "image": "Tcl9_logo.png",
+    "pageViews": 8191
+  },
+  {
+    "qid": "Q849146",
+    "title": "Common Lisp is created",
+    "subtitle": "Programming or computer language",
+    "year": 1984,
+    "fact": "Common Lisp (CL) is a dialect of the Lisp programming language, published in American National Standards Institute (ANSI) standard document ANSI INCITS 226-1994 (S2018).",
+    "wikipediaSlug": "Common_Lisp",
+    "image": "Lisp_logo.svg",
+    "pageViews": 7829
+  },
+  {
+    "qid": "Q753868",
+    "title": "Visual FoxPro is created",
+    "subtitle": "Programming or computer language",
+    "year": 1984,
+    "fact": "Visual FoxPro is a programming language that was developed by Microsoft.",
+    "wikipediaSlug": "Visual_FoxPro",
+    "image": "VisualFoxProScreenshot.png",
+    "pageViews": 7514
+  },
+  {
+    "qid": "Q188436",
+    "title": "ALGOL is created",
+    "subtitle": "Programming or computer language",
+    "year": 1959,
+    "fact": "ALGOL is a family of imperative computer programming languages originally developed in 1958.",
+    "wikipediaSlug": "ALGOL",
+    "image": "1965_ALGOL-20_A_Language_Manual,_Fierst_et_al_-_cover.jpg",
+    "pageViews": 7220
+  },
+  {
+    "qid": "Q54871",
+    "title": "SPARQL is created",
+    "subtitle": "Programming or computer language",
+    "year": 2008,
+    "fact": "SPARQL is an RDF query language—that is, a semantic query language for databases—able to retrieve and manipulate data stored in Resource Description Framework (RDF) format.",
+    "wikipediaSlug": "SPARQL",
+    "image": "Screenshot_Wikidata_Query_Service_October_2021.png",
+    "pageViews": 7042
+  },
+  {
+    "qid": "Q725401",
+    "title": "VisiCalc is created",
+    "subtitle": "Programming or computer language",
+    "year": 1978,
+    "fact": "VisiCalc is the first spreadsheet computer program for personal computers, originally released for the Apple II by VisiCorp on October 17, 1979.",
+    "wikipediaSlug": "VisiCalc",
+    "image": "Visicalc.png",
+    "pageViews": 6840
+  },
+  {
+    "qid": "Q844595",
+    "title": "Bourne shell is created",
+    "subtitle": "Programming or computer language",
+    "year": 1977,
+    "fact": "The Bourne shell (sh) is a shell command-line interpreter for computer operating systems.",
+    "wikipediaSlug": "Bourne_shell",
+    "image": "Version_7_UNIX_SIMH_PDP11_Kernels_Shell.png",
+    "pageViews": 6663
+  },
+  {
+    "qid": "Q81294",
+    "title": "Mathematica is created",
+    "subtitle": "Programming or computer language",
+    "year": 1988,
+    "fact": "Wolfram Mathematica is a software system with built-in libraries for several areas of technical computing that allows machine learning, statistics, symbolic computation, data manipulation, network analysis, time series analysis, NLP, optimization, plotting functions and various types of data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other programming languages.",
+    "wikipediaSlug": "Wolfram_Mathematica",
+    "image": "Mathematica_Logo.svg",
+    "pageViews": 6327
+  },
+  {
+    "qid": "Q504453",
+    "title": "Apache Groovy is created",
+    "subtitle": "Programming or computer language",
+    "year": 2003,
+    "fact": "Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform.",
+    "wikipediaSlug": "Apache_Groovy",
+    "image": "Groovy-logo.svg",
+    "pageViews": 5976
+  },
+  {
+    "qid": "Q223679",
+    "title": "GNU Octave is created",
+    "subtitle": "Programming or computer language",
+    "year": 1988,
+    "fact": "GNU Octave is a scientific programming language for scientific computing and numerical computation.",
+    "wikipediaSlug": "GNU_Octave",
+    "image": "GNUOctave430.png",
+    "pageViews": 5706
+  },
+  {
+    "qid": "Q234657",
+    "title": "ActionScript is created",
+    "subtitle": "Programming or computer language",
+    "year": 1998,
+    "fact": "ActionScript is an object-oriented programming language originally developed by Macromedia Inc..",
+    "wikipediaSlug": "ActionScript",
+    "image": "ActionScript_icon.png",
+    "pageViews": 5582
+  },
+  {
+    "qid": "Q381247",
+    "title": "QBasic is created",
+    "subtitle": "Programming or computer language",
+    "year": 1991,
+    "fact": "QBasic is an integrated development environment (IDE) and interpreter for a variety of dialects of BASIC which are based on the QuickBASIC compiler and the QuickBASIC Interpreter.",
+    "wikipediaSlug": "QBasic",
+    "image": "QBasic_Opening_Screen.png",
+    "pageViews": 5467
+  },
+  {
+    "qid": "Q212569",
+    "title": "Simula is created",
+    "subtitle": "Programming or computer language",
+    "year": 1962,
+    "fact": "Simula is the name of two simulation programming languages, Simula I and Simula 67, developed in the 1960s at the Norwegian Computing Center in Oslo, by Ole-Johan Dahl and Kristen Nygaard.",
+    "wikipediaSlug": "Simula",
+    "image": "Simula_-_logo.svg",
+    "pageViews": 4735
+  },
+  {
+    "qid": "Q1138939",
+    "title": "Vala is created",
+    "subtitle": "Programming or computer language",
+    "year": 2006,
+    "fact": "Vala is an object-oriented programming language with a self-hosting compiler that generates an intermediate representation in C source code and uses the GObject system.",
+    "wikipediaSlug": "Vala_(programming_language)",
+    "image": "Vala_Logo_New.svg",
+    "pageViews": 4640
+  },
+  {
+    "qid": "Q139380",
+    "title": "Maple is created",
+    "subtitle": "Programming or computer language",
+    "year": 1982,
+    "fact": "Maple is a symbolic and numeric computing environment as well as a multi-paradigm programming language.",
+    "wikipediaSlug": "Maple_(software)",
+    "image": "Maple_2015_logo.svg",
+    "pageViews": 3785
+  },
+  {
+    "qid": "Q1054365",
+    "title": "INTERCAL is created",
+    "subtitle": "Programming or computer language",
+    "year": 1972,
+    "fact": "The Compiler Language With No Pronounceable Acronym (INTERCAL) is an esoteric programming language that was created as a parody by Don Woods and James M.",
+    "wikipediaSlug": "INTERCAL",
+    "image": "Don_Woods.jpg",
+    "pageViews": 3582
+  },
+  {
+    "qid": "Q1133580",
+    "title": "Mathcad is created",
+    "subtitle": "Programming or computer language",
+    "year": 1986,
+    "fact": "Mathcad is computer software for the verification, validation, documentation and re-use of mathematical calculations in engineering and science, notably mechanical, chemical, electrical, and civil engineering.",
+    "wikipediaSlug": "Mathcad",
+    "image": "Top_right_Prime_screengrab.png",
+    "pageViews": 3339
+  },
+  {
+    "qid": "Q685820",
+    "title": "REXX is created",
+    "subtitle": "Programming or computer language",
+    "year": 1979,
+    "fact": "Rexx is a high-level programming language developed at IBM by Mike Cowlishaw.",
+    "wikipediaSlug": "Rexx",
+    "image": "Rexx-img-lg.png",
+    "pageViews": 2439
+  },
+  {
+    "qid": "Q784845",
+    "title": "AutoIt is created",
+    "subtitle": "Programming or computer language",
+    "year": 1999,
+    "fact": "AutoIt is a freeware programming language for Microsoft Windows.",
+    "wikipediaSlug": "AutoIt",
+    "image": "AutoIT_example_script.png",
+    "pageViews": 2281
+  },
+  {
+    "qid": "Q1572865",
+    "title": "Sass is created",
+    "subtitle": "Programming or computer language",
+    "year": 2006,
+    "fact": "Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).",
+    "wikipediaSlug": "Sass_(style_sheet_language)",
+    "image": "Sass_Logo_Color.svg",
+    "pageViews": 2124
+  },
+  {
+    "qid": "Q385970",
+    "title": "Apache Ant is created",
+    "subtitle": "Programming or computer language",
+    "year": 2000,
+    "fact": "Apache Ant is a software tool for automating software build processes for Java applications which originated from the Apache Tomcat project in early 2000 as a replacement for the Make build tool of Unix.",
+    "wikipediaSlug": "Apache_Ant",
+    "image": "Apache-Ant-logo.svg",
+    "pageViews": 1840
+  },
+  {
+    "qid": "Q648124",
+    "title": "Gambas is created",
+    "subtitle": "Programming or computer language",
+    "year": 1999,
+    "fact": "Gambas is an object-oriented dialect of the BASIC programming language, and an integrated development environment that accompanies it.",
+    "wikipediaSlug": "Gambas",
+    "image": "Gambas-3.3.4-Xfce-Fedora16.png",
+    "pageViews": 1648
+  },
+  {
+    "qid": "Q195929",
+    "title": "FreeBASIC is created",
+    "subtitle": "Programming or computer language",
+    "year": 2004,
+    "fact": "FreeBASIC is a free and open source multiplatform compiler and programming language based on BASIC licensed under the GNU GPL for Microsoft Windows, protected-mode MS-DOS, Linux, FreeBSD and Xbox.",
+    "wikipediaSlug": "FreeBASIC",
+    "image": "Fblogo.gif",
+    "pageViews": 1508
+  }
+]

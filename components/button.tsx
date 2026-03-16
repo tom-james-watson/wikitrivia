@@ -1,20 +1,24 @@
-import React from "react";
 import classNames from "classnames";
-import styles from "../styles/button.module.scss";
+import * as styles from "../styles/button.css";
 
 interface Props {
+  fullWidth?: boolean;
   minimal?: boolean;
   onClick: () => void;
   text: string;
 }
 
 export default function Button(props: Props) {
-  const { minimal = false, onClick, text } = props;
+  const { fullWidth = false, minimal = false, onClick, text } = props;
 
   return (
     <button
       onClick={onClick}
-      className={classNames(styles.button, { [styles.minimal]: minimal })}
+      className={classNames(styles.button, {
+        [styles.fullWidth]: fullWidth,
+        [styles.minimal]: minimal,
+      })}
+      type="button"
     >
       {text}
     </button>

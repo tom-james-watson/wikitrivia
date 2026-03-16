@@ -1,0 +1,12 @@
+SELECT ?item ?itemLabel (MIN(YEAR(?date)) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31 wd:Q476028; # require direct football-club instances for a tighter, cheaper query
+    wdt:P571 ?date; # use inception as the date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 30) # cut off very obscure entries
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+ LIMIT 100

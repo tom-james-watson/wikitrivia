@@ -1,0 +1,19 @@
+SELECT ?item ?itemLabel ?description (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?root rdfs:label "alcohol brand"@en.
+
+  ?item
+    wdt:P31/wdt:P279* ?root;
+    wdt:P571|wdt:P577 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel;
+    schema:description ?description.
+
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(LANG(?description) = "en")
+  FILTER(?sitelinks >= 5)
+
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?description ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

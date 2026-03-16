@@ -1,0 +1,20 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?operatorName) AS ?operatorLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q5916; # instance of or subclass of "spaceflight"
+    wdt:P619 ?date; # use the launch date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item wdt:P137 ?operator.
+    ?operator rdfs:label ?operatorName.
+    FILTER(LANG(?operatorName) = "en")
+  }
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+  FILTER(BOUND(?yearValue))
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

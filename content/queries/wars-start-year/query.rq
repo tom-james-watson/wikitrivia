@@ -1,0 +1,14 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q198; # instance of or subclass of "war"
+    wdt:P580 ?date; # use the start date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

@@ -1,0 +1,21 @@
+SELECT DISTINCT ?item ?itemLabel ?year ?sitelinks WHERE {
+  ?item
+    wdt:P39 wd:Q842606; # held the position "Roman emperor"
+    p:P39 ?statement; # grab the full position statement so we can read its start date
+    wikibase:sitelinks ?sitelinks. # use sitelinks as a rough popularity signal
+  ?statement
+    ps:P39 wd:Q842606; # the statement itself is for "Roman emperor"
+    pq:P580 ?date. # start date for that term
+  FILTER NOT EXISTS {
+    ?item p:P39 ?earlierStatement.
+    ?earlierStatement
+      ps:P39 wd:Q842606;
+      pq:P580 ?earlierDate.
+    FILTER(?earlierDate < ?date)
+  }
+  BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } # ask Wikidata for English labels
+}
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+

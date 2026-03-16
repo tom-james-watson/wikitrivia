@@ -1,0 +1,17 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?root rdfs:label "airline"@en.
+
+  ?item
+    wdt:P31/wdt:P279* ?root;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 30)
+
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

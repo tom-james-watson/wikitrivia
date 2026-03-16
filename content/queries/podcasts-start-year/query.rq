@@ -1,0 +1,34 @@
+SELECT ?item ?itemLabel ?description (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q24634210; # instance of / subclass of "podcast show"
+    wikibase:sitelinks ?sitelinks;
+    ?dateProp ?date;
+    rdfs:label ?itemLabel.
+
+  VALUES ?dateProp {
+    wdt:P580  # start time
+    wdt:P571  # inception
+    wdt:P577  # publication date
+    wdt:P1191 # first performance / first air date style usage
+  }
+
+  ?article schema:about ?item;
+    schema:isPartOf <https://en.wikipedia.org/>.
+
+  OPTIONAL {
+    ?item schema:description ?description.
+    FILTER(LANG(?description) = "en")
+  }
+
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 1)
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q482994 } # album
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q15416 } # television program
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q17232649 } # news website
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q8513 } # database
+
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?description ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

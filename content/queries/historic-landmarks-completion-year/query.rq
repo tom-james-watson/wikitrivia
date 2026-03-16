@@ -1,0 +1,41 @@
+SELECT
+  ?item
+  ?itemLabel
+  (SAMPLE(?descriptionValue) AS ?description)
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?countryLabelValue) AS ?countryLabel)
+  ?sitelinks WHERE {
+  ?item
+    wdt:P31 ?class;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  OPTIONAL {
+    ?item schema:description ?descriptionValue.
+    FILTER(LANG(?descriptionValue) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P17 ?country.
+    ?country rdfs:label ?countryLabelValue.
+    FILTER(LANG(?countryLabelValue) = "en")
+  }
+  OPTIONAL { ?item wdt:P1619 ?completedDate. }
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. } # fallback date if there is no better one
+  BIND(COALESCE(?completedDate, ?inceptionDate) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  FILTER(LANG(?itemLabel) = "en")
+  VALUES ?class { # allowed classes for this pack
+    wd:Q11303 # "skyscraper"
+    wd:Q12518 # "tower"
+    wd:Q12280 # "bridge"
+    wd:Q839954 # "archaeological site"
+    wd:Q2977 # "cathedral"
+    wd:Q32815 # "mosque"
+    wd:Q44539 # "temple"
+    wd:Q18961 # "Tanimbar Islands" - this looks suspicious here
+  }
+  FILTER(?sitelinks >= 40) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

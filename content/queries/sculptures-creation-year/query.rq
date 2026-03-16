@@ -1,0 +1,28 @@
+SELECT ?item ?itemLabel ?description (MIN(?yearValue) AS ?year) (SAMPLE(?creatorName) AS ?creatorLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31 ?class;
+    wdt:P571 ?date; # use inception as the date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  VALUES ?class { # allowed classes for this pack
+    wd:Q860861 # "sculpture"
+    wd:Q179700 # "statue"
+  }
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(!CONTAINS(LCASE(STR(?itemLabel)), "fountain"))
+  OPTIONAL {
+    ?item schema:description ?description.
+    FILTER(LANG(?description) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P170 ?creator.
+    ?creator rdfs:label ?creatorName.
+    FILTER(LANG(?creatorName) = "en")
+  }
+  FILTER(?sitelinks >= 3) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?description ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+

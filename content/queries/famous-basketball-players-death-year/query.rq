@@ -1,0 +1,65 @@
+SELECT
+  ?item
+  ?itemLabel
+  ?year
+  ?sitelinks
+  (SAMPLE(?descriptionText) AS ?description)
+  (GROUP_CONCAT(DISTINCT ?nationalityText; SEPARATOR="||") AS ?nationalityLabel)
+  (GROUP_CONCAT(DISTINCT ?occupationText; SEPARATOR="||") AS ?occupationLabel)
+WHERE {
+  {
+    SELECT ?item (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+      ?item
+        wdt:P31 wd:Q5; # instance of "human"
+        wdt:P570 ?date; # use the death date
+        wdt:P106 wd:Q3665646; # occupation "basketball player"
+        wikibase:sitelinks ?sitelinks. # use sitelinks as a rough popularity signal
+
+      BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+      FILTER(?sitelinks > 50) # cut off very obscure entries
+    }
+    GROUP BY ?item ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+    ORDER BY DESC(?sitelinks) ?year # keep the most recognisable rows first
+    LIMIT 120
+  }
+
+  OPTIONAL {
+    ?item rdfs:label ?resolvedLabel.
+    FILTER(LANG(?resolvedLabel) = "en")
+  }
+  OPTIONAL {
+    ?item schema:description ?descriptionText.
+    FILTER(LANG(?descriptionText) = "en")
+  }
+  OPTIONAL {
+    ?article
+      schema:about ?item;
+      schema:isPartOf <https://en.wikipedia.org/>;
+      schema:name ?englishTitle.
+  }
+  OPTIONAL {
+    ?item wdt:P27 ?country.
+    OPTIONAL {
+      ?country wdt:P1549 ?demonymRaw.
+      FILTER(LANG(?demonymRaw) = "en")
+    }
+    OPTIONAL {
+      ?country rdfs:label ?countryResolved.
+      FILTER(LANG(?countryResolved) = "en")
+    }
+    BIND(COALESCE(STR(?demonymRaw), ?countryResolved) AS ?nationalityText)
+  }
+  OPTIONAL {
+    ?item wdt:P106 ?occupation.
+    OPTIONAL {
+      ?occupation rdfs:label ?occupationResolved.
+      FILTER(LANG(?occupationResolved) = "en")
+    }
+    BIND(?occupationResolved AS ?occupationText)
+  }
+
+  BIND(COALESCE(?resolvedLabel, ?englishTitle, STRAFTER(STR(?item), "/entity/")) AS ?itemLabel) # fall back to the English Wikipedia title or QID slug when needed
+}
+GROUP BY ?item ?itemLabel ?year ?sitelinks # collapse duplicates caused by the enrichment joins
+ORDER BY DESC(?sitelinks) ?year ?itemLabel # keep the most recognisable rows first
+LIMIT 120

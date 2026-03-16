@@ -1,0 +1,23 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  VALUES ?class {
+    wd:Q1555508  # radio program
+    wd:Q3511312 # radio drama series
+  }
+
+  ?item
+    wdt:P31 ?class;
+    wdt:P580 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+
+  ?article schema:about ?item;
+    schema:isPartOf <https://en.wikipedia.org/>.
+
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 3)
+
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 300

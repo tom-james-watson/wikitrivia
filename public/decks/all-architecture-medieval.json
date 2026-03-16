@@ -1,0 +1,4822 @@
+[
+  {
+    "qid": "Q676203",
+    "title": "Machu Picchu is completed",
+    "subtitle": "Inca citadel in the Peruvian Andes and UNESCO World Heritage Site",
+    "year": 1450,
+    "fact": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft).",
+    "wikipediaSlug": "Machu_Picchu",
+    "image": "Machu_Picchu,_2023_(012).jpg",
+    "pageViews": 200617
+  },
+  {
+    "qid": "Q12192963",
+    "title": "Al-Aqsa Mosque is completed",
+    "subtitle": "The main prayer hall of the Al-Aqsa mosque compound in Jerusalem",
+    "year": 710,
+    "fact": "The Aqsa Mosque, also known as the Qibli Mosque or Qibli Chapel, is the main congregational mosque or prayer hall in the Al-Aqsa mosque compound in the Old City of Jerusalem.",
+    "wikipediaSlug": "Al-Aqsa_Mosque",
+    "image": "Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_(NE_exposure).jpg",
+    "pageViews": 190273
+  },
+  {
+    "qid": "Q187702",
+    "title": "Church of the Holy Sepulchre is completed",
+    "subtitle": "Church in Jerusalem, containing the two holiest sites in Christianity",
+    "year": 1400,
+    "fact": "The Church of the Holy Sepulchre, also known as the Church of the Resurrection, is a fourth-century church in the Christian Quarter of the Old City of Jerusalem.",
+    "wikipediaSlug": "Church_of_the_Holy_Sepulchre",
+    "image": "Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_(cropped).jpg",
+    "pageViews": 156712
+  },
+  {
+    "qid": "Q172077",
+    "title": "Dome of the Rock is completed",
+    "subtitle": "Islamic building in Al-Aqsa, Jerusalem",
+    "year": 691,
+    "fact": "The Dome of the Rock is an octagonal Islamic shrine at the center of the Al-Aqsa mosque compound on the Temple Mount in the Old City of Jerusalem.",
+    "wikipediaSlug": "Dome_of_the_Rock",
+    "image": "Jerusalem-2013(2)-Temple_Mount-Dome_of_the_Rock_(SE_exposure).jpg",
+    "pageViews": 129376
+  },
+  {
+    "qid": "Q12506",
+    "title": "Hagia Sophia is completed",
+    "subtitle": "Mosque, museum, and former church in Istanbul, Turkey",
+    "year": 1054,
+    "fact": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and a major cultural and historical site in Istanbul, Turkey.",
+    "wikipediaSlug": "Hagia_Sophia",
+    "image": "Hagia_Sophia_(228968325).jpeg",
+    "pageViews": 104610
+  },
+  {
+    "qid": "Q43473",
+    "title": "Angkor Wat is completed",
+    "subtitle": "Buddhist temple complex in Cambodia",
+    "year": 802,
+    "fact": "Angkor Wat is a Theravada Buddhist temple complex and the largest religious complex in the world.",
+    "wikipediaSlug": "Angkor_Wat",
+    "image": "Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+    "pageViews": 87678
+  },
+  {
+    "qid": "Q42646",
+    "title": "Windsor Castle is completed",
+    "subtitle": "Royal residence at Windsor in Berkshire, England, UK",
+    "year": 1070,
+    "fact": "Windsor Castle is a royal residence at Windsor in the English county of Berkshire, about 25 miles (40 km) west of central London.",
+    "wikipediaSlug": "Windsor_Castle",
+    "image": "Windsor_Castle_at_Sunset_-_Nov_2006.jpg",
+    "pageViews": 61000
+  },
+  {
+    "qid": "Q62378",
+    "title": "Tower of London is completed",
+    "subtitle": "Castle in central London, United Kingdom",
+    "year": 1066,
+    "fact": "The Tower of London, officially His Majesty's Royal Palace and Fortress of the Tower of London, is a historic citadel and castle on the north bank of the River Thames in London, England.",
+    "wikipediaSlug": "Tower_of_London",
+    "image": "Tower_of_London_from_the_Shard_(8515883950).jpg",
+    "pageViews": 60474
+  },
+  {
+    "qid": "Q47476",
+    "title": "Alhambra is completed",
+    "subtitle": "Palace and fortress complex in Granada, Andalusia, Spain",
+    "year": 1239,
+    "fact": "The Alhambra is a palace and fortress complex located in Granada, Spain.",
+    "wikipediaSlug": "Alhambra",
+    "image": "Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "pageViews": 60347
+  },
+  {
+    "qid": "Q191739",
+    "title": "Florence Cathedral is completed",
+    "subtitle": "Cathedral in Florence, Italy",
+    "year": 1296,
+    "fact": "Florence Cathedral, formally the Cathedral of Saint Mary of the Flower, is the cathedral of the Catholic Archdiocese of Florence in Florence, Italy.",
+    "wikipediaSlug": "Florence_Cathedral",
+    "image": "Cattedrale_di_Santa_Maria_del_Fiore_–_Il_Duomo_di_Firenze.jpg",
+    "pageViews": 33197
+  },
+  {
+    "qid": "Q18068",
+    "title": "Milan Cathedral is completed",
+    "subtitle": "Cathedral church of Milan, Italy",
+    "year": 1386,
+    "fact": "Milan Cathedral, or Metropolitan Cathedral-Basilica of the Nativity of Saint Mary, is the cathedral church of Milan, Lombardy, Italy.",
+    "wikipediaSlug": "Milan_Cathedral",
+    "image": "Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+    "pageViews": 33130
+  },
+  {
+    "qid": "Q42049",
+    "title": "Balmoral Castle is completed",
+    "subtitle": "Estate house in Royal Deeside, Aberdeenshire, Scotland, UK",
+    "year": 1390,
+    "fact": "Balmoral Castle is a large estate house in Aberdeenshire, Scotland, and a residence of the British royal family.",
+    "wikipediaSlug": "Balmoral_Castle",
+    "image": "Balmoral_Castle.jpg",
+    "pageViews": 31872
+  },
+  {
+    "qid": "Q838359",
+    "title": "Imam Ali Mosque is completed",
+    "subtitle": "Holy shrine in Iraq",
+    "year": 977,
+    "fact": "The Imam Ali Shrine, also known as the Mosque of Ali, is a Shi'ite mosque and shrine, located in Najaf, in the Najaf Governorate of Iraq.",
+    "wikipediaSlug": "Imam_Ali_Shrine",
+    "image": "Shrine_of_Imam_Ali_Najaf_August_2023.jpg",
+    "pageViews": 31462
+  },
+  {
+    "qid": "Q333661",
+    "title": "Cahokia is completed",
+    "subtitle": "Archaeological site near East St. Louis, Illinois, USA",
+    "year": 1050,
+    "fact": "The Cahokia Mounds is the site of a Native American city directly across the Mississippi River from present-day St.",
+    "wikipediaSlug": "Cahokia",
+    "image": "Monks_Mound_-_Summer_2024.jpg",
+    "pageViews": 30786
+  },
+  {
+    "qid": "Q33200",
+    "title": "Mosque-Cathedral of Cordoba is completed",
+    "subtitle": "Cathedral (former mosque) in Cordoba, Spain",
+    "year": 786,
+    "fact": "The Mosque–Cathedral of Córdoba is the cathedral of the Roman Catholic Diocese of Córdoba in the Spanish region of Andalusia.",
+    "wikipediaSlug": "Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+    "image": "Mezquita_de_Córdoba_desde_el_aire_(Córdoba,_España).jpg",
+    "pageViews": 28352
+  },
+  {
+    "qid": "Q178835",
+    "title": "Baalbek is completed",
+    "subtitle": "City in Baalbek-Hermel, Lebanon",
+    "year": 1000,
+    "fact": "Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut.",
+    "wikipediaSlug": "Baalbek",
+    "image": "Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg",
+    "pageViews": 26149
+  },
+  {
+    "qid": "Q212065",
+    "title": "Edinburgh Castle is completed",
+    "subtitle": "Castle in Edinburgh, Scotland, UK",
+    "year": 1200,
+    "fact": "Edinburgh Castle is a historic castle in Edinburgh, Scotland.",
+    "wikipediaSlug": "Edinburgh_Castle",
+    "image": "Edinburgh_Castle_-_aerial_-_2025-04-19_03.jpg",
+    "pageViews": 25339
+  },
+  {
+    "qid": "Q170495",
+    "title": "Topkapı Palace is completed",
+    "subtitle": "Palace museum in Istanbul, Turkey",
+    "year": 1460,
+    "fact": "The Topkapı Palace or the Seraglio, is a large museum and library in the east of the Fatih district of Istanbul in Turkey.",
+    "wikipediaSlug": "Topkap%C4%B1_Palace",
+    "image": "Topkapı_-_01.jpg",
+    "pageViews": 24809
+  },
+  {
+    "qid": "Q183562",
+    "title": "Umayyad Mosque is completed",
+    "subtitle": "Mosque in Syria",
+    "year": 706,
+    "fact": "The Umayyad Mosque, also known as the Great Mosque of Damascus, located in the old city of Damascus, the capital of Syria, is one of the largest and oldest mosques in the world.",
+    "wikipediaSlug": "Umayyad_Mosque",
+    "image": "Umayyad_Mosque,_Damascus.jpg",
+    "pageViews": 24245
+  },
+  {
+    "qid": "Q482485",
+    "title": "Gyeongbokgung is completed",
+    "subtitle": "Palace in Seoul, South Korea",
+    "year": 1395,
+    "fact": "Gyeongbokgung is a former royal palace in Seoul, South Korea.",
+    "wikipediaSlug": "Gyeongbokgung",
+    "image": "광화문_월대.jpg",
+    "pageViews": 23277
+  },
+  {
+    "qid": "Q42798",
+    "title": "Borobudur is completed",
+    "subtitle": "Buddhist temple in Java, Indonesia",
+    "year": 800,
+    "fact": "Borobudur, also transcribed Barabudur, is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the town of Muntilan, northwest of the city of Yogyakarta, in Central Java, Indonesia.",
+    "wikipediaSlug": "Borobudur",
+    "image": "Pradaksina.jpg",
+    "pageViews": 22370
+  },
+  {
+    "qid": "Q193215",
+    "title": "Château de Chenonceau is completed",
+    "subtitle": "Castle spanning the River Cher in the Loire Valley, France",
+    "year": 1411,
+    "fact": "The Château de Chenonceau is a French château spanning the river Cher, near the small village of Chenonceaux, Indre-et-Loire, Centre-Val de Loire.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Chenonceau",
+    "image": "Chateau_de_Chenonceau_2008E_(adjusted2).jpg",
+    "pageViews": 21623
+  },
+  {
+    "qid": "Q44562",
+    "title": "Ulm Minster is completed",
+    "subtitle": "Gothic church in Germany",
+    "year": 1377,
+    "fact": "Ulm Minster is a Gothic style Evangelical church located in Ulm, Baden-Württemberg, Germany.",
+    "wikipediaSlug": "Ulm_Minster",
+    "image": "Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg",
+    "pageViews": 21563
+  },
+  {
+    "qid": "Q390275",
+    "title": "Bran Castle is completed",
+    "subtitle": "Medieval castle in Braşov county, Romania",
+    "year": 1289,
+    "fact": "Bran Castle is a castle in Bran, 25 kilometres (16 mi) southwest of Brașov.",
+    "wikipediaSlug": "Bran_Castle",
+    "image": "Castelul_Bran2.jpg",
+    "pageViews": 19998
+  },
+  {
+    "qid": "Q71279",
+    "title": "Malbork Castle is completed",
+    "subtitle": "Castle built in Prussia (now Poland) by the Teutonic Knights",
+    "year": 1270,
+    "fact": "The Castle of the Teutonic Order in Malbork, commonly known as Malbork Castle, is a Brick Gothic castle complex located in the town of Malbork, Poland, built in the 13th and significantly expanded in the 14th century.",
+    "wikipediaSlug": "Malbork_Castle",
+    "image": "Zespół_Zamku_Krzyżackiego_MALBORK_01.jpg",
+    "pageViews": 19520
+  },
+  {
+    "qid": "Q193369",
+    "title": "Prague Castle is completed",
+    "subtitle": "Castle complex in Prague, Czech Republic, dating from the 9th century",
+    "year": 900,
+    "fact": "Prague Castle is a castle complex in Prague, Czech Republic serving as the official residence and workplace of the president of the Czech Republic.",
+    "wikipediaSlug": "Prague_Castle",
+    "image": "Karlův_most_Praha,_Staré_Město_20170810_007.jpg",
+    "pageViews": 19498
+  },
+  {
+    "qid": "Q513821",
+    "title": "Sedlec Ossuary is completed",
+    "subtitle": "Church",
+    "year": 1400,
+    "fact": "The Sedlec Ossuary is a Roman Catholic chapel, located beneath the Cemetery Church of All Saints, part of the former Sedlec Abbey in Sedlec, a suburb of Kutná Hora in the Czech Republic.",
+    "wikipediaSlug": "Sedlec_Ossuary",
+    "image": "Kostnice_Sedlec.JPG",
+    "pageViews": 19104
+  },
+  {
+    "qid": "Q172988",
+    "title": "St Mark's Basilica is completed",
+    "subtitle": "Church in Venice, Italy",
+    "year": 828,
+    "fact": "The Patriarchal Cathedral Basilica of Saint Mark, commonly known as St Mark's Basilica, is the cathedral church of the Patriarchate of Venice; it became the episcopal seat of the Patriarch of Venice in 1807, replacing the earlier cathedral of San Pietro di Castello.",
+    "wikipediaSlug": "St_Mark%27s_Basilica",
+    "image": "Venezia_Basilica_di_San_Marco_Fassade_2.jpg",
+    "pageViews": 18304
+  },
+  {
+    "qid": "Q1865480",
+    "title": "Bastille is completed",
+    "subtitle": "Former fortress in Paris, France",
+    "year": 1370,
+    "fact": "The Bastille was a medieval fortress in Paris, known as the Bastille Saint-Antoine.",
+    "wikipediaSlug": "Bastille",
+    "image": "Bastille_Exterior_1790_or_1791.jpg",
+    "pageViews": 18086
+  },
+  {
+    "qid": "Q231606",
+    "title": "Seville Cathedral is completed",
+    "subtitle": "Catholic Cathedral in Seville (Formerly a Mosque), Spain",
+    "year": 1402,
+    "fact": "The Cathedral of Saint Mary of the See, better known as Seville Cathedral, is a Catholic cathedral in Seville, Andalusia, Spain.",
+    "wikipediaSlug": "Seville_Cathedral",
+    "image": "Sevilla_Cathedral_-_Southeast.jpg",
+    "pageViews": 18067
+  },
+  {
+    "qid": "Q276569",
+    "title": "Quba Mosque is completed",
+    "subtitle": "Mosque in Medina, Saudi Arabia",
+    "year": 622,
+    "fact": "The Quba Mosque is a mosque located in Medina, in the Hejaz region of Saudi Arabia, first built in the lifetime of the Islamic prophet Muhammad in the 7th century CE.",
+    "wikipediaSlug": "Quba_Mosque",
+    "image": "Quba_Mosque_Full_Picture_(2024).jpg",
+    "pageViews": 17675
+  },
+  {
+    "qid": "Q215897",
+    "title": "Castel del Monte opens",
+    "subtitle": "Medieval castle in Andria, Apulia, Italy",
+    "year": 1240,
+    "fact": "Castel del Monte is a 13th-century citadel and castle situated on a hill in Andria in the Apulia region of southeast Italy.",
+    "wikipediaSlug": "Castel_del_Monte,_Apulia",
+    "image": "Castel_del_Monte_-_Andria.jpg",
+    "pageViews": 17660
+  },
+  {
+    "qid": "Q71229",
+    "title": "Potala Palace is completed",
+    "subtitle": "Fortress in Lhasa, Tibet",
+    "year": 637,
+    "fact": "Potala Palace is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China.",
+    "wikipediaSlug": "Potala_Palace",
+    "image": "Potala_Palace_HQ.jpg",
+    "pageViews": 17259
+  },
+  {
+    "qid": "Q4706020",
+    "title": "Alamut Castle is completed",
+    "subtitle": "Castle in Qazvin County, Iranian national heritage site",
+    "year": 860,
+    "fact": "Alamut is a ruined mountain fortress located in the Alamut region in the South Caspian, near the village of Gazor Khan in Qazvin province in Iran, approximately 200 km (130 mi) from present-day Tehran.",
+    "wikipediaSlug": "Alamut_Castle",
+    "image": "Iran_-_Qazvin_-_Alamout_Castle_-_panoramio_(1).jpg",
+    "pageViews": 16593
+  },
+  {
+    "qid": "Q275128",
+    "title": "Caernarfon Castle is completed",
+    "subtitle": "Castle in Caernarfon, North Wales",
+    "year": 1283,
+    "fact": "Caernarfon Castle is a medieval fortress in Gwynedd, north-west Wales.",
+    "wikipediaSlug": "Caernarfon_Castle",
+    "image": "Caernarfon_Castle_1994.jpg",
+    "pageViews": 15267
+  },
+  {
+    "qid": "Q716667",
+    "title": "Arundel Castle is completed",
+    "subtitle": "Castle in West Sussex, England, UK",
+    "year": 1067,
+    "fact": "Arundel Castle is a restored and remodelled medieval castle in Arundel, West Sussex, England.",
+    "wikipediaSlug": "Arundel_Castle",
+    "image": "1_castle_arundel_aerial_pano_2017.jpg",
+    "pageViews": 15040
+  },
+  {
+    "qid": "Q271928",
+    "title": "Palazzo Vecchio is completed",
+    "subtitle": "Palace in Florence, Italy",
+    "year": 1299,
+    "fact": "The Palazzo Vecchio is the town hall of Florence, Italy.",
+    "wikipediaSlug": "Palazzo_Vecchio",
+    "image": "Piazza_della_signoria,_palazzo_vecchio,_veduta_01.jpg",
+    "pageViews": 14989
+  },
+  {
+    "qid": "Q252575",
+    "title": "York Minster is completed",
+    "subtitle": "Cathedral of York, North Yorkshire, England, UK",
+    "year": 1220,
+    "fact": "York Minster, formally the Cathedral and Metropolitical Church of Saint Peter in York, is an Anglican cathedral in the city of York, North Yorkshire, England.",
+    "wikipediaSlug": "York_Minster",
+    "image": "York_Minster_(2797690).jpg",
+    "pageViews": 14608
+  },
+  {
+    "qid": "Q774021",
+    "title": "Templo Mayor is completed",
+    "subtitle": "Main Temple of Tenochtitlan",
+    "year": 1325,
+    "fact": "The Templo Mayor was the main temple of the Mexica people in their capital city of Tenōchtitlan, which is now Mexico City.",
+    "wikipediaSlug": "Templo_Mayor",
+    "image": "Templo_Mayor_50.jpg",
+    "pageViews": 13095
+  },
+  {
+    "qid": "Q941276",
+    "title": "Warwick Castle is completed",
+    "subtitle": "Medieval castle in Warwickshire, England, UK",
+    "year": 1068,
+    "fact": "Warwick Castle is a medieval castle developed from a wooden fort originally built by William the Conqueror during 1068.",
+    "wikipediaSlug": "Warwick_Castle",
+    "image": "Warwick_Castle_May_2016.jpg",
+    "pageViews": 12730
+  },
+  {
+    "qid": "Q189883",
+    "title": "Doge's Palace is completed",
+    "subtitle": "Palace in Venice, Italy",
+    "year": 1340,
+    "fact": "The Doge's Palace is a palace built in Venetian Gothic style, and one of the main landmarks of the city of Venice in northern Italy.",
+    "wikipediaSlug": "Doge%27s_Palace",
+    "image": "(Venice)_Doge's_Palace_and_campanile_of_St._Mark's_Basilica_facing_the_sea.jpg",
+    "pageViews": 12447
+  },
+  {
+    "qid": "Q91274",
+    "title": "Galata Tower is completed",
+    "subtitle": "Historical tower in İstanbul",
+    "year": 1349,
+    "fact": "The Galata Tower, officially the Galata Tower Museum, is a medieval Genoese tower in the Galata part of the Beyoğlu district of Istanbul, Turkey.",
+    "wikipediaSlug": "Galata_Tower",
+    "image": "Galata_tower_01_23.jpg",
+    "pageViews": 11867
+  },
+  {
+    "qid": "Q1075988",
+    "title": "Louvre Palace is completed",
+    "subtitle": "Former royal palace, now hosting the Louvre Museum in Paris, France",
+    "year": 1190,
+    "fact": "The Louvre Palace, often referred to simply as the Louvre, is a palace located on the Right Bank of the Seine in Paris, occupying a large expanse of land between the Tuileries Gardens and the church of Saint-Germain l'Auxerrois.",
+    "wikipediaSlug": "Louvre_Palace",
+    "image": "West_facade_of_the_Cour_Carrée,_Louvre_Palace,_Paris_5_October_2017.jpg",
+    "pageViews": 11579
+  },
+  {
+    "qid": "Q686548",
+    "title": "Munich Residence is completed",
+    "subtitle": "Building in Munich, Upper Bavaria, Germany",
+    "year": 1385,
+    "fact": "The Residenz in central Munich is the former royal palace of the Wittelsbach monarchs of Bavaria.",
+    "wikipediaSlug": "Munich_Residenz",
+    "image": "Grundriss_der_Residenz_München_(Bayerische_Schlösserverwaltung).jpg",
+    "pageViews": 11568
+  },
+  {
+    "qid": "Q586568",
+    "title": "Church of the Holy Apostles is completed",
+    "subtitle": "Church and imperial mausoleum in Turkey",
+    "year": 501,
+    "fact": "The Church of the Holy Apostles, also known as the Imperial Polyandrion, was a Byzantine Eastern Orthodox church in Constantinople, capital of the Eastern Roman Empire.",
+    "wikipediaSlug": "Church_of_the_Holy_Apostles",
+    "image": "The_Homilies_of_James_Kokkinobaphos_(Paris_Bibliothèque_nationale_de_France_Grec_1208,_fol._3v).jpg",
+    "pageViews": 11113
+  },
+  {
+    "qid": "Q742767",
+    "title": "Dublin Castle is completed",
+    "subtitle": "Castle",
+    "year": 1204,
+    "fact": "Dublin Castle is a major Irish government complex, conference centre, and tourist attraction.",
+    "wikipediaSlug": "Dublin_Castle",
+    "image": "The_Dubhlinn_Gardens_Dublin_Castle_01.JPG",
+    "pageViews": 10893
+  },
+  {
+    "qid": "Q1424839",
+    "title": "Palace of Placentia is completed",
+    "subtitle": "English royal palace at Greenwich",
+    "year": 1443,
+    "fact": "The Palace of Placentia, also known as Greenwich Palace, was an English royal residence that was initially built by Prince Humphrey, Duke of Gloucester, in 1443.",
+    "wikipediaSlug": "Palace_of_Placentia",
+    "image": "An_historical_account_of_the_Royal_Hospital_for_Seamen_at_Greenwich_(1789)_(14786307743).jpg",
+    "pageViews": 10795
+  },
+  {
+    "qid": "Q1130266",
+    "title": "Lambeth Palace is completed",
+    "subtitle": "Official London residence of the Archbishop of Canterbury",
+    "year": 1435,
+    "fact": "Lambeth Palace is the official London residence of the Archbishop of Canterbury.",
+    "wikipediaSlug": "Lambeth_Palace",
+    "image": "Lambeth_Palace_London_240404.jpg",
+    "pageViews": 10763
+  },
+  {
+    "qid": "Q1681449",
+    "title": "Jamkaran Mosque is completed",
+    "subtitle": "Mosque in Qom County, Iran",
+    "year": 1000,
+    "fact": "The Jamkaran Mosque, also known as Saheb al-Zaman Mosque, is a Shia mosque and shrine located in the village of Jamkaran, on the outskirts of the city of Qom, in the province of Qom, Iran.",
+    "wikipediaSlug": "Jamkaran_Mosque",
+    "image": "جمکران.jpg",
+    "pageViews": 10719
+  },
+  {
+    "qid": "Q170119",
+    "title": "Berlin Palace is completed",
+    "subtitle": "Former residence of the Prussian kings, seat of the Humboldt Forum",
+    "year": 1451,
+    "fact": "The Berlin Palace, formerly known as the Royal Palace, is a large building adjacent to Berlin Cathedral and the Museum Island in the Mitte area of Berlin.",
+    "wikipediaSlug": "Berlin_Palace",
+    "image": "Berlin-Mitte_Stadtschloss_asv2023-10_(cropped).jpg",
+    "pageViews": 10709
+  },
+  {
+    "qid": "Q366448",
+    "title": "Houska Castle is completed",
+    "subtitle": "Castle",
+    "year": 1300,
+    "fact": "Houska Castle is an early Gothic castle in the municipality of Blatce in the Liberec Region of the Czech Republic.",
+    "wikipediaSlug": "Houska_Castle",
+    "image": "Burg_Houska.jpg",
+    "pageViews": 10605
+  },
+  {
+    "qid": "Q721817",
+    "title": "Basilica of San Vitale is completed",
+    "subtitle": "Minor basilica in Ravenna, Italy",
+    "year": 550,
+    "fact": "The Basilica of San Vitale is a late antique church in Ravenna, Italy.",
+    "wikipediaSlug": "Basilica_of_San_Vitale",
+    "image": "Basilica_of_San_Vitale.jpg",
+    "pageViews": 10514
+  },
+  {
+    "qid": "Q1132683",
+    "title": "Hever Castle is completed",
+    "subtitle": "Grade I listed country house in Hever, Kent, England, UK",
+    "year": 1271,
+    "fact": "Hever Castle is located in the village of Hever, Kent, near Edenbridge, 30 miles (48 km) south-east of London, England.",
+    "wikipediaSlug": "Hever_Castle",
+    "image": "Hever_Castle_2014_06_20_1.jpg",
+    "pageViews": 10467
+  },
+  {
+    "qid": "Q5908",
+    "title": "Aachen Cathedral is completed",
+    "subtitle": "Roman-Catholic cathedral in Aachen, Germany",
+    "year": 801,
+    "fact": "Aachen Cathedral is a Catholic church in Aachen, Germany and the cathedral of the Diocese of Aachen.",
+    "wikipediaSlug": "Aachen_Cathedral",
+    "image": "Aachen_Germany_Imperial-Cathedral-01.jpg",
+    "pageViews": 10405
+  },
+  {
+    "qid": "Q205131",
+    "title": "Leshan Giant Buddha is completed",
+    "subtitle": "Monumental sculpture",
+    "year": 803,
+    "fact": "The Leshan Giant Buddha is a 71-meter (233 ft) tall stone statue, built between 712 and 804.",
+    "wikipediaSlug": "Leshan_Giant_Buddha",
+    "image": "36275-Leshan_(49067653383).jpg",
+    "pageViews": 10384
+  },
+  {
+    "qid": "Q18820",
+    "title": "Wawel Castle is completed",
+    "subtitle": "Castle in Krakow, the former royal seat",
+    "year": 1001,
+    "fact": "The Wawel Royal Castle and the Wawel Hill on which it sits constitute the most historically and culturally significant site in Poland.",
+    "wikipediaSlug": "Wawel_Castle",
+    "image": "Wawel_(4).jpg",
+    "pageViews": 10369
+  },
+  {
+    "qid": "Q23354",
+    "title": "Sforza Castle is completed",
+    "subtitle": "Castle in Milan, Italy",
+    "year": 1360,
+    "fact": "The Sforza Castle is a medieval fortification located in Milan, northern Italy.",
+    "wikipediaSlug": "Sforza_Castle",
+    "image": "20110725_Castello_Sforzesco_Milan_5557.jpg",
+    "pageViews": 10104
+  },
+  {
+    "qid": "Q126576",
+    "title": "Corvin Castle is completed",
+    "subtitle": "Castle in Hunedoara, Romania",
+    "year": 1440,
+    "fact": "Corvin Castle, also known as Hunyadi Castle or Hunedoara Castle, is a Gothic-Renaissance castle in Hunedoara, current-day Romania.",
+    "wikipediaSlug": "Corvin_Castle",
+    "image": "Hunedoara_castle.jpg",
+    "pageViews": 10082
+  },
+  {
+    "qid": "Q640968",
+    "title": "Hôtel de Ville, Paris is completed",
+    "subtitle": "Town hall of Paris, France",
+    "year": 1357,
+    "fact": "The Hôtel de Ville is the city hall of Paris, France, standing on the Place de l'Hôtel-de-Ville – Esplanade de la Libération in the 4th arrondissement.",
+    "wikipediaSlug": "H%C3%B4tel_de_Ville,_Paris",
+    "image": "Hôtel_ville_façade_principale_Paris_11.jpg",
+    "pageViews": 9737
+  },
+  {
+    "qid": "Q51177",
+    "title": "Basilica of Santa Croce is completed",
+    "subtitle": "Franciscan church in Florence, Italy",
+    "year": 1442,
+    "fact": "The Basilica di Santa Croce is a minor basilica and the principal Franciscan church of Florence, Italy.",
+    "wikipediaSlug": "Santa_Croce,_Florence",
+    "image": "Basilica_di_Santa_Croce_(12437).jpg",
+    "pageViews": 9713
+  },
+  {
+    "qid": "Q508519",
+    "title": "Trosky Castle is completed",
+    "subtitle": "Castle in Liberec Region, Czech Republic",
+    "year": 1400,
+    "fact": "Trosky Castle is a castle ruin in the municipality of Troskovice in the Liberec Region of the Czech Republic and its name translates literally as \"ruins\" or \"debris\".",
+    "wikipediaSlug": "Trosky_Castle",
+    "image": "Hrad_Trosky,_letecký_snímek.jpg",
+    "pageViews": 9687
+  },
+  {
+    "qid": "Q571409",
+    "title": "Königsberg Castle is completed",
+    "subtitle": "Castle in Königsberg",
+    "year": 1255,
+    "fact": "Königsberg Castle was the seat of the grand masters of the Teutonic Order and of the dukes and kings of Prussia in the city of Königsberg.",
+    "wikipediaSlug": "K%C3%B6nigsberg_Castle",
+    "image": "Königsberg_Castle.jpg",
+    "pageViews": 9664
+  },
+  {
+    "qid": "Q1529151",
+    "title": "Glamis Castle is completed",
+    "subtitle": "Castle in Angus, Scotland, UK",
+    "year": 1372,
+    "fact": "Glamis Castle is situated beside the village of Glamis in Angus, Scotland.",
+    "wikipediaSlug": "Glamis_Castle",
+    "image": "Glamis_Castle_-_geograph.org.uk_-_7848853.jpg",
+    "pageViews": 9656
+  },
+  {
+    "qid": "Q29894",
+    "title": "Orava Castle is completed",
+    "subtitle": "Castle in Slovakia",
+    "year": 1241,
+    "fact": "Orava Castle is a castle situated on a high rock above Orava river in the village of Oravský Podzámok, Slovakia.",
+    "wikipediaSlug": "Orava_Castle",
+    "image": "Oravský_hrad_(celkový_pohled).jpg",
+    "pageViews": 9515
+  },
+  {
+    "qid": "Q55264655",
+    "title": "Elmina Castle is completed",
+    "subtitle": "Fortified colonial trading post in Ghana",
+    "year": 1482,
+    "fact": "Elmina Castle was erected by the Portuguese in 1482 as Castelo de São Jorge da Mina, also known as Castelo da Mina or simply Mina, in present-day Elmina, Ghana, formerly the Gold Coast.",
+    "wikipediaSlug": "Elmina_Castle",
+    "image": "Elmina_Castle_-_Ghana.jpg",
+    "pageViews": 9479
+  },
+  {
+    "qid": "Q51175",
+    "title": "Basilica of Santa Maria Novella opens",
+    "subtitle": "Church in Florence, Italy",
+    "year": 1278,
+    "fact": "Santa Maria Novella is a Dominican church in Florence.",
+    "wikipediaSlug": "Santa_Maria_Novella",
+    "image": "Florence,_Santa_Maria_Novella,_facade.jpg",
+    "pageViews": 9141
+  },
+  {
+    "qid": "Q1429312",
+    "title": "Temple Church, London is completed",
+    "subtitle": "Church in London built for and by the Knights Templar",
+    "year": 1185,
+    "fact": "The Temple Church, a royal peculiar in the Church of England, is a church in the Inner and Middle Temples located between Fleet Street and the River Thames in London, England.",
+    "wikipediaSlug": "Temple_Church",
+    "image": "Temple_Church,_Temple,_London_EC4_(2).jpeg",
+    "pageViews": 9044
+  },
+  {
+    "qid": "Q80637",
+    "title": "York Castle is completed",
+    "subtitle": "Castle in York, North Yorkshire, England, UK",
+    "year": 1068,
+    "fact": "York Castle is a fortified complex in the city of York, England.",
+    "wikipediaSlug": "York_Castle",
+    "image": "Clifford's_Tower_(5259021070).jpg",
+    "pageViews": 8727
+  },
+  {
+    "qid": "Q593115",
+    "title": "Great Mosque of Samarra is completed",
+    "subtitle": "Mosque in Iraq",
+    "year": 848,
+    "fact": "The Great Mosque of Samarra or Al-Malwiya Mosque is a former congregational mosque, now in partial ruins, in Samarra, in the Saladin Governorate of Iraq.",
+    "wikipediaSlug": "Great_Mosque_of_Samarra",
+    "image": "Samrraa_05.jpg",
+    "pageViews": 8685
+  },
+  {
+    "qid": "Q576369",
+    "title": "Ludlow Castle is completed",
+    "subtitle": "Medieval fortification in Shropshire, England, UK",
+    "year": 1066,
+    "fact": "Ludlow Castle is a ruined medieval fortification in the town of Ludlow in the English county of Shropshire, standing on a promontory overlooking the River Teme.",
+    "wikipediaSlug": "Ludlow_Castle",
+    "image": "Ludlow_Castle_from_Whitcliffe,_2011.jpg",
+    "pageViews": 8385
+  },
+  {
+    "qid": "Q963954",
+    "title": "Scrovegni Chapel opens",
+    "subtitle": "Chapel in Padua, Italy",
+    "year": 1305,
+    "fact": "The Scrovegni Chapel, also known as the Arena Chapel, is a small church, adjacent to the Augustinian monastery, the Monastero degli Eremitani in Padua, region of Veneto, Italy.",
+    "wikipediaSlug": "Scrovegni_Chapel",
+    "image": "Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_5.jpg",
+    "pageViews": 8047
+  },
+  {
+    "qid": "Q756830",
+    "title": "Conwy Castle is completed",
+    "subtitle": "Castle in Conwy, North Wales",
+    "year": 1283,
+    "fact": "Conwy Castle is a fortification in Conwy, located in North Wales.",
+    "wikipediaSlug": "Conwy_Castle",
+    "image": "Conwy_Castle,_water_view1.jpg",
+    "pageViews": 7899
+  },
+  {
+    "qid": "Q756189",
+    "title": "Fatih Istanbul Mosque is completed",
+    "subtitle": "Mosque in İstanbul, Turkey",
+    "year": 1464,
+    "fact": "The Fatih Mosque is an Ottoman mosque off Fevzi Paşa Caddesi in the Fatih district of Istanbul, Turkey.",
+    "wikipediaSlug": "Fatih_Mosque,_Istanbul",
+    "image": "Sultan_Muhammet_Fatih_camii_(cropped).jpg",
+    "pageViews": 7885
+  },
+  {
+    "qid": "Q1547466",
+    "title": "St Giles' Cathedral is completed",
+    "subtitle": "Church of Scotland cathedral in Edinburgh, Scotland, UK",
+    "year": 1400,
+    "fact": "St Giles' Cathedral, also known as High Kirk of Edinburgh, is one of three cathedrals in Edinburgh, Scotland.",
+    "wikipediaSlug": "St_Giles%27_Cathedral",
+    "image": "St_Giles_Cathedral_-_01.jpg",
+    "pageViews": 7756
+  },
+  {
+    "qid": "Q746983",
+    "title": "Dunnottar Castle is completed",
+    "subtitle": "Ruined castle in Aberdeenshire, Scotland, UK",
+    "year": 1400,
+    "fact": "Dunnottar Castle is a ruined medieval fortress located upon a rocky headland on the northeast coast of Scotland, about 2 miles south of Stonehaven in Aberdeenshire.",
+    "wikipediaSlug": "Dunnottar_Castle",
+    "image": "Dunnottar_Castle_-_geograph.org.uk_-_8057610.jpg",
+    "pageViews": 7539
+  },
+  {
+    "qid": "Q950970",
+    "title": "Dover Castle is completed",
+    "subtitle": "Medieval castle in Dover, Kent, England, UK",
+    "year": 1179,
+    "fact": "Dover Castle is a medieval castle in Dover, Kent, England and is Grade I listed.",
+    "wikipediaSlug": "Dover_Castle",
+    "image": "1_dover_castle_aerial_panorama_2017.jpg",
+    "pageViews": 7484
+  },
+  {
+    "qid": "Q830054",
+    "title": "Saint Sophia Cathedral is completed",
+    "subtitle": "Cathedral in Kyiv, Ukraine",
+    "year": 1011,
+    "fact": "The Saint Sophia Cathedral in Kyiv, Ukraine, is an architectural monument of Kyivan Rus'.",
+    "wikipediaSlug": "Saint_Sophia_Cathedral,_Kyiv",
+    "image": "80-391-0151_Kyiv_St.Sophia's_Cathedral_RB_18_2_(cropped).jpg",
+    "pageViews": 7389
+  },
+  {
+    "qid": "Q907052",
+    "title": "Shuri Castle opens",
+    "subtitle": "Ryukyuan gusuku castle",
+    "year": 1400,
+    "fact": "Shuri Castle is a Ryukyuan gusuku castle in the historic Shuri district of Naha, the capital of Okinawa Prefecture, Japan.",
+    "wikipediaSlug": "Shuri_Castle",
+    "image": "Naha_Okinawa_Japan_Shuri-Castle-01.jpg",
+    "pageViews": 7346
+  },
+  {
+    "qid": "Q877023",
+    "title": "Hohenwerfen Castle is completed",
+    "subtitle": "Castle in Austria",
+    "year": 1075,
+    "fact": "Hohenwerfen Castle is a medieval rock castle, situated at an altitude of 623 metres (2,044 ft), on a 155-metre (509 ft) rock pillar overlooking the Austrian market town of Werfen in the Salzach valley, approximately 40 kilometres (25 mi) south of Salzburg.",
+    "wikipediaSlug": "Hohenwerfen_Castle",
+    "image": "Hohenwerfen_castle.jpg",
+    "pageViews": 7234
+  },
+  {
+    "qid": "Q875740",
+    "title": "Burg Mauterndorf is completed",
+    "subtitle": "Castle",
+    "year": 1253,
+    "fact": "Mauterndorf Castle is a castle in the municipality of Mauterndorf, in the Austrian state of Salzburg.",
+    "wikipediaSlug": "Mauterndorf_Castle",
+    "image": "Mauterndorf_burg.jpg",
+    "pageViews": 7204
+  },
+  {
+    "qid": "Q244952",
+    "title": "Snta Maria delle Grazie is completed",
+    "subtitle": "Church in Milan",
+    "year": 1401,
+    "fact": "Santa Maria delle Grazie is a church and Dominican convent in Milan, northern Italy, and a UNESCO World Heritage Site.",
+    "wikipediaSlug": "Santa_Maria_delle_Grazie,_Milan",
+    "image": "Santa_Maria_delle_Grazie_Milan_2013.jpg",
+    "pageViews": 7141
+  },
+  {
+    "qid": "Q215023",
+    "title": "Nidaros Cathedral is completed",
+    "subtitle": "Cathedral in Trondheim, Norway",
+    "year": 1201,
+    "fact": "Nidaros Cathedral is a Church of Norway cathedral located in the city of Trondheim in Trøndelag county.",
+    "wikipediaSlug": "Nidaros_Cathedral",
+    "image": "Nidaros_Cathedral,_Trondheim,_West_view_20150605_1.jpg",
+    "pageViews": 6989
+  },
+  {
+    "qid": "Q725274",
+    "title": "Ashford Castle, County Mayo is completed",
+    "subtitle": "Fortification",
+    "year": 1228,
+    "fact": "Ashford Castle is a mainly Victorian and medieval castle near Cong on the County Mayo–Galway border in Ireland.",
+    "wikipediaSlug": "Ashford_Castle",
+    "image": "Ashford_Castle_in_County_Mayo.jpg",
+    "pageViews": 6981
+  },
+  {
+    "qid": "Q81279",
+    "title": "Guildhall is completed",
+    "subtitle": "Building in the City of London, England, UK",
+    "year": 1440,
+    "fact": "Guildhall is a municipal building in the City of London, England.",
+    "wikipediaSlug": "Guildhall,_London",
+    "image": "Guildhall,_Londres,_Inglaterra,_2014-08-11,_DD_139.JPG",
+    "pageViews": 6823
+  },
+  {
+    "qid": "Q663673",
+    "title": "Château de Vincennes is completed",
+    "subtitle": "Castle",
+    "year": 1340,
+    "fact": "The Château de Vincennes is a former fortress and royal residence next to the town of Vincennes, on the eastern edge of Paris, alongside the Bois de Vincennes.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Vincennes",
+    "image": "Vincennes_-_Chateau_02.jpg",
+    "pageViews": 6761
+  },
+  {
+    "qid": "Q881739",
+    "title": "Blarney Castle is completed",
+    "subtitle": "Castle in Ireland",
+    "year": 1446,
+    "fact": "Blarney Castle is a medieval stronghold in Blarney, a town in Cork, Ireland.",
+    "wikipediaSlug": "Blarney_Castle",
+    "image": "Blarney_Castle_Ireland.jpg",
+    "pageViews": 6680
+  },
+  {
+    "qid": "Q573881",
+    "title": "Basilica of San Lorenzo opens",
+    "subtitle": "Church in Florence, Italy",
+    "year": 1059,
+    "fact": "The Basilica di San Lorenzo is one of the largest churches of Florence, Italy, situated at the centre of the main market district of the city, and it is the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III.",
+    "wikipediaSlug": "Basilica_of_San_Lorenzo,_Florence",
+    "image": "Firenze_Basilica_di_San_Lorenzo_Esterno_Lato_Nord_1.jpg",
+    "pageViews": 6619
+  },
+  {
+    "qid": "Q1252715",
+    "title": "Doune Castle is completed",
+    "subtitle": "Castle in Stirling, Scotland, UK",
+    "year": 1400,
+    "fact": "Doune Castle is a medieval stronghold near the village of Doune, in the Stirling council area of central Scotland and the historic county of Perthshire.",
+    "wikipediaSlug": "Doune_Castle",
+    "image": "Scotland-2016-Aerial-Doune_Castle_(and_Castle_keeper's_cottage).jpg",
+    "pageViews": 6447
+  },
+  {
+    "qid": "Q1035742",
+    "title": "Cardiff Castle is completed",
+    "subtitle": "Castle in Cardiff, Wales",
+    "year": 1080,
+    "fact": "Cardiff Castle is a medieval castle and Victorian Gothic revival mansion located in the city centre of Cardiff, Wales.",
+    "wikipediaSlug": "Cardiff_Castle",
+    "image": "Aerial_view_of_Cardiff_Castle.jpg",
+    "pageViews": 6419
+  },
+  {
+    "qid": "Q848397",
+    "title": "Maiden's Tower is completed",
+    "subtitle": "Lighthouse at the southern entrance of the Bosphorus in Turkey",
+    "year": 1110,
+    "fact": "The Maiden's Tower, also known as Leander's Tower since the Byzantine period, is a tower on a small islet at the southern entrance of the Bosphorus strait, 200 m (220 yd) from the coast of Üsküdar in Istanbul, Turkey.",
+    "wikipediaSlug": "Maiden%27s_Tower",
+    "image": "Istanbul_Kız_Kulesi_(54511155871)_(cropped).jpg",
+    "pageViews": 6351
+  },
+  {
+    "qid": "Q746876",
+    "title": "Leeds Castle is completed",
+    "subtitle": "Castle in Kent, England, UK",
+    "year": 1119,
+    "fact": "Leeds Castle is a castle in Kent, England, 7 miles (11 km) southeast of Maidstone.",
+    "wikipediaSlug": "Leeds_Castle",
+    "image": "Leeds_castle.JPG",
+    "pageViews": 6258
+  },
+  {
+    "qid": "Q3584217",
+    "title": "Church of Saint Porphyrius is completed",
+    "subtitle": "Church building in Gaza City, State of Palestine",
+    "year": 1101,
+    "fact": "The Church of Saint Porphyrius is a Greek Orthodox church in Gaza City, Palestine.",
+    "wikipediaSlug": "Church_of_Saint_Porphyrius",
+    "image": "Tolerance_-_panoramio.jpg",
+    "pageViews": 6248
+  },
+  {
+    "qid": "Q1137533",
+    "title": "Koutoubia Mosque is completed",
+    "subtitle": "Mosque in Marrakesh, Morocco",
+    "year": 1147,
+    "fact": "The Kutubiyya Mosque or Koutoubia Mosque is the largest mosque in Marrakesh, Morocco.",
+    "wikipediaSlug": "Kutubiyya_Mosque",
+    "image": "Marokko0112_(retouched).jpg",
+    "pageViews": 6109
+  },
+  {
+    "qid": "Q817250",
+    "title": "Pattadakal Group of Monuments is completed",
+    "subtitle": "World Heritage site with 7th and 8th century temples",
+    "year": 800,
+    "fact": "Pattadakal (Pattadakallu), also called Raktapura, is a complex of 7th and 8th century CE Hindu and Jain temples in northern Karnataka, India.",
+    "wikipediaSlug": "Pattadakal",
+    "image": "Pattadakal_000.JPG",
+    "pageViews": 6056
+  },
+  {
+    "qid": "Q684846",
+    "title": "Château de Malmaison is completed",
+    "subtitle": "Historic estate and mansion near Paris, France",
+    "year": 1242,
+    "fact": "The Château de Malmaison is a French château situated near the left bank of the Seine, about 15 kilometres (9.3 mi) west of the centre of Paris, in the commune of Rueil-Malmaison.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Malmaison",
+    "image": "Chateaudemalmaison.jpg",
+    "pageViews": 6025
+  },
+  {
+    "qid": "Q756815",
+    "title": "Beaumaris Castle is completed",
+    "subtitle": "Castle in Beaumaris, Anglesey, Wales",
+    "year": 1295,
+    "fact": "Beaumaris Castle, in Beaumaris, Anglesey, Wales, was built as part of Edward I's campaign to conquer north Wales after 1282.",
+    "wikipediaSlug": "Beaumaris_Castle",
+    "image": "Castell_Beaumaris_Castle,_Ynys_Mon_(Anglesey),_Wales_45.png",
+    "pageViews": 5988
+  },
+  {
+    "qid": "Q1738764",
+    "title": "Kenilworth Castle is completed",
+    "subtitle": "Castle ruin in the town of Kenilworth, Warwickshire, England, UK",
+    "year": 1122,
+    "fact": "Kenilworth Castle is a castle in the town of Kenilworth in Warwickshire, England, managed by English Heritage; much of it is in ruins.",
+    "wikipediaSlug": "Kenilworth_Castle",
+    "image": "Kenilworth_Castle_gatehouse_landscape.jpg",
+    "pageViews": 5984
+  },
+  {
+    "qid": "Q532399",
+    "title": "Sintra National Palace is completed",
+    "subtitle": "Building in Sintra, Lisbon District, Portugal",
+    "year": 1400,
+    "fact": "The Palace of Sintra, also called Town Palace, is located in the town of Sintra, in the Lisbon District of Portugal.",
+    "wikipediaSlug": "Sintra_National_Palace",
+    "image": "Palacio_Sintra_February_2015-13a.jpg",
+    "pageViews": 5969
+  },
+  {
+    "qid": "Q1256501",
+    "title": "Jameh Mosque of Isfahan is completed",
+    "subtitle": "Mosque in Isfahan, Iranian national heritage site",
+    "year": 800,
+    "fact": "The Jāmeh Mosque of Isfahān or Jāme' Mosque of Isfahān, also known as the Atiq Mosque and the Friday Mosque of Isfahān, is a historic congregational mosque (Jāmeh), located in Isfahan, Iran.",
+    "wikipediaSlug": "Jameh_Mosque_of_Isfahan",
+    "image": "20180301124354_IMG_4179And6more_Interior_3.jpg",
+    "pageViews": 5870
+  },
+  {
+    "qid": "Q4891993",
+    "title": "Berkeley Castle is completed",
+    "subtitle": "Castle in the town of Berkeley, Gloucestershire, England, UK",
+    "year": 1067,
+    "fact": "Berkeley Castle is a castle in the town of Berkeley, Gloucestershire, England.",
+    "wikipediaSlug": "Berkeley_Castle",
+    "image": "Berkeley_Castle_-_geograph.org.uk_-_3079433.jpg",
+    "pageViews": 5836
+  },
+  {
+    "qid": "Q1422235",
+    "title": "Pembroke Castle is completed",
+    "subtitle": "Medieval castle in Wales",
+    "year": 1093,
+    "fact": "Pembroke Castle is a medieval castle in the centre of Pembroke, Pembrokeshire in Wales.",
+    "wikipediaSlug": "Pembroke_Castle",
+    "image": "Pembroke_Castle_-_June_2011.jpg",
+    "pageViews": 5833
+  },
+  {
+    "qid": "Q1090492",
+    "title": "Château Gaillard is completed",
+    "subtitle": "French medieval castle in Les Andelys, Normandy",
+    "year": 1197,
+    "fact": "Château Gaillard is a medieval castle ruin overlooking the River Seine above the commune of Les Andelys, in the French department of Eure, in Normandy.",
+    "wikipediaSlug": "Ch%C3%A2teau_Gaillard",
+    "image": "Château_Gaillard_(Les_Andelys),_vu_du_ciel.JPG",
+    "pageViews": 5668
+  },
+  {
+    "qid": "Q45949",
+    "title": "Preah Vihear Temple is completed",
+    "subtitle": "Khmer Temple that has territorial conflict between Cambodia and Thailand",
+    "year": 893,
+    "fact": "Preah Vihear is an ancient edifice built by the Khmer Empire as a Hindu temple on top of a 525-metre (1,722 ft) cliff in the Dângrêk Mountains, in Cambodia.",
+    "wikipediaSlug": "Preah_Vihear",
+    "image": "03_Prasat_Preah_Vihear-nX-06478.jpg",
+    "pageViews": 5660
+  },
+  {
+    "qid": "Q1125527",
+    "title": "Rochester Castle is completed",
+    "subtitle": "Castle in Rochester, Kent, South East England",
+    "year": 1087,
+    "fact": "Rochester Castle stands on the east bank of the River Medway in Rochester, Kent, South East England.",
+    "wikipediaSlug": "Rochester_Castle",
+    "image": "Rochester_Castle_from_main_approach.jpg",
+    "pageViews": 5637
+  },
+  {
+    "qid": "Q1520841",
+    "title": "Château de Saint-Germain-en-Laye is completed",
+    "subtitle": "Castle housing the national archeology museum near Paris",
+    "year": 1124,
+    "fact": "The Château de Saint-Germain-en-Laye is a former royal palace in the commune of Saint-Germain-en-Laye, in the department of Yvelines, about 19 km west of Paris, France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Saint-Germain-en-Laye",
+    "image": "Château_de_Saint-Germain-en-Laye01.jpg",
+    "pageViews": 5631
+  },
+  {
+    "qid": "Q312342",
+    "title": "Al-Azhar Mosque is completed",
+    "subtitle": "Mosque in Islamic Cairo, Egypt",
+    "year": 971,
+    "fact": "Al-Azhar Mosque, known in Egypt simply as al-Azhar, is a mosque in the historic Islamic core of the city of Cairo, Egypt.",
+    "wikipediaSlug": "Al-Azhar_Mosque",
+    "image": "Mosquée_Al-Azhar.jpg",
+    "pageViews": 5526
+  },
+  {
+    "qid": "Q638519",
+    "title": "Wawel Cathedral is completed",
+    "subtitle": "Cathedral in Kraków, Poland",
+    "year": 1020,
+    "fact": "The Archcathedral Basilica of Saint Stanislaus and Saint Wenceslaus, known colloquially as Wawel Cathedral, is a Catholic cathedral situated on Wawel Hill in Kraków, Poland.",
+    "wikipediaSlug": "Wawel_Cathedral",
+    "image": "Wawel_katedra2.jpg",
+    "pageViews": 5443
+  },
+  {
+    "qid": "Q1303856",
+    "title": "Cattedrale di Monreale is completed",
+    "subtitle": "Church in Monreale, Sicily",
+    "year": 1172,
+    "fact": "Monreale Cathedral is a Catholic church in Monreale, a municipality in the Metropolitan City of Palermo, Sicily.",
+    "wikipediaSlug": "Monreale_Cathedral",
+    "image": "\"Die_Kathedrale_zeigt_in_besonders_eindrucksvoller_Weise_den_normannisch-arabisch-byzantinischen_Baustil\"_02.jpg",
+    "pageViews": 5440
+  },
+  {
+    "qid": "Q2368947",
+    "title": "Lismore Castle is completed",
+    "subtitle": "Historic Castle in Lismore, Co Waterford, Ireland",
+    "year": 1185,
+    "fact": "Lismore Castle is a castle located in the town of Lismore, County Waterford, Ireland.",
+    "wikipediaSlug": "Lismore_Castle",
+    "image": "Lismore_Castle_(Lismore,_Co._Waterford).jpg",
+    "pageViews": 5277
+  },
+  {
+    "qid": "Q4583646",
+    "title": "Raby Castle is completed",
+    "subtitle": "Medieval castle in England",
+    "year": 1378,
+    "fact": "Raby Castle is a medieval castle located near Staindrop in County Durham, England, among 200 acres (810,000 m2) of deer park.",
+    "wikipediaSlug": "Raby_Castle",
+    "image": "Raby_Castle_(spring).jpg",
+    "pageViews": 5262
+  },
+  {
+    "qid": "Q644464",
+    "title": "Akershus Fortress is completed",
+    "subtitle": "Former medieval castle in Oslo, Norway",
+    "year": 1290,
+    "fact": "Akershus Fortress or Akershus Castle is a medieval castle in the Norwegian capital Oslo that was built to protect and provide a royal residence for the city.",
+    "wikipediaSlug": "Akershus_Fortress",
+    "image": "14-09-02-oslo-RalfR-370.jpg",
+    "pageViews": 5181
+  },
+  {
+    "qid": "Q849489",
+    "title": "Chora Church is completed",
+    "subtitle": "Church converted to mosque in Turkey",
+    "year": 1001,
+    "fact": "The Chora Church or Kariye Mosque is a Byzantine church, now converted to a mosque, in the Edirnekapı neighborhood of Fatih district, Istanbul, Turkey.",
+    "wikipediaSlug": "The_Chora",
+    "image": "Chora_Church_2024.jpg",
+    "pageViews": 5140
+  },
+  {
+    "qid": "Q540964",
+    "title": "Harlech Castle is completed",
+    "subtitle": "Castle in Harlech, Gwynedd, Wales",
+    "year": 1283,
+    "fact": "Harlech Castle in Harlech, Gwynedd, Wales, is a Grade I listed medieval fortification built onto a rocky knoll close to the Irish Sea.",
+    "wikipediaSlug": "Harlech_Castle",
+    "image": "Harlech_Castle_-_Cadw_photograph.jpg",
+    "pageViews": 5114
+  },
+  {
+    "qid": "Q682601",
+    "title": "Caerphilly Castle is completed",
+    "subtitle": "Castle in Caerphilly, Wales",
+    "year": 1268,
+    "fact": "Caerphilly Castle is a medieval fortification in Caerphilly in South Wales.",
+    "wikipediaSlug": "Caerphilly_Castle",
+    "image": "Caerphilly_aerial.jpg",
+    "pageViews": 5067
+  },
+  {
+    "qid": "Q844694",
+    "title": "Kerak Castle is completed",
+    "subtitle": "Historical castle in Jordan",
+    "year": 1142,
+    "fact": "Kerak Castle is a large medieval castle located in al-Karak, Jordan.",
+    "wikipediaSlug": "Kerak_Castle",
+    "image": "Kerak_BW_1.JPG",
+    "pageViews": 5066
+  },
+  {
+    "qid": "Q2480949",
+    "title": "Djinguereber Mosque is completed",
+    "subtitle": "Mosque in Timbuktu, Mali",
+    "year": 1327,
+    "fact": "The Djinguereber Mosque, also known as Djingareyber or Djingarey Ber, is a famous learning center in Timbuktu, Mali.",
+    "wikipediaSlug": "Djinguereber_Mosque",
+    "image": "Djingareiber_cour.jpg",
+    "pageViews": 5045
+  },
+  {
+    "qid": "Q1949590",
+    "title": "Pontefract Castle is completed",
+    "subtitle": "Castle in West Yorkshire, England, UK",
+    "year": 1070,
+    "fact": "Pontefract Castle is a castle ruin in the town of Pontefract, in West Yorkshire, England.",
+    "wikipediaSlug": "Pontefract_Castle",
+    "image": "Pontefract_Castle.jpg",
+    "pageViews": 5009
+  },
+  {
+    "qid": "Q151545",
+    "title": "Wartburg is completed",
+    "subtitle": "Castle in Eisenach, Germany",
+    "year": 1067,
+    "fact": "The Wartburg is a castle originally built in the Middle Ages.",
+    "wikipediaSlug": "Wartburg",
+    "image": "Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg",
+    "pageViews": 4940
+  },
+  {
+    "qid": "Q1473348",
+    "title": "Glasgow Cathedral is completed",
+    "subtitle": "Church in Glasgow, Scotland, UK",
+    "year": 1136,
+    "fact": "Glasgow Cathedral is a parish church of the Church of Scotland in Glasgow, Scotland.",
+    "wikipediaSlug": "Glasgow_Cathedral",
+    "image": "Glasgow-cathedral-may-2007.jpg",
+    "pageViews": 4918
+  },
+  {
+    "qid": "Q1048381",
+    "title": "Shanhai Pass is completed",
+    "subtitle": "Pass in the Great Wall of China",
+    "year": 1381,
+    "fact": "The Shanhai Pass is a major fortified gateway at the eastern end of the Great Wall of China and one of its most crucial fortifications, as the pass commands the narrowest choke point in the strategic Liaoxi Corridor, an elongated coastal plain between the Yan Mountains foothills and the Bohai Sea, which is the only easily traversable landway between North and Northeast China.",
+    "wikipediaSlug": "Shanhai_Pass",
+    "image": "Old_Dragon's_Head_of_Great_Wall.jpg",
+    "pageViews": 4854
+  },
+  {
+    "qid": "Q2969640",
+    "title": "Lancaster Castle is completed",
+    "subtitle": "Grade I listed castle in Lancaster, United Kingdom",
+    "year": 1093,
+    "fact": "Lancaster Castle is a medieval castle and former prison in Lancaster in the English county of Lancashire.",
+    "wikipediaSlug": "Lancaster_Castle",
+    "image": "Lancaster_Castle_-_2023-03-25.jpg",
+    "pageViews": 4841
+  },
+  {
+    "qid": "Q206231",
+    "title": "Citadel of Aleppo is completed",
+    "subtitle": "Castle in Syria",
+    "year": 1150,
+    "fact": "The Citadel of Aleppo is a large medieval fortified palace in the centre of the old city of Aleppo, northern Syria.",
+    "wikipediaSlug": "Citadel_of_Aleppo",
+    "image": "Citadel_of_Aleppo.jpg",
+    "pageViews": 4816
+  },
+  {
+    "qid": "Q679292",
+    "title": "Hohensalzburg Fortress is completed",
+    "subtitle": "Fortress in Salzburg, Austria",
+    "year": 1077,
+    "fact": "Hohensalzburg Fortress is a large medieval fortress in the city of Salzburg, Austria.",
+    "wikipediaSlug": "Hohensalzburg_Fortress",
+    "image": "Salzburg_-_Festung_Hohensalzburg.JPG",
+    "pageViews": 4791
+  },
+  {
+    "qid": "Q269654",
+    "title": "Cathedral of St. Michael and St. Gudula is completed",
+    "subtitle": "Cathedral in Brussels, Belgium",
+    "year": 1226,
+    "fact": "The Cathedral of St.",
+    "wikipediaSlug": "Cathedral_of_St._Michael_and_St._Gudula",
+    "image": "Saints-Michel-et-Gudule_Luc_Viatour.jpg",
+    "pageViews": 4744
+  },
+  {
+    "qid": "Q501080",
+    "title": "Kimbolton Castle is completed",
+    "subtitle": "Country house in Cambridgeshire, Engand",
+    "year": 1200,
+    "fact": "Kimbolton Castle is a country house in Kimbolton, Cambridgeshire, England.",
+    "wikipediaSlug": "Kimbolton_Castle",
+    "image": "Kimbolton_School,_west_and_south_fronts_-_geograph.org.uk_-_2522953.jpg",
+    "pageViews": 4733
+  },
+  {
+    "qid": "Q192981",
+    "title": "Minaret of Jam is completed",
+    "subtitle": "Minaret in Afghanistan",
+    "year": 1194,
+    "fact": "The Minaret of Jam is a UNESCO World Heritage Site in western Afghanistan.",
+    "wikipediaSlug": "Minaret_of_Jam",
+    "image": "Jam_afghan_architecture_harirud_brick.jpg",
+    "pageViews": 4685
+  },
+  {
+    "qid": "Q679218",
+    "title": "Bibi-Khanym Mosque is completed",
+    "subtitle": "Historical mosque in Samarkand, Uzbekistan",
+    "year": 1404,
+    "fact": "The Bibi-Khanym Mosque is one of the most important monuments of Samarkand, Uzbekistan.",
+    "wikipediaSlug": "Bibi-Khanym_Mosque",
+    "image": "Мечеть_Биби_Ханум._Самарканд.jpg",
+    "pageViews": 4580
+  },
+  {
+    "qid": "Q277540",
+    "title": "Chan Chan is completed",
+    "subtitle": "Archaeological site in Peru",
+    "year": 850,
+    "fact": "Chan Chan, sometimes called Chimor itself, was the capital city of the Chimor kingdom.",
+    "wikipediaSlug": "Chan_Chan",
+    "image": "Chan_chan_view1.jpg",
+    "pageViews": 4384
+  },
+  {
+    "qid": "Q372647",
+    "title": "Chillon Castle is completed",
+    "subtitle": "Moated castle in Veytaux in the canton of Vaud, Switzerland",
+    "year": 1160,
+    "fact": "Chillon Castle is a medieval island castle located on Lake Geneva, south of Veytaux in the Swiss canton of Vaud.",
+    "wikipediaSlug": "Chillon_Castle",
+    "image": "001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+    "pageViews": 4370
+  },
+  {
+    "qid": "Q1478407",
+    "title": "Palermo Cathedral is completed",
+    "subtitle": "Cathedral in Italy",
+    "year": 1185,
+    "fact": "Palermo Cathedral is the cathedral church of the Roman Catholic Archdiocese of Palermo, located in Palermo, Sicily, southern Italy.",
+    "wikipediaSlug": "Palermo_Cathedral",
+    "image": "Palermo_Cathedral_Facade.jpg",
+    "pageViews": 4336
+  },
+  {
+    "qid": "Q138388",
+    "title": "Blue Mosque is completed",
+    "subtitle": "Mosque and mausoleum in Mazar-i-Sharif, Afghanistan",
+    "year": 1481,
+    "fact": "The Mausoleum of Ali, also known as the Shrine of Hazrat Ali and the Great Blue Mosque, is a mausoleum and mosque complex located in Mazar-i-Sharif, the capital and largest city of Balkh Province in northern Afghanistan.",
+    "wikipediaSlug": "Mausoleum_of_Imam_Ali",
+    "image": "Blue_Mosque_in_the_northern_Afghan_city_in_2012.jpg",
+    "pageViews": 4264
+  },
+  {
+    "qid": "Q309484",
+    "title": "Al-Askari Shrine is completed",
+    "subtitle": "Religious historical complex in Samarra, Iraq",
+    "year": 945,
+    "fact": "The Al-Askari Shrine, also known as the 'Askariyya Shrine and the Al-Askari Mosque, is a Twelver Shi'ite mosque and mausoleum, located in the city of Samarra, in the Saladin Governorate of Iraq.",
+    "wikipediaSlug": "Al-Askari_Shrine",
+    "image": "اثناء_احياء_احدى_الشعائر_الدينية_في_المدينة.jpg",
+    "pageViews": 4246
+  },
+  {
+    "qid": "Q697003",
+    "title": "Artstetten Castle is completed",
+    "subtitle": "Castle in Lower Austria",
+    "year": 1253,
+    "fact": "Artstetten Castle is a historic Schloss near the Wachau valley in Lower Austria, in the municipality of Artstetten-Pöbring.",
+    "wikipediaSlug": "Artstetten_Castle",
+    "image": "Aerial_image_of_the_Artstetten_Castle_(view_from_the_southeast).jpg",
+    "pageViews": 4202
+  },
+  {
+    "qid": "Q781219",
+    "title": "Castel Nuovo is completed",
+    "subtitle": "Castle in Naples",
+    "year": 1282,
+    "fact": "Castel Nuovo, often called Maschio Angioino, is a medieval castle located in front of Piazza Municipio and the city hall in central Naples, Campania, Italy.",
+    "wikipediaSlug": "Castel_Nuovo",
+    "image": "Municip.jpg",
+    "pageViews": 4196
+  },
+  {
+    "qid": "Q17642916",
+    "title": "Nottingham Castle is completed",
+    "subtitle": "Castle in Nottingham, Nottinghamshire, England, UK",
+    "year": 1067,
+    "fact": "Nottingham Castle is a Stuart Restoration-era ducal mansion in Nottingham, England, built on the site of a Norman castle built starting in 1068, and added to extensively through the medieval period, when it was an important royal fortress and occasional royal residence.",
+    "wikipediaSlug": "Nottingham_Castle",
+    "image": "Nottingham_Castle_Gardens_-_geograph.org.uk_-_2878127.jpg",
+    "pageViews": 4178
+  },
+  {
+    "qid": "Q593311",
+    "title": "Bratislava Castle is completed",
+    "subtitle": "Castle in Europe",
+    "year": 1431,
+    "fact": "Bratislava Castle is the main castle of Bratislava, the capital of Slovakia.",
+    "wikipediaSlug": "Bratislava_Castle",
+    "image": "Bratislava_-_Burg_(b).JPG",
+    "pageViews": 4123
+  },
+  {
+    "qid": "Q2344182",
+    "title": "Katskhi pillar is completed",
+    "subtitle": "Cultural heritage monument in Georgia",
+    "year": 500,
+    "fact": "The Katskhi Pillar is a natural limestone monolith located at the village of Katskhi in western Georgian region of Imereti, near the town of Chiatura.",
+    "wikipediaSlug": "Katskhi_Pillar",
+    "image": "Katskhi_Pillar2_(edited).jpg",
+    "pageViews": 4065
+  },
+  {
+    "qid": "Q7971367",
+    "title": "Church of Saint George is completed",
+    "subtitle": "One of eleven monolithic churches in Lalibela, Ethiopia",
+    "year": 1200,
+    "fact": "The Church of Saint George is one of eleven rock-hewn monolithic churches in Lalibela, a town in the Amhara Region of Ethiopia.",
+    "wikipediaSlug": "Church_of_Saint_George,_Lalibela",
+    "image": "Lalibela,_san_giorgio,_esterno_24.jpg",
+    "pageViews": 4062
+  },
+  {
+    "qid": "Q266698",
+    "title": "Karlštejn Castle is completed",
+    "subtitle": "Gothic castle in the Czech Republic founded by Charles IV",
+    "year": 1348,
+    "fact": "Karlštejn Castle is a large Gothic castle in the Czech Republic, founded in 1348 by King Charles IV.",
+    "wikipediaSlug": "Karl%C5%A1tejn",
+    "image": "Burg_Karlstein_-_Karlštejn_-_panoramio.jpg",
+    "pageViews": 4004
+  },
+  {
+    "qid": "Q5901",
+    "title": "Onze-Lieve-Vrouwekathedraal is completed",
+    "subtitle": "Roman-Catholic cathedral in Antwerp, Belgium",
+    "year": 1352,
+    "fact": "The Cathedral of Our Lady is a Roman Catholic cathedral in Antwerp, Belgium.",
+    "wikipediaSlug": "Cathedral_of_Our_Lady_(Antwerp)",
+    "image": "Exterior_of_Onze-Lieve-Vrouwekathedraal_(Antwerp)-.jpg",
+    "pageViews": 3992
+  },
+  {
+    "qid": "Q738109",
+    "title": "Książ Castle and park complex is completed",
+    "subtitle": "Castle in Poland",
+    "year": 1300,
+    "fact": "Książ Castle is a castle in northern Wałbrzych in Lower Silesian Voivodeship, Poland.",
+    "wikipediaSlug": "Ksi%C4%85%C5%BC_Castle",
+    "image": "Ksiaz_-_zamek_01.jpg",
+    "pageViews": 3968
+  },
+  {
+    "qid": "Q1265294",
+    "title": "Sankore Madrasah is completed",
+    "subtitle": "Ancient center of learning in Timbuktu, Mali",
+    "year": 988,
+    "fact": "Sankoré Madrasa is one of three medieval mosques and centres of learning located in Timbuktu, Mali, the others being the Djinguereber and Sidi Yahya mosques.",
+    "wikipediaSlug": "Sankor%C3%A9_Madrasah",
+    "image": "2007_Sankore_Mosque_Timbuktu_02.jpg",
+    "pageViews": 3965
+  },
+  {
+    "qid": "Q660082",
+    "title": "Melk Abbey opens",
+    "subtitle": "Benedictine Abbey in Melk, Austria",
+    "year": 1089,
+    "fact": "Melk Abbey is a Benedictine abbey above the town of Melk, Lower Austria, on a rocky outcrop overlooking the Danube river, adjoining the Wachau valley, that belongs to the Austrian Congregation.",
+    "wikipediaSlug": "Melk_Abbey",
+    "image": "Stift_Melk,_Westansicht.jpg",
+    "pageViews": 3951
+  },
+  {
+    "qid": "Q869513",
+    "title": "Santa Maria del Popolo is completed",
+    "subtitle": "Church in Rome, Italy",
+    "year": 1099,
+    "fact": "The Parish Basilica of Santa Maria del Popolo is a titular church and a minor basilica in Rome run by the Augustinian order.",
+    "wikipediaSlug": "Santa_Maria_del_Popolo",
+    "image": "20140803_Basilica_of_Santa_Maria_del_Popolo_Rome_0191.jpg",
+    "pageViews": 3913
+  },
+  {
+    "qid": "Q1140023",
+    "title": "Giotto's Campanile is completed",
+    "subtitle": "Bell tower by Giotto",
+    "year": 1298,
+    "fact": "Giotto's Campanile is a free-standing campanile that is part of the complex of buildings that make up Florence Cathedral on the Piazza del Duomo in Florence, Italy.",
+    "wikipediaSlug": "Giotto%27s_Campanile",
+    "image": "CampanileGiotto-01.jpg",
+    "pageViews": 3873
+  },
+  {
+    "qid": "Q550064",
+    "title": "Malmesbury Abbey is completed",
+    "subtitle": "Abbey and parish church in Malmesbury, Wiltshire, England, UK",
+    "year": 601,
+    "fact": "Malmesbury Abbey, at Malmesbury in Wiltshire, England, is a former Benedictine abbey dedicated to Saint Peter and Saint Paul.",
+    "wikipediaSlug": "Malmesbury_Abbey",
+    "image": "Malmesbury.abbey.exterior.arp.jpg",
+    "pageViews": 3872
+  },
+  {
+    "qid": "Q376699",
+    "title": "Castle of Pierrefonds is completed",
+    "subtitle": "French castle",
+    "year": 1393,
+    "fact": "The Château de Pierrefonds is a castle situated in the commune of Pierrefonds in the Oise department in the Hauts-de-France region, Northern France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Pierrefonds",
+    "image": "Château_de_Pierrefonds_vu_depuis_le_Parc.jpg",
+    "pageViews": 3867
+  },
+  {
+    "qid": "Q930613",
+    "title": "Basilica of St. John is completed",
+    "subtitle": "Church building located on the Ayasoluk by Ephesus",
+    "year": 501,
+    "fact": "The Basilica of St.",
+    "wikipediaSlug": "Basilica_of_St._John",
+    "image": "Saint-John_in_Ephesus_(6).JPG",
+    "pageViews": 3842
+  },
+  {
+    "qid": "Q1025398",
+    "title": "Caerlaverock Castle is completed",
+    "subtitle": "Former castle archaeological site in Dumfries and Galloway, Scotland, UK",
+    "year": 1300,
+    "fact": "Caerlaverock Castle is a moated triangular castle first built in the 13th century.",
+    "wikipediaSlug": "Caerlaverock_Castle",
+    "image": "Caerlaverock_Castle_from_the_air.jpg",
+    "pageViews": 3837
+  },
+  {
+    "qid": "Q57341",
+    "title": "Frankfurt Cathedral is completed",
+    "subtitle": "Gothic church located in the centre of Frankfurt am Main, Germany",
+    "year": 1239,
+    "fact": "Frankfurt Cathedral, officially Imperial Dome of Saint Bartholomew, is a Roman Catholic Gothic church located in the heart of Frankfurt am Main, Germany.",
+    "wikipediaSlug": "Frankfurt_Cathedral",
+    "image": "Frankfurt_Am_Main-St_Bartholomaeus-Ansicht_vom_Nextower-20110812.jpg",
+    "pageViews": 3805
+  },
+  {
+    "qid": "Q1070187",
+    "title": "Chepstow Castle is completed",
+    "subtitle": "Castle in Chepstow, Monmouthshire, Wales",
+    "year": 1067,
+    "fact": "Chepstow Castle at Chepstow, Monmouthshire, Wales, is the oldest surviving post-Roman stone fortification in Britain.",
+    "wikipediaSlug": "Chepstow_Castle",
+    "image": "Chepstow_Castle_(4197).jpg",
+    "pageViews": 3741
+  },
+  {
+    "qid": "Q1704670",
+    "title": "Winchester Castle is completed",
+    "subtitle": "Grade I listed castle in Winchester, United Kingdom",
+    "year": 1067,
+    "fact": "Winchester Castle was a royal residence in Winchester, Hampshire, England, founded in 1067 by William the Conqueror.",
+    "wikipediaSlug": "Winchester_Castle",
+    "image": "WinchesterCastle.jpg",
+    "pageViews": 3721
+  },
+  {
+    "qid": "Q2652207",
+    "title": "Herstmonceux Castle is completed",
+    "subtitle": "Castle near Herstmonceux, East Sussex, England; formerly a manor",
+    "year": 1401,
+    "fact": "Herstmonceux Castle is a brick-built castle, dating from the 15th century, near Herstmonceux, East Sussex, England.",
+    "wikipediaSlug": "Herstmonceux_Castle",
+    "image": "Herstmonceux_Castle_with_moat.jpg",
+    "pageViews": 3632
+  },
+  {
+    "qid": "Q842822",
+    "title": "Maiden Tower is completed",
+    "subtitle": "Monument in the Old City, Baku, Azerbaijan",
+    "year": 1200,
+    "fact": "The Maiden Tower is a 12th-century monument in the Old City, Baku, Azerbaijan.",
+    "wikipediaSlug": "Maiden_Tower_(Baku)",
+    "image": "Maiden_tower_IMG_8521.jpg",
+    "pageViews": 3622
+  },
+  {
+    "qid": "Q1152972",
+    "title": "Svetitskhoveli Cathedral is completed",
+    "subtitle": "Cathedral in Mtskheta, Georgia",
+    "year": 1001,
+    "fact": "The Svetitskhoveli Cathedral is an Orthodox Christian cathedral located in the historic town of Mtskheta, Georgia, to the northwest of the Georgian capital Tbilisi.",
+    "wikipediaSlug": "Svetitskhoveli_Cathedral",
+    "image": "Svetitskhoveli_Cathedral_in_Georgia,_Europe.jpg",
+    "pageViews": 3598
+  },
+  {
+    "qid": "Q1049008",
+    "title": "Castle of the Moors is completed",
+    "subtitle": "Cultural heritage monument in Sintra, Portugal",
+    "year": 700,
+    "fact": "The Castle of the Moors is a hilltop medieval castle located in the central Portuguese civil parish of Santa Maria e São Miguel, in the municipality of Sintra, about 25 km (16 mi) northwest of Lisbon.",
+    "wikipediaSlug": "Castle_of_the_Moors",
+    "image": "Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_112-121_PAN.jpg",
+    "pageViews": 3573
+  },
+  {
+    "qid": "Q90801",
+    "title": "Rumeli Hisarı is completed",
+    "subtitle": "Ottoman castle in Istanbul",
+    "year": 1451,
+    "fact": "Rumelihisarı or Boğazkesen Fortress is a medieval Ottoman fortress located in Istanbul, Turkey, on a series of hills on the European banks of the Bosphorus.",
+    "wikipediaSlug": "Rumelihisar%C4%B1",
+    "image": "Istanbul,_Turkey_-_53686764072.jpg",
+    "pageViews": 3566
+  },
+  {
+    "qid": "Q2422298",
+    "title": "Hanging Church is completed",
+    "subtitle": "Church in Cairo, Egypt",
+    "year": 601,
+    "fact": "Saint Virgin Mary's Coptic Orthodox Church, also known as the Hanging Church, is one of the oldest churches in Egypt which dates to the third century.",
+    "wikipediaSlug": "Hanging_Church",
+    "image": "Kairo_Hanging_Church_BW_1.jpg",
+    "pageViews": 3556
+  },
+  {
+    "qid": "Q810103",
+    "title": "San Petronio Basilica is completed",
+    "subtitle": "Minor basilica",
+    "year": 1350,
+    "fact": "The Basilica of San Petronio is a minor basilica and church of the Archdiocese of Bologna located in Bologna, Emilia-Romagna, northern Italy.",
+    "wikipediaSlug": "San_Petronio,_Bologna",
+    "image": "Bologna_Italy_San_Petronio_from_Asinelli.jpg",
+    "pageViews": 3548
+  },
+  {
+    "qid": "Q1046529",
+    "title": "Casa de Pilatos is completed",
+    "subtitle": "Museum",
+    "year": 1483,
+    "fact": "La Casa de Pilatos is an Andalusian palace in Seville, Spain, which serves as the permanent residence of the Dukes of Medinaceli.",
+    "wikipediaSlug": "Casa_de_Pilatos",
+    "image": "Sevilla-4-7_(48040489973).jpg",
+    "pageViews": 3526
+  },
+  {
+    "qid": "Q1441255",
+    "title": "Porto Cathedral is completed",
+    "subtitle": "Cathedral",
+    "year": 1110,
+    "fact": "The Porto Cathedral is a Roman Catholic church located in the historical centre of the city of Porto, Portugal.",
+    "wikipediaSlug": "Porto_Cathedral",
+    "image": "Porto,_Sé_do_Porto_(9).jpg",
+    "pageViews": 3516
+  },
+  {
+    "qid": "Q917183",
+    "title": "Church of Our Lady is completed",
+    "subtitle": "Church in Bruges, Belgium",
+    "year": 1210,
+    "fact": "The Church of Our Lady is a Roman Catholic church in Bruges, Belgium, dating mainly from the 13th, 14th and 15th centuries.",
+    "wikipediaSlug": "Church_of_Our_Lady,_Bruges",
+    "image": "Church_Of_Our_Lady_Bruges.jpg",
+    "pageViews": 3503
+  },
+  {
+    "qid": "Q1473825",
+    "title": "Palazzo dei Normanni is completed",
+    "subtitle": "Palace in Palermo, Italy",
+    "year": 1130,
+    "fact": "The Palazzo dei Normanni, also called Royal Palace of Palermo, is a palace in Palermo, Sicily, Italy.",
+    "wikipediaSlug": "Palazzo_dei_Normanni",
+    "image": "Normandiarren_gaztelua.jpg",
+    "pageViews": 3489
+  },
+  {
+    "qid": "Q1266330",
+    "title": "Dunvegan Castle is completed",
+    "subtitle": "Castle in Duirinish, Highland, Scotland, UK",
+    "year": 1220,
+    "fact": "Dunvegan Castle is located 1 mile (1.6 km) to the north of Dunvegan on the Isle of Skye, off the west coast of Scotland.",
+    "wikipediaSlug": "Dunvegan_Castle",
+    "image": "Highland_-_Dunvegan_Castle_-_20240524140144.jpg",
+    "pageViews": 3469
+  },
+  {
+    "qid": "Q2165568",
+    "title": "Trim Castle is completed",
+    "subtitle": "Irish castle",
+    "year": 1174,
+    "fact": "Trim Castle is a castle on the south bank of the River Boyne in Trim, County Meath, Ireland, with an area of 30,000 m2.",
+    "wikipediaSlug": "Trim_Castle",
+    "image": "Trim_Castle_6.jpg",
+    "pageViews": 3408
+  },
+  {
+    "qid": "Q1143171",
+    "title": "St. Mary's Basilica is completed",
+    "subtitle": "Church",
+    "year": 1400,
+    "fact": "The Church of the Assumption of the Blessed Virgin Mary, known colloquially as the St.",
+    "wikipediaSlug": "Church_of_the_Assumption_of_the_Blessed_Virgin_Mary,_Krak%C3%B3w",
+    "image": "Church_of_Our_Lady_Assumed_into_Heaven,_5_Mariacki_square,_Old_Town,_Kraków,_Poland.jpg",
+    "pageViews": 3383
+  },
+  {
+    "qid": "Q1552366",
+    "title": "Château du Haut-Koenigsbourg is completed",
+    "subtitle": "Castle in Alsace, France",
+    "year": 1114,
+    "fact": "The Château du Haut-Koenigsbourg, sometimes also Haut-Kœnigsbourg, is a medieval castle located in the commune of Orschwiller in the Bas-Rhin département of Alsace, France.",
+    "wikipediaSlug": "Ch%C3%A2teau_du_Haut-Koenigsbourg",
+    "image": "Château_du_Haut-Koenigsbourg_(755_m)_(Orschwiller)_(19)_edited_(1).jpg",
+    "pageViews": 3352
+  },
+  {
+    "qid": "Q2661381",
+    "title": "Malahide Castle is completed",
+    "subtitle": "Castle near the village of Malahide, Ireland",
+    "year": 1185,
+    "fact": "Malahide Castle, parts of which date to the 12th century, lies close to the village of Malahide, 14 km north of central Dublin in Ireland.",
+    "wikipediaSlug": "Malahide_Castle",
+    "image": "Malahide_Castle,_March_2011_(2).jpg",
+    "pageViews": 3347
+  },
+  {
+    "qid": "Q550514",
+    "title": "Basilica of Saint Nicholas is completed",
+    "subtitle": "Church in Bari",
+    "year": 1001,
+    "fact": "The Pontifical Basilica of Saint Nicholas is a church in Bari, southern Italy, that holds wide religious significance throughout Europe and the Christian world.",
+    "wikipediaSlug": "Basilica_of_Saint_Nicholas,_Bari",
+    "image": "\"Die_Basilika_San_Nicola_ist_auch_heute_noch_ein_bedeutendes_Pilgerziel\"_01.jpg",
+    "pageViews": 3280
+  },
+  {
+    "qid": "Q727760",
+    "title": "Lincoln Castle is completed",
+    "subtitle": "Grade I listed building in Lincolnshire, England, UK",
+    "year": 1068,
+    "fact": "Lincoln Castle is a major medieval castle constructed in Lincoln, England, during the late 11th century by William the Conqueror on the site of a pre-existing Roman fortress.",
+    "wikipediaSlug": "Lincoln_Castle",
+    "image": "Lincoln_Castle_view.jpg",
+    "pageViews": 3263
+  },
+  {
+    "qid": "Q225459",
+    "title": "Königsberg Cathedral is completed",
+    "subtitle": "Cathedral in Kaliningrad, Russia",
+    "year": 1333,
+    "fact": "Königsberg Cathedral is a Brick Gothic-style monument in Kaliningrad, Russia, located on Kneiphof island in the Pregolya river.",
+    "wikipediaSlug": "K%C3%B6nigsberg_Cathedral",
+    "image": "Kaliningrad_05-2017_img04_Kant_Island.jpg",
+    "pageViews": 3262
+  },
+  {
+    "qid": "Q733890",
+    "title": "Santa Prassede is completed",
+    "subtitle": "Medieval church in Rome",
+    "year": 780,
+    "fact": "The Basilica of Saint Praxedes, commonly known in Italian as Santa Prassede, is an early medieval titular church and minor basilica located near the papal basilica of Saint Mary Major, on Via di Santa Prassede, rione Monti in Rome, Italy.",
+    "wikipediaSlug": "Santa_Prassede",
+    "image": "Santa_Prassede_Façade.jpg",
+    "pageViews": 3195
+  },
+  {
+    "qid": "Q583251",
+    "title": "Saint-Étienne-du-Mont is completed",
+    "subtitle": "Church located in Paris, in France",
+    "year": 1494,
+    "fact": "Saint-Étienne-du-Mont is a Catholic church in Paris, France, on the Montagne Sainte-Geneviève in the 5th arrondissement, near the Panthéon.",
+    "wikipediaSlug": "Saint-%C3%89tienne-du-Mont",
+    "image": "St-Etienne-du-Mont_Exterior,_Paris,_France_-_Diliff.jpg",
+    "pageViews": 3191
+  },
+  {
+    "qid": "Q933903",
+    "title": "St. Mary's Basilica in Gdańsk is completed",
+    "subtitle": "Church building in Gdańsk, Poland",
+    "year": 1343,
+    "fact": "St.",
+    "wikipediaSlug": "St._Mary%27s_Church,_Gda%C5%84sk",
+    "image": "Bazylika_Mariacka_DSC01870.jpg",
+    "pageViews": 3178
+  },
+  {
+    "qid": "Q425622",
+    "title": "St. Nicholas Church, Hamburg is completed",
+    "subtitle": "Church building in Altstadt (Hamburg), Germany",
+    "year": 1195,
+    "fact": "The Church of St.",
+    "wikipediaSlug": "St._Nicholas_Church,_Hamburg",
+    "image": "Hamburg_StNikolai_Panorama.jpg",
+    "pageViews": 3154
+  },
+  {
+    "qid": "Q1511206",
+    "title": "Gergeti Trinity Church is completed",
+    "subtitle": "Historical church in Mtskheta-Mtianeti",
+    "year": 1400,
+    "fact": "Gergeti Trinity Church is a popular name for the Holy Trinity Church near the village of Stepantsminda in Georgia.",
+    "wikipediaSlug": "Gergeti_Trinity_Church",
+    "image": "Gergeti_Trinity_Church_09.23.jpg",
+    "pageViews": 3141
+  },
+  {
+    "qid": "Q170402",
+    "title": "St. Thomas Church is completed",
+    "subtitle": "Lutheran church in Leipzig, Germany",
+    "year": 1401,
+    "fact": "The St.",
+    "wikipediaSlug": "St._Thomas_Church,_Leipzig",
+    "image": "Leipzig_Thomaskirche.jpg",
+    "pageViews": 3136
+  },
+  {
+    "qid": "Q732249",
+    "title": "Portchester Castle is completed",
+    "subtitle": "Medieval castle in Portchester, Hampshire, England, UK",
+    "year": 1100,
+    "fact": "Portchester Castle is a medieval fortress that was developed within the walls of the Roman Saxon Shore fort of Portus Adurni at Portchester, to the east of Fareham in Hampshire.",
+    "wikipediaSlug": "Portchester_Castle",
+    "image": "Portchester_castle_04.jpg",
+    "pageViews": 3134
+  },
+  {
+    "qid": "Q7721569",
+    "title": "Newcastle upon Tyne Castle is completed",
+    "subtitle": "Castle in Newcastle upon Tyne, England, UK",
+    "year": 1080,
+    "fact": "The Castle, Newcastle, or Newcastle Castle is a medieval fortification in Newcastle upon Tyne, England, built on the site of the fortress that gave the City of Newcastle its name.",
+    "wikipediaSlug": "The_Castle,_Newcastle",
+    "image": "Newcastle_schloss.jpg",
+    "pageViews": 3134
+  },
+  {
+    "qid": "Q915413",
+    "title": "Mosque of Ibn Tulun is completed",
+    "subtitle": "Mosque in Cairo, Egypt",
+    "year": 879,
+    "fact": "The Mosque of Ibn Tulun is a mosque in Islamic Cairo, Egypt.",
+    "wikipediaSlug": "Mosque_of_Ibn_Tulun",
+    "image": "Kairo_Ibn_Tulun_Moschee_BW_4.jpg",
+    "pageViews": 3120
+  },
+  {
+    "qid": "Q1613640",
+    "title": "Hermitage Castle is completed",
+    "subtitle": "Semi-ruined castle in Scotland",
+    "year": 1240,
+    "fact": "Hermitage Castle is a semi-ruined castle in the border region of Scotland.",
+    "wikipediaSlug": "Hermitage_Castle",
+    "image": "Hermitage_Castle_06.jpg",
+    "pageViews": 3108
+  },
+  {
+    "qid": "Q686306",
+    "title": "Amalfi Cathedral is completed",
+    "subtitle": "Cathedral in Italy",
+    "year": 801,
+    "fact": "Amalfi Cathedral is a medieval Roman Catholic cathedral in the Piazza del Duomo, Amalfi, Italy.",
+    "wikipediaSlug": "Amalfi_Cathedral",
+    "image": "Amalfi_BW_2013-05-15_10-09-21.jpg",
+    "pageViews": 3106
+  },
+  {
+    "qid": "Q730019",
+    "title": "Church of Agios Dimitrios, Thessaloniki is completed",
+    "subtitle": "Church in Thessaloniki, Greece",
+    "year": 601,
+    "fact": "The Church of Saint Demetrius, or Hagios Demetrios, is the main sanctuary dedicated to Saint Demetrius, the patron saint of Thessaloniki, dating from a time when it was the second largest city of the Byzantine Empire.",
+    "wikipediaSlug": "Hagios_Demetrios",
+    "image": "Ναός_Αγίου_Δημητρίου,_Θεσσαλονίκη_3785.jpg",
+    "pageViews": 3099
+  },
+  {
+    "qid": "Q499285",
+    "title": "Geghard is completed",
+    "subtitle": "Cultural heritage monument of Armenia",
+    "year": 1215,
+    "fact": "Geghard is a medieval monastery in the Kotayk province of Armenia, being partially carved out of the adjacent mountain, surrounded by cliffs.",
+    "wikipediaSlug": "Geghard",
+    "image": "Monasterio_de_Geghard,_Armenia,_2016-10-02,_DD_63.jpg",
+    "pageViews": 3094
+  },
+  {
+    "qid": "Q1453427",
+    "title": "Church of Our Lady before Týn is completed",
+    "subtitle": "Church building in Old Town, Czech Republic",
+    "year": 1380,
+    "fact": "The Church of the Mother of God before Týn, or Church of Our Lady before Týn, is a Gothic church and a dominant feature of the Old Town of Prague, Czech Republic.",
+    "wikipediaSlug": "Church_of_Our_Lady_before_T%C3%BDn",
+    "image": "Prague_07-2016_View_from_Old_Town_Hall_Tower_img2.jpg",
+    "pageViews": 3089
+  },
+  {
+    "qid": "Q443107",
+    "title": "Old New Synagogue is completed",
+    "subtitle": "Synagogue in Prague, Czechia",
+    "year": 1270,
+    "fact": "The Old New Synagogue, also called the Altneuschul, is an Orthodox Jewish congregation and synagogue, located in Josefov, Prague, in the Czech Republic.",
+    "wikipediaSlug": "Old_New_Synagogue",
+    "image": "Prague_Praha_2014_Holmstad_Den_gammelnye_synagogen.JPG",
+    "pageViews": 3080
+  },
+  {
+    "qid": "Q956677",
+    "title": "Eyüp Sultan Mosque is completed",
+    "subtitle": "Mosque in İstanbul, Turkey",
+    "year": 1458,
+    "fact": "The Eyüp Sultan Mosque is a mosque in Eyüp district of Istanbul, Turkey.",
+    "wikipediaSlug": "Ey%C3%BCp_Sultan_Mosque",
+    "image": "İstanbul_5999.jpg",
+    "pageViews": 3060
+  },
+  {
+    "qid": "Q514388",
+    "title": "Loch Leven Castle is completed",
+    "subtitle": "Medieval castle, now ruined, in Loch Leven, Perth and Kinross, Scotland, UK",
+    "year": 1300,
+    "fact": "Lochleven Castle is a ruined castle on an island in Loch Leven, in the Perth and Kinross local authority area of Scotland.",
+    "wikipediaSlug": "Lochleven_Castle",
+    "image": "Lochleven_west_wall.JPG",
+    "pageViews": 3060
+  },
+  {
+    "qid": "Q623558",
+    "title": "Oude Kerk is completed",
+    "subtitle": "Amsterdam’s oldest building and oldest parish church",
+    "year": 1408,
+    "fact": "The Oude Kerk is a Reformed church in Amsterdam, Netherlands, being the oldest parish church in the city.",
+    "wikipediaSlug": "Oude_Kerk,_Amsterdam",
+    "image": "Amsterdam-508-Oude_Kerk-2010-gje.jpg",
+    "pageViews": 3035
+  },
+  {
+    "qid": "Q599132",
+    "title": "Bunratty Castle is completed",
+    "subtitle": "Castle in Co. Clare, Ireland",
+    "year": 1425,
+    "fact": "Bunratty Castle is a large 15th-century tower house in County Clare, Ireland.",
+    "wikipediaSlug": "Bunratty_Castle",
+    "image": "Bunrattybig.jpg",
+    "pageViews": 3035
+  },
+  {
+    "qid": "Q5599605",
+    "title": "Great Mosque of al-Nuri is completed",
+    "subtitle": "Mosque in Iraq",
+    "year": 1172,
+    "fact": "The Great Mosque of al-Nuri, also known as the Nouri Mosque, is a Sunni mosque in Mosul, in the Nineveh Governorate of Iraq, famous for its leaning minaret, which gave the city its nickname \"the hunchback\".",
+    "wikipediaSlug": "Great_Mosque_of_al-Nuri,_Mosul",
+    "image": "Great_Mosque_of_al-Nuri_Feb_2025_2.jpg",
+    "pageViews": 3006
+  },
+  {
+    "qid": "Q790099",
+    "title": "Banteay Srei is completed",
+    "subtitle": "Temple",
+    "year": 967,
+    "fact": "Banteay Srei is a 10th century CE Cambodian temple dedicated to the Hindu gods Shiva and Parvati.",
+    "wikipediaSlug": "Banteay_Srei",
+    "image": "Banteay_Srei_full2.jpg",
+    "pageViews": 2993
+  },
+  {
+    "qid": "Q2151217",
+    "title": "Mosque of Omar is completed",
+    "subtitle": "Mosque in the Islamic Quarter of Jerusalem",
+    "year": 1193,
+    "fact": "The Mosque of Omar is a mosque, located inside the Old City of Jerusalem.",
+    "wikipediaSlug": "Mosque_of_Omar_(Jerusalem)",
+    "image": "Umar_Mosque,Jerusalem123.jpg",
+    "pageViews": 2988
+  },
+  {
+    "qid": "Q1140030",
+    "title": "Restormel Castle is completed",
+    "subtitle": "Castle, now ruinous, north of Lostwithiel, Cornwall, England, UK",
+    "year": 1100,
+    "fact": "Restormel Castle lies by the River Fowey near Lostwithiel in Cornwall, England, UK.",
+    "wikipediaSlug": "Restormel_Castle",
+    "image": "RestormelCastle.JPG",
+    "pageViews": 2988
+  },
+  {
+    "qid": "Q666516",
+    "title": "St. Pierre Cathedral is completed",
+    "subtitle": "Protestant cathedral in Geneva",
+    "year": 1150,
+    "fact": "Saint Peter's Cathedral Geneva is a historic church in Geneva, Switzerland.",
+    "wikipediaSlug": "St._Pierre_Cathedral",
+    "image": "St_Pierre_Cathedral_(46717064755).jpg",
+    "pageViews": 2981
+  },
+  {
+    "qid": "Q57803",
+    "title": "Tantallon Castle is completed",
+    "subtitle": "Mid-14th-century fortress east of North Berwick, in East Lothian, Scotland, UK",
+    "year": 1350,
+    "fact": "Tantallon Castle is a ruined mid-14th-century fortress, located 5 kilometres (3.1 mi) east of North Berwick, in East Lothian, Scotland.",
+    "wikipediaSlug": "Tantallon_Castle",
+    "image": "Tantallon_Castle,_2015.JPG",
+    "pageViews": 2980
+  },
+  {
+    "qid": "Q6935640",
+    "title": "Muncaster Castle is completed",
+    "subtitle": "Grade I listed historic house museum in Cumbria, England, UK",
+    "year": 1258,
+    "fact": "Muncaster Castle is a privately owned castle in the parish of Muncaster, Cumbria, England.",
+    "wikipediaSlug": "Muncaster_Castle",
+    "image": "Muncaster_Castle_-_geograph.org.uk_-_1980832.jpg",
+    "pageViews": 2977
+  },
+  {
+    "qid": "Q328595",
+    "title": "Carisbrooke Castle is completed",
+    "subtitle": "Motte and bailey castle and museum on the Isle of Wight, England, UK",
+    "year": 1100,
+    "fact": "Carisbrooke Castle is a historic motte-and-bailey castle located in the village of Carisbrooke, Isle of Wight, England.",
+    "wikipediaSlug": "Carisbrooke_Castle",
+    "image": "Carisbrooke_castle_buildings_2023.JPG",
+    "pageViews": 2972
+  },
+  {
+    "qid": "Q832278",
+    "title": "Basilica of Sant'Apollinare Nuovo is completed",
+    "subtitle": "Church building in Ravenna, Italy",
+    "year": 505,
+    "fact": "The Basilica of Sant'Apollinare Nuovo is a basilica church in Ravenna, Italy.",
+    "wikipediaSlug": "Basilica_of_Sant%27Apollinare_Nuovo",
+    "image": "Ravenna,_sant'apollinare_nuovo,_ext._01.JPG",
+    "pageViews": 2960
+  },
+  {
+    "qid": "Q5920",
+    "title": "Cathedral of Trier is completed",
+    "subtitle": "Roman-Catholic cathedral in Trier, Germany",
+    "year": 1235,
+    "fact": "The High Cathedral of Saint Peter in Trier, or Trier Cathedral, is a Roman Catholic cathedral in Trier, Rhineland-Palatinate, Germany.",
+    "wikipediaSlug": "Trier_Cathedral",
+    "image": "Trier_Dom_BW_1.JPG",
+    "pageViews": 2956
+  },
+  {
+    "qid": "Q1420984",
+    "title": "Pammakaristos Church is completed",
+    "subtitle": "Former church, at present a mosque and museum in Istanbul",
+    "year": 1100,
+    "fact": "The Pammakaristos Church, also known as the Church of Theotokos Pammakaristos, is one of the most famous Byzantine church buildings in Istanbul, Turkey, and was the last pre-Ottoman building to house the Ecumenical Patriarchate.",
+    "wikipediaSlug": "Pammakaristos_Church",
+    "image": "2014_Pammakaristos_Church_(1).jpg",
+    "pageViews": 2944
+  },
+  {
+    "qid": "Q1430119",
+    "title": "Mosque-Madrassa of Sultan Hassan is completed",
+    "subtitle": "Mosque in Egypt",
+    "year": 1363,
+    "fact": "The Mosque-Madrasa of Sultan Hasan is a monumental mosque and madrasa located in Salah al-Din Square in the historic district of Cairo, Egypt.",
+    "wikipediaSlug": "Mosque-Madrasa_of_Sultan_Hasan",
+    "image": "Flickr_-_archer10_(Dennis)_-_Egypt-13A-061_(cropped).jpg",
+    "pageViews": 2942
+  },
+  {
+    "qid": "Q833207",
+    "title": "Leap Castle is completed",
+    "subtitle": "Castle",
+    "year": 1250,
+    "fact": "Leap Castle is a castle in Roscrea, County Offaly, Ireland, about 6 kilometres (3.7 mi) north of the town of Roscrea and 10 kilometres (6.2 mi) south of Kinnitty on the R421.",
+    "wikipediaSlug": "Leap_Castle",
+    "image": "Castles_of_Leinster-_Leap,_Offaly_(geograph_1952750).jpg",
+    "pageViews": 2936
+  },
+  {
+    "qid": "Q334303",
+    "title": "St Augustine's Abbey is completed",
+    "subtitle": "Monastery in Canterbury, Kent, England, UK",
+    "year": 598,
+    "fact": "St Augustine's Abbey was a Benedictine monastery in Canterbury, Kent, England.",
+    "wikipediaSlug": "St_Augustine%27s_Abbey",
+    "image": "Augustine_Abbey.jpg",
+    "pageViews": 2923
+  },
+  {
+    "qid": "Q668250",
+    "title": "Tarasp Castle is completed",
+    "subtitle": "Castle in Tarasp in the Swiss canton of Grisons",
+    "year": 1094,
+    "fact": "Tarasp Castle is a castle in Switzerland, near the former municipality of Tarasp, in Lower Engadin, Graubünden.",
+    "wikipediaSlug": "Tarasp_Castle",
+    "image": "160618_Schloss_Tarasp_3.jpg",
+    "pageViews": 2914
+  },
+  {
+    "qid": "Q913185",
+    "title": "St. Barbara's Church, Kutná Hora is completed",
+    "subtitle": "Church in Kutná Hora District of Central Bohemian region",
+    "year": 1400,
+    "fact": "Saint Barbara's Church is a Roman Catholic Church in Kutná Hora (Bohemia) in the style of a cathedral, and is sometimes referred to as the Cathedral of St Barbara.",
+    "wikipediaSlug": "St._Barbara%27s_Church,_Kutn%C3%A1_Hora",
+    "image": "KUTNA_HORA_(js)_11.jpg",
+    "pageViews": 2905
+  },
+  {
+    "qid": "Q1568660",
+    "title": "Hagia Sophia is completed",
+    "subtitle": "Church in Thessaloniki, Greece",
+    "year": 700,
+    "fact": "The Hagia Sophia is a church located in Thessaloniki, Greece.",
+    "wikipediaSlug": "Hagia_Sophia,_Thessaloniki",
+    "image": "Храм_Святой_Софии_-_panoramio_(1).jpg",
+    "pageViews": 2878
+  },
+  {
+    "qid": "Q217058",
+    "title": "Castle Stalker is completed",
+    "subtitle": "Tower house or keep on a tidal islet on Loch Laich",
+    "year": 1320,
+    "fact": "Castle Stalker is a four-storey tower house or keep in the Scottish county of Argyll.",
+    "wikipediaSlug": "Castle_Stalker",
+    "image": "Castle_Stalker_-_geograph.org.uk_-_204092.jpg",
+    "pageViews": 2864
+  },
+  {
+    "qid": "Q318660",
+    "title": "Santa Maria in Aracoeli is completed",
+    "subtitle": "Church in Rome, on the Capitol Hill",
+    "year": 1200,
+    "fact": "The Basilica of Saint Mary of the Altar in Heaven is a titular basilica and conventual church of the Franciscan Convent of Aracoeli located the highest summit of the Capitoline Hill in Rome, Italy.",
+    "wikipediaSlug": "Santa_Maria_in_Ara_Coeli",
+    "image": "Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg",
+    "pageViews": 2850
+  },
+  {
+    "qid": "Q147009",
+    "title": "Tre Kronor Castle is completed",
+    "subtitle": "Stronghold in Stockholm, later rebuilt into a castle and royal residence",
+    "year": 1300,
+    "fact": "Tre Kronor or Three Crowns Castle was a castle located in Stockholm, Sweden, on the site where Stockholm Palace is today.",
+    "wikipediaSlug": "Tre_Kronor_(castle)",
+    "image": "Slottet_Tre_Kronor_1661.jpg",
+    "pageViews": 2831
+  },
+  {
+    "qid": "Q752266",
+    "title": "Durham Castle is completed",
+    "subtitle": "Grade I listed historic house museum in Durham, England, UK",
+    "year": 1072,
+    "fact": "Durham Castle is a Norman castle in the city of Durham, England, which has been occupied since 1837 by University College, Durham after its previous role as the residence of the Bishops of Durham.",
+    "wikipediaSlug": "Durham_Castle",
+    "image": "Durham_Castle_(28180496735).jpg",
+    "pageViews": 2817
+  },
+  {
+    "qid": "Q2004104",
+    "title": "Sanctuary of the Madonna di San Luca is completed",
+    "subtitle": "Church building in Bologna, Italy",
+    "year": 1194,
+    "fact": "The Sanctuary of the Madonna of San Luca is a basilica church located in Bologna, northern Italy, situated atop the forested hill of Colle della Guardia, approximately 300 metres above the city plain, just southwest of the historical centre.",
+    "wikipediaSlug": "Madonna_di_San_Luca,_Bologna",
+    "image": "Santuario_della_Beata_Vergine_di_San_Luca.jpg",
+    "pageViews": 2815
+  },
+  {
+    "qid": "Q258908",
+    "title": "Salzburg Cathedral is completed",
+    "subtitle": "Church in Austria",
+    "year": 701,
+    "fact": "Salzburg Cathedral is the seventeenth-century Baroque cathedral of the Roman Catholic Archdiocese of Salzburg in the city of Salzburg, Austria, dedicated to Saint Rupert and Saint Vergilius.",
+    "wikipediaSlug": "Salzburg_Cathedral",
+    "image": "Salzburg_Cathedral_1.jpg",
+    "pageViews": 2812
+  },
+  {
+    "qid": "Q614836",
+    "title": "Carlisle Castle is completed",
+    "subtitle": "Castle in Carlisle, Cumbria, United Kingdom",
+    "year": 1093,
+    "fact": "Carlisle Castle is a stone keep medieval fortress located in the city of Carlisle near the ruins of Hadrian's Wall.",
+    "wikipediaSlug": "Carlisle_Castle",
+    "image": "Carlisle_Castle.png",
+    "pageViews": 2804
+  },
+  {
+    "qid": "Q304037",
+    "title": "Austrian National Library opens",
+    "subtitle": "Largest library in Austria",
+    "year": 1368,
+    "fact": "The Austrian National Library is the largest library in Austria, with more than 12 million items in its various collections.",
+    "wikipediaSlug": "Austrian_National_Library",
+    "image": "Neue_Burg_Vienna_June_2006_271.jpg",
+    "pageViews": 2794
+  },
+  {
+    "qid": "Q938154",
+    "title": "St Bavo's Cathedral is completed",
+    "subtitle": "Church in Ghent, Belgium",
+    "year": 1150,
+    "fact": "Saint Bavo's Cathedral, also known as Sint-Baafs Cathedral, is a Roman Catholic cathedral in Ghent, Belgium.",
+    "wikipediaSlug": "Saint_Bavo%27s_Cathedral,_Ghent",
+    "image": "Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg",
+    "pageViews": 2791
+  },
+  {
+    "qid": "Q2393680",
+    "title": "Goharshad Mosque is completed",
+    "subtitle": "Mosque in Imam Reza Shrine, Mashhad",
+    "year": 1418,
+    "fact": "The Goharshad Mosque is a grand Friday mosque (jāmeh) that is part of the Imam Reza Shrine complex, located in Mashhad, in the province of Razavi Khorasan, Iran.",
+    "wikipediaSlug": "Goharshad_Mosque",
+    "image": "Goharshad_Mosque_Maqsura_Iwan.jpg",
+    "pageViews": 2785
+  },
+  {
+    "qid": "Q3250647",
+    "title": "Al Abbas Mosque is completed",
+    "subtitle": "Mosque in Iraq",
+    "year": 685,
+    "fact": "The Al-Abbas Shrine is the mausoleum of Abbas ibn Ali and a Shi'ite mosque, situated near the Imam Husayn shrine, located in Karbala, in the Karbala Governorate of Iraq.",
+    "wikipediaSlug": "Al-Abbas_Shrine",
+    "image": "Al_Abbas_Mosque,_Shrine_Karbala.jpg",
+    "pageViews": 2785
+  },
+  {
+    "qid": "Q2361738",
+    "title": "St Andrews Cathedral, Saint Andrews is completed",
+    "subtitle": "Ruined cathedral in Saint Andrews, Scotland",
+    "year": 1158,
+    "fact": "The Cathedral of St Andrew is a ruined cathedral in St Andrews, Fife, Scotland.",
+    "wikipediaSlug": "St_Andrews_Cathedral",
+    "image": "St_Andrews_cathedral_and_St_Rules_Tower.jpg",
+    "pageViews": 2784
+  },
+  {
+    "qid": "Q1144576",
+    "title": "Little Hagia Sophia is completed",
+    "subtitle": "Former Greek Eastern Orthodox church in Istanbul converted to a mosque",
+    "year": 526,
+    "fact": "The Little Hagia Sophia mosque, formerly the Church of Saints Sergius and Bacchus, is a former Greek Orthodox church dedicated to Saints Sergius and Bacchus in Constantinople.",
+    "wikipediaSlug": "Little_Hagia_Sophia",
+    "image": "Sergius_and_Bacchus.jpg",
+    "pageViews": 2778
+  },
+  {
+    "qid": "Q1519975",
+    "title": "Santo Spirito is completed",
+    "subtitle": "Church in Florence, Italy",
+    "year": 1252,
+    "fact": "The Basilica di Santo Spirito is a church in Florence, Italy.",
+    "wikipediaSlug": "Santo_Spirito,_Florence",
+    "image": "Chiesa_Santo_Spirito,_Firenze.jpg",
+    "pageViews": 2747
+  },
+  {
+    "qid": "Q910124",
+    "title": "Black Church is completed",
+    "subtitle": "Cathedral in Brașov, Transylvania, Romania",
+    "year": 1383,
+    "fact": "The Black Church, stands in the city of Brașov in south-eastern Transylvania, Romania.",
+    "wikipediaSlug": "Biserica_Neagr%C4%83",
+    "image": "Biserica_Neagră_(48729880193).jpg",
+    "pageViews": 2736
+  },
+  {
+    "qid": "Q490898",
+    "title": "Larabanga Mosque is completed",
+    "subtitle": "Is a mosque built in the Sudanese architectural style in Ghana",
+    "year": 1421,
+    "fact": "The Larabanga Mosque is a mosque built in the Sudanese architectural style in the village of Larabanga, Savanna Region of Ghana.",
+    "wikipediaSlug": "Larabanga_Mosque",
+    "image": "Larabanga_Mosque_Ghana.jpg",
+    "pageViews": 2732
+  },
+  {
+    "qid": "Q256486",
+    "title": "Naples Cathedral is completed",
+    "subtitle": "Cathedral in Naples",
+    "year": 1272,
+    "fact": "Naples Cathedral, or the Cathedral of the Assumption of Mary, is a Roman Catholic cathedral, the main church of Naples, southern Italy, and the seat of the Archbishop of Naples.",
+    "wikipediaSlug": "Naples_Cathedral",
+    "image": "Naples_Cathedral_-_Duomo_di_Napoli,_Façade_(5315-Pan).jpg",
+    "pageViews": 2721
+  },
+  {
+    "qid": "Q1262718",
+    "title": "Duart Castle is completed",
+    "subtitle": "Castle in Argyll and Bute, Scotland, UK",
+    "year": 1201,
+    "fact": "Duart Castle, or Caisteal Dhubhairt in Scottish Gaelic, is a castle on the Isle of Mull, beside the Sound of Mull off the west coast of Scotland, within the council area of Argyll and Bute.",
+    "wikipediaSlug": "Duart_Castle",
+    "image": "Argyll_and_Bute_-_Duart_Castle_-_2025-09-26_01-03-40_001.JPG",
+    "pageViews": 2637
+  },
+  {
+    "qid": "Q1519733",
+    "title": "Blue Mosque is completed",
+    "subtitle": "Mosque in Tabriz, Iranian national heritage site",
+    "year": 1465,
+    "fact": "The Blue Mosque, also known as the Masjed-e Moẓaffariya and as the Kabood Mosque, is a former mosque and mausoleum complex, in a partial ruinous state, partially preserved as a museum, located in Tabriz, East Azerbaijan province, Iran.",
+    "wikipediaSlug": "Blue_Mosque,_Tabriz",
+    "image": "Blue_Mosque_(Tabriz)_General_view.jpg",
+    "pageViews": 2628
+  },
+  {
+    "qid": "Q2968289",
+    "title": "Itter Castle is completed",
+    "subtitle": "Building in Itter, Austria",
+    "year": 1241,
+    "fact": "Itter Castle is a 19th-century castle in Itter, a village in Tyrol, Austria.",
+    "wikipediaSlug": "Itter_Castle",
+    "image": "Itter_-_Schloss_(b).JPG",
+    "pageViews": 2614
+  },
+  {
+    "qid": "Q1325825",
+    "title": "Id Kah Mosque is completed",
+    "subtitle": "Mosque in Kashgar, Xinjiang, China",
+    "year": 1442,
+    "fact": "The Id Kah Mosque is a mosque in Kashgar, in the Xinjiang autonomous region of China.",
+    "wikipediaSlug": "Id_Kah_Mosque",
+    "image": "Hëytgah_Mosque,_Kashi_(20230923100109).jpg",
+    "pageViews": 2578
+  },
+  {
+    "qid": "Q1122731",
+    "title": "Clos Lucé is completed",
+    "subtitle": "Castle",
+    "year": 1471,
+    "fact": "The Château du Clos Lucé, formerly called Manoir du Cloux, is a large château located in the center of Amboise, in the department of Indre-et-Loire, in the Centre-Val de Loire region of France.",
+    "wikipediaSlug": "Clos_Luc%C3%A9",
+    "image": "Clos_luce_04.jpg",
+    "pageViews": 2563
+  },
+  {
+    "qid": "Q1091640",
+    "title": "Santa Francesca Romana is completed",
+    "subtitle": "Church in Rome, next to the Roman Forum",
+    "year": 801,
+    "fact": "Santa Francesca Romana, previously known as Santa Maria Nova, is a Catholic church situated next to the Roman Forum in the rione Campitelli in Rome, Italy.",
+    "wikipediaSlug": "Santa_Francesca_Romana",
+    "image": "RomaSantaFrancescaRomana.jpg",
+    "pageViews": 2549
+  },
+  {
+    "qid": "Q4055",
+    "title": "Château de Blois is completed",
+    "subtitle": "Residence in Blois, France",
+    "year": 1250,
+    "fact": "The Royal Château of Blois is a château located in the city center of Blois, Loir-et-Cher, in the Loire Valley, France.",
+    "wikipediaSlug": "Ch%C3%A2teau_of_Blois",
+    "image": "Charles-Caïus_Renoux,_Chateau_de_Elois.jpg",
+    "pageViews": 2543
+  },
+  {
+    "qid": "Q1258576",
+    "title": "San Pietro in Montorio is completed",
+    "subtitle": "Church in Rome",
+    "year": 1401,
+    "fact": "San Pietro in Montorio is a church in Rome, Italy, which includes in its courtyard the Tempietto, a small commemorative martyrium ('martyry') built by Donato Bramante.",
+    "wikipediaSlug": "San_Pietro_in_Montorio",
+    "image": "San_Pietro_in_Montorio_-_esterno.jpg",
+    "pageViews": 2529
+  },
+  {
+    "qid": "Q1013191",
+    "title": "Château de Montségur is completed",
+    "subtitle": "Castle in France",
+    "year": 1204,
+    "fact": "The Château de Montségur is a former fortress near Montségur, a commune in the Ariège department in southern France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Monts%C3%A9gur",
+    "image": "Château_de_Montségur_-_vue_aérienne.jpg",
+    "pageViews": 2518
+  },
+  {
+    "qid": "Q668341",
+    "title": "Cathedral of Magdeburg is completed",
+    "subtitle": "Protestant cathedral in Magdeburg, Germany; oldest Gothic cathedral in Germany",
+    "year": 1201,
+    "fact": "Magdeburg Cathedral, officially called the Cathedral of Saints Maurice and Catherine, is a Lutheran cathedral in Germany and the oldest Gothic cathedral in the country.",
+    "wikipediaSlug": "Magdeburg_Cathedral",
+    "image": "Magdeburger_Dom_Luftbild.jpg",
+    "pageViews": 2498
+  },
+  {
+    "qid": "Q261707",
+    "title": "Bellver Castle is completed",
+    "subtitle": "Castle in Mallorca",
+    "year": 1310,
+    "fact": "Bellver Castle is a Gothic-style castle on a hill 3 km to the west of the center of Palma de Mallorca on the island of Mallorca, Balearic Islands, Spain.",
+    "wikipediaSlug": "Bellver_Castle",
+    "image": "Castillo_de_Bellver.jpg",
+    "pageViews": 2457
+  },
+  {
+    "qid": "Q2050553",
+    "title": "St. John's Cathedral is completed",
+    "subtitle": "Church in ’s-Hertogenbosch",
+    "year": 1220,
+    "fact": "The Catholic Cathedral Church of St.",
+    "wikipediaSlug": "St._John%27s_Cathedral_(%27s-Hertogenbosch)",
+    "image": "De_grootste_kathedraal_van_Nederland,_de_Sint_Janskathedraal_in_'s-Hertogenbosch.jpg",
+    "pageViews": 2456
+  },
+  {
+    "qid": "Q2970215",
+    "title": "Pevensey Castle is completed",
+    "subtitle": "Medieval castle in a former Roman fort at Pevensey in East Sussex, England, UK",
+    "year": 1066,
+    "fact": "Pevensey Castle is a medieval castle and former Roman Saxon Shore fort at Pevensey in the English county of East Sussex.",
+    "wikipediaSlug": "Pevensey_Castle",
+    "image": "Pevensey_Castle_aerial_alt.jpg",
+    "pageViews": 2455
+  },
+  {
+    "qid": "Q695065",
+    "title": "St. Mary's Church Lübeck is completed",
+    "subtitle": "Church in Lübeck, Germany",
+    "year": 1300,
+    "fact": "The Lübeck Marienkirche is a medieval basilica in the city centre of Lübeck, Germany.",
+    "wikipediaSlug": "St._Mary%27s_Church,_L%C3%BCbeck",
+    "image": "Aerial_image_of_St._Mary's_Church,_Lübeck_(view_from_the_west).jpg",
+    "pageViews": 2453
+  },
+  {
+    "qid": "Q1354756",
+    "title": "Cefalù Cathedral is completed",
+    "subtitle": "Cathedral in Italy",
+    "year": 1131,
+    "fact": "The Cathedral of Cefalù is a Roman Catholic basilica in Cefalù, Sicily.",
+    "wikipediaSlug": "Cefal%C3%B9_Cathedral",
+    "image": "Duomo_cefalu_msu2017-0797.jpg",
+    "pageViews": 2436
+  },
+  {
+    "qid": "Q793909",
+    "title": "San Damiano is completed",
+    "subtitle": "Church in Assisi, Italy",
+    "year": 1101,
+    "fact": "San Damiano is a church with a monastery near Assisi, Italy.",
+    "wikipediaSlug": "San_Damiano,_Assisi",
+    "image": "SanDamianoAssisiDec132023_02.jpg",
+    "pageViews": 2432
+  },
+  {
+    "qid": "Q2533198",
+    "title": "King John's Castle is completed",
+    "subtitle": "Castle in Limerick, Ireland",
+    "year": 1210,
+    "fact": "King John's Castle also known as Limerick Castle is a 13th-century castle located on King's Island in Limerick, Ireland, next to the River Shannon.",
+    "wikipediaSlug": "King_John%27s_Castle_(Limerick)",
+    "image": "King_John's_Castle_in_Limerick.jpg",
+    "pageViews": 2423
+  },
+  {
+    "qid": "Q5311832",
+    "title": "Dudley Castle is completed",
+    "subtitle": "Grade I listed castle in Dudley, United Kingdom",
+    "year": 1070,
+    "fact": "Dudley Castle is a ruined fortification in the town of Dudley, West Midlands, England.",
+    "wikipediaSlug": "Dudley_Castle",
+    "image": "Dudley_Castle,_England,_Aerial_View.jpg",
+    "pageViews": 2421
+  },
+  {
+    "qid": "Q860816",
+    "title": "Orsanmichele is completed",
+    "subtitle": "Church and municipal building in Florence, Italy",
+    "year": 1337,
+    "fact": "Orsanmichele, Or San Michele or Orsammichele is a communal building and church in the Italian city of Florence.",
+    "wikipediaSlug": "Orsanmichele",
+    "image": "Torre_di_arnolfo,_veduta_orsanmichele_33-edit.jpg",
+    "pageViews": 2391
+  },
+  {
+    "qid": "Q206246",
+    "title": "Citadel of Damascus is completed",
+    "subtitle": "Castle in Damascus, Syria",
+    "year": 1076,
+    "fact": "The Citadel of Damascus is a large medieval fortified palace and citadel in Damascus, Syria.",
+    "wikipediaSlug": "Citadel_of_Damascus",
+    "image": "Damaskus4.jpg",
+    "pageViews": 2377
+  },
+  {
+    "qid": "Q958699",
+    "title": "Turin Cathedral is completed",
+    "subtitle": "Church building in Turin, Italy",
+    "year": 1401,
+    "fact": "Turin Cathedral or Cathedral of Saint John the Baptist is a Roman Catholic cathedral in Turin, northern Italy.",
+    "wikipediaSlug": "Turin_Cathedral",
+    "image": "DuomoTorino.jpg",
+    "pageViews": 2373
+  },
+  {
+    "qid": "Q3456588",
+    "title": "Qasr al-Basha is completed",
+    "subtitle": "Building in Gaza City within the State of Palestine",
+    "year": 1270,
+    "fact": "Qasr al-Basha, also known as Pasha's Palace Museum, Radwan Castle, and Napoleon's Fort, was a historic building in the Old City of Gaza, Palestine.",
+    "wikipediaSlug": "Qasr_al-Basha",
+    "image": "قصر_الباشا_في_غزة.jpg",
+    "pageViews": 2366
+  },
+  {
+    "qid": "Q922677",
+    "title": "San Giacomo di Rialto is completed",
+    "subtitle": "Church in Venice, Italy",
+    "year": 1200,
+    "fact": "San Giacomo di Rialto is a church in the sestiere of San Polo, Venice, northern Italy.",
+    "wikipediaSlug": "San_Giacomo_di_Rialto",
+    "image": "San_Giacomo_di_Rialto_(Facade).jpg",
+    "pageViews": 2341
+  },
+  {
+    "qid": "Q1488700",
+    "title": "Powder Tower is completed",
+    "subtitle": "Tower in Prague, Czech Republic",
+    "year": 1475,
+    "fact": "The Powder Tower or Powder Gate is a Gothic tower in Prague, Czech Republic.",
+    "wikipediaSlug": "Powder_Tower,_Prague",
+    "image": "Prag_Pulverturm.jpg",
+    "pageViews": 2327
+  },
+  {
+    "qid": "Q495086",
+    "title": "Bolton Castle is completed",
+    "subtitle": "Castle located near Wensleydale, Yorkshire, England",
+    "year": 1379,
+    "fact": "Bolton Castle is a 14th-century castle located in Wensleydale, Yorkshire, England.",
+    "wikipediaSlug": "Bolton_Castle",
+    "image": "Castle_Bolton_and_its_maze_-_geograph.org.uk_-_7335033.jpg",
+    "pageViews": 2323
+  },
+  {
+    "qid": "Q357320",
+    "title": "Adina Mosque is completed",
+    "subtitle": "Mosque in West Bengal, India",
+    "year": 1375,
+    "fact": "The Adina Mosque is a historical mosque in Malda District, West Bengal, India.",
+    "wikipediaSlug": "Adina_Mosque",
+    "image": "Adina_Mosque_at_Malda_district_of_West_Bengal_08.jpg",
+    "pageViews": 2301
+  },
+  {
+    "qid": "Q2705370",
+    "title": "Middleham Castle is completed",
+    "subtitle": "Castle in Middleham, North Yorkshire, England, UK",
+    "year": 1190,
+    "fact": "Middleham Castle is a ruined castle in Middleham in Wensleydale, in the county of North Yorkshire, England.",
+    "wikipediaSlug": "Middleham_Castle",
+    "image": "MiddlehamCJW.jpg",
+    "pageViews": 2267
+  },
+  {
+    "qid": "Q1427503",
+    "title": "Golden Gate opens",
+    "subtitle": "Museum in Kyiv, Ukraine",
+    "year": 1018,
+    "fact": "The Golden Gate of Kyiv was the main gate in the 11th century fortifications of Kyiv, the capital of the Kievan Rus'.",
+    "wikipediaSlug": "Golden_Gate,_Kyiv",
+    "image": "Golden_Gate_Kiev_2018_G1.jpg",
+    "pageViews": 2257
+  },
+  {
+    "qid": "Q1963850",
+    "title": "Scarborough Castle is completed",
+    "subtitle": "Medieval castle overlooking Scarborough, North Yorkshire, England, UK",
+    "year": 1130,
+    "fact": "Scarborough Castle is a former medieval royal fortress situated on a rocky promontory overlooking the North Sea and Scarborough, North Yorkshire, England.",
+    "wikipediaSlug": "Scarborough_Castle",
+    "image": "Scarborough_Castle_3.jpg",
+    "pageViews": 2242
+  },
+  {
+    "qid": "Q1581882",
+    "title": "Basilica of Sant'Andrea is completed",
+    "subtitle": "Minor basilica in Mantua, Italy",
+    "year": 1472,
+    "fact": "The Basilica of Sant'Andrea is a Roman Catholic co-cathedral and minor basilica in Mantua, Lombardy (Italy).",
+    "wikipediaSlug": "Basilica_of_Sant%27Andrea,_Mantua",
+    "image": "MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg",
+    "pageViews": 2240
+  },
+  {
+    "qid": "Q675513",
+    "title": "Santi Cosma e Damiano is completed",
+    "subtitle": "Church",
+    "year": 501,
+    "fact": "The basilica of Santi Cosma e Damiano is a titular church in Rome, Italy.",
+    "wikipediaSlug": "Santi_Cosma_e_Damiano,_Rome",
+    "image": "Palatine_view_of_temple_of_romulus.jpg",
+    "pageViews": 2224
+  },
+  {
+    "qid": "Q1632423",
+    "title": "Wallingford Castle is completed",
+    "subtitle": "Castle in Wallingford, Oxfordshire, England, UK",
+    "year": 1067,
+    "fact": "Wallingford Castle is a medieval castle situated in Wallingford in the English county of Oxfordshire, adjacent to the River Thames.",
+    "wikipediaSlug": "Wallingford_Castle",
+    "image": "Wallingford_castle_ruins.jpg",
+    "pageViews": 2214
+  },
+  {
+    "qid": "Q810104",
+    "title": "Santa Chiara is completed",
+    "subtitle": "Church in Naples, Italy",
+    "year": 1301,
+    "fact": "Santa Chiara is a religious complex in Naples, Italy, that includes the church of Santa Chiara, a monastery, tombs and an archeological museum.",
+    "wikipediaSlug": "Santa_Chiara,_Naples",
+    "image": "Basilica_di_Santa_Chiara_(right).jpg",
+    "pageViews": 2197
+  },
+  {
+    "qid": "Q2724452",
+    "title": "Vijaya Stambha is completed",
+    "subtitle": "Victory monument within Chittor Fort in Chittorgarh, Rajasthan, India",
+    "year": 1448,
+    "fact": "The Vijaya Stambha is a Rajput victory monument located within Chittor Fort in Chittorgarh, Rajasthan, India.",
+    "wikipediaSlug": "Vijaya_Stambha",
+    "image": "Tower_of_victory.jpg",
+    "pageViews": 2181
+  },
+  {
+    "qid": "Q917896",
+    "title": "Castillo de Belmonte is completed",
+    "subtitle": "Castle",
+    "year": 1456,
+    "fact": "The Castillo de Belmonte is a medieval castle on the hill of San Cristobal, just outside the village of Belmonte in the southwest of the province of Cuenca in Spain.",
+    "wikipediaSlug": "Castle_of_Belmonte_(Cuenca)",
+    "image": "Castillo_de_Belmonte_(Belmonte,_Cuenca)._Entrada.jpg",
+    "pageViews": 2173
+  },
+  {
+    "qid": "Q155225",
+    "title": "Santi Giovanni e Paolo is completed",
+    "subtitle": "Church in Venice, Italy",
+    "year": 1217,
+    "fact": "The Basilica dei Santi Giovanni e Paolo, known in Venetian as San Zanipolo, is a Catholic minor basilica and Dominican conventual church in the Castello sestiere of Venice, Italy.",
+    "wikipediaSlug": "Santi_Giovanni_e_Paolo,_Venice",
+    "image": "Exterior_of_Santi_Giovanni_e_Paolo_(Venice).jpg",
+    "pageViews": 2172
+  },
+  {
+    "qid": "Q6645746",
+    "title": "Richmond Castle is completed",
+    "subtitle": "Eleventh-century castle built in Richmond, North Yorkshire, England, UK",
+    "year": 1071,
+    "fact": "Richmond Castle in Richmond, North Yorkshire, England, stands in a commanding position above the River Swale, close to the centre of the town of Richmond.",
+    "wikipediaSlug": "Richmond_Castle",
+    "image": "Bailey_and_keep,_Richmond_Castle_-_geograph.org.uk_-_1318287.jpg",
+    "pageViews": 2169
+  },
+  {
+    "qid": "Q250212",
+    "title": "Freiburg Minster is completed",
+    "subtitle": "Roman-catholic cathedral in Freiburg im Breisgau, Baden-Württemberg, Germany",
+    "year": 1200,
+    "fact": "Freiburg Minster is the cathedral of Freiburg im Breisgau, southwest Germany.",
+    "wikipediaSlug": "Freiburg_Minster",
+    "image": "Freiburger_Münster_-_FaB.jpg",
+    "pageViews": 2157
+  },
+  {
+    "qid": "Q515105",
+    "title": "Dunstanburgh Castle is completed",
+    "subtitle": "Castle in Craster, Northumberland, England, UK",
+    "year": 1313,
+    "fact": "Dunstanburgh Castle is a 14th-century fortification on the coast of Northumberland in northern England, between the villages of Craster and Embleton.",
+    "wikipediaSlug": "Dunstanburgh_Castle",
+    "image": "Gatehouse_and_curtain_wall_of_Dunstanburgh_Castle,_2009.jpg",
+    "pageViews": 2149
+  },
+  {
+    "qid": "Q648534",
+    "title": "Château de Rambouillet is completed",
+    "subtitle": "French castle",
+    "year": 1474,
+    "fact": "The Château de Rambouillet, also known in English as the Castle of Rambouillet, is a château in the town of Rambouillet, Yvelines department, in the Île-de-France region in northern France, 50 km (31 mi) southwest of Paris.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Rambouillet",
+    "image": "Château_de_Rambouillet_(DSC_7006).jpg",
+    "pageViews": 2136
+  },
+  {
+    "qid": "Q2969165",
+    "title": "Dunbar Castle is completed",
+    "subtitle": "Castle in East Lothian, Scotland, UK",
+    "year": 1070,
+    "fact": "Dunbar Castle was one of the strongest fortresses in Scotland, situated in a prominent position overlooking the harbour of the town of Dunbar, in East Lothian.",
+    "wikipediaSlug": "Dunbar_Castle",
+    "image": "Dunbar_Harbour_and_Castle,_1987.jpg",
+    "pageViews": 2130
+  },
+  {
+    "qid": "Q198287",
+    "title": "Colchester Castle is completed",
+    "subtitle": "Norman castle in Colchester, United Kingdom",
+    "year": 1069,
+    "fact": "Colchester Castle is a Norman castle in Colchester, Essex, England, dating from the second half of the eleventh century.",
+    "wikipediaSlug": "Colchester_Castle",
+    "image": "Colchester-castle.jpg",
+    "pageViews": 2121
+  },
+  {
+    "qid": "Q1291779",
+    "title": "Al-Zaytunah Mosque is completed",
+    "subtitle": "Mosque in Tunisia",
+    "year": 698,
+    "fact": "Al-Zaytuna Mosque is a major mosque at the center of the historic medina of Tunis, Tunisia.",
+    "wikipediaSlug": "Al-Zaytuna_Mosque",
+    "image": "Minaret_et_patio_de_la_mosquée_Zitouna_au_centre_de_la_Médina_de_Tunis.jpg",
+    "pageViews": 2119
+  },
+  {
+    "qid": "Q922690",
+    "title": "Elgin Cathedral is completed",
+    "subtitle": "Historic ruin in Elgin, Scotland, United Kingdom",
+    "year": 1224,
+    "fact": "Elgin Cathedral, also known as the Lantern of the North, is a historic ruin in Elgin, Moray, in northeast Scotland.",
+    "wikipediaSlug": "Elgin_Cathedral",
+    "image": "Elgin_Cathedral_view_from_rear.jpg",
+    "pageViews": 2119
+  },
+  {
+    "qid": "Q533269",
+    "title": "Palazzo San Giorgio is completed",
+    "subtitle": "Building in Genoa, Italy",
+    "year": 1260,
+    "fact": "The Palazzo San Giorgio or Palace of St.",
+    "wikipediaSlug": "Palazzo_San_Giorgio",
+    "image": "Genova_-_Palazzo_San_Giorgio_visto_dal_Bigo.jpg",
+    "pageViews": 2092
+  },
+  {
+    "qid": "Q210678",
+    "title": "Urnes Stave Church is completed",
+    "subtitle": "Church building in Luster, Vestland, Norway",
+    "year": 1101,
+    "fact": "Urnes Stave Church is a 12th-century stave church at Ornes, along the Lustrafjorden, in Luster Municipality in Vestland county, Norway.",
+    "wikipediaSlug": "Urnes_Stave_Church",
+    "image": "Urnes_Stave_Church_1.jpg",
+    "pageViews": 2085
+  },
+  {
+    "qid": "Q2625461",
+    "title": "Golubac is completed",
+    "subtitle": "Medieval fortified town",
+    "year": 1335,
+    "fact": "The Golubac Fortress was a medieval fortified town on the south side of the Danube River, 4 km (2.5 mi) downstream from the modern-day town of Golubac, Serbia.",
+    "wikipediaSlug": "Golubac_Fortress",
+    "image": "Golubac_Fortress_(град_Голубац).jpg",
+    "pageViews": 2081
+  },
+  {
+    "qid": "Q1291612",
+    "title": "Friday Mosque of Herat is completed",
+    "subtitle": "Mosque in Afghanistan",
+    "year": 1446,
+    "fact": "The Great Mosque of Herat, is a Sunni Friday mosque, located in the city of Herat, in the Herat Province of north-western Afghanistan.",
+    "wikipediaSlug": "Great_Mosque_of_Herat",
+    "image": "Friday_Mosque_in_Herat,_Afghanistan.jpg",
+    "pageViews": 2080
+  },
+  {
+    "qid": "Q991832",
+    "title": "Esztergom Basilica is completed",
+    "subtitle": "Minor basilica",
+    "year": 1001,
+    "fact": "The Primatial Basilica of the Assumption of the Blessed Virgin Mary and St Adalbert, also known as the Basilica of Esztergom, is an ecclesiastic basilica in Esztergom, Hungary, the mother church of the Archdiocese of Esztergom-Budapest, and the seat of the Catholic Church in Hungary.",
+    "wikipediaSlug": "Esztergom_Basilica",
+    "image": "Basilica_in_Esztergom,_Hungary_01.jpg",
+    "pageViews": 2072
+  },
+  {
+    "qid": "Q2261322",
+    "title": "Girona Cathedral is completed",
+    "subtitle": "Roman Catholic church in Girona, Catalonia",
+    "year": 1100,
+    "fact": "The Cathedral of Saint Mary is a Roman Catholic cathedral located in Girona, Catalonia, Spain.",
+    "wikipediaSlug": "Girona_Cathedral",
+    "image": "Girona_Cathedral_2020.jpg",
+    "pageViews": 2059
+  },
+  {
+    "qid": "Q606763",
+    "title": "Gonbad-e Qabus is completed",
+    "subtitle": "Mausoleum tower in Gonbad-e Kavus, Iranian national heritage site",
+    "year": 1006,
+    "fact": "Gonbad-e Qabus or Gonbad-e Qabus Tower is a monument in Gonbad-e Qabus, Iran, and a UNESCO World Heritage Site since 2012.",
+    "wikipediaSlug": "Gonbad-e_Qabus_(tower)",
+    "image": "برج_هزار_ساله.JPG",
+    "pageViews": 2056
+  },
+  {
+    "qid": "Q635084",
+    "title": "Beaumont Palace is completed",
+    "subtitle": "Former palace in Oxford, England",
+    "year": 1130,
+    "fact": "Beaumont Palace, built outside the north gate of Oxford, was intended by Henry I about 1130 to serve as a royal palace conveniently close to the royal hunting-lodge at Woodstock.",
+    "wikipediaSlug": "Beaumont_Palace",
+    "image": "Beaumont_palace_1785.jpg",
+    "pageViews": 2053
+  },
+  {
+    "qid": "Q1190961",
+    "title": "Palazzo Pubblico is completed",
+    "subtitle": "City hall",
+    "year": 1310,
+    "fact": "The Palazzo Pubblico is a historic palace in Siena, Tuscany, in central Italy.",
+    "wikipediaSlug": "Palazzo_Pubblico",
+    "image": "552SienaPalPubblico.JPG",
+    "pageViews": 2040
+  },
+  {
+    "qid": "Q432422",
+    "title": "Craigmillar Castle is completed",
+    "subtitle": "Castle in Edinburgh, Scotland, UK",
+    "year": 1300,
+    "fact": "Craigmillar Castle is a ruined medieval castle in Edinburgh, Scotland.",
+    "wikipediaSlug": "Craigmillar_Castle",
+    "image": "Craigmillar_Castle.jpg",
+    "pageViews": 2031
+  },
+  {
+    "qid": "Q827174",
+    "title": "Berry Pomeroy Castle is completed",
+    "subtitle": "Grade I listed English country house in South Hams, United Kingdom",
+    "year": 1496,
+    "fact": "Berry Pomeroy Castle, a Tudor mansion within the walls of an earlier castle, is near the village of Berry Pomeroy, in South Devon, England.",
+    "wikipediaSlug": "Berry_Pomeroy_Castle",
+    "image": "Berry_Pomeroy_Castle_-_geograph.org.uk_-_411651.jpg",
+    "pageViews": 2027
+  },
+  {
+    "qid": "Q2075156",
+    "title": "Ljubljana Castle is completed",
+    "subtitle": "Castle in Slovenia",
+    "year": 900,
+    "fact": "Ljubljana Castle is a castle complex standing on Castle Hill above downtown Ljubljana, the capital of Slovenia.",
+    "wikipediaSlug": "Ljubljana_Castle",
+    "image": "Ljubljanski_grad_in_Grajski_grič.jpg",
+    "pageViews": 2025
+  },
+  {
+    "qid": "Q525635",
+    "title": "Monmouth Castle is completed",
+    "subtitle": "Castle in Monmouth, Wales, UK",
+    "year": 1060,
+    "fact": "Monmouth Castle is a castle close to the centre of the town of Monmouth, the county town of Monmouthshire, on a hill above the River Monnow in south-east Wales.",
+    "wikipediaSlug": "Monmouth_Castle",
+    "image": "Monmouth_Castle_-_geograph.org.uk_-_1373622.jpg",
+    "pageViews": 2019
+  },
+  {
+    "qid": "Q764573",
+    "title": "Cahir Castle is completed",
+    "subtitle": "Castle in Ireland",
+    "year": 1142,
+    "fact": "Cahir Castle, one of the largest castles in Ireland, is sited on an island in the river Suir.",
+    "wikipediaSlug": "Cahir_Castle",
+    "image": "Cahir_Castle,_Tipperary_County,_Ireland_(6961416840)_(2).jpg",
+    "pageViews": 2006
+  },
+  {
+    "qid": "Q7535853",
+    "title": "Skipton Castle is completed",
+    "subtitle": "Grade I listed historic house museum in Skipton, North Yorkshire, England, UK",
+    "year": 1090,
+    "fact": "Skipton Castle is a well-preserved Grade I Listed medieval castle in Skipton, North Yorkshire, England.",
+    "wikipediaSlug": "Skipton_Castle",
+    "image": "Skipton_Castle_main_gate,_2007.jpg",
+    "pageViews": 1999
+  },
+  {
+    "qid": "Q2164919",
+    "title": "Český Krumlov Castle is completed",
+    "subtitle": "Castle in the Czech Republic",
+    "year": 1300,
+    "fact": "Český Krumlov Castle is a castle in Český Krumlov in the South Bohemian Region of the Czech Republic.",
+    "wikipediaSlug": "%C4%8Cesk%C3%BD_Krumlov_Castle",
+    "image": "Český_Krumlov,_zámek_celý_z_vyhlídky.jpg",
+    "pageViews": 1989
+  },
+  {
+    "qid": "Q732112",
+    "title": "St Magnus Cathedral, Kirkwall is completed",
+    "subtitle": "Cathedral in Kirkwall, Orkney, Scotland",
+    "year": 1137,
+    "fact": "St Magnus Cathedral is a Church of Scotland parish church in Kirkwall, the main town of Orkney, a group of islands off the north coast of mainland Scotland.",
+    "wikipediaSlug": "St_Magnus_Cathedral",
+    "image": "St_Magnus_Cathedral,_Kirkwall,_viewed_from_the_Bishop's_Palace.jpg",
+    "pageViews": 1986
+  },
+  {
+    "qid": "Q2548705",
+    "title": "Great Mosque of Sana'a is completed",
+    "subtitle": "Mosque in Sanaa, Yemen",
+    "year": 700,
+    "fact": "The Great Mosque of Sana'a is an ancient mosque in Sana'a, Yemen, and one of the oldest mosques in the world.",
+    "wikipediaSlug": "Great_Mosque_of_Sanaa",
+    "image": "Old_City,_Sana'a,_Yemen_(15335600470).jpg",
+    "pageViews": 1983
+  },
+  {
+    "qid": "Q1728667",
+    "title": "Church of Panaghia Kapnikarea is completed",
+    "subtitle": "Byzantine church in Athens, Greece",
+    "year": 1001,
+    "fact": "The Church of Panagia Kapnikarea or just Kapnikarea is a Greek Orthodox church and one of the oldest continuously in use churches in Athens.",
+    "wikipediaSlug": "Church_of_Panagia_Kapnikarea",
+    "image": "2012_Church_of_Panagia_Kapnikarea_1.jpg",
+    "pageViews": 1976
+  },
+  {
+    "qid": "Q1515300",
+    "title": "Santi Apostoli is completed",
+    "subtitle": "Church in Rome",
+    "year": 501,
+    "fact": "Santi Dodici Apostoli, commonly known as Santi Apostoli, is a 6th-century Catholic parish and titular church and minor basilica in Rome, Italy, the mother church of the Conventual Franciscan Order whose General Curia is in the adjacent building.",
+    "wikipediaSlug": "Santi_Apostoli,_Rome",
+    "image": "SS_Apostoli_001.jpg",
+    "pageViews": 1965
+  },
+  {
+    "qid": "Q696951",
+    "title": "Pfalzgrafenstein Castle is completed",
+    "subtitle": "Castle in Germany",
+    "year": 1326,
+    "fact": "Pfalzgrafenstein Castle, also known as the Pfalz, is a toll castle situated on Falkenau island in the Rhine River, adjacent to Kaub, Germany.",
+    "wikipediaSlug": "Pfalzgrafenstein_Castle",
+    "image": "Burg_Pfalzgrafenstein_2017.jpg",
+    "pageViews": 1960
+  },
+  {
+    "qid": "Q2738834",
+    "title": "Salerno Cathedral is completed",
+    "subtitle": "The main church of the city of Salerno in southern Italy",
+    "year": 1001,
+    "fact": "Salerno Cathedral is the main church in the city of Salerno in southern Italy and a major tourist attraction.",
+    "wikipediaSlug": "Salerno_Cathedral",
+    "image": "Salerno_2013-05-17_09-37-10.jpg",
+    "pageViews": 1949
+  },
+  {
+    "qid": "Q695891",
+    "title": "St. Elisabeth's Church is completed",
+    "subtitle": "Church building in Marburg, Hesse, Germany",
+    "year": 1283,
+    "fact": "St.",
+    "wikipediaSlug": "St._Elizabeth%27s_Church,_Marburg",
+    "image": "Marburg_asv2022-02_img25_Elisabethkirche.jpg",
+    "pageViews": 1943
+  },
+  {
+    "qid": "Q3437688",
+    "title": "Tughrul Tower is completed",
+    "subtitle": "Mausoleum tower in Ray, Iranian national heritage site",
+    "year": 1140,
+    "fact": "Toghrol Tower is a 12th-century monument, located in the city of Rey, Tehran province, Iran.",
+    "wikipediaSlug": "Toghrol_Tower",
+    "image": "تاریخ_ری.jpg",
+    "pageViews": 1940
+  },
+  {
+    "qid": "Q255574",
+    "title": "Peveril Castle is completed",
+    "subtitle": "Castle in Castleton, Derbyshire, England, UK",
+    "year": 1080,
+    "fact": "Peveril Castle is a ruined 11th-century castle overlooking the village of Castleton in the English county of Derbyshire.",
+    "wikipediaSlug": "Peveril_Castle",
+    "image": "Peveril_Castle_keep,_2009.jpg",
+    "pageViews": 1933
+  },
+  {
+    "qid": "Q367781",
+    "title": "Rudkhan Castle is completed",
+    "subtitle": "Castle in Fuman County, Iranian national heritage site",
+    "year": 1100,
+    "fact": "Rudkhan Castle, also Roodkhan Castle, is a brick and stone medieval fortress in Iran that was built to defend against the Arab invaders during the Muslim conquest of Persia.",
+    "wikipediaSlug": "Rudkhan_Castle",
+    "image": "RudkhanCastle.JPG",
+    "pageViews": 1913
+  },
+  {
+    "qid": "Q239560",
+    "title": "St. Martin's Cathedral, Bratislava is completed",
+    "subtitle": "Cathedral",
+    "year": 1221,
+    "fact": "St Martin's Cathedral is a church in Bratislava, Slovakia, and the cathedral of the Archdiocese of Bratislava.",
+    "wikipediaSlug": "St_Martin%27s_Cathedral,_Bratislava",
+    "image": "Catedral_de_San_Martín,_Bratislava,_Eslovaquia,_2020-02-01,_DD_48.jpg",
+    "pageViews": 1911
+  },
+  {
+    "qid": "Q666479",
+    "title": "Basel Minster is completed",
+    "subtitle": "Church",
+    "year": 1091,
+    "fact": "Basel Minster is a religious building in the Swiss city of Basel, originally a Roman Catholic cathedral and today a Reformed Protestant church.",
+    "wikipediaSlug": "Basel_Minster",
+    "image": "Basler_-_Basler_Münster_Westfassade.jpg",
+    "pageViews": 1902
+  },
+  {
+    "qid": "Q678611",
+    "title": "Nieuwe Kerk Delft is completed",
+    "subtitle": "Church building in Delft, Netherlands",
+    "year": 1496,
+    "fact": "The Nieuwe Kerk is a Protestant church in the city of Delft in the Netherlands.",
+    "wikipediaSlug": "Nieuwe_Kerk_(Delft)",
+    "image": "Delft,_de_Nieuwe_Kerk_foto1_RM11872_foto4_2016-03-13_12.38.jpg",
+    "pageViews": 1901
+  },
+  {
+    "qid": "Q1049016",
+    "title": "Castelvecchio is completed",
+    "subtitle": "Castle",
+    "year": 1356,
+    "fact": "Castelvecchio is a castle in Verona, northern Italy.",
+    "wikipediaSlug": "Castelvecchio_(Verona)",
+    "image": "Italy_-_Verona_-_Ponte_Scaligero.jpg",
+    "pageViews": 1894
+  },
+  {
+    "qid": "Q369547",
+    "title": "Sázava Monastery is completed",
+    "subtitle": "National monument of the Czech Republic",
+    "year": 1032,
+    "fact": "Sázava Monastery is a former Benedictine abbey and a monastery in Bohemia, established by Bretislaus I, Duke of Bohemia around 1032.",
+    "wikipediaSlug": "S%C3%A1zava_Monastery",
+    "image": "Sázava_Monastery,_aerial_view_crop.jpg",
+    "pageViews": 1893
+  },
+  {
+    "qid": "Q1306549",
+    "title": "Genoa Cathedral is completed",
+    "subtitle": "Cathedral in Genoa, Italy",
+    "year": 1098,
+    "fact": "Genoa Cathedral or Metropolitan Cathedral of Saint Lawrence is a Roman Catholic cathedral in the Italian city of Genoa.",
+    "wikipediaSlug": "Genoa_Cathedral",
+    "image": "Genoa_Cathedral,_Façade,_Genoa,_Italy.jpg",
+    "pageViews": 1886
+  },
+  {
+    "qid": "Q1644597",
+    "title": "Martorana is completed",
+    "subtitle": "Church in Palermo, Italy",
+    "year": 1143,
+    "fact": "The Church of St.",
+    "wikipediaSlug": "Church_of_Santa_Maria_dell%27Ammiraglio",
+    "image": "Palermo-Martorana-bjs.jpg",
+    "pageViews": 1883
+  },
+  {
+    "qid": "Q197094",
+    "title": "Zeyrek Mosque is completed",
+    "subtitle": "Religious building from the Byzantine Empire period",
+    "year": 1136,
+    "fact": "Zeyrek Mosque or the Monastery of the Pantokrator, is a large mosque on the Fazilet Street in the Zeyrek district of Fatih in Istanbul, overlooking the Golden Horn.",
+    "wikipediaSlug": "Zeyrek_Mosque",
+    "image": "Istanbul_Zeyrek_Mosque_(54523853532).jpg",
+    "pageViews": 1880
+  },
+  {
+    "qid": "Q7860523",
+    "title": "Tynemouth Castle and Priory is completed",
+    "subtitle": "Historic coastal site in north-eastern England",
+    "year": 601,
+    "fact": "Tynemouth Priory and Castle is an historic site located on a promontory at the mouth of the Tyne at Tynemouth.",
+    "wikipediaSlug": "Tynemouth_Priory_and_Castle",
+    "image": "Tynemouth_Priory_Aerial.jpg",
+    "pageViews": 1875
+  },
+  {
+    "qid": "Q691966",
+    "title": "Castle of the counts of Gruyères is completed",
+    "subtitle": "Castle with outbuildings in Gruyères in the canton of Fribourg, Switzerland",
+    "year": 1270,
+    "fact": "The Castle of Gruyères, located in the medieval town of Gruyères, Fribourg, is one of the most famous in Switzerland.",
+    "wikipediaSlug": "Gruy%C3%A8res_Castle",
+    "image": "12_Chateau_de_Gruyères_Photo_by_Giles_Laurent.jpg",
+    "pageViews": 1873
+  },
+  {
+    "qid": "Q1679598",
+    "title": "Cathedral of St. James, Jerusalem is completed",
+    "subtitle": "Armenian church in East Jerusalem",
+    "year": 1142,
+    "fact": "The Cathedral of Saint James is a 12th-century Armenian church in the Armenian Quarter of Jerusalem, near the quarter's entry Zion Gate.",
+    "wikipediaSlug": "Cathedral_of_Saint_James,_Jerusalem",
+    "image": "Inside_Saint_James_Cathedral_in_the_Armenian_Quarter_of_Jerusalem.jpg",
+    "pageViews": 1859
+  },
+  {
+    "qid": "Q1133059",
+    "title": "Riga Cathedral is completed",
+    "subtitle": "Cathedral in Riga, Latvia",
+    "year": 1201,
+    "fact": "Riga Cathedral formally The Cathedral Church of Saint Mary, is the Evangelical Lutheran cathedral in Riga, Latvia.",
+    "wikipediaSlug": "Riga_Cathedral",
+    "image": "Riga_Petrikirche_Blick_vom_Turm_zum_Dom_3.JPG",
+    "pageViews": 1841
+  },
+  {
+    "qid": "Q834511",
+    "title": "St. Olaf's Church is completed",
+    "subtitle": "Church in Tallinn, Estonia",
+    "year": 1201,
+    "fact": "St.",
+    "wikipediaSlug": "St._Olaf%27s_Church,_Tallinn",
+    "image": "St_Olaf's_church,_Tallinn,_July_2008.jpg",
+    "pageViews": 1839
+  },
+  {
+    "qid": "Q1584818",
+    "title": "Kolossi Castle is completed",
+    "subtitle": "Building in Limassol, Cyprus",
+    "year": 1210,
+    "fact": "Kolossi Castle is a former Crusader stronghold on the south-west edge of Kolossi village 14 kilometres (9 mi) west of the city of Limassol on the island of Cyprus.",
+    "wikipediaSlug": "Kolossi_Castle",
+    "image": "Kolossi_Castle_01.JPG",
+    "pageViews": 1835
+  },
+  {
+    "qid": "Q1049410",
+    "title": "Castle Fraser is completed",
+    "subtitle": "Z-plan castle in Scotland",
+    "year": 1455,
+    "fact": "Castle Fraser is a large Z-plan castle near Kemnay, Aberdeenshire, Scotland.",
+    "wikipediaSlug": "Castle_Fraser",
+    "image": "Castle_Fraser_-_geograph.org.uk_-_8125177.jpg",
+    "pageViews": 1832
+  },
+  {
+    "qid": "Q1419675",
+    "title": "Nieuwe Kerk is completed",
+    "subtitle": "Church in Amsterdam, Netherlands",
+    "year": 1408,
+    "fact": "The Nieuwe Kerk is a 15th-century church in Amsterdam located on Dam Square, next to the Royal Palace.",
+    "wikipediaSlug": "Nieuwe_Kerk,_Amsterdam",
+    "image": "Iglesia_Nueva,_Ámsterdam,_Países_Bajos,_2016-05-30,_DD_10-12_HDR.jpg",
+    "pageViews": 1822
+  },
+  {
+    "qid": "Q1014126",
+    "title": "Het Steen is completed",
+    "subtitle": "Fortress in Antwerp, Belgium",
+    "year": 1200,
+    "fact": "Het Steen is a medieval fortress in the old city centre of Antwerp, Belgium, one of Europe's biggest ports.",
+    "wikipediaSlug": "Het_Steen",
+    "image": "0_Het_Steen_-_Antwerpen_(1).JPG",
+    "pageViews": 1820
+  },
+  {
+    "qid": "Q5583571",
+    "title": "Goodrich Castle is completed",
+    "subtitle": "Grade I listed castle in Goodrich, Herefordshire, England, UK",
+    "year": 1001,
+    "fact": "Goodrich Castle is a Norman medieval castle ruin north of the village of Goodrich in Herefordshire, England, controlling a key location between Monmouth and Ross-on-Wye.",
+    "wikipediaSlug": "Goodrich_Castle",
+    "image": "Goodrich_above.jpg",
+    "pageViews": 1820
+  },
+  {
+    "qid": "Q196161",
+    "title": "Cathedral of Ani is completed",
+    "subtitle": "Armenian cathedral",
+    "year": 1001,
+    "fact": "The Cathedral of Ani is the largest standing building in Ani, the capital city of medieval Bagratid Armenia, located in present-day eastern Turkey, on the border with modern Armenia.",
+    "wikipediaSlug": "Cathedral_of_Ani",
+    "image": "Ani-Cathedral,_Ruine.jpeg",
+    "pageViews": 1817
+  },
+  {
+    "qid": "Q856262",
+    "title": "Bibi-Heybat Mosque is completed",
+    "subtitle": "Historical mosque in Baku",
+    "year": 1281,
+    "fact": "The Bibi-Heybat Mosque is located in the village of Bibiheybət, near Baku, Azerbaijan.",
+    "wikipediaSlug": "Bibi-Heybat_Mosque",
+    "image": "Bibi_Heybat_Mosque_Baku_1.jpg",
+    "pageViews": 1807
+  },
+  {
+    "qid": "Q645105",
+    "title": "Euphrasian Basilica is completed",
+    "subtitle": "Church",
+    "year": 553,
+    "fact": "The Euphrasian Basilica or the Cathedral Basilica of the Assumption of Mary is a Roman Catholic basilica in the Istrian town of Poreč, Croatia.",
+    "wikipediaSlug": "Euphrasian_Basilica",
+    "image": "2025_Atrium_Euphrasius-Basilika.jpg",
+    "pageViews": 1806
+  },
+  {
+    "qid": "Q773726",
+    "title": "Chapel of the Ascension is completed",
+    "subtitle": "Shrine in Jerusalem",
+    "year": 1150,
+    "fact": "The Chapel of the Ascension is a chapel and shrine located on the Mount of Olives, in the At-Tur district of Jerusalem.",
+    "wikipediaSlug": "Chapel_of_the_Ascension",
+    "image": "5035-20080122-jerusalem-mt-olives-ascension-edicule.jpg",
+    "pageViews": 1802
+  },
+  {
+    "qid": "Q2472396",
+    "title": "Torre del Mangia is completed",
+    "subtitle": "Tower and museum in Siena",
+    "year": 1348,
+    "fact": "The Torre del Mangia is a tower in Siena, in the Tuscany region of Italy.",
+    "wikipediaSlug": "Torre_del_Mangia",
+    "image": "Siena,_Tuscany,_Italy-12May2013.jpg",
+    "pageViews": 1789
+  },
+  {
+    "qid": "Q1776168",
+    "title": "Monastery of São Vicente de Fora is completed",
+    "subtitle": "Church and monastery in Lisbon",
+    "year": 1147,
+    "fact": "The Church and Monastery of São Vicente de Fora, meaning \"Monastery of St.",
+    "wikipediaSlug": "Monastery_of_S%C3%A3o_Vicente_de_Fora",
+    "image": "Igreja_e_Mosteiro_de_São_Vicente_de_Fora.jpg",
+    "pageViews": 1767
+  },
+  {
+    "qid": "Q1048693",
+    "title": "Castell y Bere is completed",
+    "subtitle": "Castle in Gwynedd, Wales",
+    "year": 1221,
+    "fact": "Castell y Bere is a Welsh castle near Llanfihangel-y-pennant in Gwynedd, Wales.",
+    "wikipediaSlug": "Castell_y_Bere",
+    "image": "CastellybereFMA01.jpg",
+    "pageViews": 1763
+  },
+  {
+    "qid": "Q1545193",
+    "title": "Grote Kerk is completed",
+    "subtitle": "Church in Haarlem, North Holland, Netherlands",
+    "year": 1400,
+    "fact": "The Grote Kerk or St.-Bavokerk is a Reformed Protestant church located on the central market square in the Dutch city of Haarlem.",
+    "wikipediaSlug": "Grote_Kerk,_Haarlem",
+    "image": "Grote-Kerk-Haarlem.jpg",
+    "pageViews": 1755
+  },
+  {
+    "qid": "Q258217",
+    "title": "Burghausen Castle is completed",
+    "subtitle": "Castle in Burghausen, Germany",
+    "year": 1051,
+    "fact": "Burghausen Castle in Burghausen, Upper Bavaria, is the longest castle complex in the world, confirmed by the Guinness World Record company, and the third largest.",
+    "wikipediaSlug": "Burghausen_Castle",
+    "image": "Burghausen_-_Hauptburg_(1).JPG",
+    "pageViews": 1744
+  },
+  {
+    "qid": "Q257210",
+    "title": "Marksburg is completed",
+    "subtitle": "Castle in Braubach, Rhineland-Palatinate, Germany",
+    "year": 1117,
+    "fact": "The Marksburg is a castle above the town of Braubach in Rhineland-Palatinate, Germany.",
+    "wikipediaSlug": "Marksburg",
+    "image": "Marksburg-Braubach.jpg",
+    "pageViews": 1737
+  },
+  {
+    "qid": "Q1048850",
+    "title": "Castello Ursino is completed",
+    "subtitle": "Thirteenth century castle built on the will of King Federico II, Catania, Italy",
+    "year": 1239,
+    "fact": "Castello Ursino, also known as Castello Svevo di Catania, is a castle in Catania, Sicily, southern Italy.",
+    "wikipediaSlug": "Castello_Ursino",
+    "image": "Catania_-_Castello_Ursino_03.jpg",
+    "pageViews": 1733
+  },
+  {
+    "qid": "Q5938",
+    "title": "Naumburg Cathedral is completed",
+    "subtitle": "Cathedral in Saxony-Anhalt, Germany",
+    "year": 1300,
+    "fact": "Naumburg Cathedral, located in Naumburg, Germany, is the former cathedral of the Bishopric of Naumburg-Zeitz.",
+    "wikipediaSlug": "Naumburg_Cathedral",
+    "image": "Naumburg_Dom.jpg",
+    "pageViews": 1723
+  },
+  {
+    "qid": "Q3278563",
+    "title": "Castle of Púbol is completed",
+    "subtitle": "Historic home of Salvador and Gala Dali",
+    "year": 1056,
+    "fact": "The Castle of Púbol or Gala Dalí Castle House-Museum, located in Púbol in the comarca of Baix Empordà, Girona, Catalonia, Spain, is a medieval building where the Spanish painter Salvador Dalí's enormous creative efforts were focused on a single person, his wife Gala, with the aim of providing her with a unique sanctuary and resting place.",
+    "wikipediaSlug": "Castle_of_P%C3%BAbol",
+    "image": "Púbol_Baix_Empordà_Catalunya_(cropped).JPG",
+    "pageViews": 1719
+  },
+  {
+    "qid": "Q701567",
+    "title": "Erfurt Cathedral is completed",
+    "subtitle": "Church in Thuringia, Germany",
+    "year": 1154,
+    "fact": "Erfurt Cathedral, also known as St Mary's Cathedral, is the largest and oldest church building in the Thuringian city of Erfurt, central Germany.",
+    "wikipediaSlug": "Erfurt_Cathedral",
+    "image": "Erfurter_Dom_von_Oben_08.jpg",
+    "pageViews": 1715
+  },
+  {
+    "qid": "Q794876",
+    "title": "San Zaccaria is completed",
+    "subtitle": "Church in Venice",
+    "year": 801,
+    "fact": "The Church of San Zaccaria is a 15th-century former monastic church in central Venice.",
+    "wikipediaSlug": "San_Zaccaria,_Venice",
+    "image": "Chiesa_di_San_Zaccaria_Venezia.jpg",
+    "pageViews": 1703
+  },
+  {
+    "qid": "Q1048836",
+    "title": "Castello Estense is completed",
+    "subtitle": "Castle in Ferrara",
+    "year": 1350,
+    "fact": "The Castello Estense or castello di San Michele is a moated medieval castle in the center of Ferrara, northern Italy.",
+    "wikipediaSlug": "Castello_Estense",
+    "image": "Il_Castello_Estense_di_Ferrara.jpg",
+    "pageViews": 1696
+  },
+  {
+    "qid": "Q1549939",
+    "title": "Church of São Francisco is completed",
+    "subtitle": "Church in Porto, Portugal",
+    "year": 1401,
+    "fact": "The Church of Saint Francis is the most prominent Gothic monument in Porto, Portugal, being also noted for its outstanding Baroque inner decoration.",
+    "wikipediaSlug": "Church_of_S%C3%A3o_Francisco_(Porto)",
+    "image": "Oporto-S-Francisco-IPPAR1.jpg",
+    "pageViews": 1696
+  },
+  {
+    "qid": "Q1514683",
+    "title": "Santa Maria della Pace is completed",
+    "subtitle": "Church building in Rome, Italy",
+    "year": 1401,
+    "fact": "Santa Maria della Pace is a Catholic church in Rome, Italy, not far from Piazza Navona.",
+    "wikipediaSlug": "Santa_Maria_della_Pace",
+    "image": "Église_Santa_Maria_Pace_-_Rome_(IT62)_-_2021-08-28_-_3.jpg",
+    "pageViews": 1686
+  },
+  {
+    "qid": "Q4430013",
+    "title": "Hagia Sophia, Iznik is completed",
+    "subtitle": "Byzantine-era church in İznik, Turkey",
+    "year": 600,
+    "fact": "Hagia Sophia mosque in İznik (Nicaea) in Bursa Province, Turkey, was built as a Byzantine-era basilican church.",
+    "wikipediaSlug": "Hagia_Sophia,_%C4%B0znik",
+    "image": "Hagia_Sophia_Iznik.JPG",
+    "pageViews": 1668
+  },
+  {
+    "qid": "Q1011692",
+    "title": "Château de Falaise is completed",
+    "subtitle": "Castle",
+    "year": 1000,
+    "fact": "The Château de Falaise is a castle from the 12th–13th century, located in the south of the commune of Falaise in the département of Calvados, in the region of Normandy, France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Falaise",
+    "image": "Falaise_chateau_guillaume_conquerant_2.jpg",
+    "pageViews": 1665
+  },
+  {
+    "qid": "Q421395",
+    "title": "Lympne Castle is completed",
+    "subtitle": "Castle in Lympne, Kent, England",
+    "year": 1080,
+    "fact": "Lympne Castle is a medieval castle in England that is located in the village of Lympne in Kent, above Romney Marsh.",
+    "wikipediaSlug": "Lympne_Castle",
+    "image": "Lympne_Castle_-_geograph.org.uk_-_4223972.jpg",
+    "pageViews": 1661
+  },
+  {
+    "qid": "Q1579525",
+    "title": "St. Hripsime is completed",
+    "subtitle": "Church",
+    "year": 601,
+    "fact": "Saint Hripsime Church is a seventh-century Armenian Apostolic church in the city of Vagharshapat (Etchmiadzin), Armenia.",
+    "wikipediaSlug": "Saint_Hripsime_Church",
+    "image": "S._Hripsime_Church_Southwest.jpg",
+    "pageViews": 1656
+  },
+  {
+    "qid": "Q699474",
+    "title": "Liechtenstein Castle is completed",
+    "subtitle": "Castle located near Maria Enzersdorf in Lower Austria bordering Vienna",
+    "year": 1136,
+    "fact": "Liechtenstein Castle is a castle near Maria Enzersdorf in Lower Austria, bordering Vienna.",
+    "wikipediaSlug": "Liechtenstein_Castle_(Maria_Enzersdorf)",
+    "image": "Maria_Enzersdorf_-_Burg_Liechtenstein_(5).JPG",
+    "pageViews": 1651
+  },
+  {
+    "qid": "Q4819493",
+    "title": "Auckland Castle is completed",
+    "subtitle": "Castle in the town of Bishop Auckland in County Durham, England, UK",
+    "year": 1183,
+    "fact": "Auckland Castle, also known as Auckland Palace, is a former bishop's palace located in the town of Bishop Auckland in County Durham, England.",
+    "wikipediaSlug": "Auckland_Castle",
+    "image": "Auckland_Castle_-_geograph.org.uk_-_1896444.jpg",
+    "pageViews": 1651
+  },
+  {
+    "qid": "Q833779",
+    "title": "Stolzenfels Castle is completed",
+    "subtitle": "Castle in Koblenz, Rhineland-Palatinate, Germany",
+    "year": 1259,
+    "fact": "Stolzenfels Castle is a former medieval fortress castle (\"Burg\") turned into a palace, near Koblenz on the left bank of the Rhine, in the state of Rhineland-Palatinate, Germany.",
+    "wikipediaSlug": "Stolzenfels_Castle",
+    "image": "Schloss_Stolzenfels_01_Koblenz_2015.jpg",
+    "pageViews": 1639
+  },
+  {
+    "qid": "Q2149114",
+    "title": "A-Ma Temple is completed",
+    "subtitle": "Temple in Macau",
+    "year": 1488,
+    "fact": "The A-Má Temple is a temple to the Chinese sea-goddess Mazu located in São Lourenço, Macau, China.",
+    "wikipediaSlug": "A-Ma_Temple",
+    "image": "A_Ma_Temple_200907.jpg",
+    "pageViews": 1631
+  },
+  {
+    "qid": "Q1736225",
+    "title": "Trieste Cathedral is completed",
+    "subtitle": "A Roman Catholic cathedral and the main church of Trieste, in northern Italy",
+    "year": 1001,
+    "fact": "Trieste Cathedral, dedicated to Saint Justus, is a Roman Catholic cathedral in Trieste, in northeastern Italy.",
+    "wikipediaSlug": "Trieste_Cathedral",
+    "image": "San_Giusto_Cathedral_and_Roman_Forum,_Trieste.jpg",
+    "pageViews": 1629
+  },
+  {
+    "qid": "Q1265325",
+    "title": "Dunblane Cathedral is completed",
+    "subtitle": "Cathedral in Dunblane, Scotland, UK",
+    "year": 1100,
+    "fact": "Dunblane Cathedral is a Church of Scotland church in Dunblane, Scotland.",
+    "wikipediaSlug": "Dunblane_Cathedral",
+    "image": "Dunblane_Cathedral_2017.jpg",
+    "pageViews": 1625
+  },
+  {
+    "qid": "Q1637186",
+    "title": "St. Mark's Church in Zagreb is completed",
+    "subtitle": "Church building in Zagreb, Croatia",
+    "year": 1201,
+    "fact": "The Church of St.",
+    "wikipediaSlug": "St._Mark%27s_Church,_Zagreb",
+    "image": "Zagreb_Church_of_St._Mark_(34411766366).jpg",
+    "pageViews": 1598
+  },
+  {
+    "qid": "Q32339",
+    "title": "Bursa Grand Mosque is completed",
+    "subtitle": "Mosque in Bursa, northwestern Turkey",
+    "year": 1396,
+    "fact": "The Grand Mosque of Bursa is a historic mosque in Bursa, Turkey.",
+    "wikipediaSlug": "Grand_Mosque_of_Bursa",
+    "image": "71_Bursa_la_Grande_Moschea_(Edited).jpg",
+    "pageViews": 1594
+  },
+  {
+    "qid": "Q603256",
+    "title": "Niujie Mosque is completed",
+    "subtitle": "Mosque in Beijing",
+    "year": 1442,
+    "fact": "The Niujie Mosque, also known as the Oxen Street House of Worship, or the Oxen Street Mosque, is the oldest mosque in Beijing, China.",
+    "wikipediaSlug": "Niujie_Mosque",
+    "image": "Niujie_Mosques02.jpg",
+    "pageViews": 1591
+  },
+  {
+    "qid": "Q505858",
+    "title": "Chester Castle is completed",
+    "subtitle": "Castle in Chester, UK",
+    "year": 1069,
+    "fact": "Chester Castle is in the city of Chester, Cheshire, England.",
+    "wikipediaSlug": "Chester_Castle",
+    "image": "Chester_Castle_-_geograph.org.uk_-_1022086.jpg",
+    "pageViews": 1589
+  },
+  {
+    "qid": "Q1454816",
+    "title": "Jameh Mosque of Yazd is completed",
+    "subtitle": "Mosque in Yazd, Iranian national heritage site",
+    "year": 900,
+    "fact": "The Jāmeh Mosque of Yazd is a Friday mosque (jāmeh) located in the city of Yazd, in the province of Yazd, Iran.",
+    "wikipediaSlug": "Jameh_Mosque_of_Yazd",
+    "image": "Jameh_Mosque_of_Yazd_Iran.jpg",
+    "pageViews": 1586
+  },
+  {
+    "qid": "Q158324",
+    "title": "St. Michael's Church is completed",
+    "subtitle": "Church in Hildesheim, Germany",
+    "year": 1010,
+    "fact": "The Church of St.",
+    "wikipediaSlug": "St._Michael%27s_Church,_Hildesheim",
+    "image": "St_Michaels_Church_Hildesheim.jpg",
+    "pageViews": 1579
+  },
+  {
+    "qid": "Q744016",
+    "title": "Konopiště Castle is completed",
+    "subtitle": "Château located in the Czech Republic",
+    "year": 1300,
+    "fact": "Konopiště Castle is a four-winged, three-storey castle located in Konopiště, now a part of the town of Benešov in Central Bohemian Region, Czech Republic.",
+    "wikipediaSlug": "Konopi%C5%A1t%C4%9B",
+    "image": "Pohled_na_Konopiště_a_sochy_(001).JPG",
+    "pageViews": 1574
+  },
+  {
+    "qid": "Q669544",
+    "title": "Lausanne Cathedral is completed",
+    "subtitle": "Cathedral of the Swiss Reformed Church",
+    "year": 1170,
+    "fact": "The Cathedral of Our Lady of Lausanne, or simply Lausanne Cathedral, is a Swiss Reformed church located in the city of Lausanne, in the canton of Vaud, Switzerland.",
+    "wikipediaSlug": "Lausanne_Cathedral",
+    "image": "Lausanne-cathe7.JPG",
+    "pageViews": 1573
+  },
+  {
+    "qid": "Q2036332",
+    "title": "San Pietro in Ciel d'Oro is completed",
+    "subtitle": "Church in Pavia, Lombardy, Italy",
+    "year": 800,
+    "fact": "The Basilica of St.",
+    "wikipediaSlug": "San_Pietro_in_Ciel_d%27Oro",
+    "image": "0311_-_Pavia_-_S._Pietro_-_Facciata_-_Foto_Giovanni_Dall'Orto,_Oct_17_2009.jpg",
+    "pageViews": 1568
+  },
+  {
+    "qid": "Q859010",
+    "title": "Toompea Castle is completed",
+    "subtitle": "Castle in Tallinn, Estonia",
+    "year": 1201,
+    "fact": "Toompea castle is a medieval castle on Toompea hill in the central part of Tallinn, the capital of Estonia.",
+    "wikipediaSlug": "Toompea_Castle",
+    "image": "Toompea_loss_2014.jpg",
+    "pageViews": 1565
+  },
+  {
+    "qid": "Q251272",
+    "title": "Olavinlinna Castle is completed",
+    "subtitle": "Medieval castle in Savonlinna, Finland",
+    "year": 1475,
+    "fact": "Olavinlinna, also known as St.",
+    "wikipediaSlug": "Olavinlinna",
+    "image": "Olavinlinna_Savonlinna_Finland.jpg",
+    "pageViews": 1562
+  },
+  {
+    "qid": "Q1187606",
+    "title": "Turku Cathedral is completed",
+    "subtitle": "Cathedral in Turku, Finland",
+    "year": 1300,
+    "fact": "Turku Cathedral is the only medieval basilica in Finland and the Mother Church of the Evangelical Lutheran Church of Finland.",
+    "wikipediaSlug": "Turku_Cathedral",
+    "image": "Turun_tuomiokirkko.jpg",
+    "pageViews": 1558
+  },
+  {
+    "qid": "Q2579998",
+    "title": "Castle of Óbidos is completed",
+    "subtitle": "Medieval Castle in Portugal",
+    "year": 1101,
+    "fact": "The Castle of Óbidos is a well preserved medieval castle located in the civil parish of Santa Maria, São Pedro e Sobral da Lagoa, in the Portuguese municipality of Óbidos, the historical province of Portuguese Estremadura.",
+    "wikipediaSlug": "Castle_of_%C3%93bidos",
+    "image": "Castillo_de_Óbidos,_Óbidos,_Portugal,_2021-09-09,_DD_24.jpg",
+    "pageViews": 1558
+  },
+  {
+    "qid": "Q693869",
+    "title": "Augustinian Church is completed",
+    "subtitle": "Church in Vienna",
+    "year": 1339,
+    "fact": "The Augustinian Church in Vienna is a parish church located on Josefsplatz, next to the Hofburg, the winter palace of the Habsburg dynasty in Vienna.",
+    "wikipediaSlug": "Augustinian_Church,_Vienna",
+    "image": "Augustinian_Church_Vienna.jpg",
+    "pageViews": 1556
+  },
+  {
+    "qid": "Q1268593",
+    "title": "Tempio Malatestiano is completed",
+    "subtitle": "Cathedral of Rimini, Italy",
+    "year": 1401,
+    "fact": "The Tempio Malatestiano officially Cathedral Basilica of Santa Colomba is the unfinished cathedral church of Rimini, Italy.",
+    "wikipediaSlug": "Tempio_Malatestiano",
+    "image": "Tempio_Malatestiano_Rimini.jpg",
+    "pageViews": 1539
+  },
+  {
+    "qid": "Q136893",
+    "title": "Turku Castle is completed",
+    "subtitle": "Castle in Turku, Finland",
+    "year": 1300,
+    "fact": "Turku Castle is a medieval structure in the city of Turku, Finland.",
+    "wikipediaSlug": "Turku_Castle",
+    "image": "Turkucastle_edit.jpg",
+    "pageViews": 1529
+  },
+  {
+    "qid": "Q1281985",
+    "title": "Armenian Cathedral of the Holy Cross is completed",
+    "subtitle": "Armenian Cathedral on Akdamar Island in Turkey",
+    "year": 915,
+    "fact": "The Cathedral of the Holy Cross on Aghtamar Island, in Lake Van in eastern Turkey, is a medieval Armenian Apostolic cathedral, built as a palatine church for the kings of Vaspurakan and later serving as the seat of the Catholicosate of Aghtamar.",
+    "wikipediaSlug": "Cathedral_of_the_Holy_Cross,_Aghtamar",
+    "image": "Gevaş,_isola_di_akdamar,_chiesa_armena_della_santa_croce,_x_secolo,_05.jpg",
+    "pageViews": 1524
+  },
+  {
+    "qid": "Q513902",
+    "title": "Braga Cathedral is completed",
+    "subtitle": "Cathedral",
+    "year": 1089,
+    "fact": "The Cathedral of Braga is a Roman Catholic church in the northern city of Braga, Portugal.",
+    "wikipediaSlug": "Braga_Cathedral",
+    "image": "Braga_Cathedral_(1).jpg",
+    "pageViews": 1517
+  },
+  {
+    "qid": "Q695069",
+    "title": "Frauenkirche is completed",
+    "subtitle": "Parish church in Nuremberg, Germany",
+    "year": 1352,
+    "fact": "The Frauenkirche is a church in Nuremberg, Germany.",
+    "wikipediaSlug": "Frauenkirche,_Nuremberg",
+    "image": "Nuremberg_Frauenkirche_edit.jpg",
+    "pageViews": 1516
+  },
+  {
+    "qid": "Q753721",
+    "title": "Modena Cathedral is completed",
+    "subtitle": "Cathedral of Modena, Emilia-Romagna, Italy",
+    "year": 1050,
+    "fact": "Modena Cathedral is a Roman Catholic cathedral in Modena, Italy, dedicated to the Assumption of the Virgin Mary and Saint Geminianus.",
+    "wikipediaSlug": "Modena_Cathedral",
+    "image": "Modena-Ghirlandina.jpg",
+    "pageViews": 1514
+  },
+  {
+    "qid": "Q1246842",
+    "title": "Santa María del Naranjo is completed",
+    "subtitle": "Palace, Cultural Interest Asset",
+    "year": 848,
+    "fact": "The church of Saint Mary at Mount Naranco is a pre-Romanesque Asturian building on the slope of Mount Naranco situated 3 kilometres (1.9 mi) from Oviedo, northern Spain.",
+    "wikipediaSlug": "Santa_Mar%C3%ADa_del_Naranco",
+    "image": "SaintMaryOfNaranco.jpg",
+    "pageViews": 1512
+  },
+  {
+    "qid": "Q727809",
+    "title": "St. Peter's Church is completed",
+    "subtitle": "Church in Riga",
+    "year": 1201,
+    "fact": "St.",
+    "wikipediaSlug": "St._Peter%27s_Church,_Riga",
+    "image": "St._Peter's_Church_facade,_Riga,_Latvia_-_Diliff.jpg",
+    "pageViews": 1502
+  },
+  {
+    "qid": "Q679248",
+    "title": "Hochosterwitz Castle is completed",
+    "subtitle": "Castle in Carinthia, Austria",
+    "year": 860,
+    "fact": "Hochosterwitz Castle is a castle in Austria, considered one of Austria's most impressive medieval castles.",
+    "wikipediaSlug": "Hochosterwitz_Castle",
+    "image": "St._Georgen_am_Längsee_-_Burg_Hochosterwitz_(b).JPG",
+    "pageViews": 1501
+  },
+  {
+    "qid": "Q81650",
+    "title": "Anadoluhisarı opens",
+    "subtitle": "Fortress in Istanbul, Turkey",
+    "year": 1393,
+    "fact": "Anadoluhisarı, known historically as Güzelce Hisar is a medieval Ottoman fortress located in Istanbul, Turkey on the Anatolian (Asian) side of the Bosporus.",
+    "wikipediaSlug": "Anadoluhisar%C4%B1",
+    "image": "Anadolu_Hisarı_in_2024_(cropped).jpg",
+    "pageViews": 1494
+  },
+  {
+    "qid": "Q4795731",
+    "title": "Trsat Castle is completed",
+    "subtitle": "Castle in Trsat, Croatia",
+    "year": 1300,
+    "fact": "Trsat Castle is a castle in Trsat, Croatia.",
+    "wikipediaSlug": "Trsat_Castle",
+    "image": "Trsatski_kastel.jpg",
+    "pageViews": 1493
+  },
+  {
+    "qid": "Q849861",
+    "title": "Donnington Castle is completed",
+    "subtitle": "Ruined medieval castle in Berkshire, England",
+    "year": 1386,
+    "fact": "Donnington Castle is a ruined medieval castle, situated in the small village of Donnington, just north of the town of Newbury in the English county of Berkshire.",
+    "wikipediaSlug": "Donnington_Castle",
+    "image": "Donnington_Castle_-_April_2005.jpg",
+    "pageViews": 1488
+  },
+  {
+    "qid": "Q1282278",
+    "title": "Lucca Cathedral is completed",
+    "subtitle": "Cathedral of Lucca, Tuscany, Italy",
+    "year": 1060,
+    "fact": "Lucca Cathedral is a Roman Catholic cathedral dedicated to Saint Martin of Tours in Lucca, Italy.",
+    "wikipediaSlug": "Lucca_Cathedral",
+    "image": "Lucca_-_Cattedrale_di_San_Martino_01-260.jpg",
+    "pageViews": 1461
+  },
+  {
+    "qid": "Q3306356",
+    "title": "Chirk Castle is completed",
+    "subtitle": "Medieval fortress in Wrexham County Borough, Wales",
+    "year": 1295,
+    "fact": "Chirk Castle is a Grade I listed castle located in Chirk, Wrexham County Borough, Wales, 1.5 mi (2.4 km) from Chirk railway station, now owned and run by the National Trust.",
+    "wikipediaSlug": "Chirk_Castle",
+    "image": "ChirkCastle1.JPG",
+    "pageViews": 1461
+  },
+  {
+    "qid": "Q2970221",
+    "title": "Peniscola Castle is completed",
+    "subtitle": "Cultural property in Peniscola, Spain",
+    "year": 1294,
+    "fact": "Peniscola Castle is a castle in Peniscola, Castellón, Valencian Community, Spain.",
+    "wikipediaSlug": "Peniscola_Castle",
+    "image": "Peñíscola_-_aerial_view.jpg",
+    "pageViews": 1460
+  },
+  {
+    "qid": "Q682188",
+    "title": "St. Gereon's Basilica is completed",
+    "subtitle": "Church in Cologne",
+    "year": 1201,
+    "fact": "St.",
+    "wikipediaSlug": "St._Gereon%27s_Basilica,_Cologne",
+    "image": "St._Gereon_Köln_-_Ostseite_(2520).jpg",
+    "pageViews": 1459
+  },
+  {
+    "qid": "Q1267721",
+    "title": "Palazzo Ducale is completed",
+    "subtitle": "Building in Urbino, Italy",
+    "year": 1472,
+    "fact": "The Ducal Palace is a Renaissance building in the Italian city of Urbino in the Marche.",
+    "wikipediaSlug": "Ducal_Palace,_Urbino",
+    "image": "Palazzo_Ducale_(Urbino).jpg",
+    "pageViews": 1458
+  },
+  {
+    "qid": "Q1534288",
+    "title": "Metropolitan Cathedral Basilica of the Holy Saviour, Oviedo is completed",
+    "subtitle": "Religious church building in Spain, the thirteenth century",
+    "year": 701,
+    "fact": "The Metropolitan Cathedral Basilica of the Holy Saviour or Cathedral of San Salvador is a Roman Catholic church and minor basilica in the centre of Oviedo, in the Asturias region of northern Spain.",
+    "wikipediaSlug": "Oviedo_Cathedral",
+    "image": "Cathedral_of_Oviedo_2021_-_exterior.jpg",
+    "pageViews": 1455
+  },
+  {
+    "qid": "Q1378149",
+    "title": "Sint-Salvatorskathedraal is completed",
+    "subtitle": "Roman Catholic cathedral in Bruges, Belgium",
+    "year": 1275,
+    "fact": "St.",
+    "wikipediaSlug": "St._Salvator%27s_Cathedral",
+    "image": "Brügge,_Kathedrale_Sint-Salvator_(Außenansicht)_(4).jpg",
+    "pageViews": 1452
+  },
+  {
+    "qid": "Q2280236",
+    "title": "Shrewsbury Castle is completed",
+    "subtitle": "Medieval castle in Shrewsbury, England",
+    "year": 1070,
+    "fact": "Shrewsbury Castle is a red sandstone castle in Shrewsbury, Shropshire, England.",
+    "wikipediaSlug": "Shrewsbury_Castle",
+    "image": "Shrewsbury_Schloss.JPG",
+    "pageViews": 1452
+  },
+  {
+    "qid": "Q752721",
+    "title": "Carew Castle is completed",
+    "subtitle": "Castle in Wales",
+    "year": 1270,
+    "fact": "Carew Castle is a castle in the civil parish of Carew in Pembrokeshire, Wales.",
+    "wikipediaSlug": "Carew_Castle",
+    "image": "Carew_Castle,_Pembrokeshire,_UK.jpg",
+    "pageViews": 1446
+  },
+  {
+    "qid": "Q2307647",
+    "title": "Palace of Facets is completed",
+    "subtitle": "Architectural monument in the Moscow Kremlin",
+    "year": 1487,
+    "fact": "The Palace of the Facets is a building in the Moscow Kremlin, Russia, which contains what used to be the main banquet reception hall of the Russian tsars.",
+    "wikipediaSlug": "Palace_of_Facets",
+    "image": "Palais_à_facettes.jpg",
+    "pageViews": 1445
+  },
+  {
+    "qid": "Q1289258",
+    "title": "Château des ducs de Bretagne is completed",
+    "subtitle": "Castle of the Dukes of Brittany, Nantes, France",
+    "year": 1207,
+    "fact": "The Château des ducs de Bretagne is a large castle located in the city of Nantes in the Loire-Atlantique département of France; it served as the centre of the historical province of Brittany until its separation in 1956.",
+    "wikipediaSlug": "Ch%C3%A2teau_des_ducs_de_Bretagne",
+    "image": "Nantes_aérien_château3.jpg",
+    "pageViews": 1442
+  },
+  {
+    "qid": "Q910211",
+    "title": "Wrocław Cathedral is completed",
+    "subtitle": "Historic catholic church in Poland",
+    "year": 1244,
+    "fact": "The St.",
+    "wikipediaSlug": "Wroc%C5%82aw_Cathedral",
+    "image": "Wrocław_-_Archikatedra_św._Jana_Chrzciciela1.jpg",
+    "pageViews": 1437
+  },
+  {
+    "qid": "Q1625428",
+    "title": "San Silvestro in Capite is completed",
+    "subtitle": "Church",
+    "year": 701,
+    "fact": "The Basilica of Saint Sylvester the First, also known as, is a Roman Catholic minor basilica and titular church in Rome dedicated to Pope Sylvester I.",
+    "wikipediaSlug": "San_Silvestro_in_Capite",
+    "image": "San_Silvestro_in_Capite_(Rome).jpg",
+    "pageViews": 1427
+  },
+  {
+    "qid": "Q1568666",
+    "title": "Hagia Sophia, Trabzon is completed",
+    "subtitle": "Byzantine monument in Trabzon, Turkey",
+    "year": 1238,
+    "fact": "Hagia Sophia is a formerly Greek Orthodox church that was converted into a mosque following the conquest of Trabzon by Mehmed II in 1461.",
+    "wikipediaSlug": "Hagia_Sophia,_Trabzon",
+    "image": "Hagia_Sophia_(Trabzon,_Turkey)_(27813329644).jpg",
+    "pageViews": 1425
+  },
+  {
+    "qid": "Q1433207",
+    "title": "Assisi Cathedral is completed",
+    "subtitle": "Cathedral in Assisi, Italy",
+    "year": 1140,
+    "fact": "Assisi Cathedral, dedicated to Saint Rufinus, is a major church in Assisi, Italy.",
+    "wikipediaSlug": "Assisi_Cathedral",
+    "image": "Assisi_Cathedral_-_Cattedrale_di_San_Rufino.jpg",
+    "pageViews": 1422
+  },
+  {
+    "qid": "Q560855",
+    "title": "St. Martin's Church is completed",
+    "subtitle": "Church building in Landshut, Bavaria, Germany",
+    "year": 1389,
+    "fact": "The Church of St.",
+    "wikipediaSlug": "St._Martin%27s_Church,_Landshut",
+    "image": "Iglesia_de_San_Martín,_Landshut,_Alemania,_2024-03-31,_DD_16.jpg",
+    "pageViews": 1421
+  },
+  {
+    "qid": "Q157886",
+    "title": "Maulbronn Monastery opens",
+    "subtitle": "Monastery in Germany",
+    "year": 1147,
+    "fact": "Maulbronn Monastery is a former Cistercian abbey and ecclesiastical state in the Holy Roman Empire located at Maulbronn, Baden-Württemberg.",
+    "wikipediaSlug": "Maulbronn_Monastery",
+    "image": "Courtyard_facade_-_Maulbronn_Monastery.jpg",
+    "pageViews": 1420
+  },
+  {
+    "qid": "Q2300245",
+    "title": "Saint-Pierre de Montmartre is completed",
+    "subtitle": "Church located in Paris, in France",
+    "year": 1101,
+    "fact": "Saint-Pierre de Montmartre is the second oldest surviving church in Paris, after the Abbey of Saint-Germain-des-Pres.",
+    "wikipediaSlug": "Saint-Pierre_de_Montmartre",
+    "image": "StPierreDeMontmartreFromEast.jpg",
+    "pageViews": 1418
+  },
+  {
+    "qid": "Q178522",
+    "title": "Dunstaffnage Castle is completed",
+    "subtitle": "Castle in Argyll and Bute, Scotland, UK",
+    "year": 1220,
+    "fact": "Dunstaffnage Castle is a partially ruined castle in Argyll and Bute, western Scotland.",
+    "wikipediaSlug": "Dunstaffnage_Castle",
+    "image": "Dunstaffnage_Castle_-_geograph.org.uk_-_7933659.jpg",
+    "pageViews": 1417
+  },
+  {
+    "qid": "Q16534749",
+    "title": "Rabati Castle is completed",
+    "subtitle": "Georgian fortress",
+    "year": 900,
+    "fact": "Akhaltsikhe (Rabati) Castle is a medieval fortress built in the 9th century under the name \"Lomsia Castle\" in the city of Akhaltsikhe in southern Georgia, recently globally reconstructed.",
+    "wikipediaSlug": "Akhaltsikhe_Castle",
+    "image": "Akhalcikhe,_old_city_general_view.jpg",
+    "pageViews": 1406
+  },
+  {
+    "qid": "Q2272243",
+    "title": "Vyborg Castle is completed",
+    "subtitle": "Swedish built medieval fortress in Russia",
+    "year": 1293,
+    "fact": "Vyborg Castle is a fortress in Vyborg, Russia.",
+    "wikipediaSlug": "Vyborg_Castle",
+    "image": "Vyborg_Castle_006_7705.jpg",
+    "pageViews": 1405
+  },
+  {
+    "qid": "Q602853",
+    "title": "Saint Sophia Church is completed",
+    "subtitle": "Church building in Sofia, Bulgaria",
+    "year": 501,
+    "fact": "The Saint Sofia Church is a Bulgarian Orthodox church, located in Sofia, the capital of Bulgaria.",
+    "wikipediaSlug": "Saint_Sophia_Church,_Sofia",
+    "image": "Basilica_of_Hagia_Sofia,_Bulgaria.jpg",
+    "pageViews": 1401
+  },
+  {
+    "qid": "Q679101",
+    "title": "Marienkirche (Berlin-Mitte) is completed",
+    "subtitle": "Church in Berlin",
+    "year": 1380,
+    "fact": "St.",
+    "wikipediaSlug": "St._Mary%27s_Church,_Berlin",
+    "image": "Marienkirche_B-Mitte_03-2014.jpg",
+    "pageViews": 1400
+  },
+  {
+    "qid": "Q574702",
+    "title": "Church of the Holy Spirit, Heidelberg is completed",
+    "subtitle": "Church in Heidelberg",
+    "year": 1398,
+    "fact": "The Church of the Holy Spirit is the largest church in Heidelberg, Germany.",
+    "wikipediaSlug": "Church_of_the_Holy_Spirit,_Heidelberg",
+    "image": "Heidelberg_20060420_021.jpg",
+    "pageViews": 1399
+  },
+  {
+    "qid": "Q1857888",
+    "title": "Qal'at Ja'bar is completed",
+    "subtitle": "Castle in Syria",
+    "year": 1168,
+    "fact": "Qal'at Ja'bar is a castle on the left bank of Euphrates Lake in Raqqa Governorate, Syria.",
+    "wikipediaSlug": "Qal%27at_Ja%27bar",
+    "image": "CaberKalesi.jpg",
+    "pageViews": 1397
+  },
+  {
+    "qid": "Q2967821",
+    "title": "Castle Rushen is completed",
+    "subtitle": "Medieval castle in Castletown in the south of the Isle of Man",
+    "year": 1250,
+    "fact": "Castle Rushen is a medieval castle located in the Isle of Man's historic capital, Castletown, in the south of the Island.",
+    "wikipediaSlug": "Castle_Rushen",
+    "image": "Castle_Rushen_on_the_Isle_of_Man.jpg",
+    "pageViews": 1387
+  },
+  {
+    "qid": "Q906516",
+    "title": "Margat is completed",
+    "subtitle": "Castle in Syria",
+    "year": 1062,
+    "fact": "Margat, also known as Marqab, is a castle near Baniyas, Syria, which was a Crusader fortress and one of the major strongholds of the Knights Hospitaller.",
+    "wikipediaSlug": "Margat",
+    "image": "Marqab-crusader-castle-donjon.jpg",
+    "pageViews": 1383
+  },
+  {
+    "qid": "Q2363520",
+    "title": "Hertford Castle is completed",
+    "subtitle": "Grade I listed castle in East Hertfordshire, England, UK",
+    "year": 1066,
+    "fact": "Hertford Castle is a Norman era castle built beside the River Lea in Hertford, the county town of Hertfordshire, England.",
+    "wikipediaSlug": "Hertford_Castle",
+    "image": "Hertford_Castle.jpg",
+    "pageViews": 1383
+  },
+  {
+    "qid": "Q1520849",
+    "title": "Bojnice Castle is completed",
+    "subtitle": "Medieval castle in Bojnice, Slovakia",
+    "year": 1200,
+    "fact": "Bojnice Castle is a medieval castle in Bojnice, Slovakia.",
+    "wikipediaSlug": "Bojnice_Castle",
+    "image": "Bojnice_(Bojnitz)_Castle_(by_Pudelek).jpg",
+    "pageViews": 1376
+  },
+  {
+    "qid": "Q2713844",
+    "title": "Verona Cathedral is completed",
+    "subtitle": "Church building in Verona, Italy",
+    "year": 1117,
+    "fact": "Verona Cathedral is a Roman Catholic cathedral in Verona, northern Italy, dedicated to the Blessed Virgin Mary under the designation Santa Maria Matricolare.",
+    "wikipediaSlug": "Verona_Cathedral",
+    "image": "Italy_-_Verona_-_Cathedral.jpg",
+    "pageViews": 1368
+  },
+  {
+    "qid": "Q1086358",
+    "title": "St. Rumbold's Cathedral is completed",
+    "subtitle": "Cathedral in Mechelen, Belgium",
+    "year": 1200,
+    "fact": "St.",
+    "wikipediaSlug": "St._Rumbold%27s_Cathedral",
+    "image": "St-Romboutskathedraal3.jpg",
+    "pageViews": 1365
+  },
+  {
+    "qid": "Q655633",
+    "title": "Pernštejn Castle is completed",
+    "subtitle": "Castle in the Czech Republic",
+    "year": 1270,
+    "fact": "Pernštejn Castle is a castle in the South Moravian Region of the Czech Republic.",
+    "wikipediaSlug": "Pern%C5%A1tejn_Castle",
+    "image": "Hrad_Pernštejn.jpg",
+    "pageViews": 1365
+  },
+  {
+    "qid": "Q1012141",
+    "title": "Gutenberg Castle is completed",
+    "subtitle": "Castle",
+    "year": 1101,
+    "fact": "Gutenberg Castle is an intact castle in the municipality of Balzers, Liechtenstein, the southern-most municipality in the country.",
+    "wikipediaSlug": "Gutenberg_Castle",
+    "image": "Liechtenstein_asv2022-10_img25_Balzers_Burg_Gutenberg.jpg",
+    "pageViews": 1365
+  },
+  {
+    "qid": "Q11845",
+    "title": "Castle of Coca is completed",
+    "subtitle": "Castle in Castile and Leon",
+    "year": 1453,
+    "fact": "The Castle of Coca is a castle located in the Coca municipality, central Spain.",
+    "wikipediaSlug": "Castillo_de_Coca",
+    "image": "Castele_01.JPG",
+    "pageViews": 1359
+  },
+  {
+    "qid": "Q724929",
+    "title": "Castle of Fougères is completed",
+    "subtitle": "French castle",
+    "year": 1200,
+    "fact": "The Château de Fougères is a castle in the commune of Fougères in the Ille-et-Vilaine département of France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Foug%C3%A8res",
+    "image": "Fougeres_chateau.jpg",
+    "pageViews": 1359
+  },
+  {
+    "qid": "Q1755418",
+    "title": "San Bartolomeo all'Isola is completed",
+    "subtitle": "Church building in Rome, Italy",
+    "year": 901,
+    "fact": "The Basilica of St.",
+    "wikipediaSlug": "San_Bartolomeo_all%27Isola",
+    "image": "San_Bartolomeo_all'isola_September_2015-1.jpg",
+    "pageViews": 1354
+  },
+  {
+    "qid": "Q252166",
+    "title": "Wurzburg Cathedral is completed",
+    "subtitle": "Cathedral in Würzburg, Germany",
+    "year": 1040,
+    "fact": "Würzburg Cathedral is a Roman Catholic cathedral in Würzburg in Bavaria, Germany, dedicated to Saint Kilian.",
+    "wikipediaSlug": "W%C3%BCrzburg_Cathedral",
+    "image": "Dom_Wuerzburg.jpg",
+    "pageViews": 1353
+  },
+  {
+    "qid": "Q821196",
+    "title": "Lissingen Castle is completed",
+    "subtitle": "Castle",
+    "year": 1212,
+    "fact": "Lissingen Castle is a well-preserved former moated castle dating to the 13th century.",
+    "wikipediaSlug": "Lissingen_Castle",
+    "image": "Burg_lissingen_start.jpg",
+    "pageViews": 1351
+  },
+  {
+    "qid": "Q118256",
+    "title": "Špilberk Castle is completed",
+    "subtitle": "Building in the Czech Republic, used as prison",
+    "year": 1300,
+    "fact": "Špilberk Castle is a castle on the hilltop in Brno, Southern Moravia.",
+    "wikipediaSlug": "%C5%A0pilberk_Castle",
+    "image": "Špilberk_(02).jpg",
+    "pageViews": 1335
+  },
+  {
+    "qid": "Q861436",
+    "title": "Madonna dell'Orto is completed",
+    "subtitle": "Church in Venice, Italy",
+    "year": 1400,
+    "fact": "The Madonna dell'Orto is a church in Venice, Italy, in the sestiere of Cannaregio.",
+    "wikipediaSlug": "Madonna_dell%27Orto",
+    "image": "Venezia_Madonna_dell'Orto_R01.jpg",
+    "pageViews": 1334
+  },
+  {
+    "qid": "Q141012",
+    "title": "Khotyn Fortress is completed",
+    "subtitle": "Fortress",
+    "year": 1325,
+    "fact": "The Khotyn Fortress is a fortification complex located on the right bank of the Dniester River in Khotyn, Chernivtsi Oblast (province) of southwestern Ukraine.",
+    "wikipediaSlug": "Khotyn_Fortress",
+    "image": "73-250-0001_Khotyn_Fortress_RB_18.jpg",
+    "pageViews": 1323
+  },
+  {
+    "qid": "Q1011361",
+    "title": "Château de Châlus-Chabrol is completed",
+    "subtitle": "Castle",
+    "year": 1100,
+    "fact": "The Château de Châlus-Chabrol is a castle in the commune of Châlus in the département of Haute-Vienne, France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Ch%C3%A2lus-Chabrol",
+    "image": "Chateau_Chalus_Chabrol.jpg",
+    "pageViews": 1322
+  },
+  {
+    "qid": "Q937290",
+    "title": "Church of St. Anne, Vilnius is completed",
+    "subtitle": "Church in Vilnius",
+    "year": 1495,
+    "fact": "St.",
+    "wikipediaSlug": "Church_of_St._Anne,_Vilnius",
+    "image": "St._Anne's_Church_Exterior_3,_Vilnius,_Lithuania_-_Diliff.jpg",
+    "pageViews": 1319
+  },
+  {
+    "qid": "Q708532",
+    "title": "St.-Paulus-Dom is completed",
+    "subtitle": "Cathedral in Münster, Germany",
+    "year": 1225,
+    "fact": "Münster Cathedral or St.-Paulus-Dom is the cathedral church of the Catholic Diocese of Münster in Germany, and is dedicated to Saint Paul.",
+    "wikipediaSlug": "M%C3%BCnster_Cathedral",
+    "image": "Bild_Muenster_St_Paulus-Dom.jpg",
+    "pageViews": 1319
+  },
+  {
+    "qid": "Q6421781",
+    "title": "Knaresborough Castle is completed",
+    "subtitle": "Ruined fortress in North Yorkshire, England, UK",
+    "year": 1100,
+    "fact": "Knaresborough Castle is a ruined fortress overlooking the River Nidd in the town of Knaresborough, North Yorkshire, England.",
+    "wikipediaSlug": "Knaresborough_Castle",
+    "image": "Knaresborough_Castle_ruins.jpg",
+    "pageViews": 1319
+  },
+  {
+    "qid": "Q1717975",
+    "title": "Michael's Gate is completed",
+    "subtitle": "Bratislava city gate",
+    "year": 1400,
+    "fact": "In Bratislava, Slovakia, Michael's Gate is the only city gate that has been preserved of the medieval fortifications and ranks among the oldest town buildings in Bratislava, Slovakia.",
+    "wikipediaSlug": "Michael%27s_Gate",
+    "image": "Slovakia-03123_-_Inside_of_St._Michael's_Gate_(32286853995).jpg",
+    "pageViews": 1316
+  },
+  {
+    "qid": "Q500367",
+    "title": "Qal'at Bani Hammad is completed",
+    "subtitle": "Fortified palatine city in Algeria",
+    "year": 1007,
+    "fact": "Qal'at Bani Hammad, also known as Qal'a Bani Hammad or Qal'at of the Beni Hammad, is a fortified palatine city in Algeria.",
+    "wikipediaSlug": "Qal%27at_Bani_Hammad",
+    "image": "28-2_Kalâa_de_Beni_Hammad_(3).jpg",
+    "pageViews": 1310
+  },
+  {
+    "qid": "Q402848",
+    "title": "Launceston Castle is completed",
+    "subtitle": "Castle in the town of Launceston, Cornwall, England, UK",
+    "year": 1067,
+    "fact": "Launceston Castle is located in the town of Launceston, Cornwall, England.",
+    "wikipediaSlug": "Launceston_Castle",
+    "image": "Launceston_Castle_-_geograph.org.uk_-_22242.jpg",
+    "pageViews": 1303
+  },
+  {
+    "qid": "Q1568148",
+    "title": "Jewel Tower is completed",
+    "subtitle": "Medieval tower in Westminster, London, England, UK",
+    "year": 1366,
+    "fact": "The Jewel Tower is a 14th-century surviving element of the Palace of Westminster, in London, England.",
+    "wikipediaSlug": "Jewel_Tower",
+    "image": "Jewel_Tower.jpg",
+    "pageViews": 1297
+  },
+  {
+    "qid": "Q178699",
+    "title": "Bologna Cathedral is completed",
+    "subtitle": "Cathedral",
+    "year": 1000,
+    "fact": "Bologna Cathedral, formally known as the Metropolitan Cathedral of Saint Peter, is the cathedral of Bologna, Italy, and the seat of the Archbishop of Bologna.",
+    "wikipediaSlug": "Bologna_Cathedral",
+    "image": "Bologna-San_Pietro_visto_dalla_Torre_degli_Asinelli.jpg",
+    "pageViews": 1294
+  },
+  {
+    "qid": "Q2142483",
+    "title": "Hluboká Castle is completed",
+    "subtitle": "Castle in Hluboká nad Vltavou",
+    "year": 1201,
+    "fact": "Hluboká Castle is a historic château situated in Hluboká nad Vltavou.",
+    "wikipediaSlug": "Hlubok%C3%A1_Castle",
+    "image": "Zámek_hluboká.jpg",
+    "pageViews": 1293
+  },
+  {
+    "qid": "Q383884",
+    "title": "Cathedral of Santa Maria Assunta is completed",
+    "subtitle": "Cathedral of Bari, Italy",
+    "year": 1292,
+    "fact": "Bari Cathedral, or Cathedral of Saint Sabinus, is the cathedral of Bari, in Apulia, southern Italy.",
+    "wikipediaSlug": "Bari_Cathedral",
+    "image": "Bari_Cathedral,_Italy.jpg",
+    "pageViews": 1291
+  },
+  {
+    "qid": "Q2968752",
+    "title": "Castle of Caen is completed",
+    "subtitle": "French castle located in Caen",
+    "year": 1060,
+    "fact": "The Château de Caen is a castle in the Norman city of Caen in the Calvados département (Normandy).",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Caen",
+    "image": "Chato_porte_des_champs.jpg",
+    "pageViews": 1289
+  },
+  {
+    "qid": "Q436286",
+    "title": "Old Synagogue (Erfurt) is completed",
+    "subtitle": "Medieval synagogue building",
+    "year": 1094,
+    "fact": "The Old Synagogue is a former Jewish synagogue, located in Erfurt, Thuringia, Germany.",
+    "wikipediaSlug": "Old_Synagogue_(Erfurt)",
+    "image": "Alte_Synagoge_Erfurt.JPG",
+    "pageViews": 1288
+  },
+  {
+    "qid": "Q1243760",
+    "title": "Saint-Julien-le-Pauvre is completed",
+    "subtitle": "Church located in Paris, in France",
+    "year": 1200,
+    "fact": "Saint-Julien-le-Pauvre, in full Église Saint-Julien-le-Pauvre, is a Melkite Greek Catholic parish church in Paris, France, and one of the city's oldest religious buildings.",
+    "wikipediaSlug": "Saint-Julien-le-Pauvre",
+    "image": "Saint_Julien_le_Pauvre_02.jpg",
+    "pageViews": 1276
+  },
+  {
+    "qid": "Q2968772",
+    "title": "Canterbury Castle is completed",
+    "subtitle": "Grade I listed castle in Canterbury, United Kingdom",
+    "year": 1135,
+    "fact": "Canterbury Castle is a ruined Norman castle in Canterbury, Kent, England.",
+    "wikipediaSlug": "Canterbury_Castle",
+    "image": "Canterbury_-_Castle02.jpg",
+    "pageViews": 1272
+  },
+  {
+    "qid": "Q1788518",
+    "title": "Church of St. Trophime, Arles is completed",
+    "subtitle": "Former cathedral in Arles (Bouches-du-Rhône, France), today parish church",
+    "year": 1101,
+    "fact": "The Church of St.",
+    "wikipediaSlug": "Church_of_St._Trophime,_Arles",
+    "image": "Arles_kirche_st_trophime_fassade.jpg",
+    "pageViews": 1262
+  },
+  {
+    "qid": "Q1841314",
+    "title": "Saint Nicholas' Church is completed",
+    "subtitle": "Church in Ghent, Belgium",
+    "year": 1201,
+    "fact": "St.",
+    "wikipediaSlug": "Saint_Nicholas_Church,_Ghent",
+    "image": "Sint-Niklaaskerk_and_the_belfry_of_Ghent_(DSCF0229).jpg",
+    "pageViews": 1255
+  },
+  {
+    "qid": "Q2599326",
+    "title": "Castle of Almourol is completed",
+    "subtitle": "Castle in Portugal",
+    "year": 1171,
+    "fact": "The Castle of Almourol is a medieval castle atop the islet of Almourol in the middle of the Tagus River, located in the civil parish of Praia do Ribatejo, 4 kilometres (2.5 mi) from the municipal seat of Vila Nova da Barquinha, in Portugal's Oeste e Vale do Tejo region.",
+    "wikipediaSlug": "Castle_of_Almourol",
+    "image": "Almourol_034.jpg",
+    "pageViews": 1249
+  },
+  {
+    "qid": "Q2918974",
+    "title": "Sidon Sea Castle is completed",
+    "subtitle": "Fortress of the Holy Land",
+    "year": 1228,
+    "fact": "Sidon's Sea Castle was built by the crusaders in the thirteenth century as a fortress of the Holy Land.",
+    "wikipediaSlug": "Sidon_Sea_Castle",
+    "image": "SidonSeaCastle.jpg",
+    "pageViews": 1248
+  },
+  {
+    "qid": "Q427340",
+    "title": "Saint-Gervais-Saint-Protais is completed",
+    "subtitle": "Church located in Paris, France",
+    "year": 1401,
+    "fact": "Saint-Gervais-Saint-Protais is a Roman Catholic parish church located in the 4th arrondissement of Paris, on Place Saint-Gervais in the Marais district, east of City Hall.",
+    "wikipediaSlug": "Saint-Gervais-Saint-Protais",
+    "image": "Facade_St-Gervais_St-Protais.jpg",
+    "pageViews": 1239
+  },
+  {
+    "qid": "Q612065",
+    "title": "Oude Kerk is completed",
+    "subtitle": "Church in Delft, the Netherlands",
+    "year": 1301,
+    "fact": "The Oude Kerk, nicknamed Oude Jan and Scheve Jan, is a Gothic Protestant church in the old city center of Delft, the Netherlands.",
+    "wikipediaSlug": "Oude_Kerk_(Delft)",
+    "image": "Oude_Kerk_Delft_2.jpg",
+    "pageViews": 1228
+  },
+  {
+    "qid": "Q1428846",
+    "title": "Flint Castle is completed",
+    "subtitle": "Grade I listed building in Flint. Castle",
+    "year": 1277,
+    "fact": "Flint Castle in Flint, Flintshire, was the first of a series of castles built during King Edward I's campaign to conquer Wales.",
+    "wikipediaSlug": "Flint_Castle",
+    "image": "Flint_-_Flint_Castle_-_20220322133345.jpg",
+    "pageViews": 1227
+  },
+  {
+    "qid": "Q569428",
+    "title": "Cathedral of St. Elizabeth is completed",
+    "subtitle": "Cathedral in Košice, Slovakia",
+    "year": 1378,
+    "fact": "The Cathedral of St.",
+    "wikipediaSlug": "Cathedral_of_St._Elizabeth",
+    "image": "St_Elisabeth_Cathedral_Kosice.jpeg",
+    "pageViews": 1226
+  },
+  {
+    "qid": "Q368576",
+    "title": "St. Sebaldus is completed",
+    "subtitle": "Church building in Nuremberg, Germany",
+    "year": 1225,
+    "fact": "St.",
+    "wikipediaSlug": "St._Sebaldus_Church,_Nuremberg",
+    "image": "Nürnberg_St._Sebald_komplett_v_N.jpg",
+    "pageViews": 1222
+  },
+  {
+    "qid": "Q3675546",
+    "title": "Great Mosque of Diyarbakır is completed",
+    "subtitle": "Mosque in Diyarbakır, southeastern Turkey",
+    "year": 1091,
+    "fact": "The Great Mosque of Diyarbakır was built in the late 11th century by the Seljuk sultan Malik-Shah I over an older mosque.",
+    "wikipediaSlug": "Great_Mosque_of_Diyarbak%C4%B1r",
+    "image": "Diyarbakir_Great_Mosque_DSCF8194.jpg",
+    "pageViews": 1210
+  },
+  {
+    "qid": "Q2287936",
+    "title": "St Andrews Castle is completed",
+    "subtitle": "Castle in Fife, Scotland, UK",
+    "year": 1200,
+    "fact": "St Andrews Castle is a ruin located in the coastal Royal Burgh of St Andrews in Fife, Scotland.",
+    "wikipediaSlug": "St_Andrews_Castle",
+    "image": "St_Andrews_Castle_1_(3604221101).jpg",
+    "pageViews": 1209
+  },
+  {
+    "qid": "Q1934670",
+    "title": "Royal Palace of Olite is completed",
+    "subtitle": "Monument",
+    "year": 1201,
+    "fact": "The Palace of the Kings of Navarre of Olite or Royal Palace of Olite is a castle-palace in the town of Olite, in Navarre, Spain.",
+    "wikipediaSlug": "Palace_of_the_Kings_of_Navarre_of_Olite",
+    "image": "Palacio_de_Olite.JPG",
+    "pageViews": 1202
+  },
+  {
+    "qid": "Q1013039",
+    "title": "Loket Castle is completed",
+    "subtitle": "Castle in Czech Republic",
+    "year": 1300,
+    "fact": "Loket Castle is a 12th-century Gothic castle in Loket in the Karlovy Vary Region of the Czech Republic.",
+    "wikipediaSlug": "Loket_Castle",
+    "image": "071107-Loket-Castle-Hrad.jpg",
+    "pageViews": 1201
+  },
+  {
+    "qid": "Q15265868",
+    "title": "Pendragon Castle is completed",
+    "subtitle": "Grade I listed castle in Mallerstang, United Kingdom",
+    "year": 1101,
+    "fact": "Pendragon Castle is a ruin located in Mallerstang Dale, Cumbria, south of Kirkby Stephen, and close to the hamlet of Outhgill.",
+    "wikipediaSlug": "Pendragon_Castle",
+    "image": "West_wall_of_Pendragon_Castle_-_geograph.org.uk_-_1804389.jpg",
+    "pageViews": 1188
+  },
+  {
+    "qid": "Q250115",
+    "title": "Monnow Bridge is completed",
+    "subtitle": "Bridge in Monmouth, Wales",
+    "year": 1300,
+    "fact": "Monnow Bridge, in Monmouth, Wales, is the only remaining fortified river bridge in Great Britain with its gate tower standing on the bridge.",
+    "wikipediaSlug": "Monnow_Bridge",
+    "image": "Monmouth_-_Monnow_Bridge.jpg",
+    "pageViews": 1181
+  },
+  {
+    "qid": "Q1049485",
+    "title": "Castle Rising Castle is completed",
+    "subtitle": "Castle in Castle Rising, Norfolk, England, UK",
+    "year": 1138,
+    "fact": "Castle Rising is a ruined medieval fortification in the village of Castle Rising, Norfolk, England.",
+    "wikipediaSlug": "Castle_Rising_Castle",
+    "image": "CastleRising2-wyrdlight-wiki.jpg",
+    "pageViews": 1180
+  },
+  {
+    "qid": "Q1761393",
+    "title": "Roslin Castle is completed",
+    "subtitle": "Castle near the village of Roslin in Midlothian, Scotland, UK",
+    "year": 1305,
+    "fact": "Roslin Castle is a partially ruined castle near the village of Roslin in Midlothian, Scotland.",
+    "wikipediaSlug": "Roslin_Castle",
+    "image": "RoslinCastle1.JPG",
+    "pageViews": 1179
+  },
+  {
+    "qid": "Q790118",
+    "title": "Baphuon is completed",
+    "subtitle": "Temple",
+    "year": 1060,
+    "fact": "The Baphuon is a Buddhist temple at Angkor, Cambodia.",
+    "wikipediaSlug": "Baphuon",
+    "image": "2016_Angkor,_Angkor_Thom,_Baphuon_(17).jpg",
+    "pageViews": 1174
+  },
+  {
+    "qid": "Q842129",
+    "title": "Castillo de Suel is completed",
+    "subtitle": "Castle",
+    "year": 956,
+    "fact": "Sohail Castle is a castle in Fuengirola, Spain.",
+    "wikipediaSlug": "Sohail_Castle",
+    "image": "Castillo_de_Sohail_01.jpg",
+    "pageViews": 1173
+  },
+  {
+    "qid": "Q3078443",
+    "title": "Fortress of Prizren is completed",
+    "subtitle": "Cultural heritage monument of Kosovo",
+    "year": 500,
+    "fact": "Prizren Fortress is a hilltop fortification in Prizren in Kosovo.",
+    "wikipediaSlug": "Prizren_Fortress",
+    "image": "Prizren_Fortress_(2021).jpg",
+    "pageViews": 1168
+  },
+  {
+    "qid": "Q186097",
+    "title": "Powder Tower, Riga is completed",
+    "subtitle": "Tower",
+    "year": 1301,
+    "fact": "The Powder Tower is situated in Riga, Latvia, and originally a part of the defensive system of the town.",
+    "wikipediaSlug": "Powder_Tower,_Riga",
+    "image": "Riga-Pulverturm.jpg",
+    "pageViews": 1167
+  },
+  {
+    "qid": "Q2628361",
+    "title": "Tattershall Castle is completed",
+    "subtitle": "Castle in Tattershall, Lincolnshire, England, UK",
+    "year": 1231,
+    "fact": "Tattershall Castle is a castle in Tattershall, Lincolnshire, England.",
+    "wikipediaSlug": "Tattershall_Castle,_Lincolnshire",
+    "image": "Tattershall_Castle,_2006.jpg",
+    "pageViews": 1162
+  },
+  {
+    "qid": "Q43374",
+    "title": "Dunollie Castle is completed",
+    "subtitle": "Small ruin located north of the town of Oban, Scotland",
+    "year": 1300,
+    "fact": "Dunollie Castle is a small ruined castle located on a hill north of the town of Oban, on the west coast of Scotland in Argyll and Bute.",
+    "wikipediaSlug": "Dunollie_Castle",
+    "image": "Dunollie_Castle_-_geograph.org.uk_-_7889749.jpg",
+    "pageViews": 1158
+  },
+  {
+    "qid": "Q322183",
+    "title": "Riga Castle is completed",
+    "subtitle": "Castle in Riga, Latvia",
+    "year": 1330,
+    "fact": "Riga Castle is a castle on the banks of River Daugava in Riga, the capital of Latvia.",
+    "wikipediaSlug": "Riga_Castle",
+    "image": "Castillo_de_Riga,_Letonia,_2012-08-07,_DD_04.JPG",
+    "pageViews": 1156
+  },
+  {
+    "qid": "Q1497616",
+    "title": "Gediminas' Tower is completed",
+    "subtitle": "Castle in Vilnius, Lithuania",
+    "year": 1301,
+    "fact": "Gediminas's Tower is the remaining part of the Upper Castle on top of the Gediminas Hill in Vilnius, Lithuania.",
+    "wikipediaSlug": "Gediminas%27s_Tower",
+    "image": "Gedimino_pilis_by_Augustas_Didzgalvis.jpg",
+    "pageViews": 1156
+  },
+  {
+    "qid": "Q2145580",
+    "title": "San Nicola in Carcere is completed",
+    "subtitle": "Church building in Rome, Italy",
+    "year": 501,
+    "fact": "San Nicola in Carcere is an ancient titular church and minor basilica in Rome near the Forum Boarium in rione Ripa.",
+    "wikipediaSlug": "San_Nicola_in_Carcere",
+    "image": "San_Nicola_in_Carcere_-_esterno.jpg",
+    "pageViews": 1144
+  },
+  {
+    "qid": "Q319745",
+    "title": "Aberystwyth Castle is completed",
+    "subtitle": "Grade I listed castle in Ceredigion, Wales",
+    "year": 1277,
+    "fact": "Aberystwyth Castle is a Grade I listed Edwardian fortress located in Aberystwyth, Ceredigion, Mid Wales.",
+    "wikipediaSlug": "Aberystwyth_Castle",
+    "image": "Aberystwyth_castle_edit1.jpg",
+    "pageViews": 1138
+  },
+  {
+    "qid": "Q679009",
+    "title": "Albrechtsburg is completed",
+    "subtitle": "Castle in Meißen, Saxony, Germany",
+    "year": 929,
+    "fact": "The Albrechtsburg is a Late Gothic castle erected from 1471 till about 1495.",
+    "wikipediaSlug": "Albrechtsburg",
+    "image": "Albrechtsburg-2007.jpg",
+    "pageViews": 1123
+  },
+  {
+    "qid": "Q1139896",
+    "title": "Criccieth Castle is completed",
+    "subtitle": "Castle in Criccieth, North Wales",
+    "year": 1230,
+    "fact": "Criccieth Castle is a ruined thirteenth-century castle in Criccieth, Gwynedd, Wales.",
+    "wikipediaSlug": "Criccieth_Castle",
+    "image": "Castell_Cricieth_o'r_awyr_yn_2023_-_Cricieth_Castle_from_a_drone_-_Welsg_built_castle_in_Gwynedd,_Wales_41_(cropped).png",
+    "pageViews": 1123
+  },
+  {
+    "qid": "Q1236608",
+    "title": "Monza Cathedral is completed",
+    "subtitle": "Cathedral church of Monza, Italy",
+    "year": 501,
+    "fact": "The Duomo of Monza, often known in English as Monza Cathedral, is the main religious building of Monza, Italy.",
+    "wikipediaSlug": "Duomo_of_Monza",
+    "image": "Monza,_Duomo.jpg",
+    "pageViews": 1120
+  },
+  {
+    "qid": "Q1033649",
+    "title": "Canossa Castle is completed",
+    "subtitle": "Castle in Italy",
+    "year": 950,
+    "fact": "The Castle of Canossa is a castle in Canossa, province of Reggio Emilia, northern Italy, especially known for being the location of the Road to Canossa, the meeting of Emperor Henry IV and Pope Gregory VII during the Investiture Controversy (1077).",
+    "wikipediaSlug": "Canossa_Castle",
+    "image": "Canossa_ruins.jpg",
+    "pageViews": 1113
+  },
+  {
+    "qid": "Q1049259",
+    "title": "Loarre Castle is completed",
+    "subtitle": "Romanesque castle in Spain",
+    "year": 1020,
+    "fact": "The Castle of Loarre is a Romanesque Castle and Abbey located near the town of the same name, Huesca Province in the Aragon autonomous region of Spain.",
+    "wikipediaSlug": "Castle_of_Loarre",
+    "image": "El_famoso_castillo_de_Loarre.jpg",
+    "pageViews": 1109
+  },
+  {
+    "qid": "Q2007231",
+    "title": "Château des Milandes is completed",
+    "subtitle": "Castle in France",
+    "year": 1489,
+    "fact": "The Château des Milandes is a manor house in the commune of Castelnaud-la-Chapelle in the Dordogne département of France.",
+    "wikipediaSlug": "Ch%C3%A2teau_des_Milandes",
+    "image": "Chateau_Milandes.jpg",
+    "pageViews": 1098
+  },
+  {
+    "qid": "Q2942514",
+    "title": "Cuenca Cathedral is completed",
+    "subtitle": "Cultural property in Cuenca, Spain",
+    "year": 1183,
+    "fact": "The Cathedral of Saint Mary and Saint Julian is a Roman Catholic cathedral in the city of Cuenca, Spain.",
+    "wikipediaSlug": "Cuenca_Cathedral",
+    "image": "Cuenca_Cathedral_2020.jpg",
+    "pageViews": 1096
+  },
+  {
+    "qid": "Q155252",
+    "title": "Castle Cornet is completed",
+    "subtitle": "Island castle in Guernsey",
+    "year": 1206,
+    "fact": "Castle Cornet is a large island castle in Guernsey, and former tidal island, also known as Cornet Rock or Castle Rock.",
+    "wikipediaSlug": "Castle_Cornet",
+    "image": "Castle_Cornet,_Guernsey.jpg",
+    "pageViews": 1088
+  },
+  {
+    "qid": "Q1964047",
+    "title": "Orford Castle is completed",
+    "subtitle": "Grade I listed historic house museum in Suffolk Coastal, United Kingdom",
+    "year": 1165,
+    "fact": "Orford Castle is a castle in Orford in the English county of Suffolk, 12 miles (19 km) northeast of Ipswich, with views over Orford Ness.",
+    "wikipediaSlug": "Orford_Castle",
+    "image": "Orford_Castle_Keep.jpg",
+    "pageViews": 1086
+  },
+  {
+    "qid": "Q733389",
+    "title": "Villa Medici is completed",
+    "subtitle": "Villa in Poggio a Caiano, Tuscany, Italy",
+    "year": 1480,
+    "fact": "The Medici Villa of Poggio a Caiano, also called Ambra, is one of the most famous Medici villas and is located in Poggio a Caiano (Prato).",
+    "wikipediaSlug": "Villa_di_Poggio_a_Caiano",
+    "image": "Villa_di_Poggio_a_Caiano,1.JPG",
+    "pageViews": 1083
+  },
+  {
+    "qid": "Q648226",
+    "title": "Kalmar Castle is completed",
+    "subtitle": "Renaissance castle in Sweden",
+    "year": 1200,
+    "fact": "Kalmar Castle is a castle in the city Kalmar in the province of Småland in Sweden.",
+    "wikipediaSlug": "Kalmar_Castle",
+    "image": "1285Kalmar_slott.jpg",
+    "pageViews": 1076
+  },
+  {
+    "qid": "Q605721",
+    "title": "Torre dei Conti is completed",
+    "subtitle": "Tower in Roma, Italy",
+    "year": 1238,
+    "fact": "The Torre dei Conti is a medieval fortified tower in Rome, Italy, located near the Colosseum and the Roman Forum.",
+    "wikipediaSlug": "Torre_dei_Conti",
+    "image": "Torre_de'_Conti.jpg",
+    "pageViews": 1074
+  },
+  {
+    "qid": "Q1639481",
+    "title": "Appleby Castle is completed",
+    "subtitle": "Grade I listed English country house in Appleby-in-Westmorland, United Kingdom",
+    "year": 1120,
+    "fact": "Appleby Castle is in the town of Appleby-in-Westmorland overlooking the River Eden.",
+    "wikipediaSlug": "Appleby_Castle",
+    "image": "Appleby_Castle,_bailey_-_geograph.org.uk_-_4958736.jpg",
+    "pageViews": 1074
+  },
+  {
+    "qid": "Q2971307",
+    "title": "Château de la Mothe-Chandeniers is completed",
+    "subtitle": "Castle in Les Trois-Moutiers, France",
+    "year": 1201,
+    "fact": "The Château de la Mothe-Chandeniers is a ruined castle in the commune of Les Trois-Moutiers in the Vienne department of France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_la_Mothe-Chandeniers",
+    "image": "Mothe_chandeniers1.jpg",
+    "pageViews": 1072
+  },
+  {
+    "qid": "Q1323845",
+    "title": "El-Mursi Abul Abbas Mosque is completed",
+    "subtitle": "Mosque in Egypt",
+    "year": 1307,
+    "fact": "The Abu al-Abbas al-Mursi Mosque is a mosque, mausoleum, and Sufi shrine, located in the Anfoushi neighbourhood of Alexandria, on the north coast of Egypt.",
+    "wikipediaSlug": "Abu_al-Abbas_al-Mursi_Mosque",
+    "image": "2007-05-043.jpg",
+    "pageViews": 1059
+  },
+  {
+    "qid": "Q700709",
+    "title": "Kufstein Fortress is completed",
+    "subtitle": "Fortress in Austria",
+    "year": 1205,
+    "fact": "The Kufstein Fortress is the main landmark of Kufstein, a town in Tyrol, Austria.",
+    "wikipediaSlug": "Kufstein_Fortress",
+    "image": "Kufstein-festung.jpg",
+    "pageViews": 1059
+  },
+  {
+    "qid": "Q2142160",
+    "title": "Trakošćan Castle is completed",
+    "subtitle": "Castle in northern Croatia",
+    "year": 1300,
+    "fact": "Trakošćan Castle is a castle located in northern Croatia that dates back to the 13th century.",
+    "wikipediaSlug": "Trako%C5%A1%C4%87an_Castle",
+    "image": "Dvorac_Trakošćan.jpg",
+    "pageViews": 1058
+  },
+  {
+    "qid": "Q52629",
+    "title": "Palazzo Dario is completed",
+    "subtitle": "Palace",
+    "year": 1479,
+    "fact": "The Palazzo Dario is a palace located between the Palazzo Barbaro Wolkoff and the narrow Rio delle Torreselle on the Grand Canal in the sestiere of Dorsoduro, of the city of Venice, Italy.",
+    "wikipediaSlug": "Palazzo_Dario",
+    "image": "Palazzo_Dario.jpg",
+    "pageViews": 1058
+  },
+  {
+    "qid": "Q3400816",
+    "title": "Montgomery Castle is completed",
+    "subtitle": "Grade I listed castle in Powys, Wales, UK",
+    "year": 1223,
+    "fact": "Montgomery Castle is a stone castle looking over the town of Montgomery in Powys, Mid Wales.",
+    "wikipediaSlug": "Montgomery_Castle",
+    "image": "Castle_and_Path.JPG",
+    "pageViews": 1057
+  },
+  {
+    "qid": "Q1408860",
+    "title": "Bohus Fortress is completed",
+    "subtitle": "Fortress just north of Gothenburg, Sweden",
+    "year": 1308,
+    "fact": "Bohus Fortress lies in Kungälv, Bohuslän, Sweden, north east from Hisingen where the Göta river splits into two branches.",
+    "wikipediaSlug": "Bohus_Fortress",
+    "image": "Bohus_fästning.jpg",
+    "pageViews": 1054
+  },
+  {
+    "qid": "Q2301986",
+    "title": "Halton Castle is completed",
+    "subtitle": "Ruins of castle with later buildings in Halton, Cheshire, England, UK",
+    "year": 1001,
+    "fact": "Halton Castle is a castle in the village of Halton, part of the town of Runcorn, Cheshire, England.",
+    "wikipediaSlug": "Halton_Castle",
+    "image": "Halton_Castle_(5).JPG",
+    "pageViews": 1033
+  },
+  {
+    "qid": "Q1585938",
+    "title": "Rhuddlan Castle is completed",
+    "subtitle": "Castle in Rhuddlan, Denbighshire, Wales",
+    "year": 1277,
+    "fact": "Rhuddlan Castle is a castle located in Rhuddlan, Denbighshire, Wales.",
+    "wikipediaSlug": "Rhuddlan_Castle",
+    "image": "Rhuddlan_Castle,_May_2012.jpg",
+    "pageViews": 1032
+  },
+  {
+    "qid": "Q2278449",
+    "title": "Broughty Castle is completed",
+    "subtitle": "Castle and museum in Dundee City, Scotland, United Kingdom",
+    "year": 1490,
+    "fact": "Broughty Castle is a historic castle on the banks of the River Tay in Broughty Ferry, Dundee, Scotland.",
+    "wikipediaSlug": "Broughty_Castle",
+    "image": "Broughty_Castle_-_geograph.org.uk_-_6000068.jpg",
+    "pageViews": 1032
+  },
+  {
+    "qid": "Q1061061",
+    "title": "Château de Loches is completed",
+    "subtitle": "Castle",
+    "year": 1100,
+    "fact": "The Château de Loches is a castle located in the département of Indre-et-Loire in the Loire Valley in France; it was constructed in the 9th century.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Loches",
+    "image": "Loches_dungeon,_aerial_view_from_West.jpg",
+    "pageViews": 1030
+  },
+  {
+    "qid": "Q1798910",
+    "title": "St. Anne's Church is completed",
+    "subtitle": "Roman Catholic church in Warsaw",
+    "year": 1454,
+    "fact": "St.",
+    "wikipediaSlug": "St._Anne%27s_Church,_Warsaw",
+    "image": "POL_Kosciol_sw_Anny_w_Warszawie_2008_(1).JPG",
+    "pageViews": 1026
+  },
+  {
+    "qid": "Q388705",
+    "title": "Norham Castle is completed",
+    "subtitle": "Partly ruined castle in Northumberland, England, UK",
+    "year": 1121,
+    "fact": "Norham Castle is a castle in Norham, Northumberland, England, overlooking the River Tweed, on the border between England and Scotland.",
+    "wikipediaSlug": "Norham_Castle",
+    "image": "Norham_Castle.jpg",
+    "pageViews": 1024
+  },
+  {
+    "qid": "Q2898656",
+    "title": "Hadleigh Castle is completed",
+    "subtitle": "Grade I listed castle in Castle Point, Essex, England, UK",
+    "year": 1230,
+    "fact": "Hadleigh Castle is a ruined fortification in the English county of Essex, overlooking the Thames Estuary from south of the town of Hadleigh.",
+    "wikipediaSlug": "Hadleigh_Castle",
+    "image": "Aerial_view_of_Hadleigh_Castle_and_Country_Park_-_geograph.org.uk_-_1563595.jpg",
+    "pageViews": 1024
+  },
+  {
+    "qid": "Q513756",
+    "title": "King's Mosque in Pristina is completed",
+    "subtitle": "Cultural heritage monument of Serbia",
+    "year": 1461,
+    "fact": "The Imperial Mosque, also known as King's Mosque, is an Ottoman mosque located in Pristina, Kosovo.",
+    "wikipediaSlug": "Imperial_Mosque_(Pristina)",
+    "image": "Xhamia_e_Madhe_Prishtine.JPG",
+    "pageViews": 1022
+  },
+  {
+    "qid": "Q573688",
+    "title": "Burg Castle is completed",
+    "subtitle": "Castle in Solingen, NRW, Germany",
+    "year": 1133,
+    "fact": "Burg Castle, located in Burg an der Wupper (Solingen), is the largest reconstructed castle in North Rhine-Westphalia, Germany and a popular tourist attraction.",
+    "wikipediaSlug": "Burg_Castle_(Solingen)",
+    "image": "Schlossburg_2-v2.jpg",
+    "pageViews": 1018
+  },
+  {
+    "qid": "Q1628496",
+    "title": "Emperor's Mosque is completed",
+    "subtitle": "Mosque",
+    "year": 1457,
+    "fact": "The Emperor's Mosque is a mosque in Sarajevo, Bosnia and Herzegovina.",
+    "wikipediaSlug": "Emperor%27s_Mosque",
+    "image": "Sarajevo_-_Careva_džamija_(49099921128).jpg",
+    "pageViews": 1010
+  },
+  {
+    "qid": "Q601605",
+    "title": "Banteay Kdei is completed",
+    "subtitle": "Temple",
+    "year": 1185,
+    "fact": "Banteay Kdei, also known as \"Citadel of Monks' cells\", is a Buddhist temple in Angkor, Cambodia.",
+    "wikipediaSlug": "Banteay_Kdei",
+    "image": "Banteay_Kdei,_Angkor,_Camboya,_2013-08-16,_DD_10.JPG",
+    "pageViews": 1010
+  },
+  {
+    "qid": "Q14906524",
+    "title": "Carmarthen Castle is completed",
+    "subtitle": "Grade I listed castle in Carmarthen, Wales, UK",
+    "year": 1105,
+    "fact": "Carmarthen Castle is a ruined castle in Carmarthen, West Wales, UK.",
+    "wikipediaSlug": "Carmarthen_Castle",
+    "image": "Prif_borth_Castell_Caerfyrddin_04.JPG",
+    "pageViews": 1004
+  },
+  {
+    "qid": "Q1011026",
+    "title": "Château de Beynac is completed",
+    "subtitle": "Castle",
+    "year": 1200,
+    "fact": "The Château de Beynac is a castle situated in the commune of Beynac-et-Cazenac, in the Dordogne département of France.",
+    "wikipediaSlug": "Ch%C3%A2teau_de_Beynac",
+    "image": "Castle_of_Beynac_27.jpg",
+    "pageViews": 1001
+  }
+]

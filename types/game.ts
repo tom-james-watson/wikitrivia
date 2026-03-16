@@ -1,17 +1,45 @@
-import { Item, PlayedItem } from "./item";
+import { Card, PlayedCard, PreparedCardFields } from "./cards";
+import { DeckNode } from "./decks";
+
+export type GameDifficulty = "easy" | "normal" | "hard";
+
+export type RandomSource = (() => number) & {
+  getState?: () => number;
+  setState?: (state: number) => void;
+};
+
+export interface PreparedCard extends Card, PreparedCardFields {
+  spacingBucket: number;
+  yearBucket: number;
+}
+
+export interface PreparedDeck {
+  cards: PreparedCard[];
+  drawCursor: number;
+  id: string;
+  minScore: number;
+  node: DeckNode;
+  slug: string;
+  themeHue: number;
+  title: string;
+}
 
 export interface GameState {
   badlyPlaced: {
+    delta: number;
     index: number;
     rendered: boolean;
-    delta: number;
   } | null;
-  deck: Item[];
-  // If we don't keep a reference to the preloaded images they can end up being
-  // garbage collected.
-  imageCache: HTMLImageElement[];
+  difficulty: GameDifficulty;
+  imageCache: Array<HTMLImageElement | null>;
   lives: number;
-  next: Item | null;
-  nextButOne: Item | null;
-  played: PlayedItem[];
+  next: PreparedCard | null;
+  nextButOne: PreparedCard | null;
+  decks: PreparedDeck[];
+  selectedRootDeck: DeckNode | null;
+  played: PlayedCard[];
+  random: RandomSource;
+  recentDeckIds: string[];
+  usedQids: Set<string>;
+  usedYears: Set<number>;
 }

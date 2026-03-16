@@ -1,0 +1,19 @@
+SELECT DISTINCT ?item ?itemLabel ?year ?sitelinks WHERE {
+  ?item
+    p:P39 ?statement; # grab the full position statement so we can read its start date
+    wikibase:sitelinks ?sitelinks. # use sitelinks as a rough popularity signal
+  ?statement
+    ps:P39 wd:Q5176750; # the statement itself is for "President of Brazil"
+    pq:P580 ?date. # start date for that term
+  FILTER NOT EXISTS {
+    ?item p:P39 ?earlierStatement.
+    ?earlierStatement
+      ps:P39 wd:Q5176750;
+      pq:P580 ?earlierDate.
+    FILTER(?earlierDate < ?date)
+  }
+  BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } # ask Wikidata for English labels
+}
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

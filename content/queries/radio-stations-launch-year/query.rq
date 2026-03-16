@@ -1,0 +1,21 @@
+SELECT ?item ?itemLabel (MIN(YEAR(?date)) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31 wd:Q14350; # instance of radio station
+    wdt:P571 ?date; # use inception as the launch date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 5) # small class, so allow a broader recognisability threshold
+
+  FILTER NOT EXISTS {
+    ?item wdt:P31 ?otherClass.
+    FILTER(?otherClass != wd:Q14350)
+  } # avoid mixed-type broadcaster/company items
+
+  FILTER(!CONTAINS(LCASE(?itemLabel), "network")) # trim broadcaster/network leakage
+  FILTER(!CONTAINS(LCASE(?itemLabel), "television")) # trim obvious cross-media leakage
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 400

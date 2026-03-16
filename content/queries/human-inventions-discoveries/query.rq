@@ -1,0 +1,21 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  VALUES ?class { # allowed classes for this pack
+    wd:Q12579633 # "invention"
+    wd:Q12772819 # "discovery"
+  }
+  ?item
+    wdt:P31 ?class;
+    wdt:P575 ?date; # use the invention / discovery date
+    wdt:P61 ?inventor;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  ?inventor wdt:P31 wd:Q5. # only keep people
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

@@ -1,0 +1,33 @@
+SELECT DISTINCT
+  ?item
+  ?itemLabel
+  ?year
+  ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q273120;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(
+    REGEX(
+      LCASE(STR(?itemLabel)),
+      "protest|riot|rebellion|uprising|revolt|movement|march|spring|unrest|occupy|tea party|jacquerie"
+    ) || ?item IN (
+      wd:Q15224558, # Euromaidan
+      wd:Q36756, # Kristallnacht
+      wd:Q389646, # Baltic Way
+      wd:Q185642, # Bloody Sunday (1905)
+      wd:Q6743 # May 68
+    )
+  )
+
+  OPTIONAL { ?item wdt:P585 ?pointInTime. }
+  OPTIONAL { ?item wdt:P580 ?startDate. }
+  BIND(COALESCE(?startDate, ?pointInTime) AS ?date)
+  FILTER(BOUND(?date))
+  BIND(YEAR(?date) AS ?year)
+  FILTER(?sitelinks >= 40)
+  FILTER(?year > 0)
+}
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

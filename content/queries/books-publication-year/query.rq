@@ -1,0 +1,65 @@
+SELECT DISTINCT ?item ?itemLabel ?year ?authorLabel ?sitelinks WHERE {
+  {
+    SELECT ?item ?date ?author ?sitelinks WHERE {
+      ?item
+        wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+        wdt:P50 ?author; # require an author
+        wdt:P577 ?date. # use the publication / release date
+      ?author wdt:P31 wd:Q5. # only keep people
+      {
+        ?item wdt:P31/wdt:P279* wd:Q8261. # keep rows whose class lands under "novel"
+      }
+      UNION # second way into the result set
+      {
+        ?item
+          wdt:P31 wd:Q7725634; # instance of "literary work"
+          wdt:P136 ?genre. # pull the genre so we can whitelist the right kinds of works
+        VALUES ?allowedGenre { # genres we want to treat as book-like
+          wd:Q37484 # "epic poem"
+          wd:Q24925 # "science fiction"
+          wd:Q132311 # "fantasy"
+          wd:Q182015 # "thriller"
+          wd:Q6585139 # "mystery fiction"
+          wd:Q5937792 # "crime fiction"
+          wd:Q16575965 # "horror fiction"
+          wd:Q192239 # "historical novel"
+          wd:Q1233720 # "young adult literature"
+          wd:Q858330 # "romance novel"
+          wd:Q319226 # "adventure novel"
+          wd:Q15062348 # "dystopian fiction"
+          wd:Q20737414 # "philosophical fiction"
+          wd:Q223945 # "bildungsroman"
+          wd:Q21802675 # "adventure fiction"
+          wd:Q147516 # "magic realism"
+          wd:Q7440128 # "nautical fiction"
+          wd:Q170539 # "parody"
+          wd:Q1159457 # "chivalric romance"
+        }
+        ?genre wdt:P279* ?allowedGenre. # allow subgenres of the whitelisted genres too
+      }
+      MINUS { # exclude classes that make this pack noisy
+        VALUES ?excludedClass { # classes to exclude even if they otherwise match
+          wd:Q747381 # "light novel"
+          wd:Q104213567 # "light novel series"
+          wd:Q725377 # "graphic novel"
+          wd:Q1760610 # "comic book"
+          wd:Q2831984 # "comic book album"
+          wd:Q8274 # "manga"
+          wd:Q838795 # "comic strip"
+        }
+        ?item wdt:P31/wdt:P279* ?excludedClass.
+      }
+      FILTER(?sitelinks >= 10) # cut off very obscure entries
+    }
+    ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+    LIMIT 2000
+  }
+  BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
+  SERVICE wikibase:label { # ask Wikidata for English labels
+    bd:serviceParam wikibase:language "en".
+  }
+}
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

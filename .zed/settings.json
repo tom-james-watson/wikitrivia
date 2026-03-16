@@ -1,0 +1,32 @@
+{
+  "languages": {
+    "JSON": {
+      "formatter": {
+        "language_server": {
+          "name": "oxfmt"
+        }
+      }
+    },
+    "TypeScript": {
+      "formatter": {
+        "language_server": {
+          "name": "oxfmt"
+        }
+      },
+      "code_actions_on_format": {
+        "source.fixAll.oxlint": true
+      }
+    },
+    "TSX": {
+      "formatter": {
+        "language_server": {
+          "name": "oxfmt"
+        }
+      },
+      "code_actions_on_format": {
+        "source.fixAll.oxlint": true
+      }
+    }
+  },
+  "tab_size": 4
+}

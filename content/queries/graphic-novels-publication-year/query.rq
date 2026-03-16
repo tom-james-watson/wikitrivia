@@ -1,0 +1,23 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?authorName) AS ?authorLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q725377; # instance of or subclass of "graphic novel"
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL { ?item wdt:P577 ?publicationDate. } # first-choice date for publication / release
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. } # fallback date if there is no better one
+  BIND(COALESCE(?publicationDate, ?inceptionDate) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  OPTIONAL {
+    ?item wdt:P50 ?author.
+    ?author rdfs:label ?authorName.
+    FILTER(LANG(?authorName) = "en")
+  }
+  FILTER(?sitelinks >= 5) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000
+
+

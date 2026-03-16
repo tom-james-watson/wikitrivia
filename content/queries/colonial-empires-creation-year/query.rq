@@ -1,0 +1,22 @@
+SELECT
+  ?item
+  ?itemLabel
+  (MIN(?yearValue) AS ?year)
+  ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q1790360;
+    wikibase:sitelinks ?sitelinks.
+
+  OPTIONAL { ?item wdt:P571 ?inception. }
+  OPTIONAL { ?item wdt:P580 ?startDate. }
+  OPTIONAL { ?item wdt:P585 ?pointInTime. }
+  BIND(COALESCE(?pointInTime, ?startDate, ?inception) AS ?date)
+  FILTER(BOUND(?date))
+  BIND(YEAR(?date) AS ?yearValue)
+  FILTER(?yearValue >= 1400 && ?yearValue <= 1940)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

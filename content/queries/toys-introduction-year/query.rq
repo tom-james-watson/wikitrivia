@@ -1,0 +1,28 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?manufacturerName) AS ?manufacturerLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31 ?class;
+    wdt:P571 ?date; # use inception as the date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  VALUES ?class { # allowed classes for this pack
+    wd:Q11422 # "toy"
+    wd:Q168658 # "doll"
+    wd:Q673218 # "fashion doll"
+    wd:Q15654425 # "electronic toy"
+    wd:Q2617664 # "construction set"
+    wd:Q23856 # "top"
+  }
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q15711870. } # exclude "animated character"
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q15632617. } # exclude "fictional human"
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q9383976. } # exclude "FIFA World Cup official match ball"
+  ?item wdt:P176 ?manufacturer.
+  ?manufacturer rdfs:label ?manufacturerName.
+  FILTER(LANG(?manufacturerName) = "en")
+  FILTER(?sitelinks >= 8) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+

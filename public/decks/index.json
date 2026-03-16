@@ -1,0 +1,2172 @@
+{
+  "difficultyCounts": {
+    "easy": 4229,
+    "normal": 8028,
+    "hard": 16910
+  },
+  "id": "all",
+  "minScore": 1000,
+  "slug": "all",
+  "themeHue": 0,
+  "title": "All",
+  "children": [
+    {
+      "difficultyCounts": {
+        "easy": 440,
+        "normal": 959,
+        "hard": 1701
+      },
+      "id": "all-history",
+      "minScore": 1000,
+      "slug": "history",
+      "themeHue": 0,
+      "title": "History",
+      "frequency": 1.8,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 197,
+            "normal": 472,
+            "hard": 764
+          },
+          "id": "all-history-nations",
+          "minScore": 12,
+          "slug": "nations",
+          "themeHue": 0,
+          "title": "Nations",
+          "frequency": 1.8
+        },
+        {
+          "difficultyCounts": {
+            "easy": 25,
+            "normal": 46,
+            "hard": 108
+          },
+          "id": "all-history-eras",
+          "minScore": 3,
+          "slug": "eras",
+          "themeHue": 0,
+          "title": "Eras",
+          "frequency": 0.3
+        },
+        {
+          "difficultyCounts": {
+            "easy": 40,
+            "normal": 95,
+            "hard": 200
+          },
+          "id": "all-history-battles",
+          "minScore": 30,
+          "slug": "battles",
+          "themeHue": 0,
+          "title": "Battles",
+          "frequency": 0.6
+        },
+        {
+          "difficultyCounts": {
+            "easy": 129,
+            "normal": 244,
+            "hard": 424
+          },
+          "id": "all-history-wars",
+          "minScore": 22,
+          "slug": "wars",
+          "themeHue": 0,
+          "title": "Wars",
+          "frequency": 1
+        },
+        {
+          "difficultyCounts": {
+            "easy": 39,
+            "normal": 61,
+            "hard": 101
+          },
+          "id": "all-history-revolts",
+          "minScore": 0,
+          "slug": "revolts",
+          "themeHue": 0,
+          "title": "Revolts",
+          "frequency": 0.25,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 17,
+            "normal": 49,
+            "hard": 106
+          },
+          "id": "all-history-writing",
+          "minScore": 20,
+          "slug": "writing",
+          "themeHue": 0,
+          "title": "Writing",
+          "frequency": 0.1,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 0,
+            "normal": 1,
+            "hard": 7
+          },
+          "id": "all-history-outbreaks",
+          "minScore": 0,
+          "slug": "outbreaks",
+          "themeHue": 0,
+          "title": "Outbreaks",
+          "frequency": 0.1,
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 401,
+        "normal": 715,
+        "hard": 1660
+      },
+      "id": "all-leaders",
+      "minScore": 1000,
+      "slug": "leaders",
+      "themeHue": 180,
+      "title": "Leaders",
+      "frequency": 1,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 145,
+            "normal": 220,
+            "hard": 369
+          },
+          "id": "all-leaders-politicians",
+          "minScore": 1000,
+          "slug": "politicians",
+          "themeHue": 180,
+          "title": "Politicians",
+          "frequency": 1.7,
+          "children": [
+            {
+              "difficultyCounts": {
+                "easy": 45,
+                "normal": 69,
+                "hard": 117
+              },
+              "id": "all-leaders-politicians-europe",
+              "minScore": 1000,
+              "slug": "europe",
+              "themeHue": 180,
+              "title": "Europe",
+              "frequency": 1.4,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 26,
+                    "normal": 34,
+                    "hard": 39
+                  },
+                  "id": "all-leaders-politicians-europe-uk",
+                  "minScore": 0,
+                  "slug": "uk",
+                  "themeHue": 180,
+                  "title": "U.K.",
+                  "frequency": 1.4
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 7,
+                    "normal": 10,
+                    "hard": 29
+                  },
+                  "id": "all-leaders-politicians-europe-france",
+                  "minScore": 0,
+                  "slug": "france",
+                  "themeHue": 180,
+                  "title": "France",
+                  "frequency": 1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 8,
+                    "normal": 10,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-politicians-europe-germany",
+                  "minScore": 69,
+                  "slug": "germany",
+                  "themeHue": 180,
+                  "title": "Germany",
+                  "frequency": 0.9
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 8,
+                    "hard": 26
+                  },
+                  "id": "all-leaders-politicians-europe-italy",
+                  "minScore": 40,
+                  "slug": "italy",
+                  "themeHue": 180,
+                  "title": "Italy",
+                  "frequency": 1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 7,
+                    "hard": 10
+                  },
+                  "id": "all-leaders-politicians-europe-spain",
+                  "minScore": 20,
+                  "slug": "spain",
+                  "themeHue": 180,
+                  "title": "Spain",
+                  "frequency": 0.8
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 57,
+                "normal": 75,
+                "hard": 93
+              },
+              "id": "all-leaders-politicians-americas",
+              "minScore": 1000,
+              "slug": "americas",
+              "themeHue": 180,
+              "title": "Americas",
+              "frequency": 1.9,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 43,
+                    "normal": 43,
+                    "hard": 43
+                  },
+                  "id": "all-leaders-politicians-americas-us",
+                  "minScore": 0,
+                  "slug": "us",
+                  "themeHue": 180,
+                  "title": "U.S.",
+                  "frequency": 2.5
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 5,
+                    "normal": 14,
+                    "hard": 24
+                  },
+                  "id": "all-leaders-politicians-americas-canada",
+                  "minScore": 33,
+                  "slug": "canada",
+                  "themeHue": 180,
+                  "title": "Canada",
+                  "frequency": 0.8
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 7,
+                    "normal": 12,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-politicians-americas-mexico",
+                  "minScore": 50,
+                  "slug": "mexico",
+                  "themeHue": 180,
+                  "title": "Mexico",
+                  "frequency": 0.4
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 6,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-politicians-americas-brazil",
+                  "minScore": 50,
+                  "slug": "brazil",
+                  "themeHue": 180,
+                  "title": "Brazil",
+                  "frequency": 0.3
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 33,
+                "normal": 54,
+                "hard": 108
+              },
+              "id": "all-leaders-politicians-asia",
+              "minScore": 1000,
+              "slug": "asia",
+              "themeHue": 180,
+              "title": "Asia",
+              "frequency": 0.8,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 10,
+                    "normal": 14,
+                    "hard": 14
+                  },
+                  "id": "all-leaders-politicians-asia-india",
+                  "minScore": 47,
+                  "slug": "india",
+                  "themeHue": 180,
+                  "title": "India",
+                  "frequency": 1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 4,
+                    "normal": 14,
+                    "hard": 66
+                  },
+                  "id": "all-leaders-politicians-asia-japan",
+                  "minScore": 26,
+                  "slug": "japan",
+                  "themeHue": 180,
+                  "title": "Japan",
+                  "frequency": 1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 6,
+                    "normal": 11,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-politicians-asia-south-korea",
+                  "minScore": 50,
+                  "slug": "south-korea",
+                  "themeHue": 180,
+                  "title": "South Korea",
+                  "frequency": 0.9
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 13,
+                    "normal": 15,
+                    "hard": 15
+                  },
+                  "id": "all-leaders-politicians-asia-israel",
+                  "minScore": 20,
+                  "slug": "israel",
+                  "themeHue": 180,
+                  "title": "Israel",
+                  "frequency": 0.8
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 7,
+                "normal": 19,
+                "hard": 48
+              },
+              "id": "all-leaders-politicians-oceania",
+              "minScore": 1000,
+              "slug": "oceania",
+              "themeHue": 180,
+              "title": "Oceania",
+              "frequency": 0.6,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 4,
+                    "normal": 15,
+                    "hard": 30
+                  },
+                  "id": "all-leaders-politicians-oceania-australia",
+                  "minScore": 31,
+                  "slug": "australia",
+                  "themeHue": 180,
+                  "title": "Australia",
+                  "frequency": 0.6
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 3,
+                    "normal": 4,
+                    "hard": 18
+                  },
+                  "id": "all-leaders-politicians-oceania-new-zealand",
+                  "minScore": 20,
+                  "slug": "new-zealand",
+                  "themeHue": 180,
+                  "title": "New Zealand",
+                  "frequency": 0.6
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 3,
+                "normal": 3,
+                "hard": 3
+              },
+              "id": "all-leaders-politicians-russia",
+              "minScore": 158,
+              "slug": "russia",
+              "themeHue": 180,
+              "title": "Russia",
+              "frequency": 0.2,
+              "hidden": true
+            }
+          ]
+        },
+        {
+          "difficultyCounts": {
+            "easy": 256,
+            "normal": 495,
+            "hard": 1291
+          },
+          "id": "all-leaders-rulers",
+          "minScore": 1000,
+          "slug": "rulers",
+          "themeHue": 180,
+          "title": "Rulers",
+          "frequency": 1.5,
+          "children": [
+            {
+              "difficultyCounts": {
+                "easy": 175,
+                "normal": 324,
+                "hard": 713
+              },
+              "id": "all-leaders-rulers-europe",
+              "minScore": 1000,
+              "slug": "europe",
+              "themeHue": 180,
+              "title": "Europe",
+              "frequency": 2.2,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 40,
+                    "normal": 47,
+                    "hard": 47
+                  },
+                  "id": "all-leaders-rulers-europe-england",
+                  "minScore": 15,
+                  "slug": "england",
+                  "themeHue": 180,
+                  "title": "England",
+                  "frequency": 2.2
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 3,
+                    "hard": 14
+                  },
+                  "id": "all-leaders-rulers-europe-wessex",
+                  "minScore": 0,
+                  "slug": "wessex",
+                  "themeHue": 180,
+                  "title": "Wessex",
+                  "frequency": 0.15
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 2,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-rulers-europe-mercia",
+                  "minScore": 0,
+                  "slug": "mercia",
+                  "themeHue": 180,
+                  "title": "Mercia",
+                  "frequency": 0.1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 1,
+                    "hard": 8
+                  },
+                  "id": "all-leaders-rulers-europe-northumbria",
+                  "minScore": 0,
+                  "slug": "northumbria",
+                  "themeHue": 180,
+                  "title": "Northumbria",
+                  "frequency": 0.05,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 12,
+                    "normal": 12,
+                    "hard": 12
+                  },
+                  "id": "all-leaders-rulers-europe-britain",
+                  "minScore": 15,
+                  "slug": "britain",
+                  "themeHue": 180,
+                  "title": "Britain",
+                  "frequency": 1.5
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 11,
+                    "normal": 23,
+                    "hard": 36
+                  },
+                  "id": "all-leaders-rulers-europe-scotland",
+                  "minScore": 12,
+                  "slug": "scotland",
+                  "themeHue": 180,
+                  "title": "Scotland",
+                  "frequency": 0.6
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 16,
+                    "normal": 26,
+                    "hard": 28
+                  },
+                  "id": "all-leaders-rulers-europe-france",
+                  "minScore": 15,
+                  "slug": "france",
+                  "themeHue": 180,
+                  "title": "France",
+                  "frequency": 1.3
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 13,
+                    "normal": 17,
+                    "hard": 18
+                  },
+                  "id": "all-leaders-rulers-europe-spain",
+                  "minScore": 12,
+                  "slug": "spain",
+                  "themeHue": 180,
+                  "title": "Spain",
+                  "frequency": 1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 4,
+                    "normal": 13,
+                    "hard": 35
+                  },
+                  "id": "all-leaders-rulers-europe-portugal",
+                  "minScore": 12,
+                  "slug": "portugal",
+                  "themeHue": 180,
+                  "title": "Portugal",
+                  "frequency": 0.7
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 2,
+                    "hard": 8
+                  },
+                  "id": "all-leaders-rulers-europe-sicily",
+                  "minScore": 0,
+                  "slug": "sicily",
+                  "themeHue": 180,
+                  "title": "Sicily",
+                  "frequency": 0.15,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 0,
+                    "hard": 15
+                  },
+                  "id": "all-leaders-rulers-europe-leon",
+                  "minScore": 0,
+                  "slug": "leon",
+                  "themeHue": 180,
+                  "title": "Leon",
+                  "frequency": 0.12
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 8,
+                    "normal": 11,
+                    "hard": 20
+                  },
+                  "id": "all-leaders-rulers-europe-castile",
+                  "minScore": 0,
+                  "slug": "castile",
+                  "themeHue": 180,
+                  "title": "Castile",
+                  "frequency": 0.12
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 8,
+                    "normal": 8,
+                    "hard": 20
+                  },
+                  "id": "all-leaders-rulers-europe-aragon",
+                  "minScore": 0,
+                  "slug": "aragon",
+                  "themeHue": 180,
+                  "title": "Aragon",
+                  "frequency": 0.12
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 2,
+                    "hard": 18
+                  },
+                  "id": "all-leaders-rulers-europe-navarre",
+                  "minScore": 0,
+                  "slug": "navarre",
+                  "themeHue": 180,
+                  "title": "Navarre",
+                  "frequency": 0.08
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 12,
+                    "normal": 21,
+                    "hard": 52
+                  },
+                  "id": "all-leaders-rulers-europe-hungary",
+                  "minScore": 12,
+                  "slug": "hungary",
+                  "themeHue": 180,
+                  "title": "Hungary",
+                  "frequency": 0.3
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 10,
+                    "hard": 34
+                  },
+                  "id": "all-leaders-rulers-europe-poland",
+                  "minScore": 0,
+                  "slug": "poland",
+                  "themeHue": 180,
+                  "title": "Poland",
+                  "frequency": 0.15
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 14,
+                    "normal": 21,
+                    "hard": 35
+                  },
+                  "id": "all-leaders-rulers-europe-bohemia",
+                  "minScore": 12,
+                  "slug": "bohemia",
+                  "themeHue": 180,
+                  "title": "Bohemia",
+                  "frequency": 0.15
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 4,
+                    "hard": 6
+                  },
+                  "id": "all-leaders-rulers-europe-bavaria",
+                  "minScore": 0,
+                  "slug": "bavaria",
+                  "themeHue": 180,
+                  "title": "Bavaria",
+                  "frequency": 0.05,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 0,
+                    "hard": 6
+                  },
+                  "id": "all-leaders-rulers-europe-burgundy",
+                  "minScore": 10,
+                  "slug": "burgundy",
+                  "themeHue": 180,
+                  "title": "Burgundy",
+                  "frequency": 0.05,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 3,
+                    "normal": 10,
+                    "hard": 21
+                  },
+                  "id": "all-leaders-rulers-europe-franks",
+                  "minScore": 12,
+                  "slug": "franks",
+                  "themeHue": 180,
+                  "title": "Franks",
+                  "frequency": 0.2
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 4,
+                    "normal": 7,
+                    "hard": 7
+                  },
+                  "id": "all-leaders-rulers-europe-netherlands",
+                  "minScore": 12,
+                  "slug": "netherlands",
+                  "themeHue": 180,
+                  "title": "Netherlands",
+                  "frequency": 0.12,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 5,
+                    "normal": 14,
+                    "hard": 51
+                  },
+                  "id": "all-leaders-rulers-europe-denmark",
+                  "minScore": 0,
+                  "slug": "denmark",
+                  "themeHue": 180,
+                  "title": "Denmark",
+                  "frequency": 0.3
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 3,
+                    "normal": 14,
+                    "hard": 44
+                  },
+                  "id": "all-leaders-rulers-europe-norway",
+                  "minScore": 0,
+                  "slug": "norway",
+                  "themeHue": 180,
+                  "title": "Norway",
+                  "frequency": 0.25
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 3,
+                    "normal": 13,
+                    "hard": 33
+                  },
+                  "id": "all-leaders-rulers-europe-sweden",
+                  "minScore": 0,
+                  "slug": "sweden",
+                  "themeHue": 180,
+                  "title": "Sweden",
+                  "frequency": 0.25
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 6,
+                    "normal": 7,
+                    "hard": 7
+                  },
+                  "id": "all-leaders-rulers-europe-belgium",
+                  "minScore": 12,
+                  "slug": "belgium",
+                  "themeHue": 180,
+                  "title": "Belgium",
+                  "frequency": 0.08,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 4,
+                    "normal": 9,
+                    "hard": 9
+                  },
+                  "id": "all-leaders-rulers-europe-prussia",
+                  "minScore": 12,
+                  "slug": "prussia",
+                  "themeHue": 180,
+                  "title": "Prussia",
+                  "frequency": 0.12,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 27,
+                    "normal": 49,
+                    "hard": 75
+                  },
+                  "id": "all-leaders-rulers-europe-rome",
+                  "minScore": 24,
+                  "slug": "rome",
+                  "themeHue": 180,
+                  "title": "Roman Empire",
+                  "frequency": 2
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 4,
+                    "normal": 19,
+                    "hard": 94
+                  },
+                  "id": "all-leaders-rulers-europe-byzantium",
+                  "minScore": 12,
+                  "slug": "byzantium",
+                  "themeHue": 180,
+                  "title": "Byzantium",
+                  "frequency": 0.35
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 14,
+                    "normal": 26,
+                    "hard": 39
+                  },
+                  "id": "all-leaders-rulers-europe-holy-roman-empire",
+                  "minScore": 15,
+                  "slug": "holy-roman-empire",
+                  "themeHue": 180,
+                  "title": "Holy Roman Empire",
+                  "frequency": 0.8
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 11,
+                    "normal": 15,
+                    "hard": 15
+                  },
+                  "id": "all-leaders-rulers-europe-russia",
+                  "minScore": 12,
+                  "slug": "russia",
+                  "themeHue": 180,
+                  "title": "Russian Empire",
+                  "frequency": 0.55
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 0,
+                    "hard": 6
+                  },
+                  "id": "all-leaders-rulers-europe-trebizond",
+                  "minScore": 0,
+                  "slug": "trebizond",
+                  "themeHue": 180,
+                  "title": "Trebizond",
+                  "frequency": 0.03,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 3,
+                    "normal": 6,
+                    "hard": 18
+                  },
+                  "id": "all-leaders-rulers-europe-macedon",
+                  "minScore": 0,
+                  "slug": "macedon",
+                  "themeHue": 180,
+                  "title": "Macedon",
+                  "frequency": 0.08
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 33,
+                "normal": 73,
+                "hard": 172
+              },
+              "id": "all-leaders-rulers-middle-east",
+              "minScore": 1000,
+              "slug": "middle-east",
+              "themeHue": 180,
+              "title": "Middle East",
+              "frequency": 0.08,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 14,
+                    "normal": 29,
+                    "hard": 37
+                  },
+                  "id": "all-leaders-rulers-middle-east-ottomans",
+                  "minScore": 12,
+                  "slug": "ottomans",
+                  "themeHue": 180,
+                  "title": "Ottomans",
+                  "frequency": 0.8
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 2,
+                    "hard": 6
+                  },
+                  "id": "all-leaders-rulers-middle-east-jerusalem",
+                  "minScore": 0,
+                  "slug": "jerusalem",
+                  "themeHue": 180,
+                  "title": "Jerusalem",
+                  "frequency": 0.03,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 11,
+                    "normal": 16,
+                    "hard": 24
+                  },
+                  "id": "all-leaders-rulers-middle-east-persia",
+                  "minScore": 20,
+                  "slug": "persia",
+                  "themeHue": 180,
+                  "title": "Persia",
+                  "frequency": 0.5
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 10,
+                    "hard": 11
+                  },
+                  "id": "all-leaders-rulers-middle-east-safavids",
+                  "minScore": 0,
+                  "slug": "safavids",
+                  "themeHue": 180,
+                  "title": "Safavids",
+                  "frequency": 0.04
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 1,
+                    "hard": 8
+                  },
+                  "id": "all-leaders-rulers-middle-east-ayyubids",
+                  "minScore": 0,
+                  "slug": "ayyubids",
+                  "themeHue": 180,
+                  "title": "Ayyubids",
+                  "frequency": 0.03,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 5,
+                    "hard": 12
+                  },
+                  "id": "all-leaders-rulers-middle-east-umayyads",
+                  "minScore": 0,
+                  "slug": "umayyads",
+                  "themeHue": 180,
+                  "title": "Umayyads",
+                  "frequency": 0.04
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 4,
+                    "hard": 34
+                  },
+                  "id": "all-leaders-rulers-middle-east-abbasids",
+                  "minScore": 0,
+                  "slug": "abbasids",
+                  "themeHue": 180,
+                  "title": "Abbasids",
+                  "frequency": 0.05
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 1,
+                    "hard": 12
+                  },
+                  "id": "all-leaders-rulers-middle-east-fatimids",
+                  "minScore": 0,
+                  "slug": "fatimids",
+                  "themeHue": 180,
+                  "title": "Fatimids",
+                  "frequency": 0.03
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 1,
+                    "hard": 10
+                  },
+                  "id": "all-leaders-rulers-middle-east-mamluks",
+                  "minScore": 0,
+                  "slug": "mamluks",
+                  "themeHue": 180,
+                  "title": "Mamluks",
+                  "frequency": 0.03
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 0,
+                    "hard": 0
+                  },
+                  "id": "all-leaders-rulers-middle-east-delhi",
+                  "minScore": 10,
+                  "slug": "delhi",
+                  "themeHue": 180,
+                  "title": "Delhi",
+                  "frequency": 0.03,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 3,
+                    "hard": 5
+                  },
+                  "id": "all-leaders-rulers-middle-east-babylon",
+                  "minScore": 0,
+                  "slug": "babylon",
+                  "themeHue": 180,
+                  "title": "Babylon",
+                  "frequency": 0.03,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 2,
+                    "hard": 15
+                  },
+                  "id": "all-leaders-rulers-middle-east-assyria",
+                  "minScore": 0,
+                  "slug": "assyria",
+                  "themeHue": 180,
+                  "title": "Assyria",
+                  "frequency": 0.03
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 24,
+                "normal": 35,
+                "hard": 112
+              },
+              "id": "all-leaders-rulers-africa",
+              "minScore": 1000,
+              "slug": "africa",
+              "themeHue": 180,
+              "title": "Africa",
+              "frequency": 0.2,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 12,
+                    "normal": 20,
+                    "hard": 69
+                  },
+                  "id": "all-leaders-rulers-africa-egypt",
+                  "minScore": 12,
+                  "slug": "egypt",
+                  "themeHue": 180,
+                  "title": "Egypt",
+                  "frequency": 1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 3,
+                    "hard": 19
+                  },
+                  "id": "all-leaders-rulers-africa-ethiopia",
+                  "minScore": 10,
+                  "slug": "ethiopia",
+                  "themeHue": 180,
+                  "title": "Ethiopia",
+                  "frequency": 0.2
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 1,
+                    "hard": 13
+                  },
+                  "id": "all-leaders-rulers-africa-morocco",
+                  "minScore": 15,
+                  "slug": "morocco",
+                  "themeHue": 180,
+                  "title": "Morocco",
+                  "frequency": 0.1
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 7,
+                    "normal": 7,
+                    "hard": 7
+                  },
+                  "id": "all-leaders-rulers-africa-saudi-arabia",
+                  "minScore": 12,
+                  "slug": "saudi-arabia",
+                  "themeHue": 180,
+                  "title": "Saudi Arabia",
+                  "frequency": 0.05,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 3,
+                    "normal": 4,
+                    "hard": 4
+                  },
+                  "id": "all-leaders-rulers-africa-jordan",
+                  "minScore": 12,
+                  "slug": "jordan",
+                  "themeHue": 180,
+                  "title": "Jordan",
+                  "frequency": 0.05,
+                  "hidden": true
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 18,
+                "normal": 48,
+                "hard": 254
+              },
+              "id": "all-leaders-rulers-east-asia",
+              "minScore": 1000,
+              "slug": "east-asia",
+              "themeHue": 180,
+              "title": "East Asia",
+              "frequency": 0.45,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 7,
+                    "hard": 12
+                  },
+                  "id": "all-leaders-rulers-east-asia-joseon",
+                  "minScore": 12,
+                  "slug": "joseon",
+                  "themeHue": 180,
+                  "title": "Joseon",
+                  "frequency": 0.2
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 6,
+                    "hard": 23
+                  },
+                  "id": "all-leaders-rulers-east-asia-thailand",
+                  "minScore": 12,
+                  "slug": "thailand",
+                  "themeHue": 180,
+                  "title": "Thailand",
+                  "frequency": 0.2
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 8,
+                    "normal": 28,
+                    "hard": 111
+                  },
+                  "id": "all-leaders-rulers-east-asia-china",
+                  "minScore": 20,
+                  "slug": "china",
+                  "themeHue": 180,
+                  "title": "China",
+                  "frequency": 0.9
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 6,
+                    "normal": 7,
+                    "hard": 108
+                  },
+                  "id": "all-leaders-rulers-east-asia-japan",
+                  "minScore": 15,
+                  "slug": "japan",
+                  "themeHue": 180,
+                  "title": "Japan",
+                  "frequency": 0.8
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 8,
+                "normal": 17,
+                "hard": 37
+              },
+              "id": "all-leaders-rulers-south-asia",
+              "minScore": 1000,
+              "slug": "south-asia",
+              "themeHue": 180,
+              "title": "South Asia",
+              "frequency": 0.2,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 6,
+                    "normal": 12,
+                    "hard": 20
+                  },
+                  "id": "all-leaders-rulers-south-asia-mughals",
+                  "minScore": 12,
+                  "slug": "mughals",
+                  "themeHue": 180,
+                  "title": "Mughals",
+                  "frequency": 0.4
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 2,
+                    "normal": 3,
+                    "hard": 9
+                  },
+                  "id": "all-leaders-rulers-south-asia-mauryas",
+                  "minScore": 0,
+                  "slug": "mauryas",
+                  "themeHue": 180,
+                  "title": "Mauryas",
+                  "frequency": 0.04,
+                  "hidden": true
+                },
+                {
+                  "difficultyCounts": {
+                    "easy": 0,
+                    "normal": 2,
+                    "hard": 8
+                  },
+                  "id": "all-leaders-rulers-south-asia-guptas",
+                  "minScore": 0,
+                  "slug": "guptas",
+                  "themeHue": 180,
+                  "title": "Guptas",
+                  "frequency": 0.04,
+                  "hidden": true
+                }
+              ]
+            },
+            {
+              "difficultyCounts": {
+                "easy": 1,
+                "normal": 2,
+                "hard": 7
+              },
+              "id": "all-leaders-rulers-americas",
+              "minScore": 1000,
+              "slug": "americas",
+              "themeHue": 180,
+              "title": "Americas",
+              "frequency": 0.05,
+              "hidden": true,
+              "children": [
+                {
+                  "difficultyCounts": {
+                    "easy": 1,
+                    "normal": 2,
+                    "hard": 7
+                  },
+                  "id": "all-leaders-rulers-americas-inca",
+                  "minScore": 0,
+                  "slug": "inca",
+                  "themeHue": 180,
+                  "title": "Inca",
+                  "frequency": 0.05,
+                  "hidden": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 829,
+        "normal": 1121,
+        "hard": 1483
+      },
+      "id": "all-people",
+      "minScore": 1000,
+      "slug": "people",
+      "themeHue": 36,
+      "title": "People",
+      "frequency": 0.8,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 801,
+            "normal": 1088,
+            "hard": 1439
+          },
+          "id": "all-people-famous-deaths",
+          "minScore": 1000,
+          "slug": "famous-deaths",
+          "themeHue": 36,
+          "title": "Famous Deaths",
+          "frequency": 1.5,
+          "children": [
+            {
+              "difficultyCounts": {
+                "easy": 51,
+                "normal": 63,
+                "hard": 74
+              },
+              "id": "all-people-famous-deaths-classical",
+              "minScore": 21,
+              "slug": "classical",
+              "themeHue": 36,
+              "title": "Classical",
+              "frequency": 0.8
+            },
+            {
+              "difficultyCounts": {
+                "easy": 48,
+                "normal": 75,
+                "hard": 95
+              },
+              "id": "all-people-famous-deaths-medieval",
+              "minScore": 21,
+              "slug": "medieval",
+              "themeHue": 36,
+              "title": "Medieval",
+              "frequency": 0.8
+            },
+            {
+              "difficultyCounts": {
+                "easy": 96,
+                "normal": 135,
+                "hard": 184
+              },
+              "id": "all-people-famous-deaths-early-modern",
+              "minScore": 21,
+              "slug": "early-modern",
+              "themeHue": 36,
+              "title": "Early Modern",
+              "frequency": 0.8
+            },
+            {
+              "difficultyCounts": {
+                "easy": 225,
+                "normal": 335,
+                "hard": 485
+              },
+              "id": "all-people-famous-deaths-modern",
+              "minScore": 21,
+              "slug": "modern",
+              "themeHue": 36,
+              "title": "Modern",
+              "frequency": 1
+            },
+            {
+              "difficultyCounts": {
+                "easy": 381,
+                "normal": 480,
+                "hard": 601
+              },
+              "id": "all-people-famous-deaths-contemporary",
+              "minScore": 21,
+              "slug": "contemporary",
+              "themeHue": 36,
+              "title": "Contemporary",
+              "frequency": 1.2
+            }
+          ]
+        },
+        {
+          "difficultyCounts": {
+            "easy": 57,
+            "normal": 76,
+            "hard": 95
+          },
+          "id": "all-people-nobel-laureates",
+          "minScore": 1000,
+          "slug": "nobel-laureates",
+          "themeHue": 36,
+          "title": "Nobel Laureates",
+          "frequency": 0.1,
+          "children": [
+            {
+              "difficultyCounts": {
+                "easy": 12,
+                "normal": 13,
+                "hard": 13
+              },
+              "id": "all-people-nobel-laureates-physics",
+              "minScore": 120,
+              "slug": "physics",
+              "themeHue": 36,
+              "title": "Physics",
+              "frequency": 1
+            },
+            {
+              "difficultyCounts": {
+                "easy": 22,
+                "normal": 36,
+                "hard": 55
+              },
+              "id": "all-people-nobel-laureates-literature",
+              "minScore": 120,
+              "slug": "literature",
+              "themeHue": 36,
+              "title": "Literature",
+              "frequency": 1
+            },
+            {
+              "difficultyCounts": {
+                "easy": 20,
+                "normal": 23,
+                "hard": 23
+              },
+              "id": "all-people-nobel-laureates-peace",
+              "minScore": 120,
+              "slug": "peace",
+              "themeHue": 36,
+              "title": "Peace",
+              "frequency": 0.9
+            },
+            {
+              "difficultyCounts": {
+                "easy": 2,
+                "normal": 2,
+                "hard": 2
+              },
+              "id": "all-people-nobel-laureates-chemistry",
+              "minScore": 120,
+              "slug": "chemistry",
+              "themeHue": 36,
+              "title": "Chemistry",
+              "frequency": 0.6,
+              "hidden": true
+            },
+            {
+              "difficultyCounts": {
+                "easy": 2,
+                "normal": 3,
+                "hard": 3
+              },
+              "id": "all-people-nobel-laureates-medicine",
+              "minScore": 120,
+              "slug": "medicine",
+              "themeHue": 36,
+              "title": "Medicine",
+              "frequency": 0.6,
+              "hidden": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 1517,
+        "normal": 2563,
+        "hard": 4240
+      },
+      "id": "all-entertainment",
+      "minScore": 1000,
+      "slug": "entertainment",
+      "themeHue": 216,
+      "title": "Entertainment",
+      "frequency": 1,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 884,
+            "normal": 970,
+            "hard": 986
+          },
+          "id": "all-entertainment-films",
+          "minScore": 10,
+          "slug": "films",
+          "themeHue": 216,
+          "title": "Films",
+          "frequency": 0.8
+        },
+        {
+          "difficultyCounts": {
+            "easy": 195,
+            "normal": 238,
+            "hard": 260
+          },
+          "id": "all-entertainment-tv",
+          "minScore": 20,
+          "slug": "tv",
+          "themeHue": 216,
+          "title": "TV",
+          "frequency": 0.8
+        },
+        {
+          "difficultyCounts": {
+            "easy": 110,
+            "normal": 229,
+            "hard": 433
+          },
+          "id": "all-entertainment-books",
+          "minScore": 10,
+          "slug": "books",
+          "themeHue": 216,
+          "title": "Books",
+          "frequency": 0.9
+        },
+        {
+          "difficultyCounts": {
+            "easy": 160,
+            "normal": 799,
+            "hard": 1913
+          },
+          "id": "all-entertainment-music",
+          "minScore": 5,
+          "slug": "music",
+          "themeHue": 216,
+          "title": "Music",
+          "frequency": 1
+        },
+        {
+          "difficultyCounts": {
+            "easy": 29,
+            "normal": 35,
+            "hard": 40
+          },
+          "id": "all-entertainment-musicals",
+          "minScore": 20,
+          "slug": "musicals",
+          "themeHue": 216,
+          "title": "Musicals",
+          "frequency": 0.1
+        },
+        {
+          "difficultyCounts": {
+            "easy": 16,
+            "normal": 33,
+            "hard": 96
+          },
+          "id": "all-entertainment-plays",
+          "minScore": 20,
+          "slug": "plays",
+          "themeHue": 216,
+          "title": "Plays",
+          "frequency": 0.3
+        },
+        {
+          "difficultyCounts": {
+            "easy": 46,
+            "normal": 93,
+            "hard": 99
+          },
+          "id": "all-entertainment-characters",
+          "minScore": 30,
+          "slug": "characters",
+          "themeHue": 216,
+          "title": "Characters",
+          "frequency": 0.5,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 56,
+            "normal": 101,
+            "hard": 124
+          },
+          "id": "all-entertainment-comics",
+          "minScore": 25,
+          "slug": "comics",
+          "themeHue": 216,
+          "title": "Comics",
+          "frequency": 0.1,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 2,
+            "normal": 3,
+            "hard": 25
+          },
+          "id": "all-entertainment-graphic-novels",
+          "minScore": 5,
+          "slug": "graphic-novels",
+          "themeHue": 216,
+          "title": "Graphic Novels",
+          "frequency": 0.05,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 11,
+            "normal": 30,
+            "hard": 108
+          },
+          "id": "all-entertainment-songs",
+          "minScore": 0,
+          "slug": "songs",
+          "themeHue": 216,
+          "title": "Songs",
+          "frequency": 0.1,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 2,
+            "normal": 12,
+            "hard": 36
+          },
+          "id": "all-entertainment-board-games",
+          "minScore": 12,
+          "slug": "board-games",
+          "themeHue": 216,
+          "title": "Board Games",
+          "frequency": 0.05,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 3,
+            "normal": 7,
+            "hard": 20
+          },
+          "id": "all-entertainment-toys",
+          "minScore": 5,
+          "slug": "toys",
+          "themeHue": 216,
+          "title": "Toys & Lines",
+          "frequency": 0.3,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 4,
+            "normal": 14,
+            "hard": 101
+          },
+          "id": "all-entertainment-podcasts",
+          "minScore": 1,
+          "slug": "podcasts",
+          "themeHue": 216,
+          "title": "Podcasts",
+          "frequency": 0.1,
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 51,
+        "normal": 137,
+        "hard": 707
+      },
+      "id": "all-art",
+      "minScore": 1000,
+      "slug": "art",
+      "themeHue": 72,
+      "title": "Art",
+      "frequency": 0.6,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 27,
+            "normal": 73,
+            "hard": 414
+          },
+          "id": "all-art-paintings",
+          "minScore": 5,
+          "slug": "paintings",
+          "themeHue": 72,
+          "title": "Paintings",
+          "frequency": 1.15
+        },
+        {
+          "difficultyCounts": {
+            "easy": 8,
+            "normal": 31,
+            "hard": 253
+          },
+          "id": "all-art-sculptures",
+          "minScore": 3,
+          "slug": "sculptures",
+          "themeHue": 72,
+          "title": "Sculptures",
+          "frequency": 0.15
+        },
+        {
+          "difficultyCounts": {
+            "easy": 16,
+            "normal": 33,
+            "hard": 40
+          },
+          "id": "all-art-movements",
+          "minScore": 40,
+          "slug": "movements",
+          "themeHue": 72,
+          "title": "Movements",
+          "frequency": 0.2
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 346,
+        "normal": 996,
+        "hard": 2493
+      },
+      "id": "all-technology",
+      "minScore": 1000,
+      "slug": "technology",
+      "themeHue": 252,
+      "title": "Technology",
+      "frequency": 0.5,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 35,
+            "normal": 77,
+            "hard": 166
+          },
+          "id": "all-technology-computing",
+          "minScore": 1000,
+          "slug": "computing",
+          "themeHue": 252,
+          "title": "Computing",
+          "frequency": 0.8,
+          "children": [
+            {
+              "difficultyCounts": {
+                "easy": 12,
+                "normal": 27,
+                "hard": 54
+              },
+              "id": "all-technology-computing-languages",
+              "minScore": 25,
+              "slug": "languages",
+              "themeHue": 252,
+              "title": "Languages",
+              "frequency": 1,
+              "hidden": true
+            },
+            {
+              "difficultyCounts": {
+                "easy": 11,
+                "normal": 32,
+                "hard": 82
+              },
+              "id": "all-technology-computing-systems",
+              "minScore": 20,
+              "slug": "systems",
+              "themeHue": 252,
+              "title": "Systems",
+              "frequency": 0.5,
+              "hidden": true
+            },
+            {
+              "difficultyCounts": {
+                "easy": 4,
+                "normal": 7,
+                "hard": 11
+              },
+              "id": "all-technology-computing-browsers",
+              "minScore": 20,
+              "slug": "browsers",
+              "themeHue": 252,
+              "title": "Browsers",
+              "frequency": 0.2,
+              "hidden": true
+            },
+            {
+              "difficultyCounts": {
+                "easy": 2,
+                "normal": 4,
+                "hard": 8
+              },
+              "id": "all-technology-computing-engines",
+              "minScore": 10,
+              "slug": "engines",
+              "themeHue": 252,
+              "title": "Engines",
+              "frequency": 0.1,
+              "hidden": true
+            },
+            {
+              "difficultyCounts": {
+                "easy": 4,
+                "normal": 5,
+                "hard": 5
+              },
+              "id": "all-technology-computing-consoles",
+              "minScore": 37,
+              "slug": "consoles",
+              "themeHue": 252,
+              "title": "Consoles",
+              "frequency": 0.2,
+              "hidden": true
+            },
+            {
+              "difficultyCounts": {
+                "easy": 2,
+                "normal": 2,
+                "hard": 6
+              },
+              "id": "all-technology-computing-milestones",
+              "minScore": 10,
+              "slug": "milestones",
+              "themeHue": 252,
+              "title": "Milestones",
+              "frequency": 0.08,
+              "hidden": true
+            }
+          ]
+        },
+        {
+          "difficultyCounts": {
+            "easy": 211,
+            "normal": 746,
+            "hard": 1875
+          },
+          "id": "all-technology-video-games",
+          "minScore": 10,
+          "slug": "video-games",
+          "themeHue": 252,
+          "title": "Video Games",
+          "frequency": 2
+        },
+        {
+          "difficultyCounts": {
+            "easy": 91,
+            "normal": 151,
+            "hard": 364
+          },
+          "id": "all-technology-websites",
+          "minScore": 0,
+          "slug": "websites",
+          "themeHue": 252,
+          "title": "Websites",
+          "frequency": 0.8
+        },
+        {
+          "difficultyCounts": {
+            "easy": 19,
+            "normal": 41,
+            "hard": 130
+          },
+          "id": "all-technology-mobile-apps",
+          "minScore": 0,
+          "slug": "mobile-apps",
+          "themeHue": 252,
+          "title": "Mobile Apps",
+          "frequency": 0.8
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 349,
+        "normal": 804,
+        "hard": 1796
+      },
+      "id": "all-engineering",
+      "minScore": 1000,
+      "slug": "engineering",
+      "themeHue": 108,
+      "title": "Engineering",
+      "frequency": 0.3,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 12,
+            "normal": 46,
+            "hard": 65
+          },
+          "id": "all-engineering-cars",
+          "minScore": 20,
+          "slug": "cars",
+          "themeHue": 108,
+          "title": "Cars",
+          "frequency": 1
+        },
+        {
+          "difficultyCounts": {
+            "easy": 199,
+            "normal": 414,
+            "hard": 691
+          },
+          "id": "all-engineering-aeroplanes",
+          "minScore": 3,
+          "slug": "aeroplanes",
+          "themeHue": 108,
+          "title": "Aeroplanes",
+          "frequency": 0.4
+        },
+        {
+          "difficultyCounts": {
+            "easy": 22,
+            "normal": 74,
+            "hard": 304
+          },
+          "id": "all-engineering-military-vehicles",
+          "minScore": 5,
+          "slug": "military-vehicles",
+          "themeHue": 108,
+          "title": "Military Vehicles",
+          "frequency": 0.3
+        },
+        {
+          "difficultyCounts": {
+            "easy": 109,
+            "normal": 253,
+            "hard": 470
+          },
+          "id": "all-engineering-weapons",
+          "minScore": 5,
+          "slug": "weapons",
+          "themeHue": 108,
+          "title": "Weapons",
+          "frequency": 0.3
+        },
+        {
+          "difficultyCounts": {
+            "easy": 9,
+            "normal": 23,
+            "hard": 180
+          },
+          "id": "all-engineering-space",
+          "minScore": 8,
+          "slug": "space",
+          "themeHue": 108,
+          "title": "Space",
+          "frequency": 0.3
+        },
+        {
+          "difficultyCounts": {
+            "easy": 2,
+            "normal": 13,
+            "hard": 119
+          },
+          "id": "all-engineering-rail",
+          "minScore": 10,
+          "slug": "rail",
+          "themeHue": 108,
+          "title": "Rail",
+          "frequency": 0.5
+        },
+        {
+          "difficultyCounts": {
+            "easy": 3,
+            "normal": 5,
+            "hard": 18
+          },
+          "id": "all-engineering-phones",
+          "minScore": 20,
+          "slug": "phones",
+          "themeHue": 108,
+          "title": "Phones",
+          "frequency": 0.25,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 4,
+            "normal": 4,
+            "hard": 5
+          },
+          "id": "all-engineering-discoveries",
+          "minScore": 20,
+          "slug": "discoveries",
+          "themeHue": 108,
+          "title": "Discoveries",
+          "frequency": 0.08,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 4,
+            "normal": 4,
+            "hard": 7
+          },
+          "id": "all-engineering-imaging",
+          "minScore": 10,
+          "slug": "imaging",
+          "themeHue": 108,
+          "title": "Imaging",
+          "frequency": 0.1,
+          "hidden": true
+        },
+        {
+          "difficultyCounts": {
+            "easy": 1,
+            "normal": 3,
+            "hard": 6
+          },
+          "id": "all-engineering-home-tech",
+          "minScore": 8,
+          "slug": "home-tech",
+          "themeHue": 108,
+          "title": "Home Tech",
+          "frequency": 0.08,
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 75,
+        "normal": 252,
+        "hard": 1736
+      },
+      "id": "all-architecture",
+      "minScore": 1000,
+      "slug": "architecture",
+      "themeHue": 288,
+      "title": "Landmarks",
+      "frequency": 0.6,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 17,
+            "normal": 36,
+            "hard": 93
+          },
+          "id": "all-architecture-ancient",
+          "minScore": 10,
+          "slug": "ancient",
+          "themeHue": 288,
+          "title": "Ancient",
+          "frequency": 0.7
+        },
+        {
+          "difficultyCounts": {
+            "easy": 17,
+            "normal": 58,
+            "hard": 482
+          },
+          "id": "all-architecture-medieval",
+          "minScore": 10,
+          "slug": "medieval",
+          "themeHue": 288,
+          "title": "Medieval",
+          "frequency": 0.9
+        },
+        {
+          "difficultyCounts": {
+            "easy": 8,
+            "normal": 36,
+            "hard": 294
+          },
+          "id": "all-architecture-early-modern",
+          "minScore": 10,
+          "slug": "early-modern",
+          "themeHue": 288,
+          "title": "Early Modern",
+          "frequency": 0.85
+        },
+        {
+          "difficultyCounts": {
+            "easy": 33,
+            "normal": 122,
+            "hard": 868
+          },
+          "id": "all-architecture-modern",
+          "minScore": 10,
+          "slug": "modern",
+          "themeHue": 288,
+          "title": "Modern",
+          "frequency": 1.1
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 241,
+        "normal": 294,
+        "hard": 452
+      },
+      "id": "all-sport",
+      "minScore": 1000,
+      "slug": "sport",
+      "themeHue": 144,
+      "title": "Sport",
+      "frequency": 0.1,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 220,
+            "normal": 241,
+            "hard": 299
+          },
+          "id": "all-sport-teams",
+          "minScore": 10,
+          "slug": "teams",
+          "themeHue": 144,
+          "title": "Teams",
+          "frequency": 1.2
+        },
+        {
+          "difficultyCounts": {
+            "easy": 21,
+            "normal": 53,
+            "hard": 153
+          },
+          "id": "all-sport-stadiums",
+          "minScore": 40,
+          "slug": "stadiums",
+          "themeHue": 144,
+          "title": "Stadiums",
+          "frequency": 0.85
+        }
+      ]
+    },
+    {
+      "difficultyCounts": {
+        "easy": 157,
+        "normal": 393,
+        "hard": 955
+      },
+      "id": "all-business",
+      "minScore": 1000,
+      "slug": "business",
+      "themeHue": 324,
+      "title": "Business",
+      "frequency": 0.5,
+      "children": [
+        {
+          "difficultyCounts": {
+            "easy": 113,
+            "normal": 217,
+            "hard": 255
+          },
+          "id": "all-business-companies",
+          "minScore": 30,
+          "slug": "companies",
+          "themeHue": 324,
+          "title": "Companies",
+          "frequency": 1
+        },
+        {
+          "difficultyCounts": {
+            "easy": 42,
+            "normal": 142,
+            "hard": 442
+          },
+          "id": "all-business-food-drink",
+          "minScore": 5,
+          "slug": "food-drink",
+          "themeHue": 324,
+          "title": "Food & Drink",
+          "frequency": 0.8
+        },
+        {
+          "difficultyCounts": {
+            "easy": 32,
+            "normal": 83,
+            "hard": 312
+          },
+          "id": "all-business-media",
+          "minScore": 0,
+          "slug": "media",
+          "themeHue": 324,
+          "title": "Media",
+          "frequency": 0.7
+        }
+      ]
+    }
+  ]
+}

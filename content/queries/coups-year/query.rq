@@ -1,0 +1,18 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* ?class;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  ?class rdfs:label "coup d'état"@en.
+  FILTER(REGEX(LCASE(STR(?itemLabel)), "coup|putsch"))
+
+  OPTIONAL { ?item wdt:P585 ?pointInTime. }
+  OPTIONAL { ?item wdt:P580 ?startDate. }
+  BIND(COALESCE(?pointInTime, ?startDate) AS ?date)
+  FILTER(BOUND(?date))
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

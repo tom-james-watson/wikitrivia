@@ -1,0 +1,858 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q79037",
+    "itemLabel": "Spider-Man",
+    "description": "fictional character in Marvel Comics",
+    "year": "1962",
+    "workLabel": "Amazing Fantasy #15",
+    "sitelinks": "126"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2695156",
+    "itemLabel": "Batman",
+    "description": "fictional character in DC Comics",
+    "year": "1939",
+    "workLabel": "Detective Comics #27",
+    "sitelinks": "114"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79015",
+    "itemLabel": "Superman",
+    "description": "superhero appearing in DC Comics publications",
+    "year": "1938",
+    "workLabel": "Action Comics #1",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6550",
+    "itemLabel": "Donald Duck",
+    "description": "Disney cartoon character",
+    "year": "1934",
+    "workLabel": "The Wise Little Hen",
+    "sitelinks": "106"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12379",
+    "itemLabel": "Mario",
+    "description": "fictional character in the Mario video game franchise",
+    "year": "1981",
+    "workLabel": "Donkey Kong",
+    "sitelinks": "96"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188760",
+    "itemLabel": "Hulk",
+    "description": "fictional character in Marvel Comics",
+    "year": "1962",
+    "workLabel": "Incredible Hulk #1",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7810",
+    "itemLabel": "Homer Simpson",
+    "description": "character from The Simpsons franchise",
+    "year": "1987",
+    "workLabel": "Good Night",
+    "sitelinks": "89"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12206942",
+    "itemLabel": "Darth Vader",
+    "description": "main villain of the Star Wars Trilogy",
+    "year": "1976",
+    "workLabel": "Star Wars: From the Adventures of Luke Skywalker",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q712548",
+    "itemLabel": "Albus Dumbledore",
+    "description": "fictional character from Harry Potter",
+    "year": "1997",
+    "workLabel": "Harry Potter and the Philosopher's Stone",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9351",
+    "itemLabel": "Pikachu",
+    "description": "Pokémon species, mascot of the Pokémon franchise",
+    "year": "1996",
+    "workLabel": "first generation of Pokémon",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190679",
+    "itemLabel": "Captain America",
+    "description": "fictional character in Marvel Comics",
+    "year": "1940",
+    "workLabel": "Captain America Comics #1",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170241",
+    "itemLabel": "Tarzan",
+    "description": "fictional character by Edgar Rice Burroughs",
+    "year": "1914",
+    "workLabel": "The All-Story",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107190",
+    "itemLabel": "Peter Pan",
+    "description": "fictional character created by J. M. Barrie",
+    "year": "1902",
+    "workLabel": "The Little White Bird",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q176772",
+    "itemLabel": "Severus Snape",
+    "description": "fictional character in the Harry Potter series",
+    "year": "1997",
+    "workLabel": "Harry Potter and the Philosopher's Stone",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51730",
+    "itemLabel": "Yoda",
+    "description": "fictional character in the Star Wars universe",
+    "year": "1980",
+    "workLabel": "Star Wars: Episode V – The Empire Strikes Back",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5480",
+    "itemLabel": "Bart Simpson",
+    "description": "fictional character from The Simpsons",
+    "year": "1987",
+    "workLabel": "Good Night",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199796",
+    "itemLabel": "Popeye",
+    "description": "cartoon fictional character",
+    "year": "1919",
+    "workLabel": "Popeye",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51746",
+    "itemLabel": "Luke Skywalker",
+    "description": "fictional character from Star Wars",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6668",
+    "itemLabel": "Pippi Longstocking",
+    "description": "fictional character created by Astrid Lindgren",
+    "year": "1945",
+    "workLabel": "Pippi Longstocking",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51740",
+    "itemLabel": "Obi-Wan Kenobi",
+    "description": "fictional character in the Star Wars universe",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111135",
+    "itemLabel": "Goofy",
+    "description": "Disney cartoon character",
+    "year": "1932",
+    "workLabel": "Mickey's Revue",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187349",
+    "itemLabel": "Dr. Watson",
+    "description": "fictional character of Sherlock Holmes",
+    "year": "1887",
+    "workLabel": "A Study in Scarlet",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51797",
+    "itemLabel": "Princess Leia",
+    "description": "fictional character from Star Wars",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7828",
+    "itemLabel": "Marge Simpson",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1987",
+    "workLabel": "Good Night",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12038",
+    "itemLabel": "Cthulhu",
+    "description": "fictional cosmic entity",
+    "year": "1928",
+    "workLabel": "The Call of Cthulhu",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5846",
+    "itemLabel": "Lisa Simpson",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1987",
+    "workLabel": "Good Night",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11937",
+    "itemLabel": "Scrooge McDuck",
+    "description": "Disney character, uncle of Donald Duck",
+    "year": "1947",
+    "workLabel": "Christmas on Bear Mountain",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q715763",
+    "itemLabel": "Daisy Duck",
+    "description": "Disney cartoon character",
+    "year": "1940",
+    "workLabel": "Mr. Duck Steps Out",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q180322",
+    "itemLabel": "Aragorn",
+    "description": "fictional character from J.R.R. Tolkien's legendarium",
+    "year": "1954",
+    "workLabel": "The Fellowship of the Ring",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51802",
+    "itemLabel": "Han Solo",
+    "description": "fictional character from Star Wars",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q319918",
+    "itemLabel": "Daffy Duck",
+    "description": "fictional Warner Bros. character",
+    "year": "1937",
+    "workLabel": "Porky's Duck Hunt",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210593",
+    "itemLabel": "Luigi",
+    "description": "fictional video game character from the Mario franchise",
+    "year": "1983",
+    "workLabel": "Game & Watch: Mario Bros.",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51770",
+    "itemLabel": "Palpatine",
+    "description": "character in Star Wars",
+    "year": "1980",
+    "workLabel": "Star Wars: Episode V – The Empire Strikes Back",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7834",
+    "itemLabel": "Margaret Simpson",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1987",
+    "workLabel": "Good Night",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46302",
+    "itemLabel": "Smaug",
+    "description": "fictional dragon",
+    "year": "1937",
+    "workLabel": "The Hobbit",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51787",
+    "itemLabel": "C-3PO",
+    "description": "robot character from the Star Wars universe",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q623059",
+    "itemLabel": "Aquaman",
+    "description": "comic book superhero",
+    "year": "1935",
+    "workLabel": "More Fun Comics",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51803",
+    "itemLabel": "Chewbacca",
+    "description": "fictional character from Star Wars",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q583810",
+    "itemLabel": "Betty Boop",
+    "description": "animated cartoon character",
+    "year": "1930",
+    "workLabel": "Dizzy Dishes",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q849477",
+    "itemLabel": "Harley Quinn",
+    "description": "fictional character in DC Comics",
+    "year": "1992",
+    "workLabel": "Joker's Favor",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q838076",
+    "itemLabel": "Professor X",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "X-Men #1",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q226822",
+    "itemLabel": "Zorro",
+    "description": "fictional character",
+    "year": "1919",
+    "workLabel": "The Curse of Capistrano",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51788",
+    "itemLabel": "R2-D2",
+    "description": "fictional character from Star Wars",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q845864",
+    "itemLabel": "Bowser",
+    "description": "fictional character from the Mario franchise",
+    "year": "1985",
+    "workLabel": "Super Mario Bros.",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q935079",
+    "itemLabel": "SpongeBob SquarePants",
+    "description": "main character from the animated television show SpongeBob SquarePants",
+    "year": "1999",
+    "workLabel": "Help Wanted",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q715597",
+    "itemLabel": "Obelix",
+    "description": "cartoon character in the French comic book series Asterix",
+    "year": "1961",
+    "workLabel": "Asterix the Gaul",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161731",
+    "itemLabel": "Cheburashka",
+    "description": "Russian fictional and animated character",
+    "year": "1966",
+    "workLabel": "Crocodile Gena and His Friends",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q929285",
+    "itemLabel": "Scarlet Witch",
+    "description": "fictional character in Marvel Comics",
+    "year": "1964",
+    "workLabel": "X-Men #4",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q283111",
+    "itemLabel": "Professor Moriarty",
+    "description": "fictional character from Sherlock Holmes",
+    "year": "1893",
+    "workLabel": "The Final Problem",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5350072",
+    "itemLabel": "Jean Grey",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "X-Men #1",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q729150",
+    "itemLabel": "Punisher",
+    "description": "fictional character in Marvel Comics",
+    "year": "1974",
+    "workLabel": "The Amazing Spider-Man #129",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51766",
+    "itemLabel": "Darth Maul",
+    "description": "fictional character from the Star Wars universe",
+    "year": "1999",
+    "workLabel": "Star Wars: Episode I – The Phantom Menace",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q837716",
+    "itemLabel": "Ronald McDonald",
+    "description": "clown mascot of McDonald's restaurant chain",
+    "year": "1963",
+    "workLabel": "1963 Ronald McDonald commercial",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q842945",
+    "itemLabel": "Gregory House",
+    "description": "protagonist of the American television series House",
+    "year": "2004",
+    "workLabel": "Pilot",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51727",
+    "itemLabel": "Count Dooku",
+    "description": "fictional character in the Star Wars universe",
+    "year": "2002",
+    "workLabel": "Star Wars: Episode II – Attack of the Clones",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q430178",
+    "itemLabel": "Doctor Doom",
+    "description": "fictional character in Marvel Comics",
+    "year": "1962",
+    "workLabel": "Fantastic Four #5",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1077456",
+    "itemLabel": "Patrick Star",
+    "description": "main character in SpongeBob SquarePants",
+    "year": "1999",
+    "workLabel": "Help Wanted",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q716636",
+    "itemLabel": "Mr. Burns",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1989",
+    "workLabel": "Simpsons Roasting on an Open Fire",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q951317",
+    "itemLabel": "John Rambo",
+    "description": "fictional character in the Rambo franchise",
+    "year": "1972",
+    "workLabel": "First Blood",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q937186",
+    "itemLabel": "Porky Pig",
+    "description": "Warner Bros. cartoon character",
+    "year": "1935",
+    "workLabel": "I Haven't Got a Hat",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1064404",
+    "itemLabel": "Squidward Tentacles",
+    "description": "major character in SpongeBob SquarePants",
+    "year": "1999",
+    "workLabel": "Help Wanted",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51790",
+    "itemLabel": "Boba Fett",
+    "description": "fictional character in Star Wars",
+    "year": "1978",
+    "workLabel": "The Star Wars Holiday Special",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51755",
+    "itemLabel": "Ahsoka Tano",
+    "description": "fictional character from Star Wars",
+    "year": "2008",
+    "workLabel": "Star Wars: The Clone Wars",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q741321",
+    "itemLabel": "Woody Woodpecker",
+    "description": "fictional bird",
+    "year": "1940",
+    "workLabel": "Knock Knock",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q840291",
+    "itemLabel": "Magneto",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "X-Men #1",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47345",
+    "itemLabel": "Kyle Broflovski",
+    "description": "fictional character in South Park",
+    "year": "1997",
+    "workLabel": "Cartman Gets an Anal Probe",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28465",
+    "itemLabel": "Peter Griffin",
+    "description": "fictional character from the Family Guy franchise",
+    "year": "1999",
+    "workLabel": "Death Has a Shadow",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q623553",
+    "itemLabel": "Tweety",
+    "description": "Warner Bros. theatrical cartoon character",
+    "year": "1942",
+    "workLabel": "A Tale of Two Kitties",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q534153",
+    "itemLabel": "Captain Marvel",
+    "description": "fictional character in DC Comics",
+    "year": "1940",
+    "workLabel": "Whiz Comics",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q842104",
+    "itemLabel": "Grampa Simpson",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1988",
+    "workLabel": "Grandpa and the Kids",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1046049",
+    "itemLabel": "Captain Nemo",
+    "description": "fictional character created by Jules Verne",
+    "year": "1869",
+    "workLabel": "Twenty Thousand Leagues Under the Sea",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51792",
+    "itemLabel": "General Grievous",
+    "description": "fictional cyborg in the Star Wars universe",
+    "year": "2004",
+    "workLabel": "Chapter 20",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q578094",
+    "itemLabel": "Doctor Octopus",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "The Amazing Spider-Man #3",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q844940",
+    "itemLabel": "Charizard",
+    "description": "Pokémon species",
+    "year": "1996",
+    "workLabel": "first generation of Pokémon",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q975100",
+    "itemLabel": "Nick Fury",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "Sgt. Fury and his Howling Commandos #1",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23554",
+    "itemLabel": "Walter White",
+    "description": "fictional character in the television drama series Breaking Bad",
+    "year": "2008",
+    "workLabel": "Pilot",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1779558",
+    "itemLabel": "Irene Adler",
+    "description": "fictional character in the Sherlock Holmes stories",
+    "year": "1892",
+    "workLabel": "A Scandal in Bohemia",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1189756",
+    "itemLabel": "Sandy Cheeks",
+    "description": "fictional character from the animated television show SpongeBob SquarePants",
+    "year": "1999",
+    "workLabel": "Tea at the Treedome",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51793",
+    "itemLabel": "Jar Jar Binks",
+    "description": "fictional character from the Star Wars universe",
+    "year": "1999",
+    "workLabel": "Star Wars: Episode I – The Phantom Menace",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51794",
+    "itemLabel": "Jabba the Hutt",
+    "description": "fictional character in Star Wars",
+    "year": "1977",
+    "workLabel": "Star Wars: Episode IV – A New Hope",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q632212",
+    "itemLabel": "Storm",
+    "description": "fictional character in Marvel Comics",
+    "year": "1975",
+    "workLabel": "Giant-Size X-Men #1",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7620503",
+    "itemLabel": "Asterix",
+    "description": "fictional character and the titular hero of the French comic book series Asterix",
+    "year": "1961",
+    "workLabel": "Asterix the Gaul",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1640011",
+    "itemLabel": "Aang",
+    "description": "title character of Avatar: The Last Airbender",
+    "year": "2005",
+    "workLabel": "The Boy in the Iceberg",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51799",
+    "itemLabel": "Lando Calrissian",
+    "description": "fictional character in the Star Wars universe",
+    "year": "1980",
+    "workLabel": "Star Wars: Episode V – The Empire Strikes Back",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q646166",
+    "itemLabel": "Moe Szyslak",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1989",
+    "workLabel": "Simpsons Roasting on an Open Fire",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q584585",
+    "itemLabel": "Human Torch",
+    "description": "fictional character in Marvel Comics",
+    "year": "1961",
+    "workLabel": "Fantastic Four #1",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q857921",
+    "itemLabel": "Cyclops",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "X-Men #1",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q302186",
+    "itemLabel": "Beast",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "X-Men #1",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1753322",
+    "itemLabel": "Kingpin",
+    "description": "fictional character in Marvel Comics",
+    "year": "1967",
+    "workLabel": "The Amazing Spider-Man #50",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19382",
+    "itemLabel": "Lizard",
+    "description": "fictional character in Marvel Comics",
+    "year": "1963",
+    "workLabel": "The Amazing Spider-Man #6",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q912984",
+    "itemLabel": "Speedy Gonzales",
+    "description": "fictional cartoon mouse",
+    "year": "1953",
+    "workLabel": "Cat-Tails for Two",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q901323",
+    "itemLabel": "Scooby-Doo",
+    "description": "animated television character",
+    "year": "1969",
+    "workLabel": "What a Night for a Knight",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q929273",
+    "itemLabel": "Quicksilver",
+    "description": "fictional character in Marvel Comics",
+    "year": "1964",
+    "workLabel": "X-Men #4",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1986193",
+    "itemLabel": "Buzz Lightyear",
+    "description": "fictional Toy Story character",
+    "year": "1995",
+    "workLabel": "Toy Story",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1136987",
+    "itemLabel": "Shadow the Hedgehog",
+    "description": "fictional character from the Sonic franchise",
+    "year": "2001",
+    "workLabel": "Sonic Adventure 2",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1649583",
+    "itemLabel": "Simba",
+    "description": "protagonist of The Lion King",
+    "year": "1994",
+    "workLabel": "The Lion King",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1193472",
+    "itemLabel": "Mr. Krabs",
+    "description": "main character in SpongeBob SquarePants",
+    "year": "1999",
+    "workLabel": "Help Wanted",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1158157",
+    "itemLabel": "Ned Flanders",
+    "description": "fictional character from The Simpsons franchise",
+    "year": "1989",
+    "workLabel": "Simpsons Roasting on an Open Fire",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27810",
+    "itemLabel": "Mary Jane Watson",
+    "description": "fictional character in Marvel Comics",
+    "year": "1965",
+    "workLabel": "The Amazing Spider-Man #25",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q865017",
+    "itemLabel": "Mister Fantastic",
+    "description": "fictional character in Marvel Comics",
+    "year": "1961",
+    "workLabel": "Fantastic Four #1",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q771213",
+    "itemLabel": "Anne Shirley",
+    "description": "fictional girl and woman, protagonist of the eponymous series, introduced 1908",
+    "year": "1908",
+    "workLabel": "Anne of Green Gables",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q837909",
+    "itemLabel": "Stewie Griffin",
+    "description": "fictional character from the Family Guy franchise",
+    "year": "1999",
+    "workLabel": "Death Has a Shadow",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1408697",
+    "itemLabel": "Apu Nahasapeemapetilon",
+    "description": "character from The Simpsons",
+    "year": "1990",
+    "workLabel": "The Telltale Head",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q510450",
+    "itemLabel": "Invisible Woman",
+    "description": "fictional character in Marvel Comics",
+    "year": "1961",
+    "workLabel": "Fantastic Four #1",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q844904",
+    "itemLabel": "Elmer Fudd",
+    "description": "Warner Bros. cartoon character",
+    "year": "1937",
+    "workLabel": "Egghead Rides Again",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2141803",
+    "itemLabel": "Mewtwo",
+    "description": "Pokémon species",
+    "year": "1996",
+    "workLabel": "first generation of Pokémon",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5342183",
+    "itemLabel": "Nightcrawler",
+    "description": "fictional character in Marvel Comics",
+    "year": "1975",
+    "workLabel": "Giant-Size X-Men #1",
+    "sitelinks": "30"
+  }
+]

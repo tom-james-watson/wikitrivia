@@ -1,7 +1,10 @@
+const { createVanillaExtractPlugin } = require("@vanilla-extract/next-plugin");
+
 /**
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  allowedDevOrigins: ["127.0.0.1"],
   output: "export",
 
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
@@ -14,4 +17,10 @@ const nextConfig = {
   // distDir: 'dist',
 };
 
-module.exports = nextConfig;
+const withVanillaExtract = createVanillaExtractPlugin({
+  unstable_turbopack: {
+    mode: "auto",
+  },
+});
+
+module.exports = withVanillaExtract(nextConfig);

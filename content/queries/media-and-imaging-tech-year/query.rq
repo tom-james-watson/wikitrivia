@@ -1,0 +1,38 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?inventorName) AS ?inventorLabel) ?sitelinks WHERE {
+  VALUES ?itemLabel { # hand-picked labels for this pack
+    "photography"@en
+    "daguerreotype process"@en
+    "still camera"@en
+    "movie camera"@en
+    "phonograph"@en
+    "phonograph record"@en
+    "gramophone"@en
+    "wire recorder"@en
+  }
+
+  ?item
+    rdfs:label ?itemLabel;
+    wdt:P61 ?inventor;
+    wikibase:sitelinks ?sitelinks. # use sitelinks as a rough popularity signal
+
+  ?inventor wdt:P31 wd:Q5. # only keep people
+
+  OPTIONAL {
+    ?item wdt:P575 ?datedAt.
+  }
+  OPTIONAL {
+    ?item wdt:P571 ?inception.
+  }
+  OPTIONAL {
+    ?inventor rdfs:label ?inventorName.
+    FILTER(LANG(?inventorName) = "en")
+  }
+
+  BIND(COALESCE(?datedAt, ?inception) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+
+

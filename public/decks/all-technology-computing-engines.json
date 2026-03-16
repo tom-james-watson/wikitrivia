@@ -1,0 +1,82 @@
+[
+  {
+    "qid": "Q16972633",
+    "title": "‘Godot’ is released",
+    "subtitle": "Game engine by Juan Linietsky",
+    "year": 2014,
+    "fact": "Godot is an open source game engine released under the MIT License.",
+    "wikipediaSlug": "Godot_(game_engine)",
+    "image": "Godot_4.6.png",
+    "pageViews": 34624
+  },
+  {
+    "qid": "Q94277753",
+    "title": "‘Unreal Engine 5’ is released",
+    "subtitle": "Game engine by Epic Games",
+    "year": 2022,
+    "fact": "Unreal Engine 5 (UE5) is the latest iteration of Unreal Engine, developed by Epic Games.",
+    "wikipediaSlug": "Unreal_Engine_5",
+    "image": "Unreal_Engine_Logo_(new_typeface).svg",
+    "pageViews": 26835
+  },
+  {
+    "qid": "Q13156652",
+    "title": "‘Unreal Engine 4’ is released",
+    "subtitle": "Game engine by Epic Games",
+    "year": 2012,
+    "fact": "Unreal Engine 4 (UE4) is the fourth version of Unreal Engine developed by Epic Games.",
+    "wikipediaSlug": "Unreal_Engine_4",
+    "image": "Unreal_Engine_Logo.svg",
+    "pageViews": 12452
+  },
+  {
+    "qid": "Q27954518",
+    "title": "‘Decima’ is released",
+    "subtitle": "Game engine by Guerrilla Games",
+    "year": 2013,
+    "fact": "Decima is a proprietary game engine made by Guerrilla Games and released in November 2013, that includes tools and features like artificial intelligence and game physics.",
+    "wikipediaSlug": "Decima_(game_engine)",
+    "image": "Horizon_Zero_Dawn_gameplay.jpg",
+    "pageViews": 12309
+  },
+  {
+    "qid": "Q870033",
+    "title": "‘CryEngine’ is released",
+    "subtitle": "Game engine by Crytek",
+    "year": 2002,
+    "fact": "CryEngine is a game engine designed by the German game developer Crytek.",
+    "wikipediaSlug": "CryEngine",
+    "image": "CryEngine_Nex-Gen(4th_Generation).png",
+    "pageViews": 8615
+  },
+  {
+    "qid": "Q13156651",
+    "title": "‘Unreal Engine 3’ is released",
+    "subtitle": "Game engine by Epic Games",
+    "year": 2005,
+    "fact": "Unreal Engine 3 (UE3) is the third version of Unreal Engine developed by Epic Games.",
+    "wikipediaSlug": "Unreal_Engine_3",
+    "image": "Unreal_Engine_3_Logo.jpg",
+    "pageViews": 7480
+  },
+  {
+    "qid": "Q28456260",
+    "title": "‘PICO-8’ is released",
+    "subtitle": "Game engine",
+    "year": 2015,
+    "fact": "PICO-8 is a virtual machine and game engine created by Lexaloffle Games.",
+    "wikipediaSlug": "PICO-8",
+    "image": "Pico-8-boot.gif",
+    "pageViews": 6744
+  },
+  {
+    "qid": "Q89114416",
+    "title": "‘Luanti’ is released",
+    "subtitle": "Game engine by Perttu Ahola",
+    "year": 2010,
+    "fact": "Luanti is a community-driven, free and open-source voxel game engine, available on various platforms.",
+    "wikipediaSlug": "Luanti",
+    "image": "Minetest_logo.svg",
+    "pageViews": 4898
+  }
+]

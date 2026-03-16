@@ -1,0 +1,17 @@
+SELECT ?item ?itemLabel ?description (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31 wd:Q5398426; # instance of "television series"
+    wdt:P580 ?date; # use the start date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  OPTIONAL {
+    ?item schema:description ?description.
+    FILTER(LANG(?description) = "en")
+  }
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?description ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

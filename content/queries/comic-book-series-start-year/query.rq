@@ -1,0 +1,23 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?descriptionText) AS ?description) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q14406742; # instance of or subclass of "comic book series"
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionText.
+    FILTER(LANG(?descriptionText) = "en")
+  }
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. }
+  OPTIONAL { ?item wdt:P577 ?publicationDate. }
+  OPTIONAL { ?item wdt:P580 ?startTime. }
+  FILTER NOT EXISTS { ?item wdt:P179 ?parentSeries. } # exclude individual volumes/issues that belong to a larger series
+  BIND(COALESCE(?inceptionDate, ?publicationDate, ?startTime) AS ?date)
+  FILTER(BOUND(?date))
+  FILTER(YEAR(?date) > 1000)
+  FILTER(?sitelinks >= 25)
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

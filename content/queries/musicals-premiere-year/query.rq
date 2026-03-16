@@ -1,0 +1,21 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?composerName) AS ?authorLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q58483083; # instance of or subclass of "dramatico-musical work"
+    wdt:P1191 ?date;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item wdt:P86 ?composer.
+    ?composer rdfs:label ?composerName.
+    FILTER(LANG(?composerName) = "en")
+  }
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+  FILTER(?yearValue >= 1950)
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000
+
+

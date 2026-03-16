@@ -1,0 +1,17 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31 ?class;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  ?class rdfs:label "art movement"@en.
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. } # fallback date if there is no better one
+  OPTIONAL { ?item wdt:P580 ?startDate. }
+  BIND(COALESCE(?inceptionDate, ?startDate) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 40) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

@@ -1,47 +1,67 @@
-# Wiki Trivia
+# Wikitrivia
 
-This is the source code for the web app at https://wikitrivia.tomjwatson.com.
+Wikitrivia is a year-based timeline trivia game built from Wikimedia data.
 
-The repository for the scraper can be found [here](https://github.com/tom-james-watson/wikitrivia-scraper).
+The live app is at [wikitrivia.tomjwatson.com](https://wikitrivia.tomjwatson.com).
 
-## Usage
+## Setup
 
-### Prerequisites
-
-```bash
-npm install
-```
-
-### Development
+Install dependencies with Bun:
 
 ```bash
-npm run dev
+bun install
 ```
 
-Then visit http://localhost:3000/ to preview the website.
-
-### Static build
-
-To build a static version of the website to the `out` folder, run:
+Create a local env file before running scripts that contact Wikimedia APIs:
 
 ```bash
-npm run build
+cp .env.example .env
 ```
 
-Then run said build with:
+Then edit `.env` and set `WIKITRIVIA_CONTACT_EMAIL` to your email address. This will be used in API requests to identify yourself to Wikimedia.
+
+## Development
+
+Run the app locally:
 
 ```bash
-npm start
+bun run dev
 ```
+
+Then visit [localhost:3000](http://localhost:3000).
+
+Build the static site:
+
+```bash
+bun run build
+```
+
+Serve the built `out/` directory:
+
+```bash
+bun run start
+```
+
+Useful checks:
+
+```bash
+bun run typecheck
+bun run lint
+bun run format:check
+```
+
+## Content
+
+Game content comes from Wikidata Query Service snapshots in `content/queries/` and is built into deck JSON under `public/decks/`.
+
+For the content tooling, see [content/README.md](content/README.md).
 
 ## FAQ
 
 ### Where does the data come from?
 
-The data is all sourced from [wikidata](https://www.wikidata.org).
+The data is sourced from [Wikidata](https://www.wikidata.org) and [Wikipedia](https://wikipedia.org).
 
-### I was played a card that doesn't make sense - what gives?
+### I found a card with incorrect data. What should I do?
 
-There are some cards that unfortunately don't quite make sense or have bad data. These need to be removed from the game and, ideally, to have their underlying wikidata entry fixed.
-
-Please report any bad cards here: https://github.com/tom-james-watson/wikitrivia/discussions/2.
+If the underlying Wikidata item is wrong, fix it directly on Wikidata. It will then get synced back into the game the next time the decks are updated.

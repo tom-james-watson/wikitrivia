@@ -1,0 +1,19 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?authorName) AS ?authorLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q1004; # instance of or subclass of "comics"
+    wdt:P577 ?date; # use the publication / release date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item wdt:P50 ?author.
+    ?author rdfs:label ?authorName.
+    FILTER(LANG(?authorName) = "en")
+  }
+  FILTER(?sitelinks >= 25) # cut off obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000
+

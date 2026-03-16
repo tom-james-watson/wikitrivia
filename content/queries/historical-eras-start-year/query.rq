@@ -1,0 +1,43 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  VALUES ?item {
+    wd:Q45805  # Jurassic
+    wd:Q44626  # Cretaceous
+    wd:Q44155  # Mesolithic
+    wd:Q36422  # Neolithic
+    wd:Q11761  # Bronze Age
+    wd:Q11764  # Iron Age
+    wd:Q5128255  # Classical Antiquity
+    wd:Q131192  # Migration Period
+    wd:Q12554  # Middle Ages
+    wd:Q202763  # Early Middle Ages
+    wd:Q212685  # High Middle Ages
+    wd:Q212976  # Late Middle Ages
+    wd:Q4692  # Renaissance
+    wd:Q5308718  # early modern period
+    wd:Q12539  # Age of Enlightenment
+    wd:Q133641  # Age of Discovery
+    wd:Q2269  # Industrial Revolution
+    wd:Q1753636  # Gilded Age
+    wd:Q182688  # Victorian era
+    wd:Q466887  # Belle Époque
+    wd:Q2635158  # Progressive Era
+    wd:Q154611  # interwar period
+    wd:Q362  # World War II
+    wd:Q8683  # Cold War
+    wd:Q938328  # Space Age
+    wd:Q956129  # Information Age
+  }
+
+  ?item
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+
+  OPTIONAL { ?item wdt:P580 ?startDate. }
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. }
+  BIND(COALESCE(?startDate, ?inceptionDate) AS ?date)
+  FILTER(BOUND(?date))
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY ?year

@@ -1,0 +1,34 @@
+SELECT ?item ?itemLabel ?year ?authorLabel ?sitelinks WHERE {
+  {
+    SELECT ?item (MIN(?yearValue) AS ?year) (SAMPLE(?author) AS ?author) ?sitelinks WHERE {
+      ?item
+        wdt:P31 ?class;
+        wdt:P50 ?author; # require an author
+        wikibase:sitelinks ?sitelinks. # use sitelinks as a rough popularity signal
+      ?class wdt:P279* wd:Q116476516. # keep rows whose class lands under "dramatic work"
+      MINUS { # exclude classes that make this pack noisy
+        ?class wdt:P279* wd:Q58483083. # "dramatico-musical work"
+      }
+      MINUS { # exclude classes that make this pack noisy
+        ?class wdt:P279* wd:Q7777570. # "theatrical production"
+      }
+      OPTIONAL { ?item wdt:P1191 ?premiereDate. }
+      OPTIONAL { ?item wdt:P577 ?publicationDate. } # first-choice date for publication / release
+      BIND(COALESCE(?premiereDate, ?publicationDate) AS ?date) # take the first date that exists
+      FILTER(BOUND(?date)) # skip rows with no usable date
+      BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+      FILTER(?yearValue != 0)
+      FILTER(?sitelinks >= 20) # cut off very obscure entries
+    }
+    GROUP BY ?item ?sitelinks
+    ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+    LIMIT 2000
+  }
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en".
+    ?item rdfs:label ?itemLabel.
+    ?author rdfs:label ?authorLabel.
+  }
+}
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000

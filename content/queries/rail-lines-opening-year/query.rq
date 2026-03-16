@@ -1,0 +1,35 @@
+SELECT
+  ?item
+  ?itemLabel
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?adminName) AS ?adminLabel)
+  (SAMPLE(?countryName) AS ?countryLabel)
+  ?sitelinks
+WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q728937; # railway line
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+
+  OPTIONAL { ?item wdt:P1619 ?openingDate. }
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. }
+  OPTIONAL { ?item wdt:P729 ?serviceDate. }
+  BIND(COALESCE(?openingDate, ?inceptionDate, ?serviceDate) AS ?date)
+  FILTER(BOUND(?date))
+
+  OPTIONAL {
+    ?item wdt:P131 ?admin.
+    ?admin rdfs:label ?adminName.
+    FILTER(LANG(?adminName) = "en")
+  }
+  ?item (wdt:P17|wdt:P131/wdt:P17) ?country.
+  ?country rdfs:label ?countryName.
+  FILTER(LANG(?countryName) = "en")
+  FILTER(?sitelinks >= 20)
+
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 250

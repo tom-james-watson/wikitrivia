@@ -1,0 +1,25 @@
+SELECT ?item ?itemLabel ?description (MIN(?yearValue) AS ?year) (SAMPLE(?workName) AS ?workLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q95074; # instance of or subclass of "character"
+    wdt:P4584 ?work;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?description.
+    FILTER(LANG(?description) = "en")
+  }
+  OPTIONAL { ?work wdt:P577 ?publicationDate. }
+  OPTIONAL { ?work wdt:P571 ?inceptionDate. }
+  BIND(COALESCE(?publicationDate, ?inceptionDate) AS ?date) # take the first date that exists
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  ?work rdfs:label ?workName.
+  FILTER(LANG(?workName) = "en")
+  FILTER(?sitelinks >= 30) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+  FILTER(?yearValue >= 1850)
+}
+GROUP BY ?item ?itemLabel ?description ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000
+

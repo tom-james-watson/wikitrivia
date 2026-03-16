@@ -1,0 +1,20 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?developerName) AS ?developerLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q9135; # instance of or subclass of "operating system"
+    wdt:P577 ?date; # use the publication / release date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item wdt:P178 ?developer.
+    ?developer rdfs:label ?developerName.
+    FILTER(LANG(?developerName) = "en")
+  }
+  FILTER(?sitelinks >= 20) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

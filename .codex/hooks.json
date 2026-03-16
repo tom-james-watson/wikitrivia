@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bun run agent:check 1>&2",
+            "statusMessage": "Running code checks for agent"
+          }
+        ]
+      }
+    ],
+    "SubagentStop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bun run agent:check 1>&2",
+            "statusMessage": "Running code checks for agent"
+          }
+        ]
+      }
+    ]
+  }
+}

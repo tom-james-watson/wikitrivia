@@ -1,0 +1,27 @@
+SELECT ?item ?itemLabel (SAMPLE(?descriptionText) AS ?description) (MIN(?yearValue) AS ?year) (SAMPLE(?manufacturerName) AS ?manufacturerLabel) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q100710213; # instance of or subclass of "combat vehicle model"
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  OPTIONAL {
+    ?item schema:description ?descriptionText.
+    FILTER(LANG(?descriptionText) = "en")
+  }
+  OPTIONAL { ?item wdt:P729 ?serviceDate. } # prefer service entry if Wikidata has it
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. } # fallback date if there is no better one
+  BIND(COALESCE(?serviceDate, ?inceptionDate) AS ?date) # take the first date that exists
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(BOUND(?date)) # skip rows with no usable date
+  OPTIONAL {
+    ?item wdt:P176 ?manufacturer.
+    ?manufacturer rdfs:label ?manufacturerName.
+    FILTER(LANG(?manufacturerName) = "en")
+  }
+  FILTER(?sitelinks >= 5) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500
+
+

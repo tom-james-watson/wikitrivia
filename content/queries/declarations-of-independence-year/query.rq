@@ -1,0 +1,18 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* ?class;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  ?class rdfs:label "declaration of independence"@en.
+
+  OPTIONAL { ?item wdt:P571 ?inceptionDate. }
+  OPTIONAL { ?item wdt:P577 ?publicationDate. }
+  OPTIONAL { ?item wdt:P585 ?pointInTime. }
+  BIND(COALESCE(?pointInTime, ?inceptionDate, ?publicationDate) AS ?date)
+  FILTER(BOUND(?date))
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

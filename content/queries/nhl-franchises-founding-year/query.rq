@@ -1,0 +1,15 @@
+SELECT ?item ?itemLabel (MIN(YEAR(?date)) AS ?year) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q4498974; # instance of or subclass of "ice hockey team"
+    wdt:P118 wd:Q1215892; # only keep entries in "National Hockey League"
+    wdt:P571 ?date; # use inception as the date
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 10) # cut off very obscure entries
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 2000
+
+
