@@ -3,6 +3,7 @@ import { GameDifficulty } from "../types/game";
 import { GameMode, SelectionRoute } from "../types/routes";
 import { getSelectionRouteShareLabel } from "./categories";
 const PRODUCTION_ORIGIN = "https://wikitrivia.tomjwatson.com";
+const SHARE_BRAND_LABEL = "#wikitrivia";
 const SHARE_RESULT_CORRECT = "🟩";
 const SHARE_RESULT_INCORRECT = "🟥";
 
@@ -118,7 +119,9 @@ export function buildShareText(args: {
   const resultRow = buildResultRow(results);
 
   if (mode === "daily") {
-    const lines = [`Wikitrivia / Daily for ${formatShareDate(dateKey)}`];
+    const lines = [
+      `${SHARE_BRAND_LABEL} / Daily for ${formatShareDate(dateKey)}`,
+    ];
 
     if (resultRow) {
       lines.push("", resultRow);
@@ -128,7 +131,7 @@ export function buildShareText(args: {
     return lines.join("\n");
   }
 
-  const titleParts = ["Wikitrivia", "Free Play"];
+  const titleParts = [SHARE_BRAND_LABEL];
 
   if (selectionRoute) {
     titleParts.push(getSelectionRouteShareLabel(selectionRoute));

@@ -15,7 +15,7 @@ test("daily share text matches the new compact format", () => {
   assert.equal(
     shareText,
     [
-      "Wikitrivia / Daily for Mar 23 2026",
+      "#wikitrivia / Daily for Mar 23 2026",
       "",
       "🟩🟥🟩🟩🟩🟥🟩🟩",
       "",
@@ -45,7 +45,7 @@ test("free play share text includes category, difficulty, score, and best", () =
   assert.equal(
     shareText,
     [
-      "Wikitrivia / Free Play / History / Wars / Normal",
+      "#wikitrivia / History / Wars / Normal",
       "",
       "🟩🟥🟩🟩🟩🟥🟩🟩",
       "",
