@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 4229,
-    "normal": 8028,
-    "hard": 16910
+    "easy": 4233,
+    "normal": 8047,
+    "hard": 16949
   },
   "id": "all",
   "minScore": 1000,
@@ -13,8 +13,8 @@
     {
       "difficultyCounts": {
         "easy": 440,
-        "normal": 959,
-        "hard": 1701
+        "normal": 961,
+        "hard": 1706
       },
       "id": "all-history",
       "minScore": 1000,
@@ -26,8 +26,8 @@
         {
           "difficultyCounts": {
             "easy": 197,
-            "normal": 472,
-            "hard": 764
+            "normal": 474,
+            "hard": 769
           },
           "id": "all-history-nations",
           "minScore": 12,
@@ -121,9 +121,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 401,
-        "normal": 715,
-        "hard": 1660
+        "easy": 403,
+        "normal": 718,
+        "hard": 1663
       },
       "id": "all-leaders",
       "minScore": 1000,
@@ -134,9 +134,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 145,
-            "normal": 220,
-            "hard": 369
+            "easy": 147,
+            "normal": 223,
+            "hard": 372
           },
           "id": "all-leaders-politicians",
           "minScore": 1000,
@@ -227,9 +227,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 57,
-                "normal": 75,
-                "hard": 93
+                "easy": 59,
+                "normal": 78,
+                "hard": 96
               },
               "id": "all-leaders-politicians-americas",
               "minScore": 1000,
@@ -240,9 +240,9 @@
               "children": [
                 {
                   "difficultyCounts": {
-                    "easy": 43,
-                    "normal": 43,
-                    "hard": 43
+                    "easy": 45,
+                    "normal": 45,
+                    "hard": 45
                   },
                   "id": "all-leaders-politicians-americas-us",
                   "minScore": 0,
@@ -267,8 +267,8 @@
                 {
                   "difficultyCounts": {
                     "easy": 7,
-                    "normal": 12,
-                    "hard": 13
+                    "normal": 13,
+                    "hard": 14
                   },
                   "id": "all-leaders-politicians-americas-mexico",
                   "minScore": 50,
@@ -1461,9 +1461,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 1517,
-        "normal": 2563,
-        "hard": 4240
+        "easy": 1520,
+        "normal": 2578,
+        "hard": 4272
       },
       "id": "all-entertainment",
       "minScore": 1000,
@@ -1500,9 +1500,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 110,
-            "normal": 229,
-            "hard": 433
+            "easy": 113,
+            "normal": 244,
+            "hard": 463
           },
           "id": "all-entertainment-books",
           "minScore": 10,
@@ -1541,7 +1541,7 @@
           "difficultyCounts": {
             "easy": 16,
             "normal": 33,
-            "hard": 96
+            "hard": 97
           },
           "id": "all-entertainment-plays",
           "minScore": 20,
@@ -1596,7 +1596,7 @@
           "difficultyCounts": {
             "easy": 11,
             "normal": 30,
-            "hard": 108
+            "hard": 109
           },
           "id": "all-entertainment-songs",
           "minScore": 0,

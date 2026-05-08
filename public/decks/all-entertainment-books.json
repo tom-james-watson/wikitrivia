@@ -1,5 +1,15 @@
 [
   {
+    "qid": "Q106852836",
+    "title": "‘Project Hail Mary’ is published",
+    "subtitle": "Book by Andy Weir",
+    "year": 2021,
+    "fact": "Project Hail Mary is a 2021 hard science fiction novel by American writer Andy Weir.",
+    "wikipediaSlug": "Project_Hail_Mary",
+    "image": "Project_Hail_Mary,_First_Edition_Cover_(2021).jpg",
+    "pageViews": 1325071
+  },
+  {
     "qid": "Q191838",
     "title": "‘The Count of Monte Cristo’ is published",
     "subtitle": "Book by Alexandre Dumas",
@@ -118,6 +128,16 @@
     "wikipediaSlug": "Animal_Farm",
     "image": "Animal_Farm_-_1st_edition.jpg",
     "pageViews": 125835
+  },
+  {
+    "qid": "Q4509219",
+    "title": "‘Inferno’ is published",
+    "subtitle": "Book by Dante Alighieri",
+    "year": 1304,
+    "fact": "Inferno is the first part of the Italian writer Dante Alighieri's 14th-century narrative poem The Divine Comedy, followed by Purgatorio and Paradiso.",
+    "wikipediaSlug": "Inferno_(Dante)",
+    "image": "Inferno.jpg",
+    "pageViews": 123822
   },
   {
     "qid": "Q1541914",
@@ -260,6 +280,16 @@
     "pageViews": 86685
   },
   {
+    "qid": "Q17111624",
+    "title": "‘The Martian’ is published",
+    "subtitle": "Book by Andy Weir",
+    "year": 2011,
+    "fact": "The Martian is a 2011 science fiction debut novel written by Andy Weir.",
+    "wikipediaSlug": "The_Martian_(Weir_novel)",
+    "image": "The_Martian_(Weir_novel).jpg",
+    "pageViews": 82546
+  },
+  {
     "qid": "Q6511",
     "title": "‘Ulysses’ is published",
     "subtitle": "Book by James Joyce",
@@ -378,6 +408,16 @@
     "wikipediaSlug": "The_Seven_Dials_Mystery",
     "image": "The_Seven_Dials_Mystery_First_Edition_Cover_1929.jpg",
     "pageViews": 62869
+  },
+  {
+    "qid": "Q43361",
+    "title": "‘Harry Potter and the Philosopher's Stone’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 1997,
+    "fact": "Harry Potter and the Philosopher's Stone is a fantasy novel by British author J.",
+    "wikipediaSlug": "Harry_Potter_and_the_Philosopher%27s_Stone",
+    "image": "Harry_Potter_and_the_Philosopher's_Stone_Book_Cover.jpg",
+    "pageViews": 60522
   },
   {
     "qid": "Q70784",
@@ -1070,16 +1110,6 @@
     "pageViews": 25472
   },
   {
-    "qid": "Q3906523",
-    "title": "‘Ready Player One’ is published",
-    "subtitle": "Book by Ernest Cline",
-    "year": 2011,
-    "fact": "Ready Player One is a 2011 science fiction novel, and the debut novel of American author Ernest Cline.",
-    "wikipediaSlug": "Ready_Player_One",
-    "image": "Ready_Player_One_cover.jpg",
-    "pageViews": 25434
-  },
-  {
     "qid": "Q678288",
     "title": "‘The Girl with the Dragon Tattoo’ is published",
     "subtitle": "Book by Stieg Larsson",
@@ -1320,6 +1350,16 @@
     "pageViews": 22552
   },
   {
+    "qid": "Q46887",
+    "title": "‘Harry Potter and the Half-Blood Prince’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2005,
+    "fact": "Harry Potter and the Half-Blood Prince is a fantasy novel by British author J.",
+    "wikipediaSlug": "Harry_Potter_and_the_Half-Blood_Prince",
+    "image": "Harry_Potter_and_the_Half-Blood_Prince_cover.png",
+    "pageViews": 22263
+  },
+  {
     "qid": "Q929821",
     "title": "‘Stranger in a Strange Land’ is published",
     "subtitle": "Book by Robert A. Heinlein",
@@ -1348,6 +1388,16 @@
     "wikipediaSlug": "The_Call_of_Cthulhu",
     "image": "Weirdtales-1928-02-thecallofcthulhu.jpg",
     "pageViews": 22089
+  },
+  {
+    "qid": "Q80817",
+    "title": "‘Harry Potter and the Order of the Phoenix’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2003,
+    "fact": "Harry Potter and the Order of the Phoenix is a fantasy novel by British author J.",
+    "wikipediaSlug": "Harry_Potter_and_the_Order_of_the_Phoenix",
+    "image": "Harry_Potter_and_the_Order_of_the_Phoenix.jpg",
+    "pageViews": 21994
   },
   {
     "qid": "Q838776",
@@ -1390,6 +1440,26 @@
     "pageViews": 21549
   },
   {
+    "qid": "Q463108",
+    "title": "‘The Neverending Story’ is published",
+    "subtitle": "Book by Michael Ende",
+    "year": 1979,
+    "fact": "The Neverending Story is a fantasy novel by German writer Michael Ende, published in 1979.",
+    "wikipediaSlug": "The_Neverending_Story",
+    "image": "Die_unendliche_Geschichte.jpg",
+    "pageViews": 21538
+  },
+  {
+    "qid": "Q1659714",
+    "title": "‘A Canticle for Leibowitz’ is published",
+    "subtitle": "Book by Walter M. Miller",
+    "year": 1959,
+    "fact": "A Canticle for Leibowitz is a post-apocalyptic social science fiction novel by American writer Walter M.",
+    "wikipediaSlug": "A_Canticle_for_Leibowitz",
+    "image": "A_Canticle_for_Leibowitz_cover_1st_ed.jpg",
+    "pageViews": 21490
+  },
+  {
     "qid": "Q212898",
     "title": "‘The Magic Mountain’ is published",
     "subtitle": "Book by Thomas Mann",
@@ -1420,6 +1490,16 @@
     "pageViews": 21075
   },
   {
+    "qid": "Q46751",
+    "title": "‘Harry Potter and the Goblet of Fire’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2000,
+    "fact": "Harry Potter and the Goblet of Fire is a fantasy novel by British author J.",
+    "wikipediaSlug": "Harry_Potter_and_the_Goblet_of_Fire",
+    "image": "Harry_Potter_and_the_Goblet_of_Fire_cover.png",
+    "pageViews": 21057
+  },
+  {
     "qid": "Q1047711",
     "title": "‘Casino Royale’ is published",
     "subtitle": "Book by Ian Fleming",
@@ -1428,6 +1508,16 @@
     "wikipediaSlug": "Casino_Royale_(novel)",
     "image": "CasinoRoyaleCover.jpg",
     "pageViews": 20914
+  },
+  {
+    "qid": "Q26085",
+    "title": "‘The Day of the Jackal’ is published",
+    "subtitle": "Book by Frederick Forsyth",
+    "year": 1971,
+    "fact": "The Day of the Jackal is a 1971 political thriller novel by English author Frederick Forsyth about a professional assassin who is contracted by the OAS, a French dissident paramilitary organisation, to kill Charles de Gaulle, the president of France.",
+    "wikipediaSlug": "The_Day_of_the_Jackal",
+    "image": "FrederickForsyth_TheDayOfTheJackal.jpg",
+    "pageViews": 20670
   },
   {
     "qid": "Q9144808",
@@ -1448,6 +1538,16 @@
     "wikipediaSlug": "The_Green_Mile_(novel)",
     "image": "Greenmilepart1.jpg",
     "pageViews": 20483
+  },
+  {
+    "qid": "Q130924",
+    "title": "‘Kalevala’ is published",
+    "subtitle": "Book by Elias Lönnrot",
+    "year": 1835,
+    "fact": "The Kalevala is a 19th-century compilation of epic poetry, compiled by Elias Lönnrot from Finnish, Karelian and Ingrian folklore and mythology, telling a story about the Creation of the Earth, describing the controversies and retaliatory voyages between the peoples of the land of Kalevala called Väinölä and the land of Pohjola and their various protagonists and antagonists, as well as the construction and robbery of the mythical wealth-making machine Sampo.",
+    "wikipediaSlug": "Kalevala",
+    "image": "Kalevala1.jpg",
+    "pageViews": 20478
   },
   {
     "qid": "Q468071",
@@ -1550,6 +1650,16 @@
     "pageViews": 18345
   },
   {
+    "qid": "Q47209",
+    "title": "‘Harry Potter and the Chamber of Secrets’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 1998,
+    "fact": "Harry Potter and the Chamber of Secrets is a fantasy novel by British author J.",
+    "wikipediaSlug": "Harry_Potter_and_the_Chamber_of_Secrets",
+    "image": "Harry_Potter_and_the_Chamber_of_Secrets.jpg",
+    "pageViews": 18310
+  },
+  {
     "qid": "Q762206",
     "title": "‘The Tell-Tale Heart’ is published",
     "subtitle": "Book by Edgar Allan Poe",
@@ -1570,6 +1680,16 @@
     "pageViews": 18190
   },
   {
+    "qid": "Q47598",
+    "title": "‘Harry Potter and the Prisoner of Azkaban’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 1999,
+    "fact": "Harry Potter and the Prisoner of Azkaban is a fantasy novel by British author J.",
+    "wikipediaSlug": "Harry_Potter_and_the_Prisoner_of_Azkaban",
+    "image": "Harry_Potter_and_the_Prisoner_of_Azkaban.jpg",
+    "pageViews": 18013
+  },
+  {
     "qid": "Q217073",
     "title": "‘Steppenwolf’ is published",
     "subtitle": "Book by Hermann Hesse",
@@ -1578,6 +1698,16 @@
     "wikipediaSlug": "Steppenwolf_(novel)",
     "image": "Hermann_Hesse_Der_Steppenwolf_1927.jpg",
     "pageViews": 17907
+  },
+  {
+    "qid": "Q40205",
+    "title": "‘Cloud Atlas’ is published",
+    "subtitle": "Book by David Mitchell",
+    "year": 2004,
+    "fact": "Cloud Atlas, published in 2004, is the third novel by British author David Mitchell.",
+    "wikipediaSlug": "Cloud_Atlas_(novel)",
+    "image": "Cloud_atlas.jpg",
+    "pageViews": 17879
   },
   {
     "qid": "Q373536",
@@ -1620,6 +1750,16 @@
     "pageViews": 17126
   },
   {
+    "qid": "Q151883",
+    "title": "‘The Sorrows of Young Werther’ is published",
+    "subtitle": "Book by Johann Wolfgang von Goethe",
+    "year": 1774,
+    "fact": "The Sorrows of Young Werther, or simply Werther, is a 1774 epistolary novel by Johann Wolfgang Goethe, which appeared as a revised edition in 1787.",
+    "wikipediaSlug": "The_Sorrows_of_Young_Werther",
+    "image": "Goethe_1774.JPG",
+    "pageViews": 17036
+  },
+  {
     "qid": "Q1629456",
     "title": "‘Orlando: A Biography’ is published",
     "subtitle": "Book by Virginia Woolf",
@@ -1628,16 +1768,6 @@
     "wikipediaSlug": "Orlando:_A_Biography",
     "image": "Portadaorlando.jpg",
     "pageViews": 16704
-  },
-  {
-    "qid": "Q786586",
-    "title": "‘At the Mountains of Madness’ is published",
-    "subtitle": "Book by H. P. Lovecraft",
-    "year": 1936,
-    "fact": "At the Mountains of Madness is a science-fiction and cosmic horror novella by the American author H.",
-    "wikipediaSlug": "At_the_Mountains_of_Madness",
-    "image": "At_the_Mountains_of_Madness.jpg",
-    "pageViews": 16368
   },
   {
     "qid": "Q261281",
@@ -1688,6 +1818,16 @@
     "wikipediaSlug": "The_Murders_in_the_Rue_Morgue",
     "image": "RueMorgueManuscript.jpg",
     "pageViews": 15412
+  },
+  {
+    "qid": "Q3107329",
+    "title": "‘The Hitchhiker's Guide to the Galaxy’ is published",
+    "subtitle": "Book by Douglas Adams",
+    "year": 1979,
+    "fact": "The Hitchhiker's Guide to the Galaxy is a 1979 science fiction comedy novel by English author Douglas Adams, adapted from the first four parts of his radio comedy series of the same name.",
+    "wikipediaSlug": "The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)",
+    "image": "H2G2_UK_front_cover.jpg",
+    "pageViews": 15398
   },
   {
     "qid": "Q40354",
@@ -1760,16 +1900,6 @@
     "pageViews": 14904
   },
   {
-    "qid": "Q880092",
-    "title": "‘Black Beauty’ is published",
-    "subtitle": "Book by Anna Sewell",
-    "year": 1877,
-    "fact": "Black Beauty: His Grooms and Companions, the Autobiography of a Horse is an 1877 novel by English author Anna Sewell.",
-    "wikipediaSlug": "Black_Beauty",
-    "image": "BlackBeautyCoverFirstEd1877.jpeg",
-    "pageViews": 14846
-  },
-  {
     "qid": "Q617357",
     "title": "‘Ubik’ is published",
     "subtitle": "Book by Philip K. Dick",
@@ -1798,6 +1928,16 @@
     "wikipediaSlug": "The_Shadow_of_the_Wind",
     "image": "TheShadowOfTheWind.jpg",
     "pageViews": 14298
+  },
+  {
+    "qid": "Q1216940",
+    "title": "‘The Day of the Triffids’ is published",
+    "subtitle": "Book by John Wyndham",
+    "year": 1951,
+    "fact": "The Day of the Triffids is a 1951 post-apocalyptic novel by the English science fiction author John Wyndham.",
+    "wikipediaSlug": "The_Day_of_the_Triffids",
+    "image": "JohnWyndham_TheDayOfTheTriffids.jpg",
+    "pageViews": 14082
   },
   {
     "qid": "Q472228",
@@ -1958,6 +2098,16 @@
     "wikipediaSlug": "Northern_Lights_(Pullman_novel)",
     "image": "Northern_Lights_(novel)_cover.jpg",
     "pageViews": 12107
+  },
+  {
+    "qid": "Q1212645",
+    "title": "‘The Time Traveler's Wife’ is published",
+    "subtitle": "Book by Audrey Niffenegger",
+    "year": 2003,
+    "fact": "The Time Traveler's Wife is the debut novel by American author Audrey Niffenegger, published in 2003.",
+    "wikipediaSlug": "The_Time_Traveler%27s_Wife",
+    "image": "TimeTravellersWife.jpg",
+    "pageViews": 11979
   },
   {
     "qid": "Q4845793",
@@ -2380,16 +2530,6 @@
     "pageViews": 9269
   },
   {
-    "qid": "Q471142",
-    "title": "‘The Tommyknockers’ is published",
-    "subtitle": "Book by Stephen King",
-    "year": 1987,
-    "fact": "The Tommyknockers is a 1987 science fiction novel by Stephen King.",
-    "wikipediaSlug": "The_Tommyknockers",
-    "image": "Tommyknockers.jpg",
-    "pageViews": 9091
-  },
-  {
     "qid": "Q1245187",
     "title": "‘Don Juan’ is published",
     "subtitle": "Book by Lord Byron",
@@ -2498,6 +2638,26 @@
     "wikipediaSlug": "The_Pit_and_the_Pendulum",
     "image": "PitandthePendulum-Clarke.jpg",
     "pageViews": 8334
+  },
+  {
+    "qid": "Q13882199",
+    "title": "‘The Cuckoo's Calling’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2013,
+    "fact": "The Cuckoo's Calling is a crime fiction novel written by British author J.",
+    "wikipediaSlug": "The_Cuckoo%27s_Calling",
+    "image": "TheCuckoo'sCalling(first_UK_edition)cover.jpg",
+    "pageViews": 8321
+  },
+  {
+    "qid": "Q2414756",
+    "title": "‘The Last Wish’ is published",
+    "subtitle": "Book by Andrzej Sapkowski",
+    "year": 1993,
+    "fact": "The Last Wish is the first short story collection in Polish fantasy writer Andrzej Sapkowski's The Witcher series.",
+    "wikipediaSlug": "The_Last_Wish",
+    "image": "Andrzej_Sapkowski_-_The_Last_Wish.jpg",
+    "pageViews": 8321
   },
   {
     "qid": "Q870551",
@@ -2730,6 +2890,16 @@
     "pageViews": 7334
   },
   {
+    "qid": "Q1165508",
+    "title": "‘The Pale Horse’ is published",
+    "subtitle": "Book by Agatha Christie",
+    "year": 1961,
+    "fact": "The Pale Horse is a mystery novel by British writer Agatha Christie, first published in the UK by the Collins Crime Club on 6 November 1961, and in the US by Dodd, Mead and Company the following year.",
+    "wikipediaSlug": "The_Pale_Horse",
+    "image": "The_Pale_Horse_First_Edition_Cover_1961.jpg",
+    "pageViews": 7327
+  },
+  {
     "qid": "Q309019",
     "title": "‘Unfinished Tales’ is published",
     "subtitle": "Book by J. R. R. Tolkien",
@@ -2738,6 +2908,16 @@
     "wikipediaSlug": "Unfinished_Tales",
     "image": "UnfinishedTales.JPG",
     "pageViews": 7325
+  },
+  {
+    "qid": "Q578895",
+    "title": "‘The Restaurant at the End of the Universe’ is published",
+    "subtitle": "Book by Douglas Adams",
+    "year": 1980,
+    "fact": "The Restaurant at the End of the Universe is the second book in the Hitchhiker's Guide to the Galaxy science fiction comedy hexalogy, named a \"trilogy\" by Douglas Adams.",
+    "wikipediaSlug": "The_Restaurant_at_the_End_of_the_Universe",
+    "image": "RestaurantAtTheEndOfTheUniverse.jpg",
+    "pageViews": 7292
   },
   {
     "qid": "Q2362563",
@@ -2758,16 +2938,6 @@
     "wikipediaSlug": "Heart_of_a_Dog",
     "image": "TheHeartOfADog_(Mikhail_Bulgakov_novel_-_cover_art).jpg",
     "pageViews": 7153
-  },
-  {
-    "qid": "Q569790",
-    "title": "‘Dreamcatcher’ is published",
-    "subtitle": "Book by Stephen King",
-    "year": 2001,
-    "fact": "Dreamcatcher is a 2001 science fiction horror novel by American writer Stephen King, featuring elements of body horror, suspense and alien invasion.",
-    "wikipediaSlug": "Dreamcatcher_(novel)",
-    "image": "Dreamcatchernovel.jpg",
-    "pageViews": 7148
   },
   {
     "qid": "Q471926",
@@ -2840,6 +3010,16 @@
     "pageViews": 6857
   },
   {
+    "qid": "Q874381",
+    "title": "‘Momo’ is published",
+    "subtitle": "Book by Michael Ende",
+    "year": 1973,
+    "fact": "Momo, also known as The Grey Gentlemen or The Men in Grey, is a fantasy novel by Michael Ende, published in 1973.",
+    "wikipediaSlug": "Momo_(novel)",
+    "image": "Momo_English.jpg",
+    "pageViews": 6819
+  },
+  {
     "qid": "Q368432",
     "title": "‘Live and Let Die’ is published",
     "subtitle": "Book by Ian Fleming",
@@ -2878,6 +3058,16 @@
     "wikipediaSlug": "Hard-Boiled_Wonderland_and_the_End_of_the_World",
     "image": "Haruki_murakami_hardboiled_9780679743460.jpg",
     "pageViews": 6642
+  },
+  {
+    "qid": "Q1197675",
+    "title": "‘The Invincible’ is published",
+    "subtitle": "Book by Stanisław Lem",
+    "year": 1964,
+    "fact": "The Invincible is a hard science fiction novel by Polish writer Stanisław Lem, serialized in Gazeta Białostocka in 1963 and published as a book in 1964.",
+    "wikipediaSlug": "The_Invincible",
+    "image": "TheInvincible.jpg",
+    "pageViews": 6556
   },
   {
     "qid": "Q741033",
@@ -2930,14 +3120,14 @@
     "pageViews": 6399
   },
   {
-    "qid": "Q678277",
-    "title": "‘The Bad Beginning’ is published",
-    "subtitle": "Book by Daniel Handler",
-    "year": 1999,
-    "fact": "Book the First: The Bad Beginning is the first novel of the children's novel series A Series of Unfortunate Events by Lemony Snicket.",
-    "wikipediaSlug": "The_Bad_Beginning",
-    "image": "BadBeginning.jpg",
-    "pageViews": 6397
+    "qid": "Q194424",
+    "title": "‘Fantastic Beasts and Where to Find Them’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2001,
+    "fact": "Fantastic Beasts and Where to Find Them is a 2001 guide book written by British author J.",
+    "wikipediaSlug": "Fantastic_Beasts_and_Where_to_Find_Them_(book)",
+    "image": "Fantastic_beasts.JPG",
+    "pageViews": 6251
   },
   {
     "qid": "Q542293",
@@ -3000,14 +3190,14 @@
     "pageViews": 5767
   },
   {
-    "qid": "Q845944",
-    "title": "‘The Dark Half’ is published",
-    "subtitle": "Book by Stephen King",
-    "year": 1989,
-    "fact": "The Dark Half is a horror novel by American writer Stephen King, published in 1989.",
-    "wikipediaSlug": "The_Dark_Half",
-    "image": "Darkhalf.jpg",
-    "pageViews": 5748
+    "qid": "Q1247253",
+    "title": "‘Endless Night’ is published",
+    "subtitle": "Book by Agatha Christie",
+    "year": 1967,
+    "fact": "Endless Night is a mystery novel by Agatha Christie, first published in the UK by the Collins Crime Club on 30 October 1967 and in the US by Dodd, Mead and Company the following year.",
+    "wikipediaSlug": "Endless_Night_(novel)",
+    "image": "Endless_Night_First_Edition_Cover_1967.jpg",
+    "pageViews": 5717
   },
   {
     "qid": "Q464220",
@@ -3050,6 +3240,16 @@
     "pageViews": 5640
   },
   {
+    "qid": "Q2465752",
+    "title": "‘The Iron Heel’ is published",
+    "subtitle": "Book by Jack London",
+    "year": 1908,
+    "fact": "The Iron Heel is a dystopian and political novel in the form of science fiction by American writer Jack London, first published in 1908.",
+    "wikipediaSlug": "The_Iron_Heel",
+    "image": "The_Iron_Heel.jpg",
+    "pageViews": 5626
+  },
+  {
     "qid": "Q878580",
     "title": "‘The Gold-Bug’ is published",
     "subtitle": "Book by Edgar Allan Poe",
@@ -3068,6 +3268,16 @@
     "wikipediaSlug": "The_Hollow",
     "image": "The_Hollow_US_First_Edition_Cover_1946.jpg",
     "pageViews": 5575
+  },
+  {
+    "qid": "Q932592",
+    "title": "‘Foundation's Edge’ is published",
+    "subtitle": "Book by Isaac Asimov",
+    "year": 1982,
+    "fact": "Foundation's Edge (1982) is a science fiction novel by American writer Isaac Asimov, the fourth book in the Foundation Series.",
+    "wikipediaSlug": "Foundation%27s_Edge",
+    "image": "IsaacAsimov_Foundation'sEdge.jpg",
+    "pageViews": 5462
   },
   {
     "qid": "Q860831",
@@ -3210,6 +3420,16 @@
     "pageViews": 5070
   },
   {
+    "qid": "Q165068",
+    "title": "‘The Tales of Beedle the Bard’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2008,
+    "fact": "The Tales of Beedle the Bard is a book of fairy tales by author J.",
+    "wikipediaSlug": "The_Tales_of_Beedle_the_Bard",
+    "image": "Tales_of_Beedle_the_Bard.jpg",
+    "pageViews": 5030
+  },
+  {
     "qid": "Q386431",
     "title": "‘Doctor Faustus’ is published",
     "subtitle": "Book by Thomas Mann",
@@ -3320,16 +3540,6 @@
     "pageViews": 4692
   },
   {
-    "qid": "Q592139",
-    "title": "‘The Labours of Hercules’ is published",
-    "subtitle": "Book by Agatha Christie",
-    "year": 1947,
-    "fact": "The Labours of Hercules is a short story collection written by Agatha Christie and first published in the US by Dodd, Mead and Company in 1947 and in the UK by Collins Crime Club in September of the same year.",
-    "wikipediaSlug": "The_Labours_of_Hercules",
-    "image": "The_Labours_of_Hercules_First_Edition_US_cover_1947.jpg",
-    "pageViews": 4659
-  },
-  {
     "qid": "Q191540",
     "title": "‘New Moon’ is published",
     "subtitle": "Book by Stephenie Meyer",
@@ -3410,6 +3620,16 @@
     "pageViews": 4429
   },
   {
+    "qid": "Q721",
+    "title": "‘Life, the Universe and Everything’ is published",
+    "subtitle": "Book by Douglas Adams",
+    "year": 1982,
+    "fact": "Life, the Universe and Everything is the third book in the six-volume Hitchhiker's Guide to the Galaxy science fiction \"trilogy of six books\" by British writer Douglas Adams.",
+    "wikipediaSlug": "Life,_the_Universe_and_Everything",
+    "image": "Life,_The_Universe_and_Everything_cover.jpg",
+    "pageViews": 4389
+  },
+  {
     "qid": "Q650508",
     "title": "‘Murder in the Mews’ is published",
     "subtitle": "Book by Agatha Christie",
@@ -3420,6 +3640,16 @@
     "pageViews": 4374
   },
   {
+    "qid": "Q1991641",
+    "title": "‘The Battle of the Labyrinth’ is published",
+    "subtitle": "Book by Rick Riordan",
+    "year": 2008,
+    "fact": "The Battle of the Labyrinth is 2008 American children's fantasy action-adventure middle grade children's fiction novel based on Greek mythology written by American author Rick Riordan.",
+    "wikipediaSlug": "The_Battle_of_the_Labyrinth",
+    "image": "PercyBattleLabyrinth.jpg",
+    "pageViews": 4365
+  },
+  {
     "qid": "Q1044713",
     "title": "‘Taken at the Flood’ is published",
     "subtitle": "Book by Agatha Christie",
@@ -3428,6 +3658,16 @@
     "wikipediaSlug": "Taken_at_the_Flood",
     "image": "There_is_a_Tide_First_Edition_Cover_1948.jpg",
     "pageViews": 4356
+  },
+  {
+    "qid": "Q18084",
+    "title": "‘Vita Nuova’ is published",
+    "subtitle": "Book by Dante Alighieri",
+    "year": 1295,
+    "fact": "La Vita Nuova or Vita Nova is a text by Dante Alighieri published in 1294.",
+    "wikipediaSlug": "La_Vita_Nuova",
+    "image": "The_New_Life_(Rossetti_1899)_Frontispiece.jpg",
+    "pageViews": 4337
   },
   {
     "qid": "Q465492",
@@ -3720,6 +3960,16 @@
     "pageViews": 3589
   },
   {
+    "qid": "Q1765450",
+    "title": "‘Wyrd Sisters’ is published",
+    "subtitle": "Book by Terry Pratchett",
+    "year": 1988,
+    "fact": "Wyrd Sisters is Terry Pratchett's sixth Discworld novel, published in 1988.",
+    "wikipediaSlug": "Wyrd_Sisters",
+    "image": "Wyrd-sisters-cover.jpg",
+    "pageViews": 3575
+  },
+  {
     "qid": "Q1165714",
     "title": "‘The Charterhouse of Parma’ is published",
     "subtitle": "Book by Stendhal",
@@ -3780,6 +4030,16 @@
     "pageViews": 3480
   },
   {
+    "qid": "Q1142693",
+    "title": "‘The Brothers Lionheart’ is published",
+    "subtitle": "Book by Astrid Lindgren",
+    "year": 1973,
+    "fact": "The Brothers Lionheart is a children's fantasy novel written by Astrid Lindgren.",
+    "wikipediaSlug": "The_Brothers_Lionheart",
+    "image": "Lionheart_brothers.jpg",
+    "pageViews": 3478
+  },
+  {
     "qid": "Q1570068",
     "title": "‘Sans Famille’ is published",
     "subtitle": "Book by Hector Malot",
@@ -3788,6 +4048,16 @@
     "wikipediaSlug": "Sans_Famille",
     "image": "MalotNobodysBoy.jpg",
     "pageViews": 3447
+  },
+  {
+    "qid": "Q1166201",
+    "title": "‘Stardust’ is published",
+    "subtitle": "Book by Neil Gaiman",
+    "year": 1999,
+    "fact": "Stardust is a 1999 fantasy novel by British writer Neil Gaiman, usually published with illustrations by Charles Vess.",
+    "wikipediaSlug": "Stardust_(Neil_Gaiman_novel)",
+    "image": "StardustGaimanbookcover.jpg",
+    "pageViews": 3404
   },
   {
     "qid": "Q705839",
@@ -3808,6 +4078,16 @@
     "wikipediaSlug": "Berenice_(short_story)",
     "image": "Berenice(SLM).gif",
     "pageViews": 3324
+  },
+  {
+    "qid": "Q1194031",
+    "title": "‘Wilhelm Meister's Apprenticeship’ is published",
+    "subtitle": "Book by Johann Wolfgang von Goethe",
+    "year": 1790,
+    "fact": "Wilhelm Meister's Apprenticeship is the second novel by Johann Wolfgang von Goethe, published in 1795–96.",
+    "wikipediaSlug": "Wilhelm_Meister%27s_Apprenticeship",
+    "image": "Wilhelm_Meisters_Lehrjahre_1795.jpg",
+    "pageViews": 3304
   },
   {
     "qid": "Q2718922",
@@ -3870,6 +4150,16 @@
     "pageViews": 3208
   },
   {
+    "qid": "Q1144655",
+    "title": "‘Ronja, the Robber's Daughter’ is published",
+    "subtitle": "Book by Astrid Lindgren",
+    "year": 1981,
+    "fact": "Ronia, the Robber's Daughter is a children's fantasy book by the Swedish author Astrid Lindgren, first published in 1981.",
+    "wikipediaSlug": "Ronja,_the_Robber%27s_Daughter",
+    "image": "Ronia_Robbers_Daughter.png",
+    "pageViews": 3120
+  },
+  {
     "qid": "Q759467",
     "title": "‘The Clocks’ is published",
     "subtitle": "Book by Agatha Christie",
@@ -3898,6 +4188,16 @@
     "wikipediaSlug": "Around_the_Moon",
     "image": "Verne_-_Autour_de_la_Lune_(page_5_crop).jpg",
     "pageViews": 2904
+  },
+  {
+    "qid": "Q192258",
+    "title": "‘Quidditch Through the Ages’ is published",
+    "subtitle": "Book by J. K. Rowling",
+    "year": 2001,
+    "fact": "Quidditch Through the Ages is a 2001 book written by British author J.",
+    "wikipediaSlug": "Quidditch_Through_the_Ages",
+    "image": "Quidditchthroughtheages.jpg",
+    "pageViews": 2890
   },
   {
     "qid": "Q1196792",
@@ -3990,6 +4290,16 @@
     "pageViews": 2520
   },
   {
+    "qid": "Q2092894",
+    "title": "‘Illusions perdues’ is published",
+    "subtitle": "Book by Honoré de Balzac",
+    "year": 1837,
+    "fact": "Illusions perdues — in English, Lost Illusions — is a serial novel written by the French writer Honoré de Balzac between 1837 and 1843.",
+    "wikipediaSlug": "Illusions_perdues",
+    "image": "BalzacLostIllusions02.jpg",
+    "pageViews": 2484
+  },
+  {
     "qid": "Q794866",
     "title": "‘Paris in the Twentieth Century’ is published",
     "subtitle": "Book by Jules Verne",
@@ -4010,6 +4320,16 @@
     "pageViews": 2340
   },
   {
+    "qid": "Q622634",
+    "title": "‘Cinq Semaines en ballon’ is published",
+    "subtitle": "Book by Jules Verne",
+    "year": 1863,
+    "fact": "Five Weeks in a Balloon, or, A Journey of Discovery by Three Englishmen in Africa is an adventure novel by Jules Verne, published in 1863.",
+    "wikipediaSlug": "Five_Weeks_in_a_Balloon",
+    "image": "Cinq_Semaines_en_ballon_001.png",
+    "pageViews": 2338
+  },
+  {
     "qid": "Q1151528",
     "title": "‘A Case of Identity’ is published",
     "subtitle": "Book by Arthur Conan Doyle",
@@ -4018,16 +4338,6 @@
     "wikipediaSlug": "A_Case_of_Identity",
     "image": "Strand1891-V2_0247_(cropped).png",
     "pageViews": 2324
-  },
-  {
-    "qid": "Q849907",
-    "title": "‘The Short Second Life of Bree Tanner’ is published",
-    "subtitle": "Book by Stephenie Meyer",
-    "year": 2010,
-    "fact": "The Short Second Life of Bree Tanner is a novella in the Twilight series by author Stephenie Meyer.",
-    "wikipediaSlug": "The_Short_Second_Life_of_Bree_Tanner",
-    "image": "BreeTannerCover.JPG",
-    "pageViews": 2245
   },
   {
     "qid": "Q1192541",
@@ -4078,16 +4388,6 @@
     "wikipediaSlug": "The_Adventure_of_the_Cardboard_Box",
     "image": "Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg",
     "pageViews": 1855
-  },
-  {
-    "qid": "Q478250",
-    "title": "‘Smith of Wootton Major’ is published",
-    "subtitle": "Book by J. R. R. Tolkien",
-    "year": 1967,
-    "fact": "Smith of Wootton Major, first published in 1967, is a novella by J.",
-    "wikipediaSlug": "Smith_of_Wootton_Major",
-    "image": "JRRTolkien_SmithOfWoottonMajor.jpg",
-    "pageViews": 1767
   },
   {
     "qid": "Q1193101",

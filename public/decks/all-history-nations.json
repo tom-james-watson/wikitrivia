@@ -1211,7 +1211,7 @@
   },
   {
     "qid": "Q282428",
-    "title": "Mamluk Sultanate is established",
+    "title": "Mamluk Sultanate of Egypt is established",
     "subtitle": "Historical state",
     "year": 1250,
     "fact": "The Mamluk Sultanate, also known as Mamluk Egypt or the Mamluk Empire, was a state that ruled Egypt, the Syrian region and the Hejaz from the mid-13th to early 16th centuries, with Cairo as its capital.",
@@ -1551,9 +1551,9 @@
   },
   {
     "qid": "Q146597",
-    "title": "Zand Iran is established",
+    "title": "Zand Iran falls",
     "subtitle": "Historical state",
-    "year": 1751,
+    "year": 1794,
     "fact": "The Guarded Domains of Iran, commonly known as Zand Iran, was the Iranian state under the rule of the Zand dynasty.",
     "wikipediaSlug": "Zand_Iran",
     "image": "Zand_Dynasty_flag.svg",
@@ -2891,9 +2891,9 @@
   },
   {
     "qid": "Q75613",
-    "title": "Almoravid dynasty is established",
+    "title": "Almoravid dynasty falls",
     "subtitle": "Historical state",
-    "year": 1040,
+    "year": 1147,
     "fact": "The Almoravid dynasty was a Berber Muslim dynasty centered in the territory of present-day Morocco.",
     "wikipediaSlug": "Almoravid_dynasty",
     "image": "Almoravid_dynasty-en.svg",
@@ -2988,6 +2988,16 @@
     "wikipediaSlug": "Kingdom_of_Mysore",
     "image": "Flag_of_Kingdom_of_Mysore.svg",
     "pageViews": 17603
+  },
+  {
+    "qid": "Q1775277",
+    "title": "Dominion of India is established",
+    "subtitle": "Historical state",
+    "year": 1947,
+    "fact": "The Dominion of India, officially the Union of India, was an independent dominion in the British Commonwealth of Nations existing between 15 August 1947 and 26 January 1950.",
+    "wikipediaSlug": "Dominion_of_India",
+    "image": "Flag_of_India.svg",
+    "pageViews": 17566
   },
   {
     "qid": "Q328478",
@@ -3621,9 +3631,9 @@
   },
   {
     "qid": "Q175211",
-    "title": "Kingdom of Germany falls",
+    "title": "Kingdom of Germany is established",
     "subtitle": "Historical state",
-    "year": 1806,
+    "year": 843,
     "fact": "The Kingdom of Germany or German Kingdom was the mostly Germanic language-speaking East Frankish kingdom, which was formed by the Treaty of Verdun in 843.",
     "wikipediaSlug": "Kingdom_of_Germany",
     "image": "HRR_10Jh.jpg",
@@ -3653,7 +3663,7 @@
     "qid": "Q1923401",
     "title": "Dzungar Khanate is established",
     "subtitle": "Historical state",
-    "year": 1635,
+    "year": 1634,
     "fact": "The Dzungar Khanate, also known as the Zunghar Khanate or Junggar Khanate, was the last nomadic empire of Oirat Mongol origin.",
     "wikipediaSlug": "Dzungar_Khanate",
     "image": "Dzungar_Khanate_in_1717.png",
@@ -3791,9 +3801,9 @@
   },
   {
     "qid": "Q541455",
-    "title": "Anglo-Egyptian Sudan is established",
+    "title": "Anglo-Egyptian Sudan falls",
     "subtitle": "Historical state",
-    "year": 1899,
+    "year": 1956,
     "fact": "The Anglo-Egyptian Sudan was a condominium of the United Kingdom and Egypt between 1899 and 1956, corresponding to the territory of what is now both Sudans and parts of southeastern Libya.",
     "wikipediaSlug": "Anglo-Egyptian_Sudan",
     "image": "Flag_of_the_United_Kingdom.svg",
@@ -4350,6 +4360,16 @@
     "pageViews": 11359
   },
   {
+    "qid": "Q2502270",
+    "title": "House of Thani begins",
+    "subtitle": "Dynasty",
+    "year": 1825,
+    "fact": "The House of Thani is the ruling family of Qatar, with origins tracing back to the Adnanite Banu Tamim tribe.",
+    "wikipediaSlug": "House_of_Thani",
+    "image": "Emblem_of_Qatar-2022.svg",
+    "pageViews": 11264
+  },
+  {
     "qid": "Q213638",
     "title": "Kingdom of Cyprus is established",
     "subtitle": "Historical state",
@@ -4531,9 +4551,9 @@
   },
   {
     "qid": "Q34756",
-    "title": "Qin is established",
+    "title": "Qin falls",
     "subtitle": "Historical state",
-    "year": -904,
+    "year": -220,
     "fact": "Qin was an ancient Chinese state during the Zhou dynasty.",
     "wikipediaSlug": "Qin_(state)",
     "image": "EN-QIN260BCE.jpg",
@@ -4621,9 +4641,9 @@
   },
   {
     "qid": "Q518101",
-    "title": "First Republic of Austria is established",
+    "title": "First Republic of Austria falls",
     "subtitle": "Historical state",
-    "year": 1919,
+    "year": 1934,
     "fact": "The First Austrian Republic, officially the Republic of Austria, was created after the signing of the Treaty of Saint-Germain-en-Laye on 10 September 1919—the settlement after the end of World War I which ended the Habsburg rump state of Republic of German-Austria—and ended with the establishment of the authoritarian Federal State of Austria based upon a dictatorship of Engelbert Dollfuss and the Fatherland Front in 1934.",
     "wikipediaSlug": "First_Austrian_Republic",
     "image": "Flag_of_Austria_(1230–1934,_1945–2000).svg",
@@ -4831,9 +4851,9 @@
   },
   {
     "qid": "Q652560",
-    "title": "West Indies Federation is established",
+    "title": "West Indies Federation falls",
     "subtitle": "Historical state",
-    "year": 1958,
+    "year": 1962,
     "fact": "The West Indies Federation, also known as the West Indies, the Federation of the West Indies or the West Indian Federation, was a short-lived political union that existed from 3 January 1958 to 31 May 1962.",
     "wikipediaSlug": "West_Indies_Federation",
     "image": "Flag_of_the_West_Indies_Federation_(1958–1962).svg",
@@ -5381,8 +5401,8 @@
   },
   {
     "qid": "Q1136188",
-    "title": "Saadi dynasty is established",
-    "subtitle": "Historical state",
+    "title": "Saadi dynasty begins",
+    "subtitle": "Dynasty",
     "year": 1549,
     "fact": "The Saadi Sultanate, also known as the Sharifian Sultanate, was a state which ruled present-day Morocco and parts of Northwest Africa in the 16th and 17th centuries.",
     "wikipediaSlug": "Saadi_Sultanate",
@@ -5431,9 +5451,9 @@
   },
   {
     "qid": "Q191484",
-    "title": "Old Great Bulgaria is established",
+    "title": "Old Great Bulgaria falls",
     "subtitle": "Historical state",
-    "year": 632,
+    "year": 668,
     "fact": "Old Great Bulgaria, also often known by the Latin names Magna Bulgaria and Patria Onoguria, was a 7th-century Turkic nomadic empire formed by the Onogur-Bulgars on the western Pontic–Caspian steppe.",
     "wikipediaSlug": "Old_Great_Bulgaria",
     "image": "Old_Great_Bulgaria.svg",
@@ -5621,9 +5641,9 @@
   },
   {
     "qid": "Q684030",
-    "title": "Principality of Serbia is established",
+    "title": "Principality of Serbia falls",
     "subtitle": "Historical state",
-    "year": 1815,
+    "year": 1882,
     "fact": "The Principality of Serbia was an autonomous, later sovereign state in the Balkans that came into existence as a result of the Serbian Revolution.",
     "wikipediaSlug": "Principality_of_Serbia",
     "image": "Flag_of_Serbia_(1835–1882).svg",
@@ -5850,6 +5870,16 @@
     "pageViews": 6552
   },
   {
+    "qid": "Q250515",
+    "title": "Eastern Ganga dynasty begins",
+    "subtitle": "Dynasty",
+    "year": 1078,
+    "fact": "The Eastern Ganga dynasty were a large medieval era dynasty that reigned from Kalinga from as early as the 5th century to the mid 20th century.",
+    "wikipediaSlug": "Eastern_Ganga_dynasty",
+    "image": "Eastern_Ganga_fanam_Chodaganga.png",
+    "pageViews": 6548
+  },
+  {
     "qid": "Q662410",
     "title": "Twenty-sixth Dynasty of Egypt begins",
     "subtitle": "Dynasty",
@@ -5871,9 +5901,9 @@
   },
   {
     "qid": "Q213353",
-    "title": "Cisalpine Republic falls",
+    "title": "Cisalpine Republic is established",
     "subtitle": "Historical state",
-    "year": 1802,
+    "year": 1797,
     "fact": "The Cisalpine Republic was a sister republic of France in Northern Italy that existed from 1797 to 1799, with a second version until 1802.",
     "wikipediaSlug": "Cisalpine_Republic",
     "image": "Cisalpine_Republic_1797.svg",
@@ -7231,7 +7261,7 @@
   },
   {
     "qid": "Q828665",
-    "title": "Ikhshidid dynasty begins",
+    "title": "Egyptian Ikhshidid Emirate begins",
     "subtitle": "Dynasty",
     "year": 935,
     "fact": "The Ikhshidid dynasty was a Turkic dynasty of governors of Mamluk origin, who governed Egypt and parts of the Levant from 935 to 969 on behalf of the Abbasid Caliphate.",
@@ -7328,6 +7358,16 @@
     "wikipediaSlug": "Danishmendids",
     "image": "Anatolia_1097.svg",
     "pageViews": 2439
+  },
+  {
+    "qid": "Q3100718",
+    "title": "Genghisid begins",
+    "subtitle": "Dynasty",
+    "year": 1206,
+    "fact": "The Chinggisids were the descendants of Genghis Khan, also known as Chinggis Khan, and his first wife Börte.",
+    "wikipediaSlug": "Chinggisids",
+    "image": "YuanEmperorAlbumGenghisPortrait.jpg",
+    "pageViews": 2426
   },
   {
     "qid": "Q588672",
@@ -7568,6 +7608,16 @@
     "wikipediaSlug": "Almohads",
     "image": "Almohad_dynasty_en.svg",
     "pageViews": 1313
+  },
+  {
+    "qid": "Q138837",
+    "title": "Catalan Republic is established",
+    "subtitle": "Historical state",
+    "year": 2017,
+    "fact": "The Catalan declaration of independence was a resolution that was passed by the Parliament of Catalonia on 27 October 2017.",
+    "wikipediaSlug": "Catalan_Republic_(2017)",
+    "image": "Catalan_Declaration_of_Independence.svg",
+    "pageViews": 1264
   },
   {
     "qid": "Q1734616",

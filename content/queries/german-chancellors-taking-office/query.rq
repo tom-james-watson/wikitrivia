@@ -17,7 +17,7 @@ SELECT DISTINCT ?item ?itemLabel ?year ?sitelinks WHERE {
     FILTER(?earlierDate < ?date)
   }
   BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } # ask Wikidata for English labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". } # ask Wikidata for English labels
 }
 ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
 LIMIT 500

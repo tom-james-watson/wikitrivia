@@ -14,16 +14,16 @@
     "sitelinks": "104"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q181598",
-    "itemLabel": "King Lear",
-    "year": "1606",
+    "item": "http://www.wikidata.org/entity/Q26833",
+    "itemLabel": "Othello",
+    "year": "1622",
     "authorLabel": "William Shakespeare",
     "sitelinks": "91"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26833",
-    "itemLabel": "Othello",
-    "year": "1622",
+    "item": "http://www.wikidata.org/entity/Q181598",
+    "itemLabel": "King Lear",
+    "year": "1606",
     "authorLabel": "William Shakespeare",
     "sitelinks": "91"
   },
@@ -60,7 +60,7 @@
     "itemLabel": "The Merchant of Venice",
     "year": "1600",
     "authorLabel": "William Shakespeare",
-    "sitelinks": "67"
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q221211",
@@ -98,18 +98,18 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q669694",
+    "itemLabel": "A Doll's House",
+    "year": "1879",
+    "authorLabel": "Henrik Ibsen",
+    "sitelinks": "51"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q506505",
     "itemLabel": "The Comedy of Errors",
     "year": "1734",
     "authorLabel": "William Shakespeare",
     "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q669694",
-    "itemLabel": "A Doll's House",
-    "year": "1879",
-    "authorLabel": "Henrik Ibsen",
-    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130851",
@@ -350,6 +350,13 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1246408",
+    "itemLabel": "Alcestis",
+    "year": "-437",
+    "authorLabel": "Euripides",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1216943",
     "itemLabel": "The Trojan Women",
     "year": "-414",
@@ -362,13 +369,6 @@
     "year": "1623",
     "authorLabel": "William Shakespeare",
     "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1246408",
-    "itemLabel": "Alcestis",
-    "year": "-437",
-    "authorLabel": "Euripides",
-    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1233770",
@@ -644,6 +644,13 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1233835",
+    "itemLabel": "Herakles",
+    "year": "-419",
+    "authorLabel": "Euripides",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1193602",
     "itemLabel": "Peace",
     "year": "-420",
@@ -665,13 +672,6 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1233835",
-    "itemLabel": "Herakles",
-    "year": "-419",
-    "authorLabel": "Euripides",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1233203",
     "itemLabel": "Herakles' Children",
     "year": "-429",
@@ -691,6 +691,13 @@
     "year": "1896",
     "authorLabel": "Henrik Ibsen",
     "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1232635",
+    "itemLabel": "Edward III",
+    "year": "1592",
+    "authorLabel": "William Shakespeare",
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1218620",

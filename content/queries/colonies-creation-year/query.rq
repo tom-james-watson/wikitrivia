@@ -15,7 +15,7 @@ SELECT
   BIND(YEAR(?date) AS ?yearValue)
   FILTER(?yearValue >= 1400 && ?yearValue <= 1940)
 
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }
 GROUP BY ?item ?itemLabel ?sitelinks
 ORDER BY DESC(?sitelinks)

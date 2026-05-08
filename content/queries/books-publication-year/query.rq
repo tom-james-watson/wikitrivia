@@ -56,7 +56,7 @@ SELECT DISTINCT ?item ?itemLabel ?year ?authorLabel ?sitelinks WHERE {
   }
   BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
   SERVICE wikibase:label { # ask Wikidata for English labels
-    bd:serviceParam wikibase:language "en".
+    bd:serviceParam wikibase:language "en,mul".
   }
 }
 ORDER BY DESC(?sitelinks) # keep the most recognisable rows first

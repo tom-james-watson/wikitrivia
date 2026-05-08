@@ -1,5 +1,6 @@
 SELECT DISTINCT ?item ?itemLabel ?year ?sitelinks WHERE {
   ?item
+    wdt:P31 wd:Q5; # humans only; exclude fictional presidents that also use this position
     wdt:P39 wd:Q11696; # held the position "President of the United States"
     p:P39 ?statement; # grab the full position statement so we can read its start date
     wikibase:sitelinks ?sitelinks. # use sitelinks as a rough popularity signal
@@ -14,8 +15,7 @@ SELECT DISTINCT ?item ?itemLabel ?year ?sitelinks WHERE {
     FILTER(?earlierDate < ?date)
   }
   BIND(YEAR(?date) AS ?year) # turn the chosen date into a timeline year
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } # ask Wikidata for English labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". } # ask Wikidata for English labels, falling back to multilingual labels
 }
 ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
 LIMIT 500
-

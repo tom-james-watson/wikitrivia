@@ -40,6 +40,14 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q112577",
+    "itemLabel": "The Twelve Days of Christmas",
+    "year": "1780",
+    "lyricistLabel": "",
+    "composerLabel": "traditional",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q833220",
     "itemLabel": "Nearer, My God, to Thee",
     "year": "1841",
@@ -48,27 +56,19 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q112577",
-    "itemLabel": "The Twelve Days of Christmas",
-    "year": "1780",
-    "lyricistLabel": "",
-    "composerLabel": "traditional",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1585437",
     "itemLabel": "Hark! The Herald Angels Sing",
     "year": "1739",
     "lyricistLabel": "Charles Wesley",
     "composerLabel": "Felix Mendelssohn",
-    "sitelinks": "26"
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q865064",
     "itemLabel": "Shchedryk",
     "year": "1919",
     "lyricistLabel": "",
-    "composerLabel": "",
+    "composerLabel": "Mykola Leontovych",
     "sitelinks": "25"
   },
   {
@@ -176,19 +176,19 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1438854",
+    "itemLabel": "Once in Royal David's City",
+    "year": "1848",
+    "lyricistLabel": "Cecil Frances Alexander",
+    "composerLabel": "Arthur Henry Mann",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q791656",
     "itemLabel": "Away in a Manger",
     "year": "1885",
     "lyricistLabel": "Charles H. Gabriel",
     "composerLabel": "William J. Kirkpatrick",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1438854",
-    "itemLabel": "Once in Royal David's City",
-    "year": "1848",
-    "lyricistLabel": "Cecil Frances Alexander",
-    "composerLabel": "Stephen Cleobury",
     "sitelinks": "12"
   },
   {
@@ -204,7 +204,7 @@
     "itemLabel": "In the Bleak Midwinter",
     "year": "1872",
     "lyricistLabel": "Christina Rossetti",
-    "composerLabel": "Harold Darke",
+    "composerLabel": "Gustav Holst",
     "sitelinks": "11"
   },
   {
@@ -212,7 +212,7 @@
     "itemLabel": "Ding Dong Merrily on High",
     "year": "1924",
     "lyricistLabel": "George Ratcliffe Woodward",
-    "composerLabel": "Thoinot Arbeau",
+    "composerLabel": "Charles Wood",
     "sitelinks": "10"
   },
   {
@@ -264,14 +264,6 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1371040",
-    "itemLabel": "Eternal Father, Strong to Save",
-    "year": "1895",
-    "lyricistLabel": "William Whiting",
-    "composerLabel": "John Bacchus Dykes",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q686572",
     "itemLabel": "Up on the House Top",
     "year": "1864",
@@ -288,12 +280,12 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2193754",
-    "itemLabel": "O Kerstnacht, schoner dan de dagen",
-    "year": "1637",
-    "lyricistLabel": "Joost van den Vondel",
-    "composerLabel": "Cornelis Thymenszoon Padbrué",
-    "sitelinks": "6"
+    "item": "http://www.wikidata.org/entity/Q1371040",
+    "itemLabel": "Eternal Father, Strong to Save",
+    "year": "1895",
+    "lyricistLabel": "William Whiting",
+    "composerLabel": "John Bacchus Dykes",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2700097",
@@ -301,6 +293,14 @@
     "year": "1905",
     "lyricistLabel": "Civilla D. Martin",
     "composerLabel": "Charles H. Gabriel",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2193754",
+    "itemLabel": "O Kerstnacht, schoner dan de dagen",
+    "year": "1637",
+    "lyricistLabel": "Joost van den Vondel",
+    "composerLabel": "Cornelis Thymenszoon Padbrué",
     "sitelinks": "6"
   },
   {
@@ -333,6 +333,14 @@
     "year": "1647",
     "lyricistLabel": "Paul Gerhardt",
     "composerLabel": "Heinrich Isaac",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5599364",
+    "itemLabel": "Great Is Thy Faithfulness",
+    "year": "1923",
+    "lyricistLabel": "Thomas Chisholm",
+    "composerLabel": "William M. Runyan",
     "sitelinks": "5"
   },
   {
@@ -376,6 +384,14 @@
     "sitelinks": "4"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q11900540",
+    "itemLabel": "Sparven om julmorgonen",
+    "year": "1859",
+    "lyricistLabel": "Zachris Topelius",
+    "composerLabel": "Otto Kotilainen",
+    "sitelinks": "4"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q12317986",
     "itemLabel": "I østen stiger solen op",
     "year": "1837",
@@ -408,22 +424,6 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5599364",
-    "itemLabel": "Great Is Thy Faithfulness",
-    "year": "1923",
-    "lyricistLabel": "Thomas Chisholm",
-    "composerLabel": "William M. Runyan",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11900540",
-    "itemLabel": "Sparven om julmorgonen",
-    "year": "1859",
-    "lyricistLabel": "Zachris Topelius",
-    "composerLabel": "Otto Kotilainen",
-    "sitelinks": "4"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q747757",
     "itemLabel": "Angelus ad virginem",
     "year": "1300",
@@ -448,19 +448,19 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q59784978",
+    "itemLabel": "Fröhlich soll mein Herze springen",
+    "year": "1653",
+    "lyricistLabel": "Paul Gerhardt",
+    "composerLabel": "Johann Crüger",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2179413",
     "itemLabel": "Te Deum",
     "year": "1934",
     "lyricistLabel": "",
     "composerLabel": "Benjamin Britten",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7445450",
-    "itemLabel": "See, amid the Winter's Snow",
-    "year": "1871",
-    "lyricistLabel": "Edward Caswall",
-    "composerLabel": "John Goss",
     "sitelinks": "3"
   },
   {
@@ -472,11 +472,19 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q59784978",
-    "itemLabel": "Fröhlich soll mein Herze springen",
-    "year": "1653",
-    "lyricistLabel": "Paul Gerhardt",
-    "composerLabel": "Johann Crüger",
+    "item": "http://www.wikidata.org/entity/Q7445450",
+    "itemLabel": "See, amid the Winter's Snow",
+    "year": "1871",
+    "lyricistLabel": "Edward Caswall",
+    "composerLabel": "John Goss",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19893108",
+    "itemLabel": "Lift High the Cross",
+    "year": "1887",
+    "lyricistLabel": "George Kitchin",
+    "composerLabel": "Sydney Nicholson",
     "sitelinks": "3"
   },
   {
@@ -493,14 +501,6 @@
     "year": "1842",
     "lyricistLabel": "Johannes Carl",
     "composerLabel": "Georg Eisenbach",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19893108",
-    "itemLabel": "Lift High the Cross",
-    "year": "1887",
-    "lyricistLabel": "George Kitchin",
-    "composerLabel": "Sydney Nicholson",
     "sitelinks": "3"
   },
   {
@@ -560,27 +560,19 @@
     "sitelinks": "2"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q19032539",
+    "itemLabel": "Forth in Thy Name, O Lord",
+    "year": "1861",
+    "lyricistLabel": "",
+    "composerLabel": "",
+    "sitelinks": "2"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q16268819",
     "itemLabel": "Te Deum (Giuseppe Verdi)",
     "year": "1898",
     "lyricistLabel": "",
     "composerLabel": "Giuseppe Verdi",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15786335",
-    "itemLabel": "A Hymn to the Virgin",
-    "year": "1930",
-    "lyricistLabel": "",
-    "composerLabel": "Benjamin Britten",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q56296227",
-    "itemLabel": "Eine große Stadt ersteht",
-    "year": "1950",
-    "lyricistLabel": "Silja Walter",
-    "composerLabel": "Josef Anton Saladin",
     "sitelinks": "2"
   },
   {
@@ -592,11 +584,11 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28035624",
-    "itemLabel": "Lysets engel går med glans",
-    "year": "1837",
-    "lyricistLabel": "Bernhard Severin Ingemann",
-    "composerLabel": "Christoph Ernst Friedrich Weyse",
+    "item": "http://www.wikidata.org/entity/Q15786335",
+    "itemLabel": "A Hymn to the Virgin",
+    "year": "1930",
+    "lyricistLabel": "",
+    "composerLabel": "Benjamin Britten",
     "sitelinks": "2"
   },
   {
@@ -604,15 +596,7 @@
     "itemLabel": "As with Gladness Men of Old",
     "year": "1861",
     "lyricistLabel": "William Chatterton Dix",
-    "composerLabel": "Conrad Kocher",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q121254360",
-    "itemLabel": "Q121254360",
-    "year": "1812",
-    "lyricistLabel": "Karl Friedrich Wilhelm Herrosee",
-    "composerLabel": "Karl Friedrich Schulz",
+    "composerLabel": "William Henry Monk",
     "sitelinks": "2"
   },
   {
@@ -632,6 +616,22 @@
     "sitelinks": "2"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q28035624",
+    "itemLabel": "Lysets engel går med glans",
+    "year": "1837",
+    "lyricistLabel": "Bernhard Severin Ingemann",
+    "composerLabel": "Christoph Ernst Friedrich Weyse",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56296227",
+    "itemLabel": "Eine große Stadt ersteht",
+    "year": "1950",
+    "lyricistLabel": "Silja Walter",
+    "composerLabel": "Josef Anton Saladin",
+    "sitelinks": "2"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q95634107",
     "itemLabel": "Ehre sei Gott in der Höhe",
     "year": "1830",
@@ -640,11 +640,11 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19032539",
-    "itemLabel": "Forth in Thy Name, O Lord",
-    "year": "1861",
-    "lyricistLabel": "",
-    "composerLabel": "",
+    "item": "http://www.wikidata.org/entity/Q121254360",
+    "itemLabel": "Q121254360",
+    "year": "1812",
+    "lyricistLabel": "Karl Friedrich Wilhelm Herrosee",
+    "composerLabel": "Karl Friedrich Schulz",
     "sitelinks": "2"
   },
   {

@@ -1,15 +1,15 @@
 [
   {
     "item": "http://www.wikidata.org/entity/Q76",
-    "itemLabel": "Q76",
+    "itemLabel": "Barack Obama",
     "year": "2009",
-    "sitelinks": "339"
+    "sitelinks": "340"
   },
   {
     "item": "http://www.wikidata.org/entity/Q22686",
     "itemLabel": "Donald Trump",
     "year": "2017",
-    "sitelinks": "326"
+    "sitelinks": "327"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9960",
@@ -21,7 +21,7 @@
     "item": "http://www.wikidata.org/entity/Q91",
     "itemLabel": "Abraham Lincoln",
     "year": "1861",
-    "sitelinks": "290"
+    "sitelinks": "291"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207",
@@ -37,9 +37,9 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q23",
-    "itemLabel": "Q23",
+    "itemLabel": "George Washington",
     "year": "1789",
-    "sitelinks": "268"
+    "sitelinks": "270"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9696",
@@ -51,7 +51,7 @@
     "item": "http://www.wikidata.org/entity/Q8007",
     "itemLabel": "Franklin Delano Roosevelt",
     "year": "1933",
-    "sitelinks": "239"
+    "sitelinks": "244"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11812",
@@ -135,7 +135,7 @@
     "item": "http://www.wikidata.org/entity/Q11816",
     "itemLabel": "John Quincy Adams",
     "year": "1825",
-    "sitelinks": "164"
+    "sitelinks": "165"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11817",
@@ -147,18 +147,18 @@
     "item": "http://www.wikidata.org/entity/Q36023",
     "itemLabel": "Calvin Coolidge",
     "year": "1923",
+    "sitelinks": "160"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35236",
+    "itemLabel": "Herbert Hoover",
+    "year": "1929",
     "sitelinks": "158"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34836",
     "itemLabel": "Ulysses S. Grant",
     "year": "1869",
-    "sitelinks": "157"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35236",
-    "itemLabel": "Herbert Hoover",
-    "year": "1929",
     "sitelinks": "157"
   },
   {
@@ -268,17 +268,5 @@
     "itemLabel": "Chester A. Arthur",
     "year": "1881",
     "sitelinks": "131"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q113227667",
-    "itemLabel": "Quentin Trembley",
-    "year": "1837",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107054330",
-    "itemLabel": "Phil Baker",
-    "year": "2018",
-    "sitelinks": "0"
   }
 ]

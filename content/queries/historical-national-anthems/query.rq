@@ -26,7 +26,7 @@ SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?composerLabel) AS ?c
   FILTER(?sitelinks >= 10)
   BIND(YEAR(?date) AS ?yearValue)
 
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }
 GROUP BY ?item ?itemLabel ?sitelinks
 ORDER BY DESC(?sitelinks)

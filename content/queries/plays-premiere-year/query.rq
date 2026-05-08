@@ -25,7 +25,7 @@ SELECT ?item ?itemLabel ?year ?authorLabel ?sitelinks WHERE {
     LIMIT 2000
   }
   SERVICE wikibase:label {
-    bd:serviceParam wikibase:language "en".
+    bd:serviceParam wikibase:language "en,mul".
     ?item rdfs:label ?itemLabel.
     ?author rdfs:label ?authorLabel.
   }
