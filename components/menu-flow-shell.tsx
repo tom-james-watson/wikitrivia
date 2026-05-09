@@ -243,6 +243,20 @@ export default function MenuFlowShell() {
   }, [path]);
 
   React.useEffect(() => {
+    if (path !== "/daily") {
+      return;
+    }
+
+    const intervalId = window.setInterval(() => {
+      if (getCurrentUtcDateKey() !== dailyDateKey) {
+        window.location.reload();
+      }
+    }, 30000);
+
+    return () => window.clearInterval(intervalId);
+  }, [dailyDateKey, path]);
+
+  React.useEffect(() => {
     if (!path.startsWith("/play")) {
       setHasStartedPendingRoute(false);
       setPendingSelectionRoute(null);
