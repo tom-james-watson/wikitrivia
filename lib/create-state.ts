@@ -2,6 +2,7 @@ import { Card } from "../types/cards";
 import { DeckNode } from "../types/decks";
 import { GameDifficulty, GameState } from "../types/game";
 import { collectLeafDeckIds } from "./deck-tree";
+import { MIN_ROUTE_CARD_COUNT } from "./free-play-difficulty-rules";
 import { createGameState } from "./game-selection";
 
 interface CreateStateOptions {
@@ -14,7 +15,7 @@ export function hasDeckForDifficulty(
   difficulty: GameDifficulty,
   cardsByDeckId: ReadonlyMap<string, Card[]>,
 ): boolean {
-  if (selectedRootDeck.difficultyCounts[difficulty] <= 0) {
+  if (selectedRootDeck.difficultyCounts[difficulty] < MIN_ROUTE_CARD_COUNT) {
     return false;
   }
 

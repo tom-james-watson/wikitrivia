@@ -39,3 +39,6 @@ yarn-error.log*
 /.generated/
 /tmp/
 tsconfig.tsbuildinfo
+
+.agents
+.claude

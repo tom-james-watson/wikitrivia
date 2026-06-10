@@ -2,6 +2,7 @@ import { mkdir, readdir, readFile, rm, writeFile } from "fs/promises";
 import path from "path";
 import {
   DIFFICULTY_MIN_PAGE_VIEWS,
+  getDifficultyPoolSize,
   MIN_ROUTE_CARD_COUNT,
 } from "../../lib/free-play-difficulty-rules";
 import { Card } from "../../types/cards";
@@ -704,14 +705,23 @@ function collectLeafDecks(node: Deck): Deck[] {
   return (node.children ?? []).flatMap((child) => collectLeafDecks(child));
 }
 
-function countDifficultyCardsInDeckSubtree(
+function getDifficultyPool(
+  cards: Card[],
+  difficulty: keyof DeckDifficultyCounts,
+): Card[] {
+  const poolSize = getDifficultyPoolSize(cards.length, difficulty);
+
+  return cards.slice(0, poolSize);
+}
+
+function countDifficultyPlayableYearsInDeckSubtree(
   node: Deck,
   builtDecksById: ReadonlyMap<string, BuiltDeck>,
 ): DeckDifficultyCounts {
-  const qidsByDifficulty = {
-    easy: new Set<string>(),
-    normal: new Set<string>(),
-    hard: new Set<string>(),
+  const yearsByDifficulty = {
+    easy: new Set<number>(),
+    normal: new Set<number>(),
+    hard: new Set<number>(),
   };
 
   for (const leaf of collectLeafDecks(node)) {
@@ -720,21 +730,21 @@ function countDifficultyCardsInDeckSubtree(
       continue;
     }
 
-    for (const card of builtDeck.cards) {
-      for (const difficulty of Object.keys(DIFFICULTY_MIN_PAGE_VIEWS) as Array<
-        keyof typeof DIFFICULTY_MIN_PAGE_VIEWS
-      >) {
+    for (const difficulty of Object.keys(DIFFICULTY_MIN_PAGE_VIEWS) as Array<
+      keyof typeof DIFFICULTY_MIN_PAGE_VIEWS
+    >) {
+      for (const card of getDifficultyPool(builtDeck.cards, difficulty)) {
         if ((card.pageViews ?? 0) >= DIFFICULTY_MIN_PAGE_VIEWS[difficulty]) {
-          qidsByDifficulty[difficulty].add(card.qid);
+          yearsByDifficulty[difficulty].add(card.year);
         }
       }
     }
   }
 
   return {
-    easy: qidsByDifficulty.easy.size,
-    normal: qidsByDifficulty.normal.size,
-    hard: qidsByDifficulty.hard.size,
+    easy: yearsByDifficulty.easy.size,
+    normal: yearsByDifficulty.normal.size,
+    hard: yearsByDifficulty.hard.size,
   };
 }
 
@@ -749,7 +759,10 @@ function populateDeckDifficultyCountsForTree(
 
     builtDecksById.set(node.id, {
       ...builtDeck,
-      difficultyCounts: countDifficultyCardsInDeckSubtree(node, builtDecksById),
+      difficultyCounts: countDifficultyPlayableYearsInDeckSubtree(
+        node,
+        builtDecksById,
+      ),
     });
 
     (node.children ?? []).forEach((child) => visit(child));

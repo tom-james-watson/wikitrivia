@@ -21,7 +21,23 @@ export const DIFFICULTY_MIN_PAGE_VIEWS: Record<GameDifficulty, number> = {
   hard: 1_000,
 };
 
-export function countCardsForDifficulty(
+export const DIFFICULTY_POOL_SHARE: Record<GameDifficulty, number> = {
+  easy: 0.25,
+  normal: 0.5,
+  hard: 1,
+};
+
+export function getDifficultyPoolSize(
+  cardCount: number,
+  difficulty: GameDifficulty,
+): number {
+  return Math.min(
+    cardCount,
+    Math.ceil(cardCount * DIFFICULTY_POOL_SHARE[difficulty]),
+  );
+}
+
+export function countPlayableYearsForDifficulty(
   deckNodes: DeckNode[],
   difficulty: GameDifficulty,
 ): number {
@@ -36,7 +52,8 @@ export function getSupportedDifficulties(
 ): GameDifficulty[] {
   return FREE_PLAY_DIFFICULTY_ORDER.filter((difficulty) => {
     return (
-      countCardsForDifficulty(deckNodes, difficulty) >= MIN_ROUTE_CARD_COUNT
+      countPlayableYearsForDifficulty(deckNodes, difficulty) >=
+      MIN_ROUTE_CARD_COUNT
     );
   });
 }
