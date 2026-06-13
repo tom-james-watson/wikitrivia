@@ -6,6 +6,7 @@ import {
 } from "../../lib/free-play-difficulty-rules";
 import { Card } from "../../types/cards";
 import { DeckDifficultyCounts, DeckNode } from "../../types/decks";
+import { textLooksUnsafeForCards } from "../card-safety";
 import { Deck, getAllDeckDefinitions, rootDeck } from "../deck-tree";
 import { QueryDefinition, SourceRow } from "../query-definition";
 import { loadQueryDefinitions } from "../query-definitions";
@@ -98,25 +99,6 @@ type RejectionReason =
 const QID_PATTERN = /\bQ\d+\b/;
 const PUBLIC_DECKS_DIR = path.join("public", "decks");
 const MIN_CARD_PAGE_VIEWS = 1_000;
-const NSFW_PATTERNS = [
-  /\badult\s+(?:film|movie|video|magazine|model|website|performer|content)\b/iu,
-  /\bporn(?:ography|ographic)?\b/iu,
-  /\berotic(?:a|ism)?\b/iu,
-  /\bsoftcore\b/iu,
-  /\bhardcore\b/iu,
-  /\bnud(?:e|es|ity)\b/iu,
-  /\bexplicit sexual\b/iu,
-  /\bsexual (?:activity|acts|behavior|behaviour|content|intercourse)\b/iu,
-  /\bsex tape\b/iu,
-  /\bmasturbat(?:e|es|ed|ing|ion)\b/iu,
-  /\bgenital(?:ia)?\b/iu,
-  /\bpenis\b/iu,
-  /\bvagina(?:l)?\b/iu,
-  /\bpubic\b/iu,
-  /\bbrothel\b/iu,
-  /\bstrip(?:per|club|tease)\b/iu,
-  /\bfetish\b/iu,
-];
 
 function roundFrequency(value: number): number {
   return Math.round(value * 1_000_000) / 1_000_000;
@@ -344,14 +326,6 @@ function isSupportedImageFilename(image: string): boolean {
   return !/\.tiff?$/iu.test(image);
 }
 
-function textLooksNsfw(value: string | null | undefined): boolean {
-  if (!value) {
-    return false;
-  }
-
-  return NSFW_PATTERNS.some((pattern) => pattern.test(value));
-}
-
 function shouldRejectForNsfw(card: BuiltCard): boolean {
   return [
     card.title,
@@ -359,7 +333,7 @@ function shouldRejectForNsfw(card: BuiltCard): boolean {
     card.fact,
     card.wikipediaTitle,
     card.image,
-  ].some((value) => textLooksNsfw(value));
+  ].some((value) => textLooksUnsafeForCards(value));
 }
 
 function toCard(card: BuiltCard): Card | null {
