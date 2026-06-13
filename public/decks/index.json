@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 4233,
-    "normal": 8047,
-    "hard": 16949
+    "easy": 4231,
+    "normal": 8045,
+    "hard": 16945
   },
   "id": "all",
   "minScore": 1000,
@@ -1461,9 +1461,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 1520,
-        "normal": 2578,
-        "hard": 4272
+        "easy": 1518,
+        "normal": 2576,
+        "hard": 4269
       },
       "id": "all-entertainment",
       "minScore": 1000,
@@ -1582,7 +1582,7 @@
           "difficultyCounts": {
             "easy": 2,
             "normal": 3,
-            "hard": 25
+            "hard": 24
           },
           "id": "all-entertainment-graphic-novels",
           "minScore": 5,
@@ -1636,9 +1636,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 4,
-            "normal": 14,
-            "hard": 101
+            "easy": 2,
+            "normal": 12,
+            "hard": 99
           },
           "id": "all-entertainment-podcasts",
           "minScore": 1,
@@ -2010,7 +2010,7 @@
       "difficultyCounts": {
         "easy": 75,
         "normal": 252,
-        "hard": 1736
+        "hard": 1735
       },
       "id": "all-architecture",
       "minScore": 1000,
@@ -2062,7 +2062,7 @@
           "difficultyCounts": {
             "easy": 33,
             "normal": 122,
-            "hard": 868
+            "hard": 867
           },
           "id": "all-architecture-modern",
           "minScore": 10,
@@ -2116,9 +2116,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 157,
-        "normal": 393,
-        "hard": 955
+        "easy": 155,
+        "normal": 391,
+        "hard": 953
       },
       "id": "all-business",
       "minScore": 1000,
@@ -2155,9 +2155,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 32,
-            "normal": 83,
-            "hard": 312
+            "easy": 30,
+            "normal": 81,
+            "hard": 310
           },
           "id": "all-business-media",
           "minScore": 0,
