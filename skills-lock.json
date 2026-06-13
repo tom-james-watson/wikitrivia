@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "simplify": {
+      "source": "brianlovin/claude-config",
+      "sourceType": "github",
+      "skillPath": "skills/simplify/SKILL.md",
+      "computedHash": "322a20071306ede626dc73ac05182b08c97b60781e23ec3fbf23f85a4d27d111"
+    },
     "vanilla-extract": {
       "source": "ceski23/skills",
       "sourceType": "github",

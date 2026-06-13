@@ -10,7 +10,6 @@ export type RandomSource = (() => number) & {
 
 export interface PreparedCard extends Card, PreparedCardFields {
   spacingBucket: number;
-  yearBucket: number;
 }
 
 export interface PreparedDeck {

@@ -7,20 +7,16 @@ import {
   PreparedDeck,
 } from "../types/game";
 import { createDeckNodeMap, getDeckNodeChildren } from "./deck-tree";
-import { DIFFICULTY_MIN_PAGE_VIEWS } from "./free-play-difficulty-rules";
+import {
+  DIFFICULTY_MIN_PAGE_VIEWS,
+  getDifficultyPoolSize,
+} from "./free-play-difficulty-rules";
 import { createWikimediaImageCandidates } from "./image";
 import { preloadCardImageCandidates } from "./use-card-image";
 
 const YEAR_BUCKET_COUNT = 5;
 const DECK_RECENCY_WINDOW = 2;
 const DECK_RECENCY_PENALTY = 0.6;
-const DECK_SEARCH_RADII = [10, 30, 80];
-const DIFFICULTY_TOP_POOL: Record<GameDifficulty, { share: number } | null> = {
-  easy: { share: 0.25 },
-  normal: { share: 0.5 },
-  hard: null,
-};
-
 function getSpacingBucket(year: number): number {
   if (year >= 1950) {
     return 0;
@@ -105,18 +101,8 @@ function weightedPick<T>(
   return weightedEntries[weightedEntries.length - 1]?.entry ?? null;
 }
 
-function createOffsetSequence(radius: number): number[] {
-  const offsets = [0];
-
-  for (let delta = 1; delta <= radius; delta += 1) {
-    offsets.push(delta, -delta);
-  }
-
-  return offsets;
-}
-
-function getWrappedIndex(length: number, index: number): number {
-  return ((index % length) + length) % length;
+function randomPick<T>(entries: T[], random: () => number): T | null {
+  return weightedPick(entries, () => 1, random);
 }
 
 function isCardUsed(
@@ -134,6 +120,21 @@ function meetsDifficultyPageViews(
     card.pageViews !== null &&
     card.pageViews >= DIFFICULTY_MIN_PAGE_VIEWS[difficulty]
   );
+}
+
+function getDifficultyPool(
+  deck: PreparedDeck,
+  difficulty: GameDifficulty,
+): PreparedCard[] {
+  const poolSize = getDifficultyPoolSize(deck.cards.length, difficulty);
+
+  return deck.cards
+    .slice(0, poolSize)
+    .filter((card) => meetsDifficultyPageViews(card, difficulty));
+}
+
+function countDistinctYears(cards: PreparedCard[]): number {
+  return new Set(cards.map((card) => card.year)).size;
 }
 
 function respectsSpacing(
@@ -164,6 +165,60 @@ function respectsSpacing(
   });
 }
 
+function getSelectableCandidates(
+  cards: PreparedCard[],
+  state: GameState,
+  strictness: number,
+  cardFilter?: (card: PreparedCard) => boolean,
+): PreparedCard[] {
+  return cards.filter((candidate) => {
+    if (cardFilter && !cardFilter(candidate)) {
+      return false;
+    }
+    if (isCardUsed(candidate, state)) {
+      return false;
+    }
+    if (!respectsSpacing(candidate, state.played, strictness)) {
+      return false;
+    }
+
+    return true;
+  });
+}
+
+function chooseOneCandidatePerYear(
+  candidates: PreparedCard[],
+  random: () => number,
+): PreparedCard[] {
+  const cardsByYear = new Map<number, PreparedCard[]>();
+
+  for (const candidate of candidates) {
+    let yearCards = cardsByYear.get(candidate.year);
+    if (!yearCards) {
+      yearCards = [];
+      cardsByYear.set(candidate.year, yearCards);
+    }
+
+    yearCards.push(candidate);
+  }
+
+  const candidatesByYear: PreparedCard[] = [];
+
+  for (const yearCards of cardsByYear.values()) {
+    if (yearCards.length === 1) {
+      candidatesByYear.push(yearCards[0]);
+      continue;
+    }
+
+    const card = randomPick(yearCards, random);
+    if (card) {
+      candidatesByYear.push(card);
+    }
+  }
+
+  return candidatesByYear;
+}
+
 function cloneDeck(deck: PreparedDeck): PreparedDeck {
   return {
     ...deck,
@@ -184,116 +239,25 @@ function chooseCardFromDeck(
   deck: PreparedDeck,
   state: GameState,
   strictness: number,
-  bucketFilter?: Set<number>,
+  cardFilter?: (card: PreparedCard) => boolean,
 ): PreparedCard | null {
   if (deck.cards.length === 0) {
     return null;
   }
 
-  const topPoolConfig = DIFFICULTY_TOP_POOL[state.difficulty];
-  if (topPoolConfig) {
-    const topPoolSize = Math.max(
-      1,
-      Math.min(
-        deck.cards.length,
-        Math.ceil(deck.cards.length * topPoolConfig.share),
-      ),
-    );
-    const topRankedCandidates = [...deck.cards]
-      .sort((left, right) => left.rank - right.rank)
-      .slice(0, topPoolSize)
-      .filter((candidate) => {
-        if (bucketFilter && !bucketFilter.has(candidate.yearBucket)) {
-          return false;
-        }
-        if (!meetsDifficultyPageViews(candidate, state.difficulty)) {
-          return false;
-        }
-        if (isCardUsed(candidate, state)) {
-          return false;
-        }
-        if (!respectsSpacing(candidate, state.played, strictness)) {
-          return false;
-        }
+  const difficultyPool = getDifficultyPool(deck, state.difficulty);
+  const selectableCandidates = getSelectableCandidates(
+    difficultyPool,
+    state,
+    strictness,
+    cardFilter,
+  );
+  const candidatesByYear = chooseOneCandidatePerYear(
+    selectableCandidates,
+    state.random,
+  );
 
-        return true;
-      });
-
-    const topRankedCard = weightedPick(
-      topRankedCandidates,
-      () => 1,
-      state.random,
-    );
-
-    if (topRankedCard) {
-      const index = deck.cards.findIndex(
-        (candidate) => candidate.id === topRankedCard.id,
-      );
-      if (index === -1) {
-        return topRankedCard;
-      }
-
-      deck.drawCursor = getWrappedIndex(
-        deck.cards.length,
-        index + 1 + Math.floor(state.random() * 7),
-      );
-      return topRankedCard;
-    }
-  }
-
-  const searchRadii = [...DECK_SEARCH_RADII, Math.max(200, deck.cards.length)];
-
-  for (const radius of searchRadii) {
-    const offsets = createOffsetSequence(
-      Math.min(radius, deck.cards.length - 1),
-    );
-    const candidates: PreparedCard[] = [];
-
-    for (const offset of offsets) {
-      const index = getWrappedIndex(
-        deck.cards.length,
-        deck.drawCursor + offset,
-      );
-      const candidate = deck.cards[index];
-
-      if (!candidate) {
-        continue;
-      }
-      if (bucketFilter && !bucketFilter.has(candidate.yearBucket)) {
-        continue;
-      }
-      if (!meetsDifficultyPageViews(candidate, state.difficulty)) {
-        continue;
-      }
-      if (isCardUsed(candidate, state)) {
-        continue;
-      }
-      if (!respectsSpacing(candidate, state.played, strictness)) {
-        continue;
-      }
-
-      candidates.push(candidate);
-    }
-
-    const card = weightedPick(candidates, (_candidate) => 1, state.random);
-
-    if (card) {
-      const index = deck.cards.findIndex(
-        (candidate) => candidate.id === card.id,
-      );
-      if (index === -1) {
-        return card;
-      }
-
-      deck.drawCursor = getWrappedIndex(
-        deck.cards.length,
-        index + 1 + Math.floor(state.random() * 7),
-      );
-      return card;
-    }
-  }
-
-  return null;
+  return randomPick(candidatesByYear, state.random);
 }
 
 function getPreparedDeckById(
@@ -306,16 +270,21 @@ function getPreparedDeckById(
 function hasAvailableDeckInSubtree(
   node: DeckNode,
   decks: PreparedDeck[],
+  difficulty: GameDifficulty,
   forbiddenDeckIds?: Set<string>,
 ): boolean {
   const children = getDeckNodeChildren(node);
   if (children.length === 0) {
     const deck = getPreparedDeckById(decks, node.id);
-    return !!deck && deck.cards.length > 0 && !forbiddenDeckIds?.has(deck.id);
+    return (
+      !!deck &&
+      countDistinctYears(getDifficultyPool(deck, difficulty)) > 0 &&
+      !forbiddenDeckIds?.has(deck.id)
+    );
   }
 
   return children.some((child) =>
-    hasAvailableDeckInSubtree(child, decks, forbiddenDeckIds),
+    hasAvailableDeckInSubtree(child, decks, difficulty, forbiddenDeckIds),
   );
 }
 
@@ -330,6 +299,7 @@ function getSelectionFrequency(node: DeckNode): number {
 function chooseDeckFromTree(
   node: DeckNode,
   decks: PreparedDeck[],
+  difficulty: GameDifficulty,
   recentDeckIds: string[],
   forbiddenDeckIds: Set<string> | undefined,
   random: () => number,
@@ -338,7 +308,11 @@ function chooseDeckFromTree(
 
   if (children.length === 0) {
     const deck = getPreparedDeckById(decks, node.id);
-    if (!deck || forbiddenDeckIds?.has(deck.id) || deck.cards.length === 0) {
+    if (
+      !deck ||
+      forbiddenDeckIds?.has(deck.id) ||
+      countDistinctYears(getDifficultyPool(deck, difficulty)) === 0
+    ) {
       return null;
     }
 
@@ -351,7 +325,7 @@ function chooseDeckFromTree(
     const candidateChildren = children.filter(
       (child) =>
         !exhaustedChildIds.has(child.id) &&
-        hasAvailableDeckInSubtree(child, decks, forbiddenDeckIds),
+        hasAvailableDeckInSubtree(child, decks, difficulty, forbiddenDeckIds),
     );
     const child = weightedPick(
       candidateChildren,
@@ -371,6 +345,7 @@ function chooseDeckFromTree(
     const deck = chooseDeckFromTree(
       child,
       decks,
+      difficulty,
       recentDeckIds,
       forbiddenDeckIds,
       random,
@@ -388,7 +363,7 @@ function chooseDeckFromTree(
 function chooseCard(
   state: GameState,
   strictnessLevels: number[],
-  bucketFilter?: Set<number>,
+  cardFilter?: (card: PreparedCard) => boolean,
   forbiddenDeckIds?: Set<string>,
 ): PreparedCard | null {
   if (!state.selectedRootDeck) {
@@ -406,6 +381,7 @@ function chooseCard(
         state.decks.filter(
           (candidateDeck) => !exhaustedDeckIds.has(candidateDeck.id),
         ),
+        state.difficulty,
         state.recentDeckIds,
         forbiddenDeckIds,
         state.random,
@@ -414,12 +390,7 @@ function chooseCard(
         break;
       }
 
-      const card = chooseCardFromDeck(
-        nextDeck,
-        state,
-        strictness,
-        bucketFilter,
-      );
+      const card = chooseCardFromDeck(nextDeck, state, strictness, cardFilter);
       if (card) {
         return card;
       }
@@ -434,15 +405,9 @@ function chooseCard(
 export function prepareDecks(
   selectedRootDeck: DeckNode,
   cardsByDeckId: ReadonlyMap<string, Card[]>,
-  random: () => number,
+  _random: () => number,
 ): PreparedDeck[] {
   const deckNodeMap = createDeckNodeMap(selectedRootDeck);
-
-  const boundaries = computeYearBoundaries(
-    Array.from(cardsByDeckId.values()).flatMap((cards) =>
-      cards.map((card) => card.year),
-    ),
-  );
 
   return Array.from(cardsByDeckId.entries())
     .map(([deckId, cards]) => {
@@ -460,13 +425,11 @@ export function prepareDecks(
             id: `${deckId}:${card.qid}:${index}`,
             rank: index + 1,
           }))
-          .sort((a, b) => a.year - b.year)
           .map((card) => ({
             ...card,
             spacingBucket: getSpacingBucket(card.year),
-            yearBucket: getYearBucket(card.year, boundaries),
           })),
-        drawCursor: Math.floor(random() * Math.max(1, cards.length)),
+        drawCursor: 0,
         id: deckId,
         minScore: deckNode.minScore,
         node: deckNode,
@@ -479,56 +442,69 @@ export function prepareDecks(
     .filter((deck) => deck.cards.length > 0);
 }
 
-function buildOpeningBucketOrder(
+function buildOpeningBucketFilters(
   decks: PreparedDeck[],
+  difficulty: GameDifficulty,
   random: () => number,
-): number[] {
+): Array<(card: PreparedCard) => boolean> {
+  const openingPool = decks.flatMap((deck) =>
+    getDifficultyPool(deck, difficulty),
+  );
+  if (openingPool.length === 0) {
+    return [];
+  }
+
+  const boundaries = computeYearBoundaries(
+    openingPool.map((card) => card.year),
+  );
   const bucketCounts = new Map<number, number>();
 
-  for (const deck of decks) {
-    for (const card of deck.cards) {
-      bucketCounts.set(
-        card.yearBucket,
-        (bucketCounts.get(card.yearBucket) ?? 0) + 1,
-      );
-    }
+  for (const card of openingPool) {
+    const bucket = getYearBucket(card.year, boundaries);
+    bucketCounts.set(bucket, (bucketCounts.get(bucket) ?? 0) + 1);
   }
 
   const availableBuckets = Array.from(bucketCounts.keys());
+  let bucketOrder: number[];
   if (availableBuckets.length <= 3) {
-    return availableBuckets;
+    bucketOrder = availableBuckets;
+  } else {
+    const firstBucket =
+      weightedPick(
+        availableBuckets,
+        (bucket) => bucketCounts.get(bucket) ?? 0,
+        random,
+      ) ?? 0;
+    const secondBucket =
+      [...availableBuckets]
+        .filter((bucket) => bucket !== firstBucket)
+        .sort(
+          (left, right) =>
+            Math.abs(right - firstBucket) - Math.abs(left - firstBucket),
+        )[0] ?? firstBucket;
+    const thirdBucket =
+      [...availableBuckets]
+        .filter((bucket) => bucket !== firstBucket && bucket !== secondBucket)
+        .sort((left, right) => {
+          const leftDistance = Math.min(
+            Math.abs(left - firstBucket),
+            Math.abs(left - secondBucket),
+          );
+          const rightDistance = Math.min(
+            Math.abs(right - firstBucket),
+            Math.abs(right - secondBucket),
+          );
+
+          return rightDistance - leftDistance;
+        })[0] ?? firstBucket;
+
+    bucketOrder = [firstBucket, secondBucket, thirdBucket];
   }
 
-  const firstBucket =
-    weightedPick(
-      availableBuckets,
-      (bucket) => bucketCounts.get(bucket) ?? 0,
-      random,
-    ) ?? 0;
-  const secondBucket =
-    [...availableBuckets]
-      .filter((bucket) => bucket !== firstBucket)
-      .sort(
-        (left, right) =>
-          Math.abs(right - firstBucket) - Math.abs(left - firstBucket),
-      )[0] ?? firstBucket;
-  const thirdBucket =
-    [...availableBuckets]
-      .filter((bucket) => bucket !== firstBucket && bucket !== secondBucket)
-      .sort((left, right) => {
-        const leftDistance = Math.min(
-          Math.abs(left - firstBucket),
-          Math.abs(left - secondBucket),
-        );
-        const rightDistance = Math.min(
-          Math.abs(right - firstBucket),
-          Math.abs(right - secondBucket),
-        );
-
-        return rightDistance - leftDistance;
-      })[0] ?? firstBucket;
-
-  return [firstBucket, secondBucket, thirdBucket];
+  return bucketOrder.map(
+    (bucket) => (card: PreparedCard) =>
+      getYearBucket(card.year, boundaries) === bucket,
+  );
 }
 
 function pickOpeningCards(
@@ -536,11 +512,14 @@ function pickOpeningCards(
   desiredCount: number,
 ): PreparedCard[] {
   const cards: PreparedCard[] = [];
-  const bucketOrder = buildOpeningBucketOrder(state.decks, state.random);
+  const bucketFilters = buildOpeningBucketFilters(
+    state.decks,
+    state.difficulty,
+    state.random,
+  );
   const openingDeckIds = new Set<string>();
 
-  for (const bucket of bucketOrder) {
-    const bucketFilter = new Set([bucket]);
+  for (const bucketFilter of bucketFilters) {
     const card =
       chooseCard(state, [1, 0.5, 0], bucketFilter, openingDeckIds) ??
       chooseCard(state, [1, 0.5, 0], bucketFilter);
