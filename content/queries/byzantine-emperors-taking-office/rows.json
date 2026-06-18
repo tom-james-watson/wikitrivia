@@ -29,6 +29,14 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "337",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160353",
+    "itemLabel": "Theodosius II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "408",
     "sitelinks": "75"
   },
   {
@@ -38,14 +46,6 @@
     "sexLabel": "male",
     "year": "1449",
     "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q160353",
-    "itemLabel": "Theodosius II",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "408",
-    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159369",
@@ -93,7 +93,15 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "976",
-    "sitelinks": "69"
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181764",
+    "itemLabel": "Maurice",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "582",
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41608",
@@ -104,20 +112,12 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q181764",
-    "itemLabel": "Maurice",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "582",
-    "sitelinks": "67"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q183452",
     "itemLabel": "Zeno",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "474",
-    "sitelinks": "65"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q206737",
@@ -125,7 +125,15 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "female",
     "year": "797",
-    "sitelinks": "64"
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34074",
+    "itemLabel": "Jovian",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "363",
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183445",
@@ -136,12 +144,12 @@
     "sitelinks": "64"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q34074",
-    "itemLabel": "Jovian",
+    "item": "http://www.wikidata.org/entity/Q42021",
+    "itemLabel": "Justinian II",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
-    "year": "363",
-    "sitelinks": "64"
+    "year": "685",
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q204843",
@@ -149,6 +157,14 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "female",
     "year": "527",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q173470",
+    "itemLabel": "Anastasius I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "491",
     "sitelinks": "63"
   },
   {
@@ -160,20 +176,12 @@
     "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q42021",
-    "itemLabel": "Justinian II",
+    "item": "http://www.wikidata.org/entity/Q37097",
+    "itemLabel": "Manuel II Palaiologos",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
-    "year": "685",
-    "sitelinks": "62"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q173470",
-    "itemLabel": "Anastasius I",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "491",
-    "sitelinks": "62"
+    "year": "1391",
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41613",
@@ -197,14 +205,6 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "457",
-    "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37097",
-    "itemLabel": "Manuel II Palaiologos",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "1391",
     "sitelinks": "60"
   },
   {
@@ -264,6 +264,14 @@
     "sitelinks": "58"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q200033",
+    "itemLabel": "Michael VIII Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1261",
+    "sitelinks": "57"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q31491",
     "itemLabel": "Tiberius II Constantine",
     "positionLabel": "Byzantine emperor",
@@ -296,11 +304,19 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200033",
-    "itemLabel": "Michael VIII Palaiologos",
+    "item": "http://www.wikidata.org/entity/Q191707",
+    "itemLabel": "Leo II",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
-    "year": "1261",
+    "year": "474",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37084",
+    "itemLabel": "John VI Kantakouzenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1347",
     "sitelinks": "56"
   },
   {
@@ -310,14 +326,6 @@
     "sexLabel": "male",
     "year": "1183",
     "sitelinks": "56"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q191707",
-    "itemLabel": "Leo II",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "474",
-    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193056",
@@ -336,11 +344,11 @@
     "sitelinks": "55"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q37084",
-    "itemLabel": "John VI Kantakouzenos",
+    "item": "http://www.wikidata.org/entity/Q37070",
+    "itemLabel": "John V Palaiologos",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
-    "year": "1347",
+    "year": "1341",
     "sitelinks": "55"
   },
   {
@@ -360,11 +368,11 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q37070",
-    "itemLabel": "John V Palaiologos",
+    "item": "http://www.wikidata.org/entity/Q37063",
+    "itemLabel": "Andronikos III Palaiologos",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
-    "year": "1341",
+    "year": "1328",
     "sitelinks": "54"
   },
   {
@@ -408,14 +416,6 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q41659",
-    "itemLabel": "Zoe Porphyrogenita",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "female",
-    "year": "1042",
-    "sitelinks": "53"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q60199",
     "itemLabel": "Theophilos",
     "positionLabel": "Byzantine emperor",
@@ -424,11 +424,11 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q37063",
-    "itemLabel": "Andronikos III Palaiologos",
+    "item": "http://www.wikidata.org/entity/Q41659",
+    "itemLabel": "Zoe Porphyrogenita",
     "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "1328",
+    "sexLabel": "female",
+    "year": "1042",
     "sitelinks": "53"
   },
   {
@@ -488,6 +488,14 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q37062",
+    "itemLabel": "John VIII Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1425",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q37072",
     "itemLabel": "John III Doukas Vatatzes",
     "positionLabel": "Byzantine emperor",
@@ -520,19 +528,19 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q41660",
+    "itemLabel": "Konstantinos X Doukas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1059",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q31513",
     "itemLabel": "Heraklonas",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "641",
-    "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37062",
-    "itemLabel": "John VIII Palaiologos",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "1425",
     "sitelinks": "51"
   },
   {
@@ -549,14 +557,6 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "713",
-    "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41660",
-    "itemLabel": "Konstantinos X Doukas",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "1059",
     "sitelinks": "51"
   },
   {
@@ -592,6 +592,14 @@
     "sitelinks": "50"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q37082",
+    "itemLabel": "Theodore II Laskaris",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1254",
+    "sitelinks": "50"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q37088",
     "itemLabel": "John IV Laskaris",
     "positionLabel": "Byzantine emperor",
@@ -613,14 +621,6 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "1067",
-    "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37082",
-    "itemLabel": "Theodore II Laskaris",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "1254",
     "sitelinks": "49"
   },
   {
@@ -648,19 +648,19 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q41838",
-    "itemLabel": "Michael V Kalaphates",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "male",
-    "year": "1041",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q41849",
     "itemLabel": "Alexios II Komnenos",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "1180",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41838",
+    "itemLabel": "Michael V Kalaphates",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1041",
     "sitelinks": "48"
   },
   {
@@ -717,7 +717,7 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "female",
     "year": "421",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q232981",
@@ -765,7 +765,7 @@
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "921",
-    "sitelinks": "26"
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q271671",
@@ -784,6 +784,14 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q125493963",
+    "itemLabel": "Ino Anastasia",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "female",
+    "year": "578",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3695445",
     "itemLabel": "Constantina",
     "positionLabel": "Byzantine emperor",
@@ -792,20 +800,12 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q125493963",
-    "itemLabel": "Ino Anastasia",
-    "positionLabel": "Byzantine emperor",
-    "sexLabel": "female",
-    "year": "578",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q514180",
     "itemLabel": "Konstantios Doukas",
     "positionLabel": "Byzantine emperor",
     "sexLabel": "male",
     "year": "1060",
-    "sitelinks": "19"
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4759496",
@@ -862,5 +862,13 @@
     "sexLabel": "male",
     "year": "659",
     "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22343002",
+    "itemLabel": "Nicholas Laskaris",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "year": "1208",
+    "sitelinks": "5"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "item": "http://www.wikidata.org/entity/Q81506",
+    "itemLabel": "Charles I of England",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "1625",
+    "sitelinks": "110"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q131412",
     "itemLabel": "Mary, Queen of Scots",
     "positionLabel": "monarch of Scotland",
@@ -8,28 +16,12 @@
     "sitelinks": "108"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q81506",
-    "itemLabel": "Charles I of England",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "1625",
-    "sitelinks": "108"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q122553",
     "itemLabel": "Charles II of England",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1660",
-    "sitelinks": "97"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q119702",
-    "itemLabel": "Anne of Great Britain",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "female",
-    "year": "1702",
-    "sitelinks": "94"
+    "sitelinks": "98"
   },
   {
     "item": "http://www.wikidata.org/entity/Q79972",
@@ -37,6 +29,14 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1587",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q119702",
+    "itemLabel": "Anne of Great Britain",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "female",
+    "year": "1702",
     "sitelinks": "94"
   },
   {
@@ -53,7 +53,7 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1685",
-    "sitelinks": "88"
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130812",
@@ -69,7 +69,7 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1306",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q137814",
@@ -77,7 +77,7 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1513",
-    "sitelinks": "67"
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q235234",
@@ -104,20 +104,12 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222616",
-    "itemLabel": "James III of Scotland",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "1460",
-    "sitelinks": "57"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q272864",
     "itemLabel": "James II of Scotland",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1437",
-    "sitelinks": "57"
+    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q211109",
@@ -125,7 +117,15 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1249",
-    "sitelinks": "56"
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q222616",
+    "itemLabel": "James III of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "1460",
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q237889",
@@ -193,11 +193,19 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q312594",
-    "itemLabel": "William, king of Scotland (William the Lion)",
+    "itemLabel": "William the Lion",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1165",
     "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q333730",
+    "itemLabel": "Malcolm I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "943",
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26326",
@@ -232,14 +240,6 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q333730",
-    "itemLabel": "Malcolm I of Scotland",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "943",
-    "sitelinks": "46"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q122479",
     "itemLabel": "Malcolm IV of Scotland",
     "positionLabel": "monarch of Scotland",
@@ -264,19 +264,19 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q332136",
-    "itemLabel": "Malcolm II of Scotland",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "1005",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q378081",
     "itemLabel": "Donald II of Scotland",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "889",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q332136",
+    "itemLabel": "Malcolm II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "1005",
     "sitelinks": "44"
   },
   {
@@ -304,19 +304,19 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q117633",
-    "itemLabel": "Lulach",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "1057",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q366745",
     "itemLabel": "Duncan II of Scotland",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1094",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q117633",
+    "itemLabel": "Lulach",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "1057",
     "sitelinks": "40"
   },
   {
@@ -344,19 +344,19 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q139139",
-    "itemLabel": "Giric",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "878",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q363132",
     "itemLabel": "Indulf",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "954",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q139139",
+    "itemLabel": "Giric",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "878",
     "sitelinks": "38"
   },
   {

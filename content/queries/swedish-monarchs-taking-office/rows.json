@@ -5,7 +5,7 @@
     "positionLabel": "Monarch of Sweden",
     "sexLabel": "male",
     "year": "1973",
-    "sitelinks": "102"
+    "sitelinks": "103"
   },
   {
     "item": "http://www.wikidata.org/entity/Q52937",
@@ -112,6 +112,14 @@
     "sitelinks": "62"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q153940",
+    "itemLabel": "Christian I of Denmark",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1457",
+    "sitelinks": "61"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q52930",
     "itemLabel": "Gustav III of Sweden",
     "positionLabel": "Monarch of Sweden",
@@ -120,20 +128,12 @@
     "sitelinks": "61"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q153940",
-    "itemLabel": "Christian I of Denmark",
-    "positionLabel": "Monarch of Sweden",
-    "sexLabel": "male",
-    "year": "1457",
-    "sitelinks": "59"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154460",
     "itemLabel": "Christian II of Denmark",
     "positionLabel": "Monarch of Sweden",
     "sexLabel": "male",
     "year": "1520",
-    "sitelinks": "57"
+    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q52936",
@@ -176,19 +176,19 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q52933",
-    "itemLabel": "Ulrika Eleonora I of Sweden",
-    "positionLabel": "Monarch of Sweden",
-    "sexLabel": "female",
-    "year": "1718",
-    "sitelinks": "52"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q52945",
     "itemLabel": "Eric XIV of Sweden",
     "positionLabel": "Monarch of Sweden",
     "sexLabel": "male",
     "year": "1560",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52933",
+    "itemLabel": "Ulrika Eleonora I of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "female",
+    "year": "1718",
     "sitelinks": "52"
   },
   {
@@ -272,6 +272,14 @@
     "sitelinks": "38"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q350220",
+    "itemLabel": "Magnus III of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1275",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q167250",
     "itemLabel": "Albert, King of Sweden",
     "positionLabel": "Monarch of Sweden",
@@ -296,11 +304,43 @@
     "sitelinks": "35"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q320989",
+    "itemLabel": "John I of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1216",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q350202",
+    "itemLabel": "Eric XI of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1222",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q357200",
     "itemLabel": "Valdemar",
     "positionLabel": "Monarch of Sweden",
     "sexLabel": "male",
     "year": "1250",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q365103",
+    "itemLabel": "Eric X of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1208",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q856159",
+    "itemLabel": "Magnus Henriksson",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1160",
     "sitelinks": "32"
   },
   {
@@ -317,7 +357,31 @@
     "positionLabel": "Monarch of Sweden",
     "sexLabel": "male",
     "year": "1290",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q471475",
+    "itemLabel": "Inge the Younger",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1105",
     "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q247223",
+    "itemLabel": "Philip of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1105",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q365072",
+    "itemLabel": "Sverker II of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1195",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q375664",
@@ -333,7 +397,23 @@
     "positionLabel": "Monarch of Sweden",
     "sexLabel": "male",
     "year": "1229",
-    "sitelinks": "28"
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q362163",
+    "itemLabel": "Stenkil",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1060",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q640407",
+    "itemLabel": "Blot-Sweyn",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1084",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q278763",
@@ -342,6 +422,22 @@
     "sexLabel": "male",
     "year": "1070",
     "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1049817",
+    "itemLabel": "Eric Stenkilsson",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1066",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1251277",
+    "itemLabel": "Eric the Pagan",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "year": "1066",
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1038586",

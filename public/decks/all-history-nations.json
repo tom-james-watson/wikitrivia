@@ -791,7 +791,7 @@
   },
   {
     "qid": "Q3185305",
-    "title": "Kingdom of Israel is established",
+    "title": "United Kingdom of Israel is established",
     "subtitle": "Historical state",
     "year": -1049,
     "fact": "The Kingdom of Israel was an Israelite kingdom that may have existed in the Southern Levant.",
@@ -1051,7 +1051,7 @@
   },
   {
     "qid": "Q160307",
-    "title": "Fatimid Caliphate is established",
+    "title": "Fatimid Egyptian Caliphate is established",
     "subtitle": "Historical state",
     "year": 909,
     "fact": "The Fatimid Caliphate, also known as the Fatimid Empire, was a caliphate that existed from the tenth to the twelfth centuries CE under the rule of the Fatimids, an Isma'ili Shi'a dynasty.",
@@ -1551,9 +1551,9 @@
   },
   {
     "qid": "Q146597",
-    "title": "Zand Iran falls",
+    "title": "Zand Iran is established",
     "subtitle": "Historical state",
-    "year": 1794,
+    "year": 1751,
     "fact": "The Guarded Domains of Iran, commonly known as Zand Iran, was the Iranian state under the rule of the Zand dynasty.",
     "wikipediaSlug": "Zand_Iran",
     "image": "Zand_Dynasty_flag.svg",
@@ -2891,9 +2891,9 @@
   },
   {
     "qid": "Q75613",
-    "title": "Almoravid dynasty falls",
+    "title": "Almoravid dynasty is established",
     "subtitle": "Historical state",
-    "year": 1147,
+    "year": 1040,
     "fact": "The Almoravid dynasty was a Berber Muslim dynasty centered in the territory of present-day Morocco.",
     "wikipediaSlug": "Almoravid_dynasty",
     "image": "Almoravid_dynasty-en.svg",
@@ -3031,9 +3031,9 @@
   },
   {
     "qid": "Q371334",
-    "title": "Second Mexican Empire is established",
+    "title": "Second Mexican Empire falls",
     "subtitle": "Historical state",
-    "year": 1864,
+    "year": 1867,
     "fact": "The Second Mexican Empire, officially known as the Mexican Empire, was a constitutional monarchy established in Mexico by Mexican monarchists with the support of the Second French Empire.",
     "wikipediaSlug": "Second_Mexican_Empire",
     "image": "Flag_of_the_Second_Mexican_Empire.svg",
@@ -3328,16 +3328,6 @@
     "wikipediaSlug": "Sheba",
     "image": "Yemen_100_BC.svg",
     "pageViews": 15830
-  },
-  {
-    "qid": "Q13369",
-    "title": "Rimini is established",
-    "subtitle": "Historical state",
-    "year": -267,
-    "fact": "Rimini is a city in the Emilia-Romagna region of Northern Italy.",
-    "wikipediaSlug": "Rimini",
-    "image": "Rimini_Montage.jpg",
-    "pageViews": 15814
   },
   {
     "qid": "Q877155",
@@ -3800,16 +3790,6 @@
     "pageViews": 13895
   },
   {
-    "qid": "Q541455",
-    "title": "Anglo-Egyptian Sudan falls",
-    "subtitle": "Historical state",
-    "year": 1956,
-    "fact": "The Anglo-Egyptian Sudan was a condominium of the United Kingdom and Egypt between 1899 and 1956, corresponding to the territory of what is now both Sudans and parts of southeastern Libya.",
-    "wikipediaSlug": "Anglo-Egyptian_Sudan",
-    "image": "Flag_of_the_United_Kingdom.svg",
-    "pageViews": 13885
-  },
-  {
     "qid": "Q203859",
     "title": "First Dynasty of Egypt begins",
     "subtitle": "Dynasty",
@@ -3901,9 +3881,9 @@
   },
   {
     "qid": "Q473748",
-    "title": "Buganda is established",
+    "title": "Buganda falls",
     "subtitle": "Historical state",
-    "year": 1420,
+    "year": 1966,
     "fact": "Buganda is a Bantu kingdom within Uganda.",
     "wikipediaSlug": "Buganda",
     "image": "Buganda_(map).png",
@@ -3948,6 +3928,16 @@
     "wikipediaSlug": "Republic_of_Upper_Volta",
     "image": "Flag_of_Upper_Volta.svg",
     "pageViews": 13347
+  },
+  {
+    "qid": "Q1406298",
+    "title": "Serbian Empire is established",
+    "subtitle": "Historical state",
+    "year": 1346,
+    "fact": "The Serbian Empire was a medieval Serbian state that emerged from the Kingdom of Serbia.",
+    "wikipediaSlug": "Serbian_Empire",
+    "image": "Flag_of_the_Serbian_Empire,_reconstruction.svg",
+    "pageViews": 13301
   },
   {
     "qid": "Q3916279",
@@ -4088,6 +4078,16 @@
     "wikipediaSlug": "Rurikids",
     "image": "Coin_of_Yaroslav_the_Wise_(reverse).png",
     "pageViews": 12685
+  },
+  {
+    "qid": "Q152855",
+    "title": "Kingdom of Tungning is established",
+    "subtitle": "Historical state",
+    "year": 1661,
+    "fact": "The Kingdom of Tungning, also known as Tywan, was a dynastic maritime state that ruled part of southwestern Taiwan and the Penghu islands between 1662 and 1683.",
+    "wikipediaSlug": "Kingdom_of_Tungning",
+    "image": "Flag_of_Ming_Cheng.svg",
+    "pageViews": 12632
   },
   {
     "qid": "Q918153",
@@ -4261,9 +4261,9 @@
   },
   {
     "qid": "Q335070",
-    "title": "Alba Longa is established",
+    "title": "Alba Longa falls",
     "subtitle": "Historical state",
-    "year": -1200,
+    "year": -672,
     "fact": "Alba Longa was an ancient Latin city in Central Italy in the vicinity of Lake Albano in the Alban Hills.",
     "wikipediaSlug": "Alba_Longa",
     "image": "Albano_Laziale_-_Le_antiche_terme_romane_di_Cellomaio.jpg",
@@ -4551,9 +4551,9 @@
   },
   {
     "qid": "Q34756",
-    "title": "Qin falls",
+    "title": "Qin is established",
     "subtitle": "Historical state",
-    "year": -220,
+    "year": -904,
     "fact": "Qin was an ancient Chinese state during the Zhou dynasty.",
     "wikipediaSlug": "Qin_(state)",
     "image": "EN-QIN260BCE.jpg",
@@ -4641,9 +4641,9 @@
   },
   {
     "qid": "Q518101",
-    "title": "First Republic of Austria falls",
+    "title": "First Republic of Austria is established",
     "subtitle": "Historical state",
-    "year": 1934,
+    "year": 1919,
     "fact": "The First Austrian Republic, officially the Republic of Austria, was created after the signing of the Treaty of Saint-Germain-en-Laye on 10 September 1919—the settlement after the end of World War I which ended the Habsburg rump state of Republic of German-Austria—and ended with the establishment of the authoritarian Federal State of Austria based upon a dictatorship of Engelbert Dollfuss and the Fatherland Front in 1934.",
     "wikipediaSlug": "First_Austrian_Republic",
     "image": "Flag_of_Austria_(1230–1934,_1945–2000).svg",
@@ -4840,6 +4840,16 @@
     "pageViews": 9752
   },
   {
+    "qid": "Q139708",
+    "title": "French Mandate for Syria and the Lebanon is established",
+    "subtitle": "Historical state",
+    "year": 1923,
+    "fact": "The Mandate for Syria and the Lebanon was a League of Nations mandate founded in the aftermath of the First World War and the partitioning of the Ottoman Empire, concerning the territories of Syria and Lebanon.",
+    "wikipediaSlug": "Mandate_for_Syria_and_the_Lebanon",
+    "image": "Mandate_for_Syria_and_the_Lebanon.djvu",
+    "pageViews": 9726
+  },
+  {
     "qid": "Q856691",
     "title": "Rashtrakuta dynasty falls",
     "subtitle": "Historical state",
@@ -4848,16 +4858,6 @@
     "wikipediaSlug": "Rashtrakuta_Empire",
     "image": "Map_of_Rashtrakuta_Empire_around_790_A.D.png",
     "pageViews": 9718
-  },
-  {
-    "qid": "Q652560",
-    "title": "West Indies Federation falls",
-    "subtitle": "Historical state",
-    "year": 1962,
-    "fact": "The West Indies Federation, also known as the West Indies, the Federation of the West Indies or the West Indian Federation, was a short-lived political union that existed from 3 January 1958 to 31 May 1962.",
-    "wikipediaSlug": "West_Indies_Federation",
-    "image": "Flag_of_the_West_Indies_Federation_(1958–1962).svg",
-    "pageViews": 9619
   },
   {
     "qid": "Q206696",
@@ -5001,7 +5001,7 @@
   },
   {
     "qid": "Q130229",
-    "title": "Georgian Soviet Socialist Republic is established",
+    "title": "Georgian SSR is established",
     "subtitle": "Historical state",
     "year": 1921,
     "fact": "The Georgian Soviet Socialist Republic, also known as Soviet Georgia, the Georgian SSR, or simply Georgia, was one of the republics of the Soviet Union from its second occupation in 1921 to its independence in 1991.",
@@ -5253,7 +5253,7 @@
     "qid": "Q332337",
     "title": "League of Corinth is established",
     "subtitle": "Historical state",
-    "year": -330,
+    "year": -336,
     "fact": "The League of Corinth, also referred to as the Hellenic League, was a federation of Greek states created by Philip II in 338–337 BC.",
     "wikipediaSlug": "League_of_Corinth",
     "image": "Map_Macedonia_336_BC-en.svg",
@@ -5451,9 +5451,9 @@
   },
   {
     "qid": "Q191484",
-    "title": "Old Great Bulgaria falls",
+    "title": "Old Great Bulgaria is established",
     "subtitle": "Historical state",
-    "year": 668,
+    "year": 632,
     "fact": "Old Great Bulgaria, also often known by the Latin names Magna Bulgaria and Patria Onoguria, was a 7th-century Turkic nomadic empire formed by the Onogur-Bulgars on the western Pontic–Caspian steppe.",
     "wikipediaSlug": "Old_Great_Bulgaria",
     "image": "Old_Great_Bulgaria.svg",
@@ -5501,8 +5501,8 @@
   },
   {
     "qid": "Q374521",
-    "title": "Bahmani Sultanate is established",
-    "subtitle": "Historical state",
+    "title": "Bahmani Sultanate begins",
+    "subtitle": "Dynasty",
     "year": 1347,
     "fact": "The Bahmani Kingdom, or the Bahmani Sultanate, was a late medieval Persianate kingdom that ruled the Deccan region.",
     "wikipediaSlug": "Bahmani_Kingdom",
@@ -5638,16 +5638,6 @@
     "wikipediaSlug": "Nasrid_dynasty",
     "image": "Coat_of_Arms_of_Nasrid_Granada_(modern_emblazonment).svg",
     "pageViews": 7167
-  },
-  {
-    "qid": "Q684030",
-    "title": "Principality of Serbia falls",
-    "subtitle": "Historical state",
-    "year": 1882,
-    "fact": "The Principality of Serbia was an autonomous, later sovereign state in the Balkans that came into existence as a result of the Serbian Revolution.",
-    "wikipediaSlug": "Principality_of_Serbia",
-    "image": "Flag_of_Serbia_(1835–1882).svg",
-    "pageViews": 7158
   },
   {
     "qid": "Q140446",
@@ -5950,16 +5940,6 @@
     "pageViews": 6225
   },
   {
-    "qid": "Q2621587",
-    "title": "Waqooyi-Bari is established",
-    "subtitle": "Historical state",
-    "year": 2012,
-    "fact": "The North Eastern State, previously known as Khatumo State until July 2025, is a federal member state in northern Somalia with its capital in Las Anod.",
-    "wikipediaSlug": "Khatumo_State",
-    "image": "Flag_of_North_Eastern_State_of_Somalia.svg",
-    "pageViews": 6223
-  },
-  {
     "qid": "Q302132",
     "title": "Danish colonial empire is established",
     "subtitle": "Colonial empire",
@@ -5971,9 +5951,9 @@
   },
   {
     "qid": "Q216632",
-    "title": "Mali Federation is established",
+    "title": "Mali Federation falls",
     "subtitle": "Historical state",
-    "year": 1959,
+    "year": 1960,
     "fact": "The Mali Federation was a federation in West Africa linking the French colonies of Senegal and the Sudanese Republic for two months in 1960.",
     "wikipediaSlug": "Mali_Federation",
     "image": "Flag_of_Mali_(1959–1961).svg",
@@ -6060,6 +6040,16 @@
     "pageViews": 5987
   },
   {
+    "qid": "Q1072140",
+    "title": "Roman Republic is established",
+    "subtitle": "Historical state",
+    "year": 1849,
+    "fact": "The Roman Republic was a short-lived state declared on 9 February 1849, when the government of the Papal States was temporarily replaced by a republican government due to Pope Pius IX's departure to Gaeta.",
+    "wikipediaSlug": "Roman_Republic_(1849%E2%80%931850)",
+    "image": "Flag_of_the_Roman_Republic_(19th_century).svg",
+    "pageViews": 5977
+  },
+  {
     "qid": "Q2370784",
     "title": "Shun dynasty begins",
     "subtitle": "Dynasty",
@@ -6088,6 +6078,16 @@
     "wikipediaSlug": "Second_Dynasty_of_Egypt",
     "image": "Khasekhemwy_statue_Ashmolean.JPG",
     "pageViews": 5905
+  },
+  {
+    "qid": "Q1771706",
+    "title": "Alania is established",
+    "subtitle": "Historical state",
+    "year": 801,
+    "fact": "Alania was a medieval kingdom of the Alans that flourished between the 9th and 13th centuries in the Northern Caucasus area, inhabited by the Iranian-speaking Alans and various native north Caucasian ethnic groups.",
+    "wikipediaSlug": "Alania",
+    "image": "Caucasus_1060_map_en.svg",
+    "pageViews": 5842
   },
   {
     "qid": "Q175358",
@@ -6360,6 +6360,16 @@
     "pageViews": 4906
   },
   {
+    "qid": "Q44642",
+    "title": "Federation of Arab Republics is established",
+    "subtitle": "Historical state",
+    "year": 1972,
+    "fact": "The Federation of Arab Republics was an unsuccessful attempt by Muammar Gaddafi to merge Libya, Egypt and Syria in order to create a unified Arab state.",
+    "wikipediaSlug": "Federation_of_Arab_Republics",
+    "image": "Flag_of_Syria_(1972–1980).svg",
+    "pageViews": 4889
+  },
+  {
     "qid": "Q784974",
     "title": "Kanva dynasty begins",
     "subtitle": "Dynasty",
@@ -6531,9 +6541,9 @@
   },
   {
     "qid": "Q157367",
-    "title": "Brandenburg-Prussia falls",
+    "title": "Brandenburg-Prussia is established",
     "subtitle": "Historical state",
-    "year": 1701,
+    "year": 1618,
     "fact": "Brandenburg–Prussia is the historiographic denomination for the early modern realm of the Brandenburgian House of Hohenzollern between 1618 and 1701.",
     "wikipediaSlug": "Brandenburg%E2%80%93Prussia",
     "image": "Locator_Brandenburg-Prussia_within_the_Holy_Roman_Empire_(1618).svg",
@@ -6868,6 +6878,16 @@
     "wikipediaSlug": "Duchy_of_Parma_and_Piacenza",
     "image": "Flag_of_the_Duchy_of_Parma.svg",
     "pageViews": 3887
+  },
+  {
+    "qid": "Q30059027",
+    "title": "Sierra Leone Colony and Protectorate is established",
+    "subtitle": "Colony",
+    "year": 1808,
+    "fact": "The Colony and Protectorate of Sierra Leone was the British colonial administration in Sierra Leone from 1808 to 1961, part of the British Empire from the abolitionism era until the decolonisation era.",
+    "wikipediaSlug": "Sierra_Leone_Colony_and_Protectorate",
+    "image": "Flag_of_Sierra_Leone_(1916–1961).svg",
+    "pageViews": 3858
   },
   {
     "qid": "Q737629",
@@ -7230,16 +7250,6 @@
     "pageViews": 2744
   },
   {
-    "qid": "Q2132267",
-    "title": "Rasulid dynasty begins",
-    "subtitle": "Dynasty",
-    "year": 1229,
-    "fact": "The Rasulid dynasty or Rasulids were a Sunni Yemeni dynasty who ruled Yemen from 1229 to 1454.",
-    "wikipediaSlug": "Rasulid_dynasty",
-    "image": "Rasulid_1264.jpg",
-    "pageViews": 2743
-  },
-  {
     "qid": "Q166981",
     "title": "Act of Independence of Lithuania is proclaimed",
     "subtitle": "Declaration of independence",
@@ -7438,6 +7448,16 @@
     "wikipediaSlug": "Twenty-ninth_Dynasty_of_Egypt",
     "image": "Near_East_400BC.svg",
     "pageViews": 2122
+  },
+  {
+    "qid": "Q3248484",
+    "title": "Argentine Declaration of Independence is proclaimed",
+    "subtitle": "Declaration of independence",
+    "year": 1816,
+    "fact": "The Independence of the Argentine Republic was declared on July 9, 1816, by the Congress of Tucumán.",
+    "wikipediaSlug": "Argentine_Declaration_of_Independence",
+    "image": "El-Congreso-de-Tucumán-1816-Francisco-Fortuny.jpg",
+    "pageViews": 2086
   },
   {
     "qid": "Q769320",

@@ -11,6 +11,7 @@ import { textLooksUnsafeForCards } from "../card-safety";
 import { Deck, getAllDeckDefinitions, rootDeck } from "../deck-tree";
 import { QueryDefinition, SourceRow } from "../query-definition";
 import { loadQueryDefinitions } from "../query-definitions";
+import { parseTimelineYear } from "../timeline-year";
 import {
   resolveEnwikiMetadata,
   resolveEnwikiPageViews,
@@ -250,12 +251,12 @@ function buildCard(
   const subtitle = subtitleTemplate
     ? capitalizeFirstLetter(cleanText(renderCardText(subtitleTemplate, row)))
     : "";
-  const year = Number(row.year);
+  const year = parseTimelineYear(row.year);
   const sourceScore = Number(row.sitelinks ?? 0);
   const qid = row.item?.match(/Q\d+$/)?.[0] ?? row.item ?? query.id;
   const titleSlug = slugify(title);
 
-  if (!Number.isFinite(year)) {
+  if (year === null) {
     return addReject(rejectionReasons, "unusable-year");
   }
 

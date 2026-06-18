@@ -32,7 +32,7 @@
     "itemLabel": "Batman: The Killing Joke",
     "year": "1988",
     "authorLabel": "Alan Moore",
-    "sitelinks": "26"
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29233",
@@ -53,14 +53,14 @@
     "itemLabel": "Chroniques de Jérusalem",
     "year": "2011",
     "authorLabel": "Guy Delisle",
-    "sitelinks": "12"
+    "sitelinks": "13"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1114530",
     "itemLabel": "Understanding Comics: The Invisible Art",
     "year": "1993",
     "authorLabel": "Scott McCloud",
-    "sitelinks": "11"
+    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2537008",
@@ -84,13 +84,6 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2553829",
-    "itemLabel": "Lost Girls",
-    "year": "2006",
-    "authorLabel": "Alan Moore",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q903000",
     "itemLabel": "Death: The High Cost of Living",
     "year": "1993",
@@ -109,6 +102,13 @@
     "itemLabel": "Batman & Dracula trilogy",
     "year": "1991",
     "authorLabel": "Doug Moench",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q115010844",
+    "itemLabel": "The Electric State",
+    "year": "2018",
+    "authorLabel": "Simon Stålenhag",
     "sitelinks": "7"
   },
   {
@@ -133,10 +133,10 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2868403",
-    "itemLabel": "Asterios Polyp",
-    "year": "2009",
-    "authorLabel": "David Mazzucchelli",
+    "item": "http://www.wikidata.org/entity/Q4710",
+    "itemLabel": "The Sandman: Endless Nights",
+    "year": "2003",
+    "authorLabel": "Neil Gaiman",
     "sitelinks": "6"
   },
   {
@@ -147,18 +147,11 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q115010844",
-    "itemLabel": "The Electric State",
-    "year": "2018",
-    "authorLabel": "Simon Stålenhag",
+    "item": "http://www.wikidata.org/entity/Q2868403",
+    "itemLabel": "Asterios Polyp",
+    "year": "2009",
+    "authorLabel": "David Mazzucchelli",
     "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5658681",
-    "itemLabel": "Harlequin Valentine",
-    "year": "2001",
-    "authorLabel": "Neil Gaiman",
-    "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12000357",
@@ -168,10 +161,17 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4710",
-    "itemLabel": "The Sandman: Endless Nights",
-    "year": "2003",
+    "item": "http://www.wikidata.org/entity/Q5658681",
+    "itemLabel": "Harlequin Valentine",
+    "year": "2001",
     "authorLabel": "Neil Gaiman",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1928979",
+    "itemLabel": "Safe Area Goražde",
+    "year": "2000",
+    "authorLabel": "Joe Sacco",
     "sitelinks": "5"
   },
   {
@@ -182,17 +182,10 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4890860",
-    "itemLabel": "I Never Liked You",
-    "year": "1994",
-    "authorLabel": "Chester Brown",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q109266172",
-    "itemLabel": "Gender Queer",
-    "year": "2019",
-    "authorLabel": "Maia Kobabe",
+    "item": "http://www.wikidata.org/entity/Q115818130",
+    "itemLabel": "Ducks: Two Years in the Oil Sands",
+    "year": "2022",
+    "authorLabel": "Kate Beaton",
     "sitelinks": "5"
   },
   {
@@ -203,10 +196,17 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47514925",
-    "itemLabel": "My Favorite Thing Is Monsters",
-    "year": "2017",
-    "authorLabel": "Emil Ferris",
+    "item": "http://www.wikidata.org/entity/Q4890860",
+    "itemLabel": "I Never Liked You",
+    "year": "1994",
+    "authorLabel": "Chester Brown",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7757443",
+    "itemLabel": "The Playboy",
+    "year": "1992",
+    "authorLabel": "Chester Brown",
     "sitelinks": "5"
   },
   {
@@ -221,6 +221,27 @@
     "itemLabel": "Batman: Noël",
     "year": "2011",
     "authorLabel": "Lee Bermejo",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5930238",
+    "itemLabel": "Zahra’s Paradise",
+    "year": "2010",
+    "authorLabel": "Amir",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47514925",
+    "itemLabel": "My Favorite Thing Is Monsters",
+    "year": "2017",
+    "authorLabel": "Emil Ferris",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109266172",
+    "itemLabel": "Gender Queer",
+    "year": "2019",
+    "authorLabel": "Maia Kobabe",
     "sitelinks": "5"
   },
   {

@@ -71,7 +71,7 @@
   },
   {
     "qid": "Q82996",
-    "title": "Introduction of runic script",
+    "title": "Introduction of Runic script",
     "subtitle": "Writing system",
     "year": 300,
     "fact": "Runes are the letters in a set of related alphabets, known as runic rows, runic alphabets or futharks, native to the Germanic peoples.",
@@ -211,9 +211,9 @@
   },
   {
     "qid": "Q26978",
-    "title": "Introduction of Aramaic alphabet",
+    "title": "Introduction of Imperial Aramaic alphabet",
     "subtitle": "Writing system",
-    "year": -799,
+    "year": -600,
     "fact": "The ancient Aramaic alphabet was used to write the Aramaic languages spoken by ancient Aramean pre-Christian peoples throughout the Fertile Crescent.",
     "wikipediaSlug": "Aramaic_alphabet",
     "image": "Stele_Salm_Louvre_AO5009.jpg",
@@ -298,6 +298,16 @@
     "wikipediaSlug": "Ge%CA%BDez_script",
     "image": "Geez_script_sample.svg",
     "pageViews": 16424
+  },
+  {
+    "qid": "Q2712936",
+    "title": "Introduction of futhorc",
+    "subtitle": "Writing system",
+    "year": 500,
+    "fact": "Anglo-Saxon runes or Anglo-Frisian runes are runes that were used by the Anglo-Saxons and Medieval Frisians as an alphabet in their native writing system, recording both Old English and Pre–Old Frisian.",
+    "wikipediaSlug": "Anglo-Saxon_runes",
+    "image": "British_Museum_Malton_Pin.jpg",
+    "pageViews": 15931
   },
   {
     "qid": "Q208503",
@@ -831,7 +841,7 @@
   },
   {
     "qid": "Q1550930",
-    "title": "Introduction of Samaritan alphabet",
+    "title": "Introduction of Samaritan script",
     "subtitle": "Writing system",
     "year": -599,
     "fact": "The Samaritan Hebrew script, or simply Samaritan script, is the alphabet used by the Samaritans for their religious and liturgical writings.",
@@ -908,6 +918,16 @@
     "wikipediaSlug": "Cypriot_syllabary",
     "image": "Idalion_tablet.jpg",
     "pageViews": 4030
+  },
+  {
+    "qid": "Q2981413",
+    "title": "Introduction of Meetei Mayek",
+    "subtitle": "Writing system",
+    "year": 6,
+    "fact": "The Meitei script, also known as the Kanglei script or the Kok Sam Lai script, after its first three letters is an abugida in the Brahmic scripts family used to write the Meitei language, the official language of Manipur, Assam and one of the 22 official languages of India.",
+    "wikipediaSlug": "Meitei_script",
+    "image": "Meitei_Mayek.png",
+    "pageViews": 4013
   },
   {
     "qid": "Q12438487",
@@ -990,6 +1010,16 @@
     "pageViews": 2934
   },
   {
+    "qid": "Q3544702",
+    "title": "Introduction of Manichaean",
+    "subtitle": "Writing system",
+    "year": 300,
+    "fact": "The Manichaean script is an abjad-based writing system rooted in the Semitic family of alphabets and associated with the spread of Manichaeism from southwest to central Asia and beyond, beginning in the third century CE.",
+    "wikipediaSlug": "Manichaean_script",
+    "image": "Manichaean_cosmogonic_text,_Sogdian_language_in_Manichaean_script,_Khocho,_9th-10th_century_AD,_leather_-_Ethnological_Museum,_Berlin_-_DSC01758.JPG",
+    "pageViews": 2916
+  },
+  {
     "qid": "Q147899",
     "title": "Introduction of Old Permic alphabet",
     "subtitle": "Writing system",
@@ -1028,6 +1058,16 @@
     "wikipediaSlug": "Ya%C3%B1alif",
     "image": "Tatar_Latin_Janalif_Arabic_1928.png",
     "pageViews": 2336
+  },
+  {
+    "qid": "Q1060381",
+    "title": "Introduction of Cham",
+    "subtitle": "Writing system",
+    "year": 400,
+    "fact": "The Cham script is a Brahmic abugida used to write Cham, an Austronesian language spoken by some 245,000 Chams in Vietnam and Cambodia.",
+    "wikipediaSlug": "Cham_script",
+    "image": "National_Museum_of_Vietnamese_History42.JPG",
+    "pageViews": 2274
   },
   {
     "qid": "Q8009382",

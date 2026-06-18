@@ -53,7 +53,15 @@
     "year": "1878",
     "composerLabel": "Samuel Cohen",
     "lyricistLabel": "Naftali Herz Imber",
-    "sitelinks": "91"
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83099",
+    "itemLabel": "Jana Gana Mana",
+    "year": "1911",
+    "composerLabel": "Margaret Cousins",
+    "lyricistLabel": "Rabindranath Tagore",
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156136",
@@ -62,14 +70,6 @@
     "composerLabel": "Nie Er",
     "lyricistLabel": "Tian Han",
     "sitelinks": "89"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83099",
-    "itemLabel": "Jana Gana Mana",
-    "year": "1911",
-    "composerLabel": "Margaret Cousins",
-    "lyricistLabel": "Rabindranath Tagore",
-    "sitelinks": "88"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170601",
@@ -165,7 +165,7 @@
     "year": "1823",
     "composerLabel": "Nikolaos Mantzaros",
     "lyricistLabel": "Dionysios Solomos",
-    "sitelinks": "72"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q199506",
@@ -248,19 +248,19 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q185128",
-    "itemLabel": "Denes nad Makedonija",
-    "year": "1942",
-    "composerLabel": "Todor Skalovski",
-    "lyricistLabel": "Vlado Maleski",
-    "sitelinks": "58"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q202137",
     "itemLabel": "God Defend New Zealand",
     "year": "1870",
     "composerLabel": "John Joseph Woods",
     "lyricistLabel": "Thomas Bracken",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185128",
+    "itemLabel": "Denes nad Makedonija",
+    "year": "1942",
+    "composerLabel": "Todor Skalovski",
+    "lyricistLabel": "Vlado Maleski",
     "sitelinks": "58"
   },
   {
@@ -288,6 +288,14 @@
     "sitelinks": "55"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q202166",
+    "itemLabel": "Ons Heemecht",
+    "year": "1864",
+    "composerLabel": "Jean Antoine Zinnen",
+    "lyricistLabel": "Michel Lentz",
+    "sitelinks": "55"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q48147",
     "itemLabel": "Auferstanden aus Ruinen",
     "year": "1949",
@@ -304,28 +312,12 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202166",
-    "itemLabel": "Ons Heemecht",
-    "year": "1864",
-    "composerLabel": "Jean Antoine Zinnen",
-    "lyricistLabel": "Michel Lentz",
-    "sitelinks": "53"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q864979",
     "itemLabel": "National Anthem of the Republic of China",
     "year": "1928",
     "composerLabel": "Cheng Maoyun",
     "lyricistLabel": "Sun Yat-sen",
     "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q208153",
-    "itemLabel": "gloria al bravo pueblo",
-    "year": "1810",
-    "composerLabel": "Lino Gallardo",
-    "lyricistLabel": "Andrés Bello",
-    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q271864",
@@ -341,6 +333,14 @@
     "year": "1927",
     "composerLabel": "Wadia Sabra",
     "lyricistLabel": "Rashid Nakhle",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208153",
+    "itemLabel": "gloria al bravo pueblo",
+    "year": "1810",
+    "composerLabel": "Lino Gallardo",
+    "lyricistLabel": "Andrés Bello",
     "sitelinks": "49"
   },
   {
@@ -372,7 +372,7 @@
     "itemLabel": "Anthem of the Azerbaijan Soviet Socialist Republic",
     "year": "1944",
     "composerLabel": "Uzeyir Hajibeyov",
-    "lyricistLabel": "Suleyman Rustam",
+    "lyricistLabel": "Samad Vurgun",
     "sitelinks": "39"
   },
   {
@@ -384,19 +384,19 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q271052",
-    "itemLabel": "Ålänningens sång",
-    "year": "1920",
-    "composerLabel": "Johan Fridolf Hagfors",
-    "lyricistLabel": "John Grandell",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1148469",
     "itemLabel": "Nkosi Sikelel' iAfrika",
     "year": "1850",
     "composerLabel": "Enoch Mankayi Sontonga",
     "lyricistLabel": "Enoch Mankayi Sontonga",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q271052",
+    "itemLabel": "Ålänningens sång",
+    "year": "1920",
+    "composerLabel": "Johan Fridolf Hagfors",
+    "lyricistLabel": "John Grandell",
     "sitelinks": "30"
   },
   {
@@ -440,20 +440,20 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1740575",
+    "itemLabel": "Worker's Marseillaise",
+    "year": "1875",
+    "composerLabel": "Claude Joseph Rouget de Lisle",
+    "lyricistLabel": "Pyotr Lavrov",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1190343",
     "itemLabel": "Anthem of the Moldavian Soviet Socialist Republic",
     "year": "1945",
     "composerLabel": "Stepan Njaga",
     "lyricistLabel": "Emilian Bukov",
     "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1740575",
-    "itemLabel": "Worker's Marseillaise",
-    "year": "1875",
-    "composerLabel": "Claude Joseph Rouget de Lisle",
-    "lyricistLabel": "Pyotr Lavrov",
-    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q149206",

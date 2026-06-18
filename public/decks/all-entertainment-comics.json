@@ -41,8 +41,8 @@
   },
   {
     "qid": "Q586025",
-    "title": "‘Attack on Titan’ is published",
-    "subtitle": "Comic book by Hajime Isayama",
+    "title": "‘Attack on Titan’ begins",
+    "subtitle": "Japanese manga series",
     "year": 2009,
     "fact": "Attack on Titan is a Japanese manga series written and illustrated by Hajime Isayama.",
     "wikipediaSlug": "Attack_on_Titan",
@@ -78,6 +78,16 @@
     "wikipediaSlug": "Death_Note",
     "image": "Death_Note_Vol_1.jpg",
     "pageViews": 106830
+  },
+  {
+    "qid": "Q696918",
+    "title": "‘JoJo's Bizarre Adventure’ begins",
+    "subtitle": "Japanese manga series",
+    "year": 1987,
+    "fact": "JoJo's Bizarre Adventure is a Japanese manga series written and illustrated by Hirohiko Araki.",
+    "wikipediaSlug": "JoJo%27s_Bizarre_Adventure",
+    "image": "JoJo_no_Kimyou_na_Bouken_cover_-_vol1.jpg",
+    "pageViews": 100887
   },
   {
     "qid": "Q97310775",
@@ -181,8 +191,8 @@
   },
   {
     "qid": "Q189562",
-    "title": "‘Fullmetal Alchemist’ is published",
-    "subtitle": "Comic book by Hiromu Arakawa",
+    "title": "‘Fullmetal Alchemist’ begins",
+    "subtitle": "Japanese manga series",
     "year": 2001,
     "fact": "Fullmetal Alchemist is a Japanese manga series written and illustrated by Hiromu Arakawa.",
     "wikipediaSlug": "Fullmetal_Alchemist",
@@ -461,7 +471,7 @@
   },
   {
     "qid": "Q308035",
-    "title": "‘XXholic xxx’ begins",
+    "title": "‘XxxHolic’ begins",
     "subtitle": "Japanese manga series",
     "year": 2003,
     "fact": "xxxHolic is a Japanese manga series written and illustrated by the manga group Clamp.",
@@ -620,6 +630,16 @@
     "pageViews": 23296
   },
   {
+    "qid": "Q647486",
+    "title": "‘Captain Tsubasa’ begins",
+    "subtitle": "Japanese manga series",
+    "year": 1981,
+    "fact": "Captain Tsubasa is a Japanese manga series written and illustrated by Yōichi Takahashi.",
+    "wikipediaSlug": "Captain_Tsubasa",
+    "image": "Captain_Tsubasa_1.png",
+    "pageViews": 22880
+  },
+  {
     "qid": "Q214771",
     "title": "‘Elfen Lied’ begins",
     "subtitle": "Japanese manga series",
@@ -698,6 +718,16 @@
     "wikipediaSlug": "Great_Teacher_Onizuka",
     "image": "GTO_volume_1.jpg",
     "pageViews": 18173
+  },
+  {
+    "qid": "Q4347",
+    "title": "‘Barefoot Gen’ begins",
+    "subtitle": "Japanese manga series",
+    "year": 1973,
+    "fact": "Barefoot Gen is a Japanese historical manga series written and illustrated by Keiji Nakazawa, loosely based on Nakazawa's experiences as a survivor of the Hiroshima atomic bombing.",
+    "wikipediaSlug": "Barefoot_Gen",
+    "image": "Barefoot_Gen_volume_one.jpg",
+    "pageViews": 17940
   },
   {
     "qid": "Q715723",
@@ -888,6 +918,16 @@
     "wikipediaSlug": "Battle_Angel_Alita",
     "image": "Battle_Angel_Alita_vol01.jpg",
     "pageViews": 13537
+  },
+  {
+    "qid": "Q696236",
+    "title": "‘Magic Knight Rayearth’ begins",
+    "subtitle": "Japanese manga series",
+    "year": 1993,
+    "fact": "Magic Knight Rayearth is a Japanese manga series written and illustrated by Clamp.",
+    "wikipediaSlug": "Magic_Knight_Rayearth",
+    "image": "MagicKnightRayearth.jpg",
+    "pageViews": 13137
   },
   {
     "qid": "Q701050",

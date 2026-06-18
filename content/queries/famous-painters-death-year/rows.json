@@ -3,10 +3,19 @@
     "item": "http://www.wikidata.org/entity/Q762",
     "itemLabel": "Leonardo da Vinci",
     "year": "1519",
-    "sitelinks": "303",
+    "sitelinks": "304",
     "description": "Italian Renaissance polymath (1452−1519)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "engineer||scientist||physicist||botanist||astronomer||mathematician||caricaturist||visual artist||architect||composer||designer||writer||philosopher||inventor||anatomist||zoologist||polymath||diplomat||civil engineer||architectural draftsperson||chemist||painter||physiologist||sculptor"
+    "occupationLabel": "scientist||physiologist||architectural drafter||botanist||mathematician||engineer||composer||physicist||naturalist||diplomat||astronomer||author||architect||inventor||mechanic||caricaturist||visual artist||polymath||natural philosopher||chemist||artist||zoologist||librettist||designer||anatomist||musician||sculptor||painter||graphic artist||master builder"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5879",
+    "itemLabel": "Johann Wolfgang von Goethe",
+    "year": "1832",
+    "sitelinks": "278",
+    "description": "German writer, artist, natural scientist and politician (1749–1832)",
+    "nationalityLabel": "Saxe-Weimar-Eisenach",
+    "occupationLabel": "botanist||politician||composer||physicist||librarian||naturalist||diplomat||lawyer||author||jurist||watercolorist||playwright||autobiographer||art theorist||art critic||travel writer||aphorist||Theaterintendant||poet||diarist||visual artist||polymath||print collector||literary scholar||statesperson||zoologist||librettist||philosopher||opinion journalist||printmaker||novelist||exlibrist||art collector||mineralogist||theologian||draftsperson||painter||theatre manager||art historian||music critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5582",
@@ -21,73 +30,82 @@
     "item": "http://www.wikidata.org/entity/Q5593",
     "itemLabel": "Pablo Picasso",
     "year": "1973",
-    "sitelinks": "262",
+    "sitelinks": "263",
     "description": "Spanish painter and sculptor (1881–1973)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "jewelry designer||screenwriter||photographer||scenographer||visual artist||choreographer||muralist||designer||collagist||assemblage artist||pastellist||etcher||theatre designer||poet||ceramicist||printmaker||lino cutter||draftsperson||illustrator||drypoint engraver||poster artist||architectural draftsperson||watercolorist||lithographer||stage painter||painter||graphic artist||costume designer||sculptor"
+    "occupationLabel": "architectural drafter||screenwriter||photographer||choreographer||author||jewelry designer||watercolorist||lithographer||poet||collagist||scenographer||visual artist||assemblage artist||muralist||drypoint engraver||pastellist||artist||ceramicist||designer||printmaker||lino cutter||poster artist||draftsperson||sculptor||stage painter||painter||graphic artist||costume designer||illustrator||theatre designer||etcher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5592",
     "itemLabel": "Michelangelo",
     "year": "1564",
-    "sitelinks": "258",
-    "description": "Italian artist and architect (1475–1564)",
+    "sitelinks": "259",
+    "description": "Italian artist and architect (1475-1564)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "visual artist||architect||writer||poet||general contractor||architectural draftsperson||painter||sculptor"
+    "occupationLabel": "architectural drafter||author||architect||general contractor||poet||visual artist||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5577",
     "itemLabel": "Salvador Dalí",
     "year": "1989",
-    "sitelinks": "245",
+    "sitelinks": "246",
     "description": "Spanish artist (1904–1989)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "jewelry designer||screenwriter||film director||photographer||scenographer||actor||designer||writer||theatre designer||holographer||draftsperson||illustrator||film actor||painter||graphic artist||sculptor"
+    "occupationLabel": "screenwriter||photographer||author||actor||jewelry designer||film director||scenographer||production designer||artist||designer||holographer||draftsperson||sculptor||painter||graphic artist||illustrator||film actor||theatre designer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7241",
     "itemLabel": "Rabindranath Tagore",
     "year": "1941",
-    "sitelinks": "243",
+    "sitelinks": "244",
     "description": "Bengali poet, philosopher and polymath (1861–1941)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "film director||singer||actor||composer||travel writer||writer||novelist||philosopher||librettist||essayist||poet||freedom fighter||Nobel Prize winner||artist||playwright||songwriter||short story writer||lyricist||painter"
+    "occupationLabel": "composer||author||actor||playwright||singer||film director||social reformer||travel writer||freedom fighter||poet||artist||librettist||philosopher||novelist||Nobel Prize winner||songwriter||short story writer||painter||essayist||lyricist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8704",
     "itemLabel": "Walt Disney",
     "year": "1966",
-    "sitelinks": "210",
+    "sitelinks": "211",
     "description": "American animator, producer, director, screenwriter, voice actor and entrepreneur, founder of The Walt Disney Company (1901–1966)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "voice actor||film producer||screenwriter||film director||caricaturist||director||actor||designer||writer||inventor||producer||animator||manufacturer||illustrator||film actor||comics artist||television presenter||painter"
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||actor||voice actor||inventor||film director||producer||film producer||animator||caricaturist||director||designer||television presenter||comics artist||draftsperson||manufacturer||painter||illustrator||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5598",
     "itemLabel": "Rembrandt",
     "year": "1669",
-    "sitelinks": "203",
+    "sitelinks": "205",
     "description": "Dutch painter and printmaker (1606–1669)",
     "nationalityLabel": "Dutch",
-    "occupationLabel": "collector||visual artist||etcher||printmaker||old master||engraver||draftsperson||art collector||painter"
+    "occupationLabel": "art dealer||collector||engraver||visual artist||old master||artist||printmaker||art collector||draftsperson||painter||etcher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4724",
     "itemLabel": "Le Corbusier",
     "year": "1965",
-    "sitelinks": "197",
+    "sitelinks": "198",
     "description": "Swiss-French architect, designer, urbanist, and writer (1886–1965)",
     "nationalityLabel": "French||Swiss",
-    "occupationLabel": "urban planner||photographer||visual artist||architect||designer||writer||textile artist||furniture designer||carpets designer||draftsperson||painter||sculptor"
+    "occupationLabel": "urban planner||photographer||author||architect||visual artist||carpets designer||textile artist||designer||furniture designer||draftsperson||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5588",
     "itemLabel": "Frida Kahlo",
     "year": "1954",
-    "sitelinks": "195",
+    "sitelinks": "196",
     "description": "Mexican painter (1907–1954)",
     "nationalityLabel": "Mexican||Mexicans",
     "occupationLabel": "painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5597",
+    "itemLabel": "Raphael",
+    "year": "1520",
+    "sitelinks": "193",
+    "description": "Italian painter and architect (1483–1520)",
+    "nationalityLabel": "Roman",
+    "occupationLabel": "architectural drafter||architect||fresco painter||visual artist||designer||court painter||draftsperson||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4605",
@@ -96,52 +114,43 @@
     "sitelinks": "193",
     "description": "French stage actress, painter and sculptor (1844–1923)",
     "nationalityLabel": "French",
-    "occupationLabel": "actor||writer||dancer||film actor||painter||sculptor||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5597",
-    "itemLabel": "Raphael",
-    "year": "1520",
-    "sitelinks": "191",
-    "description": "Italian painter and architect (1483–1520)",
-    "nationalityLabel": "Roman",
-    "occupationLabel": "visual artist||architect||designer||fresco painter||draftsperson||architectural draftsperson||court painter||painter||sculptor"
+    "occupationLabel": "stage actor||author||actor||dancer||sculptor||painter||theatre manager||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5580",
     "itemLabel": "Albrecht Dürer",
     "year": "1528",
-    "sitelinks": "185",
-    "description": "German painter, printmaker, mathematician, and theorist (1471–1528)",
+    "sitelinks": "188",
+    "description": "German painter, printmaker, mathematician, and theorist (1471-1528)",
     "nationalityLabel": "Duchy of Bavaria",
-    "occupationLabel": "mathematician||designer||wood engraver||goldsmith||printmaker||engraver||exlibrist||draftsperson||illustrator||copper engraver||art theorist||illuminator||painter"
+    "occupationLabel": "mathematician||art theorist||goldsmith||wood engraver||engraver||designer||printmaker||exlibrist||copper engraver||draftsperson||illuminator||painter||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5432",
     "itemLabel": "Francisco Goya",
     "year": "1828",
-    "sitelinks": "181",
+    "sitelinks": "183",
     "description": "Spanish painter and printmaker (1746–1828)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "visual artist||etcher||printmaker||draftsperson||lithographer||painter"
+    "occupationLabel": "lithographer||visual artist||printmaker||draftsperson||painter||etcher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5589",
     "itemLabel": "Henri Matisse",
     "year": "1954",
-    "sitelinks": "177",
-    "description": "French artist (1869–1954)",
+    "sitelinks": "179",
+    "description": "French artist (1869-1954)",
     "nationalityLabel": "French",
-    "occupationLabel": "designer||ceramicist||printmaker||artist||draftsperson||art theorist||lithographer||glass painter||stage painter||painter||sculptor"
+    "occupationLabel": "art theorist||glass painter||lithographer||artist||ceramicist||designer||printmaker||draftsperson||sculptor||stage painter||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5603",
     "itemLabel": "Andy Warhol",
     "year": "1987",
-    "sitelinks": "177",
+    "sitelinks": "178",
     "description": "American artist, film director, and producer (1928–1987)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "film producer||screenwriter||film director||photographer||visual artist||designer||cinematographer||producer||printmaker||performance artist||author||artist||draftsperson||illustrator||merchant||diarist||installation artist||painter||graphic artist||sculptor||filmmaker"
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||photographer||film director||installation artist||producer||cinematographer||film producer||merchant||diarist||visual artist||director||author||artist||graphic designer||designer||printmaker||draftsperson||sculptor||painter||graphic artist||illustrator||performance artist||filmmaker"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15869",
@@ -150,40 +159,40 @@
     "sitelinks": "177",
     "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
     "nationalityLabel": "Sultanate of Zanzibar||British||Briton",
-    "occupationLabel": "singer||composer||record producer||poet||singer-songwriter||rock musician||manufacturer||graphic designer||guitarist||pianist||painter"
+    "occupationLabel": "composer||record producer||singer||poet||pianist||singer-songwriter||graphic designer||guitarist||rock musician||manufacturer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5586",
     "itemLabel": "Katsushika Hokusai",
     "year": "1849",
-    "sitelinks": "174",
+    "sitelinks": "175",
     "description": "Japanese artist (1760-1849)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "visual artist||designer||ukiyo-e artist||printmaker||artist||draftsperson||illustrator||architectural draftsperson||painter||graphic artist||xylographer"
+    "occupationLabel": "architectural drafter||ukiyo-e artist||visual artist||artist||designer||printmaker||draftsperson||painter||graphic artist||illustrator||xylographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8006",
     "itemLabel": "Akira Kurosawa",
     "year": "1998",
-    "sitelinks": "172",
+    "sitelinks": "174",
     "description": "Japanese filmmaker (1910–1998)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "film producer||screenwriter||film director||director||writer||film screenwriter||producer||film editor||painter"
+    "occupationLabel": "screenwriter||author||film director||producer||film producer||film screenwriter||director||film editor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5599",
     "itemLabel": "Peter Paul Rubens",
     "year": "1640",
-    "sitelinks": "169",
+    "sitelinks": "172",
     "description": "Flemish painter (1577–1640)",
     "nationalityLabel": "Spanish Netherlands",
-    "occupationLabel": "visual artist||printmaker||diplomat||architectural draftsperson||painter||graphic artist||sculptor"
+    "occupationLabel": "architectural drafter||diplomat||visual artist||printmaker||sculptor||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q297",
     "itemLabel": "Diego Velázquez",
     "year": "1660",
-    "sitelinks": "164",
+    "sitelinks": "165",
     "description": "Spanish painter (1599-1660)",
     "nationalityLabel": "Spanish||Spaniard",
     "occupationLabel": "visual artist||artist||painter"
@@ -195,7 +204,7 @@
     "sitelinks": "162",
     "description": "English poet and artist (1757–1827)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "collector||printer||writer||philosopher||librettist||poet||miniature painter||printmaker||engraver||exlibrist||artist||draftsperson||illustrator||watercolorist||lithographer||theologian||painter||sculptor"
+    "occupationLabel": "printer||author||watercolorist||collector||miniature painter||lithographer||engraver||poet||artist||librettist||philosopher||printmaker||exlibrist||copper engraver||theologian||draftsperson||sculptor||painter||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q25973",
@@ -204,7 +213,7 @@
     "sitelinks": "160",
     "description": "Nobel Prize winning German-Swiss poet, novelist and painter (1877–1962)",
     "nationalityLabel": "German||Swiss",
-    "occupationLabel": "writer||novelist||philosopher||librettist||poet||literary scholar||Nobel Prize winner||illustrator||pacifist||bookseller||painter||resistance fighter"
+    "occupationLabel": "author||poet||literary scholar||librettist||philosopher||novelist||Nobel Prize winner||pacifist||bookseller||painter||illustrator||resistance fighter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47737",
@@ -213,7 +222,7 @@
     "sitelinks": "158",
     "description": "Lebanese-American writer, poet, and painter (1883–1931)",
     "nationalityLabel": "State of Greater Lebanon||Lebanese Republic under French mandate||Ottoman",
-    "occupationLabel": "writer||philosopher||poet||short story writer||painter"
+    "occupationLabel": "author||poet||philosopher||short story writer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q296",
@@ -225,13 +234,22 @@
     "occupationLabel": "painter||graphic artist"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q41532",
+    "itemLabel": "Carl Jung",
+    "year": "1961",
+    "sitelinks": "150",
+    "description": "Swiss psychiatrist and psychotherapist (1875–1961)",
+    "nationalityLabel": "Swiss",
+    "occupationLabel": "psychiatrist||psychologist||psychoanalyst||university teacher||painter||psychotherapist||essayist"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q231690",
     "itemLabel": "B. R. Ambedkar",
     "year": "1956",
     "sitelinks": "148",
     "description": "Indian polymath, philosopher, and social reformer (1891–1956)",
     "nationalityLabel": "British Raj||Indian",
-    "occupationLabel": "sociologist||politician||professor||revolutionary||economist||jurist||writer||humanitarian||educational theorist||spiritual leader||philosopher||scholar||anthropologist||historian||women's rights activist||essayist||freedom fighter||orator||bibliographer||constitutionalist||political writer||newspaper editor||barrister||peace activist||theologian||human rights defender||autobiographer||political scientist||civil rights advocate||painter||journalist||pedagogue"
+    "occupationLabel": "journalist||politician||sociologist||lawyer||professor||author||historian||jurist||economist||autobiographer||newspaper editor||humanitarian||social reformer||women's rights activist||freedom fighter||revolutionary||educational theorist||spiritual leader||anthropologist||constitutionalist||scholar||philosopher||bibliographer||barrister||orator||theologian||pedagogue||human rights defender||political writer||political scientist||peace activist||civil rights advocate||painter||essayist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q855252",
@@ -240,16 +258,25 @@
     "sitelinks": "142",
     "description": "former King of Thailand (1927–2016)",
     "nationalityLabel": "Thai",
-    "occupationLabel": "monarch||engineer||politician||photographer||composer||environmentalist||writer||teacher||military officer||social worker||sailor||saxophonist||jazz musician||statesperson||painter"
+    "occupationLabel": "monarch||engineer||composer||teacher||photographer||author||military officer||sailor||environmentalist||social worker||statesperson||saxophonist||jazz musician||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8873",
     "itemLabel": "Satyajit Ray",
     "year": "1992",
-    "sitelinks": "139",
+    "sitelinks": "140",
     "description": "Indian filmmaker and writer (1921–1992)",
     "nationalityLabel": "Indian",
-    "occupationLabel": "film producer||screenwriter||film director||film critic||composer||writer||children's writer||cinematographer||poet||film editor||songwriter||lyricist||painter||journalist"
+    "occupationLabel": "journalist||composer||screenwriter||author||film director||cinematographer||film producer||poet||film critic||children's writer||film editor||songwriter||painter||filmmaker||lyricist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35548",
+    "itemLabel": "Paul Cézanne",
+    "year": "1906",
+    "sitelinks": "138",
+    "description": "French painter (1839–1906)",
+    "nationalityLabel": "French",
+    "occupationLabel": "lithographer||printmaker||draftsperson||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6538",
@@ -258,16 +285,16 @@
     "sitelinks": "137",
     "description": "German novelist, poet, playwright, illustrator, graphic artist, and sculptor (1927-2015)",
     "nationalityLabel": "Free City of Danzig||German",
-    "occupationLabel": "screenwriter||photographer||altar server||novelist||librettist||essayist||poet||printmaker||playwright||illustrator||lyricist||autobiographer||painter||graphic artist||sculptor"
+    "occupationLabel": "screenwriter||photographer||author||altar server||playwright||autobiographer||poet||artist||librettist||printmaker||novelist||sculptor||painter||graphic artist||illustrator||essayist||lyricist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q35548",
-    "itemLabel": "Paul Cézanne",
-    "year": "1906",
+    "item": "http://www.wikidata.org/entity/Q134958",
+    "itemLabel": "Taras Shevchenko",
+    "year": "1861",
     "sitelinks": "136",
-    "description": "French painter (1839–1906)",
-    "nationalityLabel": "French",
-    "occupationLabel": "printmaker||draftsperson||lithographer||painter"
+    "description": "Ukrainian poet and artist (1814–1861)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "author||playwright||poet||film screenwriter||anthropologist||artist||philosopher||ethnographer||prose writer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5383",
@@ -276,16 +303,7 @@
     "sitelinks": "136",
     "description": "English musician and actor (1947–2016)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "music video director||film producer||visual artist||singer||actor||composer||vocalist||record producer||librettist||singer-songwriter||occultist||saxophonist||manufacturer||art collector||film actor||songwriter||mime artist||bandleader||musician||guitarist||pianist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134958",
-    "itemLabel": "Taras Shevchenko",
-    "year": "1861",
-    "sitelinks": "134",
-    "description": "Ukrainian poet and artist (1814–1861)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "writer||philosopher||anthropologist||poet||prose writer||artist||ethnographer||playwright||painter"
+    "occupationLabel": "music video director||composer||actor||vocalist||record producer||singer||film producer||visual artist||pianist||singer-songwriter||librettist||mime artist||bandleader||guitarist||art collector||occultist||saxophonist||songwriter||manufacturer||musician||painter||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23380",
@@ -294,16 +312,16 @@
     "sitelinks": "133",
     "description": "French painter (1780–1867)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||visual artist||architect||printmaker||draftsperson||architectural draftsperson||painter||graphic artist||violinist"
+    "occupationLabel": "architectural drafter||politician||architect||visual artist||printmaker||draftsperson||violinist||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37693",
     "itemLabel": "Paul Gauguin",
     "year": "1903",
-    "sitelinks": "132",
+    "sitelinks": "133",
     "description": "French painter and printmaker (1848–1903)",
     "nationalityLabel": "French",
-    "occupationLabel": "visual artist||ceramicist||printmaker||draftsperson||illustrator||painter||graphic artist||sculptor"
+    "occupationLabel": "visual artist||ceramicist||printmaker||draftsperson||sculptor||painter||graphic artist||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q30755",
@@ -312,7 +330,7 @@
     "sitelinks": "129",
     "description": "French sculptor (1840–1917)",
     "nationalityLabel": "French",
-    "occupationLabel": "photographer||printmaker||draftsperson||painter||sculptor"
+    "occupationLabel": "photographer||printmaker||draftsperson||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2677",
@@ -330,7 +348,7 @@
     "sitelinks": "127",
     "description": "Russian writer, poet and painter (1814–1841)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "writer||novelist||military officer||bretteur||poet||prose writer||translator||playwright||painter"
+    "occupationLabel": "author||playwright||military officer||bretteur||poet||translator||librettist||novelist||prose writer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132964",
@@ -339,16 +357,16 @@
     "sitelinks": "123",
     "description": "Russian and Soviet poet (1893–1930)",
     "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian Republic||Russian||Soviet",
-    "occupationLabel": "screenwriter||film director||visual artist||director||actor||theatrical director||writer||poet||opinion journalist||printmaker||playwright||film actor||poster artist||painter||journalist||stage actor"
+    "occupationLabel": "journalist||stage actor||screenwriter||author||actor||playwright||film director||theatre director||poet||visual artist||director||opinion journalist||printmaker||poster artist||painter||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46096",
     "itemLabel": "Felix Mendelssohn",
     "year": "1847",
     "sitelinks": "122",
-    "description": "German composer, pianist, organist and conductor of Jewish descent (1809–1847)",
+    "description": "German composer, pianist, organist and conductor of Jewish descent (1809-1847)",
     "nationalityLabel": "Kingdom of Saxony||Hamburger",
-    "occupationLabel": "conductor||composer||writer||music educator||musicologist||organist||university teacher||pianist||painter"
+    "occupationLabel": "composer||author||conductor||pianist||musicologist||organist||musician||music educator||university teacher||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33477",
@@ -357,7 +375,7 @@
     "sitelinks": "121",
     "description": "French painter (1798–1863)",
     "nationalityLabel": "French",
-    "occupationLabel": "photographer||visual artist||muralist||pastellist||draftsperson||architectural draftsperson||lithographer||diarist||painter"
+    "occupationLabel": "architectural drafter||photographer||lithographer||diarist||visual artist||muralist||pastellist||draftsperson||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83158",
@@ -366,16 +384,16 @@
     "sitelinks": "121",
     "description": "French writer and filmmaker (1889–1963)",
     "nationalityLabel": "French",
-    "occupationLabel": "voice actor||jewelry designer||screenwriter||film director||photographer||director||actor||muralist||composer||designer||writer||novelist||pastellist||librettist||cinematographer||poet||ceramicist||prose writer||author||exlibrist||playwright||draftsperson||illustrator||lithographer||painter||postage stamp designer||filmmaker"
+    "occupationLabel": "postage stamp designer||composer||screenwriter||photographer||author||actor||jewelry designer||voice actor||playwright||film director||lithographer||cinematographer||poet||director||muralist||pastellist||librettist||ceramicist||designer||novelist||exlibrist||prose writer||draftsperson||sculptor||painter||illustrator||filmmaker"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41406",
     "itemLabel": "Edvard Munch",
     "year": "1944",
     "sitelinks": "119",
-    "description": "Norwegian painter. (1863–1944)",
+    "description": "Norwegian painter (1863–1944)",
     "nationalityLabel": "Norwegian",
-    "occupationLabel": "printmaker||draftsperson||architectural draftsperson||painter||graphic artist"
+    "occupationLabel": "architectural drafter||printmaker||draftsperson||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179126",
@@ -384,7 +402,7 @@
     "sitelinks": "116",
     "description": "English writer and art critic (1819–1900)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "sociologist||art critic||architect||literary critic||writer||daguerreotypist||philosopher||poet||aesthetician||university teacher||art historian||painter||journalist"
+    "occupationLabel": "journalist||sociologist||author||architect||art critic||poet||daguerreotypist||literary critic||aesthetician||philosopher||university teacher||painter||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7724",
@@ -393,7 +411,7 @@
     "sitelinks": "116",
     "description": "Swedish writer and painter (1849–1912)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "screenwriter||photographer||writer||novelist||essayist||poet||prose writer||playwright||autobiographer||painter"
+    "occupationLabel": "screenwriter||photographer||author||playwright||autobiographer||poet||artist||librettist||novelist||prose writer||painter||essayist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37571",
@@ -401,17 +419,26 @@
     "year": "1956",
     "sitelinks": "116",
     "description": "American painter (1912–1956)",
-    "nationalityLabel": "Americans||American",
+    "nationalityLabel": "American||Americans",
     "occupationLabel": "printmaker||draftsperson||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41264",
     "itemLabel": "Johannes Vermeer",
     "year": "1675",
-    "sitelinks": "114",
+    "sitelinks": "115",
     "description": "Dutch painter (1632–1675)",
     "nationalityLabel": "Dutch",
     "occupationLabel": "art dealer||art collector||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39931",
+    "itemLabel": "Pierre-Auguste Renoir",
+    "year": "1919",
+    "sitelinks": "114",
+    "description": "French painter and sculptor (1841–1919)",
+    "nationalityLabel": "French",
+    "occupationLabel": "architectural drafter||watercolorist||porcelain painter||lithographer||pastellist||printmaker||draftsperson||decorative painter||sculptor||painter||graphic artist||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q301",
@@ -420,7 +447,7 @@
     "sitelinks": "113",
     "description": "Greek artist, painter, sculptor and architect (1541–1614)",
     "nationalityLabel": "Crown of Castile||Venetian",
-    "occupationLabel": "architect||architectural draftsperson||painter||sculptor"
+    "occupationLabel": "architectural drafter||architect||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46373",
@@ -429,16 +456,16 @@
     "sitelinks": "113",
     "description": "French Impressionist artist (1834–1917)",
     "nationalityLabel": "French",
-    "occupationLabel": "photographer||poet||printmaker||artist||draftsperson||lithographer||painter||sculptor"
+    "occupationLabel": "photographer||lithographer||poet||artist||printmaker||draftsperson||sculptor||painter"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q39931",
-    "itemLabel": "Pierre-Auguste Renoir",
-    "year": "1919",
-    "sitelinks": "113",
-    "description": "French painter and sculptor (1841–1919)",
-    "nationalityLabel": "French",
-    "occupationLabel": "pastellist||porcelain painter||printmaker||draftsperson||illustrator||architectural draftsperson||watercolorist||lithographer||painter||graphic artist||sculptor||decorative painter"
+    "item": "http://www.wikidata.org/entity/Q5669",
+    "itemLabel": "Sandro Botticelli",
+    "year": "1510",
+    "sitelinks": "112",
+    "description": "Italian painter (1445–1510)",
+    "nationalityLabel": "Italian",
+    "occupationLabel": "architectural drafter||fresco painter||draftsperson||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42207",
@@ -456,25 +483,25 @@
     "sitelinks": "112",
     "description": "French painter (1832–1883)",
     "nationalityLabel": "French",
-    "occupationLabel": "visual artist||artist||draftsperson||illustrator||architectural draftsperson||lithographer||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5669",
-    "itemLabel": "Sandro Botticelli",
-    "year": "1510",
-    "sitelinks": "110",
-    "description": "Italian painter (1445–1510)",
-    "nationalityLabel": "",
-    "occupationLabel": "fresco painter||draftsperson||architectural draftsperson||painter"
+    "occupationLabel": "architectural drafter||lithographer||visual artist||artist||draftsperson||painter||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155855",
     "itemLabel": "Karel Čapek",
     "year": "1938",
-    "sitelinks": "109",
+    "sitelinks": "110",
     "description": "Czech writer (1890–1938)",
     "nationalityLabel": "Austrian||Czechoslovak",
-    "occupationLabel": "photographer||director||literary critic||writer||children's writer||novelist||philosopher||essayist||poet||feuilletonist||translator||traveler||playwright||illustrator||science fiction writer||painter||journalist"
+    "occupationLabel": "journalist||photographer||author||playwright||feuilletonist||poet||science fiction writer||director||literary critic||dramaturge||translator||children's writer||philosopher||novelist||traveler||draftsperson||painter||illustrator||essayist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58720",
+    "itemLabel": "Mikhail Lomonosov",
+    "year": "1765",
+    "sitelinks": "109",
+    "description": "Russian polymath (1711-1765)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "scientist||mathematician||politician||physicist||astronomer||author||historian||inventor||mosaicist||poet||polymath||scholar||chemist||translator||geologist||philosopher||geographer||linguist||university teacher||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q765",
@@ -483,43 +510,34 @@
     "sitelinks": "109",
     "description": "Italian actor, playwright, comedian, singer-songwriter, theater director, painter, and political activist (1926-2016)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "screenwriter||scenographer||visual artist||director||actor||theatrical director||composer||writer||poet||Theaterintendant||satirist||Nobel Prize winner||playwright||illustrator||film actor||stage author||painter||costume designer||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q58720",
-    "itemLabel": "Mikhail Lomonosov",
-    "year": "1765",
-    "sitelinks": "108",
-    "description": "Russian polymath (1711-1765)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "politician||scientist||physicist||astronomer||mathematician||writer||philosopher||inventor||historian||poet||polymath||mosaicist||translator||geologist||linguist||chemist||university teacher||geographer||painter"
+    "occupationLabel": "stage actor||composer||screenwriter||author||actor||playwright||Theaterintendant||theatre director||poet||scenographer||visual artist||director||satirist||Nobel Prize winner||painter||costume designer||illustrator||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37562",
     "itemLabel": "Donatello",
     "year": "1466",
-    "sitelinks": "106",
+    "sitelinks": "107",
     "description": "Early Renaissance Italian sculptor (1386–1466)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "painter||sculptor"
+    "occupationLabel": "artist||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47551",
     "itemLabel": "Titian",
     "year": "1576",
-    "sitelinks": "106",
+    "sitelinks": "107",
     "description": "Italian painter (c.1490–1576)",
     "nationalityLabel": "Venetian",
-    "occupationLabel": "visual artist||printmaker||draftsperson||architectural draftsperson||painter"
+    "occupationLabel": "architectural drafter||visual artist||printmaker||draftsperson||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34661",
     "itemLabel": "Gustav Klimt",
     "year": "1918",
-    "sitelinks": "105",
+    "sitelinks": "106",
     "description": "Austrian symbolist painter (1862–1918)",
     "nationalityLabel": "Austrian",
-    "occupationLabel": "designer||pastellist||exlibrist||draftsperson||architectural draftsperson||painter||graphic artist"
+    "occupationLabel": "architectural drafter||pastellist||designer||exlibrist||draftsperson||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34970",
@@ -528,7 +546,7 @@
     "sitelinks": "105",
     "description": "English writer and poet (1885–1930)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||literary critic||writer||novelist||poet||translator||playwright||painter"
+    "occupationLabel": "screenwriter||author||playwright||poet||literary critic||translator||librettist||novelist||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152384",
@@ -537,7 +555,7 @@
     "sitelinks": "105",
     "description": "Spanish painter, sculptor, and ceramicist (1893–1983)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "scenographer||visual artist||designer||collagist||textile artist||pastellist||theatre designer||ceramicist||engraver||artist||carpets designer||draftsperson||illustrator||lithographer||painter||graphic artist||postage stamp designer||sculptor"
+    "occupationLabel": "postage stamp designer||lithographer||engraver||collagist||scenographer||visual artist||carpets designer||pastellist||textile artist||artist||ceramicist||designer||draftsperson||sculptor||painter||graphic artist||illustrator||theatre designer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2071",
@@ -545,8 +563,17 @@
     "year": "2025",
     "sitelinks": "105",
     "description": "American filmmaker, visual artist, musician, and actor (1946–2025)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "voice actor||film producer||screenwriter||film director||photographer||visual artist||director||actor||composer||writer||film screenwriter||cinematographer||producer||film editor||television actor||animator||film actor||songwriter||musician||lyricist||painter"
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||photographer||author||actor||voice actor||singer||film director||cinematographer||film producer||animator||film screenwriter||director||film editor||songwriter||musician||painter||television actor||film actor||lyricist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q93284",
+    "itemLabel": "Marc Chagall",
+    "year": "1985",
+    "sitelinks": "103",
+    "description": "Belarusian-French artist (1887–1985)",
+    "nationalityLabel": "statelessness||Russian Socialist Federative Soviet Republic||Russian||French",
+    "occupationLabel": "architectural drafter||watercolorist||lithographer||engraver||poet||scenographer||ceramicist||designer||printmaker||draftsperson||sculptor||painter||graphic artist||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q61064",
@@ -554,23 +581,14 @@
     "year": "1944",
     "sitelinks": "102",
     "description": "avant-garde painter of Russian origin (1866-1944)",
-    "nationalityLabel": "Russian||Soviet||Russian Soviet Federative Socialist Republic||German||French",
-    "occupationLabel": "scenographer||designer||lawyer||teacher||printmaker||draftsperson||illustrator||architectural draftsperson||art theorist||university teacher||painter||graphic artist||sculptor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93284",
-    "itemLabel": "Marc Chagall",
-    "year": "1985",
-    "sitelinks": "102",
-    "description": "Belarusian-French artist (1887–1985)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||statelessness||Russian||French",
-    "occupationLabel": "scenographer||designer||poet||ceramicist||printmaker||engraver||draftsperson||illustrator||architectural draftsperson||watercolorist||lithographer||painter||graphic artist||sculptor"
+    "nationalityLabel": "Russian Soviet Federative Socialist Republic||Russian||Soviet||French||German",
+    "occupationLabel": "architectural drafter||teacher||lawyer||author||art theorist||scenographer||artist||designer||printmaker||draftsperson||university teacher||sculptor||painter||graphic artist||illustrator||theatre designer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47842",
     "itemLabel": "Empress Dowager Cixi",
     "year": "1908",
-    "sitelinks": "99",
+    "sitelinks": "100",
     "description": "Chinese empress (1835–1908)",
     "nationalityLabel": "Qing dynasty",
     "occupationLabel": "monarch||politician||queen regnant||photographer||painter"
@@ -581,17 +599,17 @@
     "year": "1872",
     "sitelinks": "98",
     "description": "American inventor and painter (1791–1872)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "physicist||photographer||writer||inventor||university teacher||painter||sculptor"
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "physicist||photographer||author||inventor||artist||university teacher||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103285",
     "itemLabel": "José Martí",
     "year": "1895",
-    "sitelinks": "97",
+    "sitelinks": "98",
     "description": "Cuban poet, philosopher and nationalist (1853-1895)",
-    "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "politician||revolutionary||military personnel||writer||essayist||poet||translator||linguist||painter||journalist"
+    "nationalityLabel": "Mexican||Mexicans||Spanish||Spaniard",
+    "occupationLabel": "journalist||politician||author||military personnel||poet||revolutionary||translator||philosopher||linguist||painter||essayist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q82445",
@@ -600,7 +618,7 @@
     "sitelinks": "97",
     "description": "French painter and illustrator (1864–1901)",
     "nationalityLabel": "French",
-    "occupationLabel": "visual artist||designer||ceramicist||printmaker||draftsperson||poster artist||architectural draftsperson||graphic designer||lithographer||painter||graphic artist"
+    "occupationLabel": "architectural drafter||lithographer||visual artist||graphic designer||ceramicist||designer||printmaker||poster artist||draftsperson||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44007",
@@ -609,7 +627,34 @@
     "sitelinks": "97",
     "description": "German-Swiss artist (1879–1940)",
     "nationalityLabel": "Prussian||Swiss",
-    "occupationLabel": "visual artist||designer||printmaker||draftsperson||architectural draftsperson||lithographer||university teacher||painter||graphic artist"
+    "occupationLabel": "architectural drafter||lithographer||visual artist||artist||designer||printmaker||draftsperson||university teacher||painter||graphic artist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128538",
+    "itemLabel": "Luke the Evangelist",
+    "year": "84",
+    "sitelinks": "96",
+    "description": "one of the four evangelists",
+    "nationalityLabel": "",
+    "occupationLabel": "physician||author||iconographer||painter||evangelist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7814",
+    "itemLabel": "Giotto",
+    "year": "1337",
+    "sitelinks": "96",
+    "description": "Italian painter and architect (c. 1267–1337)",
+    "nationalityLabel": "Republic of Florence",
+    "occupationLabel": "architect||muralist||artist||designer||sculptor||painter||master builder"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160333",
+    "itemLabel": "Prosper Mérimée",
+    "year": "1870",
+    "sitelinks": "96",
+    "description": "French writer, archaeologist and historian (1803–1870)",
+    "nationalityLabel": "French",
+    "occupationLabel": "politician||author||historian||playwright||archaeologist||Inspector general of the Historical Monuments||poet||anthropologist||translator||draftsperson||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7836",
@@ -618,25 +663,16 @@
     "sitelinks": "96",
     "description": "Belgian surrealist (1898–1967)",
     "nationalityLabel": "Belgian",
-    "occupationLabel": "photographer||visual artist||collagist||printmaker||draftsperson||illustrator||architectural draftsperson||painter||graphic artist||sculptor||filmmaker"
+    "occupationLabel": "architectural drafter||photographer||collagist||visual artist||printmaker||draftsperson||sculptor||painter||graphic artist||illustrator||filmmaker"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q128538",
-    "itemLabel": "Luke the Evangelist",
-    "year": "84",
-    "sitelinks": "95",
-    "description": "one of the four evangelists",
-    "nationalityLabel": "",
-    "occupationLabel": "iconographer||writer||physician||painter||evangelist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7814",
-    "itemLabel": "Giotto",
-    "year": "1337",
-    "sitelinks": "95",
-    "description": "Italian painter and architect (c. 1267–1337)",
-    "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "architect||muralist||designer||painter||sculptor"
+    "item": "http://www.wikidata.org/entity/Q47780",
+    "itemLabel": "Zaha Hadid",
+    "year": "2016",
+    "sitelinks": "96",
+    "description": "Iraqi British architect, designer and painter (1950–2016)",
+    "nationalityLabel": "Iraqi||British||Briton",
+    "occupationLabel": "jewelry designer||architect||artist||designer||university teacher||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129173",
@@ -645,16 +681,7 @@
     "sitelinks": "95",
     "description": "Swedish writer (1859–1940)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "writer||poet||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47780",
-    "itemLabel": "Zaha Hadid",
-    "year": "2016",
-    "sitelinks": "95",
-    "description": "Iraqi British architect, designer and painter (1950–2016)",
-    "nationalityLabel": "Iraqi||British||Briton",
-    "occupationLabel": "jewelry designer||architect||designer||artist||university teacher||painter||sculptor"
+    "occupationLabel": "author||poet||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83155",
@@ -663,16 +690,16 @@
     "sitelinks": "94",
     "description": "French painter (1748–1825)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||architectural draftsperson||painter"
+    "occupationLabel": "architectural drafter||politician||painter"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160333",
-    "itemLabel": "Prosper Mérimée",
-    "year": "1870",
+    "item": "http://www.wikidata.org/entity/Q46408",
+    "itemLabel": "Georgia O'Keeffe",
+    "year": "1986",
     "sitelinks": "94",
-    "description": "French writer, archaeologist and historian (1803–1870)",
-    "nationalityLabel": "French",
-    "occupationLabel": "politician||archaeologist||writer||anthropologist||historian||Inspector general of the Historical Monuments||translator||playwright||draftsperson||painter"
+    "description": "American modernist artist (1887–1986)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "architectural drafter||artist||draftsperson||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q187765",
@@ -680,17 +707,17 @@
     "year": "1980",
     "sitelinks": "93",
     "description": "American novelist (1891–1980)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "correspondent||writer||novelist||essayist||watercolorist||short story writer||painter"
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||watercolorist||correspondent||artist||novelist||short story writer||painter||essayist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q46408",
-    "itemLabel": "Georgia O'Keeffe",
-    "year": "1986",
-    "sitelinks": "93",
-    "description": "American modernist artist (1887–1986)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "artist||draftsperson||architectural draftsperson||painter||graphic artist"
+    "item": "http://www.wikidata.org/entity/Q150471",
+    "itemLabel": "E. T. A. Hoffmann",
+    "year": "1822",
+    "sitelinks": "92",
+    "description": "German Romantic author (1776–1822)",
+    "nationalityLabel": "Prussian",
+    "occupationLabel": "judge||composer||screenwriter||author||jurist||conductor||chapelmaster||poet||caricaturist||science fiction writer||diarist||director||fairy tales writer||children's writer||critic||novelist||draftsperson||painter||music critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130531",
@@ -699,16 +726,16 @@
     "sitelinks": "91",
     "description": "Dutch painter (c. 1450–1516)",
     "nationalityLabel": "Northern Low Countries",
-    "occupationLabel": "visual artist||draftsperson||architectural draftsperson||painter"
+    "occupationLabel": "architectural drafter||visual artist||draftsperson||painter"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150471",
-    "itemLabel": "E. T. A. Hoffmann",
-    "year": "1822",
+    "item": "http://www.wikidata.org/entity/Q104884",
+    "itemLabel": "Caspar David Friedrich",
+    "year": "1840",
     "sitelinks": "91",
-    "description": "German Romantic author (1776–1822)",
-    "nationalityLabel": "Prussian",
-    "occupationLabel": "screenwriter||conductor||caricaturist||director||composer||fairy tales writer||judge||writer||children's writer||critic||novelist||draftsperson||science fiction writer||diarist||painter||music critic"
+    "description": "German Romantic landscape painter (1774–1840)",
+    "nationalityLabel": "Prussian||Swedish",
+    "occupationLabel": "architectural drafter||watercolorist||landscape painter||printmaker||draftsperson||sculptor||painter||etcher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q172911",
@@ -717,7 +744,7 @@
     "sitelinks": "91",
     "description": "Russian-empire painter of Ukrainian birth (1844-1930)",
     "nationalityLabel": "statelessness||Russian",
-    "occupationLabel": "teacher||essayist||painter||graphic artist||sculptor"
+    "occupationLabel": "teacher||sculptor||painter||graphic artist||essayist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3166534",
@@ -726,16 +753,7 @@
     "sitelinks": "91",
     "description": "French artist (1929-2010)",
     "nationalityLabel": "French",
-    "occupationLabel": "designer||painter||sculptor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104884",
-    "itemLabel": "Caspar David Friedrich",
-    "year": "1840",
-    "sitelinks": "90",
-    "description": "German Romantic landscape painter (1774–1840)",
-    "nationalityLabel": "Prussian||Swedish",
-    "occupationLabel": "etcher||landscape painter||printmaker||draftsperson||architectural draftsperson||watercolorist||painter||sculptor"
+    "occupationLabel": "author||designer||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183713",
@@ -744,7 +762,7 @@
     "sitelinks": "90",
     "description": "French poet, dramatist, novelist, journalist, and art and literary critic (1811–1872)",
     "nationalityLabel": "French",
-    "occupationLabel": "photographer||art critic||literary critic||writer||novelist||pastellist||librettist||poet||playwright||draftsperson||illustrator||art historian||painter||journalist"
+    "occupationLabel": "journalist||photographer||author||playwright||art critic||poet||literary critic||pastellist||librettist||critic||novelist||draftsperson||painter||art historian||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5912",
@@ -752,8 +770,8 @@
     "year": "1968",
     "sitelinks": "90",
     "description": "French painter, sculptor, and chess player (1887–1968)",
-    "nationalityLabel": "French||Americans||American",
-    "occupationLabel": "film director||photographer||visual artist||actor||librarian||designer||assemblage artist||philosopher||poet||chess player||printmaker||artist||non-fiction writer||readymade artist||architectural draftsperson||painter||graphic artist||sculptor"
+    "nationalityLabel": "French||American||Americans",
+    "occupationLabel": "architectural drafter||librarian||photographer||actor||film director||poet||visual artist||assemblage artist||readymade artist||artist||philosopher||designer||chess player||printmaker||non-fiction writer||sculptor||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43270",
@@ -765,13 +783,49 @@
     "occupationLabel": "printmaker||draftsperson||painter"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q128027",
+    "itemLabel": "Giorgio Vasari",
+    "year": "1574",
+    "sitelinks": "89",
+    "description": "Italian painter, architect, writer and historian (1511-1574)",
+    "nationalityLabel": "Republic of Florence||Grand Duchy of Tuscany",
+    "occupationLabel": "architectural drafter||author||architect||art theorist||visual artist||aesthetician||biographer||painter||art historian||theatre designer"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q41554",
     "itemLabel": "Nicolas Poussin",
     "year": "1665",
     "sitelinks": "89",
     "description": "French painter (1594-1665)",
     "nationalityLabel": "French",
-    "occupationLabel": "visual artist||architectural draftsperson||painter||graphic artist"
+    "occupationLabel": "architectural drafter||visual artist||painter||graphic artist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1500",
+    "itemLabel": "José Rizal",
+    "year": "1896",
+    "sitelinks": "89",
+    "description": "Filipino nationalist, writer and polymath (1861–1896)",
+    "nationalityLabel": "Captaincy General of the Philippines||Filipino||Filipina||Philippine",
+    "occupationLabel": "politician||physician||author||patriot||poet||revolutionary||polymath||satirical novelist||translator||surgeon||literary translator||novelist||ophthalmologist||linguist||political activist||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q173223",
+    "itemLabel": "Mary Cassatt",
+    "year": "1926",
+    "sitelinks": "89",
+    "description": "American painter and printmaker (1844—1926)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "photographer||printmaker||painter||etcher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12658",
+    "itemLabel": "Wilhelm Ostwald",
+    "year": "1932",
+    "sitelinks": "89",
+    "description": "Baltic German chemist (1853–1932)",
+    "nationalityLabel": "Russian||German",
+    "occupationLabel": "sociologist||physicist||teacher||naturalist||author||inventor||Idist||chemist||philosopher||Esperantist||university teacher||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18404",
@@ -780,16 +834,7 @@
     "sitelinks": "89",
     "description": "French author (1873-1935)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||screenwriter||writer||novelist||historian||poet||biographer||painter||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q128027",
-    "itemLabel": "Giorgio Vasari",
-    "year": "1574",
-    "sitelinks": "88",
-    "description": "Italian painter, architect, writer and historian (1511-1574)",
-    "nationalityLabel": "Republic of Florence||Grand Duchy of Tuscany",
-    "occupationLabel": "visual artist||architect||writer||aesthetician||architectural draftsperson||art theorist||biographer||art historian||painter"
+    "occupationLabel": "journalist||politician||screenwriter||author||historian||theatre critic||poet||novelist||editing staff||biographer||pacifist||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193344",
@@ -798,25 +843,7 @@
     "sitelinks": "88",
     "description": "Japanese swordsman, philosopher, strategist, writer, artist, and rōnin (1584–1645)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "calligrapher||military personnel||samurai||writer||philosopher||strategist||swordfighter||ronin||painter||bushi"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134741",
-    "itemLabel": "Camille Pissarro",
-    "year": "1903",
-    "sitelinks": "88",
-    "description": "Danish-French painter (1830-1903)",
-    "nationalityLabel": "Danish||dane||danes||French",
-    "occupationLabel": "pastellist||printmaker||architectural draftsperson||lithographer||painter||graphic artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q173223",
-    "itemLabel": "Mary Cassatt",
-    "year": "1926",
-    "sitelinks": "88",
-    "description": "American painter and printmaker (1844—1926)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "photographer||etcher||printmaker||painter"
+    "occupationLabel": "bushi||samurai||author||ronin||calligrapher||military personnel||strategist||philosopher||swordfighter||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159758",
@@ -825,7 +852,16 @@
     "sitelinks": "87",
     "description": "English painter and draftsman (c.1775–1851)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "visual artist||landscape painter||printmaker||artist||draftsperson||illustrator||architectural draftsperson||painter"
+    "occupationLabel": "architectural drafter||visual artist||landscape painter||artist||printmaker||draftsperson||painter||illustrator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134741",
+    "itemLabel": "Camille Pissarro",
+    "year": "1903",
+    "sitelinks": "87",
+    "description": "Danish-French painter (1830-1903)",
+    "nationalityLabel": "Danish||dane||danes||French",
+    "occupationLabel": "architectural drafter||lithographer||pastellist||printmaker||painter||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q120993",
@@ -834,7 +870,7 @@
     "sitelinks": "87",
     "description": "Italian painter and sculptor (1884–1920)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "draftsperson||painter||sculptor"
+    "occupationLabel": "draftsperson||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151803",
@@ -843,7 +879,7 @@
     "sitelinks": "87",
     "description": "Dutch painter (1872–1944)",
     "nationalityLabel": "Dutch",
-    "occupationLabel": "visual artist||writer||etcher||furniture designer||exlibrist||draftsperson||illustrator||architectural draftsperson||watercolorist||painter||interior designer"
+    "occupationLabel": "architectural drafter||interior designer||author||watercolorist||visual artist||exlibrist||furniture designer||draftsperson||painter||illustrator||etcher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1470",
@@ -852,7 +888,16 @@
     "sitelinks": "87",
     "description": "Dutch graphic artist (1898–1972)",
     "nationalityLabel": "Dutch",
-    "occupationLabel": "photographer||visual artist||muralist||designer||wood engraver||printmaker||ceramics designer||draftsperson||illustrator||lithographer||painter||graphic artist||postage stamp designer||sculptor"
+    "occupationLabel": "postage stamp designer||photographer||lithographer||wood engraver||visual artist||muralist||designer||printmaker||ceramics designer||draftsperson||sculptor||painter||graphic artist||illustrator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182046",
+    "itemLabel": "Leon Battista Alberti",
+    "year": "1472",
+    "sitelinks": "86",
+    "description": "Italian architect and writer (1404-1472)",
+    "nationalityLabel": "Republic of Genoa",
+    "occupationLabel": "scientist||athlete||mathematician||diplomat||author||architect||architectural theoretician||playwright||art theorist||poet||humanist||artist||philosopher||official||linguist||musicologist||organist||cryptographer||music theorist||sculptor||painter||medalist||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q52937",
@@ -861,7 +906,16 @@
     "sitelinks": "86",
     "description": "Queen of Sweden, ruled from 1632 until abdication in 1654 (1626–1689)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "monarch||writer||philosopher||art collector||painter"
+    "occupationLabel": "monarch||author||philosopher||art collector||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q214565",
+    "itemLabel": "Beatrix Potter",
+    "year": "1943",
+    "sitelinks": "86",
+    "description": "British children's writer and illustrator (1866–1943)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "botanist||mycologist||author||scientific illustrator||children's writer||artist||novelist||conservationist||painter||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q153793",
@@ -870,7 +924,7 @@
     "sitelinks": "86",
     "description": "French painter and sculptor (1882-1963)",
     "nationalityLabel": "French",
-    "occupationLabel": "jewelry designer||scenographer||designer||collagist||printmaker||artist||draftsperson||lithographer||painter||sculptor"
+    "occupationLabel": "jewelry designer||lithographer||collagist||scenographer||artist||designer||printmaker||draftsperson||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154269",
@@ -879,7 +933,7 @@
     "sitelinks": "86",
     "description": "Soviet pilot and cosmonaut, first human to conduct a spacewalk (1934-2019)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "astronaut||writer||airman||military aviator||explorer||fighter pilot||air force officer||painter"
+    "occupationLabel": "author||astronaut||major general||air force officer||airman||military aviator||fighter pilot||explorer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102272",
@@ -888,16 +942,7 @@
     "sitelinks": "85",
     "description": "Flemish painter (c.1390–1441)",
     "nationalityLabel": "Southern Netherlands",
-    "occupationLabel": "architect||draftsperson||architectural draftsperson||illuminator||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q182046",
-    "itemLabel": "Leon Battista Alberti",
-    "year": "1472",
-    "sitelinks": "85",
-    "description": "Italian architect and writer (1404-1472)",
-    "nationalityLabel": "Republic of Genoa",
-    "occupationLabel": "scientist||mathematician||architect||writer||humanist||philosopher||poet||artist||playwright||linguist||art theorist||architectural theoretician||cryptographer||music theorist||musicologist||organist||official||medalist||painter||sculptor||athlete"
+    "occupationLabel": "architectural drafter||architect||artist||draftsperson||illuminator||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130777",
@@ -906,16 +951,25 @@
     "sitelinks": "85",
     "description": "Russian avant-garde artist of Polish ancestry. Founder of the Suprematist movement (1879–1935)",
     "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "scenographer||visual artist||designer||teacher||theatre designer||opinion journalist||printmaker||ceramics designer||draftsperson||art theorist||watercolorist||art historian||painter||graphic artist||costume designer||sculptor||pedagogue"
+    "occupationLabel": "watercolorist||art theorist||scenographer||visual artist||artist||designer||opinion journalist||printmaker||ceramics designer||draftsperson||pedagogue||sculptor||painter||graphic artist||costume designer||art historian||theatre designer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q214565",
-    "itemLabel": "Beatrix Potter",
-    "year": "1943",
+    "item": "http://www.wikidata.org/entity/Q102071",
+    "itemLabel": "Tove Jansson",
+    "year": "2001",
     "sitelinks": "85",
-    "description": "British children's writer and illustrator (1866–1943)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "botanist||mycologist||writer||children's writer||novelist||artist||illustrator||conservationist||scientific illustrator||painter"
+    "description": "Finnish children's writer and illustrator (1914–2001)",
+    "nationalityLabel": "Grand Duchy of Finland||Finn||Finnish",
+    "occupationLabel": "author||caricaturist||muralist||children's writer||exlibrist||cartoonist||draftsperson||painter||graphic artist||illustrator||picture book writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q318750",
+    "itemLabel": "Stephen Hillenburg",
+    "year": "2018",
+    "sitelinks": "85",
+    "description": "American marine science educator and artist (1961-2018)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||author||actor||voice actor||film director||film producer||animator||television producer||biologist||cartoonist||comics artist||university teacher||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9319",
@@ -924,7 +978,16 @@
     "sitelinks": "84",
     "description": "Renaissance painter (1518/1519–1594)",
     "nationalityLabel": "Venetian",
-    "occupationLabel": "visual artist||architectural draftsperson||painter"
+    "occupationLabel": "architectural drafter||visual artist||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150679",
+    "itemLabel": "Anthony van Dyck",
+    "year": "1641",
+    "sitelinks": "84",
+    "description": "Flemish Baroque artist (1599–1641)",
+    "nationalityLabel": "Spanish Netherlands",
+    "occupationLabel": "architectural drafter||playwright||theatre director||dramaturge||translator||artist||court painter||draftsperson||painter||graphic artist||etcher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131405",
@@ -933,7 +996,16 @@
     "sitelinks": "84",
     "description": "French scientist, artist and photographer (1787–1851)",
     "nationalityLabel": "French",
-    "occupationLabel": "photographer||daguerreotypist||chemist||painter||graphic artist"
+    "occupationLabel": "photographer||architect||daguerreotypist||chemist||painter||graphic artist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186748",
+    "itemLabel": "Dante Gabriel Rossetti",
+    "year": "1882",
+    "sitelinks": "84",
+    "description": "English poet, illustrator, painter, and translator (1828-1882)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||poet||translator||artist||draftsperson||painter||illustrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q78484",
@@ -942,7 +1014,7 @@
     "sitelinks": "84",
     "description": "Austrian social reformer, occultist and esotericist (1861–1925)",
     "nationalityLabel": "Austrian||Croatian||Swiss",
-    "occupationLabel": "jewelry designer||choreographer||architect||literary critic||writer||teacher||philosopher||founder||librettist||poet||theosophist||playwright||occultist||draftsperson||esotericist||musicologist||editor||autobiographer||editing staff||painter||sculptor||pedagogue"
+    "occupationLabel": "teacher||choreographer||author||jewelry designer||architect||playwright||autobiographer||theosophist||poet||literary critic||founder||librettist||philosopher||editing staff||occultist||musicologist||draftsperson||pedagogue||editor||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q123829",
@@ -950,8 +1022,8 @@
     "year": "1937",
     "sitelinks": "84",
     "description": "American composer and pianist (1898–1937)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "conductor||composer||jazz pianist||songwriter||pianist||painter||film score composer"
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||conductor||jazz pianist||pianist||songwriter||painter||film score composer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154770",
@@ -959,8 +1031,8 @@
     "year": "1951",
     "sitelinks": "84",
     "description": "Austrian-Jewish American composer (1874-1951)",
-    "nationalityLabel": "Austria–Hungary||German||Austrian||Americans||American",
-    "occupationLabel": "music teacher||conductor||composer||writer||classical composer||artist||music theorist||musicologist||painter"
+    "nationalityLabel": "Austria–Hungary||German||Austrian||American||Americans",
+    "occupationLabel": "composer||author||music teacher||conductor||classical composer||artist||musicologist||music theorist||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q171128",
@@ -969,16 +1041,16 @@
     "sitelinks": "84",
     "description": "Mexican muralist (1886–1957)",
     "nationalityLabel": "Mexican||Mexicans",
-    "occupationLabel": "muralist||printmaker||draftsperson||architectural draftsperson||watercolorist||lithographer||painter||sculptor"
+    "occupationLabel": "architectural drafter||watercolorist||lithographer||muralist||printmaker||draftsperson||sculptor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23481",
     "itemLabel": "Friedrich Dürrenmatt",
     "year": "1990",
     "sitelinks": "84",
-    "description": "Swiss author and dramatist (1921-1990)",
+    "description": "Swiss author and dramatist (1921–1990)",
     "nationalityLabel": "Swiss",
-    "occupationLabel": "screenwriter||film director||writer||film screenwriter||poet||television writer||playwright||film actor||painter||graphic artist"
+    "occupationLabel": "screenwriter||author||playwright||film director||theatre critic||poet||film screenwriter||director||television writer||dramaturge||librettist||painter||graphic artist||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83484",
@@ -986,44 +1058,8 @@
     "year": "2001",
     "sitelinks": "84",
     "description": "Mexican and American actor (1915–2001)",
-    "nationalityLabel": "Mexican||Mexicans||Americans||American",
-    "occupationLabel": "film director||actor||writer||television actor||film actor||painter||sculptor||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q102071",
-    "itemLabel": "Tove Jansson",
-    "year": "2001",
-    "sitelinks": "84",
-    "description": "Finnish children's writer and illustrator (1914–2001)",
-    "nationalityLabel": "Grand Duchy of Finland||Finn||Finnish",
-    "occupationLabel": "caricaturist||muralist||writer||children's writer||author||exlibrist||draftsperson||illustrator||cartoonist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q150679",
-    "itemLabel": "Anthony van Dyck",
-    "year": "1641",
-    "sitelinks": "83",
-    "description": "Flemish Baroque artist (1599–1641)",
-    "nationalityLabel": "Spanish Netherlands",
-    "occupationLabel": "theatrical director||etcher||translator||dramaturge||playwright||draftsperson||architectural draftsperson||court painter||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q186748",
-    "itemLabel": "Dante Gabriel Rossetti",
-    "year": "1882",
-    "sitelinks": "83",
-    "description": "English poet, illustrator, painter, and translator (1828-1882)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||poet||translator||artist||draftsperson||illustrator||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q318750",
-    "itemLabel": "Stephen Hillenburg",
-    "year": "2018",
-    "sitelinks": "83",
-    "description": "American marine science educator and artist (1961-2018)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "voice actor||film producer||screenwriter||film director||actor||writer||animator||cartoonist||television producer||comics artist||university teacher||biologist||painter"
+    "nationalityLabel": "Mexican||Mexicans||American||Americans",
+    "occupationLabel": "stage actor||author||actor||film director||director||musician||sculptor||painter||television actor||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16409",
@@ -1031,8 +1067,8 @@
     "year": "1963",
     "sitelinks": "82",
     "description": "Romanian-French poet (1896–1963)",
-    "nationalityLabel": "Romanian||French",
-    "occupationLabel": "film director||photographer||literary critic||composer||writer||French resistance fighter||essayist||poet||performance artist||diplomat||translator||activist||playwright||draftsperson||art collector||painter"
+    "nationalityLabel": "French||Romanian",
+    "occupationLabel": "composer||photographer||diplomat||author||playwright||film director||French resistance fighter||poet||literary critic||translator||art collector||activist||draftsperson||painter||performance artist||essayist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q487125",
@@ -1041,42 +1077,6 @@
     "sitelinks": "82",
     "description": "Soviet rock musician (1962-1990)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "singer||actor||composer||poet||singer-songwriter||rock musician||film actor||songwriter||lyricist||guitarist||painter||fireman"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q162389",
-    "itemLabel": "Tony Curtis",
-    "year": "2010",
-    "sitelinks": "82",
-    "description": "American actor (1925–2010)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "actor||military personnel||writer||military officer||television actor||film actor||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q209615",
-    "itemLabel": "Francisco de Zurbarán",
-    "year": "1664",
-    "sitelinks": "81",
-    "description": "Spanish painter (1598–1664)",
-    "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q34618",
-    "itemLabel": "Gustave Courbet",
-    "year": "1877",
-    "sitelinks": "81",
-    "description": "French painter (1819–1877)",
-    "nationalityLabel": "French",
-    "occupationLabel": "visual artist||draftsperson||communard||painter||sculptor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q102711",
-    "itemLabel": "Dennis Hopper",
-    "year": "2010",
-    "sitelinks": "81",
-    "description": "American actor and film director (1936–2010)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "voice actor||screenwriter||film director||photographer||visual artist||director||actor||writer||film screenwriter||television actor||artist||film actor||character actor||painter"
+    "occupationLabel": "composer||actor||singer||poet||singer-songwriter||guitarist||rock musician||songwriter||fireman||musician||painter||film actor||lyricist"
   }
 ]

@@ -3,19 +3,19 @@
     "item": "http://www.wikidata.org/entity/Q7243",
     "itemLabel": "Leo Tolstoy",
     "year": "1910",
-    "sitelinks": "277",
+    "sitelinks": "279",
     "description": "Russian author (1828–1910)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "philosopher||children's writer||writer||novelist||opinion journalist||essayist||prose writer||playwright||poet||short story writer||pacifist||diarist||pedagogue||Esperantist"
+    "occupationLabel": "author||children's writer||opinion journalist||philosopher||novelist||poet||playwright||essayist||Esperantist||prose writer||short story writer||pacifist||pedagogue||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5879",
     "itemLabel": "Johann Wolfgang von Goethe",
     "year": "1832",
-    "sitelinks": "275",
+    "sitelinks": "278",
     "description": "German writer, artist, natural scientist and politician (1749–1832)",
     "nationalityLabel": "Saxe-Weimar-Eisenach",
-    "occupationLabel": "politician||travel writer||aphorist||physicist||art critic||philosopher||writer||composer||librarian||jurist||novelist||librettist||art collector||diplomat||literary scholar||lawyer||printmaker||playwright||mineralogist||draftsperson||polymath||statesperson||poet||zoologist||exlibrist||theologian||watercolorist||print collector||art theorist||diarist||autobiographer||music critic||theatre manager||botanist||visual artist||art historian"
+    "occupationLabel": "politician||aphorist||author||art critic||physicist||librarian||visual artist||composer||lawyer||diplomat||naturalist||travel writer||jurist||opinion journalist||philosopher||exlibrist||novelist||art collector||poet||zoologist||playwright||Theaterintendant||print collector||printmaker||statesperson||literary scholar||librettist||polymath||theologian||mineralogist||theatre manager||draftsperson||painter||watercolorist||music critic||autobiographer||art historian||botanist||diarist||art theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q535",
@@ -24,43 +24,61 @@
     "sitelinks": "265",
     "description": "French novelist, poet, dramatist and politician (1802–1885)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||travel writer||writer||novelist||librettist||opinion journalist||essayist||playwright||draftsperson||poet||author||illustrator||art historian||graphic artist"
+    "occupationLabel": "politician||author||travel writer||opinion journalist||novelist||poet||playwright||essayist||illustrator||member of parliament||librettist||draftsperson||graphic artist||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q991",
     "itemLabel": "Fyodor Dostoyevsky",
     "year": "1881",
-    "sitelinks": "250",
+    "sitelinks": "253",
     "description": "Russian novelist (1821–1881)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "philosopher||writer||novelist||opinion journalist||essayist||prose writer||translator||short story writer||biographer||journalist"
+    "occupationLabel": "author||opinion journalist||novelist||philosopher||translator||film screenwriter||essayist||prose writer||short story writer||biographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7245",
     "itemLabel": "Mark Twain",
     "year": "1910",
-    "sitelinks": "249",
+    "sitelinks": "251",
     "description": "American author and humorist (1835–1910)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "travel writer||aphorist||children's writer||writer||novelist||opinion journalist||teacher||humorist||prose writer||science fiction writer||autobiographer||journalist"
+    "occupationLabel": "printer||aphorist||author||children's writer||travel writer||opinion journalist||teacher||novelist||maritime pilot||soldier||humorist||prose writer||autobiographer||journalist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5682",
     "itemLabel": "Miguel de Cervantes",
     "year": "1616",
-    "sitelinks": "244",
+    "sitelinks": "247",
     "description": "Spanish novelist, poet, and playwright (1547-1616)",
     "nationalityLabel": "Crown of Castile",
-    "occupationLabel": "soldier||writer||novelist||accountant||playwright||poet||lyricist||tax collector"
+    "occupationLabel": "author||novelist||Kammerdiener||soldier||poet||playwright||accountant||lyricist||seaman||tax collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5686",
     "itemLabel": "Charles Dickens",
     "year": "1870",
-    "sitelinks": "243",
+    "sitelinks": "246",
     "description": "English novelist and social critic (1812–1870)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "children's writer||writer||court reporter||novelist||parliamentary stenographer||prose writer||playwright||author||social critic||short story writer||editor||botanist||journalist"
+    "occupationLabel": "author||children's writer||novelist||parliamentary stenographer||playwright||court reporter||prose writer||short story writer||social critic||journalist||editor||botanist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7200",
+    "itemLabel": "Alexander Pushkin",
+    "year": "1837",
+    "sitelinks": "244",
+    "description": "Russian poet, playwright, and novelist (1799–1837)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "author||children's writer||literary critic||historian||book collector||opinion journalist||novelist||translator||translator of Adam Mickiewicz||translator of William Wordsworth||film screenwriter||poet||dramaturge||playwright||essayist||librettist||bretteur"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7241",
+    "itemLabel": "Rabindranath Tagore",
+    "year": "1941",
+    "sitelinks": "244",
+    "description": "Bengali poet, philosopher and polymath (1861–1941)",
+    "nationalityLabel": "British Raj",
+    "occupationLabel": "author||singer||actor||composer||travel writer||philosopher||Nobel Prize winner||novelist||freedom fighter||poet||playwright||essayist||librettist||lyricist||short story writer||artist||painter||songwriter||social reformer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5673",
@@ -69,79 +87,61 @@
     "sitelinks": "243",
     "description": "Danish writer and poet (1805–1875)",
     "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "children's writer||writer||novelist||librettist||playwright||poet||traveler||author||short story writer||fairy tale teller||papercut artist||autobiographer||journalist||director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7241",
-    "itemLabel": "Rabindranath Tagore",
-    "year": "1941",
-    "sitelinks": "243",
-    "description": "Bengali poet, philosopher and polymath (1861–1941)",
-    "nationalityLabel": "British Raj",
-    "occupationLabel": "travel writer||philosopher||writer||composer||singer||actor||novelist||librettist||essayist||playwright||poet||lyricist||songwriter||short story writer||artist||Nobel Prize winner||painter||freedom fighter||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7200",
-    "itemLabel": "Alexander Pushkin",
-    "year": "1837",
-    "sitelinks": "239",
-    "description": "Russian poet, playwright, and novelist (1799–1837)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "literary critic||children's writer||writer||novelist||librettist||opinion journalist||translator of Adam Mickiewicz||translator of William Wordsworth||essayist||prose writer||dramaturge||historian||playwright||translator||poet||bretteur||book collector"
+    "occupationLabel": "author||director||children's writer||fairy tale teller||novelist||poet||playwright||papercut artist||librettist||traveler||short story writer||autobiographer||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q905",
     "itemLabel": "Franz Kafka",
     "year": "1924",
-    "sitelinks": "235",
+    "sitelinks": "238",
     "description": "Bohemian writer from Prague (1883–1924)",
     "nationalityLabel": "Austrian||Czechoslovak",
-    "occupationLabel": "aphorist||writer||jurist||novelist||librettist||lawyer||prose writer||translator||claims adjuster||poet||short story writer||poet lawyer||diarist||fabulist"
+    "occupationLabel": "aphorist||author||lawyer||jurist||novelist||translator||film screenwriter||poet||librettist||prose writer||short story writer||claims adjuster||poet lawyer||diarist||fabulist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6527",
     "itemLabel": "Jean-Jacques Rousseau",
     "year": "1778",
-    "sitelinks": "227",
-    "description": "Genevan philosopher, writer, and composer (1712–1778)",
+    "sitelinks": "229",
+    "description": "Genevan philosopher, writer, and composer (1712-1778)",
     "nationalityLabel": "Republic of Geneva",
-    "occupationLabel": "correspondent||naturalist||philosopher||novelist||essayist||playwright||encyclopédistes||musicologist||political scientist||classical composer||autobiographer||music critic||pedagogue||botanist"
+    "occupationLabel": "author||composer||naturalist||correspondent||philosopher||novelist||playwright||essayist||musicologist||encyclopédistes||music critic||political scientist||pedagogue||classical composer||autobiographer||botanist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16867",
     "itemLabel": "Edgar Allan Poe",
     "year": "1849",
-    "sitelinks": "225",
+    "sitelinks": "226",
     "description": "American writer and literary critic (1809–1849)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "literary critic||writer||novelist||essayist||poet||short story writer"
+    "occupationLabel": "author||literary critic||novelist||poet||essayist||short story writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q30875",
     "itemLabel": "Oscar Wilde",
     "year": "1900",
-    "sitelinks": "217",
-    "description": "Irish poet, playwright, and aesthete (1854–1900)",
+    "sitelinks": "220",
+    "description": "Irish poet, playwright, and aesthete (1854-1900)",
     "nationalityLabel": "British||Briton||French||Irish",
-    "occupationLabel": "children's writer||screenwriter||writer||novelist||librettist||opinion journalist||essayist||prose writer||playwright||poet||author||short story writer||fabulist"
+    "occupationLabel": "screenwriter||author||children's writer||opinion journalist||novelist||poet||playwright||essayist||librettist||prose writer||short story writer||fabulist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23434",
     "itemLabel": "Ernest Hemingway",
     "year": "1961",
-    "sitelinks": "206",
+    "sitelinks": "207",
     "description": "American author and journalist (1899–1961)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "war correspondent||screenwriter||writer||reporter||novelist||prose writer||playwright||poet||short story writer||journalist"
+    "occupationLabel": "screenwriter||author||war correspondent||reporter||novelist||poet||playwright||prose writer||short story writer||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5878",
     "itemLabel": "Gabriel García Márquez",
     "year": "2014",
     "sitelinks": "206",
-    "description": "Colombian writer and Nobel laureate (1927-2014)",
+    "description": "Colombian writer and Nobel laureate (1927–2014)",
     "nationalityLabel": "Colombian",
-    "occupationLabel": "screenwriter||writer||novelist||opinion journalist||prose writer||television actor||playwright||short story writer||poet lawyer||film screenwriter||television writer||autobiographer||publisher||journalist||film director"
+    "occupationLabel": "screenwriter||author||jurist||opinion journalist||novelist||film screenwriter||television writer||television actor||playwright||prose writer||short story writer||autobiographer||journalist||poet lawyer||film director||publisher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34670",
@@ -150,16 +150,25 @@
     "sitelinks": "205",
     "description": "French philosopher, author, and journalist (1913–1960)",
     "nationalityLabel": "French",
-    "occupationLabel": "philosopher||writer||novelist||opinion journalist||essayist||playwright||poet||French resistance fighter||association football player||journalist"
+    "occupationLabel": "author||actor||opinion journalist||philosopher||novelist||poet||playwright||essayist||association football player||French resistance fighter||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6882",
     "itemLabel": "James Joyce",
     "year": "1941",
-    "sitelinks": "203",
+    "sitelinks": "204",
     "description": "Irish novelist and poet (1882–1941)",
     "nationalityLabel": "British||Briton||French||Irish",
-    "occupationLabel": "literary critic||writer||novelist||librettist||teacher||prose writer||poet||author||journalist"
+    "occupationLabel": "author||literary critic||teacher||novelist||poet||librettist||prose writer||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q892",
+    "itemLabel": "J. R. R. Tolkien",
+    "year": "1973",
+    "sitelinks": "202",
+    "description": "English writer and philologist (1892–1973)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||children's writer||literary critic||historian||military officer||teacher||novelist||translator||poet||essayist||illustrator||librettist||prose writer||philologist||literary historian||linguist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36322",
@@ -168,16 +177,16 @@
     "sitelinks": "201",
     "description": "English novelist (1775–1817)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||novelist||short story writer"
+    "occupationLabel": "author||novelist||satirical novelist||short story writer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q892",
-    "itemLabel": "J. R. R. Tolkien",
-    "year": "1973",
-    "sitelinks": "201",
-    "description": "English writer and philologist (1892–1973)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "literary critic||writer||children's writer||novelist||librettist||military officer||teacher||essayist||prose writer||philologist||historian||translator||poet||author||illustrator||literary historian||linguist||university teacher"
+    "item": "http://www.wikidata.org/entity/Q9364",
+    "itemLabel": "Jean-Paul Sartre",
+    "year": "1980",
+    "sitelinks": "198",
+    "description": "French existentialist philosopher (1905–1980)",
+    "nationalityLabel": "French",
+    "occupationLabel": "screenwriter||author||literary critic||opinion journalist||philosopher||novelist||intellectual||playwright||essayist||peace activist||lyricist||epistemologist||political writer||biographer||resistance fighter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23685",
@@ -186,25 +195,34 @@
     "sitelinks": "198",
     "description": "president of the United States from 1977 to 1981 (1924–2024)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "engineer||politician||farmer||writer||novelist||naval officer||diplomat||businessperson||statesperson||peace activist||humanitarian||human rights defender||autobiographer||submariner||environmentalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9364",
-    "itemLabel": "Jean-Paul Sartre",
-    "year": "1980",
-    "sitelinks": "197",
-    "description": "French existentialist philosopher (1905–1980)",
-    "nationalityLabel": "French",
-    "occupationLabel": "literary critic||philosopher||screenwriter||writer||novelist||opinion journalist||essayist||political writer||playwright||intellectual||lyricist||epistemologist||peace activist||resistance fighter||biographer"
+    "occupationLabel": "engineer||politician||author||submariner||farmer||environmentalist||diplomat||businessperson||novelist||naval officer||statesperson||peace activist||human rights defender||humanitarian||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35064",
     "itemLabel": "Agatha Christie",
     "year": "1976",
-    "sitelinks": "191",
+    "sitelinks": "194",
     "description": "English mystery and detective writer (1890–1976)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||novelist||crime fiction writer"
+    "occupationLabel": "author||novelist||crime fiction writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7199",
+    "itemLabel": "Marcel Proust",
+    "year": "1922",
+    "sitelinks": "188",
+    "description": "French novelist, critic and essayist (1871–1922)",
+    "nationalityLabel": "French",
+    "occupationLabel": "author||literary critic||novelist||poet||essayist||prose writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34743",
+    "itemLabel": "Rudyard Kipling",
+    "year": "1936",
+    "sitelinks": "188",
+    "description": "English writer and poet (1865–1936)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "screenwriter||author||children's writer||war correspondent||novelist||poet||librettist||prose writer||traveler||autobiographer||journalist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33977",
@@ -213,25 +231,25 @@
     "sitelinks": "187",
     "description": "French writer (1828–1905)",
     "nationalityLabel": "French",
-    "occupationLabel": "children's writer||writer||novelist||playwright||poet||futurist||science fiction writer||Esperantist"
+    "occupationLabel": "author||children's writer||novelist||poet||playwright||Esperantist||futurist||science fiction writer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q34743",
-    "itemLabel": "Rudyard Kipling",
-    "year": "1936",
-    "sitelinks": "187",
-    "description": "English writer and poet (1865–1936)",
+    "item": "http://www.wikidata.org/entity/Q35610",
+    "itemLabel": "Arthur Conan Doyle",
+    "year": "1930",
+    "sitelinks": "183",
+    "description": "British writer and physician (1859–1930)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "war correspondent||children's writer||screenwriter||writer||novelist||prose writer||poet||traveler||science fiction writer||autobiographer||journalist"
+    "occupationLabel": "screenwriter||author||children's writer||historian||novelist||physician||crime fiction writer||playwright||essayist||physician writer||short story writer||science fiction writer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7199",
-    "itemLabel": "Marcel Proust",
-    "year": "1922",
-    "sitelinks": "186",
-    "description": "French novelist, critic and essayist (1871–1922)",
+    "item": "http://www.wikidata.org/entity/Q7197",
+    "itemLabel": "Simone de Beauvoir",
+    "year": "1986",
+    "sitelinks": "183",
+    "description": "French philosopher, social theorist and activist (1908–1986)",
     "nationalityLabel": "French",
-    "occupationLabel": "literary critic||writer||novelist||essayist||prose writer||poet"
+    "occupationLabel": "women letter writer||author||literary critic||philosopher||novelist||feminist||philosophy teacher||essayist||film actor||political activist||autobiographer||journalist||diarist||political philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q22670",
@@ -240,34 +258,34 @@
     "sitelinks": "182",
     "description": "German playwright, poet, philosopher and historian (1759–1805)",
     "nationalityLabel": "Württembergian||Saxe-Weimar",
-    "occupationLabel": "military physician||philosopher||writer||librarian||physician||novelist||librettist||historian||playwright||translator||poet||narrator||physician writer||aesthetician||university teacher||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35610",
-    "itemLabel": "Arthur Conan Doyle",
-    "year": "1930",
-    "sitelinks": "182",
-    "description": "British writer and physician (1859–1930)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "children's writer||screenwriter||writer||novelist||physician||crime fiction writer||essayist||historian||playwright||physician writer||short story writer||science fiction writer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7197",
-    "itemLabel": "Simone de Beauvoir",
-    "year": "1986",
-    "sitelinks": "182",
-    "description": "French philosopher, social theorist and activist (1908–1986)",
-    "nationalityLabel": "French",
-    "occupationLabel": "women letter writer||literary critic||philosopher||writer||novelist||essayist||political activist||author||philosophy teacher||political philosopher||diarist||autobiographer||feminist||journalist"
+    "occupationLabel": "author||military physician||librarian||historian||philosopher||novelist||physician||translator||poet||playwright||librettist||physician writer||narrator||journalist||university teacher||aesthetician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12706",
     "itemLabel": "Maxim Gorky",
     "year": "1936",
-    "sitelinks": "181",
+    "sitelinks": "182",
     "description": "Russian and Soviet writer (1868–1936)",
     "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "politician||writer||novelist||opinion journalist||dramaturge||playwright||poet||diarist||autobiographer||publisher||journalist"
+    "occupationLabel": "politician||author||opinion journalist||novelist||poet||dramaturge||playwright||autobiographer||journalist||diarist||publisher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38337",
+    "itemLabel": "Alexandre Dumas",
+    "year": "1870",
+    "sitelinks": "174",
+    "description": "French writer and dramatist (1802–1870)",
+    "nationalityLabel": "French",
+    "occupationLabel": "author||novelist||playwright"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40909",
+    "itemLabel": "Virginia Woolf",
+    "year": "1941",
+    "sitelinks": "174",
+    "description": "English modernist writer (1882–1941)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||literary critic||novelist||essayist||short story writer||women's rights activist||autobiographer||diarist||publisher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9711",
@@ -276,25 +294,16 @@
     "sitelinks": "173",
     "description": "French novelist and playwright (1799–1850)",
     "nationalityLabel": "French",
-    "occupationLabel": "literary critic||art critic||writer||novelist||essayist||prose writer||dramaturge||publisher||journalist"
+    "occupationLabel": "author||art critic||literary critic||novelist||dramaturge||essayist||prose writer||journalist||publisher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q38337",
-    "itemLabel": "Alexandre Dumas",
-    "year": "1870",
-    "sitelinks": "172",
-    "description": "French writer and dramatist (1802–1870)",
-    "nationalityLabel": "French",
-    "occupationLabel": "writer||novelist||playwright"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q40909",
-    "itemLabel": "Virginia Woolf",
-    "year": "1941",
+    "item": "http://www.wikidata.org/entity/Q7176",
+    "itemLabel": "Naguib Mahfouz",
+    "year": "2006",
     "sitelinks": "171",
-    "description": "English modernist writer (1882–1941)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "literary critic||writer||novelist||essayist||author||short story writer||women's rights activist||diarist||autobiographer||publisher"
+    "description": "Egyptian writer (1901_2006)",
+    "nationalityLabel": "Sultanate of Egypt||Republic of Egypt||United Arab Republic||Khedivate of Egypt||Kingdom of Egypt||Egyptian",
+    "occupationLabel": "screenwriter||author||novelist||translator||intellectual||playwright||short story writer||autobiographer||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6512",
@@ -303,7 +312,16 @@
     "sitelinks": "169",
     "description": "Danish theologian, philosopher, poet and social critic (1813–1855)",
     "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "literary critic||philosopher||writer||novelist||poet||theologian"
+    "occupationLabel": "author||literary critic||philosopher||novelist||poet||theologian"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2908",
+    "itemLabel": "Antoine de Saint-Exupéry",
+    "year": "1944",
+    "sitelinks": "169",
+    "description": "French writer and aviator (1900–1944)",
+    "nationalityLabel": "French",
+    "occupationLabel": "author||children's writer||novelist||philosopher||poet||illustrator||inventor||aircraft pilot||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1316",
@@ -312,43 +330,34 @@
     "sitelinks": "169",
     "description": "Iraqi politician and revolutionary, president of Iraq from 1979 to 2003",
     "nationalityLabel": "Iraqi",
-    "occupationLabel": "politician||writer||novelist||military personnel"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2908",
-    "itemLabel": "Antoine de Saint-Exupéry",
-    "year": "1944",
-    "sitelinks": "167",
-    "description": "French writer and aviator (1900–1944)",
-    "nationalityLabel": "French",
-    "occupationLabel": "philosopher||children's writer||writer||novelist||inventor||poet||illustrator||aircraft pilot||journalist"
+    "occupationLabel": "politician||author||novelist||military personnel"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42511",
     "itemLabel": "H. G. Wells",
     "year": "1946",
-    "sitelinks": "167",
+    "sitelinks": "168",
     "description": "English writer (1866–1946)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||writer||novelist||historian||Idist||science fiction writer||sociologist||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7176",
-    "itemLabel": "Naguib Mahfouz",
-    "year": "2006",
-    "sitelinks": "167",
-    "description": "Egyptian writer (1901_2006)",
-    "nationalityLabel": "Republic of Egypt||United Arab Republic||Sultanate of Egypt||Khedivate of Egypt||Kingdom of Egypt||Egyptian",
-    "occupationLabel": "screenwriter||writer||novelist||playwright||intellectual||translator||author||short story writer||autobiographer||journalist"
+    "occupationLabel": "screenwriter||author||historian||novelist||Idist||journalist||sociologist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q504",
     "itemLabel": "Émile Zola",
     "year": "1902",
-    "sitelinks": "165",
+    "sitelinks": "166",
     "description": "French novelist, journalist, playwright, and poet (1840–1902)",
     "nationalityLabel": "French",
-    "occupationLabel": "literary critic||art critic||writer||photographer||novelist||librettist||essayist||playwright||political reporter||poet||short story writer||theatre critic||journalist"
+    "occupationLabel": "author||art critic||photographer||literary critic||novelist||poet||playwright||essayist||librettist||short story writer||political reporter||journalist||theatre critic"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41166",
+    "itemLabel": "Jonathan Swift",
+    "year": "1745",
+    "sitelinks": "162",
+    "description": "Anglo-Irish satirist and essayist (1667–1745)",
+    "nationalityLabel": "Kingdom of Ireland",
+    "occupationLabel": "author||Anglican priest||children's writer||opinion journalist||philosopher||novelist||satirical novelist||poet||essayist||prose writer||pamphleteer||satirist||public figure||human rights defender||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37030",
@@ -357,7 +366,7 @@
     "sitelinks": "162",
     "description": "German novelist and Nobel Prize laureate (1875–1955)",
     "nationalityLabel": "German||Czechoslovak||American||Americans",
-    "occupationLabel": "screenwriter||writer||novelist||essayist||social critic||short story writer||diarist||autobiographer||university teacher"
+    "occupationLabel": "screenwriter||author||novelist||poet||essayist||musician||short story writer||social critic||autobiographer||diarist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34981",
@@ -366,16 +375,7 @@
     "sitelinks": "162",
     "description": "American writer and biochemist (1920–1992)",
     "nationalityLabel": "Russian Socialist Federative Soviet Republic||American||Americans",
-    "occupationLabel": "science writer||screenwriter||writer||novelist||crime fiction writer||prose writer||non-fiction writer||science fiction writer||autobiographer||university teacher||biochemist||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41166",
-    "itemLabel": "Jonathan Swift",
-    "year": "1745",
-    "sitelinks": "161",
-    "description": "Anglo-Irish satirist and essayist (1667–1745)",
-    "nationalityLabel": "Kingdom of Ireland",
-    "occupationLabel": "philosopher||children's writer||writer||novelist||satirist||opinion journalist||priest||essayist||prose writer||poet||public figure||pamphleteer||human rights defender||science fiction writer||Anglican priest"
+    "occupationLabel": "science writer||screenwriter||author||novelist||crime fiction writer||prose writer||biochemist||non-fiction writer||autobiographer||journalist||university teacher||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23441",
@@ -384,16 +384,16 @@
     "sitelinks": "161",
     "description": "French writer, art critic and journalist (1848–1917)",
     "nationalityLabel": "French",
-    "occupationLabel": "literary critic||art critic||writer||novelist||essayist||anarchist||prose writer||dramaturge||playwright||theatre critic||journalist"
+    "occupationLabel": "author||art critic||literary critic||novelist||dramaturge||playwright||essayist||prose writer||anarchist||ghostwriter||journalist||theatre critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42443",
     "itemLabel": "Anatole France",
     "year": "1924",
-    "sitelinks": "160",
+    "sitelinks": "161",
     "description": "French writer (1844–1924)",
     "nationalityLabel": "French",
-    "occupationLabel": "literary critic||writer||librarian||novelist||critic||prose writer||poet||science fiction writer||biographer||journalist"
+    "occupationLabel": "author||librarian||literary critic||critic||novelist||poet||prose writer||biographer||journalist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q25973",
@@ -402,7 +402,16 @@
     "sitelinks": "160",
     "description": "Nobel Prize winning German-Swiss poet, novelist and painter (1877–1962)",
     "nationalityLabel": "German||Swiss",
-    "occupationLabel": "philosopher||writer||novelist||librettist||literary scholar||poet||illustrator||bookseller||Nobel Prize winner||pacifist||painter||resistance fighter"
+    "occupationLabel": "author||philosopher||Nobel Prize winner||novelist||poet||illustrator||literary scholar||librettist||bookseller||painter||resistance fighter||pacifist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34474",
+    "itemLabel": "Aleksandr Solzhenitsyn",
+    "year": "2008",
+    "sitelinks": "159",
+    "description": "Russian writer, publicist, poet and politician (1918–2008)",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||statelessness||Soviet||Russian",
+    "occupationLabel": "screenwriter||author||historian||opinion journalist||teacher||novelist||military personnel||poet||playwright||prose writer||public figure||short story writer||militant||school teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81731",
@@ -411,7 +420,7 @@
     "sitelinks": "158",
     "description": "Japanese novelist and poet (c.973–c.1014)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "philosopher||writer||novelist||poet||lady-in-waiting||film screenwriter||diarist"
+    "occupationLabel": "author||philosopher||novelist||film screenwriter||poet||lady-in-waiting||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43444",
@@ -420,16 +429,7 @@
     "sitelinks": "157",
     "description": "French novelist (1821–1880)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||novelist||dramaturge"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q34474",
-    "itemLabel": "Aleksandr Solzhenitsyn",
-    "year": "2008",
-    "sitelinks": "157",
-    "description": "Russian writer, publicist, poet and politician (1918–2008)",
-    "nationalityLabel": "statelessness||Russian Socialist Federative Soviet Republic||Soviet||Russian",
-    "occupationLabel": "screenwriter||writer||novelist||military personnel||opinion journalist||teacher||prose writer||historian||playwright||poet||public figure||short story writer||militant||school teacher"
+    "occupationLabel": "author||novelist||dramaturge"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15975",
@@ -438,7 +438,7 @@
     "sitelinks": "156",
     "description": "French philosopher (1689–1755)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||judge||philosopher||writer||jurist||novelist||lawyer||historian||author||encyclopédistes||sociologist"
+    "occupationLabel": "politician||author||judge||lawyer||jurist||historian||philosopher||novelist||encyclopédistes||lord of the manor||sociologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38082",
@@ -447,7 +447,7 @@
     "sitelinks": "154",
     "description": "British author and scholar (1832–1898)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "philosopher||children's writer||writer||deacon||mathematician||photographer||novelist||poet||logician||diarist||autobiographer"
+    "occupationLabel": "author||deacon||mathematician||children's writer||photographer||philosopher||novelist||poet||logician||librettist||autobiographer||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44519",
@@ -456,25 +456,25 @@
     "sitelinks": "154",
     "description": "Swedish writer (1858–1940)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "children's writer||writer||novelist||teacher||prose writer||translator||poet||autobiographer||biographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1512",
-    "itemLabel": "Robert Louis Stevenson",
-    "year": "1894",
-    "sitelinks": "152",
-    "description": "Scottish novelist and poet (1850–1894)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "children's writer||writer||novelist||essayist||poet||songwriter||short story writer"
+    "occupationLabel": "author||children's writer||teacher||novelist||translator||poet||folkeskole teacher||prose writer||biographer||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9327",
     "itemLabel": "Guy de Maupassant",
     "year": "1893",
-    "sitelinks": "151",
+    "sitelinks": "153",
     "description": "French writer (1850-1893)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||novelist||playwright||poet||short story writer||journalist"
+    "occupationLabel": "author||novelist||poet||playwright||short story writer||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1512",
+    "itemLabel": "Robert Louis Stevenson",
+    "year": "1894",
+    "sitelinks": "153",
+    "description": "Scottish novelist and poet (1850-1894)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||children's writer||novelist||poet||playwright||essayist||short story writer||songwriter||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12807",
@@ -483,16 +483,16 @@
     "sitelinks": "151",
     "description": "Italian semiotician, essayist, philosopher, literary critic, and novelist (1932–2016)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "literary critic||philosopher||screenwriter||writer||novelist||essayist||historian||translator||semiotician||literary scholar||university teacher||pedagogue||medievalist"
+    "occupationLabel": "screenwriter||medievalist||author||literary critic||historian||philosopher||novelist||translator||essayist||pedagogue||semiologist||literary scholar||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q448",
     "itemLabel": "Denis Diderot",
     "year": "1784",
-    "sitelinks": "149",
+    "sitelinks": "150",
     "description": "French Enlightenment philosopher writer and encyclopædist (1713–1784)",
     "nationalityLabel": "French",
-    "occupationLabel": "correspondent||literary critic||art critic||philosopher||writer||novelist||essayist||historian||playwright||literary theorist||translator||encyclopédistes||lexicographer||political scientist||art theorist"
+    "occupationLabel": "author||art critic||literary critic||correspondent||historian||novelist||philosopher||translator||poet||playwright||essayist||literary theorist||lexicographer||encyclopédistes||political scientist||art theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42831",
@@ -501,7 +501,16 @@
     "sitelinks": "149",
     "description": "Russian writer (1818–1883)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "writer||novelist||opinion journalist||prose writer||dramaturge||playwright||translator||poet||short story writer"
+    "occupationLabel": "author||opinion journalist||novelist||translator||poet||playwright||dramaturge||prose writer||short story writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81438",
+    "itemLabel": "Walt Whitman",
+    "year": "1892",
+    "sitelinks": "148",
+    "description": "American poet, essayist and journalist (1819–1892)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||teacher||novelist||poet||essayist||typographer||journalist||editor||publisher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39212",
@@ -510,7 +519,7 @@
     "sitelinks": "148",
     "description": "American writer (1902–1968)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "war correspondent||screenwriter||writer||novelist||scientific collector"
+    "occupationLabel": "screenwriter||author||war correspondent||scientific collector||novelist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36591",
@@ -519,16 +528,7 @@
     "sitelinks": "148",
     "description": "Russian-American novelist, lepidopterist, professor (1899–1977)",
     "nationalityLabel": "Russian||American||Americans",
-    "occupationLabel": "literary critic||screenwriter||writer||novelist||chess player||playwright||translator||poet||zoologist||man of letters||lepidopterist||literary scholar||science fiction writer||autobiographer||university teacher||entomologist||chess composer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81438",
-    "itemLabel": "Walt Whitman",
-    "year": "1892",
-    "sitelinks": "147",
-    "description": "American poet, essayist and journalist (1819–1892)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||novelist||teacher||essayist||poet||typographer||publisher||journalist"
+    "occupationLabel": "screenwriter||author||literary critic||novelist||translator||poet||zoologist||playwright||man of letters||chess player||lepidopterist||entomologist||autobiographer||literary scholar||chess composer||journalist||university teacher||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38392",
@@ -537,7 +537,16 @@
     "sitelinks": "147",
     "description": "American writer (1897-1962)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "children's writer||screenwriter||writer||novelist||playwright||poet||short story writer"
+    "occupationLabel": "screenwriter||author||children's writer||novelist||poet||playwright||short story writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40946",
+    "itemLabel": "Daniel Defoe",
+    "year": "1731",
+    "sitelinks": "144",
+    "description": "English trader, writer, and journalist (1660–1731)",
+    "nationalityLabel": "British||Briton||English",
+    "occupationLabel": "author||publicist||children's writer||opinion journalist||businessperson||novelist||poet||spy||prose writer||journalist||publisher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q45765",
@@ -546,16 +555,25 @@
     "sitelinks": "144",
     "description": "American author, journalist and social activist (1876–1916)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "travel writer||screenwriter||war correspondent||children's writer||writer||novelist||essayist||prose writer||seaman||poet||traveler||science fiction writer||diarist||autobiographer||journalist"
+    "occupationLabel": "screenwriter||author||children's writer||war correspondent||travel writer||novelist||poet||essayist||prose writer||traveler||seaman||autobiographer||journalist||diarist||science fiction writer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40946",
-    "itemLabel": "Daniel Defoe",
-    "year": "1731",
+    "item": "http://www.wikidata.org/entity/Q19526",
+    "itemLabel": "Maya Angelou",
+    "year": "2014",
+    "sitelinks": "144",
+    "description": "American poet, author, and civil rights activist (1928–2014)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||screenwriter||author||professor||singer||novelist||television actor||playwright||essayist||dancer||television producer||songwriter||human rights defender||stage actor||autobiographer||journalist||film producer||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81447",
+    "itemLabel": "Aldous Huxley",
+    "year": "1963",
     "sitelinks": "143",
-    "description": "English trader, writer, and journalist (1660–1731)",
-    "nationalityLabel": "English||British||Briton",
-    "occupationLabel": "publicist||children's writer||writer||novelist||opinion journalist||prose writer||businessperson||poet||publisher||journalist"
+    "description": "English writer and philosopher (1894–1963)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "screenwriter||author||art critic||philosopher||novelist||poet||prose writer||journalist||university teacher||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q410",
@@ -564,52 +582,43 @@
     "sitelinks": "143",
     "description": "American astrophysicist, cosmologist and author (1934–1996)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "astronomer||naturalist||science writer||physicist||writer||screenwriter||novelist||space scientist||science communicator||astrophysicist||planetary scientist||non-fiction writer||television presenter||science fiction writer||university teacher||cosmologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81447",
-    "itemLabel": "Aldous Huxley",
-    "year": "1963",
-    "sitelinks": "141",
-    "description": "English writer and philosopher (1894–1963)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "philosopher||screenwriter||novelist||prose writer||poet||science fiction writer||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19526",
-    "itemLabel": "Maya Angelou",
-    "year": "2014",
-    "sitelinks": "141",
-    "description": "American poet, author, and civil rights activist (1928–2014)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||professor||screenwriter||writer||dancer||singer||novelist||essayist||television actor||playwright||television producer||songwriter||human rights defender||autobiographer||stage actor||film producer||journalist||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93343",
-    "itemLabel": "Percy Bysshe Shelley",
-    "year": "1822",
-    "sitelinks": "139",
-    "description": "British Romantic poet (1792–1822)",
-    "nationalityLabel": "British||Briton||Kingdom of Italy||Swiss",
-    "occupationLabel": "writer||novelist||librettist||playwright||translator||poet||linguist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47162",
-    "itemLabel": "Romain Rolland",
-    "year": "1944",
-    "sitelinks": "139",
-    "description": "French author (1866-1944)",
-    "nationalityLabel": "French",
-    "occupationLabel": "writer||novelist||teacher||essayist||prose writer||playwright||musician||historian||musicologist||biographer"
+    "occupationLabel": "science writer||author||screenwriter||astronomer||physicist||naturalist||novelist||space scientist||television presenter||science communicator||astrophysicist||planetary scientist||non-fiction writer||cosmologist||university teacher||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47484",
     "itemLabel": "André Gide",
     "year": "1951",
-    "sitelinks": "139",
+    "sitelinks": "141",
     "description": "French author and Nobel laureate (1869–1951)",
     "nationalityLabel": "French",
-    "occupationLabel": "travel writer||screenwriter||writer||novelist||essayist||prose writer||playwright||translator||diarist||autobiographer||film producer||journalist"
+    "occupationLabel": "screenwriter||author||literary critic||travel writer||novelist||translator||poet||playwright||essayist||prose writer||autobiographer||journalist||film producer||diarist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80900",
+    "itemLabel": "Pearl S. Buck",
+    "year": "1973",
+    "sitelinks": "141",
+    "description": "American writer (1892–1973)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||author||children's writer||novelist||translator||missionary||prose writer||human rights defender||autobiographer||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q93343",
+    "itemLabel": "Percy Bysshe Shelley",
+    "year": "1822",
+    "sitelinks": "140",
+    "description": "British Romantic poet (1792–1822)",
+    "nationalityLabel": "Kingdom of Italy||British||Briton||Swiss",
+    "occupationLabel": "author||novelist||translator||poet||playwright||librettist||linguist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47162",
+    "itemLabel": "Romain Rolland",
+    "year": "1944",
+    "sitelinks": "140",
+    "description": "French author (1866-1944)",
+    "nationalityLabel": "French",
+    "occupationLabel": "author||historian||teacher||novelist||playwright||essayist||musicologist||prose writer||musician||biographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41223",
@@ -617,26 +626,35 @@
     "year": "1960",
     "sitelinks": "139",
     "description": "Russian writer (1890–1960)",
-    "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "screenwriter||writer||novelist||translator of William Shakespeare||prose writer||playwright||translator||poet||pianist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q79025",
-    "itemLabel": "Walter Scott",
-    "year": "1832",
-    "sitelinks": "138",
-    "description": "Scottish novelist, poet and playwright (1771–1832)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "judge||literary critic||writer||novelist||lawyer||historian||playwright||translator||poet||musicologist||short story writer||linguist||poet lawyer||biographer"
+    "nationalityLabel": "Soviet||Russian",
+    "occupationLabel": "screenwriter||author||composer||novelist||translator||translator of William Shakespeare||poet||playwright||librettist||prose writer||pianist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37327",
     "itemLabel": "Samuel Beckett",
     "year": "1989",
-    "sitelinks": "138",
+    "sitelinks": "139",
     "description": "Irish writer (1906–1989)",
-    "nationalityLabel": "French||Irish",
-    "occupationLabel": "screenwriter||writer||novelist||teacher||cinematographer||cricketer||playwright||intellectual||translator||draftsperson||poet||French resistance fighter||linguist||video artist||filmmaker||film director"
+    "nationalityLabel": "Irish",
+    "occupationLabel": "screenwriter||author||teacher||novelist||translator||intellectual||cinematographer||poet||playwright||cricketer||linguist||draftsperson||video artist||filmmaker||French resistance fighter||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41502",
+    "itemLabel": "Henryk Sienkiewicz",
+    "year": "1916",
+    "sitelinks": "138",
+    "description": "Polish writer, novelist, journalist, philanthropist and Nobel Prize laureate (1846–1916)",
+    "nationalityLabel": "Polish",
+    "occupationLabel": "screenwriter||author||novelist||short story writer||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79025",
+    "itemLabel": "Walter Scott",
+    "year": "1832",
+    "sitelinks": "137",
+    "description": "Scottish novelist, poet and playwright (1771–1832)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||judge||lawyer||literary critic||jurist||historian||novelist||translator||poet||playwright||musicologist||short story writer||linguist||biographer||poet lawyer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131333",
@@ -645,34 +663,7 @@
     "sitelinks": "137",
     "description": "English novelist, essayist, poet and journalist (1819–1880)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "philosopher||writer||novelist||essayist||translator||poet||editor||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q82006",
-    "itemLabel": "Benjamin Disraeli",
-    "year": "1881",
-    "sitelinks": "137",
-    "description": "British statesman (1804–1881)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||writer||novelist||finance minister||biographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41502",
-    "itemLabel": "Henryk Sienkiewicz",
-    "year": "1916",
-    "sitelinks": "137",
-    "description": "Polish writer, novelist, journalist, philanthropist and Nobel Prize laureate (1846–1916)",
-    "nationalityLabel": "Polish",
-    "occupationLabel": "screenwriter||writer||novelist||short story writer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80900",
-    "itemLabel": "Pearl S. Buck",
-    "year": "1973",
-    "sitelinks": "137",
-    "description": "American writer (1892–1973)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "children's writer||screenwriter||writer||novelist||missionary||prose writer||translator||human rights defender||autobiographer||journalist"
+    "occupationLabel": "author||philosopher||novelist||translator||poet||essayist||journalist||editor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6538",
@@ -681,7 +672,7 @@
     "sitelinks": "137",
     "description": "German novelist, poet, playwright, illustrator, graphic artist, and sculptor (1927-2015)",
     "nationalityLabel": "Free City of Danzig||German",
-    "occupationLabel": "screenwriter||altar server||photographer||novelist||librettist||printmaker||essayist||playwright||poet||lyricist||illustrator||sculptor||autobiographer||painter||graphic artist"
+    "occupationLabel": "screenwriter||author||altar server||photographer||novelist||poet||playwright||essayist||illustrator||printmaker||librettist||lyricist||artist||painter||graphic artist||sculptor||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q502",
@@ -690,7 +681,7 @@
     "sitelinks": "135",
     "description": "French writer (1783–1842)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||novelist||diplomat||diarist||autobiographer||biographer||art historian"
+    "occupationLabel": "author||diplomat||novelist||biographer||autobiographer||art historian||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3816",
@@ -699,7 +690,7 @@
     "sitelinks": "135",
     "description": "French novelist and memoirist (1804–1876)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||composer||novelist||librettist||playwright||author||women's rights activist||diarist||salonnière||journalist"
+    "occupationLabel": "author||composer||novelist||playwright||librettist||women's rights activist||salonnière||journalist||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37060",
@@ -708,7 +699,34 @@
     "sitelinks": "135",
     "description": "Portuguese novelist (1922–2010)",
     "nationalityLabel": "Portuguese",
-    "occupationLabel": "literary critic||screenwriter||writer||novelist||essayist||dramaturge||playwright||translator||poet||diarist||revolutionary||journalist||chronicler"
+    "occupationLabel": "screenwriter||author||literary critic||novelist||translator||poet||dramaturge||playwright||essayist||revolutionary||journalist||diarist||chronicler"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131018",
+    "itemLabel": "François Rabelais",
+    "year": "1553",
+    "sitelinks": "134",
+    "description": "16th-century French writer and humanist (1494–1553)",
+    "nationalityLabel": "French",
+    "occupationLabel": "author||physician||humanist||novelist||humorist||librettist||satirist||physician writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127332",
+    "itemLabel": "Charlotte Brontë",
+    "year": "1855",
+    "sitelinks": "134",
+    "description": "British novelist and poet (1816-1855)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||teacher||novelist||poet||governess"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1403",
+    "itemLabel": "Luigi Pirandello",
+    "year": "1936",
+    "sitelinks": "134",
+    "description": "Italian dramatist, novelist, short story writer, and poet, Nobel Prize for Literature laureate (1867-1936)",
+    "nationalityLabel": "Italian",
+    "occupationLabel": "author||screenwriter||director||novelist||poet||playwright"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40826",
@@ -717,7 +735,7 @@
     "sitelinks": "134",
     "description": "Norwegian novelist (1859–1952)",
     "nationalityLabel": "Norwegian",
-    "occupationLabel": "writer||critic||novelist||playwright||poet"
+    "occupationLabel": "author||critic||novelist||poet||playwright"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42544",
@@ -726,34 +744,16 @@
     "sitelinks": "133",
     "description": "English statesman, lawyer and philosopher (1478–1535)",
     "nationalityLabel": "English",
-    "occupationLabel": "politician||judge||philosopher||writer||novelist||diplomat||historian||poet||statesperson||theologian||poet lawyer"
+    "occupationLabel": "politician||author||judge||diplomat||jurist||historian||philosopher||novelist||poet||statesperson||theologian||poet lawyer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131018",
-    "itemLabel": "François Rabelais",
-    "year": "1553",
+    "item": "http://www.wikidata.org/entity/Q40874",
+    "itemLabel": "Doris Lessing",
+    "year": "2013",
     "sitelinks": "133",
-    "description": "16th-century French writer and humanist (1494–1553)",
-    "nationalityLabel": "French",
-    "occupationLabel": "writer||novelist||humorist||physician writer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q127332",
-    "itemLabel": "Charlotte Brontë",
-    "year": "1855",
-    "sitelinks": "133",
-    "description": "British novelist and poet (1816-1855)",
+    "description": "British novelist, poet, playwright, librettist, biographer, and short story writer (1919–2013)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||novelist||teacher||poet||governess"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1403",
-    "itemLabel": "Luigi Pirandello",
-    "year": "1936",
-    "sitelinks": "133",
-    "description": "Italian dramatist, novelist, short story writer, and poet, Nobel Prize for Literature laureate (1867-1936)",
-    "nationalityLabel": "Italian",
-    "occupationLabel": "screenwriter||writer||novelist||playwright||poet||director"
+    "occupationLabel": "screenwriter||author||novelist||poet||playwright||essayist||prose writer||autobiographer||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80137",
@@ -762,7 +762,16 @@
     "sitelinks": "132",
     "description": "English novelist and poet (1818–1848)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||novelist||teacher||poet||governess"
+    "occupationLabel": "author||teacher||novelist||poet||librettist||governess"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47152",
+    "itemLabel": "Mary Shelley",
+    "year": "1851",
+    "sitelinks": "132",
+    "description": "English writer (1797–1851)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||travel writer||novelist||translator||German–English translator||poet||playwright||essayist||short story writer||biographer||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76483",
@@ -771,7 +780,7 @@
     "sitelinks": "132",
     "description": "Austrian poet and writer (1875–1926)",
     "nationalityLabel": "Austria–Hungary||German||Austrian",
-    "occupationLabel": "writer||novelist||playwright||translator||poet"
+    "occupationLabel": "author||novelist||translator||poet||playwright"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42",
@@ -780,16 +789,16 @@
     "sitelinks": "132",
     "description": "British science fiction writer and humorist (1952–2001)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||children's writer||screenwriter||novelist||comedian||musician||playwright||science fiction writer"
+    "occupationLabel": "author||screenwriter||children's writer||novelist||playwright||comedian||musician||science fiction writer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40874",
-    "itemLabel": "Doris Lessing",
-    "year": "2013",
+    "item": "http://www.wikidata.org/entity/Q72334",
+    "itemLabel": "Toni Morrison",
+    "year": "2019",
     "sitelinks": "131",
-    "description": "British novelist, poet, playwright, librettist, biographer, and short story writer (1919–2013)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||writer||novelist||essayist||prose writer||playwright||poet||science fiction writer||autobiographer"
+    "description": "African American novelist, essayist, and academic (1931–2019)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||children's writer||novelist||poet||young adult author||essayist||librettist||editing staff||university teacher||audiobook narrator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1276",
@@ -798,43 +807,34 @@
     "sitelinks": "130",
     "description": "Canadian singer, songwriter and poet (1934–2016)",
     "nationalityLabel": "Canadian||Canadians",
-    "occupationLabel": "screenwriter||writer||record producer||film actor||singer||novelist||musician||singer-songwriter||draftsperson||pianist||poet||author||lyricist||street artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q72334",
-    "itemLabel": "Toni Morrison",
-    "year": "2019",
-    "sitelinks": "130",
-    "description": "African American novelist, essayist, and academic (1931–2019)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "children's writer||writer||novelist||librettist||essayist||poet||editing staff||young adult author||audiobook narrator||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47152",
-    "itemLabel": "Mary Shelley",
-    "year": "1851",
-    "sitelinks": "129",
-    "description": "English writer (1797–1851)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "travel writer||writer||novelist||essayist||playwright||translator||poet||short story writer||science fiction writer||German–English translator||biographer"
+    "occupationLabel": "author||screenwriter||singer||record producer||novelist||poet||singer-songwriter||musician||lyricist||film actor||pianist||draftsperson||street artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39803",
     "itemLabel": "Mario Vargas Llosa",
     "year": "2025",
-    "sitelinks": "129",
+    "sitelinks": "130",
     "description": "Peruvian, Spanish and Dominican novelist and writer (1936–2025)",
     "nationalityLabel": "Dominican||Peruvian||Spanish||Spaniard",
-    "occupationLabel": "politician||literary critic||philosopher||writer||novelist||opinion journalist||broadcaster||essayist||prose writer||dramaturge||playwright||university teacher||journalist||film director"
+    "occupationLabel": "politician||author||literary critic||founder||opinion journalist||philosopher||novelist||broadcaster||playwright||dramaturge||essayist||prose writer||journalist||film director||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4985",
     "itemLabel": "Herman Melville",
     "year": "1891",
-    "sitelinks": "128",
+    "sitelinks": "129",
     "description": "American writer and poet (1819–1891)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "literary critic||writer||sailor||novelist||art collector||teacher||essayist||poet||lecturer"
+    "occupationLabel": "author||literary critic||teacher||novelist||sailor||art collector||poet||essayist||librettist||customs officer||seaman||lecturer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101638",
+    "itemLabel": "Mary Wollstonecraft",
+    "year": "1797",
+    "sitelinks": "128",
+    "description": "English writer and intellectual (1759–1797)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||children's writer||travel writer||historian||philosopher||novelist||translator||feminist||essayist||proprietor||governess"
   },
   {
     "item": "http://www.wikidata.org/entity/Q82925",
@@ -842,17 +842,8 @@
     "year": "1924",
     "sitelinks": "128",
     "description": "Polish-British writer (1857–1924)",
-    "nationalityLabel": "British||Briton||Polish||Russian||Ukraine",
-    "occupationLabel": "screenwriter||writer||novelist||essayist||slave driver||science fiction writer||autobiographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q101638",
-    "itemLabel": "Mary Wollstonecraft",
-    "year": "1797",
-    "sitelinks": "127",
-    "description": "English writer and intellectual (1759–1797)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "travel writer||philosopher||children's writer||writer||novelist||essayist||historian||proprietor||translator||governess"
+    "nationalityLabel": "Russian||Polish||British||Briton",
+    "occupationLabel": "screenwriter||author||novelist||slave driver||essayist||autobiographer||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46599",
@@ -861,7 +852,7 @@
     "sitelinks": "127",
     "description": "Russian writer, poet and painter (1814–1841)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "writer||novelist||military officer||prose writer||playwright||translator||poet||bretteur||painter"
+    "occupationLabel": "author||military officer||novelist||translator||poet||playwright||librettist||prose writer||painter||bretteur"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23114",
@@ -870,16 +861,25 @@
     "sitelinks": "127",
     "description": "Chinese novelist and essayist (1881–1936)",
     "nationalityLabel": "Chinese||Qing dynasty",
-    "occupationLabel": "literary critic||writer||critic||novelist||essayist||translator||poet||short story writer||Esperantist"
+    "occupationLabel": "author||literary critic||critic||novelist||translator||poet||essayist||Esperantist||short story writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234819",
     "itemLabel": "Alice Munro",
     "year": "2024",
-    "sitelinks": "126",
+    "sitelinks": "127",
     "description": "Canadian writer (1931–2024)",
     "nationalityLabel": "Canadian||Canadians",
-    "occupationLabel": "screenwriter||writer||novelist||short story writer||journalist"
+    "occupationLabel": "screenwriter||author||novelist||short story writer||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47087",
+    "itemLabel": "Arthur C. Clarke",
+    "year": "2008",
+    "sitelinks": "126",
+    "description": "British science fiction writer, inventor, and futurist (1917–2008)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "screenwriter||author||physicist||novelist||explorer||inventor||futurist||non-fiction writer||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q78491",
@@ -888,16 +888,25 @@
     "sitelinks": "125",
     "description": "Austrian writer (1881–1942)",
     "nationalityLabel": "Austrian",
-    "occupationLabel": "literary critic||writer||novelist||essayist||prose writer||historian||playwright||translator||poet||biographer||journalist"
+    "occupationLabel": "author||literary critic||historian||novelist||translator||poet||playwright||essayist||prose writer||musician||biographer||pacifist||journalist||collector"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47087",
-    "itemLabel": "Arthur C. Clarke",
-    "year": "2008",
+    "item": "http://www.wikidata.org/entity/Q132524",
+    "itemLabel": "Ayn Rand",
+    "year": "1982",
     "sitelinks": "125",
-    "description": "British science fiction writer, inventor, and futurist (1917–2008)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||physicist||writer||novelist||explorer||inventor||non-fiction writer||futurist||science fiction writer"
+    "description": "Russian-born American writer and public philosopher (1905–1982)",
+    "nationalityLabel": "Russian||statelessness||Russian Republic||Soviet||Russian Soviet Federative Socialist Republic||American||Americans",
+    "occupationLabel": "screenwriter||author||literary critic||philosopher||novelist||playwright||essayist||journalist||science fiction writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47619",
+    "itemLabel": "Nadine Gordimer",
+    "year": "2014",
+    "sitelinks": "125",
+    "description": "South African writer (1923–2014)",
+    "nationalityLabel": "South African",
+    "occupationLabel": "author||scientific editor||novelist||poet||playwright||prose writer||short story writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47293",
@@ -906,7 +915,7 @@
     "sitelinks": "124",
     "description": "German-born novelist (1898–1970)",
     "nationalityLabel": "German||American||Americans",
-    "occupationLabel": "screenwriter||writer||novelist||playwright"
+    "occupationLabel": "screenwriter||author||teacher||novelist||playwright||pacifist||editing staff"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43736",
@@ -915,25 +924,16 @@
     "sitelinks": "124",
     "description": "Japanese novelist (1899–1972)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "screenwriter||writer||novelist||poet"
+    "occupationLabel": "screenwriter||author||novelist||poet"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q132524",
-    "itemLabel": "Ayn Rand",
-    "year": "1982",
-    "sitelinks": "124",
-    "description": "Russian-born American writer and public philosopher (1905–1982)",
-    "nationalityLabel": "statelessness||Russian Republic||Russian||Russian Soviet Federative Socialist Republic||Soviet||American||Americans",
-    "occupationLabel": "literary critic||philosopher||screenwriter||writer||novelist||essayist||playwright||science fiction writer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47619",
-    "itemLabel": "Nadine Gordimer",
-    "year": "2014",
-    "sitelinks": "123",
-    "description": "South African writer (1923–2014)",
-    "nationalityLabel": "South African",
-    "occupationLabel": "scientific editor||writer||novelist||prose writer||playwright||poet||short story writer"
+    "item": "http://www.wikidata.org/entity/Q93354",
+    "itemLabel": "F. Scott Fitzgerald",
+    "year": "1940",
+    "sitelinks": "122",
+    "description": "American writer (1896–1940)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||author||novelist||playwright||short story writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43523",
@@ -942,7 +942,7 @@
     "sitelinks": "122",
     "description": "German dramatist who received the Nobel Prize in Literature in 1912 (1862-1946)",
     "nationalityLabel": "Weimar Republic||Prussian",
-    "occupationLabel": "screenwriter||writer||novelist||playwright||poet||lyricist||autobiographer"
+    "occupationLabel": "screenwriter||author||novelist||poet||playwright||lyricist||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q82248",
@@ -951,7 +951,7 @@
     "sitelinks": "121",
     "description": "English novelist and playwright (1867–1933)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||writer||novelist||prose writer||playwright"
+    "occupationLabel": "screenwriter||author||novelist||playwright||prose writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83158",
@@ -960,7 +960,7 @@
     "sitelinks": "121",
     "description": "French writer and filmmaker (1889–1963)",
     "nationalityLabel": "French",
-    "occupationLabel": "screenwriter||writer||composer||photographer||designer||novelist||actor||librettist||ceramicist||cinematographer||prose writer||playwright||draftsperson||poet||author||illustrator||lithographer||exlibrist||pastellist||painter||muralist||filmmaker||voice actor||postage stamp designer||director||jewelry designer||film director"
+    "occupationLabel": "screenwriter||muralist||author||director||actor||composer||photographer||exlibrist||novelist||cinematographer||poet||playwright||designer||illustrator||ceramicist||librettist||prose writer||draftsperson||painter||lithographer||sculptor||postage stamp designer||filmmaker||voice actor||jewelry designer||film director||pastellist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7728",
@@ -969,34 +969,25 @@
     "sitelinks": "120",
     "description": "Italian novelist (1871-1936)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "writer||novelist||prose writer||playwright||poet||short story writer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93354",
-    "itemLabel": "F. Scott Fitzgerald",
-    "year": "1940",
-    "sitelinks": "120",
-    "description": "American writer (1896–1940)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||writer||novelist||playwright||short story writer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151403",
-    "itemLabel": "Thomas Carlyle",
-    "year": "1881",
-    "sitelinks": "119",
-    "description": "Scottish essayist, historian and philosopher (1795–1881)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "literary critic||philosopher||writer||mathematician||novelist||teacher||essayist||historian||translator||literary historian||linguist"
+    "occupationLabel": "author||novelist||poet||playwright||prose writer||short story writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47561",
     "itemLabel": "Ivo Andrić",
     "year": "1975",
-    "sitelinks": "119",
+    "sitelinks": "120",
     "description": "Yugoslav novelist (1892–1975)",
-    "nationalityLabel": "Kingdom of Serbs, Croats and Slovenes||Austrian||State of Slovenes, Croats and Serbs||Yugoslavia||Socialist Federal Republic of Yugoslavia",
-    "occupationLabel": "writer||novelist||diplomat||essayist||poet||short story writer"
+    "nationalityLabel": "Austrian||State of Slovenes, Croats and Serbs||Kingdom of Serbs, Croats and Slovenes||Yugoslavia||Socialist Federal Republic of Yugoslavia",
+    "occupationLabel": "author||diplomat||novelist||poet||essayist||short story writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83059",
+    "itemLabel": "Saul Bellow",
+    "year": "2005",
+    "sitelinks": "120",
+    "description": "Canadian-American writer (1915–2005)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||anthropologist||novelist||essayist||journalist||sociologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42747",
@@ -1005,16 +996,43 @@
     "sitelinks": "119",
     "description": "German writer (1917–1985)",
     "nationalityLabel": "German",
-    "occupationLabel": "screenwriter||writer||novelist||translator||poet||lyricist||public figure||Nobel Prize winner"
+    "occupationLabel": "screenwriter||author||Nobel Prize winner||novelist||translator||poet||lyricist||public figure"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q83059",
-    "itemLabel": "Saul Bellow",
-    "year": "2005",
+    "item": "http://www.wikidata.org/entity/Q40640",
+    "itemLabel": "Ray Bradbury",
+    "year": "2012",
     "sitelinks": "119",
-    "description": "Canadian-American writer (1915–2005)",
+    "description": "American author and screenwriter (1920–2012)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||novelist||essayist||author||university teacher"
+    "occupationLabel": "screenwriter||author||novelist||satirical novelist||poet||playwright||prose writer||science fiction writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151403",
+    "itemLabel": "Thomas Carlyle",
+    "year": "1881",
+    "sitelinks": "118",
+    "description": "Scottish essayist, historian and philosopher (1795–1881)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "scientist||author||mathematician||literary critic||historian||teacher||philosopher||novelist||translator||essayist||literary historian||linguist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132805",
+    "itemLabel": "Thomas Hardy",
+    "year": "1928",
+    "sitelinks": "118",
+    "description": "English novelist and poet (1840–1928)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "screenwriter||author||novelist||poet"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q835",
+    "itemLabel": "Mikhail Bulgakov",
+    "year": "1940",
+    "sitelinks": "118",
+    "description": "Russian author (1891–1940)",
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "author||screenwriter||theatre director||novelist||physician||playwright||librettist||prose writer||satirist||short story writer||biographer||journalist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q123469",
@@ -1023,16 +1041,25 @@
     "sitelinks": "118",
     "description": "American writer and playwright (1885–1951)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||novelist||playwright||journalist"
+    "occupationLabel": "author||novelist||playwright||journalist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q132805",
-    "itemLabel": "Thomas Hardy",
-    "year": "1928",
+    "item": "http://www.wikidata.org/entity/Q69339",
+    "itemLabel": "Nathaniel Hawthorne",
+    "year": "1864",
     "sitelinks": "117",
-    "description": "English novelist and poet (1840–1928)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||writer||novelist||poet"
+    "description": "American author (1804–1864)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||children's writer||diplomat||novelist||consul||short story writer||science fiction writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102513",
+    "itemLabel": "Harriet Beecher Stowe",
+    "year": "1896",
+    "sitelinks": "117",
+    "description": "American abolitionist and author (1811–1896)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||children's writer||novelist||poet||essayist||social activist||short story writer||abolitionist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183167",
@@ -1041,16 +1068,7 @@
     "sitelinks": "117",
     "description": "English author and Christian apologist (1874–1936)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "literary critic||philosopher||screenwriter||writer||novelist||crime fiction writer||opinion journalist||essayist||historian||playwright||poet||illustrator||literary historian||autobiographer||university teacher||biographer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q835",
-    "itemLabel": "Mikhail Bulgakov",
-    "year": "1940",
-    "sitelinks": "117",
-    "description": "Russian author (1891–1940)",
-    "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "writer||screenwriter||novelist||physician||librettist||satirist||prose writer||playwright||short story writer||science fiction writer||biographer||theatrical director||journalist"
+    "occupationLabel": "caricaturist||screenwriter||author||literary critic||historian||opinion journalist||philosopher||crime fiction writer||novelist||poet||playwright||essayist||illustrator||literary historian||biographer||autobiographer||journalist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81685",
@@ -1059,24 +1077,6 @@
     "sitelinks": "117",
     "description": "French writer (1885-1970)",
     "nationalityLabel": "French",
-    "occupationLabel": "literary critic||screenwriter||writer||novelist||playwright||poet||biographer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q42398",
-    "itemLabel": "Mikhail Sholokhov",
-    "year": "1984",
-    "sitelinks": "117",
-    "description": "Soviet writer (1905-1984)",
-    "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "politician||screenwriter||writer||novelist||prose writer||poet||short story writer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q44183",
-    "itemLabel": "William Golding",
-    "year": "1993",
-    "sitelinks": "117",
-    "description": "British novelist, poet, playwright and Nobel Prize for Literature laureate (1911–1993)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||writer||novelist||poet||science fiction writer"
+    "occupationLabel": "screenwriter||author||literary critic||novelist||poet||playwright||biographer||journalist"
   }
 ]

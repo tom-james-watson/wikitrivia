@@ -5,7 +5,7 @@
     "positionLabel": "monarch of England",
     "sexLabel": "female",
     "year": "1558",
-    "sitelinks": "184"
+    "sitelinks": "186"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38370",
@@ -21,7 +21,7 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1066",
-    "sitelinks": "112"
+    "sitelinks": "113"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42305",
@@ -29,7 +29,7 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1189",
-    "sitelinks": "110"
+    "sitelinks": "112"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81506",
@@ -37,7 +37,7 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1625",
-    "sitelinks": "108"
+    "sitelinks": "110"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83476",
@@ -53,7 +53,7 @@
     "positionLabel": "monarch of England",
     "sexLabel": "female",
     "year": "1553",
-    "sitelinks": "100"
+    "sitelinks": "101"
   },
   {
     "item": "http://www.wikidata.org/entity/Q122553",
@@ -61,7 +61,15 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1660",
-    "sitelinks": "97"
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79972",
+    "itemLabel": "James VI and I",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1603",
+    "sitelinks": "95"
   },
   {
     "item": "http://www.wikidata.org/entity/Q119702",
@@ -72,20 +80,12 @@
     "sitelinks": "94"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q79972",
-    "itemLabel": "James VI and I",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1603",
-    "sitelinks": "94"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q83229",
     "itemLabel": "Edward VI of England",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1547",
-    "sitelinks": "93"
+    "sitelinks": "94"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129308",
@@ -109,6 +109,14 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1685",
+    "sitelinks": "89"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57798",
+    "itemLabel": "Edward I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1272",
     "sitelinks": "88"
   },
   {
@@ -120,20 +128,12 @@
     "sitelinks": "88"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q57798",
-    "itemLabel": "Edward I of England",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1272",
-    "sitelinks": "88"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q131581",
     "itemLabel": "Henry V of England",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1413",
-    "sitelinks": "87"
+    "sitelinks": "86"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102140",
@@ -160,6 +160,22 @@
     "sitelinks": "83"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q162356",
+    "itemLabel": "Lady Jane Grey",
+    "positionLabel": "monarch of England",
+    "sexLabel": "female",
+    "year": "1553",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101384",
+    "itemLabel": "Henry I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1100",
+    "sitelinks": "80"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q130812",
     "itemLabel": "Mary II of England",
     "positionLabel": "monarch of England",
@@ -168,28 +184,20 @@
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q162356",
-    "itemLabel": "Lady Jane Grey",
-    "positionLabel": "monarch of England",
-    "sexLabel": "female",
-    "year": "1553",
-    "sitelinks": "79"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q101384",
-    "itemLabel": "Henry I of England",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1100",
-    "sitelinks": "79"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q134128",
     "itemLabel": "Cnut the Great",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1016",
-    "sitelinks": "77"
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5236",
+    "itemLabel": "Edward II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1307",
+    "sitelinks": "76"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159597",
@@ -224,20 +232,20 @@
     "sitelinks": "76"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5236",
-    "itemLabel": "Edward II of England",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1307",
-    "sitelinks": "76"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q81000",
     "itemLabel": "Richard II of England",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1377",
     "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161866",
+    "itemLabel": "Henry IV of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1399",
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170017",
@@ -248,20 +256,12 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q161866",
-    "itemLabel": "Henry IV of England",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1399",
-    "sitelinks": "73"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q102005",
     "itemLabel": "William II of England",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1087",
-    "sitelinks": "71"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130005",
@@ -269,6 +269,14 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1042",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60849",
+    "itemLabel": "Stephen, King of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1135",
     "sitelinks": "68"
   },
   {
@@ -277,14 +285,6 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "1483",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60849",
-    "itemLabel": "Stephen, King of England",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1135",
     "sitelinks": "68"
   },
   {
@@ -312,6 +312,14 @@
     "sitelinks": "60"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q181896",
+    "itemLabel": "Sweyn I of Denmark",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "year": "1013",
+    "sitelinks": "59"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q188684",
     "itemLabel": "Edmund II of England",
     "positionLabel": "monarch of England",
@@ -325,14 +333,6 @@
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "year": "959",
-    "sitelinks": "59"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q181896",
-    "itemLabel": "Sweyn I of Denmark",
-    "positionLabel": "monarch of England",
-    "sexLabel": "male",
-    "year": "1013",
     "sitelinks": "59"
   },
   {

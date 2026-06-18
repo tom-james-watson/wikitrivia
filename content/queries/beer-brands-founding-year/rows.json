@@ -25,7 +25,7 @@
     "itemLabel": "Budweiser",
     "description": "American-style pale lager, a brand of Belgian company AB InBev",
     "year": "1876",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q929276",
@@ -53,7 +53,7 @@
     "itemLabel": "Amstel Brewery",
     "description": "Dutch Brewery brand",
     "year": "1870",
-    "sitelinks": "27"
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152532",
@@ -86,7 +86,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q33105701",
     "itemLabel": "Chimay",
-    "description": "trappist beer from Belgium",
+    "description": "trappist beer brand from Belgium",
     "year": "1862",
     "sitelinks": "22"
   },
@@ -95,7 +95,7 @@
     "itemLabel": "XXXX",
     "description": "XxxAustralian beer brand",
     "year": "1924",
-    "sitelinks": "20"
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1269232",
@@ -119,6 +119,13 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2140520",
+    "itemLabel": "Singha",
+    "description": "beer brand",
+    "year": "1933",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q610086",
     "itemLabel": "Achel Brewery",
     "description": "Belgian brewery",
@@ -133,18 +140,18 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2140520",
-    "itemLabel": "Singha",
-    "description": "beer brand",
-    "year": "1933",
-    "sitelinks": "16"
+    "item": "http://www.wikidata.org/entity/Q2417742",
+    "itemLabel": "Red Stripe",
+    "description": "beer brand produced by Desnoes & Geddes",
+    "year": "1928",
+    "sitelinks": "15"
   },
   {
     "item": "http://www.wikidata.org/entity/Q897293",
     "itemLabel": "Brahma",
     "description": "trademark",
     "year": "1888",
-    "sitelinks": "14"
+    "sitelinks": "15"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1423785",
@@ -168,17 +175,17 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q595750",
-    "itemLabel": "Cerveza Quilmes",
-    "description": "Argentine beer brand",
-    "year": "1890",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1572281",
     "itemLabel": "Kingfisher",
     "description": "Indian beer brand",
     "year": "1978",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q595750",
+    "itemLabel": "Cerveza Quilmes",
+    "description": "Argentine beer brand",
+    "year": "1890",
     "sitelinks": "13"
   },
   {
@@ -203,13 +210,6 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2646636",
-    "itemLabel": "Desperados",
-    "description": "lager produced by Fischer Brewery",
-    "year": "1995",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1295815",
     "itemLabel": "Efes Pilsen",
     "description": "Produced by the Efes Beverage Group",
@@ -217,11 +217,11 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q971751",
-    "itemLabel": "Bintang Beer",
-    "description": "Indonesia beer brand",
-    "year": "1929",
-    "sitelinks": "10"
+    "item": "http://www.wikidata.org/entity/Q2646636",
+    "itemLabel": "Desperados",
+    "description": "lager produced by Fischer Brewery",
+    "year": "1995",
+    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q798067",
@@ -231,10 +231,31 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1546845",
+    "itemLabel": "Grimbergen",
+    "description": "brand name of a variety of Belgian abbey beers",
+    "year": "1128",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q971751",
+    "itemLabel": "Bintang Beer",
+    "description": "Indonesia beer brand",
+    "year": "1929",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1073087",
     "itemLabel": "Smithwick's",
-    "description": "Irish beer",
+    "description": "Irish beer brand",
     "year": "1710",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1104762",
+    "itemLabel": "Cobra Beer",
+    "description": "beer brand manufactured in the United Kingdom and India",
+    "year": "1989",
     "sitelinks": "10"
   },
   {
@@ -245,17 +266,17 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2388771",
-    "itemLabel": "Tripel Karmeliet",
-    "description": "Belgian beer",
-    "year": "1996",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1871906",
     "itemLabel": "Lav pivo",
     "description": "Serbian beer brand",
     "year": "1892",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2388771",
+    "itemLabel": "Tripel Karmeliet",
+    "description": "Belgian beer",
+    "year": "1996",
     "sitelinks": "9"
   },
   {
@@ -266,20 +287,6 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1056400",
-    "itemLabel": "Bucanero Brewery S.A.",
-    "description": "brewery in Cuba",
-    "year": "1997",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1104762",
-    "itemLabel": "Cobra Beer",
-    "description": "beer brand manufactured in the United Kingdom and India",
-    "year": "1989",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1142160",
     "itemLabel": "Cruzcampo",
     "description": "Spanish beer brand",
@@ -287,10 +294,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9397571",
-    "itemLabel": "Żubr",
-    "description": "beer from Poland",
-    "year": "1768",
+    "item": "http://www.wikidata.org/entity/Q1056400",
+    "itemLabel": "Bucanero Brewery S.A.",
+    "description": "brewery in Cuba",
+    "year": "1997",
     "sitelinks": "9"
   },
   {
@@ -298,6 +305,13 @@
     "itemLabel": "Żywiec",
     "description": "beer",
     "year": "1856",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9397571",
+    "itemLabel": "Żubr",
+    "description": "beer from Poland",
+    "year": "1768",
     "sitelinks": "9"
   },
   {
@@ -315,6 +329,13 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1813698",
+    "itemLabel": "Imperial",
+    "description": "Costa Rican beer brand",
+    "year": "1924",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1035257",
     "itemLabel": "Cara Pils",
     "description": "store brand pilsner from Colruyt Group",
@@ -322,10 +343,10 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1813698",
-    "itemLabel": "Imperial",
-    "description": "Costa Rican beer brand",
-    "year": "1924",
+    "item": "http://www.wikidata.org/entity/Q1129508",
+    "itemLabel": "Fix",
+    "description": "Greek beer brand",
+    "year": "1864",
     "sitelinks": "8"
   },
   {
@@ -364,20 +385,6 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1735319",
-    "itemLabel": "Kasteel Donker",
-    "description": "Belgian barley wine",
-    "year": "1989",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7856799",
-    "itemLabel": "Tusker",
-    "description": "Kenyan beer brand owned by East African Breweries",
-    "year": "1922",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3246988",
     "itemLabel": "Albani Brewery",
     "description": "brewery in Odense, Denmark",
@@ -396,6 +403,13 @@
     "itemLabel": "Brouwerij 't IJ",
     "description": "Dutch brewery",
     "year": "1985",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7856799",
+    "itemLabel": "Tusker",
+    "description": "Kenyan beer brand owned by East African Breweries",
+    "year": "1922",
     "sitelinks": "7"
   },
   {
@@ -434,6 +448,13 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1567552",
+    "itemLabel": "Palm Breweries",
+    "description": "Belgian company",
+    "year": "1597",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q503112",
     "itemLabel": "Pilsen Callao",
     "description": "trademark",
@@ -445,34 +466,6 @@
     "itemLabel": "Calanda Bräu",
     "description": "trademark",
     "year": "1780",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1567552",
-    "itemLabel": "Palm Breweries",
-    "description": "Belgian company",
-    "year": "1597",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4570769",
-    "itemLabel": "Pacífico",
-    "description": "Mexican pilsner beer originally brewed in Mazatlán, Sinaloa",
-    "year": "1900",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4763317",
-    "itemLabel": "Angkor Beer",
-    "description": "Cambodian lager",
-    "year": "1963",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5168060",
-    "itemLabel": "Coors Light",
-    "description": "light beer brewed in Golden, Colorado and Milwaukee, Wisconsin",
-    "year": "1978",
     "sitelinks": "6"
   },
   {
@@ -497,6 +490,34 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4570769",
+    "itemLabel": "Pacífico",
+    "description": "Mexican pilsner beer originally brewed in Mazatlán, Sinaloa",
+    "year": "1900",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4763317",
+    "itemLabel": "Angkor Beer",
+    "description": "Cambodian lager",
+    "year": "1963",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5168060",
+    "itemLabel": "Coors Light",
+    "description": "light beer brewed in Golden, Colorado and Milwaukee, Wisconsin",
+    "year": "1978",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5763622",
+    "itemLabel": "Cusqueña",
+    "description": "Peruvian beer brand",
+    "year": "1908",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q87193814",
     "itemLabel": "Peroni Beer",
     "description": "Italian beer brand",
@@ -511,20 +532,6 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q479003",
-    "itemLabel": "Oranjeboom",
-    "description": "brewery in the Netherlands",
-    "year": "1671",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1322813",
-    "itemLabel": "Warka",
-    "description": "beer brand",
-    "year": "1478",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1135433",
     "itemLabel": "Corsendonk",
     "description": "Belgian beer brand created in 1982",
@@ -536,6 +543,34 @@
     "itemLabel": "Cuvée des Trolls",
     "description": "Belgian beer",
     "year": "2000",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1322813",
+    "itemLabel": "Warka",
+    "description": "Polish beer brand",
+    "year": "1478",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q479003",
+    "itemLabel": "Oranjeboom",
+    "description": "brewery in the Netherlands",
+    "year": "1671",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3500299",
+    "itemLabel": "Strela",
+    "description": "beer from Cape Verde",
+    "year": "1996",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3625680",
+    "itemLabel": "Tecate",
+    "description": "Mexican beer brand",
+    "year": "1943",
     "sitelinks": "5"
   },
   {
@@ -557,20 +592,6 @@
     "itemLabel": "Laško",
     "description": "beer",
     "year": "1825",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3500299",
-    "itemLabel": "Strela",
-    "description": "beer from Cape Verde",
-    "year": "1996",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3625680",
-    "itemLabel": "Tecate",
-    "description": "Mexican beer brand",
-    "year": "1943",
     "sitelinks": "5"
   },
   {

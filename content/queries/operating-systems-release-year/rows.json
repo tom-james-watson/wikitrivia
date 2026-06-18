@@ -4,21 +4,14 @@
     "itemLabel": "Microsoft Windows",
     "year": "1985",
     "developerLabel": "Microsoft",
-    "sitelinks": "176"
+    "sitelinks": "177"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14116",
     "itemLabel": "macOS",
     "year": "2001",
     "developerLabel": "Apple Inc.",
-    "sitelinks": "106"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48493",
-    "itemLabel": "iOS",
-    "year": "2007",
-    "developerLabel": "Apple Inc.",
-    "sitelinks": "106"
+    "sitelinks": "108"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11215",
@@ -28,18 +21,25 @@
     "sitelinks": "102"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2027",
-    "itemLabel": "Linux Mint",
-    "year": "2006",
-    "developerLabel": "",
-    "sitelinks": "75"
+    "item": "http://www.wikidata.org/entity/Q107269746",
+    "itemLabel": "Windows 11",
+    "year": "2021",
+    "developerLabel": "Microsoft",
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48267",
     "itemLabel": "Fedora Linux",
     "year": "2003",
     "developerLabel": "IBM",
-    "sitelinks": "74"
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2027",
+    "itemLabel": "Linux Mint",
+    "year": "2006",
+    "developerLabel": "",
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34236",
@@ -59,7 +59,7 @@
     "item": "http://www.wikidata.org/entity/Q14646",
     "itemLabel": "Solaris",
     "year": "1991",
-    "developerLabel": "Sun Microsystems",
+    "developerLabel": "Oracle Corporation",
     "sitelinks": "64"
   },
   {
@@ -80,7 +80,7 @@
     "item": "http://www.wikidata.org/entity/Q72688",
     "itemLabel": "Xubuntu",
     "year": "2006",
-    "developerLabel": "Canonical Ltd.",
+    "developerLabel": "Ubuntu Foundation",
     "sitelinks": "46"
   },
   {
@@ -98,6 +98,13 @@
     "sitelinks": "46"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q473751",
+    "itemLabel": "FreeDOS",
+    "year": "1998",
+    "developerLabel": "Jim Hall",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q129145",
     "itemLabel": "Deepin",
     "year": "2016",
@@ -112,10 +119,10 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q473751",
-    "itemLabel": "FreeDOS",
-    "year": "1998",
-    "developerLabel": "Jim Hall",
+    "item": "http://www.wikidata.org/entity/Q240116",
+    "itemLabel": "Puppy Linux",
+    "year": "2003",
+    "developerLabel": "",
     "sitelinks": "42"
   },
   {
@@ -123,13 +130,6 @@
     "itemLabel": "Android Nougat",
     "year": "2016",
     "developerLabel": "Google",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q240116",
-    "itemLabel": "Puppy Linux",
-    "year": "2003",
-    "developerLabel": "",
     "sitelinks": "41"
   },
   {
@@ -147,6 +147,13 @@
     "sitelinks": "38"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q64350339",
+    "itemLabel": "iPadOS",
+    "year": "2019",
+    "developerLabel": "Apple Inc.",
+    "sitelinks": "36"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2625341",
     "itemLabel": "Zorin OS",
     "year": "2009",
@@ -154,10 +161,17 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q64350339",
-    "itemLabel": "iPadOS",
-    "year": "2019",
-    "developerLabel": "Apple Inc.",
+    "item": "http://www.wikidata.org/entity/Q739186",
+    "itemLabel": "Multics",
+    "year": "1969",
+    "developerLabel": "General Electric",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q751067",
+    "itemLabel": "DragonFly BSD",
+    "year": "2003",
+    "developerLabel": "Matthew Dillon",
     "sitelinks": "35"
   },
   {
@@ -168,10 +182,10 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q751067",
-    "itemLabel": "DragonFly BSD",
-    "year": "2003",
-    "developerLabel": "Matthew Dillon",
+    "item": "http://www.wikidata.org/entity/Q1588573",
+    "itemLabel": "Trisquel",
+    "year": "2007",
+    "developerLabel": "",
     "sitelinks": "35"
   },
   {
@@ -227,7 +241,7 @@
     "item": "http://www.wikidata.org/entity/Q214390",
     "itemLabel": "Ubuntu Studio",
     "year": "2007",
-    "developerLabel": "Canonical Ltd.",
+    "developerLabel": "Ubuntu Foundation",
     "sitelinks": "32"
   },
   {
@@ -255,7 +269,7 @@
     "item": "http://www.wikidata.org/entity/Q34182",
     "itemLabel": "TrueOS",
     "year": "2006",
-    "developerLabel": "Kris Moore",
+    "developerLabel": "iXsystems",
     "sitelinks": "31"
   },
   {
@@ -301,10 +315,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q14581",
-    "itemLabel": "Darwin",
-    "year": "2000",
-    "developerLabel": "Apple Inc.",
+    "item": "http://www.wikidata.org/entity/Q725779",
+    "itemLabel": "Plan 9",
+    "year": "1992",
+    "developerLabel": "Bell Labs",
     "sitelinks": "30"
   },
   {
@@ -350,13 +364,6 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q725779",
-    "itemLabel": "Plan 9",
-    "year": "1992",
-    "developerLabel": "Bell Labs",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q627611",
     "itemLabel": "IRIX",
     "year": "1988",
@@ -392,6 +399,13 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q633192",
+    "itemLabel": "UNIX System V",
+    "year": "1983",
+    "developerLabel": "AT&T",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q847593",
     "itemLabel": "HP-UX",
     "year": "1984",
@@ -406,6 +420,20 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q85764357",
+    "itemLabel": "GrapheneOS",
+    "year": "2019",
+    "developerLabel": "Daniel Micay",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79534",
+    "itemLabel": "ChromiumOS",
+    "year": "2009",
+    "developerLabel": "Google",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q747434",
     "itemLabel": "Mac OS X Panther",
     "year": "2003",
@@ -413,10 +441,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q633192",
-    "itemLabel": "UNIX System V",
-    "year": "1983",
-    "developerLabel": "AT&T",
+    "item": "http://www.wikidata.org/entity/Q863568",
+    "itemLabel": "IBM PC DOS",
+    "year": "1981",
+    "developerLabel": "IBM",
     "sitelinks": "27"
   },
   {
@@ -434,13 +462,6 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q79534",
-    "itemLabel": "ChromiumOS",
-    "year": "2009",
-    "developerLabel": "Google",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q13426234",
     "itemLabel": "OS X Mavericks",
     "year": "2013",
@@ -452,13 +473,6 @@
     "itemLabel": "OS X El Capitan",
     "year": "2015",
     "developerLabel": "Apple Inc.",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q863568",
-    "itemLabel": "IBM PC DOS",
-    "year": "1981",
-    "developerLabel": "IBM",
     "sitelinks": "26"
   },
   {
@@ -490,6 +504,13 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q19310966",
+    "itemLabel": "Void Linux",
+    "year": "2008",
+    "developerLabel": "",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q17107792",
     "itemLabel": "OS X Yosemite",
     "year": "2014",
@@ -501,20 +522,6 @@
     "itemLabel": "Windows Phone 8.1",
     "year": "2014",
     "developerLabel": "Microsoft",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q85764357",
-    "itemLabel": "GrapheneOS",
-    "year": "2019",
-    "developerLabel": "Daniel Micay",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19310966",
-    "itemLabel": "Void Linux",
-    "year": "2008",
-    "developerLabel": "",
     "sitelinks": "24"
   },
   {
@@ -588,6 +595,13 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1186761",
+    "itemLabel": "FreeRTOS",
+    "year": "2003",
+    "developerLabel": "",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q54807273",
     "itemLabel": "macOS Mojave",
     "year": "2018",
@@ -602,17 +616,17 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1186761",
-    "itemLabel": "FreeRTOS",
-    "year": "2003",
-    "developerLabel": "",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q719621",
     "itemLabel": "macOS Server",
     "year": "1999",
     "developerLabel": "Apple Inc.",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123102639",
+    "itemLabel": "Xiaomi HyperOS",
+    "year": "2023",
+    "developerLabel": "Xiaomi",
     "sitelinks": "20"
   },
   {

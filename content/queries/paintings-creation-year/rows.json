@@ -4,7 +4,7 @@
     "itemLabel": "Mona Lisa",
     "year": "1503",
     "creatorLabel": "Leonardo da Vinci",
-    "sitelinks": "144"
+    "sitelinks": "146"
   },
   {
     "item": "http://www.wikidata.org/entity/Q45585",
@@ -14,17 +14,17 @@
     "sitelinks": "76"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q175036",
-    "itemLabel": "Guernica",
-    "year": "1937",
-    "creatorLabel": "Pablo Picasso",
-    "sitelinks": "70"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q185372",
     "itemLabel": "Girl with a Pearl Earring",
     "year": "1665",
     "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q175036",
+    "itemLabel": "Guernica",
+    "year": "1937",
+    "creatorLabel": "Pablo Picasso",
     "sitelinks": "70"
   },
   {
@@ -42,6 +42,13 @@
     "sitelinks": "58"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q208758",
+    "itemLabel": "Las Meninas",
+    "year": "1656",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "57"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q151047",
     "itemLabel": "The Birth of Venus",
     "year": "1485",
@@ -49,32 +56,25 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q208758",
-    "itemLabel": "Las Meninas",
-    "year": "1656",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "56"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154469",
     "itemLabel": "The Potato Eaters",
     "year": "1885",
     "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "52"
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q328523",
     "itemLabel": "Impression, Sunrise",
     "year": "1872",
     "creatorLabel": "Claude Monet",
-    "sitelinks": "51"
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q334138",
     "itemLabel": "L'Origine du monde",
     "year": "1866",
     "creatorLabel": "Gustave Courbet",
-    "sitelinks": "50"
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q474338",
@@ -88,7 +88,14 @@
     "itemLabel": "The Kiss",
     "year": "1907",
     "creatorLabel": "Gustav Klimt",
-    "sitelinks": "49"
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1752990",
+    "itemLabel": "The Death of Socrates",
+    "year": "1787",
+    "creatorLabel": "Jacques-Louis David",
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q321303",
@@ -105,11 +112,11 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1752990",
-    "itemLabel": "The Death of Socrates",
-    "year": "1787",
-    "creatorLabel": "Jacques-Louis David",
-    "sitelinks": "49"
+    "item": "http://www.wikidata.org/entity/Q311243",
+    "itemLabel": "Wanderer above the Sea of Fog",
+    "year": "1818",
+    "creatorLabel": "Caspar David Friedrich",
+    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q25729",
@@ -119,16 +126,9 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q311243",
-    "itemLabel": "Wanderer above the Sea of Fog",
-    "year": "1818",
-    "creatorLabel": "Caspar David Friedrich",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q212616",
     "itemLabel": "The Raft of the Medusa",
-    "year": "1818",
+    "year": "1819",
     "creatorLabel": "Théodore Géricault",
     "sitelinks": "47"
   },
@@ -147,24 +147,38 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q167605",
-    "itemLabel": "The Milkmaid",
-    "year": "1660",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "44"
+    "item": "http://www.wikidata.org/entity/Q152509",
+    "itemLabel": "Luncheon on the Grass",
+    "year": "1863",
+    "creatorLabel": "Édouard Manet",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q478271",
+    "itemLabel": "Reply of the Zaporozhian Cossacks",
+    "year": "1890",
+    "creatorLabel": "Ilya Repin",
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q464782",
     "itemLabel": "American Gothic",
     "year": "1930",
     "creatorLabel": "Grant Wood",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1091086",
     "itemLabel": "The Third of May 1808",
     "year": "1814",
     "creatorLabel": "Francisco Goya",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q167605",
+    "itemLabel": "The Milkmaid",
+    "year": "1660",
+    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "44"
   },
   {
@@ -175,17 +189,10 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152509",
-    "itemLabel": "Luncheon on the Grass",
-    "year": "1863",
-    "creatorLabel": "Édouard Manet",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q478271",
-    "itemLabel": "Reply of the Zaporozhian Cossacks",
-    "year": "1891",
-    "creatorLabel": "Ilya Repin",
+    "item": "http://www.wikidata.org/entity/Q683274",
+    "itemLabel": "Bal du moulin de la Galette",
+    "year": "1876",
+    "creatorLabel": "Pierre-Auguste Renoir",
     "sitelinks": "43"
   },
   {
@@ -203,10 +210,10 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q683274",
-    "itemLabel": "Bal du moulin de la Galette",
-    "year": "1876",
-    "creatorLabel": "Pierre-Auguste Renoir",
+    "item": "http://www.wikidata.org/entity/Q737062",
+    "itemLabel": "Olympia",
+    "year": "1863",
+    "creatorLabel": "Édouard Manet",
     "sitelinks": "42"
   },
   {
@@ -217,17 +224,10 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q412",
-    "itemLabel": "Pioneer plaque",
-    "year": "1972",
-    "creatorLabel": "",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q737062",
-    "itemLabel": "Olympia",
-    "year": "1863",
-    "creatorLabel": "Édouard Manet",
+    "item": "http://www.wikidata.org/entity/Q476458",
+    "itemLabel": "The Oath of the Horatii",
+    "year": "1784",
+    "creatorLabel": "Jacques-Louis David",
     "sitelinks": "41"
   },
   {
@@ -245,17 +245,24 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q476458",
-    "itemLabel": "The Oath of the Horatii",
-    "year": "1784",
-    "creatorLabel": "Jacques-Louis David",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q727875",
     "itemLabel": "Venus of Urbino",
     "year": "1538",
     "creatorLabel": "Titian",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q636537",
+    "itemLabel": "The Death of Marat",
+    "year": "1793",
+    "creatorLabel": "Jacques-Louis David",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1267893",
+    "itemLabel": "Ginevra de' Benci",
+    "year": "1476",
+    "creatorLabel": "Leonardo da Vinci",
     "sitelinks": "40"
   },
   {
@@ -266,31 +273,24 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q636537",
-    "itemLabel": "The Death of Marat",
-    "year": "1793",
-    "creatorLabel": "Jacques-Louis David",
+    "item": "http://www.wikidata.org/entity/Q1245354",
+    "itemLabel": "A Bar at the Folies-Bergère Sharon",
+    "year": "1882",
+    "creatorLabel": "Édouard Manet",
     "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1267893",
-    "itemLabel": "Ginevra de' Benci",
-    "year": "1476",
-    "creatorLabel": "Leonardo da Vinci",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q328079",
-    "itemLabel": "Sistine Madonna",
-    "year": "1512",
-    "creatorLabel": "Raphael",
-    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q563727",
     "itemLabel": "The Virgin and Child with Saint Anne",
     "year": "1511",
     "creatorLabel": "Leonardo da Vinci",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q328079",
+    "itemLabel": "Sistine Madonna",
+    "year": "1512",
+    "creatorLabel": "Raphael",
     "sitelinks": "38"
   },
   {
@@ -308,13 +308,6 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q604761",
-    "itemLabel": "The Blue Boy",
-    "year": "1770",
-    "creatorLabel": "Thomas Gainsborough",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q83872",
     "itemLabel": "Nighthawks",
     "year": "1942",
@@ -322,10 +315,10 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1245354",
-    "itemLabel": "A Bar at the Folies-Bergère Sharon",
-    "year": "1882",
-    "creatorLabel": "Édouard Manet",
+    "item": "http://www.wikidata.org/entity/Q604761",
+    "itemLabel": "The Blue Boy",
+    "year": "1770",
+    "creatorLabel": "Thomas Gainsborough",
     "sitelinks": "38"
   },
   {
@@ -333,6 +326,13 @@
     "itemLabel": "Starry Night Over the Rhone",
     "year": "1888",
     "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1231009",
+    "itemLabel": "The Coronation of Napoleon",
+    "year": "1807",
+    "creatorLabel": "Jacques-Louis David",
     "sitelinks": "38"
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q1133420",
-    "itemLabel": "The Surrender of Breda",
+    "itemLabel": "The Surrender of Brea",
     "year": "1634",
     "creatorLabel": "Diego Velázquez",
     "sitelinks": "37"
@@ -378,20 +378,6 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1213917",
-    "itemLabel": "The Church at Auvers",
-    "year": "1890",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1231009",
-    "itemLabel": "The Coronation of Napoleon",
-    "year": "1807",
-    "creatorLabel": "Jacques-Louis David",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1926628",
     "itemLabel": "The Red Vineyard",
     "year": "1888",
@@ -404,6 +390,20 @@
     "year": "1888",
     "creatorLabel": "Vincent van Gogh",
     "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1213917",
+    "itemLabel": "The Church at Auvers",
+    "year": "1890",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q910199",
+    "itemLabel": "Les Demoiselles d'Avignon",
+    "year": "1907",
+    "creatorLabel": "Pablo Picasso",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1044742",
@@ -427,10 +427,17 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q910199",
-    "itemLabel": "Les Demoiselles d'Avignon",
-    "year": "1907",
-    "creatorLabel": "Pablo Picasso",
+    "item": "http://www.wikidata.org/entity/Q656434",
+    "itemLabel": "La Belle Ferronnière",
+    "year": "1495",
+    "creatorLabel": "Leonardo da Vinci",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q783215",
+    "itemLabel": "Saint John the Baptist",
+    "year": "1514",
+    "creatorLabel": "Leonardo da Vinci",
     "sitelinks": "35"
   },
   {
@@ -448,16 +455,16 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q656434",
-    "itemLabel": "La Belle Ferronnière",
-    "year": "1495",
-    "creatorLabel": "Leonardo da Vinci",
+    "item": "http://www.wikidata.org/entity/Q1978815",
+    "itemLabel": "Grande Odalisque",
+    "year": "1810",
+    "creatorLabel": "Jean-Auguste-Dominique Ingres",
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q783215",
-    "itemLabel": "Saint John the Baptist",
-    "year": "1514",
+    "item": "http://www.wikidata.org/entity/Q1638622",
+    "itemLabel": "Adoration of the Magi",
+    "year": "1482",
     "creatorLabel": "Leonardo da Vinci",
     "sitelinks": "34"
   },
@@ -473,13 +480,6 @@
     "itemLabel": "The Swing",
     "year": "1767",
     "creatorLabel": "Jean-Honoré Fragonard",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1638622",
-    "itemLabel": "Adoration of the Magi",
-    "year": "1482",
-    "creatorLabel": "Leonardo da Vinci",
     "sitelinks": "34"
   },
   {
@@ -499,8 +499,15 @@
   {
     "item": "http://www.wikidata.org/entity/Q890678",
     "itemLabel": "Where Do We Come From? What Are We? Where Are We Going?",
-    "year": "1897",
+    "year": "1890",
     "creatorLabel": "Paul Gauguin",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q969377",
+    "itemLabel": "The Calling of Saint Matthew",
+    "year": "1609",
+    "creatorLabel": "Caravaggio",
     "sitelinks": "33"
   },
   {
@@ -508,13 +515,6 @@
     "itemLabel": "The Birth of Venus",
     "year": "1879",
     "creatorLabel": "William-Adolphe Bouguereau",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1978815",
-    "itemLabel": "Grande Odalisque",
-    "year": "1810",
-    "creatorLabel": "Jean-Auguste-Dominique Ingres",
     "sitelinks": "33"
   },
   {
@@ -536,13 +536,6 @@
     "itemLabel": "The Yellow Christ",
     "year": "1889",
     "creatorLabel": "Paul Gauguin",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q969377",
-    "itemLabel": "The Calling of Saint Matthew",
-    "year": "1609",
-    "creatorLabel": "Caravaggio",
     "sitelinks": "32"
   },
   {
@@ -581,6 +574,13 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q153441",
+    "itemLabel": "La fornarina",
+    "year": "1519",
+    "creatorLabel": "Raphael",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q586035",
     "itemLabel": "The Little Street",
     "year": "1658",
@@ -595,10 +595,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q644856",
-    "itemLabel": "The Triumph of Death",
-    "year": "1560",
-    "creatorLabel": "Pieter Brueghel the Elder",
+    "item": "http://www.wikidata.org/entity/Q326503",
+    "itemLabel": "The Sleepers",
+    "year": "1866",
+    "creatorLabel": "Gustave Courbet",
     "sitelinks": "31"
   },
   {
@@ -606,6 +606,13 @@
     "itemLabel": "The Wedding at Cana",
     "year": "1560",
     "creatorLabel": "Paolo Veronese",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q644856",
+    "itemLabel": "The Triumph of Death",
+    "year": "1560",
+    "creatorLabel": "Pieter Brueghel the Elder",
     "sitelinks": "31"
   },
   {
@@ -623,6 +630,13 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1473546",
+    "itemLabel": "Doni Tondo",
+    "year": "1500",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q14866847",
     "itemLabel": "Sunset at Montmajour",
     "year": "1888",
@@ -637,9 +651,9 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q698015",
-    "itemLabel": "Madonna of the Carnation",
-    "year": "1475",
+    "item": "http://www.wikidata.org/entity/Q1059211",
+    "itemLabel": "The Baptism of Christ",
+    "year": "1470",
     "creatorLabel": "Leonardo da Vinci",
     "sitelinks": "30"
   },
@@ -658,38 +672,17 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q698015",
+    "itemLabel": "Madonna of the Carnation",
+    "year": "1475",
+    "creatorLabel": "Leonardo da Vinci",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q512755",
     "itemLabel": "The Return of the Prodigal Son",
     "year": "1668",
     "creatorLabel": "Rembrandt",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153441",
-    "itemLabel": "La fornarina",
-    "year": "1519",
-    "creatorLabel": "Raphael",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q326503",
-    "itemLabel": "The Sleepers",
-    "year": "1866",
-    "creatorLabel": "Gustave Courbet",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1059211",
-    "itemLabel": "The Baptism of Christ",
-    "year": "1470",
-    "creatorLabel": "Andrea del Verrocchio",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2366825",
-    "itemLabel": "The Hay Wain",
-    "year": "1821",
-    "creatorLabel": "John Constable",
     "sitelinks": "30"
   },
   {
@@ -735,6 +728,20 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2366825",
+    "itemLabel": "The Hay Wain",
+    "year": "1821",
+    "creatorLabel": "John Constable",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2666439",
+    "itemLabel": "Morning in a Pine Forest",
+    "year": "1889",
+    "creatorLabel": "Ivan Shishkin",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q94802",
     "itemLabel": "The Burial of the Count of Orgaz",
     "year": "1586",
@@ -763,10 +770,24 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2344505",
-    "itemLabel": "Madonna of the Goldfinch",
-    "year": "1505",
-    "creatorLabel": "Raphael",
+    "item": "http://www.wikidata.org/entity/Q471289",
+    "itemLabel": "The Wounded Angel",
+    "year": "1903",
+    "creatorLabel": "Hugo Simberg",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1167907",
+    "itemLabel": "Luncheon of the Boating Party",
+    "year": "1880",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1651874",
+    "itemLabel": "A Journalist Lecturing on the Orrery",
+    "year": "1766",
+    "creatorLabel": "Joseph Wright of Derby",
     "sitelinks": "29"
   },
   {
@@ -791,31 +812,24 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2666439",
-    "itemLabel": "Morning in a Pine Forest",
-    "year": "1889",
-    "creatorLabel": "Ivan Shishkin",
+    "item": "http://www.wikidata.org/entity/Q2344505",
+    "itemLabel": "Madonna of the Goldfinch",
+    "year": "1505",
+    "creatorLabel": "Raphael",
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1473546",
-    "itemLabel": "Doni Tondo",
-    "year": "1500",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "29"
+    "item": "http://www.wikidata.org/entity/Q883994",
+    "itemLabel": "View of Toledo",
+    "year": "1596",
+    "creatorLabel": "El Greco",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q334360",
     "itemLabel": "The Abbey in the Oakwood",
     "year": "1809",
     "creatorLabel": "Caspar David Friedrich",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q877191",
-    "itemLabel": "The Three Philosophers",
-    "year": "1500",
-    "creatorLabel": "Giorgione",
     "sitelinks": "28"
   },
   {
@@ -826,17 +840,17 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2293905",
-    "itemLabel": "Medusa",
-    "year": "1597",
-    "creatorLabel": "Caravaggio",
+    "item": "http://www.wikidata.org/entity/Q877191",
+    "itemLabel": "The Three Philosophers",
+    "year": "1500",
+    "creatorLabel": "Giorgione",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1167907",
-    "itemLabel": "Luncheon of the Boating Party",
-    "year": "1880",
-    "creatorLabel": "Pierre-Auguste Renoir",
+    "item": "http://www.wikidata.org/entity/Q2030685",
+    "itemLabel": "The Marriage of the Virgin",
+    "year": "1504",
+    "creatorLabel": "Raphael",
     "sitelinks": "28"
   },
   {
@@ -854,17 +868,31 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2030685",
-    "itemLabel": "The Marriage of the Virgin",
-    "year": "1504",
-    "creatorLabel": "Raphael",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2735507",
     "itemLabel": "The Clothed Maja",
     "year": "1800",
     "creatorLabel": "Francisco Goya",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2290433",
+    "itemLabel": "The Massacre at Chios",
+    "year": "1824",
+    "creatorLabel": "Eugène Delacroix",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2293905",
+    "itemLabel": "Medusa",
+    "year": "1597",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2293936",
+    "itemLabel": "Self-Portrait as Bacchus",
+    "year": "1595",
+    "creatorLabel": "Caravaggio",
     "sitelinks": "28"
   },
   {
@@ -875,10 +903,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q883994",
-    "itemLabel": "View of Toledo",
-    "year": "1596",
-    "creatorLabel": "El Greco",
+    "item": "http://www.wikidata.org/entity/Q700251",
+    "itemLabel": "Girl Reading a Letter at an Open Window",
+    "year": "1658",
+    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "27"
   },
   {
@@ -889,17 +917,17 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q969367",
+    "itemLabel": "Woman Holding a Balance",
+    "year": "1665",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q597114",
     "itemLabel": "Death of the Virgin",
     "year": "1603",
     "creatorLabel": "Caravaggio",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q700251",
-    "itemLabel": "Girl Reading a Letter at an Open Window",
-    "year": "1658",
-    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "27"
   },
   {
@@ -910,66 +938,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q471289",
-    "itemLabel": "The Wounded Angel",
-    "year": "1903",
-    "creatorLabel": "Hugo Simberg",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2338404",
-    "itemLabel": "Portrait of a Musician",
-    "year": "1485",
-    "creatorLabel": "Leonardo da Vinci",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2521909",
-    "itemLabel": "The Last Day of Pompeii",
-    "year": "1833",
-    "creatorLabel": "Karl Bryullov",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2294441",
-    "itemLabel": "Danaë",
-    "year": "1636",
-    "creatorLabel": "Rembrandt",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2293953",
-    "itemLabel": "Venus and Mars",
-    "year": "1485",
-    "creatorLabel": "Sandro Botticelli",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2290433",
-    "itemLabel": "The Massacre at Chios",
-    "year": "1824",
-    "creatorLabel": "Eugène Delacroix",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2293936",
-    "itemLabel": "Self-Portrait as Bacchus",
-    "year": "1595",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1122842",
     "itemLabel": "The Magpie on the Gallows",
     "year": "1568",
     "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1219263",
-    "itemLabel": "The Sleeping Gypsy",
-    "year": "1897",
-    "creatorLabel": "Henri Rousseau",
     "sitelinks": "27"
   },
   {
@@ -987,10 +959,52 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1651874",
-    "itemLabel": "A Journalist Lecturing on the Orrery",
-    "year": "1766",
-    "creatorLabel": "Joseph Wright of Derby",
+    "item": "http://www.wikidata.org/entity/Q2521909",
+    "itemLabel": "The Last Day of Pompeii",
+    "year": "1833",
+    "creatorLabel": "Karl Bryullov",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1219263",
+    "itemLabel": "The Sleeping Gypsy",
+    "year": "1897",
+    "creatorLabel": "Henri Rousseau",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1217003",
+    "itemLabel": "Portrait of an Unknown Woman",
+    "year": "1883",
+    "creatorLabel": "Ivan Kramskoi",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2338404",
+    "itemLabel": "Portrait of a Musician",
+    "year": "1485",
+    "creatorLabel": "Leonardo da Vinci",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2294441",
+    "itemLabel": "Danaë",
+    "year": "1636",
+    "creatorLabel": "Rembrandt",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2293953",
+    "itemLabel": "Venus and Mars",
+    "year": "1485",
+    "creatorLabel": "Sandro Botticelli",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2629423",
+    "itemLabel": "A Young Girl Reading",
+    "year": "1770",
+    "creatorLabel": "Jean-Honoré Fragonard",
     "sitelinks": "27"
   },
   {
@@ -1001,38 +1015,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2354251",
-    "itemLabel": "The Barque of Dante",
-    "year": "1822",
-    "creatorLabel": "Eugène Delacroix",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2339059",
-    "itemLabel": "Rain, Steam and Speed – The Great Western Railway",
-    "year": "1843",
-    "creatorLabel": "J. M. W. Turner",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1167932",
     "itemLabel": "Belshazzar's Feast",
     "year": "1636",
     "creatorLabel": "Rembrandt",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1368055",
-    "itemLabel": "The Gleaners",
-    "year": "1857",
-    "creatorLabel": "Jean-François Millet",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1217003",
-    "itemLabel": "Portrait of an Unknown Woman",
-    "year": "1883",
-    "creatorLabel": "Ivan Kramskoi",
     "sitelinks": "26"
   },
   {
@@ -1043,6 +1029,34 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2011510",
+    "itemLabel": "Bacchus",
+    "year": "1598",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1368055",
+    "itemLabel": "The Gleaners",
+    "year": "1857",
+    "creatorLabel": "Jean-François Millet",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2354251",
+    "itemLabel": "The Barque of Dante",
+    "year": "1822",
+    "creatorLabel": "Eugène Delacroix",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2697937",
+    "itemLabel": "Campbell's Soup Cans",
+    "year": "1962",
+    "creatorLabel": "Andy Warhol",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2610675",
     "itemLabel": "The Fortune Teller",
     "year": "1594",
@@ -1050,10 +1064,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2629423",
-    "itemLabel": "A Young Girl Reading",
-    "year": "1770",
-    "creatorLabel": "Jean-Honoré Fragonard",
+    "item": "http://www.wikidata.org/entity/Q2339059",
+    "itemLabel": "Rain, Steam and Speed – The Great Western Railway",
+    "year": "1843",
+    "creatorLabel": "J. M. W. Turner",
     "sitelinks": "26"
   },
   {
@@ -1071,9 +1085,72 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q969367",
-    "itemLabel": "Woman Holding a Balance",
-    "year": "1665",
+    "item": "http://www.wikidata.org/entity/Q210277",
+    "itemLabel": "Music in the Tuileries",
+    "year": "1862",
+    "creatorLabel": "Édouard Manet",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q166937",
+    "itemLabel": "Woman in Blue Reading a Letter",
+    "year": "1664",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q405814",
+    "itemLabel": "Ship of Fools",
+    "year": "1500",
+    "creatorLabel": "Hieronymus Bosch",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2983399",
+    "itemLabel": "The Second of May 1808",
+    "year": "1814",
+    "creatorLabel": "Francisco Goya",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1169395",
+    "itemLabel": "The Concert",
+    "year": "1663",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1516449",
+    "itemLabel": "Madonna of Chancellor Rolin",
+    "year": "1500",
+    "creatorLabel": "Jan van Eyck",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1652023",
+    "itemLabel": "The Alchemist Discovering Phosphorus",
+    "year": "1771",
+    "creatorLabel": "Joseph Wright of Derby",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2409245",
+    "itemLabel": "Portrait of a Young Girl",
+    "year": "1470",
+    "creatorLabel": "Petrus Christus",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5930190",
+    "itemLabel": "Road with Cypress and Star",
+    "year": "1890",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q45130",
+    "itemLabel": "The Geographer",
+    "year": "1668",
     "creatorLabel": "Johannes Vermeer",
     "sitelinks": "25"
   },
@@ -1085,52 +1162,10 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1169395",
-    "itemLabel": "The Concert",
-    "year": "1663",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q45130",
-    "itemLabel": "The Geographer",
-    "year": "1668",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2011510",
-    "itemLabel": "Bacchus",
-    "year": "1598",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2697937",
-    "itemLabel": "Campbell's Soup Cans",
-    "year": "1962",
-    "creatorLabel": "Andy Warhol",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2627056",
     "itemLabel": "David with the Head of Goliath",
     "year": "1605",
     "creatorLabel": "Caravaggio",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2983399",
-    "itemLabel": "The Second of May 1808",
-    "year": "1814",
-    "creatorLabel": "Francisco Goya",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1516449",
-    "itemLabel": "Madonna of Chancellor Rolin",
-    "year": "1500",
-    "creatorLabel": "Jan van Eyck",
     "sitelinks": "25"
   },
   {
@@ -1148,17 +1183,17 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q867403",
-    "itemLabel": "Madonna with the Long Neck",
-    "year": "1530",
-    "creatorLabel": "Parmigianino",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q254923",
     "itemLabel": "Alba Madonna",
     "year": "1511",
     "creatorLabel": "Raphael",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q867403",
+    "itemLabel": "Madonna with the Long Neck",
+    "year": "1600",
+    "creatorLabel": "Parmigianino",
     "sitelinks": "24"
   },
   {
@@ -1171,7 +1206,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q663133",
     "itemLabel": "The Cardsharps",
-    "year": "1594",
+    "year": "1590",
     "creatorLabel": "Caravaggio",
     "sitelinks": "24"
   },
@@ -1190,17 +1225,10 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q166937",
-    "itemLabel": "Woman in Blue Reading a Letter",
-    "year": "1664",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q405814",
-    "itemLabel": "Ship of Fools",
-    "year": "1500",
-    "creatorLabel": "Hieronymus Bosch",
+    "item": "http://www.wikidata.org/entity/Q846213",
+    "itemLabel": "Flaming June",
+    "year": "1895",
+    "creatorLabel": "Frederic Leighton",
     "sitelinks": "24"
   },
   {
@@ -1208,6 +1236,97 @@
     "itemLabel": "Washington Crossing the Delaware",
     "year": "1851",
     "creatorLabel": "Emanuel Leutze",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1171740",
+    "itemLabel": "White House at Night",
+    "year": "1890",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1151384",
+    "itemLabel": "The Son of Man",
+    "year": "1964",
+    "creatorLabel": "René Magritte",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1118456",
+    "itemLabel": "La Balançoire",
+    "year": "1876",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1167796",
+    "itemLabel": "An Experiment on a Bird in the Air Pump",
+    "year": "1768",
+    "creatorLabel": "Joseph Wright of Derby",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7536969",
+    "itemLabel": "Skull of a Skeleton with Burning Cigarette",
+    "year": "1884",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2035209",
+    "itemLabel": "Madonna del Granduca",
+    "year": "1506",
+    "creatorLabel": "Raphael",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2247406",
+    "itemLabel": "Judith Slaying Holofernes",
+    "year": "1613",
+    "creatorLabel": "Artemisia Gentileschi",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1445107",
+    "itemLabel": "Danaë",
+    "year": "1907",
+    "creatorLabel": "Gustav Klimt",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2439462",
+    "itemLabel": "Portrait of a Lady",
+    "year": "1460",
+    "creatorLabel": "Rogier van der Weyden",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26220165",
+    "itemLabel": "The Parsonage Garden at Nuenen",
+    "year": "1884",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1216387",
+    "itemLabel": "The Lacemaker",
+    "year": "1669",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63692",
+    "itemLabel": "The Procuress",
+    "year": "1656",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1217288",
+    "itemLabel": "Temptation of Saint Anthony",
+    "year": "1501",
+    "creatorLabel": "Hieronymus Bosch",
     "sitelinks": "24"
   },
   {
@@ -1225,59 +1344,17 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2304870",
-    "itemLabel": "The Seven Deadly Sins and the Four Last Things",
-    "year": "1500",
-    "creatorLabel": "Hieronymus Bosch",
+    "item": "http://www.wikidata.org/entity/Q2270938",
+    "itemLabel": "Les Grandes Baigneuses",
+    "year": "1906",
+    "creatorLabel": "Paul Cézanne",
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2439462",
-    "itemLabel": "Portrait of a Lady",
-    "year": "1460",
-    "creatorLabel": "Rogier van der Weyden",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2409245",
-    "itemLabel": "Portrait of a Young Girl",
-    "year": "1470",
-    "creatorLabel": "Petrus Christus",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5930190",
-    "itemLabel": "Road with Cypress and Star",
-    "year": "1890",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1151384",
-    "itemLabel": "The Son of Man",
-    "year": "1964",
-    "creatorLabel": "René Magritte",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1217288",
-    "itemLabel": "Temptation of Saint Anthony",
-    "year": "1501",
-    "creatorLabel": "Hieronymus Bosch",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q63692",
-    "itemLabel": "The Procuress",
-    "year": "1656",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2035209",
-    "itemLabel": "Madonna del Granduca",
-    "year": "1506",
-    "creatorLabel": "Raphael",
+    "item": "http://www.wikidata.org/entity/Q2338417",
+    "itemLabel": "The Martyrdom of Saint Matthew",
+    "year": "1600",
+    "creatorLabel": "Caravaggio",
     "sitelinks": "24"
   },
   {
@@ -1288,10 +1365,17 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2247406",
-    "itemLabel": "Judith Slaying Holofernes",
-    "year": "1613",
-    "creatorLabel": "Artemisia Gentileschi",
+    "item": "http://www.wikidata.org/entity/Q2304870",
+    "itemLabel": "The Seven Deadly Sins and the Four Last Things",
+    "year": "1500",
+    "creatorLabel": "Hieronymus Bosch",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2610936",
+    "itemLabel": "Boy with a Basket of Fruit",
+    "year": "1594",
+    "creatorLabel": "Caravaggio",
     "sitelinks": "24"
   },
   {
@@ -1306,27 +1390,6 @@
     "itemLabel": "Portrait of Père Tanguy",
     "year": "1887",
     "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1445107",
-    "itemLabel": "Danaë",
-    "year": "1907",
-    "creatorLabel": "Gustav Klimt",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1652023",
-    "itemLabel": "The Alchemist Discovering Phosphorus",
-    "year": "1771",
-    "creatorLabel": "Joseph Wright of Derby",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1247110",
-    "itemLabel": "Landscape with the Fall of Icarus",
-    "year": "2000",
-    "creatorLabel": "",
     "sitelinks": "24"
   },
   {
@@ -1358,10 +1421,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q421716",
-    "itemLabel": "Nude Descending a Staircase, No. 2",
-    "year": "1912",
-    "creatorLabel": "Marcel Duchamp",
+    "item": "http://www.wikidata.org/entity/Q951105",
+    "itemLabel": "The Feast in the House of Levi",
+    "year": "1573",
+    "creatorLabel": "Paolo Veronese",
     "sitelinks": "23"
   },
   {
@@ -1372,10 +1435,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q951105",
-    "itemLabel": "The Feast in the House of Levi",
-    "year": "1573",
-    "creatorLabel": "Paolo Veronese",
+    "item": "http://www.wikidata.org/entity/Q930535",
+    "itemLabel": "Tahitian Women on the Beach",
+    "year": "1890",
+    "creatorLabel": "Paul Gauguin",
     "sitelinks": "23"
   },
   {
@@ -1386,31 +1449,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q210277",
-    "itemLabel": "Music in the Tuileries",
-    "year": "1862",
-    "creatorLabel": "Édouard Manet",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q701035",
     "itemLabel": "The Last Judgment",
     "year": "1467",
     "creatorLabel": "Hans Memling",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q846213",
-    "itemLabel": "Flaming June",
-    "year": "1895",
-    "creatorLabel": "Frederic Leighton",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2395218",
-    "itemLabel": "Woman with a Parasol – Madame Monet and Her Son",
-    "year": "1875",
-    "creatorLabel": "Claude Monet",
     "sitelinks": "23"
   },
   {
@@ -1421,52 +1463,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2471800",
-    "itemLabel": "Old Woman Cooking Eggs",
-    "year": "1618",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2535473",
-    "itemLabel": "The Lunch",
-    "year": "1617",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2343778",
-    "itemLabel": "La Belle Jardinière",
-    "year": "1500",
-    "creatorLabel": "Raphael",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2404992",
-    "itemLabel": "Aristotle with a Bust of Homer",
-    "year": "1653",
-    "creatorLabel": "Rembrandt",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2324643",
-    "itemLabel": "Judith I",
-    "year": "1901",
-    "creatorLabel": "Gustav Klimt",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2338417",
-    "itemLabel": "The Martyrdom of Saint Matthew",
-    "year": "1600",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1171740",
-    "itemLabel": "White House at Night",
-    "year": "1890",
-    "creatorLabel": "Vincent van Gogh",
+    "item": "http://www.wikidata.org/entity/Q8030760",
+    "itemLabel": "Woman with a Parrot",
+    "year": "1866",
+    "creatorLabel": "Gustave Courbet",
     "sitelinks": "23"
   },
   {
@@ -1474,20 +1474,6 @@
     "itemLabel": "Equestrian Portrait of Charles V",
     "year": "1548",
     "creatorLabel": "Titian",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1216387",
-    "itemLabel": "The Lacemaker",
-    "year": "1669",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7536969",
-    "itemLabel": "Skull of a Skeleton with Burning Cigarette",
-    "year": "1884",
-    "creatorLabel": "Vincent van Gogh",
     "sitelinks": "23"
   },
   {
@@ -1505,6 +1491,83 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1430990",
+    "itemLabel": "Venus, Cupid, Folly and Time",
+    "year": "1545",
+    "creatorLabel": "Bronzino",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2471800",
+    "itemLabel": "Old Woman Cooking Eggs",
+    "year": "1618",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2535473",
+    "itemLabel": "The Lunch",
+    "year": "1617",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2404992",
+    "itemLabel": "Aristotle with a Bust of Homer",
+    "year": "1653",
+    "creatorLabel": "Rembrandt",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2501284",
+    "itemLabel": "The Great Bathers",
+    "year": "1884",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2395218",
+    "itemLabel": "Woman with a Parasol – Madame Monet and Her Son",
+    "year": "1886",
+    "creatorLabel": "Claude Monet",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2327759",
+    "itemLabel": "The Torment of Saint Anthony",
+    "year": "1487",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2734892",
+    "itemLabel": "Women in the Garden",
+    "year": "1866",
+    "creatorLabel": "Claude Monet",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2343778",
+    "itemLabel": "La Belle Jardinière",
+    "year": "1500",
+    "creatorLabel": "Raphael",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2324643",
+    "itemLabel": "Judith I",
+    "year": "1901",
+    "creatorLabel": "Gustav Klimt",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2337873",
+    "itemLabel": "The Inspiration of Saint Matthew",
+    "year": "1602",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3555076",
     "itemLabel": "Nymphs and Satyr",
     "year": "1873",
@@ -1512,10 +1575,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2610936",
-    "itemLabel": "Boy with a Basket of Fruit",
-    "year": "1594",
-    "creatorLabel": "Caravaggio",
+    "item": "http://www.wikidata.org/entity/Q2317837",
+    "itemLabel": "The Nightmare",
+    "year": "1781",
+    "creatorLabel": "Henry Fuseli",
     "sitelinks": "23"
   },
   {
@@ -1526,25 +1589,25 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1430990",
-    "itemLabel": "Venus, Cupid, Folly and Time",
-    "year": "1545",
-    "creatorLabel": "Bronzino",
-    "sitelinks": "23"
+    "item": "http://www.wikidata.org/entity/Q80317",
+    "itemLabel": "Garçon à la pipe",
+    "year": "1905",
+    "creatorLabel": "Pablo Picasso",
+    "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8030760",
-    "itemLabel": "Woman with a Parrot",
-    "year": "1866",
-    "creatorLabel": "Gustave Courbet",
-    "sitelinks": "23"
+    "item": "http://www.wikidata.org/entity/Q421716",
+    "itemLabel": "Nude Descending a Staircase, No. 2",
+    "year": "1912",
+    "creatorLabel": "Marcel Duchamp",
+    "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26220165",
-    "itemLabel": "The Parsonage Garden at Nuenen",
-    "year": "1884",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "23"
+    "item": "http://www.wikidata.org/entity/Q745098",
+    "itemLabel": "Rest on the Flight into Egypt",
+    "year": "1597",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q585437",
@@ -1561,23 +1624,9 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q745098",
-    "itemLabel": "Rest on the Flight into Egypt",
-    "year": "1597",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q930535",
-    "itemLabel": "Tahitian Women on the Beach",
-    "year": "1890",
-    "creatorLabel": "Paul Gauguin",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q680128",
     "itemLabel": "Christ Carrying the Cross",
-    "year": "1510",
+    "year": "1500",
     "creatorLabel": "Hieronymus Bosch",
     "sitelinks": "22"
   },
@@ -1589,76 +1638,6 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2327759",
-    "itemLabel": "The Torment of Saint Anthony",
-    "year": "1487",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2344357",
-    "itemLabel": "Oddi Altarpiece",
-    "year": "1502",
-    "creatorLabel": "Raphael",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2270938",
-    "itemLabel": "Les Grandes Baigneuses (The Large Bathers)",
-    "year": "1906",
-    "creatorLabel": "Paul Cézanne",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3808227",
-    "itemLabel": "Girls at the Piano",
-    "year": "1892",
-    "creatorLabel": "Pierre-Auguste Renoir",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2337873",
-    "itemLabel": "The Inspiration of Saint Matthew",
-    "year": "1602",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2472983",
-    "itemLabel": "Last Supper",
-    "year": "1563",
-    "creatorLabel": "Jacopo Tintoretto",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2501284",
-    "itemLabel": "The Great Bathers",
-    "year": "1884",
-    "creatorLabel": "Pierre-Auguste Renoir",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2317837",
-    "itemLabel": "The Nightmare",
-    "year": "1781",
-    "creatorLabel": "Henry Fuseli",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2480921",
-    "itemLabel": "Madonna with Canon Joris van der Paele",
-    "year": "1436",
-    "creatorLabel": "Jan van Eyck",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2465911",
-    "itemLabel": "Christina's World",
-    "year": "1948",
-    "creatorLabel": "Andrew Wyeth",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1170480",
     "itemLabel": "Syndics of the Drapers' Guild",
     "year": "1662",
@@ -1666,52 +1645,10 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1118456",
-    "itemLabel": "La Balançoire",
-    "year": "1876",
-    "creatorLabel": "Pierre-Auguste Renoir",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1240092",
-    "itemLabel": "Portrait of Innocent X",
-    "year": "1700",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1212920",
-    "itemLabel": "Flagellation of Christ",
-    "year": "1459",
-    "creatorLabel": "Piero della Francesca",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1212861",
-    "itemLabel": "The Birth of Venus",
-    "year": "1863",
-    "creatorLabel": "Alexandre Cabanel",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39013",
-    "itemLabel": "The Woman in the Waves",
-    "year": "1868",
-    "creatorLabel": "Gustave Courbet",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2734892",
-    "itemLabel": "Women in the Garden",
-    "year": "1866",
-    "creatorLabel": "Claude Monet",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3080509",
-    "itemLabel": "The Valpinçon Bather",
-    "year": "1808",
-    "creatorLabel": "Jean-Auguste-Dominique Ingres",
+    "item": "http://www.wikidata.org/entity/Q1169874",
+    "itemLabel": "The Girl with the Wine Glass",
+    "year": "1650",
+    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "22"
   },
   {
@@ -1743,10 +1680,108 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2472983",
+    "itemLabel": "Last Supper",
+    "year": "1563",
+    "creatorLabel": "Jacopo Tintoretto",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2480921",
+    "itemLabel": "Madonna with Canon Joris van der Paele",
+    "year": "1436",
+    "creatorLabel": "Jan van Eyck",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3808227",
+    "itemLabel": "Girls at the Piano",
+    "year": "1892",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2465911",
+    "itemLabel": "Christina's World",
+    "year": "1948",
+    "creatorLabel": "Andrew Wyeth",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3080509",
+    "itemLabel": "The Valpinçon Bather",
+    "year": "1808",
+    "creatorLabel": "Jean-Auguste-Dominique Ingres",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q9295442",
     "itemLabel": "Hylas and the Nymphs",
     "year": "1896",
     "creatorLabel": "John William Waterhouse",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1240092",
+    "itemLabel": "Portrait of Innocent X",
+    "year": "1700",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1212920",
+    "itemLabel": "Flagellation of Christ",
+    "year": "1459",
+    "creatorLabel": "Piero della Francesca",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39013",
+    "itemLabel": "The Woman in the Waves",
+    "year": "1868",
+    "creatorLabel": "Gustave Courbet",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1314013",
+    "itemLabel": "The Intervention of the Sabine Women",
+    "year": "1799",
+    "creatorLabel": "Jacques-Louis David",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1212861",
+    "itemLabel": "The Birth of Venus",
+    "year": "1863",
+    "creatorLabel": "Alexandre Cabanel",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2278818",
+    "itemLabel": "Agostina Segatori Sitting in the Café du Tambourin",
+    "year": "1887",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2344357",
+    "itemLabel": "Oddi Altarpiece",
+    "year": "1502",
+    "creatorLabel": "Raphael",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2610729",
+    "itemLabel": "Portrait of Leo X",
+    "year": "1518",
+    "creatorLabel": "Raphael",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15008032",
+    "itemLabel": "The Feast of the Gods",
+    "year": "1514",
+    "creatorLabel": "Giovanni Bellini",
     "sitelinks": "22"
   },
   {
@@ -1778,13 +1813,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80317",
-    "itemLabel": "Garçon à la pipe",
-    "year": "1905",
-    "creatorLabel": "Pablo Picasso",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q700834",
     "itemLabel": "Jupiter and Io",
     "year": "1530",
@@ -1799,17 +1827,24 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q74339",
+    "itemLabel": "La loge",
+    "year": "1874",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q684935",
+    "itemLabel": "A Girl Asleep",
+    "year": "1657",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q697332",
     "itemLabel": "Children's Games",
     "year": "1560",
     "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q693746",
-    "itemLabel": "The Monk by the Sea",
-    "year": "1800",
-    "creatorLabel": "Caspar David Friedrich",
     "sitelinks": "21"
   },
   {
@@ -1820,10 +1855,10 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q472799",
-    "itemLabel": "Mary Untier of Knots",
-    "year": "1700",
-    "creatorLabel": "Johann Georg Melchior Schmittner",
+    "item": "http://www.wikidata.org/entity/Q693746",
+    "itemLabel": "The Monk by the Sea",
+    "year": "1800",
+    "creatorLabel": "Caspar David Friedrich",
     "sitelinks": "21"
   },
   {
@@ -1834,10 +1869,80 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2278818",
-    "itemLabel": "Agostina Segatori Sitting in the Café du Tambourin",
-    "year": "1887",
+    "item": "http://www.wikidata.org/entity/Q472799",
+    "itemLabel": "Mary Untier of Knots",
+    "year": "1700",
+    "creatorLabel": "Johann Georg Melchior Schmittner",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1090837",
+    "itemLabel": "Bathers at Asnières",
+    "year": "1884",
+    "creatorLabel": "Georges Seurat",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1114571",
+    "itemLabel": "The Umbrellas",
+    "year": "1881",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1134250",
+    "itemLabel": "The Massacre of the Innocents",
+    "year": "1566",
+    "creatorLabel": "Pieter Brueghel the Elder",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7769644",
+    "itemLabel": "The Tortoise Trainer",
+    "year": "1906",
+    "creatorLabel": "Osman Hamdi Bey",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3630735",
+    "itemLabel": "Self-portrait",
+    "year": "1889",
     "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3642171",
+    "itemLabel": "The Meeting, or Bonjour, Monsieur Courbet!",
+    "year": "1854",
+    "creatorLabel": "Gustave Courbet",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1432536",
+    "itemLabel": "Almond Blossom",
+    "year": "1890",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1560719",
+    "itemLabel": "Carnation, Lily, Lily and Rose",
+    "year": "1880",
+    "creatorLabel": "John Singer Sargent",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1619527",
+    "itemLabel": "Mr and Mrs Andrews",
+    "year": "1748",
+    "creatorLabel": "Thomas Gainsborough",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1782583",
+    "itemLabel": "Indian Widow",
+    "year": "1783",
+    "creatorLabel": "Joseph Wright of Derby",
     "sitelinks": "21"
   },
   {
@@ -1855,10 +1960,66 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3642171",
-    "itemLabel": "The Meeting, or Bonjour, Monsieur Courbet!",
-    "year": "1854",
-    "creatorLabel": "Gustave Courbet",
+    "item": "http://www.wikidata.org/entity/Q2528145",
+    "itemLabel": "Allegory of Prudence",
+    "year": "1550",
+    "creatorLabel": "Titian",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1213160",
+    "itemLabel": "The Entombment",
+    "year": "1500",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3205872",
+    "itemLabel": "Moonlit Night on the Dnieper",
+    "year": "1880",
+    "creatorLabel": "Arkhip Kuindzhi",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1212098",
+    "itemLabel": "The Railway",
+    "year": "1873",
+    "creatorLabel": "Édouard Manet",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26250",
+    "itemLabel": "The Fif",
+    "year": "1866",
+    "creatorLabel": "Édouard Manet",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1213151",
+    "itemLabel": "The Entombment of Christ",
+    "year": "1600",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2714617",
+    "itemLabel": "The Disrobing of Christ",
+    "year": "1578",
+    "creatorLabel": "El Greco",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16950902",
+    "itemLabel": "Beauty Revealed",
+    "year": "1828",
+    "creatorLabel": "Sarah Goodridge",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2628761",
+    "itemLabel": "Adoration of the Magi",
+    "year": "1504",
+    "creatorLabel": "Albrecht Dürer",
     "sitelinks": "21"
   },
   {
@@ -1876,94 +2037,10 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1090837",
-    "itemLabel": "Bathers at Asnières",
-    "year": "1884",
-    "creatorLabel": "Georges Seurat",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1169874",
-    "itemLabel": "The Girl with the Wine Glass",
-    "year": "1650",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16950902",
-    "itemLabel": "Beauty Revealed",
-    "year": "1828",
-    "creatorLabel": "Sarah Goodridge",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1134250",
-    "itemLabel": "The Massacre of the Innocents",
-    "year": "1566",
-    "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1167796",
-    "itemLabel": "An Experiment on a Bird in the Air Pump",
-    "year": "1768",
-    "creatorLabel": "Joseph Wright of Derby",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1213160",
-    "itemLabel": "The Entombment",
-    "year": "1500",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1212098",
-    "itemLabel": "The Railway",
-    "year": "1873",
-    "creatorLabel": "Édouard Manet",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1213151",
-    "itemLabel": "The Entombment of Christ",
-    "year": "1600",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26250",
-    "itemLabel": "The Fif",
-    "year": "1866",
-    "creatorLabel": "Édouard Manet",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2714617",
-    "itemLabel": "The Disrobing of Christ",
-    "year": "1578",
-    "creatorLabel": "El Greco",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2610729",
-    "itemLabel": "Portrait of Leo X",
-    "year": "1518",
-    "creatorLabel": "Raphael",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3205872",
-    "itemLabel": "Moonlit Night on the Dnieper",
-    "year": "1880",
-    "creatorLabel": "Arkhip Kuindzhi",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15008032",
-    "itemLabel": "The Feast of the Gods",
-    "year": "1514",
-    "creatorLabel": "Giovanni Bellini",
+    "item": "http://www.wikidata.org/entity/Q2622172",
+    "itemLabel": "The Bellelli Family",
+    "year": "1858",
+    "creatorLabel": "Edgar Degas",
     "sitelinks": "21"
   },
   {
@@ -1974,10 +2051,10 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7769644",
-    "itemLabel": "The Tortoise Trainer",
-    "year": "1906",
-    "creatorLabel": "Osman Hamdi Bey",
+    "item": "http://www.wikidata.org/entity/Q18686031",
+    "itemLabel": "Portinari Triptych",
+    "year": "1475",
+    "creatorLabel": "Hugo van der Goes",
     "sitelinks": "21"
   },
   {
@@ -1995,9 +2072,9 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q684935",
-    "itemLabel": "A Girl Asleep",
-    "year": "1657",
+    "item": "http://www.wikidata.org/entity/Q782639",
+    "itemLabel": "The Wine Glass",
+    "year": "1659",
     "creatorLabel": "Johannes Vermeer",
     "sitelinks": "20"
   },
@@ -2030,17 +2107,59 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3630735",
-    "itemLabel": "Self-portrait",
-    "year": "1889",
-    "creatorLabel": "Vincent van Gogh",
+    "item": "http://www.wikidata.org/entity/Q80869",
+    "itemLabel": "Dull Gret",
+    "year": "1561",
+    "creatorLabel": "Pieter Brueghel the Elder",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2344396",
-    "itemLabel": "Young Woman with Unicorn",
-    "year": "1505",
-    "creatorLabel": "Raphael",
+    "item": "http://www.wikidata.org/entity/Q3877556",
+    "itemLabel": "Nu couché",
+    "year": "1917",
+    "creatorLabel": "Amedeo Modigliani",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1169199",
+    "itemLabel": "The Last Judgment (Beaune Altarpiece)",
+    "year": "1443",
+    "creatorLabel": "Rogier van der Weyden",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2914912",
+    "itemLabel": "The Stone Breakers",
+    "year": "1849",
+    "creatorLabel": "Gustave Courbet",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6609268",
+    "itemLabel": "Stańczyk",
+    "year": "1862",
+    "creatorLabel": "Jan Matejko",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2052008",
+    "itemLabel": "Jacob’s Dream",
+    "year": "1639",
+    "creatorLabel": "Jusepe de Ribera",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11791202",
+    "itemLabel": "They Did Not Expect Him",
+    "year": "1888",
+    "creatorLabel": "Ilya Repin",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2551625",
+    "itemLabel": "Madonna of the Magnificat",
+    "year": "1483",
+    "creatorLabel": "Sandro Botticelli",
     "sitelinks": "20"
   },
   {
@@ -2051,24 +2170,17 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2400652",
-    "itemLabel": "The Wayfarer",
-    "year": "1500",
-    "creatorLabel": "Hieronymus Bosch",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2528145",
-    "itemLabel": "Allegory of Prudence",
-    "year": "1550",
-    "creatorLabel": "Titian",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2528177",
     "itemLabel": "Diana and Actaeon",
     "year": "1557",
     "creatorLabel": "Titian",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2400652",
+    "itemLabel": "The Wayfarer",
+    "year": "1500",
+    "creatorLabel": "Hieronymus Bosch",
     "sitelinks": "20"
   },
   {
@@ -2079,10 +2191,10 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1114571",
-    "itemLabel": "The Umbrellas",
+    "item": "http://www.wikidata.org/entity/Q5962062",
+    "itemLabel": "Dawn",
     "year": "1881",
-    "creatorLabel": "Pierre-Auguste Renoir",
+    "creatorLabel": "William-Adolphe Bouguereau",
     "sitelinks": "20"
   },
   {
@@ -2100,6 +2212,13 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1282840",
+    "itemLabel": "Napoleon I on his Imperial Throne",
+    "year": "1806",
+    "creatorLabel": "Jean-Auguste-Dominique Ingres",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1213437",
     "itemLabel": "The Hay Harvest (early summer June/July)",
     "year": "1565",
@@ -2114,45 +2233,31 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1314013",
-    "itemLabel": "The Intervention of the Sabine Women",
-    "year": "1799",
-    "creatorLabel": "Jacques-Louis David",
+    "item": "http://www.wikidata.org/entity/Q1237863",
+    "itemLabel": "Pollice Verso",
+    "year": "1872",
+    "creatorLabel": "Jean-Léon Gérôme",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3877556",
-    "itemLabel": "Nu couché",
-    "year": "1917",
-    "creatorLabel": "Amedeo Modigliani",
+    "item": "http://www.wikidata.org/entity/Q2344396",
+    "itemLabel": "Young Woman with Unicorn",
+    "year": "1505",
+    "creatorLabel": "Raphael",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q107486133",
-    "itemLabel": "Fallen angel",
-    "year": "1847",
-    "creatorLabel": "Alexandre Cabanel",
+    "item": "http://www.wikidata.org/entity/Q2627034",
+    "itemLabel": "Saint Catherine of Alexandria",
+    "year": "1598",
+    "creatorLabel": "Caravaggio",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6609268",
-    "itemLabel": "Stańczyk",
-    "year": "1862",
-    "creatorLabel": "Jan Matejko",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2628761",
-    "itemLabel": "Adoration of the Magi",
-    "year": "1504",
-    "creatorLabel": "Albrecht Dürer",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2052008",
-    "itemLabel": "Jacob’s Dream",
-    "year": "1639",
-    "creatorLabel": "Jusepe de Ribera",
+    "item": "http://www.wikidata.org/entity/Q2713203",
+    "itemLabel": "Madonna di Loreto",
+    "year": "1605",
+    "creatorLabel": "Caravaggio",
     "sitelinks": "20"
   },
   {
@@ -2160,6 +2265,13 @@
     "itemLabel": "Penitent Magdalene",
     "year": "1593",
     "creatorLabel": "Caravaggio",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5332757",
+    "itemLabel": "Echo and Narcissus",
+    "year": "1903",
+    "creatorLabel": "John William Waterhouse",
     "sitelinks": "20"
   },
   {
@@ -2184,53 +2296,18 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18686031",
-    "itemLabel": "Portinari Triptych",
-    "year": "1475",
-    "creatorLabel": "Hugo van der Goes",
+    "item": "http://www.wikidata.org/entity/Q107486133",
+    "itemLabel": "Fallen angel",
+    "year": "1847",
+    "creatorLabel": "Alexandre Cabanel",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11791202",
-    "itemLabel": "They Did Not Expect Him",
-    "year": "1888",
-    "creatorLabel": "Ilya Repin",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1432536",
-    "itemLabel": "Almond Blossom",
-    "year": "1890",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2914912",
-    "itemLabel": "The Stone Breakers",
-    "year": "1849",
-    "creatorLabel": "Gustave Courbet",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1619527",
-    "itemLabel": "Mr and Mrs Andrews",
-    "year": "1748",
-    "creatorLabel": "Thomas Gainsborough",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1560719",
-    "itemLabel": "Carnation, Lily, Lily and Rose",
-    "year": "1885",
-    "creatorLabel": "John Singer Sargent",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1782583",
-    "itemLabel": "Indian Widow",
-    "year": "1783",
-    "creatorLabel": "Joseph Wright of Derby",
-    "sitelinks": "20"
+    "item": "http://www.wikidata.org/entity/Q500936",
+    "itemLabel": "The Dog",
+    "year": "1819",
+    "creatorLabel": "Francisco Goya",
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q546977",
@@ -2247,10 +2324,10 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q614047",
-    "itemLabel": "Girl with a Red Hat",
-    "year": "1669",
-    "creatorLabel": "Johannes Vermeer",
+    "item": "http://www.wikidata.org/entity/Q536024",
+    "itemLabel": "Nana",
+    "year": "1877",
+    "creatorLabel": "Édouard Manet",
     "sitelinks": "19"
   },
   {
@@ -2261,17 +2338,45 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q698219",
-    "itemLabel": "The Gloomy Day",
-    "year": "1565",
+    "item": "http://www.wikidata.org/entity/Q735061",
+    "itemLabel": "The Love Letter",
+    "year": "1668",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q614047",
+    "itemLabel": "Girl with a Red Hat",
+    "year": "1669",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q641666",
+    "itemLabel": "Lady Writing a Letter with her Maid",
+    "year": "1670",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q556553",
+    "itemLabel": "The Land of Cockaigne",
+    "year": "1550",
     "creatorLabel": "Pieter Brueghel the Elder",
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q782639",
-    "itemLabel": "The Wine Glass",
-    "year": "1659",
+    "item": "http://www.wikidata.org/entity/Q151143",
+    "itemLabel": "Woman with a Pearl Necklace",
+    "year": "1660",
     "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q698219",
+    "itemLabel": "The Gloomy Day",
+    "year": "1565",
+    "creatorLabel": "Pieter Brueghel the Elder",
     "sitelinks": "19"
   },
   {
@@ -2289,20 +2394,6 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q74339",
-    "itemLabel": "La loge",
-    "year": "1874",
-    "creatorLabel": "Pierre-Auguste Renoir",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151143",
-    "itemLabel": "Woman with a Pearl Necklace",
-    "year": "1660",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q572697",
     "itemLabel": "Pesaro Madonna",
     "year": "1522",
@@ -2317,24 +2408,10 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80869",
-    "itemLabel": "Dull Gret",
-    "year": "1563",
-    "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q650635",
     "itemLabel": "A Militiaman Holding a Berkemeyer, Known as the ‘Merry Drinker’",
     "year": "1629",
     "creatorLabel": "Frans Hals",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q798034",
-    "itemLabel": "Bacchus",
-    "year": "1510",
-    "creatorLabel": "Francesco Melzi",
     "sitelinks": "19"
   },
   {
@@ -2345,31 +2422,52 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2275610",
-    "itemLabel": "The Circus",
-    "year": "1891",
-    "creatorLabel": "Georges Seurat",
+    "item": "http://www.wikidata.org/entity/Q798034",
+    "itemLabel": "Bacchus",
+    "year": "1510",
+    "creatorLabel": "Francesco Melzi",
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2426058",
-    "itemLabel": "Pallas and the Centaur",
-    "year": "1482",
-    "creatorLabel": "Sandro Botticelli",
+    "item": "http://www.wikidata.org/entity/Q1170194",
+    "itemLabel": "Feast of the Rosary",
+    "year": "1506",
+    "creatorLabel": "Albrecht Dürer",
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2551625",
-    "itemLabel": "Madonna of the Magnificat",
-    "year": "1483",
-    "creatorLabel": "Sandro Botticelli",
+    "item": "http://www.wikidata.org/entity/Q1118295",
+    "itemLabel": "Van Gogh's Chair",
+    "year": "1889",
+    "creatorLabel": "Vincent van Gogh",
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4429116",
-    "itemLabel": "The Magpie",
-    "year": "1868",
-    "creatorLabel": "Claude Monet",
+    "item": "http://www.wikidata.org/entity/Q6402081",
+    "itemLabel": "The Nobleman with his Hand on his Chest",
+    "year": "1580",
+    "creatorLabel": "El Greco",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6543739",
+    "itemLabel": "Phryne before the Areopagus",
+    "year": "1861",
+    "creatorLabel": "Jean-Léon Gérôme",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2072801",
+    "itemLabel": "Portrait of a Young Fiancée",
+    "year": "1495",
+    "creatorLabel": "Leonardo da Vinci",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1766454",
+    "itemLabel": "Les raboteurs de parquet",
+    "year": "1875",
+    "creatorLabel": "Gustave Caillebotte",
     "sitelinks": "19"
   },
   {
@@ -2380,10 +2478,10 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5962062",
-    "itemLabel": "Dawn",
-    "year": "1881",
-    "creatorLabel": "William-Adolphe Bouguereau",
+    "item": "http://www.wikidata.org/entity/Q2426058",
+    "itemLabel": "Pallas and the Centaur",
+    "year": "1482",
+    "creatorLabel": "Sandro Botticelli",
     "sitelinks": "19"
   },
   {
@@ -2401,10 +2499,10 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1282840",
-    "itemLabel": "Napoleon I on his Imperial Throne",
-    "year": "1806",
-    "creatorLabel": "Jean-Auguste-Dominique Ingres",
+    "item": "http://www.wikidata.org/entity/Q1212737",
+    "itemLabel": "The Women of Algiers",
+    "year": "1834",
+    "creatorLabel": "Eugène Delacroix",
     "sitelinks": "19"
   },
   {
@@ -2422,38 +2520,38 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1237863",
-    "itemLabel": "Pollice Verso",
-    "year": "1872",
-    "creatorLabel": "Jean-Léon Gérôme",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2072801",
-    "itemLabel": "Portrait of a Young Fiancée",
-    "year": "1495",
-    "creatorLabel": "Leonardo da Vinci",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6543739",
-    "itemLabel": "Phryne before the Areopagus",
-    "year": "1861",
-    "creatorLabel": "Jean-Léon Gérôme",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5332757",
-    "itemLabel": "Echo and Narcissus",
-    "year": "1903",
-    "creatorLabel": "John William Waterhouse",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q39537",
     "itemLabel": "Circe Offering the Cup to Ulysses",
     "year": "1891",
     "creatorLabel": "John William Waterhouse",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1251572",
+    "itemLabel": "Romeo and Juliet: the Tomb Scene",
+    "year": "1790",
+    "creatorLabel": "Joseph Wright of Derby",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2308934",
+    "itemLabel": "Leda and the Swan",
+    "year": "1510",
+    "creatorLabel": "Leonardo da Vinci",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2388965",
+    "itemLabel": "Self-Portrait",
+    "year": "1498",
+    "creatorLabel": "Albrecht Dürer",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4156438",
+    "itemLabel": "Girl with peaches",
+    "year": "1887",
+    "creatorLabel": "Valentin Serov",
     "sitelinks": "19"
   },
   {
@@ -2471,45 +2569,24 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2627034",
-    "itemLabel": "Saint Catherine of Alexandria",
-    "year": "1598",
-    "creatorLabel": "Caravaggio",
+    "item": "http://www.wikidata.org/entity/Q2275610",
+    "itemLabel": "The Circus",
+    "year": "1891",
+    "creatorLabel": "Georges Seurat",
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2713203",
-    "itemLabel": "Madonna di Loreto",
-    "year": "1605",
-    "creatorLabel": "Caravaggio",
+    "item": "http://www.wikidata.org/entity/Q2324840",
+    "itemLabel": "The Ancient of Days",
+    "year": "1794",
+    "creatorLabel": "William Blake",
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2622172",
-    "itemLabel": "The Bellelli Family",
-    "year": "1858",
-    "creatorLabel": "Edgar Degas",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6402081",
-    "itemLabel": "The Nobleman with his Hand on his Chest",
-    "year": "1580",
-    "creatorLabel": "El Greco",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4156438",
-    "itemLabel": "Girl with peaches",
-    "year": "1887",
-    "creatorLabel": "Valentin Serov",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1766454",
-    "itemLabel": "Les raboteurs de parquet",
-    "year": "1875",
-    "creatorLabel": "Gustave Caillebotte",
+    "item": "http://www.wikidata.org/entity/Q4429116",
+    "itemLabel": "The Magpie",
+    "year": "1868",
+    "creatorLabel": "Pablo Picasso",
     "sitelinks": "19"
   },
   {
@@ -2520,10 +2597,10 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q500936",
-    "itemLabel": "The Dog",
-    "year": "1819",
-    "creatorLabel": "Francisco Goya",
+    "item": "http://www.wikidata.org/entity/Q681876",
+    "itemLabel": "Woman in the Garden",
+    "year": "1867",
+    "creatorLabel": "Claude Monet",
     "sitelinks": "18"
   },
   {
@@ -2531,6 +2608,20 @@
     "itemLabel": "The Great Masturbator",
     "year": "1929",
     "creatorLabel": "Salvador Dalí",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q598913",
+    "itemLabel": "Mond Crucifixion",
+    "year": "1502",
+    "creatorLabel": "Raphael",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q571416",
+    "itemLabel": "Rubens and Isabella Brant in the honeysuckle bower",
+    "year": "1609",
+    "creatorLabel": "Peter Paul Rubens",
     "sitelinks": "18"
   },
   {
@@ -2548,38 +2639,17 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q536024",
-    "itemLabel": "Nana",
-    "year": "1877",
-    "creatorLabel": "Édouard Manet",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q641666",
-    "itemLabel": "Lady Writing a Letter with her Maid",
-    "year": "1670",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q735061",
-    "itemLabel": "The Love Letter",
-    "year": "1668",
-    "creatorLabel": "Johannes Vermeer",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q556553",
-    "itemLabel": "The Land of Cockaigne",
-    "year": "1550",
-    "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "18"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q474409",
     "itemLabel": "Lucca Madonna",
     "year": "1437",
     "creatorLabel": "Jan van Eyck",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q970968",
+    "itemLabel": "Symphony in White, No. 1: The White Girl",
+    "year": "1860",
+    "creatorLabel": "James McNeill Whistler",
     "sitelinks": "18"
   },
   {
@@ -2597,76 +2667,6 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q970968",
-    "itemLabel": "Symphony in White, No. 1: The White Girl",
-    "year": "1860",
-    "creatorLabel": "James McNeill Whistler",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2388965",
-    "itemLabel": "Self-Portrait",
-    "year": "1498",
-    "creatorLabel": "Albrecht Dürer",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2308934",
-    "itemLabel": "Leda and the Swan",
-    "year": "1510",
-    "creatorLabel": "Leonardo da Vinci",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2528477",
-    "itemLabel": "Witches' Sabbath",
-    "year": "1820",
-    "creatorLabel": "Francisco Goya",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2528106",
-    "itemLabel": "Portrait of Bindo Altoviti",
-    "year": "1515",
-    "creatorLabel": "Raphael",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2268524",
-    "itemLabel": "The Three Graces",
-    "year": "1630",
-    "creatorLabel": "Peter Paul Rubens",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2324840",
-    "itemLabel": "The Ancient of Days",
-    "year": "1794",
-    "creatorLabel": "William Blake",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2561558",
-    "itemLabel": "The Wheat Sifters",
-    "year": "1854",
-    "creatorLabel": "Gustave Courbet",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1170194",
-    "itemLabel": "Feast of the Rosary",
-    "year": "1506",
-    "creatorLabel": "Albrecht Dürer",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1118295",
-    "itemLabel": "Van Gogh's Chair",
-    "year": "1889",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "18"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1132723",
     "itemLabel": "Prisoners Exercising",
     "year": "1890",
@@ -2674,66 +2674,31 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16333797",
-    "itemLabel": "Rudolf II of Habsurg as Vertumnus",
-    "year": "1590",
-    "creatorLabel": "Giuseppe Arcimboldo",
+    "item": "http://www.wikidata.org/entity/Q1114718",
+    "itemLabel": "Dance in the Country",
+    "year": "1883",
+    "creatorLabel": "Pierre-Auguste Renoir",
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1251572",
-    "itemLabel": "Romeo and Juliet: the Tomb Scene",
-    "year": "1790",
-    "creatorLabel": "Joseph Wright of Derby",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q23922",
-    "itemLabel": "Woman with a Mirror",
-    "year": "1515",
-    "creatorLabel": "Titian",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3500414",
-    "itemLabel": "The Farmers' Lunch",
-    "year": "1618",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q32496",
-    "itemLabel": "Bathsheba at Her Bath",
-    "year": "1654",
-    "creatorLabel": "Rembrandt",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q59815",
-    "itemLabel": "The Old Musician",
-    "year": "1862",
+    "item": "http://www.wikidata.org/entity/Q2899286",
+    "itemLabel": "Berthe Morisot with a Bouquet of Violets",
+    "year": "1872",
     "creatorLabel": "Édouard Manet",
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3137278",
-    "itemLabel": "Madame Moitessier",
-    "year": "1856",
-    "creatorLabel": "Jean-Auguste-Dominique Ingres",
+    "item": "http://www.wikidata.org/entity/Q2915406",
+    "itemLabel": "Broadway Boogie Woogie",
+    "year": "1942",
+    "creatorLabel": "Piet Mondrian",
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3556817",
-    "itemLabel": "Diana leaving her Bath",
-    "year": "1742",
-    "creatorLabel": "François Boucher",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2627028",
-    "itemLabel": "Portrait of Elisabetta Gonzaga",
-    "year": "1504",
-    "creatorLabel": "Raphael",
+    "item": "http://www.wikidata.org/entity/Q2059447",
+    "itemLabel": "The Misanthrope",
+    "year": "1568",
+    "creatorLabel": "Pieter Brueghel the Elder",
     "sitelinks": "18"
   },
   {
@@ -2744,73 +2709,10 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2594673",
-    "itemLabel": "Samson and Delilah",
-    "year": "1609",
-    "creatorLabel": "Peter Paul Rubens",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2667782",
-    "itemLabel": "The Descent from the Cross",
-    "year": "1611",
-    "creatorLabel": "Peter Paul Rubens",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3172226",
-    "itemLabel": "The Child's Bath",
-    "year": "1893",
-    "creatorLabel": "Mary Cassatt",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2632688",
-    "itemLabel": "The Baptism of Christ",
-    "year": "1448",
-    "creatorLabel": "Piero della Francesca",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2783729",
-    "itemLabel": "Lise with a Parasol",
-    "year": "1867",
+    "item": "http://www.wikidata.org/entity/Q3633456",
+    "itemLabel": "Dance in the City",
+    "year": "1883",
     "creatorLabel": "Pierre-Auguste Renoir",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2626595",
-    "itemLabel": "The Seven Works of Mercy",
-    "year": "1600",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2715177",
-    "itemLabel": "Saint Jerome",
-    "year": "1606",
-    "creatorLabel": "Caravaggio",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2665840",
-    "itemLabel": "Pietà",
-    "year": "1575",
-    "creatorLabel": "Titian",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4188993",
-    "itemLabel": "The Beguiling of Merlin",
-    "year": "1872",
-    "creatorLabel": "Edward Burne-Jones",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3267954",
-    "itemLabel": "Weeping Woman",
-    "year": "1937",
-    "creatorLabel": "Pablo Picasso",
     "sitelinks": "18"
   },
   {
@@ -2835,10 +2737,17 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2899286",
-    "itemLabel": "Berthe Morisot with a Bouquet of Violets",
-    "year": "1872",
-    "creatorLabel": "Édouard Manet",
+    "item": "http://www.wikidata.org/entity/Q1659469",
+    "itemLabel": "In the Summer",
+    "year": "1868",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1683743",
+    "itemLabel": "Vampire",
+    "year": "1893",
+    "creatorLabel": "Edvard Munch",
     "sitelinks": "18"
   },
   {
@@ -2849,31 +2758,241 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2915406",
-    "itemLabel": "Broadway Boogie Woogie",
-    "year": "1942",
-    "creatorLabel": "Piet Mondrian",
+    "item": "http://www.wikidata.org/entity/Q2528741",
+    "itemLabel": "Christ Crucified",
+    "year": "1632",
+    "creatorLabel": "Diego Velázquez",
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q681876",
-    "itemLabel": "Woman in the Garden",
-    "year": "1867",
-    "creatorLabel": "Claude Monet",
-    "sitelinks": "17"
+    "item": "http://www.wikidata.org/entity/Q2528477",
+    "itemLabel": "Witches' Sabbath",
+    "year": "1820",
+    "creatorLabel": "Francisco Goya",
+    "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q873639",
-    "itemLabel": "Winter Landscape with a Bird Trap",
-    "year": "1565",
-    "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "17"
+    "item": "http://www.wikidata.org/entity/Q2428778",
+    "itemLabel": "Portrait of the Artist Holding a Thistle",
+    "year": "1493",
+    "creatorLabel": "Albrecht Dürer",
+    "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q598913",
-    "itemLabel": "Mond Crucifixion",
-    "year": "1502",
+    "item": "http://www.wikidata.org/entity/Q2528106",
+    "itemLabel": "Portrait of Bindo Altoviti",
+    "year": "1515",
     "creatorLabel": "Raphael",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17275221",
+    "itemLabel": "Truth Coming Out of Her Well",
+    "year": "1896",
+    "creatorLabel": "Jean-Léon Gérôme",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3829156",
+    "itemLabel": "The Three Ages of Woman",
+    "year": "1905",
+    "creatorLabel": "Gustav Klimt",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3137278",
+    "itemLabel": "Madame Moitessier",
+    "year": "1856",
+    "creatorLabel": "Jean-Auguste-Dominique Ingres",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27157216",
+    "itemLabel": "After the Deluge",
+    "year": "1886",
+    "creatorLabel": "George Frederic Watts",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3172226",
+    "itemLabel": "The Child's Bath",
+    "year": "1893",
+    "creatorLabel": "Mary Cassatt",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32496",
+    "itemLabel": "Bathsheba at Her Bath",
+    "year": "1654",
+    "creatorLabel": "Rembrandt",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q59815",
+    "itemLabel": "The Old Musician",
+    "year": "1862",
+    "creatorLabel": "Édouard Manet",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32234",
+    "itemLabel": "Diana and her Nymphs",
+    "year": "1650",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23922",
+    "itemLabel": "Woman with a Mirror",
+    "year": "1515",
+    "creatorLabel": "Titian",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1214313",
+    "itemLabel": "Life stages",
+    "year": "1834",
+    "creatorLabel": "Caspar David Friedrich",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16333797",
+    "itemLabel": "Rudolf II as Vertumnus",
+    "year": "1591",
+    "creatorLabel": "Giuseppe Arcimboldo",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4062416",
+    "itemLabel": "Alice",
+    "year": "1918",
+    "creatorLabel": "Amedeo Modigliani",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3500414",
+    "itemLabel": "The Farmers' Lunch",
+    "year": "1618",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4188993",
+    "itemLabel": "The Beguiling of Merlin",
+    "year": "1872",
+    "creatorLabel": "Edward Burne-Jones",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2627810",
+    "itemLabel": "The Waterseller of Seville",
+    "year": "1620",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3607521",
+    "itemLabel": "At the Moulin Rouge",
+    "year": "1892",
+    "creatorLabel": "Henri de Toulouse-Lautrec",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2268524",
+    "itemLabel": "The Three Graces",
+    "year": "1630",
+    "creatorLabel": "Peter Paul Rubens",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2627028",
+    "itemLabel": "Portrait of Elisabetta Gonzaga",
+    "year": "1504",
+    "creatorLabel": "Raphael",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3556817",
+    "itemLabel": "Diana leaving her Bath",
+    "year": "1742",
+    "creatorLabel": "François Boucher",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2267440",
+    "itemLabel": "A Young Woman seated at a Virginal",
+    "year": "1670",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2594673",
+    "itemLabel": "Samson and Delilah",
+    "year": "1609",
+    "creatorLabel": "Peter Paul Rubens",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2667782",
+    "itemLabel": "The Descent from the Cross",
+    "year": "1611",
+    "creatorLabel": "Peter Paul Rubens",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2632688",
+    "itemLabel": "The Baptism of Christ",
+    "year": "1448",
+    "creatorLabel": "Piero della Francesca",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2783729",
+    "itemLabel": "Lise with a Parasol",
+    "year": "1867",
+    "creatorLabel": "Pierre-Auguste Renoir",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2561558",
+    "itemLabel": "The Wheat Sifters",
+    "year": "1854",
+    "creatorLabel": "Gustave Courbet",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2626595",
+    "itemLabel": "The Seven Works of Mercy",
+    "year": "1600",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2715177",
+    "itemLabel": "Saint Jerome",
+    "year": "1606",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2665840",
+    "itemLabel": "Pietà",
+    "year": "1575",
+    "creatorLabel": "Titian",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3267954",
+    "itemLabel": "Weeping Woman",
+    "year": "1937",
+    "creatorLabel": "Pablo Picasso",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q948894",
+    "itemLabel": "La Mousmé",
+    "year": "1888",
+    "creatorLabel": "Vincent van Gogh",
     "sitelinks": "17"
   },
   {
@@ -2884,13 +3003,6 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q571416",
-    "itemLabel": "Rubens and Isabella Brant in the honeysuckle bower",
-    "year": "1609",
-    "creatorLabel": "Peter Paul Rubens",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q325267",
     "itemLabel": "Moses Smashing the Tablets of the Law",
     "year": "1659",
@@ -2898,10 +3010,10 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q958088",
-    "itemLabel": "Portrait of a Young Woman",
-    "year": "1665",
-    "creatorLabel": "Johannes Vermeer",
+    "item": "http://www.wikidata.org/entity/Q731639",
+    "itemLabel": "The Plum",
+    "year": "1878",
+    "creatorLabel": "Édouard Manet",
     "sitelinks": "17"
   },
   {
@@ -2912,10 +3024,10 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q579455",
-    "itemLabel": "Suprematist Composition: White on White",
-    "year": "1918",
-    "creatorLabel": "Kazimir Malevich",
+    "item": "http://www.wikidata.org/entity/Q958088",
+    "itemLabel": "Portrait of a Young Woman",
+    "year": "1665",
+    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "17"
   },
   {
@@ -2923,13 +3035,6 @@
     "itemLabel": "Ecce Homo",
     "year": "1490",
     "creatorLabel": "Hieronymus Bosch",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q398973",
-    "itemLabel": "Salisbury Cathedral from the Bishop's Grounds",
-    "year": "1823",
-    "creatorLabel": "John Constable",
     "sitelinks": "17"
   },
   {
@@ -2947,10 +3052,38 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q960157",
+    "itemLabel": "Christ in the House of His Parents",
+    "year": "1849",
+    "creatorLabel": "John Everett Millais",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q579455",
+    "itemLabel": "Suprematist Composition: White on White",
+    "year": "1918",
+    "creatorLabel": "Kazimir Malevich",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q398973",
+    "itemLabel": "Salisbury Cathedral from the Bishop's Grounds",
+    "year": "1823",
+    "creatorLabel": "John Constable",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q960447",
     "itemLabel": "Tiger in a Tropical Storm",
     "year": "1891",
     "creatorLabel": "Henri Rousseau",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q965124",
+    "itemLabel": "Laughing Cavalier",
+    "year": "1624",
+    "creatorLabel": "Frans Hals",
     "sitelinks": "17"
   },
   {
@@ -2968,6 +3101,13 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q958245",
+    "itemLabel": "The Last of England",
+    "year": "1853",
+    "creatorLabel": "Ford Madox Brown",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q766212",
     "itemLabel": "Swimming",
     "year": "1885",
@@ -2982,129 +3122,10 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q960157",
-    "itemLabel": "Christ in the House of His Parents",
-    "year": "1849",
-    "creatorLabel": "John Everett Millais",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q965124",
-    "itemLabel": "Laughing Cavalier",
-    "year": "1624",
-    "creatorLabel": "Frans Hals",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q958245",
-    "itemLabel": "The Last of England",
-    "year": "1853",
-    "creatorLabel": "Ford Madox Brown",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2528741",
-    "itemLabel": "Christ Crucified",
-    "year": "1632",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2276546",
-    "itemLabel": "La donna gravida",
-    "year": "1505",
-    "creatorLabel": "Raphael",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2343939",
-    "itemLabel": "Saint Sebastian",
-    "year": "1501",
-    "creatorLabel": "Raphael",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2428778",
-    "itemLabel": "Portrait of the Artist Holding a Thistle",
-    "year": "1493",
-    "creatorLabel": "Albrecht Dürer",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2273890",
-    "itemLabel": "Miracle of the Slave",
-    "year": "1547",
-    "creatorLabel": "Jacopo Tintoretto",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2393412",
-    "itemLabel": "Venus and Mars Surprised by Vulcan",
-    "year": "1555",
-    "creatorLabel": "Jacopo Tintoretto",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3633456",
-    "itemLabel": "Dance in the City",
-    "year": "1883",
-    "creatorLabel": "Pierre-Auguste Renoir",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3829156",
-    "itemLabel": "The Three Ages of the Woman",
-    "year": "1905",
-    "creatorLabel": "Gustav Klimt",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2537695",
-    "itemLabel": "Judith",
-    "year": "1504",
-    "creatorLabel": "Giorgione",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2529703",
-    "itemLabel": "Portrait of Emile Zola",
-    "year": "1868",
-    "creatorLabel": "Édouard Manet",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2270768",
-    "itemLabel": "Cutting the Stone",
-    "year": "1503",
-    "creatorLabel": "Hieronymus Bosch",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2276130",
-    "itemLabel": "The Epiphany",
-    "year": "1494",
-    "creatorLabel": "Hieronymus Bosch",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2392901",
-    "itemLabel": "Portrait of a Man (Self      Portrait?)",
-    "year": "1433",
-    "creatorLabel": "Jan van Eyck",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4717953",
-    "itemLabel": "Portrait of Juan de Pareja",
-    "year": "1650",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2354033",
-    "itemLabel": "Religious Procession in Kursk Province",
-    "year": "1880",
-    "creatorLabel": "Ilya Repin",
+    "item": "http://www.wikidata.org/entity/Q713211",
+    "itemLabel": "Freedom of Speech",
+    "year": "1943",
+    "creatorLabel": "Norman Rockwell",
     "sitelinks": "17"
   },
   {
@@ -3115,6 +3136,13 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q873639",
+    "itemLabel": "Winter Landscape with a Bird Trap",
+    "year": "1565",
+    "creatorLabel": "Pieter Brueghel the Elder",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1111394",
     "itemLabel": "Rembrandt and Saskia in the parable of the Prodigal Son",
     "year": "1635",
@@ -3122,10 +3150,66 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17086791",
-    "itemLabel": "Red Square",
-    "year": "1915",
-    "creatorLabel": "Kazimir Malevich",
+    "item": "http://www.wikidata.org/entity/Q22329831",
+    "itemLabel": "Self-portrait without beard",
+    "year": "1889",
+    "creatorLabel": "Vincent van Gogh",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1087244",
+    "itemLabel": "Christ and the Woman Taken in Adultery",
+    "year": "1565",
+    "creatorLabel": "Pieter Brueghel the Elder",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2841473",
+    "itemLabel": "Bridal Procession on the Hardangerfjord",
+    "year": "1848",
+    "creatorLabel": "Adolph Tidemand",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2016193",
+    "itemLabel": "Madonna Enthroned",
+    "year": "1300",
+    "creatorLabel": "Giotto",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3978274",
+    "itemLabel": "Susanna and the Elders",
+    "year": "1610",
+    "creatorLabel": "Artemisia Gentileschi",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2097931",
+    "itemLabel": "Supper at Emmaus",
+    "year": "1606",
+    "creatorLabel": "Caravaggio",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4717953",
+    "itemLabel": "Portrait of Juan de Pareja",
+    "year": "1650",
+    "creatorLabel": "Diego Velázquez",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1757920",
+    "itemLabel": "The Light of the World",
+    "year": "1853",
+    "creatorLabel": "William Holman Hunt",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4660880",
+    "itemLabel": "A Young Woman Seated at the Virginals",
+    "year": "1670",
+    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "17"
   },
   {
@@ -3136,17 +3220,52 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4808020",
+    "itemLabel": "Automat",
+    "year": "1927",
+    "creatorLabel": "Edward Hopper",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3739396",
+    "itemLabel": "Mistress and Maid",
+    "year": "1666",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17086791",
+    "itemLabel": "Red Square",
+    "year": "1915",
+    "creatorLabel": "Kazimir Malevich",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2537695",
+    "itemLabel": "Judith",
+    "year": "1504",
+    "creatorLabel": "Giorgione",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2504917",
+    "itemLabel": "The Green Christ",
+    "year": "1889",
+    "creatorLabel": "Paul Gauguin",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2529703",
+    "itemLabel": "Portrait of Emile Zola",
+    "year": "1868",
+    "creatorLabel": "Édouard Manet",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3772184",
     "itemLabel": "The Beggars",
     "year": "1568",
     "creatorLabel": "Pieter Brueghel the Elder",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17275221",
-    "itemLabel": "Truth Coming Out of Her Well",
-    "year": "1896",
-    "creatorLabel": "Jean-Léon Gérôme",
     "sitelinks": "17"
   },
   {
@@ -3157,17 +3276,24 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1114718",
-    "itemLabel": "Dance in the Country",
-    "year": "1883",
-    "creatorLabel": "Pierre-Auguste Renoir",
+    "item": "http://www.wikidata.org/entity/Q5967091",
+    "itemLabel": "The Virgin",
+    "year": "1913",
+    "creatorLabel": "Gustav Klimt",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1087244",
-    "itemLabel": "Christ and the Woman Taken in Adultery",
-    "year": "1565",
-    "creatorLabel": "Pieter Brueghel the Elder",
+    "item": "http://www.wikidata.org/entity/Q3181999",
+    "itemLabel": "Greece on the Ruins of Missolonghi",
+    "year": "1826",
+    "creatorLabel": "Eugène Delacroix",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9397770",
+    "itemLabel": "Jewess with Oranges",
+    "year": "1880",
+    "creatorLabel": "Aleksander Gierymski",
     "sitelinks": "17"
   },
   {
@@ -3185,31 +3311,31 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1212737",
-    "itemLabel": "The Women of Algiers",
-    "year": "1834",
-    "creatorLabel": "Eugène Delacroix",
+    "item": "http://www.wikidata.org/entity/Q3173195",
+    "itemLabel": "Declaration of Independence",
+    "year": "1810",
+    "creatorLabel": "John Trumbull",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3978274",
-    "itemLabel": "Susanna and the Elders",
-    "year": "1610",
-    "creatorLabel": "Artemisia Gentileschi",
+    "item": "http://www.wikidata.org/entity/Q4118041",
+    "itemLabel": "Poppy Flowers",
+    "year": "1887",
+    "creatorLabel": "Vincent van Gogh",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1214313",
-    "itemLabel": "Life stages",
-    "year": "1834",
-    "creatorLabel": "Caspar David Friedrich",
+    "item": "http://www.wikidata.org/entity/Q1219698",
+    "itemLabel": "Girl Interrupted at her Music",
+    "year": "1660",
+    "creatorLabel": "Johannes Vermeer",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1213453",
-    "itemLabel": "The Execution of Lady Jane Grey",
-    "year": "1833",
-    "creatorLabel": "Paul Delaroche",
+    "item": "http://www.wikidata.org/entity/Q3937570",
+    "itemLabel": "Mlle Irene Cahen d'Anvers",
+    "year": "1880",
+    "creatorLabel": "Pierre-Auguste Renoir",
     "sitelinks": "17"
   },
   {
@@ -3220,17 +3346,31 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q32234",
-    "itemLabel": "Diana and her Nymphs",
-    "year": "1650",
-    "creatorLabel": "Johannes Vermeer",
+    "item": "http://www.wikidata.org/entity/Q4068125",
+    "itemLabel": "The Apotheosis of War",
+    "year": "1871",
+    "creatorLabel": "Vasily Vereshchagin",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2627810",
-    "itemLabel": "The Waterseller of Seville",
-    "year": "1620",
-    "creatorLabel": "Diego Velázquez",
+    "item": "http://www.wikidata.org/entity/Q1213453",
+    "itemLabel": "The Execution of Lady Jane Grey",
+    "year": "1833",
+    "creatorLabel": "Paul Delaroche",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2276546",
+    "itemLabel": "La donna gravida",
+    "year": "1505",
+    "creatorLabel": "Raphael",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2343939",
+    "itemLabel": "Saint Sebastian",
+    "year": "1501",
+    "creatorLabel": "Raphael",
     "sitelinks": "17"
   },
   {
@@ -3255,31 +3395,52 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3181999",
-    "itemLabel": "Greece on the Ruins of Missolonghi",
-    "year": "1826",
-    "creatorLabel": "Eugène Delacroix",
+    "item": "http://www.wikidata.org/entity/Q2273890",
+    "itemLabel": "Miracle of the Slave",
+    "year": "1547",
+    "creatorLabel": "Jacopo Tintoretto",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2097931",
-    "itemLabel": "Supper at Emmaus",
-    "year": "1606",
-    "creatorLabel": "Caravaggio",
+    "item": "http://www.wikidata.org/entity/Q2393412",
+    "itemLabel": "Venus and Mars Surprised by Vulcan",
+    "year": "1555",
+    "creatorLabel": "Jacopo Tintoretto",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2059447",
-    "itemLabel": "The Misanthrope",
-    "year": "1568",
-    "creatorLabel": "Pieter Brueghel the Elder",
+    "item": "http://www.wikidata.org/entity/Q2392901",
+    "itemLabel": "Portrait of a Man (Self      Portrait?)",
+    "year": "1433",
+    "creatorLabel": "Jan van Eyck",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3173195",
-    "itemLabel": "Declaration of Independence",
-    "year": "1810",
-    "creatorLabel": "John Trumbull",
+    "item": "http://www.wikidata.org/entity/Q2270768",
+    "itemLabel": "Cutting the Stone",
+    "year": "1503",
+    "creatorLabel": "Hieronymus Bosch",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2276130",
+    "itemLabel": "The Epiphany",
+    "year": "1494",
+    "creatorLabel": "Hieronymus Bosch",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2624258",
+    "itemLabel": "A Young Woman Standing at a Virginal",
+    "year": "1670",
+    "creatorLabel": "Johannes Vermeer",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2354033",
+    "itemLabel": "Religious Procession in Kursk Province",
+    "year": "1880",
+    "creatorLabel": "Ilya Repin",
     "sitelinks": "17"
   },
   {
@@ -3287,6 +3448,13 @@
     "itemLabel": "Annunciation",
     "year": "1435",
     "creatorLabel": "Jan van Eyck",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18620351",
+    "itemLabel": "Spring",
+    "year": "1881",
+    "creatorLabel": "Édouard Manet",
     "sitelinks": "17"
   },
   {
@@ -3304,31 +3472,10 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4118041",
-    "itemLabel": "Poppy Flowers",
-    "year": "1887",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4062416",
-    "itemLabel": "Alice",
-    "year": "1918",
-    "creatorLabel": "Amedeo Modigliani",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4068125",
-    "itemLabel": "The Apotheosis of War",
-    "year": "1871",
-    "creatorLabel": "Vasily Vereshchagin",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4231515",
-    "itemLabel": "Constitution of May 3, 1791",
-    "year": "1891",
-    "creatorLabel": "Jan Matejko",
+    "item": "http://www.wikidata.org/entity/Q4373363",
+    "itemLabel": "Idealized Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)",
+    "year": "1482",
+    "creatorLabel": "Sandro Botticelli",
     "sitelinks": "17"
   },
   {
@@ -3339,164 +3486,17 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1683743",
-    "itemLabel": "Vampire",
-    "year": "1893",
-    "creatorLabel": "Edvard Munch",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1659469",
-    "itemLabel": "In the Summer",
-    "year": "1868",
+    "item": "http://www.wikidata.org/entity/Q4451145",
+    "itemLabel": "Dance at Bougival",
+    "year": "1883",
     "creatorLabel": "Pierre-Auguste Renoir",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1757920",
-    "itemLabel": "The Light of the World",
-    "year": "1853",
-    "creatorLabel": "William Holman Hunt",
+    "item": "http://www.wikidata.org/entity/Q4231515",
+    "itemLabel": "Constitution of May 3, 1791",
+    "year": "1891",
+    "creatorLabel": "Jan Matejko",
     "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1782640",
-    "itemLabel": "The Blacksmith's Shop",
-    "year": "1771",
-    "creatorLabel": "Joseph Wright of Derby",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2841473",
-    "itemLabel": "Bridal Procession on the Hardangerfjord",
-    "year": "1848",
-    "creatorLabel": "Hans Gude",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27157216",
-    "itemLabel": "After the Deluge",
-    "year": "1886",
-    "creatorLabel": "George Frederic Watts",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3607521",
-    "itemLabel": "At the Moulin Rouge",
-    "year": "1892",
-    "creatorLabel": "",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q389198",
-    "itemLabel": "Three Musicians",
-    "year": "1618",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q797902",
-    "itemLabel": "Head of a Woman",
-    "year": "1500",
-    "creatorLabel": "Leonardo da Vinci",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q874058",
-    "itemLabel": "Columba Triptych",
-    "year": "1453",
-    "creatorLabel": "Rogier van der Weyden",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q941549",
-    "itemLabel": "La Grenouillère",
-    "year": "1869",
-    "creatorLabel": "Claude Monet",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q948894",
-    "itemLabel": "La Mousmé",
-    "year": "1888",
-    "creatorLabel": "Vincent van Gogh",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q152849",
-    "itemLabel": "Nude, Green Leaves and Bust",
-    "year": "1932",
-    "creatorLabel": "Pablo Picasso",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q974674",
-    "itemLabel": "The Mystical Nativity",
-    "year": "1500",
-    "creatorLabel": "Sandro Botticelli",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q835286",
-    "itemLabel": "Mars Being Disarmed by Venus",
-    "year": "1824",
-    "creatorLabel": "Jacques-Louis David",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q507120",
-    "itemLabel": "Mountain Landscape with Rainbow",
-    "year": "1809",
-    "creatorLabel": "Caspar David Friedrich",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q323079",
-    "itemLabel": "Dresden Triptych",
-    "year": "1437",
-    "creatorLabel": "Jan van Eyck",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q644106",
-    "itemLabel": "The Daughters of Edward Darley Boit",
-    "year": "1882",
-    "creatorLabel": "John Singer Sargent",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q642198",
-    "itemLabel": "The Annunciation, with Saint Emidius",
-    "year": "1486",
-    "creatorLabel": "Carlo Crivelli",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q334604",
-    "itemLabel": "Heart of the Andes",
-    "year": "1859",
-    "creatorLabel": "Frederic Edwin Church",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q977777",
-    "itemLabel": "Proserpine",
-    "year": "1874",
-    "creatorLabel": "Dante Gabriel Rossetti",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q706846",
-    "itemLabel": "Dwelling in the Fuchun Mountains",
-    "year": "1348",
-    "creatorLabel": "Huang Gongwang",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2273943",
-    "itemLabel": "Adoration of the Magi",
-    "year": "1619",
-    "creatorLabel": "Diego Velázquez",
-    "sitelinks": "16"
   }
 ]

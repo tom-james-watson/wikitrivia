@@ -40,6 +40,16 @@
     "pageViews": 242118
   },
   {
+    "qid": "Q80823",
+    "title": "Anne Boleyn dies",
+    "subtitle": "Second wife of Henry VIII of England",
+    "year": 1536,
+    "fact": "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII.",
+    "wikipediaSlug": "Anne_Boleyn",
+    "image": "AnneBoleynHever.jpg",
+    "pageViews": 234945
+  },
+  {
     "qid": "Q935",
     "title": "Isaac Newton dies",
     "subtitle": "English mathematician and physicist",
@@ -460,6 +470,16 @@
     "pageViews": 69892
   },
   {
+    "qid": "Q13898",
+    "title": "Guy Fawkes dies",
+    "subtitle": null,
+    "year": 1606,
+    "fact": "Guy Fawkes, also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics involved in the failed Gunpowder Plot of 1605.",
+    "wikipediaSlug": "Guy_Fawkes",
+    "image": "The_Gunpowder_Plot_Conspirators,_1605_from_NPG_(cropped).jpg",
+    "pageViews": 68623
+  },
+  {
     "qid": "Q6527",
     "title": "Jean-Jacques Rousseau dies",
     "subtitle": "Genevan philosopher, writer, and composer",
@@ -591,7 +611,7 @@
   },
   {
     "qid": "Q47674",
-    "title": "Amerigo Vespucci dies",
+    "title": "Américo Vespucio dies",
     "subtitle": "Florentine explorer, financier, navigator and cartographer",
     "year": 1512,
     "fact": "Amerigo Vespucci was an Italian explorer and navigator from the Republic of Florence after whom America is named.",
@@ -1202,12 +1222,22 @@
   {
     "qid": "Q171185",
     "title": "Ivan III of Moscow dies",
-    "subtitle": "Grand Prince of Moscow and All Rus'",
+    "subtitle": null,
     "year": 1505,
     "fact": "Ivan III Vasilyevich, also known as Ivan the Great, was Grand Prince of Moscow and all Russia from 1462 until his death in 1505.",
     "wikipediaSlug": "Ivan_III_of_Russia",
     "image": "Ivan_III_of_Russia_3.jpg",
     "pageViews": 13193
+  },
+  {
+    "qid": "Q123034",
+    "title": "Huldrych Zwingli dies",
+    "subtitle": "Protestant Reformation leader in Switzerland, Swiss Reformed Church founder",
+    "year": 1531,
+    "fact": "Huldrych Zwingli was a Swiss Christian theologian, musician, and leader of the Reformation in Switzerland.",
+    "wikipediaSlug": "Huldrych_Zwingli",
+    "image": "Ulrich-Zwingli-1.jpg",
+    "pageViews": 12757
   },
   {
     "qid": "Q150679",
@@ -1218,16 +1248,6 @@
     "wikipediaSlug": "Anthony_van_Dyck",
     "image": "Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg",
     "pageViews": 12491
-  },
-  {
-    "qid": "Q156280",
-    "title": "Leopold Mozart dies",
-    "subtitle": "German composer",
-    "year": 1787,
-    "fact": "Johann Georg Leopold Mozart was a German composer, violinist, and music theorist.",
-    "wikipediaSlug": "Leopold_Mozart",
-    "image": "Leopold_Mozart.jpg",
-    "pageViews": 11831
   },
   {
     "qid": "Q130377",
@@ -1410,16 +1430,6 @@
     "pageViews": 8569
   },
   {
-    "qid": "Q190116",
-    "title": "Benvenuto Cellini dies",
-    "subtitle": "Florentine sculptor and goldsmith",
-    "year": 1571,
-    "fact": "Benvenuto Cellini was an Italian goldsmith, sculptor, and author.",
-    "wikipediaSlug": "Benvenuto_Cellini",
-    "image": "CelliniBust.jpg",
-    "pageViews": 8511
-  },
-  {
     "qid": "Q81130",
     "title": "Anders Celsius dies",
     "subtitle": "Swedish astronomer, physicist, and naturalist",
@@ -1530,6 +1540,16 @@
     "pageViews": 7124
   },
   {
+    "qid": "Q249313",
+    "title": "Camille Desmoulins dies",
+    "subtitle": "French journalist, politician and revolutionary",
+    "year": 1794,
+    "fact": "Lucie-Simplice-Camille-Benoît Desmoulins was a French journalist, politician and a prominent figure of the French Revolution.",
+    "wikipediaSlug": "Camille_Desmoulins",
+    "image": "Camille_Desmoulins_2.jpg",
+    "pageViews": 7099
+  },
+  {
     "qid": "Q335353",
     "title": "Guru Ram Das dies",
     "subtitle": "The fourth Guru of Sikhism",
@@ -1550,6 +1570,16 @@
     "pageViews": 6981
   },
   {
+    "qid": "Q76997",
+    "title": "Moses Mendelssohn dies",
+    "subtitle": "German-Jewish philosopher and theologian",
+    "year": 1786,
+    "fact": "Moses Mendelssohn was a German-Jewish philosopher and theologian.",
+    "wikipediaSlug": "Moses_Mendelssohn",
+    "image": "Moses_Mendelson_P7160073.JPG",
+    "pageViews": 6880
+  },
+  {
     "qid": "Q315509",
     "title": "Philip Sidney dies",
     "subtitle": "English poet, courtier, diplomat",
@@ -1568,16 +1598,6 @@
     "wikipediaSlug": "Guru_Angad",
     "image": "Guru_Angad_miniature_painting.jpg",
     "pageViews": 6877
-  },
-  {
-    "qid": "Q130759",
-    "title": "Christoph Willibald von Gluck dies",
-    "subtitle": "Opera composer",
-    "year": 1787,
-    "fact": "Christoph Willibald Gluck was a composer of Italian and French opera in the early classical period.",
-    "wikipediaSlug": "Christoph_Willibald_Gluck",
-    "image": "Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg",
-    "pageViews": 6827
   },
   {
     "qid": "Q184530",
@@ -1618,16 +1638,6 @@
     "wikipediaSlug": "Guru_Amar_Das",
     "image": "18th_century_painting_of_Guru_Amar_Das.jpg",
     "pageViews": 6498
-  },
-  {
-    "qid": "Q209615",
-    "title": "Francisco de Zurbarán dies",
-    "subtitle": "Spanish painter",
-    "year": 1664,
-    "fact": "Francisco de Zurbarán was a Spanish Baroque painter.",
-    "wikipediaSlug": "Francisco_de_Zurbar%C3%A1n",
-    "image": "Francisco_de_Zurbarán_autoportrait.jpg",
-    "pageViews": 6480
   },
   {
     "qid": "Q310922",
@@ -1671,7 +1681,7 @@
   },
   {
     "qid": "Q70326",
-    "title": "Pierre Beaumarchais dies",
+    "title": "Pierre-Augustin de Beaumarchais dies",
     "subtitle": "French playwright, diplomat and polymath",
     "year": 1799,
     "fact": "Pierre-Augustin Caron de Beaumarchais was a French playwright and diplomat of the Age of Enlightenment.",
@@ -1700,14 +1710,14 @@
     "pageViews": 5051
   },
   {
-    "qid": "Q203534",
-    "title": "Pedro de Valdivia dies",
-    "subtitle": "Spanish conquistador, first royal governor of Chile",
-    "year": 1554,
-    "fact": "Pedro Gutiérrez de Valdivia or Valdiva was a Spanish conquistador and the first Governor of Colonial Chile.",
-    "wikipediaSlug": "Pedro_de_Valdivia",
-    "image": "Pedro_de_Valdivia.jpg",
-    "pageViews": 4923
+    "qid": "Q189714",
+    "title": "François-Noël Babeuf dies",
+    "subtitle": "French political agitator and journalist",
+    "year": 1797,
+    "fact": "François-Noël Babeuf, also known as Gracchus Babeuf, was a French proto-communist, revolutionary, and journalist of the French Revolutionary period.",
+    "wikipediaSlug": "Fran%C3%A7ois-No%C3%ABl_Babeuf",
+    "image": "François-Noël_Babeuf_(cropped).jpg",
+    "pageViews": 4895
   },
   {
     "qid": "Q294478",
@@ -1720,19 +1730,9 @@
     "pageViews": 4709
   },
   {
-    "qid": "Q301597",
-    "title": "Bartolomeo Cristofori dies",
-    "subtitle": "Italian maker of musical instruments",
-    "year": 1731,
-    "fact": "Bartolomeo Cristofori di Francesco was an Italian maker of musical instruments famous for inventing the piano.",
-    "wikipediaSlug": "Bartolomeo_Cristofori",
-    "image": "BartolomeoCristofori.jpg",
-    "pageViews": 4467
-  },
-  {
     "qid": "Q311187",
-    "title": "Francesco Redi dies",
-    "subtitle": "Italian entomologist and poet",
+    "title": "Frančesco Redi dies",
+    "subtitle": "Italian entomologist and poets",
     "year": 1697,
     "fact": "Francesco Redi was an Italian physician, naturalist, biologist, and poet.",
     "wikipediaSlug": "Francesco_Redi",
@@ -1790,6 +1790,16 @@
     "pageViews": 2649
   },
   {
+    "qid": "Q319684",
+    "title": "Rigas Velestinlis dies",
+    "subtitle": "Greek philosopher",
+    "year": 1798,
+    "fact": "Rigas Feraios or Velestinlis, born as Antonios Rigas Velestinlis, was a Greek writer, political thinker and revolutionary, active in the Modern Greek Enlightenment.",
+    "wikipediaSlug": "Rigas_Feraios",
+    "image": "Rigas_Feraios_01.jpg",
+    "pageViews": 2410
+  },
+  {
     "qid": "Q381039",
     "title": "John Wilkins dies",
     "subtitle": "Secretary of the Royal Society and Bishop of Chester",
@@ -1798,16 +1808,6 @@
     "wikipediaSlug": "John_Wilkins",
     "image": "Bp_John_Wilkins.jpg",
     "pageViews": 2379
-  },
-  {
-    "qid": "Q203229",
-    "title": "François-André Danican Philidor dies",
-    "subtitle": "French composer and chess player",
-    "year": 1795,
-    "fact": "François-André Danican Philidor, often referred to as André Danican Philidor during his lifetime, was a French composer and chess master.",
-    "wikipediaSlug": "Fran%C3%A7ois-Andr%C3%A9_Danican_Philidor",
-    "image": "André_Danicant_Philidor.jpg",
-    "pageViews": 2261
   },
   {
     "qid": "Q58062",

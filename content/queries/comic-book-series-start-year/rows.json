@@ -4,7 +4,7 @@
     "itemLabel": "Naruto",
     "year": "1999",
     "description": "Japanese manga series",
-    "sitelinks": "119"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q235311",
@@ -18,14 +18,14 @@
     "itemLabel": "Garfield",
     "year": "1978",
     "description": "comic strip created by Jim Davis",
-    "sitelinks": "105"
+    "sitelinks": "104"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28667972",
     "itemLabel": "One Piece",
     "year": "1997",
     "description": "Japanese manga series",
-    "sitelinks": "101"
+    "sitelinks": "100"
   },
   {
     "item": "http://www.wikidata.org/entity/Q744536",
@@ -53,7 +53,7 @@
     "itemLabel": "Attack on Titan",
     "year": "2009",
     "description": "Japanese manga series",
-    "sitelinks": "89"
+    "sitelinks": "88"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1643098",
@@ -70,18 +70,18 @@
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q189562",
-    "itemLabel": "Fullmetal Alchemist",
-    "year": "2001",
-    "description": "Japanese manga series",
-    "sitelinks": "60"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q182056",
     "itemLabel": "Inuyasha",
     "year": "1996",
     "description": "Japanese manga series",
-    "sitelinks": "58"
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189562",
+    "itemLabel": "Fullmetal Alchemist",
+    "year": "2001",
+    "description": "Japanese manga series",
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q137475",
@@ -95,7 +95,7 @@
     "itemLabel": "Watchmen",
     "year": "1986",
     "description": "superhero comic book series by Alan Moore and Dave Gibbons",
-    "sitelinks": "52"
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3853685",
@@ -105,30 +105,37 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q696918",
+    "itemLabel": "JoJo's Bizarre Adventure",
+    "year": "1987",
+    "description": "Japanese manga series",
+    "sitelinks": "50"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q18047903",
     "itemLabel": "My Hero Academia",
     "year": "2014",
     "description": "Japanese manga series",
-    "sitelinks": "51"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18796",
     "itemLabel": "Fairy Tail",
     "year": "2006",
     "description": "Japanese manga series",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q696071",
-    "itemLabel": "Hunter × Hunter",
-    "year": "1998",
-    "description": "Japanese manga series",
-    "sitelinks": "50"
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q214771",
     "itemLabel": "Elfen Lied",
     "year": "2002",
+    "description": "Japanese manga series",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q696071",
+    "itemLabel": "Hunter × Hunter",
+    "year": "1998",
     "description": "Japanese manga series",
     "sitelinks": "49"
   },
@@ -140,18 +147,25 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11102941",
-    "itemLabel": "Tokyo Ghoul",
-    "year": "2011",
-    "description": "Japanese manga series",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q103411",
     "itemLabel": "V for Vendetta",
     "year": "1980",
     "description": "graphic novel by Alan Moore and David Lloyd",
     "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11102941",
+    "itemLabel": "Tokyo Ghoul",
+    "year": "2011",
+    "description": "Japanese manga series",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q211035",
+    "itemLabel": "Calvin and Hobbes",
+    "year": "1985",
+    "description": "comic strip by Bill Watterson",
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q272015",
@@ -175,23 +189,16 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q211035",
-    "itemLabel": "Calvin and Hobbes",
-    "year": "1985",
-    "description": "comic strip by Bill Watterson",
-    "sitelinks": "45"
+    "item": "http://www.wikidata.org/entity/Q49182",
+    "itemLabel": "Cardcaptor Sakura",
+    "year": "1996",
+    "description": "Japanese manga series",
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q219610",
     "itemLabel": "Shaman King",
     "year": "1998",
-    "description": "Japanese manga series",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q49182",
-    "itemLabel": "Cardcaptor Sakura",
-    "year": "1996",
     "description": "Japanese manga series",
     "sitelinks": "44"
   },
@@ -200,13 +207,6 @@
     "itemLabel": "xkcd",
     "year": "2005",
     "description": "webcomic created by Randall Munroe",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q275956",
-    "itemLabel": "Saint Seiya",
-    "year": "1986",
-    "description": "Japanese manga series",
     "sitelinks": "42"
   },
   {
@@ -220,6 +220,13 @@
     "item": "http://www.wikidata.org/entity/Q223155",
     "itemLabel": "Hellsing",
     "year": "1997",
+    "description": "Japanese manga series",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q275956",
+    "itemLabel": "Saint Seiya",
+    "year": "1986",
     "description": "Japanese manga series",
     "sitelinks": "42"
   },
@@ -238,13 +245,6 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q326642",
-    "itemLabel": "Haikyu!!",
-    "year": "2012",
-    "description": "Japanese manga series",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q457981",
     "itemLabel": "Great Teacher Onizuka",
     "year": "1997",
@@ -252,23 +252,23 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1813828",
-    "itemLabel": "Oruchuban Ebichu",
-    "year": "1990",
-    "description": "Japanese manga series",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q65231576",
     "itemLabel": "Spy × Family",
     "year": "2019",
     "description": "Japanese manga series",
-    "sitelinks": "39"
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q65240543",
     "itemLabel": "Chainsaw Man",
     "year": "2018",
+    "description": "Japanese manga series",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q423658",
+    "itemLabel": "Nana",
+    "year": "2000",
     "description": "Japanese manga series",
     "sitelinks": "39"
   },
@@ -280,17 +280,24 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q423658",
-    "itemLabel": "Nana",
-    "year": "2000",
+    "item": "http://www.wikidata.org/entity/Q1813828",
+    "itemLabel": "Oruchuban Ebichu",
+    "year": "1990",
     "description": "Japanese manga series",
-    "sitelinks": "38"
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q326642",
+    "itemLabel": "Haikyu!!",
+    "year": "2012",
+    "description": "Japanese manga series",
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q647486",
     "itemLabel": "Captain Tsubasa",
     "year": "1981",
-    "description": "1981 Japanese manga series by Yōichi Takahashi",
+    "description": "Japanese manga series",
     "sitelinks": "38"
   },
   {
@@ -298,7 +305,7 @@
     "itemLabel": "Yu Yu Hakusho",
     "year": "1990",
     "description": "Japanese manga series",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q714760",
@@ -306,20 +313,6 @@
     "year": "1990",
     "description": "Japanese manga series",
     "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q59696",
-    "itemLabel": "Maus",
-    "year": "1980",
-    "description": "1980 graphic novel by Art Spiegelman",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q322613",
-    "itemLabel": "Love Hina",
-    "year": "1998",
-    "description": "Japanese manga series",
-    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q392125",
@@ -336,9 +329,23 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q270595",
-    "itemLabel": "Vampire Knight",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q59696",
+    "itemLabel": "Maus",
+    "year": "1980",
+    "description": "1980 graphic novel by Art Spiegelman",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q322613",
+    "itemLabel": "Love Hina",
+    "year": "1998",
+    "description": "Japanese manga series",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q733498",
+    "itemLabel": "Fist of the North Star",
+    "year": "1983",
     "description": "Japanese manga series",
     "sitelinks": "35"
   },
@@ -350,9 +357,9 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11419997",
-    "itemLabel": "Your Lie in April",
-    "year": "2011",
+    "item": "http://www.wikidata.org/entity/Q270595",
+    "itemLabel": "Vampire Knight",
+    "year": "2004",
     "description": "Japanese manga series",
     "sitelinks": "35"
   },
@@ -364,18 +371,11 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q733498",
-    "itemLabel": "Fist of the North Star",
-    "year": "1983",
+    "item": "http://www.wikidata.org/entity/Q11419997",
+    "itemLabel": "Your Lie in April",
+    "year": "2011",
     "description": "Japanese manga series",
     "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3277067",
-    "itemLabel": "Assassination Classroom",
-    "year": "2012",
-    "description": "Japanese manga series",
-    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q518169",
@@ -385,11 +385,11 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9048543",
-    "itemLabel": "The Seven Deadly Sins",
+    "item": "http://www.wikidata.org/entity/Q3277067",
+    "itemLabel": "Assassination Classroom",
     "year": "2012",
     "description": "Japanese manga series",
-    "sitelinks": "33"
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q340181",
@@ -413,6 +413,20 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q9048543",
+    "itemLabel": "The Seven Deadly Sins",
+    "year": "2012",
+    "description": "Japanese manga series",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20638503",
+    "itemLabel": "Black Clover",
+    "year": "2015",
+    "description": "Japanese manga series",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q164883",
     "itemLabel": "Initial D",
     "year": "1995",
@@ -420,23 +434,9 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q275953",
-    "itemLabel": "Mermaid Melody Pichi Pichi Pitch",
-    "year": "2002",
-    "description": "Japanese manga series",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q327773",
-    "itemLabel": "Ouran High School Host Club",
-    "year": "2002",
-    "description": "Japanese manga series",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28682687",
-    "itemLabel": "The Promised Neverland",
-    "year": "2016",
+    "item": "http://www.wikidata.org/entity/Q170019",
+    "itemLabel": "D.Gray-man",
+    "year": "2004",
     "description": "Japanese manga series",
     "sitelinks": "32"
   },
@@ -452,6 +452,13 @@
     "itemLabel": "Claymore",
     "year": "2007",
     "description": "Japanese manga series",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q726431",
+    "itemLabel": "Dilbert",
+    "year": "1989",
+    "description": "American comic strip",
     "sitelinks": "32"
   },
   {
@@ -483,16 +490,23 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q726431",
-    "itemLabel": "Dilbert",
-    "year": "1989",
-    "description": "American comic strip",
+    "item": "http://www.wikidata.org/entity/Q930990",
+    "itemLabel": "Vinland Saga",
+    "year": "2005",
+    "description": "Japanese manga series",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q20638503",
-    "itemLabel": "Black Clover",
-    "year": "2015",
+    "item": "http://www.wikidata.org/entity/Q275953",
+    "itemLabel": "Mermaid Melody Pichi Pichi Pitch",
+    "year": "2002",
+    "description": "Japanese manga series",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q327773",
+    "itemLabel": "Ouran High School Host Club",
+    "year": "2002",
     "description": "Japanese manga series",
     "sitelinks": "32"
   },
@@ -504,9 +518,9 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170019",
-    "itemLabel": "D.Gray-man",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q28682687",
+    "itemLabel": "The Promised Neverland",
+    "year": "2016",
     "description": "Japanese manga series",
     "sitelinks": "31"
   },
@@ -518,17 +532,17 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q930990",
-    "itemLabel": "Vinland Saga",
-    "year": "2005",
-    "description": "Japanese manga series",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q98642652",
     "itemLabel": "Frieren",
     "year": "2020",
     "description": "Japanese manga series",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q699643",
+    "itemLabel": "Candy Candy",
+    "year": "1976",
+    "description": "1975-1979 Japanese anime series, Japanese manga series",
     "sitelinks": "31"
   },
   {
@@ -553,13 +567,6 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q63981675",
-    "itemLabel": "Tokyo Revengers",
-    "year": "2017",
-    "description": "Japanese manga series",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q810863",
     "itemLabel": "The Dark Knight Returns",
     "year": "1986",
@@ -581,6 +588,20 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q38277250",
+    "itemLabel": "The Quintessential Quintuplets",
+    "year": "2017",
+    "description": "Japanese manga series",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63981675",
+    "itemLabel": "Tokyo Revengers",
+    "year": "2017",
+    "description": "Japanese manga series",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q715723",
     "itemLabel": "Urusei Yatsura",
     "year": "1978",
@@ -588,10 +609,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q38277250",
-    "itemLabel": "The Quintessential Quintuplets",
-    "year": "2017",
-    "description": "Japanese manga series",
+    "item": "http://www.wikidata.org/entity/Q723727",
+    "itemLabel": "Sin City",
+    "year": "1991",
+    "description": "comic books series by Frank Miller",
     "sitelinks": "29"
   },
   {
@@ -602,9 +623,23 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11611205",
-    "itemLabel": "A Silent Voice",
-    "year": "2013",
+    "item": "http://www.wikidata.org/entity/Q862351",
+    "itemLabel": "Maison Ikkoku",
+    "year": "1980",
+    "description": "Japanese manga series",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97310775",
+    "itemLabel": "Oshi no Ko",
+    "year": "2020",
+    "description": "Japanese manga series",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108069627",
+    "itemLabel": "Dandadan",
+    "year": "2021",
     "description": "Japanese manga series",
     "sitelinks": "29"
   },
@@ -616,30 +651,9 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q699643",
-    "itemLabel": "Candy Candy",
-    "year": "1976",
-    "description": "1975-1979 Japanese anime series, Japanese manga series",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q862351",
-    "itemLabel": "Maison Ikkoku",
-    "year": "1980",
-    "description": "Japanese manga series",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q723727",
-    "itemLabel": "Sin City",
-    "year": "1991",
-    "description": "comic books series by Frank Miller",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q97310775",
-    "itemLabel": "Oshi no Ko",
-    "year": "2020",
+    "item": "http://www.wikidata.org/entity/Q11611205",
+    "itemLabel": "A Silent Voice",
+    "year": "2013",
     "description": "Japanese manga series",
     "sitelinks": "29"
   },
@@ -651,20 +665,6 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1525793",
-    "itemLabel": "Akame ga Kill!",
-    "year": "2010",
-    "description": "Japanese manga series",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q308035",
-    "itemLabel": "XXholic xxx",
-    "year": "2003",
-    "description": "Japanese manga series",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q55695988",
     "itemLabel": "Rent-A-Girlfriend",
     "year": "2017",
@@ -672,9 +672,30 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1525793",
+    "itemLabel": "Akame ga Kill!",
+    "year": "2010",
+    "description": "Japanese manga series",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q65235036",
     "itemLabel": "My Dress-Up Darling",
     "year": "2018",
+    "description": "Japanese manga series",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1130014",
+    "itemLabel": "Spirou et Fantasio in « Le Journal de Spirou »",
+    "year": "1938",
+    "description": "Franco-Belgian comics series",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q308035",
+    "itemLabel": "xxxHolic",
+    "year": "2003",
     "description": "Japanese manga series",
     "sitelinks": "28"
   },
@@ -693,23 +714,16 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q108069627",
-    "itemLabel": "Dandadan",
-    "year": "2021",
+    "item": "http://www.wikidata.org/entity/Q715193",
+    "itemLabel": "Hajime no Ippo",
+    "year": "1989",
     "description": "Japanese manga series",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q38275959",
-    "itemLabel": "Dr. Stone",
-    "year": "2017",
-    "description": "Japanese manga series",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q482472",
-    "itemLabel": "School Rumble",
-    "year": "2002",
+    "item": "http://www.wikidata.org/entity/Q113329",
+    "itemLabel": "Magic Kaito",
+    "year": "1987",
     "description": "Japanese manga series",
     "sitelinks": "27"
   },
@@ -721,9 +735,16 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11147846",
-    "itemLabel": "Noragami",
-    "year": "2010",
+    "item": "http://www.wikidata.org/entity/Q482472",
+    "itemLabel": "School Rumble",
+    "year": "2002",
+    "description": "Japanese manga series",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38275959",
+    "itemLabel": "Dr. Stone",
+    "year": "2017",
     "description": "Japanese manga series",
     "sitelinks": "27"
   },
@@ -731,6 +752,13 @@
     "item": "http://www.wikidata.org/entity/Q761921",
     "itemLabel": "Magi: The Labyrinth of Magic",
     "year": "2009",
+    "description": "Japanese manga series",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q62414782",
+    "itemLabel": "Blue Lock",
+    "year": "2018",
     "description": "Japanese manga series",
     "sitelinks": "27"
   },
@@ -756,17 +784,17 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1130014",
-    "itemLabel": "Spirou et Fantasio in « Le Journal de Spirou »",
-    "year": "1938",
-    "description": "Franco-Belgian comics series",
+    "item": "http://www.wikidata.org/entity/Q2318999",
+    "itemLabel": "Ninja Hattori-kun",
+    "year": "1964",
+    "description": "1964 Japanese manga series",
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q715193",
-    "itemLabel": "Hajime no Ippo",
-    "year": "1989",
-    "description": "Japanese manga series",
+    "item": "http://www.wikidata.org/entity/Q240358",
+    "itemLabel": "Batman: The Killing Joke",
+    "year": "1988",
+    "description": "1988 graphic novel by Alan Moore",
     "sitelinks": "27"
   },
   {
@@ -777,30 +805,16 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q113329",
-    "itemLabel": "Magic Kaito",
-    "year": "1987",
-    "description": "Japanese manga series",
+    "item": "http://www.wikidata.org/entity/Q737153",
+    "itemLabel": "Gaston",
+    "year": "1957",
+    "description": "comic strip series",
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q240358",
-    "itemLabel": "Batman: The Killing Joke",
-    "year": "1988",
-    "description": "1988 graphic novel by Alan Moore",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2318999",
-    "itemLabel": "Ninja Hattori-kun",
-    "year": "1964",
-    "description": "1964 Japanese manga series",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q62414782",
-    "itemLabel": "Blue Lock",
-    "year": "2018",
+    "item": "http://www.wikidata.org/entity/Q30924292",
+    "itemLabel": "Beastars",
+    "year": "2016",
     "description": "Japanese manga series",
     "sitelinks": "26"
   },
@@ -808,13 +822,6 @@
     "item": "http://www.wikidata.org/entity/Q531298",
     "itemLabel": "Zatch Bell!",
     "year": "2001",
-    "description": "Japanese manga series",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q22123892",
-    "itemLabel": "Cells at Work!",
-    "year": "2015",
     "description": "Japanese manga series",
     "sitelinks": "26"
   },
@@ -833,10 +840,24 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1799866",
-    "itemLabel": "Detective Comics",
-    "year": "1937",
-    "description": "title used for two American comic book series",
+    "item": "http://www.wikidata.org/entity/Q11147846",
+    "itemLabel": "Noragami",
+    "year": "2010",
+    "description": "Japanese manga series",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22123892",
+    "itemLabel": "Cells at Work!",
+    "year": "2015",
+    "description": "Japanese manga series",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4347",
+    "itemLabel": "Barefoot Gen",
+    "year": "1973",
+    "description": "Japanese manga series",
     "sitelinks": "25"
   },
   {
@@ -847,23 +868,16 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q282464",
-    "itemLabel": "Basilisk",
-    "year": "2003",
-    "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30924292",
-    "itemLabel": "Beastars",
-    "year": "2016",
-    "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q495919",
     "itemLabel": "Blue Exorcist",
     "year": "2009",
+    "description": "Japanese manga series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q830771",
+    "itemLabel": "Highschool of the Dead",
+    "year": "2006",
     "description": "Japanese manga series",
     "sitelinks": "25"
   },
@@ -872,41 +886,6 @@
     "itemLabel": "Negima! Magister Negi Magi",
     "year": "2003",
     "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11377464",
-    "itemLabel": "Alice in Borderland",
-    "year": "2010",
-    "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11606274",
-    "itemLabel": "Seraph of the End",
-    "year": "2012",
-    "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q701050",
-    "itemLabel": "Chibi Maruko-chan",
-    "year": "1986",
-    "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q706167",
-    "itemLabel": "The Prince of Tennis",
-    "year": "1999",
-    "description": "Japanese manga series",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q737153",
-    "itemLabel": "Gaston",
-    "year": "1957",
-    "description": "comic strip series",
     "sitelinks": "25"
   },
   {
@@ -924,9 +903,51 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q830771",
-    "itemLabel": "Highschool of the Dead",
-    "year": "2006",
+    "item": "http://www.wikidata.org/entity/Q696236",
+    "itemLabel": "Magic Knight Rayearth",
+    "year": "1993",
+    "description": "Japanese manga series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1799866",
+    "itemLabel": "Detective Comics",
+    "year": "1937",
+    "description": "title used for two American comic book series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q282464",
+    "itemLabel": "Basilisk",
+    "year": "2003",
+    "description": "Japanese manga series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q701050",
+    "itemLabel": "Chibi Maruko-chan",
+    "year": "1986",
+    "description": "Japanese manga series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11606274",
+    "itemLabel": "Seraph of the End",
+    "year": "2012",
+    "description": "Japanese manga series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11377464",
+    "itemLabel": "Alice in Borderland",
+    "year": "2010",
+    "description": "Japanese manga series",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q706167",
+    "itemLabel": "The Prince of Tennis",
+    "year": "1999",
     "description": "Japanese manga series",
     "sitelinks": "25"
   },

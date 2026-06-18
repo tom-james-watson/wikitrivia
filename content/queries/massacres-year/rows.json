@@ -25,7 +25,7 @@
     "itemLabel": "Nanjing Massacre",
     "year": "1937",
     "partOfLabel": "Battle of Nanking",
-    "sitelinks": "74"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q111467700",
@@ -53,7 +53,7 @@
     "itemLabel": "Hamidian massacres",
     "year": "1894",
     "partOfLabel": "Late Ottoman genocides",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q208199",
@@ -70,17 +70,17 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q122975233",
-    "itemLabel": "Re'im music festival massacre",
-    "year": "2023",
-    "partOfLabel": "October 7 attacks",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q579179",
     "itemLabel": "Halabja massacre",
     "year": "1988",
     "partOfLabel": "Anfal campaign",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122975233",
+    "itemLabel": "Re'im music festival massacre",
+    "year": "2023",
+    "partOfLabel": "October 7 attacks",
     "sitelinks": "37"
   },
   {
@@ -95,7 +95,14 @@
     "itemLabel": "2026 Iran massacres",
     "year": "2025",
     "partOfLabel": "political repression in the Islamic Republic of Iran",
-    "sitelinks": "32"
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1814324",
+    "itemLabel": "Vinnytsia massacre",
+    "year": "1930",
+    "partOfLabel": "Great Purge",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1327772",
@@ -130,20 +137,20 @@
     "itemLabel": "Chios massacre",
     "year": "1822",
     "partOfLabel": "Massacres during the Greek War of Independence",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1018743",
-    "itemLabel": "Ludlow Massacre",
-    "year": "1914",
-    "partOfLabel": "Colorado Coalfield War",
-    "sitelinks": "25"
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1089686",
     "itemLabel": "Champ de Mars Massacre",
     "year": "1791",
     "partOfLabel": "French Revolution",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1018743",
+    "itemLabel": "Ludlow Massacre",
+    "year": "1914",
+    "partOfLabel": "Colorado Coalfield War",
     "sitelinks": "25"
   },
   {
@@ -168,24 +175,17 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1254804",
+    "itemLabel": "massacre of Glencoe",
+    "year": "1692",
+    "partOfLabel": "Jacobite rising of 1689",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q125955",
     "itemLabel": "Nemmersdorf massacre",
     "year": "1944",
     "partOfLabel": "Eastern Front",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q981327",
-    "itemLabel": "Haditha massacre",
-    "year": "2005",
-    "partOfLabel": "list of massacres in Iraq",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1814324",
-    "itemLabel": "Vinnytsia massacre",
-    "year": "1930",
-    "partOfLabel": "Great Purge",
     "sitelinks": "23"
   },
   {
@@ -196,17 +196,17 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q981327",
+    "itemLabel": "Haditha massacre",
+    "year": "2005",
+    "partOfLabel": "list of massacres in Iraq",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q123003698",
     "itemLabel": "Kfar Aza massacre",
     "year": "2023",
     "partOfLabel": "October 7 attacks",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1254804",
-    "itemLabel": "massacre of Glencoe",
-    "year": "1692",
-    "partOfLabel": "Jacobite rising of 1689",
     "sitelinks": "23"
   },
   {
@@ -245,17 +245,24 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1139615",
-    "itemLabel": "Qibya massacre",
-    "year": "1953",
-    "partOfLabel": "reprisal operations",
+    "item": "http://www.wikidata.org/entity/Q1351462",
+    "itemLabel": "Damour massacre",
+    "year": "1976",
+    "partOfLabel": "Lebanese Civil War",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1294142",
+    "itemLabel": "Foibe massacres",
+    "year": "1943",
+    "partOfLabel": "World War II",
     "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1482369",
     "itemLabel": "Markale massacres",
     "year": "1994",
-    "partOfLabel": "Siege of Sarajevo",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "20"
   },
   {
@@ -266,17 +273,10 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1294142",
-    "itemLabel": "Foibe massacres",
-    "year": "1943",
-    "partOfLabel": "Adriatic question",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1351462",
-    "itemLabel": "Damour massacre",
-    "year": "1976",
-    "partOfLabel": "Lebanese Civil War",
+    "item": "http://www.wikidata.org/entity/Q1139615",
+    "itemLabel": "Qibya massacre",
+    "year": "1953",
+    "partOfLabel": "reprisal operations",
     "sitelinks": "20"
   },
   {
@@ -287,10 +287,10 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1862197",
-    "itemLabel": "Maratha, Santalaris and Aloda massacre",
-    "year": "1974",
-    "partOfLabel": "Turkish invasion of Cyprus",
+    "item": "http://www.wikidata.org/entity/Q820211",
+    "itemLabel": "massacre of Verden",
+    "year": "782",
+    "partOfLabel": "Saxon Wars",
     "sitelinks": "18"
   },
   {
@@ -301,10 +301,10 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q820211",
-    "itemLabel": "massacre of Verden",
-    "year": "782",
-    "partOfLabel": "Saxon Wars",
+    "item": "http://www.wikidata.org/entity/Q1862197",
+    "itemLabel": "Maratha, Santalaris and Aloda massacre",
+    "year": "1974",
+    "partOfLabel": "Turkish invasion of Cyprus",
     "sitelinks": "18"
   },
   {
@@ -329,10 +329,10 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q124695144",
-    "itemLabel": "Flour Massacre",
-    "year": "2024",
-    "partOfLabel": "Gaza war",
+    "item": "http://www.wikidata.org/entity/Q1414900",
+    "itemLabel": "El Mozote massacre",
+    "year": "1981",
+    "partOfLabel": "Salvadoran Civil War",
     "sitelinks": "16"
   },
   {
@@ -343,24 +343,17 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1414900",
-    "itemLabel": "El Mozote massacre",
-    "year": "1981",
-    "partOfLabel": "Salvadoran Civil War",
+    "item": "http://www.wikidata.org/entity/Q124695144",
+    "itemLabel": "Flour Massacre",
+    "year": "2024",
+    "partOfLabel": "Gaza War",
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1929123",
-    "itemLabel": "Hadassah medical convoy massacre",
-    "year": "1948",
-    "partOfLabel": "1947–1948 Civil War in Mandatory Palestine",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1018682",
-    "itemLabel": "Nisour Square massacre",
-    "year": "2007",
-    "partOfLabel": "Iraq War",
+    "item": "http://www.wikidata.org/entity/Q3042255",
+    "itemLabel": "Višegrad massacres",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "15"
   },
   {
@@ -371,17 +364,10 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q133187598",
-    "itemLabel": "2025 massacres of Syrian Alawites",
-    "year": "2025",
-    "partOfLabel": "Western Syria clashes (December 2024–present)",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q657024",
-    "itemLabel": "Bear River Massacre",
-    "year": "1863",
-    "partOfLabel": "American Indian Wars",
+    "item": "http://www.wikidata.org/entity/Q1018682",
+    "itemLabel": "Nisour Square massacre",
+    "year": "2007",
+    "partOfLabel": "Iraq War",
     "sitelinks": "15"
   },
   {
@@ -392,10 +378,45 @@
     "sitelinks": "15"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q77513637",
+    "itemLabel": "Mahshahr massacre",
+    "year": "2019",
+    "partOfLabel": "2019–2020 Iranian protests",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1929123",
+    "itemLabel": "Hadassah medical convoy massacre",
+    "year": "1948",
+    "partOfLabel": "1947–1948 Civil War in Mandatory Palestine",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q712897",
+    "itemLabel": "1996 Qana massacre",
+    "year": "1996",
+    "partOfLabel": "Operation Grapes of Wrath",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q657024",
+    "itemLabel": "Bear River Massacre",
+    "year": "1863",
+    "partOfLabel": "American Indian Wars",
+    "sitelinks": "15"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q17514354",
     "itemLabel": "Sinjar massacre",
     "year": "2014",
     "partOfLabel": "Iraqi Civil War of 2014–2017",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q133187598",
+    "itemLabel": "2025 massacres of Syrian Alawites",
+    "year": "2025",
+    "partOfLabel": "Western Syria clashes (December 2024–present)",
     "sitelinks": "15"
   },
   {
@@ -406,6 +427,13 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1785811",
+    "itemLabel": "Batak massacre",
+    "year": "1876",
+    "partOfLabel": "April Uprising of 1876",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3850904",
     "itemLabel": "Fântâna Albă massacre",
     "year": "1941",
@@ -413,17 +441,24 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2091313",
-    "itemLabel": "Eilabun massacre",
-    "year": "1948",
-    "partOfLabel": "Operation Hiram",
+    "item": "http://www.wikidata.org/entity/Q1387922",
+    "itemLabel": "Ahmići massacre",
+    "year": "1993",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1785811",
-    "itemLabel": "Batak massacre",
-    "year": "1876",
-    "partOfLabel": "April Uprising of 1876",
+    "item": "http://www.wikidata.org/entity/Q2091313",
+    "itemLabel": "Eilabun massacre",
+    "year": "1948",
+    "partOfLabel": "Nakba",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5306924",
+    "itemLabel": "Drenica massacres",
+    "year": "1998",
+    "partOfLabel": "Kosovo War",
     "sitelinks": "14"
   },
   {
@@ -437,35 +472,14 @@
     "item": "http://www.wikidata.org/entity/Q64481622",
     "itemLabel": "Khartoum massacre",
     "year": "2019",
-    "partOfLabel": "Human rights violations by the Rapid Support Forces (Sudan)",
+    "partOfLabel": "Sudanese Revolution",
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5306924",
-    "itemLabel": "Drenica massacres",
-    "year": "1998",
-    "partOfLabel": "Kosovo War",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1387922",
-    "itemLabel": "Ahmići massacre",
-    "year": "1993",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q712897",
-    "itemLabel": "1996 Qana massacre",
-    "year": "1996",
-    "partOfLabel": "Operation Grapes of Wrath",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3042255",
-    "itemLabel": "Višegrad massacres",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
+    "item": "http://www.wikidata.org/entity/Q941312",
+    "itemLabel": "Massacre at Béziers",
+    "year": "1209",
+    "partOfLabel": "Albigensian Crusade",
     "sitelinks": "13"
   },
   {
@@ -476,27 +490,6 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1131442",
-    "itemLabel": "Massacre in the Great Temple of Tenochtitlan",
-    "year": "1520",
-    "partOfLabel": "Spanish conquest of the Aztec Empire",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q941312",
-    "itemLabel": "Massacre at Béziers",
-    "year": "1209",
-    "partOfLabel": "Albigensian Crusade",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123113376",
-    "itemLabel": "Alumim massacre",
-    "year": "2023",
-    "partOfLabel": "October 7 attacks",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4335326",
     "itemLabel": "Samashki massacre",
     "year": "1995",
@@ -504,17 +497,10 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q77513637",
-    "itemLabel": "Mahshahr massacre",
-    "year": "2019",
-    "partOfLabel": "2019–2020 Iranian protests",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12241913",
-    "itemLabel": "Khan Yunis massacre",
-    "year": "1956",
-    "partOfLabel": "ethnic cleansing in Palestine",
+    "item": "http://www.wikidata.org/entity/Q1131442",
+    "itemLabel": "Massacre in the Great Temple of Tenochtitlan",
+    "year": "1520",
+    "partOfLabel": "Spanish conquest of the Aztec Empire",
     "sitelinks": "13"
   },
   {
@@ -525,10 +511,24 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q123113376",
+    "itemLabel": "Alumim massacre",
+    "year": "2023",
+    "partOfLabel": "October 7 attacks",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12241913",
+    "itemLabel": "Khan Yunis massacre",
+    "year": "1956",
+    "partOfLabel": "ethnic cleansing in Palestine",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2915791",
     "itemLabel": "Liepāja Massacres",
     "year": "1941",
-    "partOfLabel": "The Holocaust in Latvia",
+    "partOfLabel": "World War II",
     "sitelinks": "12"
   },
   {
@@ -536,6 +536,27 @@
     "itemLabel": "Prijedor massacre",
     "year": "1992",
     "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3500162",
+    "itemLabel": "Bijeljina massacre",
+    "year": "1992",
+    "partOfLabel": "Bosnian Genocide",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6393896",
+    "itemLabel": "Štrpci massacre",
+    "year": "1993",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q325760",
+    "itemLabel": "Málaga-Almería road massacre",
+    "year": "1937",
+    "partOfLabel": "Spanish Civil War",
     "sitelinks": "12"
   },
   {
@@ -553,24 +574,10 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q325760",
-    "itemLabel": "Málaga-Almería road massacre",
-    "year": "1937",
-    "partOfLabel": "Spanish Civil War",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q107113646",
     "itemLabel": "Solhan and Tadaryat massacre",
     "year": "2021",
     "partOfLabel": "Insurgency in the Maghreb",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6393896",
-    "itemLabel": "Štrpci massacre",
-    "year": "1993",
-    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "12"
   },
   {
@@ -581,31 +588,10 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4115104",
-    "itemLabel": "Balad al-Shaykh massacre",
-    "year": "1948",
-    "partOfLabel": "ethnic cleansing in Palestine",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3489516",
     "itemLabel": "Pottawatomie Massacre",
     "year": "1856",
     "partOfLabel": "Bleeding Kansas",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2613862",
-    "itemLabel": "Voćin massacre",
-    "year": "1991",
-    "partOfLabel": "Croatian War of Independence",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3500162",
-    "itemLabel": "Bijeljina massacre",
-    "year": "1992",
-    "partOfLabel": "Bosnian Genocide",
     "sitelinks": "11"
   },
   {
@@ -616,10 +602,24 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2613862",
+    "itemLabel": "Voćin massacre",
+    "year": "1991",
+    "partOfLabel": "Croatian War of Independence",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2670487",
     "itemLabel": "My Trach Massacre",
     "year": "1947",
     "partOfLabel": "First Indochina War",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4115104",
+    "itemLabel": "Balad al-Shaykh massacre",
+    "year": "1948",
+    "partOfLabel": "ethnic cleansing in Palestine",
     "sitelinks": "11"
   },
   {
@@ -644,24 +644,10 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1136536",
-    "itemLabel": "Meja massacre",
-    "year": "1999",
-    "partOfLabel": "Kosovo War",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3657999",
-    "itemLabel": "Novye Aldi massacre",
-    "year": "2000",
-    "partOfLabel": "Second Chechen War",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2067296",
-    "itemLabel": "Kočevski Rog massacre",
-    "year": "1945",
-    "partOfLabel": "World War II in Yugoslavia",
+    "item": "http://www.wikidata.org/entity/Q4702339",
+    "itemLabel": "Al-Dawayima massacre",
+    "year": "1948",
+    "partOfLabel": "ethnic cleansing in Palestine",
     "sitelinks": "10"
   },
   {
@@ -672,13 +658,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3434323",
-    "itemLabel": "Izbica massacre",
-    "year": "1999",
-    "partOfLabel": "Kosovo War",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2624975",
     "itemLabel": "Lachine massacre",
     "year": "1689",
@@ -686,17 +665,24 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q303059",
-    "itemLabel": "Thiaroye Massacre",
-    "year": "1944",
-    "partOfLabel": "French West Africa in World War II",
+    "item": "http://www.wikidata.org/entity/Q3657999",
+    "itemLabel": "Novye Aldi massacre",
+    "year": "2000",
+    "partOfLabel": "Second Chechen War",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q460143",
-    "itemLabel": "Lawrence Massacre",
-    "year": "1863",
-    "partOfLabel": "American Civil War",
+    "item": "http://www.wikidata.org/entity/Q3434323",
+    "itemLabel": "Izbica massacre",
+    "year": "1999",
+    "partOfLabel": "Kosovo War",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2067296",
+    "itemLabel": "Kočevski Rog massacre",
+    "year": "1945",
+    "partOfLabel": "World War II in Yugoslavia",
     "sitelinks": "10"
   },
   {
@@ -707,10 +693,17 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q51750785",
-    "itemLabel": "Wiriyamu Massacre",
-    "year": "1972",
-    "partOfLabel": "Mozambican War of Independence",
+    "item": "http://www.wikidata.org/entity/Q1136536",
+    "itemLabel": "Meja massacre",
+    "year": "1999",
+    "partOfLabel": "Kosovo War",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q303059",
+    "itemLabel": "Thiaroye Massacre",
+    "year": "1944",
+    "partOfLabel": "French West Africa in World War II",
     "sitelinks": "10"
   },
   {
@@ -721,10 +714,17 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4702339",
-    "itemLabel": "Al-Dawayima massacre",
-    "year": "1948",
-    "partOfLabel": "ethnic cleansing in Palestine",
+    "item": "http://www.wikidata.org/entity/Q460143",
+    "itemLabel": "Lawrence Massacre",
+    "year": "1863",
+    "partOfLabel": "American Civil War",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51750785",
+    "itemLabel": "Wiriyamu Massacre",
+    "year": "1972",
+    "partOfLabel": "Mozambican War of Independence",
     "sitelinks": "10"
   },
   {
@@ -738,7 +738,35 @@
     "item": "http://www.wikidata.org/entity/Q3297456",
     "itemLabel": "Safsaf massacre",
     "year": "1948",
-    "partOfLabel": "Nakba",
+    "partOfLabel": "1948 Palestinian exodus",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20278906",
+    "itemLabel": "Kobanî massacre",
+    "year": "2015",
+    "partOfLabel": "Syrian Civil War",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4141167",
+    "itemLabel": "Shakee Massacre",
+    "year": "1925",
+    "partOfLabel": "Canton-Hong Kong strike",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4311320",
+    "itemLabel": "Navarino massacre",
+    "year": "1821",
+    "partOfLabel": "Massacres during the Greek War of Independence",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96201014",
+    "itemLabel": "Guangdong Cultural Revolution Massacre",
+    "year": "1968",
+    "partOfLabel": "Cultural Revolution",
     "sitelinks": "9"
   },
   {
@@ -749,24 +777,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q477332",
-    "itemLabel": "Metgethen massacre",
-    "year": "1945",
-    "partOfLabel": "World War II",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q100769993",
-    "itemLabel": "Lekki Tollgate massacre",
-    "year": "2020",
-    "partOfLabel": "End SARS",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20278906",
-    "itemLabel": "Kobanî massacre",
-    "year": "2015",
-    "partOfLabel": "Syrian Civil War",
+    "item": "http://www.wikidata.org/entity/Q8075596",
+    "itemLabel": "Zvornik massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "9"
   },
   {
@@ -780,7 +794,7 @@
     "item": "http://www.wikidata.org/entity/Q5732680",
     "itemLabel": "Tantura massacre",
     "year": "1948",
-    "partOfLabel": "1948 Palestinian exodus",
+    "partOfLabel": "1947–1948 Civil War in Mandatory Palestine",
     "sitelinks": "9"
   },
   {
@@ -791,24 +805,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4311320",
-    "itemLabel": "Navarino massacre",
-    "year": "1821",
-    "partOfLabel": "Massacres during the Greek War of Independence",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4141167",
-    "itemLabel": "Shakee Massacre",
-    "year": "1925",
-    "partOfLabel": "Canton-Hong Kong strike",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8075596",
-    "itemLabel": "Zvornik massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
+    "item": "http://www.wikidata.org/entity/Q477332",
+    "itemLabel": "Metgethen massacre",
+    "year": "1945",
+    "partOfLabel": "World War II",
     "sitelinks": "9"
   },
   {
@@ -819,6 +819,13 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q100769993",
+    "itemLabel": "Lekki Tollgate massacre",
+    "year": "2020",
+    "partOfLabel": "End SARS",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q21730772",
     "itemLabel": "2015 Zaria Massacre",
     "year": "2015",
@@ -826,10 +833,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3503418",
-    "itemLabel": "Križančevo selo massacre",
-    "year": "1993",
-    "partOfLabel": "Croat–Bosniak War",
+    "item": "http://www.wikidata.org/entity/Q3850895",
+    "itemLabel": "Panda Bar massacre",
+    "year": "1998",
+    "partOfLabel": "Kosovo War",
     "sitelinks": "8"
   },
   {
@@ -847,24 +854,10 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q96201014",
-    "itemLabel": "Guangdong Cultural Revolution Massacre",
-    "year": "1968",
-    "partOfLabel": "Cultural Revolution",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7521988",
-    "itemLabel": "Sinchon Massacre",
-    "year": "1950",
-    "partOfLabel": "Korean War",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q486226",
-    "itemLabel": "Phong Nhi and Phong Nhat massacre",
-    "year": "1968",
-    "partOfLabel": "Vietnam War",
+    "item": "http://www.wikidata.org/entity/Q3503418",
+    "itemLabel": "Križančevo selo massacre",
+    "year": "1993",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "8"
   },
   {
@@ -875,10 +868,17 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123295649",
-    "itemLabel": "Nir Yitzhak massacre",
-    "year": "2023",
-    "partOfLabel": "October 7 attacks",
+    "item": "http://www.wikidata.org/entity/Q7521988",
+    "itemLabel": "Sinchon Massacre",
+    "year": "1950",
+    "partOfLabel": "Korean War",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9212027",
+    "itemLabel": "Chervyen massacre",
+    "year": "1941",
+    "partOfLabel": "NKVD prisoner massacres",
     "sitelinks": "8"
   },
   {
@@ -896,52 +896,38 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q16956086",
+    "itemLabel": "Bentiu massacre",
+    "year": "2014",
+    "partOfLabel": "South Sudanese Civil War",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127302766",
+    "itemLabel": "Al-Awda School massacre",
+    "year": "2024",
+    "partOfLabel": "Gaza War",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123295649",
+    "itemLabel": "Nir Yitzhak massacre",
+    "year": "2023",
+    "partOfLabel": "October 7 attacks",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q486226",
+    "itemLabel": "Phong Nhi and Phong Nhat massacre",
+    "year": "1968",
+    "partOfLabel": "Vietnam War",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2931482",
     "itemLabel": "Massacre of Naarden",
     "year": "1572",
     "partOfLabel": "Eighty Years' War",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3850895",
-    "itemLabel": "Panda Bar massacre",
-    "year": "1998",
-    "partOfLabel": "Kosovo War",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3514508",
-    "itemLabel": "Baćin massacre",
-    "year": "1991",
-    "partOfLabel": "Croatian War of Independence",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1966827",
-    "itemLabel": "Pawłokoma massacre",
-    "year": "1945",
-    "partOfLabel": "World War II",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1550913",
-    "itemLabel": "Pinjarra massacre",
-    "year": "1834",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1785309",
-    "itemLabel": "Myall Creek massacre",
-    "year": "1838",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123469637",
-    "itemLabel": "Ardamata massacre",
-    "year": "2023",
-    "partOfLabel": "Masalit genocide",
     "sitelinks": "7"
   },
   {
@@ -952,24 +938,10 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1503007",
-    "itemLabel": "Ip massacre",
-    "year": "1940",
-    "partOfLabel": "World War II",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1527609",
     "itemLabel": "Koriukivka massacre",
     "year": "1943",
     "partOfLabel": "World War II",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2587304",
-    "itemLabel": "Massacre of Uman",
-    "year": "1768",
-    "partOfLabel": "Koliivshchyna",
     "sitelinks": "7"
   },
   {
@@ -980,45 +952,52 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126453114",
-    "itemLabel": "Nuseirat refugee camp massacre",
-    "year": "2024",
-    "partOfLabel": "Gaza war",
+    "item": "http://www.wikidata.org/entity/Q1503007",
+    "itemLabel": "Ip massacre",
+    "year": "1940",
+    "partOfLabel": "World War II",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q102301838",
-    "itemLabel": "Mai Kadra massacre",
-    "year": "2020",
-    "partOfLabel": "Tigray war",
+    "item": "http://www.wikidata.org/entity/Q1785309",
+    "itemLabel": "Myall Creek massacre",
+    "year": "1838",
+    "partOfLabel": "Australian frontier wars",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5249007",
-    "itemLabel": "December 2011 Jabal al-Zawiya massacres",
-    "year": "2011",
-    "partOfLabel": "Idlib Governorate clashes",
+    "item": "http://www.wikidata.org/entity/Q4779013",
+    "itemLabel": "Apalachee massacre",
+    "year": "1704",
+    "partOfLabel": "Queen Anne's War",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5643106",
-    "itemLabel": "Halloween Massacre",
-    "year": "1992",
-    "partOfLabel": "Angolan Civil War",
+    "item": "http://www.wikidata.org/entity/Q4803193",
+    "itemLabel": "Asaba massacre",
+    "year": "1967",
+    "partOfLabel": "Nigerian Civil War",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5348566",
-    "itemLabel": "Ehden massacre",
-    "year": "1978",
-    "partOfLabel": "Inter-Christian conflicts in Lebanon",
+    "item": "http://www.wikidata.org/entity/Q3514508",
+    "itemLabel": "Baćin massacre",
+    "year": "1991",
+    "partOfLabel": "Croatian War of Independence",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5349603",
-    "itemLabel": "Ein al-Zeitun massacre",
-    "year": "1948",
-    "partOfLabel": "ethnic cleansing in Palestine",
+    "item": "http://www.wikidata.org/entity/Q1550913",
+    "itemLabel": "Pinjarra massacre",
+    "year": "1834",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1966827",
+    "itemLabel": "Pawłokoma massacre",
+    "year": "1945",
+    "partOfLabel": "World War II",
     "sitelinks": "7"
   },
   {
@@ -1029,6 +1008,13 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2587304",
+    "itemLabel": "Massacre of Uman",
+    "year": "1768",
+    "partOfLabel": "Koliivshchyna",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6044625",
     "itemLabel": "Tochni massacre",
     "year": "1974",
@@ -1036,17 +1022,38 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q127302766",
-    "itemLabel": "Al-Awda School massacre",
-    "year": "2024",
-    "partOfLabel": "Gaza war",
+    "item": "http://www.wikidata.org/entity/Q5249007",
+    "itemLabel": "December 2011 Jabal al-Zawiya massacres",
+    "year": "2011",
+    "partOfLabel": "Idlib Governorate clashes",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9212027",
-    "itemLabel": "Chervyen massacre",
-    "year": "1941",
-    "partOfLabel": "NKVD prisoner massacres",
+    "item": "http://www.wikidata.org/entity/Q5348566",
+    "itemLabel": "Ehden massacre",
+    "year": "1978",
+    "partOfLabel": "Lebanese Civil War",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7628907",
+    "itemLabel": "Stupni Do massacre",
+    "year": "1993",
+    "partOfLabel": "Croat–Bosniak War",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5349603",
+    "itemLabel": "Ein al-Zeitun massacre",
+    "year": "1948",
+    "partOfLabel": "ethnic cleansing in Palestine",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6470701",
+    "itemLabel": "Souhane massacre",
+    "year": "1997",
+    "partOfLabel": "Algerian Civil War",
     "sitelinks": "7"
   },
   {
@@ -1064,6 +1071,13 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q116157301",
+    "itemLabel": "Juliaca massacre",
+    "year": "2023",
+    "partOfLabel": "2022-2023 Peruvian protests",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7267930",
     "itemLabel": "Qissa Khwani massacre",
     "year": "1930",
@@ -1071,31 +1085,31 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4779013",
-    "itemLabel": "Apalachee massacre",
-    "year": "1704",
-    "partOfLabel": "Queen Anne's War",
+    "item": "http://www.wikidata.org/entity/Q123469637",
+    "itemLabel": "Ardamata massacre",
+    "year": "2023",
+    "partOfLabel": "Masalit genocide",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6470701",
-    "itemLabel": "Souhane massacre",
-    "year": "1997",
-    "partOfLabel": "Algerian Civil War",
+    "item": "http://www.wikidata.org/entity/Q5643106",
+    "itemLabel": "Halloween Massacre",
+    "year": "1992",
+    "partOfLabel": "Angolan Civil War",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16956086",
-    "itemLabel": "Bentiu massacre",
-    "year": "2014",
-    "partOfLabel": "South Sudanese Civil War",
+    "item": "http://www.wikidata.org/entity/Q111752851",
+    "itemLabel": "Tadamon massacre",
+    "year": "2013",
+    "partOfLabel": "Syrian Civil War",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16209296",
-    "itemLabel": "Bor massacre",
-    "year": "1991",
-    "partOfLabel": "Second Sudanese Civil War",
+    "item": "http://www.wikidata.org/entity/Q126453114",
+    "itemLabel": "Nuseirat refugee camp massacre",
+    "year": "2024",
+    "partOfLabel": "Gaza War",
     "sitelinks": "7"
   },
   {
@@ -1106,150 +1120,24 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3297481",
-    "itemLabel": "massacres of La Glacière",
-    "year": "1791",
-    "partOfLabel": "French Revolution",
-    "sitelinks": "6"
+    "item": "http://www.wikidata.org/entity/Q102301838",
+    "itemLabel": "Mai Kadra massacre",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16209296",
+    "itemLabel": "Bor massacre",
+    "year": "1991",
+    "partOfLabel": "Second Sudanese Civil War",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3297443",
     "itemLabel": "Kamani massacre",
     "year": "1993",
     "partOfLabel": "Ethnic cleansing of Georgians in Abkhazia",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q100891384",
-    "itemLabel": "Kumba school massacre",
-    "year": "2020",
-    "partOfLabel": "Anglophone Crisis",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q126370903",
-    "itemLabel": "Wad An Nora massacre",
-    "year": "2024",
-    "partOfLabel": "War crimes during the Sudanese civil war",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107057637",
-    "itemLabel": "Massacre de la rue Haxo",
-    "year": "1871",
-    "partOfLabel": "Paris Commune",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7628907",
-    "itemLabel": "Stupni Do massacre",
-    "year": "1993",
-    "partOfLabel": "Croat–Bosniak War",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4937731",
-    "itemLabel": "Bogoro massacre",
-    "year": "2003",
-    "partOfLabel": "Ituri conflict",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7582417",
-    "itemLabel": "Srebrenica Children Massacre",
-    "year": "1993",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q132707991",
-    "itemLabel": "Kasanga massacre",
-    "year": "2025",
-    "partOfLabel": "Allied Democratic Forces insurgency",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5406414",
-    "itemLabel": "Frog Lake Massacre",
-    "year": "1885",
-    "partOfLabel": "North-West Rebellion",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5100835",
-    "itemLabel": "Los Angeles Chinese massacre of 1871",
-    "year": "1871",
-    "partOfLabel": "anti-Chinese sentiment in the United States",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q122831253",
-    "itemLabel": "Misterei massacre",
-    "year": "2023",
-    "partOfLabel": "Battle of Geneina",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6784466",
-    "itemLabel": "Massacre at Ayyadieh",
-    "year": "1191",
-    "partOfLabel": "Third Crusade",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81232138",
-    "itemLabel": "Rengat massacre",
-    "year": "1949",
-    "partOfLabel": "Indonesian National Revolution",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q655304",
-    "itemLabel": "Nyarubuye massacre",
-    "year": "1994",
-    "partOfLabel": "1994 Genocide against Tutsi",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17163487",
-    "itemLabel": "İzmit massacres",
-    "year": "1920",
-    "partOfLabel": "Greek genocide",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30323869",
-    "itemLabel": "Ras Sedr massacre",
-    "year": "1967",
-    "partOfLabel": "Six-Day War",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6958257",
-    "itemLabel": "Nag Hammadi massacre",
-    "year": "2010",
-    "partOfLabel": "persecution of Copts",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4727697",
-    "itemLabel": "Alkhan-Yurt massacre",
-    "year": "1999",
-    "partOfLabel": "Second Chechen War",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q110714848",
-    "itemLabel": "Aïgbado massacre",
-    "year": "2022",
-    "partOfLabel": "Central African Republic Civil War",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27972892",
-    "itemLabel": "Lyngiades massacre",
-    "year": "1943",
-    "partOfLabel": "Axis occupation of Greece",
     "sitelinks": "6"
   },
   {
@@ -1260,10 +1148,73 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3297481",
+    "itemLabel": "massacres of La Glacière",
+    "year": "1791",
+    "partOfLabel": "French Revolution",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4937731",
+    "itemLabel": "Bogoro massacre",
+    "year": "2003",
+    "partOfLabel": "Ituri conflict",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4727697",
+    "itemLabel": "Alkhan-Yurt massacre",
+    "year": "1999",
+    "partOfLabel": "Second Chechen War",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5406414",
+    "itemLabel": "Frog Lake Massacre",
+    "year": "1885",
+    "partOfLabel": "North-West Rebellion",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81232138",
+    "itemLabel": "Rengat massacre",
+    "year": "1949",
+    "partOfLabel": "Indonesian National Revolution",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5100835",
+    "itemLabel": "Los Angeles Chinese massacre of 1871",
+    "year": "1871",
+    "partOfLabel": "anti-Chinese sentiment in the United States",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7582417",
+    "itemLabel": "Srebrenica Children Massacre",
+    "year": "1993",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6784466",
+    "itemLabel": "Massacre at Ayyadieh",
+    "year": "1191",
+    "partOfLabel": "Third Crusade",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7451679",
     "itemLabel": "Seoul National University Hospital Massacre",
     "year": "1950",
     "partOfLabel": "Korean War",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q655304",
+    "itemLabel": "Nyarubuye massacre",
+    "year": "1994",
+    "partOfLabel": "1994 Genocide against Tutsi",
     "sitelinks": "6"
   },
   {
@@ -1274,24 +1225,17 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q14972756",
-    "itemLabel": "Gujba college massacre",
-    "year": "2013",
-    "partOfLabel": "Boko Haram insurgency",
+    "item": "http://www.wikidata.org/entity/Q137709601",
+    "itemLabel": "2026 Malekshahi massacre",
+    "year": "2026",
+    "partOfLabel": "2026 Iran massacres",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16836125",
-    "itemLabel": "Dubrava Prison Massacre",
-    "year": "1999",
-    "partOfLabel": "NATO bombing of Yugoslavia",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11620962",
-    "itemLabel": "Gegenmiao massacre",
-    "year": "1945",
-    "partOfLabel": "Soviet invasion of Manchuria",
+    "item": "http://www.wikidata.org/entity/Q110714848",
+    "itemLabel": "Aïgbado massacre",
+    "year": "2022",
+    "partOfLabel": "Central African Republic Civil War",
     "sitelinks": "6"
   },
   {
@@ -1302,6 +1246,20 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q11620962",
+    "itemLabel": "Gegenmiao massacre",
+    "year": "1945",
+    "partOfLabel": "Soviet invasion of Manchuria",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14972756",
+    "itemLabel": "Gujba college massacre",
+    "year": "2013",
+    "partOfLabel": "Boko Haram insurgency",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q116444885",
     "itemLabel": "Makugwe massacre",
     "year": "2023",
@@ -1309,24 +1267,31 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q137709601",
-    "itemLabel": "2026 Malekshahi massacre",
-    "year": "2026",
-    "partOfLabel": "2026 Iran massacres",
+    "item": "http://www.wikidata.org/entity/Q17163487",
+    "itemLabel": "İzmit massacres",
+    "year": "1920",
+    "partOfLabel": "Greek genocide",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q116157301",
-    "itemLabel": "Juliaca massacre",
+    "item": "http://www.wikidata.org/entity/Q6958257",
+    "itemLabel": "Nag Hammadi massacre",
+    "year": "2010",
+    "partOfLabel": "persecution of Egyptian Copts",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122831253",
+    "itemLabel": "Misterei massacre",
     "year": "2023",
-    "partOfLabel": "2022-2023 Peruvian protests",
+    "partOfLabel": "Battle of Geneina",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q24914897",
-    "itemLabel": "Kuşkonar and Koçağılı massacre",
-    "year": "1994",
-    "partOfLabel": "Kurdistan Workers' Party insurgency",
+    "item": "http://www.wikidata.org/entity/Q107057637",
+    "itemLabel": "Massacre de la rue Haxo",
+    "year": "1871",
+    "partOfLabel": "Paris Commune",
     "sitelinks": "6"
   },
   {
@@ -1334,6 +1299,55 @@
     "itemLabel": "Torreón massacre",
     "year": "1911",
     "partOfLabel": "Anti-Chinese Campaign",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126370903",
+    "itemLabel": "Wad An Nora massacre",
+    "year": "2024",
+    "partOfLabel": "War crimes during the Sudanese civil war",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30323869",
+    "itemLabel": "Ras Sedr massacre",
+    "year": "1967",
+    "partOfLabel": "Six-Day War",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132707991",
+    "itemLabel": "Kasanga massacre",
+    "year": "2025",
+    "partOfLabel": "Allied Democratic Forces insurgency",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27972892",
+    "itemLabel": "Lyngiades massacre",
+    "year": "1943",
+    "partOfLabel": "Axis occupation of Greece",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100891384",
+    "itemLabel": "Kumba school massacre",
+    "year": "2020",
+    "partOfLabel": "Anglophone Crisis",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16836125",
+    "itemLabel": "Dubrava Prison Massacre",
+    "year": "1999",
+    "partOfLabel": "Kosovo War",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24914897",
+    "itemLabel": "Kuşkonar and Koçağılı massacre",
+    "year": "1994",
+    "partOfLabel": "Kurdistan Workers' Party insurgency",
     "sitelinks": "6"
   },
   {
@@ -1351,6 +1365,13 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4695022",
+    "itemLabel": "Ahatovići massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q990367",
     "itemLabel": "1848–1849 massacres in Transylvania",
     "year": "1848",
@@ -1365,6 +1386,20 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4860752",
+    "itemLabel": "Barimo massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6416698",
+    "itemLabel": "Kisielin massacre",
+    "year": "1943",
+    "partOfLabel": "World War II",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2330607",
     "itemLabel": "Zawadka Morochowska massacres",
     "year": "1946",
@@ -1372,10 +1407,24 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104462652",
-    "itemLabel": "Metekel massacre",
-    "year": "2020",
-    "partOfLabel": "Benishangul-Gumuz conflict",
+    "item": "http://www.wikidata.org/entity/Q4406932",
+    "itemLabel": "Massacre of Samothrace (1821)",
+    "year": "1821",
+    "partOfLabel": "Massacres during the Greek War of Independence",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5317700",
+    "itemLabel": "Duša massacre",
+    "year": "1993",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5437858",
+    "itemLabel": "Fatima Massacre",
+    "year": "1976",
+    "partOfLabel": "Dirty War",
     "sitelinks": "5"
   },
   {
@@ -1400,20 +1449,6 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q111752851",
-    "itemLabel": "Tadamon massacre",
-    "year": "2013",
-    "partOfLabel": "Syrian Civil War",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q129259515",
-    "itemLabel": "Galgani massacre",
-    "year": "2024",
-    "partOfLabel": "War crimes during the Sudanese civil war",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7672723",
     "itemLabel": "Taif massacre",
     "year": "1924",
@@ -1421,107 +1456,16 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5528422",
-    "itemLabel": "1990 Gawkadal massacre",
-    "year": "1990",
-    "partOfLabel": "insurgency in Jammu and Kashmir",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123267657",
-    "itemLabel": "Volnovakha massacre",
-    "year": "2023",
-    "partOfLabel": "full-scale Russo-Ukrainian war",
+    "item": "http://www.wikidata.org/entity/Q6471043",
+    "itemLabel": "Oborci massacre",
+    "year": "1995",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6594498",
     "itemLabel": "Zenica massacre",
     "year": "1993",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7015178",
-    "itemLabel": "Chekka massacre",
-    "year": "1976",
-    "partOfLabel": "Lebanese Civil War",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q507829",
-    "itemLabel": "Suai Church massacre",
-    "year": "1999",
-    "partOfLabel": "East Timor genocide",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60776533",
-    "itemLabel": "2018 Port-au-Prince massacre",
-    "year": "2018",
-    "partOfLabel": "Haitian crisis (2018–present)",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5317700",
-    "itemLabel": "Duša massacre",
-    "year": "1993",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4406932",
-    "itemLabel": "Massacre of Samothrace (1821)",
-    "year": "1821",
-    "partOfLabel": "Massacres during the Greek War of Independence",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16085087",
-    "itemLabel": "Makarska massacre",
-    "year": "1942",
-    "partOfLabel": "World War II",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134596372",
-    "itemLabel": "Fahmi al-Jarjawi School Massacre",
-    "year": "2025",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15119203",
-    "itemLabel": "Glogova massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18164428",
-    "itemLabel": "Tafas massacre",
-    "year": "1918",
-    "partOfLabel": "Arab Revolt",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6416698",
-    "itemLabel": "Kisielin massacre",
-    "year": "1943",
-    "partOfLabel": "World War II",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q110797392",
-    "itemLabel": "Plaine Savo massacre",
-    "year": "2022",
-    "partOfLabel": "Ituri conflict",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6471043",
-    "itemLabel": "Oborci massacre",
-    "year": "1995",
     "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "5"
   },
@@ -1533,10 +1477,17 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4695022",
-    "itemLabel": "Ahatovići massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
+    "item": "http://www.wikidata.org/entity/Q110797392",
+    "itemLabel": "Plaine Savo massacre",
+    "year": "2022",
+    "partOfLabel": "Ituri conflict",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60776533",
+    "itemLabel": "2018 Port-au-Prince massacre",
+    "year": "2018",
+    "partOfLabel": "Haitian crisis (2019–present)",
     "sitelinks": "5"
   },
   {
@@ -1554,17 +1505,24 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q116958167",
-    "itemLabel": "Hlaingthaya massacre",
-    "year": "2021",
-    "partOfLabel": "2021 Myanmar coup d'état",
+    "item": "http://www.wikidata.org/entity/Q15119203",
+    "itemLabel": "Glogova massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18564908",
-    "itemLabel": "Vyborg massacre",
-    "year": "1918",
-    "partOfLabel": "Russian Civil War",
+    "item": "http://www.wikidata.org/entity/Q134596372",
+    "itemLabel": "Fahmi al-Jarjawi School Massacre",
+    "year": "2025",
+    "partOfLabel": "Gaza War",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7015178",
+    "itemLabel": "Chekka massacre",
+    "year": "1976",
+    "partOfLabel": "Lebanese Civil War",
     "sitelinks": "5"
   },
   {
@@ -1575,10 +1533,59 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12469955",
-    "itemLabel": "Cesena massacre",
-    "year": "1377",
-    "partOfLabel": "War of the Eight Saints",
+    "item": "http://www.wikidata.org/entity/Q129259515",
+    "itemLabel": "Galgani massacre",
+    "year": "2024",
+    "partOfLabel": "Sennar offensive",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q116958167",
+    "itemLabel": "Hlaingthaya massacre",
+    "year": "2021",
+    "partOfLabel": "2021 Myanmar coup d'état",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5528422",
+    "itemLabel": "1990 Gawkadal massacre",
+    "year": "1990",
+    "partOfLabel": "insurgency in Jammu and Kashmir",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123267657",
+    "itemLabel": "Volnovakha massacre",
+    "year": "2023",
+    "partOfLabel": "full-scale Russo-Ukrainian war",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18164428",
+    "itemLabel": "Tafas massacre",
+    "year": "1918",
+    "partOfLabel": "Arab Revolt",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18564908",
+    "itemLabel": "Vyborg massacre",
+    "year": "1918",
+    "partOfLabel": "Russian Civil War",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28223405",
+    "itemLabel": "Pibor massacre",
+    "year": "2011",
+    "partOfLabel": "ethnic violence in South Sudan",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q507829",
+    "itemLabel": "Suai Church massacre",
+    "year": "1999",
+    "partOfLabel": "East Timor genocide",
     "sitelinks": "5"
   },
   {
@@ -1589,10 +1596,17 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22947455",
-    "itemLabel": "Ardenne Abbey massacre",
-    "year": "1944",
-    "partOfLabel": "Operation Overlord",
+    "item": "http://www.wikidata.org/entity/Q104462652",
+    "itemLabel": "Metekel massacre",
+    "year": "2020",
+    "partOfLabel": "Benishangul-Gumuz conflict",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16085087",
+    "itemLabel": "Makarska massacre",
+    "year": "1942",
+    "partOfLabel": "World War II",
     "sitelinks": "5"
   },
   {
@@ -1603,10 +1617,24 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q12469955",
+    "itemLabel": "Cesena massacre",
+    "year": "1377",
+    "partOfLabel": "War of the Eight Saints",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q20639688",
     "itemLabel": "July 2015 Kukawa massacre",
     "year": "2015",
     "partOfLabel": "Boko Haram insurgency",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22947455",
+    "itemLabel": "Ardenne Abbey massacre",
+    "year": "1944",
+    "partOfLabel": "Operation Overlord",
     "sitelinks": "5"
   },
   {
@@ -1617,17 +1645,10 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q124880810",
-    "itemLabel": "1996 Erbil massacre",
-    "year": "1996",
-    "partOfLabel": "Iraqi Kurdish Civil War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1034229",
-    "itemLabel": "Cape Grim massacre",
-    "year": "1828",
-    "partOfLabel": "Black War",
+    "item": "http://www.wikidata.org/entity/Q4672685",
+    "itemLabel": "Accomarca massacre",
+    "year": "1985",
+    "partOfLabel": "internal conflict in Peru",
     "sitelinks": "4"
   },
   {
@@ -1638,80 +1659,10 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2074247",
-    "itemLabel": "Janowa Dolina massacre",
-    "year": "1943",
-    "partOfLabel": "Polish–Ukrainian conflict",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q125462242",
-    "itemLabel": "Engineer's Building strike and massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2552587",
-    "itemLabel": "Waterloo Creek massacre",
-    "year": "1838",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q64765769",
-    "itemLabel": "Tarapoto massacre",
-    "year": "1989",
-    "partOfLabel": "LGBT history in Peru",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104803838",
-    "itemLabel": "Axum massacre",
-    "year": "2020",
-    "partOfLabel": "Tigray war",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123046480",
-    "itemLabel": "Yakhini massacre",
-    "year": "2023",
-    "partOfLabel": "October 7 attacks",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123151340",
-    "itemLabel": "massacre of pensioners in Sderot",
-    "year": "2023",
-    "partOfLabel": "Battle of Sderot",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108502717",
-    "itemLabel": "Kisangani massacre",
-    "year": "2002",
-    "partOfLabel": "Second Congo War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104852916",
-    "itemLabel": "Massacre of Monte Arruit",
-    "year": "1921",
-    "partOfLabel": "Rif War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106679021",
-    "itemLabel": "Mansouri massacre",
-    "year": "1996",
-    "partOfLabel": "Operation Grapes of Wrath",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q130537194",
-    "itemLabel": "Al-Aqsa Hospital massacre",
-    "year": "2024",
-    "partOfLabel": "Gaza war",
+    "item": "http://www.wikidata.org/entity/Q4702504",
+    "itemLabel": "Al-Hidaya Mosque massacre",
+    "year": "2008",
+    "partOfLabel": "Battle of Mogadishu",
     "sitelinks": "4"
   },
   {
@@ -1722,17 +1673,87 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7533535",
-    "itemLabel": "Sjeverin massacre",
-    "year": "1992",
-    "partOfLabel": "Višegrad massacres",
+    "item": "http://www.wikidata.org/entity/Q1034229",
+    "itemLabel": "Cape Grim massacre",
+    "year": "1828",
+    "partOfLabel": "Black War",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7959475",
-    "itemLabel": "Wagalla massacre",
-    "year": "1984",
-    "partOfLabel": "Somali-Kenyan conflict",
+    "item": "http://www.wikidata.org/entity/Q4669676",
+    "itemLabel": "Abschwangen massacre",
+    "year": "1914",
+    "partOfLabel": "WWI Eastern Front",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6121977",
+    "itemLabel": "Jaffna lagoon massacre",
+    "year": "1993",
+    "partOfLabel": "Sri Lankan civil war",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2074247",
+    "itemLabel": "Janowa Dolina massacre",
+    "year": "1943",
+    "partOfLabel": "Polish–Ukrainian conflict",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q85765974",
+    "itemLabel": "Hawzen massacre",
+    "year": "1988",
+    "partOfLabel": "Ethiopian Civil War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6164557",
+    "itemLabel": "Jathibhanga massacre",
+    "year": "1971",
+    "partOfLabel": "Bangladesh Liberation War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2552587",
+    "itemLabel": "Waterloo Creek massacre",
+    "year": "1838",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6087302",
+    "itemLabel": "Zini Rift Massacre",
+    "year": "1938",
+    "partOfLabel": "Dersim massacre",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6428648",
+    "itemLabel": "Komsomolskoye massacre",
+    "year": "2000",
+    "partOfLabel": "Second Chechen War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q64765769",
+    "itemLabel": "Tarapoto massacre",
+    "year": "1989",
+    "partOfLabel": "LGBT history in Peru",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6159472",
+    "itemLabel": "Jaragua massacre",
+    "year": "1503",
+    "partOfLabel": "Spanish Colonization of Hispaniola",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5350868",
+    "itemLabel": "El Calabozo massacre",
+    "year": "1982",
+    "partOfLabel": "Salvadoran Civil War",
     "sitelinks": "4"
   },
   {
@@ -1743,24 +1764,73 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4860752",
-    "itemLabel": "Barimo massacre",
+    "item": "http://www.wikidata.org/entity/Q8065137",
+    "itemLabel": "1990 Zakoora and Tengpora massacre",
+    "year": "1990",
+    "partOfLabel": "insurgency in Jammu and Kashmir",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134327076",
+    "itemLabel": "2025 massacres of Syrian Druze",
+    "year": "2025",
+    "partOfLabel": "Southern Syria clashes (April–May 2025)",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83588229",
+    "itemLabel": "Aucayacu massacre",
+    "year": "1986",
+    "partOfLabel": "internal conflict in Peru",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7493668",
+    "itemLabel": "Shell House massacre",
+    "year": "1994",
+    "partOfLabel": "1994 South African general election",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7488747",
+    "itemLabel": "Shankharibazar massacre",
+    "year": "1971",
+    "partOfLabel": "Bangladesh genocide",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7533535",
+    "itemLabel": "Sjeverin massacre",
     "year": "1992",
     "partOfLabel": "Višegrad massacres",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q118904076",
-    "itemLabel": "Karma massacre",
-    "year": "2023",
-    "partOfLabel": "Jihadist insurgency in Burkina Faso",
+    "item": "http://www.wikidata.org/entity/Q7959661",
+    "itemLabel": "Wagon massacre",
+    "year": "1921",
+    "partOfLabel": "Indian independence movement",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5437858",
-    "itemLabel": "Fatima Massacre",
-    "year": "1976",
-    "partOfLabel": "dirty war in Argentina",
+    "item": "http://www.wikidata.org/entity/Q7959475",
+    "itemLabel": "Wagalla massacre",
+    "year": "1984",
+    "partOfLabel": "Somali-Kenyan conflict",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q683377",
+    "itemLabel": "Massacre of Greifensee",
+    "year": "1444",
+    "partOfLabel": "Old Zürich War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6762569",
+    "itemLabel": "Marichjhapi massacre",
+    "year": "1979",
+    "partOfLabel": "caste-related violence in India",
     "sitelinks": "4"
   },
   {
@@ -1778,195 +1848,6 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5350868",
-    "itemLabel": "El Calabozo massacre",
-    "year": "1982",
-    "partOfLabel": "Salvadoran Civil War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q105409675",
-    "itemLabel": "Agulis massacre",
-    "year": "1919",
-    "partOfLabel": "Muslim uprisings in Kars and Sharur–Nakhichevan",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q131056289",
-    "itemLabel": "2024 eastern Gezira State massacres",
-    "year": "2024",
-    "partOfLabel": "War crimes during the Sudanese civil war",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5560439",
-    "itemLabel": "Gikondo massacre",
-    "year": "1994",
-    "partOfLabel": "1994 Genocide against Tutsi",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6005734",
-    "itemLabel": "Massacre of friars in Madrid in 1834",
-    "year": "1834",
-    "partOfLabel": "Anticlericalism in Spain",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6159472",
-    "itemLabel": "Jaragua massacre",
-    "year": "1503",
-    "partOfLabel": "Spanish Colonization of Hispaniola",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q653857",
-    "itemLabel": "Coniston massacre",
-    "year": "1928",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q85765974",
-    "itemLabel": "Hawzen massacre",
-    "year": "1988",
-    "partOfLabel": "Ethiopian Civil War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83588229",
-    "itemLabel": "Aucayacu massacre",
-    "year": "1986",
-    "partOfLabel": "internal conflict in Peru",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123207869",
-    "itemLabel": "Zikim Beach massacre",
-    "year": "2023",
-    "partOfLabel": "Battle of Zikim",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6121977",
-    "itemLabel": "Jaffna lagoon massacre",
-    "year": "1993",
-    "partOfLabel": "Sri Lankan civil war",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q683377",
-    "itemLabel": "Massacre of Greifensee",
-    "year": "1444",
-    "partOfLabel": "Old Zürich War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6087302",
-    "itemLabel": "Zini Rift Massacre",
-    "year": "1938",
-    "partOfLabel": "Dersim massacre",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q129322778",
-    "itemLabel": "July massacre",
-    "year": "2024",
-    "partOfLabel": "July Revolution",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48817630",
-    "itemLabel": "Candia massacre",
-    "year": "1898",
-    "partOfLabel": "Late Ottoman genocides",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6428648",
-    "itemLabel": "Komsomolskoye massacre",
-    "year": "2000",
-    "partOfLabel": "Second Chechen War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6762569",
-    "itemLabel": "Marichjhapi massacre",
-    "year": "1979",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7263080",
-    "itemLabel": "Pyle's Massacre",
-    "year": "1781",
-    "partOfLabel": "American Revolutionary War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28668427",
-    "itemLabel": "Pettorano massacre",
-    "year": "1860",
-    "partOfLabel": "Piedmontese campaign in Central Italy",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7959661",
-    "itemLabel": "Wagon massacre",
-    "year": "1921",
-    "partOfLabel": "Indian independence movement",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7431161",
-    "itemLabel": "Schenectady massacre",
-    "year": "1690",
-    "partOfLabel": "Beaver Wars",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7493668",
-    "itemLabel": "Shell House massacre",
-    "year": "1994",
-    "partOfLabel": "1994 South African general election",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q135225825",
-    "itemLabel": "Poklek massacre",
-    "year": "1999",
-    "partOfLabel": "Kosovo War",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4702504",
-    "itemLabel": "Al-Hidaya Mosque massacre",
-    "year": "2008",
-    "partOfLabel": "Battle of Mogadishu",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4672685",
-    "itemLabel": "Accomarca massacre",
-    "year": "1985",
-    "partOfLabel": "internal conflict in Peru",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q109762353",
-    "itemLabel": "Massacre in Nicosia",
-    "year": "1570",
-    "partOfLabel": "Ottoman–Venetian War of 1570–1573",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q112968013",
-    "itemLabel": "Doli Pivski massacre",
-    "year": "1943",
-    "partOfLabel": "Category:German war crimes in Yugoslavia",
-    "sitelinks": "4"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q109701707",
     "itemLabel": "Sacaba massacre",
     "year": "2019",
@@ -1981,45 +1862,31 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4669676",
-    "itemLabel": "Abschwangen massacre",
-    "year": "1914",
-    "partOfLabel": "WWI Eastern Front",
+    "item": "http://www.wikidata.org/entity/Q104852916",
+    "itemLabel": "Massacre of Monte Arruit",
+    "year": "1921",
+    "partOfLabel": "Rif War",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28223405",
-    "itemLabel": "Pibor massacre",
-    "year": "2011",
-    "partOfLabel": "ethnic violence in South Sudan",
+    "item": "http://www.wikidata.org/entity/Q106679021",
+    "itemLabel": "Mansouri massacre",
+    "year": "1996",
+    "partOfLabel": "Operation Grapes of Wrath",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6164557",
-    "itemLabel": "Jathibhanga massacre",
-    "year": "1971",
-    "partOfLabel": "Bangladesh Liberation War",
+    "item": "http://www.wikidata.org/entity/Q653857",
+    "itemLabel": "Coniston massacre",
+    "year": "1928",
+    "partOfLabel": "Australian frontier wars",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7488747",
-    "itemLabel": "Shankharibazar massacre",
-    "year": "1971",
-    "partOfLabel": "Bangladesh genocide",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10933642",
-    "itemLabel": "Daxing massacre",
-    "year": "1966",
-    "partOfLabel": "Red August",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16551154",
-    "itemLabel": "Gondrand massacre",
-    "year": "1936",
-    "partOfLabel": "Second Italo-Ethiopian War",
+    "item": "http://www.wikidata.org/entity/Q105409675",
+    "itemLabel": "Agulis massacre",
+    "year": "1919",
+    "partOfLabel": "Muslim uprisings in Kars and Sharur–Nakhichevan",
     "sitelinks": "4"
   },
   {
@@ -2030,17 +1897,45 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12815319",
-    "itemLabel": "Piet Retief Delegation massacre",
-    "year": "1838",
-    "partOfLabel": "Great Trek",
+    "item": "http://www.wikidata.org/entity/Q109762353",
+    "itemLabel": "Massacre in Nicosia",
+    "year": "1570",
+    "partOfLabel": "Ottoman–Venetian War of 1570–1573",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q115734708",
-    "itemLabel": "Ayacucho massacre",
-    "year": "2022",
-    "partOfLabel": "2022-2023 Peruvian protests",
+    "item": "http://www.wikidata.org/entity/Q10933642",
+    "itemLabel": "Daxing massacre",
+    "year": "1966",
+    "partOfLabel": "Red August",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q135225825",
+    "itemLabel": "Poklek massacre",
+    "year": "1999",
+    "partOfLabel": "Kosovo War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112968013",
+    "itemLabel": "Doli Pivski massacre",
+    "year": "1943",
+    "partOfLabel": "Category:German war crimes in Yugoslavia",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131056289",
+    "itemLabel": "2024 eastern Gezira State massacres",
+    "year": "2024",
+    "partOfLabel": "War crimes during the Sudanese civil war",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7126011",
+    "itemLabel": "Paklenik massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "4"
   },
   {
@@ -2051,10 +1946,87 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q134327076",
-    "itemLabel": "2025 massacres of Syrian Druze",
-    "year": "2025",
-    "partOfLabel": "Southern Syria clashes (April–May 2025)",
+    "item": "http://www.wikidata.org/entity/Q115734708",
+    "itemLabel": "Ayacucho massacre",
+    "year": "2022",
+    "partOfLabel": "2022-2023 Peruvian protests",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7263080",
+    "itemLabel": "Pyle's Massacre",
+    "year": "1781",
+    "partOfLabel": "American Revolutionary War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7431161",
+    "itemLabel": "Schenectady massacre",
+    "year": "1690",
+    "partOfLabel": "Beaver Wars",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129322778",
+    "itemLabel": "July massacre",
+    "year": "2024",
+    "partOfLabel": "July Revolution",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131438027",
+    "itemLabel": "1981–1982 Iran Massacres",
+    "year": "1981",
+    "partOfLabel": "consolidation of the Iranian Revolution",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5560439",
+    "itemLabel": "Gikondo massacre",
+    "year": "1994",
+    "partOfLabel": "1994 Genocide against Tutsi",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6005734",
+    "itemLabel": "Massacre of friars in Madrid in 1834",
+    "year": "1834",
+    "partOfLabel": "First Carlist War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108502717",
+    "itemLabel": "Kisangani massacre",
+    "year": "2002",
+    "partOfLabel": "Second Congo War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q118904076",
+    "itemLabel": "Karma massacre",
+    "year": "2023",
+    "partOfLabel": "Jihadist insurgency in Burkina Faso",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123151340",
+    "itemLabel": "massacre of pensioners in Sderot",
+    "year": "2023",
+    "partOfLabel": "Battle of Sderot",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123207869",
+    "itemLabel": "Zikim Beach massacre",
+    "year": "2023",
+    "partOfLabel": "Battle of Zikim",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28668427",
+    "itemLabel": "Pettorano massacre",
+    "year": "1860",
+    "partOfLabel": "Piedmontese campaign in Central Italy",
     "sitelinks": "4"
   },
   {
@@ -2065,11 +2037,74 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3297502",
-    "itemLabel": "Moulin de l'Agau massacre",
-    "year": "1703",
-    "partOfLabel": "War of the Camisards",
-    "sitelinks": "3"
+    "item": "http://www.wikidata.org/entity/Q123046480",
+    "itemLabel": "Yakhini massacre",
+    "year": "2023",
+    "partOfLabel": "October 7 attacks",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12815319",
+    "itemLabel": "Piet Retief Delegation massacre",
+    "year": "1838",
+    "partOfLabel": "Great Trek",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q48817630",
+    "itemLabel": "Candia massacre",
+    "year": "1898",
+    "partOfLabel": "Late Ottoman genocides",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104803838",
+    "itemLabel": "Axum massacre",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16551154",
+    "itemLabel": "Gondrand massacre",
+    "year": "1936",
+    "partOfLabel": "Second Italo-Ethiopian War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q125462242",
+    "itemLabel": "Engineer's Building strike and massacre",
+    "year": "2023",
+    "partOfLabel": "Gaza War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130537194",
+    "itemLabel": "Al-Aqsa Hospital massacre",
+    "year": "2024",
+    "partOfLabel": "Gaza War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124880810",
+    "itemLabel": "1996 Erbil massacre",
+    "year": "1996",
+    "partOfLabel": "Iraqi Kurdish Civil War",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130357266",
+    "itemLabel": "Kirindera massacre",
+    "year": "2023",
+    "partOfLabel": "Allied Democratic Forces insurgency",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23073905",
+    "itemLabel": "Waterloo Bay massacre",
+    "year": "1849",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "4"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1437936",
@@ -2079,17 +2114,38 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q97841616",
-    "itemLabel": "Kipupu massacre",
-    "year": "2020",
-    "partOfLabel": "Kivu conflict",
+    "item": "http://www.wikidata.org/entity/Q3297502",
+    "itemLabel": "Moulin de l'Agau massacre",
+    "year": "1703",
+    "partOfLabel": "War of the Camisards",
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126689980",
-    "itemLabel": "Byian Phyu massacre",
-    "year": "2024",
-    "partOfLabel": "Myanmar civil war",
+    "item": "http://www.wikidata.org/entity/Q4881768",
+    "itemLabel": "Bela Crkva massacre",
+    "year": "1999",
+    "partOfLabel": "NATO bombing of Yugoslavia",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4947113",
+    "itemLabel": "Bosanska Jagodina massacre",
+    "year": "1992",
+    "partOfLabel": "Višegrad massacres",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4216627",
+    "itemLabel": "Manuel Carrascalão House massacre",
+    "year": "1999",
+    "partOfLabel": "1999 East Timorese crisis",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q86667214",
+    "itemLabel": "Lemera massacre",
+    "year": "1996",
+    "partOfLabel": "Kivu conflict",
     "sitelinks": "3"
   },
   {
@@ -2100,10 +2156,31 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104816483",
-    "itemLabel": "Hagere Selam massacres",
-    "year": "2020",
-    "partOfLabel": "Tigray war",
+    "item": "http://www.wikidata.org/entity/Q76515992",
+    "itemLabel": "Cayara massacre",
+    "year": "1988",
+    "partOfLabel": "internal conflict in Peru",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6110172",
+    "itemLabel": "Jabidah massacre",
+    "year": "1968",
+    "partOfLabel": "North Borneo dispute",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8065131",
+    "itemLabel": "Zaklopača massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8079711",
+    "itemLabel": "Čemerno massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "3"
   },
   {
@@ -2114,24 +2191,10 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123079232",
-    "itemLabel": "AL-Najjar family massacre",
-    "year": "2023",
-    "partOfLabel": "Gaza war",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123798802",
-    "itemLabel": "Shadia Abu Ghazala school massacre",
-    "year": "2023",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124296183",
-    "itemLabel": "Niederkaina massacre",
-    "year": "1945",
-    "partOfLabel": "Eastern Front",
+    "item": "http://www.wikidata.org/entity/Q73644053",
+    "itemLabel": "LeBaron family massacre",
+    "year": "2019",
+    "partOfLabel": "Mexican drug war",
     "sitelinks": "3"
   },
   {
@@ -2142,10 +2205,66 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5180256",
+    "itemLabel": "Crabb Massacre",
+    "year": "1857",
+    "partOfLabel": "Reform War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7651045",
+    "itemLabel": "Suzhou massacre",
+    "year": "1863",
+    "partOfLabel": "Taiping Rebellion",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8963148",
+    "itemLabel": "Heredia massacre",
+    "year": "1834",
+    "partOfLabel": "First Carlist War",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7676655",
     "itemLabel": "Taiyuan Massacre",
     "year": "1900",
     "partOfLabel": "Boxer Rebellion",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6784484",
+    "itemLabel": "Massacre of Mullaghmast",
+    "year": "1577",
+    "partOfLabel": "Tudor conquest of Ireland",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110575722",
+    "itemLabel": "Aiud massacre",
+    "year": "1849",
+    "partOfLabel": "Hungarian Revolution of 1848",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60741025",
+    "itemLabel": "Sumpul River massacre",
+    "year": "1980",
+    "partOfLabel": "Salvadoran Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60630097",
+    "itemLabel": "Yirgou massacre",
+    "year": "2019",
+    "partOfLabel": "Jihadist insurgency in Burkina Faso",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60761897",
+    "itemLabel": "Massacre at 11th Parallel",
+    "year": "1961",
+    "partOfLabel": "genocide of indigenous peoples in Brazil",
     "sitelinks": "3"
   },
   {
@@ -2163,10 +2282,45 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7651045",
-    "itemLabel": "Suzhou massacre",
-    "year": "1863",
-    "partOfLabel": "Taiping Rebellion",
+    "item": "http://www.wikidata.org/entity/Q9325281",
+    "itemLabel": "Batih massacre",
+    "year": "1652",
+    "partOfLabel": "Khmelnytsky Uprising",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11155508",
+    "itemLabel": "Vranić massacre",
+    "year": "1943",
+    "partOfLabel": "World War II in Yugoslavia",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124296183",
+    "itemLabel": "Niederkaina massacre",
+    "year": "1945",
+    "partOfLabel": "Eastern Front",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113624927",
+    "itemLabel": "Chouf massacres",
+    "year": "1977",
+    "partOfLabel": "Lebanese Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q114352177",
+    "itemLabel": "Qaa massacre",
+    "year": "1978",
+    "partOfLabel": "Lebanese Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106610573",
+    "itemLabel": "Zalambessa massacre",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
     "sitelinks": "3"
   },
   {
@@ -2177,38 +2331,73 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q130357266",
-    "itemLabel": "Kirindera massacre",
+    "item": "http://www.wikidata.org/entity/Q114352704",
+    "itemLabel": "Alvor massacre",
+    "year": "1189",
+    "partOfLabel": "Third Crusade",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123798802",
+    "itemLabel": "Shadia Abu Ghazala school massacre",
     "year": "2023",
-    "partOfLabel": "Allied Democratic Forces insurgency",
+    "partOfLabel": "Gaza War",
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5180256",
-    "itemLabel": "Crabb Massacre",
-    "year": "1857",
-    "partOfLabel": "Reform War",
+    "item": "http://www.wikidata.org/entity/Q117196816",
+    "itemLabel": "Rawandiz massacre",
+    "year": "1916",
+    "partOfLabel": "World War I",
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4881768",
-    "itemLabel": "Bela Crkva massacre",
-    "year": "1999",
-    "partOfLabel": "NATO bombing of Yugoslavia",
+    "item": "http://www.wikidata.org/entity/Q116265507",
+    "itemLabel": "Biak massacre",
+    "year": "1998",
+    "partOfLabel": "Papua conflict",
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q122663172",
-    "itemLabel": "La Hoyada massacre",
-    "year": "1988",
-    "partOfLabel": "Blacklist Campaign",
+    "item": "http://www.wikidata.org/entity/Q17108094",
+    "itemLabel": "Massacre of the Sixty",
+    "year": "1974",
+    "partOfLabel": "Ethiopian Civil War",
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131444632",
-    "itemLabel": "2024 Cité Soleil massacre",
-    "year": "2024",
-    "partOfLabel": "Gang war in Haiti",
+    "item": "http://www.wikidata.org/entity/Q135837501",
+    "itemLabel": "Komanda massacre",
+    "year": "2025",
+    "partOfLabel": "Ituri conflict",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134965876",
+    "itemLabel": "Yelwata massacre",
+    "year": "2025",
+    "partOfLabel": "religious violence in Nigeria",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127260118",
+    "itemLabel": "1987 Dhein massacre",
+    "year": "1987",
+    "partOfLabel": "Second Sudanese Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q117101214",
+    "itemLabel": "Tar Taing massacre",
+    "year": "2023",
+    "partOfLabel": "Myanmar Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q117212534",
+    "itemLabel": "Pinlaung massacre",
+    "year": "2023",
+    "partOfLabel": "Myanmar Civil War",
     "sitelinks": "3"
   },
   {
@@ -2219,10 +2408,157 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q17078080",
+    "itemLabel": "Manili massacre",
+    "year": "1971",
+    "partOfLabel": "Moro conflict",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131444632",
+    "itemLabel": "2024 Cité Soleil massacre",
+    "year": "2024",
+    "partOfLabel": "Gang war in Haiti",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108131617",
+    "itemLabel": "Humera massacre",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27629742",
+    "itemLabel": "Beni massacre",
+    "year": "2016",
+    "partOfLabel": "Kivu conflict",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q117286726",
+    "itemLabel": "Chimbolo massacre",
+    "year": "2022",
+    "partOfLabel": "Central African Republic Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123079232",
+    "itemLabel": "AL-Najjar family massacre",
+    "year": "2023",
+    "partOfLabel": "Gaza War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q117312596",
+    "itemLabel": "Mukondi massacre",
+    "year": "2023",
+    "partOfLabel": "Kivu conflict",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97841616",
+    "itemLabel": "Kipupu massacre",
+    "year": "2020",
+    "partOfLabel": "Kivu conflict",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122663172",
+    "itemLabel": "La Hoyada massacre",
+    "year": "1988",
+    "partOfLabel": "Blacklist Campaign",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12282298",
+    "itemLabel": "Kavarna massacre",
+    "year": "1877",
+    "partOfLabel": "Tenth Russo-Turkish War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28408103",
+    "itemLabel": "Bukovica massacre",
+    "year": "1943",
+    "partOfLabel": "World War II in Yugoslavia",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q48723698",
+    "itemLabel": "Putis massacre",
+    "year": "1984",
+    "partOfLabel": "internal conflict in Peru",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55391616",
+    "itemLabel": "2004 Lahsuna massacre",
+    "year": "2004",
+    "partOfLabel": "Naxalite–Maoist insurgency",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12295070",
+    "itemLabel": "Stara Zagora massacre",
+    "year": "1877",
+    "partOfLabel": "Tenth Russo-Turkish War",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5471940",
     "itemLabel": "Fort Robinson massacre",
     "year": "1879",
     "partOfLabel": "Northern Cheyenne Exodus",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126689980",
+    "itemLabel": "Byian Phyu massacre",
+    "year": "2024",
+    "partOfLabel": "Myanmar Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30323874",
+    "itemLabel": "Tullyvallen Orange Hall massacre",
+    "year": "1975",
+    "partOfLabel": "The Troubles",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12273842",
+    "itemLabel": "Boyadzhik massacre",
+    "year": "1876",
+    "partOfLabel": "April Uprising of 1876",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126478250",
+    "itemLabel": "Nuer massacre",
+    "year": "2013",
+    "partOfLabel": "ethnic violence in South Sudan",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12755010",
+    "itemLabel": "Massacre in Pljevlja, Priboj, Foča and Čajniče",
+    "year": "1943",
+    "partOfLabel": "World War II in Yugoslavia",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12761203",
+    "itemLabel": "Drugovac Massacre",
+    "year": "1944",
+    "partOfLabel": "World War II in Yugoslavia",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104816483",
+    "itemLabel": "Hagere Selam massacres",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
     "sitelinks": "3"
   },
   {
@@ -2254,237 +2590,6 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6110172",
-    "itemLabel": "Jabidah massacre",
-    "year": "1968",
-    "partOfLabel": "North Borneo dispute",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4216627",
-    "itemLabel": "Manuel Carrascalão House massacre",
-    "year": "1999",
-    "partOfLabel": "1999 East Timorese crisis",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q86667214",
-    "itemLabel": "Lemera massacre",
-    "year": "1996",
-    "partOfLabel": "Kivu conflict",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q76515992",
-    "itemLabel": "Cayara massacre",
-    "year": "1988",
-    "partOfLabel": "internal conflict in Peru",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28408103",
-    "itemLabel": "Bukovica massacre",
-    "year": "1943",
-    "partOfLabel": "World War II in Yugoslavia",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7126011",
-    "itemLabel": "Paklenik massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17078080",
-    "itemLabel": "Manili massacre",
-    "year": "1971",
-    "partOfLabel": "Moro conflict",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48723698",
-    "itemLabel": "Putis massacre",
-    "year": "1984",
-    "partOfLabel": "internal conflict in Peru",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8963148",
-    "itemLabel": "Heredia massacre",
-    "year": "1834",
-    "partOfLabel": "First Carlist War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q73644053",
-    "itemLabel": "LeBaron family massacre",
-    "year": "2019",
-    "partOfLabel": "Mexican drug war",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8065131",
-    "itemLabel": "Zaklopača massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8079711",
-    "itemLabel": "Čemerno massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6784484",
-    "itemLabel": "Massacre of Mullaghmast",
-    "year": "1577",
-    "partOfLabel": "Tudor conquest of Ireland",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q127260118",
-    "itemLabel": "1987 Dhein massacre",
-    "year": "1987",
-    "partOfLabel": "Second Sudanese Civil War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8065137",
-    "itemLabel": "1990 Zakoora and Tengpora massacre",
-    "year": "1990",
-    "partOfLabel": "insurgency in Jammu and Kashmir",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9325281",
-    "itemLabel": "Batih massacre",
-    "year": "1652",
-    "partOfLabel": "Khmelnytsky Uprising",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134965876",
-    "itemLabel": "Yelwata massacre",
-    "year": "2025",
-    "partOfLabel": "religious violence in Nigeria",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30323874",
-    "itemLabel": "Tullyvallen Orange Hall massacre",
-    "year": "1975",
-    "partOfLabel": "The Troubles",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q110575722",
-    "itemLabel": "Aiud massacre",
-    "year": "1849",
-    "partOfLabel": "Hungarian Revolution of 1848",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11155508",
-    "itemLabel": "Vranić massacre",
-    "year": "1943",
-    "partOfLabel": "Chetnik war crimes in World War II",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q117196816",
-    "itemLabel": "Rawandiz massacre",
-    "year": "1916",
-    "partOfLabel": "World War I",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q135837501",
-    "itemLabel": "Komanda massacre",
-    "year": "2025",
-    "partOfLabel": "Allied Democratic Forces insurgency",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60741025",
-    "itemLabel": "Sumpul River massacre",
-    "year": "1980",
-    "partOfLabel": "Salvadoran Civil War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q114352704",
-    "itemLabel": "Alvor massacre",
-    "year": "1189",
-    "partOfLabel": "Third Crusade",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q114352177",
-    "itemLabel": "Qaa massacre",
-    "year": "1978",
-    "partOfLabel": "Lebanese Civil War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q116265507",
-    "itemLabel": "Biak massacre",
-    "year": "1998",
-    "partOfLabel": "Papua conflict",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60630097",
-    "itemLabel": "Yirgou massacre",
-    "year": "2019",
-    "partOfLabel": "Jihadist insurgency in Burkina Faso",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60761897",
-    "itemLabel": "Massacre at 11th Parallel",
-    "year": "1961",
-    "partOfLabel": "genocide of indigenous peoples in Brazil",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q117101214",
-    "itemLabel": "Tar Taing massacre",
-    "year": "2023",
-    "partOfLabel": "Myanmar civil war",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q117212534",
-    "itemLabel": "Pinlaung massacre",
-    "year": "2023",
-    "partOfLabel": "Myanmar civil war",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12273842",
-    "itemLabel": "Boyadzhik massacre",
-    "year": "1876",
-    "partOfLabel": "April Uprising of 1876",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12755010",
-    "itemLabel": "Massacre in Pljevlja, Priboj, Foča and Čajniče",
-    "year": "1943",
-    "partOfLabel": "World War II in Yugoslavia",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12761203",
-    "itemLabel": "Drugovac Massacre",
-    "year": "1944",
-    "partOfLabel": "World War II in Yugoslavia",
-    "sitelinks": "3"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q12369972",
     "itemLabel": "NKVD prisoner massacre in Tartu",
     "year": "1941",
@@ -2492,31 +2597,10 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q23073905",
-    "itemLabel": "Waterloo Bay massacre",
-    "year": "1849",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12282298",
-    "itemLabel": "Kavarna massacre",
-    "year": "1877",
-    "partOfLabel": "Tenth Russo-Turkish War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12295070",
-    "itemLabel": "Stara Zagora massacre",
-    "year": "1877",
-    "partOfLabel": "Tenth Russo-Turkish War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20635420",
-    "itemLabel": "Qalb Loze massacre",
-    "year": "2015",
-    "partOfLabel": "Syrian Civil War",
+    "item": "http://www.wikidata.org/entity/Q13085362",
+    "itemLabel": "Biljani massacre",
+    "year": "1992",
+    "partOfLabel": "War in Bosnia and Herzegovina",
     "sitelinks": "3"
   },
   {
@@ -2527,6 +2611,20 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q20635420",
+    "itemLabel": "Qalb Loze massacre",
+    "year": "2015",
+    "partOfLabel": "Syrian Civil War",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22948704",
+    "itemLabel": "2016 Mosul massacre",
+    "year": "2016",
+    "partOfLabel": "Iraqi Civil War of 2014–2017",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q23640728",
     "itemLabel": "Aishiyeh massacres",
     "year": "1976",
@@ -2534,24 +2632,10 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q117286726",
-    "itemLabel": "Chimbolo massacre",
-    "year": "2022",
-    "partOfLabel": "Central African Republic Civil War",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3718445",
-    "itemLabel": "Partinico massacre",
-    "year": "1860",
-    "partOfLabel": "Expedition of the Thousand",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1030316",
-    "itemLabel": "Campaspe Plains massacre",
-    "year": "1838",
-    "partOfLabel": "Australian frontier wars",
+    "item": "http://www.wikidata.org/entity/Q3718410",
+    "itemLabel": "Aldriga massacre",
+    "year": "1943",
+    "partOfLabel": "World War II",
     "sitelinks": "2"
   },
   {
@@ -2562,52 +2646,17 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q124726546",
-    "itemLabel": "Merawi massacre",
-    "year": "2024",
-    "partOfLabel": "War in Amhara",
+    "item": "http://www.wikidata.org/entity/Q3718445",
+    "itemLabel": "Partinico massacre",
+    "year": "1860",
+    "partOfLabel": "Expedition of the Thousand",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q124736286",
-    "itemLabel": "Nondin and Soro massacres",
-    "year": "2024",
-    "partOfLabel": "Jihadist insurgency in Burkina Faso",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124537822",
-    "itemLabel": "Rafah Massacre (12 February 2024)",
-    "year": "2024",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3718410",
-    "itemLabel": "Aldriga massacre",
-    "year": "1943",
-    "partOfLabel": "World War II",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123396974",
-    "itemLabel": "Al-Za'anin family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124131127",
-    "itemLabel": "Khan Yunis massacre",
-    "year": "2023",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2639189",
-    "itemLabel": "Massacre of Zutphen",
-    "year": "1572",
-    "partOfLabel": "Eighty Years' War",
+    "item": "http://www.wikidata.org/entity/Q4591230",
+    "itemLabel": "1996 Bathani Tola massacre",
+    "year": "1996",
+    "partOfLabel": "caste-related violence in India",
     "sitelinks": "2"
   },
   {
@@ -2618,73 +2667,31 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126478250",
-    "itemLabel": "Nuer massacre",
-    "year": "2013",
-    "partOfLabel": "South Sudanese Civil War",
+    "item": "http://www.wikidata.org/entity/Q2639189",
+    "itemLabel": "Massacre of Zutphen",
+    "year": "1572",
+    "partOfLabel": "Eighty Years' War",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q97169642",
-    "itemLabel": "Ekité Massacre",
-    "year": "1956",
-    "partOfLabel": "Bamileke War",
+    "item": "http://www.wikidata.org/entity/Q4843098",
+    "itemLabel": "Bahçelievler massacre",
+    "year": "1978",
+    "partOfLabel": "Political violence in Turkey (1976–1980)",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104816386",
-    "itemLabel": "Adigrat massacres",
-    "year": "2020",
-    "partOfLabel": "Tigray war",
+    "item": "http://www.wikidata.org/entity/Q4907195",
+    "itemLabel": "1993 Bijbehara massacre",
+    "year": "1993",
+    "partOfLabel": "Kashmir conflict",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104816446",
-    "itemLabel": "Hitsats massacre",
-    "year": "2020",
-    "partOfLabel": "Tigray war",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q96391638",
-    "itemLabel": "Malay Bay massacre",
-    "year": "1893",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q97354711",
-    "itemLabel": "Dursey Massacre",
-    "year": "1602",
-    "partOfLabel": "Nine Years' War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123746470",
-    "itemLabel": "Dhurma Massacre",
-    "year": "1818",
-    "partOfLabel": "Nejd Expedition",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124308988",
-    "itemLabel": "Honduras and La Negra farms massacre",
-    "year": "1988",
-    "partOfLabel": "Colombian conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q126923394",
-    "itemLabel": "Lisasa massacre",
-    "year": "2020",
-    "partOfLabel": "Kivu conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107272606",
-    "itemLabel": "Les Cayes massacre",
-    "year": "1929",
-    "partOfLabel": "United States occupation of Haiti",
+    "item": "http://www.wikidata.org/entity/Q5021710",
+    "itemLabel": "Santa massacre",
+    "year": "1992",
+    "partOfLabel": "internal conflict in Peru",
     "sitelinks": "2"
   },
   {
@@ -2695,17 +2702,80 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q61363090",
-    "itemLabel": "Velika Broda massacre",
-    "year": "1994",
-    "partOfLabel": "War in Bosnia and Herzegovina",
+    "item": "http://www.wikidata.org/entity/Q9002364",
+    "itemLabel": "1937 La Fatarella massacre",
+    "year": "1937",
+    "partOfLabel": "Spanish Civil War",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q133092132",
-    "itemLabel": "Al-Kadaris and Al-Khelwat massacres",
-    "year": "2025",
-    "partOfLabel": "War crimes during the Sudanese civil war",
+    "item": "http://www.wikidata.org/entity/Q65120665",
+    "itemLabel": "Fighting Waterholes massacre",
+    "year": "1840",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75738961",
+    "itemLabel": "Massacre of workers of November 15, 1922",
+    "year": "1922",
+    "partOfLabel": "1922 Guayaquil general strike",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75831883",
+    "itemLabel": "1997 Melavalavu massacre",
+    "year": "1997",
+    "partOfLabel": "caste-related violence in India",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6368320",
+    "itemLabel": "Karamchedu massacre",
+    "year": "1985",
+    "partOfLabel": "caste-related violence in India",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q93768963",
+    "itemLabel": "Laxmanpur Bathe massacre",
+    "year": "1997",
+    "partOfLabel": "caste-related violence in India",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60762910",
+    "itemLabel": "Hidroelektra workers massacre",
+    "year": "1993",
+    "partOfLabel": "Algerian Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6741105",
+    "itemLabel": "Malaita massacre",
+    "year": "1927",
+    "partOfLabel": "Solomon Islands",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111210487",
+    "itemLabel": "Danguèrè Wotoro massacre",
+    "year": "2022",
+    "partOfLabel": "Mali War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1030316",
+    "itemLabel": "Campaspe Plains massacre",
+    "year": "1838",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9002365",
+    "itemLabel": "La Gleva Massacre",
+    "year": "1714",
+    "partOfLabel": "War of the Spanish Succession",
     "sitelinks": "2"
   },
   {
@@ -2723,17 +2793,220 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106925387",
-    "itemLabel": "Ategorrieta massacre",
-    "year": "1931",
-    "partOfLabel": "Political violence in Spain (1931–1936)",
+    "item": "http://www.wikidata.org/entity/Q134178826",
+    "itemLabel": "Zamzam and Abu Shouk refugee camp massacres",
+    "year": "2024",
+    "partOfLabel": "Siege of El Fasher",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106610573",
-    "itemLabel": "Zalambessa massacre",
-    "year": "2020",
-    "partOfLabel": "Tigray war",
+    "item": "http://www.wikidata.org/entity/Q57552013",
+    "itemLabel": "Bravnice massacre",
+    "year": "1995",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61363090",
+    "itemLabel": "Velika Broda massacre",
+    "year": "1994",
+    "partOfLabel": "War in Bosnia and Herzegovina",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8875447",
+    "itemLabel": "Brzuska Massacre",
+    "year": "1945",
+    "partOfLabel": "World War II",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8875501",
+    "itemLabel": "Sivchyn massacre",
+    "year": "1945",
+    "partOfLabel": "World War II",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q85800725",
+    "itemLabel": "She'eb massacre",
+    "year": "1988",
+    "partOfLabel": "Eritrean War of Independence",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5116261",
+    "itemLabel": "Tsunduru massacre",
+    "year": "1991",
+    "partOfLabel": "caste-related violence in India",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5193032",
+    "itemLabel": "Cullin la Ringo massacre",
+    "year": "1861",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5463419",
+    "itemLabel": "Flying Foam massacre",
+    "year": "1868",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80203423",
+    "itemLabel": "Mount Cottrell massacre",
+    "year": "1836",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q85814623",
+    "itemLabel": "Waterloo Plains massacre",
+    "year": "1835",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96391638",
+    "itemLabel": "Malay Bay massacre",
+    "year": "1893",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q138681127",
+    "itemLabel": "Warrigal Creek Massacre",
+    "year": "1843",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8875410",
+    "itemLabel": "Bakhiv massacre",
+    "year": "1945",
+    "partOfLabel": "Polish–Ukrainian conflict",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9030414",
+    "itemLabel": "Cortijo del Enjembraero massacre",
+    "year": "1949",
+    "partOfLabel": "Anti-Partisan War in Spain",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q138798714",
+    "itemLabel": "1965 Juba and Wau massacres",
+    "year": "1965",
+    "partOfLabel": "First Sudanese Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108871071",
+    "itemLabel": "Massacre des Dominicains d'Arcueil",
+    "year": "1871",
+    "partOfLabel": "Paris Commune",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136547626",
+    "itemLabel": "Bigaragara mine massacre",
+    "year": "2022",
+    "partOfLabel": "Kivu conflict",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60763970",
+    "itemLabel": "Fighting Hills massacre",
+    "year": "1840",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110792906",
+    "itemLabel": "Queiq River massacre",
+    "year": "2013",
+    "partOfLabel": "Syrian Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q137845546",
+    "itemLabel": "2026 Rasht massacre",
+    "year": "2026",
+    "partOfLabel": "2026 Iran massacres",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11901245",
+    "itemLabel": "Vihti Massacre of 1918",
+    "year": "1918",
+    "partOfLabel": "Finnish Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136048221",
+    "itemLabel": "Umogidi massacre",
+    "year": "2023",
+    "partOfLabel": "Herder–farmer conflicts in Nigeria",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136048223",
+    "itemLabel": "Mgban massacre",
+    "year": "2023",
+    "partOfLabel": "Herder–farmer conflicts in Nigeria",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136126152",
+    "itemLabel": "Khash massacre",
+    "year": "2022",
+    "partOfLabel": "Mahsa Amini protests",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136440260",
+    "itemLabel": "Manjacaze massacre",
+    "year": "1987",
+    "partOfLabel": "Mozambican Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6520890",
+    "itemLabel": "Leliefontein massacre",
+    "year": "1902",
+    "partOfLabel": "Second Boer War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124308988",
+    "itemLabel": "Honduras and La Negra farms massacre",
+    "year": "1988",
+    "partOfLabel": "Colombian conflict",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108597603",
+    "itemLabel": "Vumba massacre",
+    "year": "1978",
+    "partOfLabel": "Rhodesian Bush War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109941596",
+    "itemLabel": "Senkata massacre",
+    "year": "2019",
+    "partOfLabel": "2019 Senkata and Sacaba massacres",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q667203",
+    "itemLabel": "Blood Hole Massacre",
+    "year": "1839",
+    "partOfLabel": "Australian frontier wars",
     "sitelinks": "2"
   },
   {
@@ -2779,17 +3052,143 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q130377205",
-    "itemLabel": "Bulongo massacre",
+    "item": "http://www.wikidata.org/entity/Q112976893",
+    "itemLabel": "Sohagpur massacre",
+    "year": "1971",
+    "partOfLabel": "Bangladesh genocide",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113839957",
+    "itemLabel": "Hombori massacre",
+    "year": "2022",
+    "partOfLabel": "Mali War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104857425",
+    "itemLabel": "Santa Rita massacre",
+    "year": "1982",
+    "partOfLabel": "Salvadoran Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123746470",
+    "itemLabel": "Dhurma Massacre",
+    "year": "1818",
+    "partOfLabel": "Nejd Expedition",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17037153",
+    "itemLabel": "Musha Church Massacre",
+    "year": "1994",
+    "partOfLabel": "1994 Genocide against Tutsi",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9388685",
+    "itemLabel": "Teresin massacre",
+    "year": "1943",
+    "partOfLabel": "Massacres of Poles in Volhynia and Eastern Galicia",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q116205195",
+    "itemLabel": "Muş massacre",
+    "year": "1993",
+    "partOfLabel": "Kurdistan Workers' Party insurgency",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9388757",
+    "itemLabel": "Terka massacre",
+    "year": "1946",
+    "partOfLabel": "Polish–Ukrainian conflict",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16960631",
+    "itemLabel": "Lice massacre",
+    "year": "1993",
+    "partOfLabel": "Kurdistan Workers' Party insurgency",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q135650032",
+    "itemLabel": "Benachour massacre of 5 January 1997",
+    "year": "1997",
+    "partOfLabel": "Algerian Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q135650315",
+    "itemLabel": "Benachour massacre of 5 December 1996",
+    "year": "1996",
+    "partOfLabel": "Algerian Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124131127",
+    "itemLabel": "Khan Yunis massacre",
+    "year": "2023",
+    "partOfLabel": "Gaza War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122741015",
+    "itemLabel": "1941 Białystok massacres",
+    "year": "1941",
+    "partOfLabel": "The Holocaust",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q135921217",
+    "itemLabel": "Massacre of Warsheikh",
+    "year": "1890",
+    "partOfLabel": "Italian Somali Wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127514446",
+    "itemLabel": "Mwenda massacre",
     "year": "2021",
     "partOfLabel": "Allied Democratic Forces insurgency",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q130471959",
-    "itemLabel": "Maimoya highway massacre",
-    "year": "2021",
-    "partOfLabel": "Allied Democratic Forces insurgency",
+    "item": "http://www.wikidata.org/entity/Q6986960",
+    "itemLabel": "Neerukonda massacre",
+    "year": "1987",
+    "partOfLabel": "caste-related violence in India",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q118902351",
+    "itemLabel": "Kalofer massacre",
+    "year": "1878",
+    "partOfLabel": "Tenth Russo-Turkish War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123396974",
+    "itemLabel": "Al-Za'anin family massacre",
+    "year": "2023",
+    "partOfLabel": "Gaza genocide",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q116147735",
+    "itemLabel": "Massacre of the Telal",
+    "year": "1517",
+    "partOfLabel": "Ottoman–Mamluk War of 1516–17",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107272606",
+    "itemLabel": "Les Cayes massacre",
+    "year": "1929",
+    "partOfLabel": "United States occupation of Haiti",
     "sitelinks": "2"
   },
   {
@@ -2849,24 +3248,24 @@
     "sitelinks": "2"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q137639626",
+    "itemLabel": "2001 Bunia clashes and massacre",
+    "year": "2001",
+    "partOfLabel": "Ituri conflict",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q121854908",
+    "itemLabel": "Massacres of Albanians in World War I",
+    "year": "1914",
+    "partOfLabel": "Yugoslav colonization of Kosovo",
+    "sitelinks": "2"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q133094170",
     "itemLabel": "Salmas massacre",
     "year": "1918",
     "partOfLabel": "Sayfo",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5116261",
-    "itemLabel": "Tsunduru massacre",
-    "year": "1991",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6741105",
-    "itemLabel": "Malaita massacre",
-    "year": "1927",
-    "partOfLabel": "Solomon Islands",
     "sitelinks": "2"
   },
   {
@@ -2877,59 +3276,31 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q122741015",
-    "itemLabel": "1941 Białystok massacres",
-    "year": "1941",
-    "partOfLabel": "The Holocaust",
+    "item": "http://www.wikidata.org/entity/Q106925387",
+    "itemLabel": "Ategorrieta massacre",
+    "year": "1931",
+    "partOfLabel": "Political violence in Spain (1931–1936)",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4947113",
-    "itemLabel": "Bosanska Jagodina massacre",
-    "year": "1992",
-    "partOfLabel": "Višegrad massacres",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5193032",
-    "itemLabel": "Cullin la Ringo massacre",
-    "year": "1861",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104857425",
-    "itemLabel": "Santa Rita massacre",
-    "year": "1982",
-    "partOfLabel": "Salvadoran Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q24935666",
-    "itemLabel": "Maykop Massacre",
-    "year": "1918",
-    "partOfLabel": "Russian Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5021710",
-    "itemLabel": "Santa massacre",
-    "year": "1992",
-    "partOfLabel": "internal conflict in Peru",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8875447",
-    "itemLabel": "Brzuska Massacre",
-    "year": "1945",
+    "item": "http://www.wikidata.org/entity/Q31284270",
+    "itemLabel": "Kleisoura massacre 1944",
+    "year": "1944",
     "partOfLabel": "World War II",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8875501",
-    "itemLabel": "Sivchyn massacre",
-    "year": "1945",
-    "partOfLabel": "World War II",
+    "item": "http://www.wikidata.org/entity/Q27972878",
+    "itemLabel": "Zagaje massacre",
+    "year": "1943",
+    "partOfLabel": "Volhynian Bloody Sunday (1943-07-11)",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56400343",
+    "itemLabel": "Cuangar massacre",
+    "year": "1914",
+    "partOfLabel": "German campaign in Angola",
     "sitelinks": "2"
   },
   {
@@ -2940,136 +3311,10 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5463419",
-    "itemLabel": "Flying Foam massacre",
-    "year": "1868",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q131438027",
-    "itemLabel": "1981–1982 Iran Massacres",
-    "year": "1981",
-    "partOfLabel": "consolidation of the Iranian Revolution",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6520890",
-    "itemLabel": "Leliefontein massacre",
-    "year": "1902",
-    "partOfLabel": "Second Boer War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6005113",
-    "itemLabel": "Bagua Massacre",
-    "year": "2009",
-    "partOfLabel": "Second presidency of Alan García",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q24960934",
-    "itemLabel": "1939 Gachetá massacre",
-    "year": "1939",
-    "partOfLabel": "La Violencia",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9002364",
-    "itemLabel": "1937 La Fatarella massacre",
-    "year": "1937",
-    "partOfLabel": "Spanish Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q667203",
-    "itemLabel": "Blood Hole Massacre",
-    "year": "1839",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27629742",
-    "itemLabel": "Beni massacre",
-    "year": "2016",
-    "partOfLabel": "Kivu conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9002365",
-    "itemLabel": "La Gleva Massacre",
-    "year": "1714",
-    "partOfLabel": "War of the Spanish Succession",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q75831883",
-    "itemLabel": "1997 Melavalavu massacre",
-    "year": "1997",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93768963",
-    "itemLabel": "Laxmanpur Bathe massacre",
-    "year": "1997",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17037153",
-    "itemLabel": "Musha Church Massacre",
-    "year": "1994",
-    "partOfLabel": "1994 Genocide against Tutsi",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41108729",
-    "itemLabel": "Pozu Funeres massacre",
-    "year": "1948",
-    "partOfLabel": "White Terror (Spain)",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41599927",
-    "itemLabel": "Alía massacre",
-    "year": "1942",
-    "partOfLabel": "White Terror (Spain)",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q42852327",
-    "itemLabel": "Bachelor's Walk massacre",
-    "year": "1914",
-    "partOfLabel": "Howth gun-running",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48842103",
-    "itemLabel": "Jasiel massacre",
-    "year": "1946",
-    "partOfLabel": "Polish–Ukrainian conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8875410",
-    "itemLabel": "Bakhiv massacre",
-    "year": "1945",
-    "partOfLabel": "Polish–Ukrainian conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9030414",
-    "itemLabel": "Cortijo del Enjembraero massacre",
-    "year": "1949",
-    "partOfLabel": "White Terror (Spain)",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q85800725",
-    "itemLabel": "She'eb massacre",
-    "year": "1988",
-    "partOfLabel": "Eritrean War of Independence",
+    "item": "http://www.wikidata.org/entity/Q133092132",
+    "itemLabel": "Al-Kadaris and Al-Khelwat massacres",
+    "year": "2025",
+    "partOfLabel": "War crimes during the Sudanese civil war",
     "sitelinks": "2"
   },
   {
@@ -3087,241 +3332,17 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17108094",
-    "itemLabel": "Massacre of the Sixty",
-    "year": "1974",
-    "partOfLabel": "Ethiopian Civil War",
+    "item": "http://www.wikidata.org/entity/Q97169642",
+    "itemLabel": "Ekité Massacre",
+    "year": "1956",
+    "partOfLabel": "Bamileke War",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6986960",
-    "itemLabel": "Neerukonda massacre",
-    "year": "1987",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q127166696",
-    "itemLabel": "Abeïbara massacres",
-    "year": "2024",
-    "partOfLabel": "Mali War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q127514446",
-    "itemLabel": "Mwenda massacre",
-    "year": "2021",
-    "partOfLabel": "Allied Democratic Forces insurgency",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q31284270",
-    "itemLabel": "Kleisoura massacre 1944",
-    "year": "1944",
-    "partOfLabel": "World War II",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9388685",
-    "itemLabel": "Teresin massacre",
-    "year": "1943",
-    "partOfLabel": "Massacres of Poles in Volhynia and Eastern Galicia",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108871071",
-    "itemLabel": "Massacre des Dominicains d'Arcueil",
-    "year": "1871",
-    "partOfLabel": "Paris Commune",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q110792906",
-    "itemLabel": "Queiq River massacre",
-    "year": "2013",
-    "partOfLabel": "Syrian Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4591230",
-    "itemLabel": "1996 Bathani Tola massacre",
-    "year": "1996",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4843098",
-    "itemLabel": "Bahçelievler massacre",
-    "year": "1978",
-    "partOfLabel": "Political violence in Turkey (1976–1980)",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q112061786",
-    "itemLabel": "Bongboto massacre",
-    "year": "2021",
-    "partOfLabel": "Central African Republic Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q109941596",
-    "itemLabel": "Senkata massacre",
-    "year": "2019",
-    "partOfLabel": "2019 Senkata and Sacaba massacres",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27972878",
-    "itemLabel": "Zagaje massacre",
-    "year": "1943",
-    "partOfLabel": "Volhynian Bloody Sunday (1943-07-11)",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16058112",
-    "itemLabel": "Adityapur massacre",
-    "year": "1971",
-    "partOfLabel": "Bangladesh genocide",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6368320",
-    "itemLabel": "Karamchedu massacre",
-    "year": "1985",
-    "partOfLabel": "caste-related violence in India",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9388757",
-    "itemLabel": "Terka massacre",
-    "year": "1946",
-    "partOfLabel": "Polish–Ukrainian conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16412478",
-    "itemLabel": "Massacre at Novoizborsk station",
-    "year": "1919",
-    "partOfLabel": "Estonian War of Independence",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16892404",
-    "itemLabel": "Hornet Bank massacre",
-    "year": "1857",
-    "partOfLabel": "Australian frontier wars",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11901245",
-    "itemLabel": "Vihti Massacre of 1918",
-    "year": "1918",
-    "partOfLabel": "Finnish Red Terror",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108597603",
-    "itemLabel": "Vumba massacre",
-    "year": "1978",
-    "partOfLabel": "Rhodesian Bush War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q112976893",
-    "itemLabel": "Sohagpur massacre",
-    "year": "1971",
-    "partOfLabel": "Bangladesh genocide",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16960631",
-    "itemLabel": "Lice massacre",
-    "year": "1993",
-    "partOfLabel": "Kurdistan Workers' Party insurgency",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q55391616",
-    "itemLabel": "2004 Lahsuna massacre",
-    "year": "2004",
-    "partOfLabel": "Naxalite–Maoist insurgency",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q55499195",
-    "itemLabel": "Muapitine massacre",
-    "year": "1983",
-    "partOfLabel": "Indonesian occupation of East Timor",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q56400343",
-    "itemLabel": "Cuangar massacre",
-    "year": "1914",
-    "partOfLabel": "German campaign in Angola",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57552013",
-    "itemLabel": "Bravnice massacre",
-    "year": "1995",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60762910",
-    "itemLabel": "Hidroelektra workers massacre",
-    "year": "1993",
-    "partOfLabel": "Algerian Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q116205195",
-    "itemLabel": "Muş massacre",
-    "year": "1993",
-    "partOfLabel": "Kurdistan Workers' Party insurgency",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q117312596",
-    "itemLabel": "Mukondi massacre",
-    "year": "2023",
-    "partOfLabel": "Kivu conflict",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q113624927",
-    "itemLabel": "Chouf massacres",
-    "year": "1977",
-    "partOfLabel": "Lebanese Civil War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q118902351",
-    "itemLabel": "Kalofer massacre",
-    "year": "1878",
-    "partOfLabel": "Tenth Russo-Turkish War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13085362",
-    "itemLabel": "Biljani massacre",
-    "year": "1992",
-    "partOfLabel": "War in Bosnia and Herzegovina",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q113839957",
-    "itemLabel": "Hombori massacre",
-    "year": "2022",
-    "partOfLabel": "Mali War",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q138798714",
-    "itemLabel": "1965 Juba and Wau massacres",
-    "year": "1965",
-    "partOfLabel": "First Sudanese Civil War",
+    "item": "http://www.wikidata.org/entity/Q97354711",
+    "itemLabel": "Dursey Massacre",
+    "year": "1602",
+    "partOfLabel": "Nine Years' War",
     "sitelinks": "2"
   },
   {
@@ -3332,66 +3353,143 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q111210487",
-    "itemLabel": "Danguèrè Wotoro massacre",
-    "year": "2022",
+    "item": "http://www.wikidata.org/entity/Q112061786",
+    "itemLabel": "Bongboto massacre",
+    "year": "2021",
+    "partOfLabel": "Central African Republic Civil War",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41108729",
+    "itemLabel": "Pozu Funeres massacre",
+    "year": "1948",
+    "partOfLabel": "White Terror (Spain)",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41599927",
+    "itemLabel": "Alía massacre",
+    "year": "1942",
+    "partOfLabel": "White Terror (Spain)",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55499195",
+    "itemLabel": "Muapitine massacre",
+    "year": "1983",
+    "partOfLabel": "Indonesian occupation of East Timor",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124537822",
+    "itemLabel": "Rafah Massacre (12 February 2024)",
+    "year": "2024",
+    "partOfLabel": "Gaza genocide",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127166696",
+    "itemLabel": "Abeïbara massacres",
+    "year": "2024",
     "partOfLabel": "Mali War",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136440260",
-    "itemLabel": "Manjacaze massacre",
-    "year": "1987",
-    "partOfLabel": "Mozambican Civil War",
+    "item": "http://www.wikidata.org/entity/Q42852327",
+    "itemLabel": "Bachelor's Walk massacre",
+    "year": "1914",
+    "partOfLabel": "Howth gun-running",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22948704",
-    "itemLabel": "2016 Mosul massacre",
-    "year": "2016",
-    "partOfLabel": "Iraqi Civil War of 2014–2017",
+    "item": "http://www.wikidata.org/entity/Q48842103",
+    "itemLabel": "Jasiel massacre",
+    "year": "1946",
+    "partOfLabel": "Polish–Ukrainian conflict",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136048221",
-    "itemLabel": "Umogidi massacre",
-    "year": "2023",
-    "partOfLabel": "Herder–farmer conflicts in Nigeria",
+    "item": "http://www.wikidata.org/entity/Q126923394",
+    "itemLabel": "Lisasa massacre",
+    "year": "2020",
+    "partOfLabel": "Kivu conflict",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136048223",
-    "itemLabel": "Mgban massacre",
-    "year": "2023",
-    "partOfLabel": "Herder–farmer conflicts in Nigeria",
+    "item": "http://www.wikidata.org/entity/Q24935666",
+    "itemLabel": "Maykop Massacre",
+    "year": "1918",
+    "partOfLabel": "Russian Civil War",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q116147735",
-    "itemLabel": "Massacre of the Telal",
-    "year": "1517",
-    "partOfLabel": "Ottoman–Mamluk War of 1516–17",
+    "item": "http://www.wikidata.org/entity/Q104816386",
+    "itemLabel": "Adigrat massacres",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q137845546",
-    "itemLabel": "2026 Rasht massacre",
-    "year": "2026",
-    "partOfLabel": "2026 Iran massacres",
+    "item": "http://www.wikidata.org/entity/Q104816446",
+    "itemLabel": "Hitsats massacre",
+    "year": "2020",
+    "partOfLabel": "Tigray war",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q134178826",
-    "itemLabel": "Zamzam and Abu Shouk refugee camp massacres",
+    "item": "http://www.wikidata.org/entity/Q24960934",
+    "itemLabel": "1939 Gachetá massacre",
+    "year": "1939",
+    "partOfLabel": "La Violencia",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16412478",
+    "itemLabel": "Massacre at Novoizborsk station",
+    "year": "1919",
+    "partOfLabel": "Estonian War of Independence",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16058112",
+    "itemLabel": "Adityapur massacre",
+    "year": "1971",
+    "partOfLabel": "Bangladesh genocide",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16892404",
+    "itemLabel": "Hornet Bank massacre",
+    "year": "1857",
+    "partOfLabel": "Australian frontier wars",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124726546",
+    "itemLabel": "Merawi massacre",
     "year": "2024",
-    "partOfLabel": "Siege of El Fasher",
+    "partOfLabel": "War in Amhara",
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136126152",
-    "itemLabel": "Khash massacre",
-    "year": "2022",
-    "partOfLabel": "Mahsa Amini protests",
+    "item": "http://www.wikidata.org/entity/Q124736286",
+    "itemLabel": "Nondin and Soro massacres",
+    "year": "2024",
+    "partOfLabel": "Jihadist insurgency in Burkina Faso",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130377205",
+    "itemLabel": "Bulongo massacre",
+    "year": "2021",
+    "partOfLabel": "Allied Democratic Forces insurgency",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130471959",
+    "itemLabel": "Maimoya highway massacre",
+    "year": "2021",
+    "partOfLabel": "Allied Democratic Forces insurgency",
     "sitelinks": "2"
   },
   {
@@ -3399,104 +3497,6 @@
     "itemLabel": "Ruvo del Monte massacre",
     "year": "1861",
     "partOfLabel": "Post-unification Italian brigandage",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124627669",
-    "itemLabel": "Abu Nahl family massacre",
-    "year": "2024",
-    "partOfLabel": "Gaza war",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124739920",
-    "itemLabel": "February 2024 Enga Province massacre",
-    "year": "2024",
-    "partOfLabel": "ethnic violence in Papua New Guinea",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123422728",
-    "itemLabel": "Al-Khayat family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123446802",
-    "itemLabel": "Al-Bashiti family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123466424",
-    "itemLabel": "Al-Tawil family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123487846",
-    "itemLabel": "Abu Hilal family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123496901",
-    "itemLabel": "Abu Eida family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123997253",
-    "itemLabel": "Al-Hawajri family massacre 2023",
-    "year": "2024",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124131132",
-    "itemLabel": "Abu Muammar family massacre",
-    "year": "2023",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124131134",
-    "itemLabel": "Kerem Shalom Crossing Massacre",
-    "year": "2023",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124158416",
-    "itemLabel": "Abu Holi family massacre",
-    "year": "2024",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124261358",
-    "itemLabel": "Abu Sunaima family massacre (11 January 2024)",
-    "year": "2024",
-    "partOfLabel": "Gaza genocide",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123707332",
-    "itemLabel": "Al Jazar family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123707333",
-    "itemLabel": "Abu Safi family massacre",
-    "year": "2023",
-    "partOfLabel": "Israeli invasion of the Gaza Strip",
     "sitelinks": "1"
   }
 ]

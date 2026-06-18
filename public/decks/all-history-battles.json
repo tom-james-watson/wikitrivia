@@ -20,16 +20,6 @@
     "pageViews": 134319
   },
   {
-    "qid": "Q180182",
-    "title": "Battle of Iwo Jima takes place",
-    "subtitle": "Battle in Volcano and Ryukyu Islands campaign",
-    "year": 1945,
-    "fact": "The Battle of Iwo Jima was a major battle in which the United States Marine Corps (USMC) and United States Navy (USN) landed on and eventually captured the island of Iwo Jima from the Imperial Japanese Army (IJA) during World War II.",
-    "wikipediaSlug": "Battle_of_Iwo_Jima",
-    "image": "Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg",
-    "pageViews": 123272
-  },
-  {
     "qid": "Q626058",
     "title": "Battle of Karbala takes place",
     "subtitle": "Battle in Second Fitna",
@@ -78,6 +68,16 @@
     "wikipediaSlug": "Battle_of_Okinawa",
     "image": "Ww2_158.jpg",
     "pageViews": 78137
+  },
+  {
+    "qid": "Q911972",
+    "title": "Dunkirk evacuation takes place",
+    "subtitle": "Battle in Battle of France",
+    "year": 1940,
+    "fact": "In the Dunkirk evacuation, codenamed Operation Dynamo and also known as the Miracle of Dunkirk, or just Dunkirk, more than 338,000 Allied soldiers were evacuated during the Second World War from the beaches and harbour of Dunkirk in northern France between 26 May and 4 June 1940.",
+    "wikipediaSlug": "Dunkirk_evacuation",
+    "image": "Dunkirk_26-29_May_1940_NYP68075.jpg",
+    "pageViews": 77326
   },
   {
     "qid": "Q188495",
@@ -212,7 +212,7 @@
   {
     "qid": "Q221469",
     "title": "First Battle of Bull Run takes place",
-    "subtitle": "Battle in Eastern Theater of the American Civil War",
+    "subtitle": "Battle in Eastern theater of the American Civil War",
     "year": 1861,
     "fact": "The First Battle of Bull Run, called the Battle of First Manassas by Confederate forces, was the first major battle of the American Civil War.",
     "wikipediaSlug": "First_Battle_of_Bull_Run",
@@ -223,7 +223,7 @@
     "qid": "Q203233",
     "title": "Battle of Plassey takes place",
     "subtitle": "Battle",
-    "year": 1757,
+    "year": 2019,
     "fact": "The Battle of Plassey was a decisive victory of the British East India Company, under the leadership of Robert Clive, over the Nawab of Bengal and his French allies on 23 June 1757.",
     "wikipediaSlug": "Battle_of_Plassey",
     "image": "Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg",
@@ -862,7 +862,7 @@
   {
     "qid": "Q209387",
     "title": "Battle of Ankara takes place",
-    "subtitle": "Battle in Timurid conquests and invasions",
+    "subtitle": "Battle in Timurid invasion of the Ottoman Empire",
     "year": 1402,
     "fact": "The Battle of Ankara or Angora was fought on 28 July 1402, at the Çubuk plain near Ankara, between the forces of the Ottoman sultan Bayezid I and the emir of the Timurid Empire, Timur.",
     "wikipediaSlug": "Battle_of_Ankara",
@@ -878,6 +878,16 @@
     "wikipediaSlug": "Battle_of_Poltava",
     "image": "Marten's_Poltava.jpg",
     "pageViews": 11557
+  },
+  {
+    "qid": "Q383614",
+    "title": "Battle of Kohima takes place",
+    "subtitle": "Battle in World War II",
+    "year": 1944,
+    "fact": "The Battle of Kohima was the turning point of the Japanese U-Go offensive into British India in 1944 during the Second World War.",
+    "wikipediaSlug": "Battle_of_Kohima",
+    "image": "IND_003698_Garrison_Hill_Kohima.jpg",
+    "pageViews": 11274
   },
   {
     "qid": "Q830059",
@@ -932,7 +942,7 @@
   {
     "qid": "Q233343",
     "title": "Second Battle of Bull Run takes place",
-    "subtitle": "Battle in Eastern Theater of the American Civil War",
+    "subtitle": "Battle in Eastern theater of the American Civil War",
     "year": 1862,
     "fact": "The Second Battle of Bull Run or Battle of Second Manassas was fought August 28–30, 1862, in Prince William County, Virginia, as part of the American Civil War.",
     "wikipediaSlug": "Second_Battle_of_Bull_Run",
@@ -1432,7 +1442,7 @@
   {
     "qid": "Q728480",
     "title": "Battle of Rocroi takes place",
-    "subtitle": "Battle in Thirty Years' War",
+    "subtitle": "Battle in Franco-Spanish War",
     "year": 1643,
     "fact": "The Battle of Rocroi, fought on 19 May 1643, was a major engagement of the Thirty Years' War between a French army, led by the 21-year-old Duke of Enghien and Spanish forces under General Francisco de Melo only five days after the accession of Louis XIV to the throne of France after his father's death.",
     "wikipediaSlug": "Battle_of_Rocroi",
@@ -1627,6 +1637,16 @@
     "fact": "The Battle of Sluys, also called the Battle of l'Écluse, was a naval battle fought on 24 June 1340 between England and France.",
     "wikipediaSlug": "Battle_of_Sluys",
     "image": "BattleofSluys.jpeg",
+    "pageViews": 4529
+  },
+  {
+    "qid": "Q1071578",
+    "title": "Battle of Smolensk takes place",
+    "subtitle": "Battle in French invasion of Russia",
+    "year": 1812,
+    "fact": "The Battle of Smolensk was the first major battle of the French invasion of Russia.",
+    "wikipediaSlug": "Battle_of_Smolensk_(1812)",
+    "image": "Battle_of_Smolensk_1812.png",
     "pageViews": 4529
   },
   {
@@ -1932,7 +1952,7 @@
   {
     "qid": "Q111078529",
     "title": "Battle of Sievierodonetsk takes place",
-    "subtitle": "Battle in Russo-Ukrainian war",
+    "subtitle": "Battle in Russo-Ukrainian War",
     "year": 2022,
     "fact": "The Battle of Sievierodonetsk was a military engagement in the wider battle of Donbas of the eastern Ukraine campaign during the Russian invasion of Ukraine.",
     "wikipediaSlug": "Battle_of_Sievierodonetsk_(2022)",

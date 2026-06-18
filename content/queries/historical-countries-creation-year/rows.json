@@ -15,7 +15,7 @@
     "item": "http://www.wikidata.org/entity/Q490",
     "itemLabel": "Milan",
     "year": "-599",
-    "sitelinks": "224"
+    "sitelinks": "225"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12560",
@@ -39,19 +39,19 @@
     "item": "http://www.wikidata.org/entity/Q12544",
     "itemLabel": "Byzantine Empire",
     "year": "395",
-    "sitelinks": "188"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12548",
-    "itemLabel": "Holy Roman Empire",
-    "year": "962",
-    "sitelinks": "179"
+    "sitelinks": "189"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36704",
     "itemLabel": "Yugoslavia",
     "year": "1918",
-    "sitelinks": "179"
+    "sitelinks": "180"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12548",
+    "itemLabel": "Holy Roman Empire",
+    "year": "962",
+    "sitelinks": "180"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7318",
@@ -69,7 +69,7 @@
     "item": "http://www.wikidata.org/entity/Q1747689",
     "itemLabel": "Ancient Rome",
     "year": "-752",
-    "sitelinks": "163"
+    "sitelinks": "164"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16957",
@@ -87,7 +87,7 @@
     "item": "http://www.wikidata.org/entity/Q8733",
     "itemLabel": "Qing dynasty",
     "year": "1636",
-    "sitelinks": "150"
+    "sitelinks": "151"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28513",
@@ -114,12 +114,6 @@
     "sitelinks": "134"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7209",
-    "itemLabel": "Han dynasty",
-    "year": "-205",
-    "sitelinks": "133"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q28573",
     "itemLabel": "Inca Empire",
     "year": "1438",
@@ -132,10 +126,22 @@
     "sitelinks": "133"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7209",
+    "itemLabel": "Han dynasty",
+    "year": "-205",
+    "sitelinks": "132"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q25227",
     "itemLabel": "Netherlands Antilles",
     "year": "1954",
-    "sitelinks": "130"
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43287",
+    "itemLabel": "German Empire",
+    "year": "1871",
+    "sitelinks": "129"
   },
   {
     "item": "http://www.wikidata.org/entity/Q244165",
@@ -148,12 +154,6 @@
     "itemLabel": "Tang dynasty",
     "year": "618",
     "sitelinks": "128"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q43287",
-    "itemLabel": "German Empire",
-    "year": "1871",
-    "sitelinks": "127"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12536",
@@ -171,7 +171,7 @@
     "item": "http://www.wikidata.org/entity/Q17167",
     "itemLabel": "Roman Republic",
     "year": "-508",
-    "sitelinks": "121"
+    "sitelinks": "122"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37024",
@@ -189,12 +189,6 @@
     "item": "http://www.wikidata.org/entity/Q41137",
     "itemLabel": "Assyrian Empire",
     "year": "-2024",
-    "sitelinks": "116"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13369",
-    "itemLabel": "Rimini",
-    "year": "-267",
     "sitelinks": "116"
   },
   {
@@ -216,27 +210,27 @@
     "sitelinks": "113"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q389688",
-    "itemLabel": "Achaemenid Empire",
-    "year": "-549",
-    "sitelinks": "110"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2184",
     "itemLabel": "Russian Soviet Federative Socialist Republic",
     "year": "1917",
     "sitelinks": "110"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q83891",
-    "itemLabel": "Sasanian Empire",
-    "year": "224",
-    "sitelinks": "107"
+    "item": "http://www.wikidata.org/entity/Q389688",
+    "itemLabel": "Achaemenid Empire",
+    "year": "-549",
+    "sitelinks": "110"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129286",
     "itemLabel": "British Raj",
     "year": "1858",
+    "sitelinks": "108"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83891",
+    "itemLabel": "Sasanian Empire",
+    "year": "224",
     "sitelinks": "107"
   },
   {
@@ -276,22 +270,16 @@
     "sitelinks": "100"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7313",
+    "itemLabel": "Yuan dynasty",
+    "year": "1271",
+    "sitelinks": "100"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q184536",
     "itemLabel": "Mali Empire",
     "year": "1235",
     "sitelinks": "99"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7313",
-    "itemLabel": "Yuan dynasty",
-    "year": "1271",
-    "sitelinks": "99"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1986139",
-    "itemLabel": "Parthian Empire",
-    "year": "-246",
-    "sitelinks": "98"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42834",
@@ -303,6 +291,12 @@
     "item": "http://www.wikidata.org/entity/Q47690",
     "itemLabel": "Babylonia",
     "year": "-1900",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1986139",
+    "itemLabel": "Parthian Empire",
+    "year": "-246",
     "sitelinks": "98"
   },
   {
@@ -330,6 +324,18 @@
     "sitelinks": "97"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q133356",
+    "itemLabel": "Ukrainian Soviet Socialist Republic",
+    "year": "1919",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4948",
+    "itemLabel": "Republic of Venice",
+    "year": "697",
+    "sitelinks": "95"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q172579",
     "itemLabel": "Kingdom of Italy",
     "year": "1861",
@@ -342,15 +348,9 @@
     "sitelinks": "95"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q133356",
-    "itemLabel": "Ukrainian Soviet Socialist Republic",
-    "year": "1919",
-    "sitelinks": "95"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4948",
-    "itemLabel": "Republic of Venice",
-    "year": "697",
+    "item": "http://www.wikidata.org/entity/Q62943",
+    "itemLabel": "Maurya empire",
+    "year": "-321",
     "sitelinks": "94"
   },
   {
@@ -364,12 +364,6 @@
     "itemLabel": "Seleucid Empire",
     "year": "-311",
     "sitelinks": "94"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q62943",
-    "itemLabel": "Maurya empire",
-    "year": "-321",
-    "sitelinks": "93"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7462",
@@ -396,9 +390,9 @@
     "sitelinks": "91"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170174",
-    "itemLabel": "Papal States",
-    "year": "754",
+    "item": "http://www.wikidata.org/entity/Q161885",
+    "itemLabel": "Kingdom of Great Britain",
+    "year": "1707",
     "sitelinks": "90"
   },
   {
@@ -408,15 +402,15 @@
     "sitelinks": "90"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8575586",
-    "itemLabel": "Umayyad Caliphate",
-    "year": "661",
+    "item": "http://www.wikidata.org/entity/Q170174",
+    "itemLabel": "Papal States",
+    "year": "754",
     "sitelinks": "90"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q161885",
-    "itemLabel": "Kingdom of Great Britain",
-    "year": "1707",
+    "item": "http://www.wikidata.org/entity/Q8575586",
+    "itemLabel": "Umayyad Caliphate",
+    "year": "661",
     "sitelinks": "90"
   },
   {
@@ -426,16 +420,16 @@
     "sitelinks": "89"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q200464",
+    "itemLabel": "Portuguese Empire",
+    "year": "1415",
+    "sitelinks": "89"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4461035",
     "itemLabel": "Akkadian Empire",
     "year": "-2333",
     "sitelinks": "89"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27306",
-    "itemLabel": "Kingdom of Prussia",
-    "year": "1701",
-    "sitelinks": "88"
   },
   {
     "item": "http://www.wikidata.org/entity/Q69808",
@@ -450,9 +444,15 @@
     "sitelinks": "88"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200464",
-    "itemLabel": "Portuguese Empire",
-    "year": "1415",
+    "item": "http://www.wikidata.org/entity/Q27306",
+    "itemLabel": "Kingdom of Prussia",
+    "year": "1701",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160440",
+    "itemLabel": "Crimean Khanate",
+    "year": "1441",
     "sitelinks": "87"
   },
   {
@@ -468,27 +468,27 @@
     "sitelinks": "86"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160440",
-    "itemLabel": "Crimean Khanate",
-    "year": "1441",
-    "sitelinks": "86"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q620765",
-    "itemLabel": "Lydia",
-    "year": "-1199",
-    "sitelinks": "85"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q48685",
     "itemLabel": "Kingdom of Judah",
     "year": "-929",
     "sitelinks": "85"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q83311",
+    "itemLabel": "Persian Empire",
+    "year": "-549",
+    "sitelinks": "85"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q128904",
     "itemLabel": "Elam",
     "year": "-2699",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q620765",
+    "itemLabel": "Lydia",
+    "year": "-1199",
     "sitelinks": "85"
   },
   {
@@ -504,10 +504,10 @@
     "sitelinks": "84"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q83311",
-    "itemLabel": "Persian Empire",
-    "year": "-549",
-    "sitelinks": "84"
+    "item": "http://www.wikidata.org/entity/Q70802",
+    "itemLabel": "French Third Republic",
+    "year": "1870",
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28179",
@@ -516,22 +516,10 @@
     "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q70802",
-    "itemLabel": "French Third Republic",
-    "year": "1870",
-    "sitelinks": "83"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q172640",
-    "itemLabel": "North Vietnam",
-    "year": "1945",
-    "sitelinks": "82"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q188161",
     "itemLabel": "Dutch East Indies",
     "year": "1800",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q146246",
@@ -541,8 +529,20 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q160307",
-    "itemLabel": "Fatimid Caliphate",
+    "itemLabel": "Fatimid Egyptian Caliphate",
     "year": "909",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172640",
+    "itemLabel": "North Vietnam",
+    "year": "1945",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q201705",
+    "itemLabel": "Khmer Empire",
+    "year": "802",
     "sitelinks": "82"
   },
   {
@@ -552,40 +552,16 @@
     "sitelinks": "82"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170468",
-    "itemLabel": "United Arab Republic",
-    "year": "1958",
-    "sitelinks": "81"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q201705",
-    "itemLabel": "Khmer Empire",
-    "year": "802",
-    "sitelinks": "81"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q130229",
-    "itemLabel": "Georgian Soviet Socialist Republic",
+    "itemLabel": "Georgian SSR",
     "year": "1921",
     "sitelinks": "81"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q174193",
-    "itemLabel": "United Kingdom of Great Britain and Ireland",
-    "year": "1801",
-    "sitelinks": "80"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q185068",
-    "itemLabel": "Urartu",
-    "year": "-860",
-    "sitelinks": "80"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30623",
-    "itemLabel": "Manchukuo",
-    "year": "1932",
-    "sitelinks": "80"
+    "item": "http://www.wikidata.org/entity/Q170468",
+    "itemLabel": "United Arab Republic",
+    "year": "1958",
+    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q62623",
@@ -600,58 +576,64 @@
     "sitelinks": "80"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7405",
-    "itemLabel": "Sui dynasty",
-    "year": "581",
+    "item": "http://www.wikidata.org/entity/Q30623",
+    "itemLabel": "Manchukuo",
+    "year": "1932",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174193",
+    "itemLabel": "United Kingdom of Great Britain and Ireland",
+    "year": "1801",
     "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178897",
     "itemLabel": "Latin Empire",
     "year": "1204",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179023",
     "itemLabel": "French colonial empire",
     "year": "1534",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q173065",
-    "itemLabel": "Kingdom of Naples",
-    "year": "1282",
-    "sitelinks": "78"
+    "item": "http://www.wikidata.org/entity/Q185068",
+    "itemLabel": "Urartu",
+    "year": "-860",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7405",
+    "itemLabel": "Sui dynasty",
+    "year": "581",
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q186096",
     "itemLabel": "Tsardom of Russia",
     "year": "1547",
-    "sitelinks": "78"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q229411",
-    "itemLabel": "Delhi Sultanate",
-    "year": "1206",
-    "sitelinks": "78"
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q484195",
     "itemLabel": "Timurid Empire",
     "year": "1370",
-    "sitelinks": "78"
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3708094",
     "itemLabel": "Seljuk Empire",
     "year": "1037",
-    "sitelinks": "78"
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3708255",
     "itemLabel": "Seljuk dynasty",
     "year": "1000",
-    "sitelinks": "78"
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49683",
@@ -666,21 +648,27 @@
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q55502",
-    "itemLabel": "Kingdom of Jerusalem",
-    "year": "1099",
-    "sitelinks": "77"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q185682",
-    "itemLabel": "French Indochina",
-    "year": "1887",
-    "sitelinks": "77"
+    "item": "http://www.wikidata.org/entity/Q173065",
+    "itemLabel": "Kingdom of Naples",
+    "year": "1282",
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q201038",
     "itemLabel": "Roman Kingdom",
     "year": "-752",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q229411",
+    "itemLabel": "Delhi Sultanate",
+    "year": "1206",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55502",
+    "itemLabel": "Kingdom of Jerusalem",
+    "year": "1099",
     "sitelinks": "77"
   },
   {
@@ -690,15 +678,27 @@
     "sitelinks": "77"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12490507",
-    "itemLabel": "Rashidun Caliphate",
-    "year": "632",
+    "item": "http://www.wikidata.org/entity/Q178665",
+    "itemLabel": "Mitanni",
+    "year": "-1649",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185682",
+    "itemLabel": "French Indochina",
+    "year": "1887",
     "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217169",
     "itemLabel": "Rhodesia",
     "year": "1965",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12490507",
+    "itemLabel": "Rashidun Caliphate",
+    "year": "632",
     "sitelinks": "77"
   },
   {
@@ -712,36 +712,6 @@
     "itemLabel": "Uzbek Soviet Socialist Republic",
     "year": "1924",
     "sitelinks": "76"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q170770",
-    "itemLabel": "Grand Principality of Moscow",
-    "year": "1263",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q174306",
-    "itemLabel": "Republic of Genoa",
-    "year": "1005",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q178084",
-    "itemLabel": "Ilkhanate",
-    "year": "1256",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q178665",
-    "itemLabel": "Mitanni",
-    "year": "-1649",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q230791",
-    "itemLabel": "Kingdom of Scotland",
-    "year": "843",
-    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83618",
@@ -762,33 +732,39 @@
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q178038",
-    "itemLabel": "Second Spanish Republic",
-    "year": "1931",
-    "sitelinks": "74"
+    "item": "http://www.wikidata.org/entity/Q170770",
+    "itemLabel": "Grand Principality of Moscow",
+    "year": "1263",
+    "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q180114",
-    "itemLabel": "Ayyubid dynasty",
-    "year": "1171",
-    "sitelinks": "74"
+    "item": "http://www.wikidata.org/entity/Q174306",
+    "itemLabel": "Republic of Genoa",
+    "year": "1005",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178084",
+    "itemLabel": "Ilkhanate",
+    "year": "1256",
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180393",
     "itemLabel": "Kingdom of the Two Sicilies",
     "year": "1738",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q199821",
-    "itemLabel": "Gran Colombia",
-    "year": "1819",
-    "sitelinks": "74"
+    "item": "http://www.wikidata.org/entity/Q230791",
+    "itemLabel": "Kingdom of Scotland",
+    "year": "843",
+    "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q975405",
-    "itemLabel": "Sultanate of Rum",
-    "year": "1077",
+    "item": "http://www.wikidata.org/entity/Q71092",
+    "itemLabel": "Second French Empire",
+    "year": "1852",
     "sitelinks": "74"
   },
   {
@@ -804,9 +780,39 @@
     "sitelinks": "74"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q178038",
+    "itemLabel": "Second Spanish Republic",
+    "year": "1931",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q180114",
+    "itemLabel": "Ayyubid dynasty",
+    "year": "1171",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199821",
+    "itemLabel": "Gran Colombia",
+    "year": "1819",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q975405",
+    "itemLabel": "Sultanate of Rum",
+    "year": "1077",
+    "sitelinks": "74"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q171150",
     "itemLabel": "Kingdom of Hungary",
     "year": "1000",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185488",
+    "itemLabel": "Volga Bulgaria",
+    "year": "601",
     "sitelinks": "73"
   },
   {
@@ -828,22 +834,16 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q71092",
-    "itemLabel": "Second French Empire",
-    "year": "1852",
-    "sitelinks": "73"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q178469",
     "itemLabel": "Biafra",
     "year": "1967",
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q185488",
-    "itemLabel": "Volga Bulgaria",
-    "year": "601",
-    "sitelinks": "72"
+    "item": "http://www.wikidata.org/entity/Q58296",
+    "itemLabel": "French First Republic",
+    "year": "1792",
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q171740",
@@ -870,9 +870,9 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q58296",
-    "itemLabel": "French First Republic",
-    "year": "1792",
+    "item": "http://www.wikidata.org/entity/Q282428",
+    "itemLabel": "Mamluk Sultanate of Egypt",
+    "year": "1250",
     "sitelinks": "71"
   },
   {
@@ -882,15 +882,27 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q282428",
-    "itemLabel": "Mamluk Sultanate of Egypt",
-    "year": "1250",
-    "sitelinks": "70"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q151148",
     "itemLabel": "Chola dynasty",
     "year": "-299",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186537",
+    "itemLabel": "Khanate of Qazan",
+    "year": "1438",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q203817",
+    "itemLabel": "First Bulgarian Empire",
+    "year": "681",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7352",
+    "itemLabel": "Jin dynasty",
+    "year": "266",
     "sitelinks": "70"
   },
   {
@@ -900,15 +912,15 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q186537",
-    "itemLabel": "Khanate of Qazan",
-    "year": "1438",
+    "item": "http://www.wikidata.org/entity/Q105092",
+    "itemLabel": "Kingdom of Mercia",
+    "year": "527",
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q203817",
-    "itemLabel": "First Bulgarian Empire",
-    "year": "681",
+    "item": "http://www.wikidata.org/entity/Q199841",
+    "itemLabel": "South Yemen",
+    "year": "1967",
     "sitelinks": "69"
   },
   {
@@ -930,39 +942,15 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q105092",
-    "itemLabel": "Kingdom of Mercia",
-    "year": "527",
-    "sitelinks": "69"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7352",
-    "itemLabel": "Jin dynasty",
-    "year": "266",
-    "sitelinks": "69"
+    "item": "http://www.wikidata.org/entity/Q4044",
+    "itemLabel": "Offenburg",
+    "year": "1148",
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213651",
     "itemLabel": "Gandhara",
     "year": "-750",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q199841",
-    "itemLabel": "South Yemen",
-    "year": "1967",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q545205",
-    "itemLabel": "Transcaucasian Socialist Federative Soviet Republic",
-    "year": "1922",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28456",
-    "itemLabel": "Silla",
-    "year": "-56",
     "sitelinks": "68"
   },
   {
@@ -978,15 +966,51 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q206411",
-    "itemLabel": "Azerbaijan Democratic Republic",
-    "year": "1918",
+    "item": "http://www.wikidata.org/entity/Q28456",
+    "itemLabel": "Silla",
+    "year": "-56",
     "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181254",
+    "itemLabel": "Empire of Nicaea",
+    "year": "1204",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q206789",
+    "itemLabel": "Ghana Empire",
+    "year": "100",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q545205",
+    "itemLabel": "Transcaucasian Socialist Federative Soviet Republic",
+    "year": "1922",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49326",
+    "itemLabel": "Majapahit",
+    "year": "1293",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31929",
+    "itemLabel": "Carolingian Empire",
+    "year": "800",
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170588",
     "itemLabel": "Republic of Texas",
     "year": "1836",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178913",
+    "itemLabel": "Empire of Trebizond",
+    "year": "1204",
     "sitelinks": "67"
   },
   {
@@ -1002,21 +1026,21 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q206789",
-    "itemLabel": "Ghana Empire",
-    "year": "100",
-    "sitelinks": "67"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q211274",
-    "itemLabel": "Polish People's Republic",
-    "year": "1944",
+    "item": "http://www.wikidata.org/entity/Q217230",
+    "itemLabel": "Empire of Brazil",
+    "year": "1822",
     "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q231392",
     "itemLabel": "Kingdom of Asturias",
     "year": "718",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q206411",
+    "itemLabel": "Azerbaijan Democratic Republic",
+    "year": "1918",
     "sitelinks": "67"
   },
   {
@@ -1030,48 +1054,6 @@
     "itemLabel": "Tanganyika",
     "year": "1961",
     "sitelinks": "67"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q31929",
-    "itemLabel": "Carolingian Empire",
-    "year": "800",
-    "sitelinks": "67"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q49326",
-    "itemLabel": "Majapahit",
-    "year": "1293",
-    "sitelinks": "67"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4044",
-    "itemLabel": "Offenburg",
-    "year": "1148",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q175276",
-    "itemLabel": "Kingdom of Leon",
-    "year": "910",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q181254",
-    "itemLabel": "Empire of Nicaea",
-    "year": "1204",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q191369",
-    "itemLabel": "Ugarit",
-    "year": "-6000",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q207272",
-    "itemLabel": "Second Polish Republic",
-    "year": "1918",
-    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76048",
@@ -1092,15 +1074,57 @@
     "sitelinks": "66"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5780",
+    "itemLabel": "Meroë",
+    "year": "-2500",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q175276",
+    "itemLabel": "Kingdom of Leon",
+    "year": "910",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191369",
+    "itemLabel": "Ugarit",
+    "year": "-6000",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207272",
+    "itemLabel": "Second Polish Republic",
+    "year": "1918",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q211274",
+    "itemLabel": "Polish People's Republic",
+    "year": "1944",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q230407",
+    "itemLabel": "Kingdom of Israel",
+    "year": "-929",
+    "sitelinks": "66"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q210036",
     "itemLabel": "Chechen Republic of Ichkeria",
     "year": "1991",
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q178913",
-    "itemLabel": "Empire of Trebizond",
-    "year": "1204",
+    "item": "http://www.wikidata.org/entity/Q42585",
+    "itemLabel": "Kingdom of Bohemia",
+    "year": "1198",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28370",
+    "itemLabel": "Goguryeo",
+    "year": "-36",
     "sitelinks": "65"
   },
   {
@@ -1116,33 +1140,33 @@
     "sitelinks": "65"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q217230",
-    "itemLabel": "Empire of Brazil",
-    "year": "1822",
-    "sitelinks": "65"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q230407",
-    "itemLabel": "Kingdom of Israel",
-    "year": "-929",
-    "sitelinks": "65"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28370",
-    "itemLabel": "Goguryeo",
-    "year": "-36",
-    "sitelinks": "65"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q42585",
-    "itemLabel": "Kingdom of Bohemia",
-    "year": "1198",
+    "item": "http://www.wikidata.org/entity/Q238445",
+    "itemLabel": "Emirate of Granada",
+    "year": "1238",
     "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q487829",
     "itemLabel": "Chagatai Khanate",
     "year": "1225",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58326",
+    "itemLabel": "French Second Republic",
+    "year": "1848",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130654",
+    "itemLabel": "Dutch Empire",
+    "year": "1624",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19083",
+    "itemLabel": "Kingdom of Iberia",
+    "year": "-298",
     "sitelinks": "64"
   },
   {
@@ -1176,34 +1200,28 @@
     "sitelinks": "64"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q238445",
-    "itemLabel": "Emirate of Granada",
-    "year": "1238",
+    "item": "http://www.wikidata.org/entity/Q215643",
+    "itemLabel": "Indo-Greek Kingdoms",
+    "year": "-179",
     "sitelinks": "64"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5780",
-    "itemLabel": "Meroë",
-    "year": "-2500",
-    "sitelinks": "64"
+    "item": "http://www.wikidata.org/entity/Q83546",
+    "itemLabel": "Grand Principality of Vladimir",
+    "year": "1125",
+    "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19083",
-    "itemLabel": "Kingdom of Iberia",
-    "year": "-298",
-    "sitelinks": "64"
+    "item": "http://www.wikidata.org/entity/Q26576",
+    "itemLabel": "Hephthalites",
+    "year": "408",
+    "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q58326",
-    "itemLabel": "French Second Republic",
-    "year": "1848",
-    "sitelinks": "64"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q130654",
-    "itemLabel": "Dutch Empire",
-    "year": "1624",
-    "sitelinks": "64"
+    "item": "http://www.wikidata.org/entity/Q28233",
+    "itemLabel": "Korean Empire",
+    "year": "1897",
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183150",
@@ -1228,36 +1246,6 @@
     "itemLabel": "Ukrainian People's Republic",
     "year": "1917",
     "sitelinks": "63"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28233",
-    "itemLabel": "Korean Empire",
-    "year": "1897",
-    "sitelinks": "63"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83546",
-    "itemLabel": "Grand Principality of Vladimir",
-    "year": "1125",
-    "sitelinks": "63"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q215643",
-    "itemLabel": "Indo-Greek Kingdoms",
-    "year": "-179",
-    "sitelinks": "63"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q209065",
-    "itemLabel": "Kingdom of Greece",
-    "year": "1832",
-    "sitelinks": "62"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26576",
-    "itemLabel": "Hephthalites",
-    "year": "408",
-    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46370",
@@ -1296,40 +1284,22 @@
     "sitelinks": "62"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q191324",
-    "itemLabel": "Middle Kingdom of Egypt",
-    "year": "-2039",
-    "sitelinks": "61"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q242115",
-    "itemLabel": "Five Dynasties and Ten Kingdoms Period",
-    "year": "907",
-    "sitelinks": "61"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q468814",
-    "itemLabel": "Dahomey",
-    "year": "1600",
-    "sitelinks": "61"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q28208",
     "itemLabel": "Goryeo",
     "year": "918",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28428",
-    "itemLabel": "Baekje",
-    "year": "-17",
-    "sitelinks": "61"
+    "item": "http://www.wikidata.org/entity/Q191324",
+    "itemLabel": "Middle Kingdom of Egypt",
+    "year": "-2039",
+    "sitelinks": "62"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q31747",
-    "itemLabel": "Irish Free State",
-    "year": "1922",
-    "sitelinks": "61"
+    "item": "http://www.wikidata.org/entity/Q209065",
+    "itemLabel": "Kingdom of Greece",
+    "year": "1832",
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q45670",
@@ -1350,16 +1320,58 @@
     "sitelinks": "61"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q28428",
+    "itemLabel": "Baekje",
+    "year": "-17",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31747",
+    "itemLabel": "Irish Free State",
+    "year": "1922",
+    "sitelinks": "61"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q207330",
     "itemLabel": "Lagash",
     "year": "-2500",
-    "sitelinks": "60"
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q242115",
+    "itemLabel": "Five Dynasties and Ten Kingdoms Period",
+    "year": "907",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q468814",
+    "itemLabel": "Dahomey",
+    "year": "1600",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3185305",
+    "itemLabel": "United Kingdom of Israel",
+    "year": "-1049",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10914393",
+    "itemLabel": "Neo-Assyrian Empire",
+    "year": "-910",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18234383",
+    "itemLabel": "Safavid Iran",
+    "year": "1501",
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q842794",
     "itemLabel": "Socialist Republic of Romania",
     "year": "1965",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q105098",
@@ -1374,15 +1386,33 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q10914393",
-    "itemLabel": "Neo-Assyrian Empire",
-    "year": "-910",
+    "item": "http://www.wikidata.org/entity/Q177076",
+    "itemLabel": "Caucasian Albania",
+    "year": "-1",
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3185305",
-    "itemLabel": "Kingdom of Israel",
-    "year": "-1049",
+    "item": "http://www.wikidata.org/entity/Q200969",
+    "itemLabel": "Chaldea",
+    "year": "-1000",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q218023",
+    "itemLabel": "Orange Free State",
+    "year": "1854",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q420759",
+    "itemLabel": "Second Bulgarian Empire",
+    "year": "1185",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208404",
+    "itemLabel": "Kingdom of Armenia",
+    "year": "-552",
     "sitelinks": "60"
   },
   {
@@ -1398,27 +1428,33 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18234383",
-    "itemLabel": "Safavid Iran",
-    "year": "1501",
-    "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q177076",
-    "itemLabel": "Caucasian Albania",
-    "year": "-1",
+    "item": "http://www.wikidata.org/entity/Q106577",
+    "itemLabel": "Neustria",
+    "year": "511",
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200969",
-    "itemLabel": "Chaldea",
-    "year": "-1000",
+    "item": "http://www.wikidata.org/entity/Q1337854",
+    "itemLabel": "Emirate of Córdoba",
+    "year": "756",
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q218023",
-    "itemLabel": "Orange Free State",
-    "year": "1854",
+    "item": "http://www.wikidata.org/entity/Q148540",
+    "itemLabel": "Republic of Florence",
+    "year": "1115",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208475",
+    "itemLabel": "Edom",
+    "year": "-1300",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2429397",
+    "itemLabel": "Ancient Carthage",
+    "year": "-813",
     "sitelinks": "59"
   },
   {
@@ -1434,69 +1470,15 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1337854",
-    "itemLabel": "emirate of Córdoba",
-    "year": "756",
-    "sitelinks": "59"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2429397",
-    "itemLabel": "Ancient Carthage",
-    "year": "-813",
-    "sitelinks": "59"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106577",
-    "itemLabel": "Neustria",
-    "year": "511",
-    "sitelinks": "59"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q10957559",
     "itemLabel": "Principality of Moldavia",
     "year": "1346",
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q208404",
-    "itemLabel": "Kingdom of Armenia",
-    "year": "-552",
-    "sitelinks": "59"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q173082",
-    "itemLabel": "Dacia",
-    "year": "-59",
-    "sitelinks": "58"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q193152",
-    "itemLabel": "Great Moravia",
-    "year": "833",
-    "sitelinks": "58"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q208475",
-    "itemLabel": "Edom",
-    "year": "-1300",
-    "sitelinks": "58"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q555994",
-    "itemLabel": "Aq Qoyunlu",
-    "year": "1378",
-    "sitelinks": "58"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q139319",
     "itemLabel": "Russian Republic",
     "year": "1917",
-    "sitelinks": "58"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q148540",
-    "itemLabel": "Republic of Florence",
-    "year": "1115",
     "sitelinks": "58"
   },
   {
@@ -1515,6 +1497,48 @@
     "item": "http://www.wikidata.org/entity/Q154849",
     "itemLabel": "Grand Duchy of Tuscany",
     "year": "1569",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q173082",
+    "itemLabel": "Dacia",
+    "year": "-59",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193152",
+    "itemLabel": "Great Moravia",
+    "year": "833",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q216173",
+    "itemLabel": "Free City of Danzig",
+    "year": "1920",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q326304",
+    "itemLabel": "Moab",
+    "year": "-1300",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q427941",
+    "itemLabel": "Islamic Emirate of Afghanistan",
+    "year": "1996",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q555994",
+    "itemLabel": "Aq Qoyunlu",
+    "year": "1378",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q624887",
+    "itemLabel": "Neo-Babylonian Empire",
+    "year": "-625",
     "sitelinks": "58"
   },
   {
@@ -1542,39 +1566,39 @@
     "sitelinks": "57"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q147909",
+    "itemLabel": "Kingdom of Bulgaria",
+    "year": "1908",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153080",
+    "itemLabel": "East Francia",
+    "year": "843",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164079",
+    "itemLabel": "Kingdom of Hanover",
+    "year": "1814",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4712",
+    "itemLabel": "Duchy of Burgundy",
+    "year": "880",
+    "sitelinks": "57"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q208169",
     "itemLabel": "Republic of Ragusa",
     "year": "1358",
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q216173",
-    "itemLabel": "Free City of Danzig",
-    "year": "1920",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q326304",
-    "itemLabel": "Moab",
-    "year": "-1300",
-    "sitelinks": "57"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q329618",
     "itemLabel": "German colonial empire",
     "year": "1884",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q420759",
-    "itemLabel": "Second Bulgarian Empire",
-    "year": "1185",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q427941",
-    "itemLabel": "Islamic Emirate of Afghanistan",
-    "year": "1996",
     "sitelinks": "57"
   },
   {
@@ -1596,39 +1620,9 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q624887",
-    "itemLabel": "Neo-Babylonian Empire",
-    "year": "-625",
-    "sitelinks": "57"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q699964",
     "itemLabel": "Archduchy of Austria",
     "year": "1358",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4712",
-    "itemLabel": "Duchy of Burgundy",
-    "year": "880",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q147909",
-    "itemLabel": "Kingdom of Bulgaria",
-    "year": "1908",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153080",
-    "itemLabel": "East Francia",
-    "year": "843",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q164079",
-    "itemLabel": "Kingdom of Hanover",
-    "year": "1814",
     "sitelinks": "57"
   },
   {
@@ -1636,6 +1630,24 @@
     "itemLabel": "Württemberg",
     "year": "1083",
     "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q121932",
+    "itemLabel": "People's Republic of Bulgaria",
+    "year": "1946",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153015",
+    "itemLabel": "Kingdom of Saxony",
+    "year": "1806",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5743",
+    "itemLabel": "Ebla",
+    "year": "-2999",
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207600",
@@ -1668,22 +1680,34 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5743",
-    "itemLabel": "Ebla",
-    "year": "-2999",
-    "sitelinks": "56"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q121932",
-    "itemLabel": "People's Republic of Bulgaria",
-    "year": "1946",
-    "sitelinks": "56"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q49696",
     "itemLabel": "Northern and Southern dynasties",
     "year": "420",
     "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58202",
+    "itemLabel": "July Monarchy",
+    "year": "1830",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154401",
+    "itemLabel": "Slovak Republic",
+    "year": "1939",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156418",
+    "itemLabel": "Kingdom of Hawaiʻi",
+    "year": "1795",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1408764",
+    "itemLabel": "Circassia",
+    "year": "1427",
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q190025",
@@ -1704,9 +1728,9 @@
     "sitelinks": "55"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1408764",
-    "itemLabel": "Circassia",
-    "year": "1427",
+    "item": "http://www.wikidata.org/entity/Q13474305",
+    "itemLabel": "Francoist Spain",
+    "year": "1939",
     "sitelinks": "55"
   },
   {
@@ -1722,30 +1746,6 @@
     "sitelinks": "55"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q58202",
-    "itemLabel": "July Monarchy",
-    "year": "1830",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153015",
-    "itemLabel": "Kingdom of Saxony",
-    "year": "1806",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154401",
-    "itemLabel": "Slovak Republic",
-    "year": "1939",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156418",
-    "itemLabel": "Kingdom of Hawaiʻi",
-    "year": "1795",
-    "sitelinks": "55"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q504769",
     "itemLabel": "Xin dynasty",
     "year": "9",
@@ -1755,36 +1755,6 @@
     "item": "http://www.wikidata.org/entity/Q206696",
     "itemLabel": "Helvetic Republic",
     "year": "1798",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q243652",
-    "itemLabel": "Hungarian Soviet Republic",
-    "year": "1919",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q330362",
-    "itemLabel": "Commonwealth of England",
-    "year": "1649",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q435583",
-    "itemLabel": "Old Swiss Confederacy",
-    "year": "1291",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15864",
-    "itemLabel": "United Kingdom of the Netherlands",
-    "year": "1815",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28025",
-    "itemLabel": "Ryukyu Kingdom",
-    "year": "1429",
     "sitelinks": "54"
   },
   {
@@ -1800,15 +1770,51 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q13474305",
-    "itemLabel": "Francoist Spain",
-    "year": "1939",
+    "item": "http://www.wikidata.org/entity/Q15864",
+    "itemLabel": "United Kingdom of the Netherlands",
+    "year": "1815",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28025",
+    "itemLabel": "Ryukyu Kingdom",
+    "year": "1429",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q243652",
+    "itemLabel": "Hungarian Soviet Republic",
+    "year": "1919",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2431480",
+    "itemLabel": "Tibetan Empire",
+    "year": "618",
     "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q211853",
     "itemLabel": "Republic of Serbian Krajina",
     "year": "1991",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q330362",
+    "itemLabel": "Commonwealth of England",
+    "year": "1649",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q435583",
+    "itemLabel": "Old Swiss Confederacy",
+    "year": "1291",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q845909",
+    "itemLabel": "Scythia",
+    "year": "-799",
     "sitelinks": "54"
   },
   {
@@ -1824,6 +1830,12 @@
     "sitelinks": "53"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q16410",
+    "itemLabel": "Hungarian People's Republic",
+    "year": "1949",
+    "sitelinks": "53"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q207162",
     "itemLabel": "Bourbon Restoration in France",
     "year": "1815",
@@ -1833,6 +1845,12 @@
     "item": "http://www.wikidata.org/entity/Q209857",
     "itemLabel": "Kingdom of Lombardy–Venetia",
     "year": "1815",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210163",
+    "itemLabel": "Astrakhan Khanate",
+    "year": "1466",
     "sitelinks": "53"
   },
   {
@@ -1866,27 +1884,21 @@
     "sitelinks": "53"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q488880",
+    "itemLabel": "Greco-Bactrian Kingdom",
+    "year": "-249",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q926295",
+    "itemLabel": "Italian Empire",
+    "year": "1882",
+    "sitelinks": "53"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q63134381",
     "itemLabel": "Khwarazmian Empire",
     "year": "1077",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q845909",
-    "itemLabel": "Scythia",
-    "year": "-799",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16410",
-    "itemLabel": "Hungarian People's Republic",
-    "year": "1949",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2431480",
-    "itemLabel": "Tibetan Empire",
-    "year": "618",
     "sitelinks": "53"
   },
   {
@@ -1896,69 +1908,9 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q187684",
-    "itemLabel": "Despotate of Epirus",
-    "year": "1205",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q210163",
-    "itemLabel": "Astrakhan Khanate",
-    "year": "1466",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q215443",
-    "itemLabel": "Swedish Empire",
-    "year": "1611",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q232806",
-    "itemLabel": "County of Edessa",
-    "year": "1098",
-    "sitelinks": "52"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q266923",
     "itemLabel": "Kingdom of Mysore",
     "year": "1399",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q273025",
-    "itemLabel": "Gallic Empire",
-    "year": "260",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q273874",
-    "itemLabel": "Buyid dynasty",
-    "year": "934",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q846025",
-    "itemLabel": "Mahajanapada",
-    "year": "-599",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q926295",
-    "itemLabel": "Italian Empire",
-    "year": "1882",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q22880",
-    "itemLabel": "Electoral Palatinate",
-    "year": "1085",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28405",
-    "itemLabel": "Gojoseon",
-    "year": "-2332",
     "sitelinks": "52"
   },
   {
@@ -1974,6 +1926,12 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q154667",
+    "itemLabel": "Kingdom of Georgia",
+    "year": "1008",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q157904",
     "itemLabel": "Sultanate of Zanzibar",
     "year": "1856",
@@ -1986,39 +1944,75 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q488880",
-    "itemLabel": "Greco-Bactrian Kingdom",
-    "year": "-249",
+    "item": "http://www.wikidata.org/entity/Q22880",
+    "itemLabel": "Electoral Palatinate",
+    "year": "1085",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28405",
+    "itemLabel": "Gojoseon",
+    "year": "-2332",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187684",
+    "itemLabel": "Despotate of Epirus",
+    "year": "1205",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q215443",
+    "itemLabel": "Swedish Empire",
+    "year": "1611",
     "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223936",
     "itemLabel": "Kingdom of Italy",
     "year": "1805",
-    "sitelinks": "51"
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q232806",
+    "itemLabel": "County of Edessa",
+    "year": "1098",
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q267584",
     "itemLabel": "Yemen Republic",
     "year": "1962",
-    "sitelinks": "51"
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q273025",
+    "itemLabel": "Gallic Empire",
+    "year": "260",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q273874",
+    "itemLabel": "Buyid dynasty",
+    "year": "934",
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q282350",
     "itemLabel": "Land of Punt",
     "year": "-2400",
-    "sitelinks": "51"
+    "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q335088",
-    "itemLabel": "Armenian Kingdom of Cilicia",
-    "year": "1080",
-    "sitelinks": "51"
+    "item": "http://www.wikidata.org/entity/Q846025",
+    "itemLabel": "Mahajanapada",
+    "year": "-599",
+    "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1206012",
-    "itemLabel": "German Reich",
-    "year": "1871",
+    "item": "http://www.wikidata.org/entity/Q494354",
+    "itemLabel": "Karakhanid Khanate",
+    "year": "840",
     "sitelinks": "51"
   },
   {
@@ -2028,27 +2022,21 @@
     "sitelinks": "51"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1206012",
+    "itemLabel": "German Reich",
+    "year": "1871",
+    "sitelinks": "51"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q153665",
     "itemLabel": "German South-West Africa",
     "year": "1884",
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154667",
-    "itemLabel": "Kingdom of Georgia",
-    "year": "1008",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q155361",
     "itemLabel": "Rouran Khaganate",
     "year": "330",
-    "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q622783",
-    "itemLabel": "Spanish Netherlands",
-    "year": "1581",
     "sitelinks": "51"
   },
   {
@@ -2064,63 +2052,45 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q494354",
-    "itemLabel": "Karakhanid Khanate",
-    "year": "840",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q235030",
-    "itemLabel": "Principality of Antioch",
-    "year": "1098",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q272033",
-    "itemLabel": "County of Tripoli",
-    "year": "1102",
-    "sitelinks": "50"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q320930",
     "itemLabel": "Cao Wei",
     "year": "220",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q335088",
+    "itemLabel": "Armenian Kingdom of Cilicia",
+    "year": "1080",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q746558",
+    "itemLabel": "Emirate of Bukhara",
+    "year": "1785",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q622783",
+    "itemLabel": "Spanish Netherlands",
+    "year": "1581",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q274488",
+    "itemLabel": "Eastern Wu",
+    "year": "198",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61292",
+    "itemLabel": "Far Eastern Republic",
+    "year": "1920",
     "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1250763",
     "itemLabel": "Muslim Sicily",
     "year": "831",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q746558",
-    "itemLabel": "Emirate of Bukhara",
-    "year": "1785",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q838291",
-    "itemLabel": "Socialist Republic of Montenegro",
-    "year": "1945",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q853348",
-    "itemLabel": "Czechoslovak Socialist Republic",
-    "year": "1948",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1923401",
-    "itemLabel": "Dzungar Khanate",
-    "year": "1634",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q61292",
-    "itemLabel": "Far Eastern Republic",
-    "year": "1920",
     "sitelinks": "50"
   },
   {
@@ -2136,15 +2106,21 @@
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q321371",
-    "itemLabel": "Bosporan Kingdom",
-    "year": "-436",
+    "item": "http://www.wikidata.org/entity/Q1923401",
+    "itemLabel": "Dzungar Khanate",
+    "year": "1634",
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q274488",
-    "itemLabel": "Eastern Wu",
-    "year": "198",
+    "item": "http://www.wikidata.org/entity/Q235030",
+    "itemLabel": "Principality of Antioch",
+    "year": "1098",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q272033",
+    "itemLabel": "County of Tripoli",
+    "year": "1102",
     "sitelinks": "50"
   },
   {
@@ -2152,6 +2128,54 @@
     "itemLabel": "Bavarian Soviet Republic",
     "year": "1919",
     "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q321371",
+    "itemLabel": "Bosporan Kingdom",
+    "year": "-436",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q838291",
+    "itemLabel": "Socialist Republic of Montenegro",
+    "year": "1945",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q853348",
+    "itemLabel": "Czechoslovak Socialist Republic",
+    "year": "1948",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15146034",
+    "itemLabel": "Turkic Khaganate",
+    "year": "551",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75903",
+    "itemLabel": "Turkestan Autonomous Soviet Socialist Republic",
+    "year": "1918",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111471",
+    "itemLabel": "Dál Riata",
+    "year": "498",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q146597",
+    "itemLabel": "Zand Iran",
+    "year": "1751",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156199",
+    "itemLabel": "Electorate of Saxony",
+    "year": "1356",
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q186320",
@@ -2184,6 +2208,18 @@
     "sitelinks": "49"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q330756",
+    "itemLabel": "Transcaucasian Democratic Federative Republic",
+    "year": "1918",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q718374",
+    "itemLabel": "State of Slovenes, Croats and Serbs",
+    "year": "1918",
+    "sitelinks": "49"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q382593",
     "itemLabel": "New Netherland",
     "year": "1609",
@@ -2193,6 +2229,12 @@
     "item": "http://www.wikidata.org/entity/Q391980",
     "itemLabel": "Free Territory of Trieste",
     "year": "1947",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q723587",
+    "itemLabel": "Third Dynasty of Ur",
+    "year": "-2111",
     "sitelinks": "49"
   },
   {
@@ -2220,45 +2262,33 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q75903",
-    "itemLabel": "Turkestan Autonomous Soviet Socialist Republic",
-    "year": "1918",
-    "sitelinks": "49"
+    "item": "http://www.wikidata.org/entity/Q37102",
+    "itemLabel": "Republic of the Rif",
+    "year": "1921",
+    "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q111471",
-    "itemLabel": "Dál Riata",
-    "year": "498",
-    "sitelinks": "49"
+    "item": "http://www.wikidata.org/entity/Q46652",
+    "itemLabel": "Malacca sultanate",
+    "year": "1400",
+    "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q146597",
-    "itemLabel": "Zand Iran",
-    "year": "1751",
-    "sitelinks": "49"
+    "item": "http://www.wikidata.org/entity/Q124943",
+    "itemLabel": "Kingdom of Egypt",
+    "year": "1922",
+    "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156199",
-    "itemLabel": "Electorate of Saxony",
-    "year": "1356",
-    "sitelinks": "49"
+    "item": "http://www.wikidata.org/entity/Q1240096",
+    "itemLabel": "Hyderabad State",
+    "year": "1724",
+    "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q330756",
-    "itemLabel": "Transcaucasian Democratic Federative Republic",
-    "year": "1918",
-    "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q718374",
-    "itemLabel": "State of Slovenes, Croats and Serbs",
-    "year": "1918",
-    "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15146034",
-    "itemLabel": "Turkic Khaganate",
-    "year": "551",
+    "item": "http://www.wikidata.org/entity/Q28322",
+    "itemLabel": "Balhae",
+    "year": "698",
     "sitelinks": "48"
   },
   {
@@ -2268,9 +2298,27 @@
     "sitelinks": "48"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q240123",
+    "itemLabel": "Indo-Scythians",
+    "year": "-199",
+    "sitelinks": "48"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q289577",
     "itemLabel": "Himyarite kingdom",
     "year": "-109",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q242036",
+    "itemLabel": "Tamil Eelam",
+    "year": "1983",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q842199",
+    "itemLabel": "Belarusian People's Republic",
+    "year": "1918",
     "sitelinks": "48"
   },
   {
@@ -2292,21 +2340,9 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1240096",
-    "itemLabel": "Hyderabad State",
-    "year": "1724",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30747910",
-    "itemLabel": "Islamic Republic of Afghanistan",
-    "year": "2004",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q723587",
-    "itemLabel": "Third Dynasty of Ur",
-    "year": "-2111",
+    "item": "http://www.wikidata.org/entity/Q622855",
+    "itemLabel": "Ifriqiya",
+    "year": "703",
     "sitelinks": "48"
   },
   {
@@ -2316,33 +2352,9 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28322",
-    "itemLabel": "Balhae",
-    "year": "698",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37102",
-    "itemLabel": "Republic of the Rif",
-    "year": "1921",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q46652",
-    "itemLabel": "Malacca sultanate",
-    "year": "1400",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q242036",
-    "itemLabel": "Tamil Eelam",
-    "year": "1983",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q842199",
-    "itemLabel": "Belarusian People's Republic",
-    "year": "1918",
+    "item": "http://www.wikidata.org/entity/Q30747910",
+    "itemLabel": "Islamic Republic of Afghanistan",
+    "year": "2004",
     "sitelinks": "48"
   },
   {
@@ -2358,21 +2370,45 @@
     "sitelinks": "47"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q149805",
+    "itemLabel": "Kingdom of Iraq",
+    "year": "1921",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156038",
+    "itemLabel": "Duchy of Courland and Semigallia",
+    "year": "1561",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157070",
+    "itemLabel": "County of Flanders",
+    "year": "866",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31454",
+    "itemLabel": "Kingdom of Libya",
+    "year": "1951",
+    "sitelinks": "47"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q189545",
     "itemLabel": "Zengid dynasty",
     "year": "1127",
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q240123",
-    "itemLabel": "Indo-Scythians",
-    "year": "-199",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q319881",
     "itemLabel": "Republic of Formosa",
     "year": "1895",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q138837",
+    "itemLabel": "Catalan Republic",
+    "year": "2017",
     "sitelinks": "47"
   },
   {
@@ -2397,18 +2433,6 @@
     "item": "http://www.wikidata.org/entity/Q466803",
     "itemLabel": "Pallava dynasty",
     "year": "275",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1138904",
-    "itemLabel": "Kingdom of Afghanistan",
-    "year": "1926",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q622855",
-    "itemLabel": "Ifriqiya",
-    "year": "703",
     "sitelinks": "47"
   },
   {
@@ -2448,45 +2472,69 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q31454",
-    "itemLabel": "Kingdom of Libya",
-    "year": "1951",
+    "item": "http://www.wikidata.org/entity/Q1138904",
+    "itemLabel": "Kingdom of Afghanistan",
+    "year": "1926",
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q124943",
-    "itemLabel": "Kingdom of Egypt",
-    "year": "1922",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q149805",
-    "itemLabel": "Kingdom of Iraq",
-    "year": "1921",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156038",
-    "itemLabel": "Duchy of Courland and Semigallia",
-    "year": "1561",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q157070",
-    "itemLabel": "County of Flanders",
-    "year": "866",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q138837",
-    "itemLabel": "Catalan Republic",
-    "year": "2017",
+    "item": "http://www.wikidata.org/entity/Q320925",
+    "itemLabel": "Shu Han",
+    "year": "221",
     "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1365493",
     "itemLabel": "Republic of Pisa",
     "year": "1000",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61291",
+    "itemLabel": "Khorezm People's Soviet Republic",
+    "year": "1920",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q68682",
+    "itemLabel": "Bukharan People's Soviet Republic",
+    "year": "1920",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110888",
+    "itemLabel": "Kingdom of Essex",
+    "year": "527",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5257",
+    "itemLabel": "Satavahana dynasty",
+    "year": "-229",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1395011",
+    "itemLabel": "Chalukya dynasty",
+    "year": "543",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1419681",
+    "itemLabel": "Crimean People's Republic",
+    "year": "1917",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199688",
+    "itemLabel": "Almohad Caliphate",
+    "year": "1121",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q216068",
+    "itemLabel": "Sheba",
+    "year": "-999",
     "sitelinks": "46"
   },
   {
@@ -2499,6 +2547,18 @@
     "item": "http://www.wikidata.org/entity/Q237234",
     "itemLabel": "Osroene",
     "year": "-131",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10416611",
+    "itemLabel": "Vandal Kingdom",
+    "year": "435",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2980623",
+    "itemLabel": "Kingdom of Bosnia",
+    "year": "1377",
     "sitelinks": "46"
   },
   {
@@ -2517,18 +2577,6 @@
     "item": "http://www.wikidata.org/entity/Q651377",
     "itemLabel": "Shunga Empire",
     "year": "-184",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1395011",
-    "itemLabel": "Chalukya dynasty",
-    "year": "543",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1419681",
-    "itemLabel": "Crimean People's Republic",
-    "year": "1917",
     "sitelinks": "46"
   },
   {
@@ -2562,57 +2610,9 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q940785",
-    "itemLabel": "Sabaeans",
-    "year": "-1199",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5257",
-    "itemLabel": "Satavahana dynasty",
-    "year": "-229",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q61291",
-    "itemLabel": "Khorezm People's Soviet Republic",
-    "year": "1920",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q68682",
-    "itemLabel": "Bukharan People's Soviet Republic",
-    "year": "1920",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q110888",
-    "itemLabel": "Kingdom of Essex",
-    "year": "527",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10416611",
-    "itemLabel": "Vandal Kingdom",
-    "year": "435",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2980623",
-    "itemLabel": "Kingdom of Bosnia",
-    "year": "1377",
-    "sitelinks": "46"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q700283",
     "itemLabel": "Austrian Netherlands",
     "year": "1714",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q320925",
-    "itemLabel": "Shu Han",
-    "year": "221",
     "sitelinks": "46"
   },
   {
@@ -2634,15 +2634,33 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q199688",
-    "itemLabel": "Almohad Caliphate",
-    "year": "1121",
+    "item": "http://www.wikidata.org/entity/Q142417",
+    "itemLabel": "Kingdom of Valencia",
+    "year": "1238",
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q216068",
-    "itemLabel": "Sheba",
-    "year": "-999",
+    "item": "http://www.wikidata.org/entity/Q146600",
+    "itemLabel": "Arab Kingdom of Syria",
+    "year": "1920",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164092",
+    "itemLabel": "Duchy of Saxony",
+    "year": "804",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1775277",
+    "itemLabel": "Dominion of India",
+    "year": "1947",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1479726",
+    "itemLabel": "Federation of Malaya",
+    "year": "1948",
     "sitelinks": "45"
   },
   {
@@ -2712,28 +2730,22 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1775277",
-    "itemLabel": "Dominion of India",
-    "year": "1947",
+    "item": "http://www.wikidata.org/entity/Q940785",
+    "itemLabel": "Sabaeans",
+    "year": "-1199",
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q142417",
-    "itemLabel": "Kingdom of Valencia",
-    "year": "1238",
-    "sitelinks": "45"
+    "item": "http://www.wikidata.org/entity/Q155019",
+    "itemLabel": "Duchy of Lorraine",
+    "year": "959",
+    "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q146600",
-    "itemLabel": "Arab Kingdom of Syria",
-    "year": "1920",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q164092",
-    "itemLabel": "Duchy of Saxony",
-    "year": "804",
-    "sitelinks": "45"
+    "item": "http://www.wikidata.org/entity/Q1406298",
+    "itemLabel": "Serbian Empire",
+    "year": "1346",
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q171203",
@@ -2754,9 +2766,15 @@
     "sitelinks": "44"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2396442",
+    "itemLabel": "Kingdom of Galicia and Lodomeria",
+    "year": "1772",
+    "sitelinks": "44"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q332337",
     "itemLabel": "League of Corinth",
-    "year": "-330",
+    "year": "-336",
     "sitelinks": "44"
   },
   {
@@ -2778,15 +2796,9 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q696908",
-    "itemLabel": "Kingdom of Poland",
-    "year": "1916",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1479726",
-    "itemLabel": "Federation of Malaya",
-    "year": "1948",
+    "item": "http://www.wikidata.org/entity/Q7380487",
+    "itemLabel": "Kingdom of Pontus",
+    "year": "-280",
     "sitelinks": "44"
   },
   {
@@ -2802,27 +2814,45 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2396442",
-    "itemLabel": "Kingdom of Galicia and Lodomeria",
-    "year": "1772",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155019",
-    "itemLabel": "Duchy of Lorraine",
-    "year": "959",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7380487",
-    "itemLabel": "Kingdom of Pontus",
-    "year": "-280",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q846670",
     "itemLabel": "Danishmendid dynasty",
     "year": "1071",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47261",
+    "itemLabel": "Duchy of Bavaria",
+    "year": "907",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127861",
+    "itemLabel": "Khedivate of Egypt",
+    "year": "1867",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1274468",
+    "itemLabel": "Republic of Bosnia and Herzegovina",
+    "year": "1992",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1335260",
+    "itemLabel": "Emirate of Afghanistan",
+    "year": "1823",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1627675",
+    "itemLabel": "Pyu city-states",
+    "year": "-200",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20135",
+    "itemLabel": "Grand Duchy of Hesse",
+    "year": "1806",
     "sitelinks": "43"
   },
   {
@@ -2844,21 +2874,39 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q615902",
+    "itemLabel": "Kingdom of Finland",
+    "year": "1918",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1072140",
+    "itemLabel": "Roman Republic",
+    "year": "1849",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q466581",
     "itemLabel": "Hoysala Empire",
     "year": "1026",
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q583038",
-    "itemLabel": "Ostrogothic Kingdom",
-    "year": "493",
+    "item": "http://www.wikidata.org/entity/Q10975458",
+    "itemLabel": "Maramureș",
+    "year": "1320",
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1135255",
-    "itemLabel": "Chinese Soviet Republic",
-    "year": "1931",
+    "item": "http://www.wikidata.org/entity/Q2608489",
+    "itemLabel": "Aztec Empire",
+    "year": "1367",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q583038",
+    "itemLabel": "Ostrogothic Kingdom",
+    "year": "493",
     "sitelinks": "43"
   },
   {
@@ -2880,15 +2928,9 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1274468",
-    "itemLabel": "Republic of Bosnia and Herzegovina",
-    "year": "1992",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1335260",
-    "itemLabel": "Emirate of Afghanistan",
-    "year": "1823",
+    "item": "http://www.wikidata.org/entity/Q696908",
+    "itemLabel": "Kingdom of Poland",
+    "year": "1916",
     "sitelinks": "43"
   },
   {
@@ -2904,57 +2946,45 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1627675",
-    "itemLabel": "Pyu city-states",
-    "year": "-200",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20135",
-    "itemLabel": "Grand Duchy of Hesse",
-    "year": "1806",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47261",
-    "itemLabel": "Duchy of Bavaria",
-    "year": "907",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q127861",
-    "itemLabel": "Khedivate of Egypt",
-    "year": "1867",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2608489",
-    "itemLabel": "Aztec Empire",
-    "year": "1367",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2621587",
-    "itemLabel": "Waqooyi-Bari",
-    "year": "2012",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10975458",
-    "itemLabel": "Maramureș",
-    "year": "1320",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q615902",
-    "itemLabel": "Kingdom of Finland",
-    "year": "1918",
+    "item": "http://www.wikidata.org/entity/Q1135255",
+    "itemLabel": "Chinese Soviet Republic",
+    "year": "1931",
     "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34756",
     "itemLabel": "Qin",
     "year": "-904",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44642",
+    "itemLabel": "Federation of Arab Republics",
+    "year": "1972",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q139708",
+    "itemLabel": "French Mandate for Syria and the Lebanon",
+    "year": "1923",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152855",
+    "itemLabel": "Kingdom of Tungning",
+    "year": "1661",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157367",
+    "itemLabel": "Brandenburg-Prussia",
+    "year": "1618",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1771706",
+    "itemLabel": "Alania",
+    "year": "801",
     "sitelinks": "42"
   },
   {
@@ -2967,36 +2997,6 @@
     "item": "http://www.wikidata.org/entity/Q213353",
     "itemLabel": "Cisalpine Republic",
     "year": "1797",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q216632",
-    "itemLabel": "Mali Federation",
-    "year": "1959",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q335070",
-    "itemLabel": "Alba Longa",
-    "year": "-1200",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q371334",
-    "itemLabel": "Second Mexican Empire",
-    "year": "1864",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q374521",
-    "itemLabel": "Bahmani Sultanate",
-    "year": "1347",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q473748",
-    "itemLabel": "Buganda",
-    "year": "1420",
     "sitelinks": "42"
   }
 ]

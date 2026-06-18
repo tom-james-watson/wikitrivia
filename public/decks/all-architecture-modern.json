@@ -250,6 +250,16 @@
     "pageViews": 30014
   },
   {
+    "qid": "Q868772",
+    "title": "Trump Tower is completed",
+    "subtitle": "Skyscraper in Manhattan, New York",
+    "year": 1983,
+    "fact": "Trump Tower is a 58-story, 664-foot-tall (202 m) mixed-use condominium skyscraper at 721–725 Fifth Avenue in the Midtown Manhattan neighborhood of New York City, between East 56th and 57th Streets.",
+    "wikipediaSlug": "Trump_Tower",
+    "image": "Trump_Tower_(7181836700)_(cropped).jpg",
+    "pageViews": 30000
+  },
+  {
     "qid": "Q213322",
     "title": "Victoria and Albert Museum opens",
     "subtitle": "Museum in London, England, United Kingdom",
@@ -302,7 +312,7 @@
   {
     "qid": "Q1049209",
     "title": "The Venetian is completed",
-    "subtitle": "Hotel and casino resort in Las Vegas, Nevada, United States of Americas",
+    "subtitle": "Hotel and casino resort in Las Vegas, Nevada, United States",
     "year": 1999,
     "fact": "The Venetian Las Vegas is a luxury hotel and casino resort located on the Las Vegas Strip in Paradise, Nevada, United States.",
     "wikipediaSlug": "The_Venetian_Las_Vegas",
@@ -761,7 +771,7 @@
   },
   {
     "qid": "Q214867",
-    "title": "National Gallery of Art opens",
+    "title": "National Gallery of Art (Washington, D.C.) opens",
     "subtitle": "National art museum in Washington, D.C.",
     "year": 1941,
     "fact": "The National Gallery of Art is an art museum in Washington, D.C., United States, located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW.",
@@ -792,7 +802,7 @@
   {
     "qid": "Q2319878",
     "title": "Barbican Estate is completed",
-    "subtitle": "Residential estate in the City of London, England, UK",
+    "subtitle": "Publicly-owned district in the City of London",
     "year": 1969,
     "fact": "The Barbican Estate, or Barbican, is a residential complex of around 2,000 flats, maisonettes and houses in central London, England, within the City of London.",
     "wikipediaSlug": "Barbican_Estate",
@@ -932,7 +942,7 @@
   {
     "qid": "Q653858",
     "title": "Barbican Centre opens",
-    "subtitle": "Arts centre in the City of London",
+    "subtitle": "Performing arts centre in the City of London",
     "year": 1982,
     "fact": "The Barbican Centre is a performing arts centre in the Barbican Estate of the City of London, England, and the largest of its kind in Europe.",
     "wikipediaSlug": "Barbican_Centre",
@@ -1150,16 +1160,6 @@
     "pageViews": 11120
   },
   {
-    "qid": "Q818395",
-    "title": "San Diego Zoo opens",
-    "subtitle": "Zoo in Balboa Park, San Diego, California, United States",
-    "year": 1916,
-    "fact": "The San Diego Zoo is a zoo in San Diego, California, United States, located in Balboa Park.",
-    "wikipediaSlug": "San_Diego_Zoo",
-    "image": "San_Diego_Zoo_Entrance_.jpg",
-    "pageViews": 10897
-  },
-  {
     "qid": "Q69513",
     "title": "Pena Palace is completed",
     "subtitle": "Palace in Sintra, Portugal",
@@ -1173,7 +1173,7 @@
     "qid": "Q15264266",
     "title": "30 Hudson Yards is completed",
     "subtitle": "Supertall skyscraper in New York City",
-    "year": 2019,
+    "year": 2020,
     "fact": "30 Hudson Yards is a supertall commercial skyscraper on the West Side of Midtown Manhattan in New York City.",
     "wikipediaSlug": "30_Hudson_Yards",
     "image": "Hudson_Yards_from_Hudson_Commons_(95131p)_(30_Hudson_Yards).jpg",
@@ -1410,16 +1410,6 @@
     "pageViews": 8827
   },
   {
-    "qid": "Q739792",
-    "title": "Bronx Zoo opens",
-    "subtitle": "Metropolitan zoo in the Bronx, New York City, New York, USA",
-    "year": 1899,
-    "fact": "The Bronx Zoo is a zoo within Bronx Park in the Bronx, New York City.",
-    "wikipediaSlug": "Bronx_Zoo",
-    "image": "Bronx_Zoo_001.jpg",
-    "pageViews": 8813
-  },
-  {
     "qid": "Q192680",
     "title": "New York Times Building is completed",
     "subtitle": "Office skyscraper in Manhattan, New York",
@@ -1597,6 +1587,16 @@
     "fact": "The Ping An Finance Center is a 115-storey, 599.1-metre (1,966-foot) supertall skyscraper in Shenzhen, Guangdong, China.",
     "wikipediaSlug": "Ping_An_Finance_Centre",
     "image": "Pingan_International_Finance_Center2020.jpg",
+    "pageViews": 7773
+  },
+  {
+    "qid": "Q3533204",
+    "title": "Triangle is completed",
+    "subtitle": "Proposed skyscraper in Paris, France",
+    "year": 2021,
+    "fact": "The Tour Triangle is an under-construction skyscraper at the Parc des Expositions de la Porte de Versailles in Paris's Rive Gauche, France.",
+    "wikipediaSlug": "Tour_Triangle",
+    "image": "Tour_Triangle_-_Juillet_2025.jpg",
     "pageViews": 7773
   },
   {
@@ -1828,6 +1828,16 @@
     "wikipediaSlug": "Basilica_of_Our_Lady_of_Aparecida",
     "image": "Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida,_2007.jpg",
     "pageViews": 6783
+  },
+  {
+    "qid": "Q2151874",
+    "title": "Rideau Hall is completed",
+    "subtitle": "(Officially Governor House) is the official residence of the Canadian monarch",
+    "year": 1838,
+    "fact": "Rideau Hall is the official residence of the governor general of Canada, the representative of the monarch of Canada.",
+    "wikipediaSlug": "Rideau_Hall",
+    "image": "Ottawa_-_Rideau_Hall.JPG",
+    "pageViews": 6762
   },
   {
     "qid": "Q18341384",
@@ -2383,7 +2393,7 @@
     "qid": "Q2465115",
     "title": "Bahia Palace is completed",
     "subtitle": "Palace and museum in Marrakesh, Morocco",
-    "year": 1912,
+    "year": 1866,
     "fact": "The Bahia Palace is a mid to late 19th-century palace in Marrakesh, Morocco.",
     "wikipediaSlug": "Bahia_Palace",
     "image": "Bahia_Palace_large_court.jpg",
@@ -2542,7 +2552,7 @@
   {
     "qid": "Q157316",
     "title": "Neues Museum opens",
-    "subtitle": "Museum in Berlin, Germany",
+    "subtitle": "Name of one of the museum buildings on the Museum Island in Berlin, Germany",
     "year": 1859,
     "fact": "The Neues Museum is a listed building on the Museum Island of Berlin.",
     "wikipediaSlug": "Neues_Museum",
@@ -2900,16 +2910,6 @@
     "pageViews": 4380
   },
   {
-    "qid": "Q22342143",
-    "title": "Laguna Garzón Bridge is completed",
-    "subtitle": "Bridge in Uruguay",
-    "year": 2015,
-    "fact": "The Laguna Garzón Bridge is a bridge crossing the Laguna Garzón in Uruguay, on the border between the Maldonado and Rocha departments.",
-    "wikipediaSlug": "Laguna_Garz%C3%B3n_Bridge",
-    "image": "Bridge_Laguna_Garzón¡.jpg",
-    "pageViews": 4342
-  },
-  {
     "qid": "Q667450",
     "title": "Cathedral of Our Lady Immaculate is completed",
     "subtitle": "Monaco",
@@ -3098,6 +3098,16 @@
     "wikipediaSlug": "Mus%C3%A9e_de_Cluny",
     "image": "Paris_2012-aout-0006-2-Hotel-de-Cluny.jpg",
     "pageViews": 4192
+  },
+  {
+    "qid": "Q7013741",
+    "title": "New York Marriott Marquis is completed",
+    "subtitle": "Hotel in Manhattan, New York",
+    "year": 1985,
+    "fact": "The New York Marriott Marquis is a Marriott hotel on Times Square, in the Theater District of Midtown Manhattan in New York City, New York, U.S.",
+    "wikipediaSlug": "New_York_Marriott_Marquis",
+    "image": "New_York_Marriott_Marquis_(54077363060).jpg",
+    "pageViews": 4169
   },
   {
     "qid": "Q1061094",
@@ -3540,6 +3550,16 @@
     "pageViews": 3696
   },
   {
+    "qid": "Q1050032",
+    "title": "Museu Picasso opens",
+    "subtitle": "Art museum in Barcelona, Spain",
+    "year": 1963,
+    "fact": "The Museu Picasso is an art museum in Barcelona, in Catalonia, Spain.",
+    "wikipediaSlug": "Museu_Picasso",
+    "image": "Museu_Picasso_Barcelona.jpg",
+    "pageViews": 3678
+  },
+  {
     "qid": "Q338330",
     "title": "Gallerie dell'Accademia opens",
     "subtitle": "Art museum in Venice, Italy",
@@ -3980,6 +4000,16 @@
     "pageViews": 3275
   },
   {
+    "qid": "Q1350750",
+    "title": "Church of St Nicholas is completed",
+    "subtitle": "Church in Amsterdam",
+    "year": 1887,
+    "fact": "The Co-cathedral Basilica of Saint Nicholas is located in the Old Centre district of Amsterdam, Netherlands, very close to Amsterdam's main railway station.",
+    "wikipediaSlug": "Basilica_of_Saint_Nicholas,_Amsterdam",
+    "image": "AMSTERDAM_HOLLAND_APRIL_2013_(8711705082).jpg",
+    "pageViews": 3268
+  },
+  {
     "qid": "Q1809044",
     "title": "La Jument is completed",
     "subtitle": "Lighthouse in Finistère, France",
@@ -4038,16 +4068,6 @@
     "wikipediaSlug": "Munch_Museum",
     "image": "The_new_Munch_Museum_(white_color_sign).jpg",
     "pageViews": 3232
-  },
-  {
-    "qid": "Q154828",
-    "title": "Berlin Zoological Garden opens",
-    "subtitle": "Zoo in Germany",
-    "year": 1844,
-    "fact": "The Berlin Zoological Garden is the oldest surviving and best-known zoo in Germany.",
-    "wikipediaSlug": "Berlin_Zoo",
-    "image": "Berlin_Elefantentor_09-2017.jpg",
-    "pageViews": 3226
   },
   {
     "qid": "Q804009",
@@ -4451,7 +4471,7 @@
   },
   {
     "qid": "Q1535247",
-    "title": "Musée d’Art Moderne opens",
+    "title": "Palais de Tokyo opens",
     "subtitle": "Building in Paris",
     "year": 1937,
     "fact": "The Palais de Tokyo is a building dedicated to modern and contemporary art, located at 13 avenue du Président-Wilson, facing the Trocadéro, in the 16th arrondissement of Paris.",
@@ -4517,6 +4537,16 @@
     "fact": "The Mosque of Rome, also known as the Great Mosque of Rome, is a Friday mosque situated in Parioli, Rome, Italy.",
     "wikipediaSlug": "Mosque_of_Rome",
     "image": "Moschea_di_Roma_30.jpg",
+    "pageViews": 2756
+  },
+  {
+    "qid": "Q4346741",
+    "title": "Thanh Hoa Bridge is completed",
+    "subtitle": "Bridge in Thanh Hoa, Vietnam",
+    "year": 1904,
+    "fact": "The Thanh Hóa Bridge, spanning the Song Ma river, is situated 3 miles (4.8 km) northeast of Thanh Hóa, the capital of Thanh Hóa Province in Vietnam.",
+    "wikipediaSlug": "Thanh_H%C3%B3a_Bridge",
+    "image": "ThanhHoaBridge1.jpg",
     "pageViews": 2756
   },
   {
@@ -4670,6 +4700,16 @@
     "pageViews": 2636
   },
   {
+    "qid": "Q937209",
+    "title": "Tajbeg Palace is completed",
+    "subtitle": "Palace in Kabul, Afghanistan",
+    "year": 1920,
+    "fact": "Tajbeg Palace, also called the Queen's Palace, during the rule of the Kingdom of Afghanistan is one of the palaces in the popular Darulaman area of Kabul, Afghanistan.",
+    "wikipediaSlug": "Tajbeg_Palace",
+    "image": "Evstafiev-40th_army_HQ-Amin-palace-Kabul.jpg",
+    "pageViews": 2630
+  },
+  {
     "qid": "Q684027",
     "title": "Key Tower is completed",
     "subtitle": "Skyscraper in Cleveland, Ohio",
@@ -4678,16 +4718,6 @@
     "wikipediaSlug": "Key_Tower",
     "image": "Key_Tower_2022.png",
     "pageViews": 2627
-  },
-  {
-    "qid": "Q239028",
-    "title": "Stoclet Palace is completed",
-    "subtitle": "Historic mansion in Brussels, Belgium",
-    "year": 1911,
-    "fact": "The Stoclet Palace, also known as the Stoclet House, is a historic mansion in Woluwe-Saint-Pierre, a municipality of Brussels, Belgium.",
-    "wikipediaSlug": "Stoclet_Palace",
-    "image": "20120923_Brussels_PalaisStoclet_Hoffmann_DSC06725_PtrQs.jpg",
-    "pageViews": 2626
   },
   {
     "qid": "Q902222",
@@ -4712,7 +4742,7 @@
   {
     "qid": "Q917820",
     "title": "London Museum opens",
-    "subtitle": "Museum in London, United Kingdom, documenting the city's history",
+    "subtitle": "Museum in the City of London",
     "year": 1976,
     "fact": "London Museum is a museum in London, covering the history of the city from prehistoric to modern times, with a particular focus on social history.",
     "wikipediaSlug": "London_Museum",
@@ -5320,6 +5350,16 @@
     "pageViews": 2217
   },
   {
+    "qid": "Q1304121",
+    "title": "Kremlin Armoury opens",
+    "subtitle": "Museum and cultural heritage site in Russia",
+    "year": 1851,
+    "fact": "The Kremlin Armoury is one of the oldest museums in Moscow.",
+    "wikipediaSlug": "Kremlin_Armoury",
+    "image": "MoscowKremlin_Armoury_S30.jpg",
+    "pageViews": 2209
+  },
+  {
     "qid": "Q121198",
     "title": "Qol Şärif Mosque is completed",
     "subtitle": "Mosque in Qazan Kremlin, Qazan, Tatarstan",
@@ -5370,6 +5410,16 @@
     "pageViews": 2179
   },
   {
+    "qid": "Q143235",
+    "title": "Wuhan Greenland Center is completed",
+    "subtitle": "Building in Wuhan Greenland Center, China",
+    "year": 2023,
+    "fact": "Wuhan Greenland Center is a 476-metre (1,562 ft) supertall Skyscraper in Wuhan, China.",
+    "wikipediaSlug": "Wuhan_Greenland_Center",
+    "image": "(CHN-Hubei)_Wuhan_Greenland_Center_2024-12-01.jpg",
+    "pageViews": 2179
+  },
+  {
     "qid": "Q340549",
     "title": "Akhmad Kadyrov Mosque is completed",
     "subtitle": "Mosque in Russia",
@@ -5408,16 +5458,6 @@
     "wikipediaSlug": "PSFS_Building",
     "image": "PSFSBuilding1985.jpg",
     "pageViews": 2123
-  },
-  {
-    "qid": "Q4890",
-    "title": "Gemäldegalerie Alte Meister opens",
-    "subtitle": "Art gallery in Dresden, Germany",
-    "year": 1855,
-    "fact": "The Gemäldegalerie Alte Meister in Dresden, Germany, displays around 750 paintings from the 15th to the 18th centuries.",
-    "wikipediaSlug": "Gem%C3%A4ldegalerie_Alte_Meister",
-    "image": "Dresden-Zwinger-Courtyard.11.JPG",
-    "pageViews": 2120
   },
   {
     "qid": "Q1113721",
@@ -5508,6 +5548,16 @@
     "wikipediaSlug": "State_Historical_Museum",
     "image": "Museo_Estatal_de_Historia,_Moscú,_Rusia,_2016-10-03,_DD_49.jpg",
     "pageViews": 2035
+  },
+  {
+    "qid": "Q1519373",
+    "title": "Palacio Salvo is completed",
+    "subtitle": "Skyscraper in Montevideo, Uruguay",
+    "year": 1928,
+    "fact": "The Palacio Salvo is an eclectic skyscraper at the intersection of 18 de Julio Avenue and Plaza Independencia in the Centro neighbourhood of Montevideo, Uruguay.",
+    "wikipediaSlug": "Palacio_Salvo",
+    "image": "Palacio_Salvo_Logo.jpg",
+    "pageViews": 2026
   },
   {
     "qid": "Q1810949",
@@ -5871,7 +5921,7 @@
   },
   {
     "qid": "Q375910",
-    "title": "Kavanagh building is completed",
+    "title": "Argentine is completed",
     "subtitle": "Residential skyscraper in Retiro, Buenos Aires",
     "year": 1936,
     "fact": "The Kavanagh Building is a residential skyscraper in Retiro, Buenos Aires, Argentina.",
@@ -6411,7 +6461,7 @@
   },
   {
     "qid": "Q15078644",
-    "title": "Marble Palace (Ramsar) is completed",
+    "title": "Marble Palace is completed",
     "subtitle": "Palace in Ramsar, Iranian national heritage site",
     "year": 1937,
     "fact": "The Ramsar Palace or Marmar Palace is a historic royal residence located in Ramsar, on Iran's Caspian coast.",
@@ -6740,14 +6790,14 @@
     "pageViews": 1531
   },
   {
-    "qid": "Q810122",
-    "title": "Church of St. Anthony of Padua is completed",
-    "subtitle": "Church of the Roman Catholic Church in Istanbul",
-    "year": 1906,
-    "fact": "The Church of St.",
-    "wikipediaSlug": "Church_of_Saint_Anthony_of_Padua,_Istanbul",
-    "image": "Istanbul_asv2021-11_img71_StAnthony_of_Padua_Church.jpg",
-    "pageViews": 1517
+    "qid": "Q4022677",
+    "title": "Kampala Mosque is completed",
+    "subtitle": "Mosque in Uganda",
+    "year": 1978,
+    "fact": "The Uganda National Mosque, previously known as the Gaddafi National Mosque, is a mosque located at Kampala Hill in the Old Kampala area of Kampala, Uganda.",
+    "wikipediaSlug": "Uganda_National_Mosque",
+    "image": "Aerial_view_of_the_Gaddafi_mosque_in_Uganda.jpg",
+    "pageViews": 1515
   },
   {
     "qid": "Q2993402",
@@ -6757,16 +6807,6 @@
     "fact": "Masjid-e-Tooba also known as Gol Masjid, is a mosque located in the city of Karachi in Sindh province of Pakistan.",
     "wikipediaSlug": "Masjid-e-Tooba",
     "image": "PK_Karachi_asv2020-02_img57_Tooba_Mosque.jpg",
-    "pageViews": 1515
-  },
-  {
-    "qid": "Q4022677",
-    "title": "Kampala Mosque is completed",
-    "subtitle": "Mosque in Uganda",
-    "year": 1978,
-    "fact": "The Uganda National Mosque, previously known as the Gaddafi National Mosque, is a mosque located at Kampala Hill in the Old Kampala area of Kampala, Uganda.",
-    "wikipediaSlug": "Uganda_National_Mosque",
-    "image": "Aerial_view_of_the_Gaddafi_mosque_in_Uganda.jpg",
     "pageViews": 1515
   },
   {
@@ -7010,16 +7050,6 @@
     "pageViews": 1433
   },
   {
-    "qid": "Q613676",
-    "title": "Moscow Zoo opens",
-    "subtitle": "Zoo in Moscow, Russia",
-    "year": 1864,
-    "fact": "The Moscow Zoo or Moskovsky Zoopark is a 21.5-hectare (53-acre) zoo, one of the largest in Russia and one of the oldest in Europe.",
-    "wikipediaSlug": "Moscow_Zoo",
-    "image": "Moscow_05-2017_img25_Zoo_main_entrance.jpg",
-    "pageViews": 1431
-  },
-  {
     "qid": "Q138752",
     "title": "25 Bank Street is completed",
     "subtitle": "Building in London",
@@ -7068,6 +7098,16 @@
     "wikipediaSlug": "Fountain_Place",
     "image": "Fountain_place.jpg",
     "pageViews": 1414
+  },
+  {
+    "qid": "Q4984151",
+    "title": "Buddha Dhatu Jadi is completed",
+    "subtitle": "The largest Theravada Buddhist temple in Bangladesh",
+    "year": 1995,
+    "fact": "The Buddha Dhatu Jadi is located close to Balaghata town, in Bandarban City, in Bangladesh.",
+    "wikipediaSlug": "Buddha_Dhatu_Jadi",
+    "image": "Buddha_Dhatu_Jadi_05.jpg",
+    "pageViews": 1408
   },
   {
     "qid": "Q49633",
@@ -7290,18 +7330,8 @@
     "pageViews": 1309
   },
   {
-    "qid": "Q1149480",
-    "title": "Temple of All Religions is completed",
-    "subtitle": "Architectural structure",
-    "year": 1992,
-    "fact": "The Temple of All Religions or the Universal Temple is an architectural complex in the Staroye Arakchino Microdistrict of Kazan, Russia.",
-    "wikipediaSlug": "Temple_of_All_Religions",
-    "image": "Kazan_church_edit1.jpg",
-    "pageViews": 1305
-  },
-  {
     "qid": "Q1352282",
-    "title": "National Archaeological Museum opens",
+    "title": "National Museum of Archaeology opens",
     "subtitle": "Archaeological museum in Madrid, Spain",
     "year": 1871,
     "fact": "The National Archaeological Museum is a archaeology museum in Madrid, Spain.",
@@ -7588,6 +7618,16 @@
     "wikipediaSlug": "Deutsche_Oper_Berlin",
     "image": "Deutsche_Oper_Berlin._Ansicht_von_Südosten.jpg",
     "pageViews": 1227
+  },
+  {
+    "qid": "Q713124",
+    "title": "Natura Artis Magistra opens",
+    "subtitle": "Zoo in Amsterdam, the Netherlands",
+    "year": 1838,
+    "fact": "Natura Artis Magistra, commonly known just as Artis, is a zoo and botanical garden in the centre of Amsterdam.",
+    "wikipediaSlug": "Artis_(zoo)",
+    "image": "ArtisIngang.jpg",
+    "pageViews": 1225
   },
   {
     "qid": "Q3533060",
@@ -8090,6 +8130,16 @@
     "pageViews": 1120
   },
   {
+    "qid": "Q1136822",
+    "title": "Azerbaijan Carpet Museum opens",
+    "subtitle": "Art museum",
+    "year": 1967,
+    "fact": "Azerbaijan National Carpet Museum is a museum located in Baku that displays Azerbaijani carpets and rugs with historical and modern weaving techniques and materials.",
+    "wikipediaSlug": "Azerbaijan_Carpet_Museum",
+    "image": "Azərbaycan_xalça_muzeyi.jpg",
+    "pageViews": 1119
+  },
+  {
     "qid": "Q1742908",
     "title": "Kiruna Church is completed",
     "subtitle": "Swedish church building in Kiruna",
@@ -8387,6 +8437,16 @@
     "fact": "Grimeton Radio Station in southern Sweden, close to Varberg in Halland, is an early longwave transatlantic wireless telegraphy station built in 1922–1924, that has been preserved as a historical site.",
     "wikipediaSlug": "Grimeton_Radio_Station",
     "image": "Varberg_Radio_Station.jpg",
+    "pageViews": 1049
+  },
+  {
+    "qid": "Q1774820",
+    "title": "Parc1 is completed",
+    "subtitle": "Supertall skyscraper in Seoul",
+    "year": 2020,
+    "fact": "Parc1 (Korean: 파크원) is a complex of buildings in Yeouido, Seoul, South Korea.",
+    "wikipediaSlug": "Parc1",
+    "image": "The_Hyundai_Seoul_Yeoui-dong_1.jpg",
     "pageViews": 1049
   },
   {

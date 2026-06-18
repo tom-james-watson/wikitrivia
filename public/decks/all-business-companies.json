@@ -90,16 +90,6 @@
     "pageViews": 92105
   },
   {
-    "qid": "Q41187",
-    "title": "Sony Group is founded",
-    "subtitle": "Japanese multinational conglomerate corporation",
-    "year": 1946,
-    "fact": "Sony Group Corporation, commonly referred to as Sony, is a Japanese multinational conglomerate headquartered at Sony City in Minato, Tokyo, Japan.",
-    "wikipediaSlug": "Sony",
-    "image": "Sony_headquaters_1.jpg",
-    "pageViews": 89426
-  },
-  {
     "qid": "Q194297",
     "title": "Guinness is founded",
     "subtitle": "Irish brand of beer",
@@ -108,6 +98,16 @@
     "wikipediaSlug": "Guinness",
     "image": "Guinness_logo_dark_text.svg",
     "pageViews": 89063
+  },
+  {
+    "qid": "Q715583",
+    "title": "Costco is founded",
+    "subtitle": "American multinational chain of membership-only stores",
+    "year": 1983,
+    "fact": "Costco Wholesale Corporation is an American multinational corporation that operates a chain of membership-only big-box warehouse club retail stores.",
+    "wikipediaSlug": "Costco",
+    "image": "Costcoheadquarters.jpg",
+    "pageViews": 87746
   },
   {
     "qid": "Q131324035",
@@ -128,26 +128,6 @@
     "wikipediaSlug": "Lego",
     "image": "LEGO_logo.svg",
     "pageViews": 82789
-  },
-  {
-    "qid": "Q27586",
-    "title": "Ferrari is founded",
-    "subtitle": "Italian luxury sports car manufacturer",
-    "year": 1947,
-    "fact": "Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello, Italy.",
-    "wikipediaSlug": "Ferrari",
-    "image": "フェラーリ本社前_(36309429124).jpg",
-    "pageViews": 78124
-  },
-  {
-    "qid": "Q154950",
-    "title": "Shell is founded",
-    "subtitle": "British multinational oil and gas company",
-    "year": 1890,
-    "fact": "Shell plc is a British multinational oil and gas company, headquartered in London, England.",
-    "wikipediaSlug": "Shell_plc",
-    "image": "The_Shell_Centre_(8709496019).jpg",
-    "pageViews": 78074
   },
   {
     "qid": "Q246",
@@ -330,26 +310,6 @@
     "pageViews": 53807
   },
   {
-    "qid": "Q55606242",
-    "title": "ByteDance is founded",
-    "subtitle": "Chinese Internet and technology company",
-    "year": 2012,
-    "fact": "ByteDance is a Chinese internet technology company headquartered in Haidian, Beijing.",
-    "wikipediaSlug": "ByteDance",
-    "image": "ByteDance_1733_Commercial_Space_(20240731145554).jpg",
-    "pageViews": 51638
-  },
-  {
-    "qid": "Q622358",
-    "title": "Indian Institutes of Technology is founded",
-    "subtitle": "Group of autonomous Indian public engineering institutes",
-    "year": 1956,
-    "fact": "The Indian Institutes of Technology (IITs) are a network of prestigious, autonomous public engineering and technology institutions in India.",
-    "wikipediaSlug": "Indian_Institutes_of_Technology",
-    "image": "IIT_Kharagpur_2016.jpg",
-    "pageViews": 51512
-  },
-  {
     "qid": "Q29570",
     "title": "Chevrolet is founded",
     "subtitle": "American automobile division of GM",
@@ -420,6 +380,16 @@
     "pageViews": 49679
   },
   {
+    "qid": "Q260833",
+    "title": "SanDisk is founded",
+    "subtitle": "American semiconductor company - memory and storage technologies",
+    "year": 1988,
+    "fact": "Sandisk Corporation is an American multinational computer semiconductor company based in Milpitas, California.",
+    "wikipediaSlug": "Sandisk",
+    "image": "Sandisk-HQ.png",
+    "pageViews": 47025
+  },
+  {
     "qid": "Q188326",
     "title": "H&M is founded",
     "subtitle": "Swedish multinational clothing-retail company",
@@ -448,6 +418,16 @@
     "wikipediaSlug": "My_Little_Pony",
     "image": "My_little_pony_logo22.svg",
     "pageViews": 45810
+  },
+  {
+    "qid": "Q30113",
+    "title": "Jeep is founded",
+    "subtitle": "US automotive company",
+    "year": 1941,
+    "fact": "Jeep is an American automobile brand, now owned by multi-national corporation Stellantis.",
+    "wikipediaSlug": "Jeep",
+    "image": "Kelly_Jeep_Chrysler_Dealership.jpg",
+    "pageViews": 45472
   },
   {
     "qid": "Q183387",
@@ -610,16 +590,6 @@
     "pageViews": 38819
   },
   {
-    "qid": "Q154037",
-    "title": "TotalEnergies is founded",
-    "subtitle": "French multinational energy and petroleum company",
-    "year": 1924,
-    "fact": "TotalEnergies SE is a French multinational integrated energy and petroleum company founded in 1924 and is one of the seven supermajor oil companies.",
-    "wikipediaSlug": "TotalEnergies",
-    "image": "Tour-Total.jpg",
-    "pageViews": 38471
-  },
-  {
     "qid": "Q35935",
     "title": "Lotus Cars is founded",
     "subtitle": "British manufacturer of sports and racing cars",
@@ -688,16 +658,6 @@
     "wikipediaSlug": "Tamagotchi",
     "image": "Tamagotchi_0124_ubt.jpeg",
     "pageViews": 34983
-  },
-  {
-    "qid": "Q26921",
-    "title": "Alfa Romeo is founded",
-    "subtitle": "Italian automotive company",
-    "year": 1910,
-    "fact": "Alfa Romeo Automobiles S.p.A. is an Italian car manufacturer known for its sports-oriented vehicles, strong auto racing heritage, and iconic design.",
-    "wikipediaSlug": "Alfa_Romeo",
-    "image": "ALFA_ROMEO_badge_on_a_car_(cropped).jpg",
-    "pageViews": 34726
   },
   {
     "qid": "Q40966",
@@ -810,16 +770,6 @@
     "pageViews": 32395
   },
   {
-    "qid": "Q27597",
-    "title": "Fiat is founded",
-    "subtitle": "Italian automotive company",
-    "year": 1899,
-    "fact": "Fiat Automobiles S.p.A., commonly known as Fiat, is an Italian automobile manufacturer.",
-    "wikipediaSlug": "Fiat",
-    "image": "FiatMirafiori6.jpg",
-    "pageViews": 31573
-  },
-  {
     "qid": "Q215657",
     "title": "KTM is founded",
     "subtitle": "Austrian motorcycle and sports car brand",
@@ -828,16 +778,6 @@
     "wikipediaSlug": "KTM",
     "image": "KTM_Main_Building.jpg",
     "pageViews": 31566
-  },
-  {
-    "qid": "Q35962",
-    "title": "Maserati is founded",
-    "subtitle": "Italian luxury car manufacturer",
-    "year": 1914,
-    "fact": "Maserati S.p.A. is an Italian luxury car manufacturer.",
-    "wikipediaSlug": "Maserati",
-    "image": "Maserati_Modène_0002.JPG",
-    "pageViews": 31557
   },
   {
     "qid": "Q6746",
@@ -1020,16 +960,6 @@
     "pageViews": 27988
   },
   {
-    "qid": "Q184478",
-    "title": "University of California is founded",
-    "subtitle": "University system in California, United States",
-    "year": 1868,
-    "fact": "The University of California (UC) is a public land-grant research university system in the U.S. state of California.",
-    "wikipediaSlug": "University_of_California",
-    "image": "Seal_of_the_University_of_California.svg",
-    "pageViews": 27935
-  },
-  {
     "qid": "Q207922",
     "title": "Atari is founded",
     "subtitle": "Brand name owned by Atari Interactive",
@@ -1160,16 +1090,6 @@
     "pageViews": 24237
   },
   {
-    "qid": "Q214480",
-    "title": "Dolce & Gabbana is founded",
-    "subtitle": "Italian fashion house",
-    "year": 1980,
-    "fact": "Dolce & Gabbana, also known by initials D&G, is an Italian fashion house founded in 1985 in Legnano by Italian designers Domenico Dolce and Stefano Gabbana.",
-    "wikipediaSlug": "Dolce_%26_Gabbana",
-    "image": "Dolce_&_Gabbana_Store_(51396804775).jpg",
-    "pageViews": 24160
-  },
-  {
     "qid": "Q9401",
     "title": "BASF is founded",
     "subtitle": "German chemical company with worldwide reach",
@@ -1218,6 +1138,16 @@
     "wikipediaSlug": "Ray-Ban",
     "image": "Ray-Ban_logo.svg",
     "pageViews": 23660
+  },
+  {
+    "qid": "Q270285",
+    "title": "Apple TV is founded",
+    "subtitle": "Home media receiver device made by Apple",
+    "year": 2007,
+    "fact": "Apple TV is a digital media player and microconsole made by Apple.",
+    "wikipediaSlug": "Apple_TV_(device)",
+    "image": "Apple_TV_4K_(3rd_Generation,_2022)_with_Siri_Remote_(cropped).jpg",
+    "pageViews": 23562
   },
   {
     "qid": "Q376627",
@@ -1278,6 +1208,16 @@
     "wikipediaSlug": "Toblerone",
     "image": "Toblerone_3362.jpg",
     "pageViews": 23124
+  },
+  {
+    "qid": "Q1542317",
+    "title": "J.C. Bamford Excavators is founded",
+    "subtitle": "British equipment manufacturer",
+    "year": 1945,
+    "fact": "J.C.",
+    "wikipediaSlug": "JCB_(heavy_equipment_manufacturer)",
+    "image": "JCB_(J.C._Bamford_Excavators_Limited)_logo.svg",
+    "pageViews": 22984
   },
   {
     "qid": "Q116232",
@@ -1410,9 +1350,19 @@
     "pageViews": 21663
   },
   {
+    "qid": "Q221692",
+    "title": "Petronas Gas Berhad is founded",
+    "subtitle": "Malaysian state-owned oil and gas company",
+    "year": 1974,
+    "fact": "Petroliam Nasional Berhad, commonly known as PETRONAS, is a Malaysian multinational oil and gas company headquartered in Kuala Lumpur.",
+    "wikipediaSlug": "Petronas",
+    "image": "PETRONAS_Logo_(2013).png",
+    "pageViews": 21654
+  },
+  {
     "qid": "Q584601",
     "title": "Baskin-Robbins is founded",
-    "subtitle": "US international ice cream parlor chain",
+    "subtitle": "American multinational ice cream parlor chain",
     "year": 1945,
     "fact": "Baskin-Robbins, Inc. is an American multinational chain of ice cream and cake specialty shops owned by Inspire Brands.",
     "wikipediaSlug": "Baskin-Robbins",
@@ -1548,16 +1498,6 @@
     "wikipediaSlug": "Camel_(cigarette)",
     "image": "Camel_cigarettes_logo.png",
     "pageViews": 19237
-  },
-  {
-    "qid": "Q35896",
-    "title": "Lancia is founded",
-    "subtitle": "Italian automotive company",
-    "year": 1906,
-    "fact": "Lancia Automobiles S.p.A. is an Italian car manufacturer and a subsidiary of Stellantis Europe, which is the European subsidiary of Stellantis.",
-    "wikipediaSlug": "Lancia",
-    "image": "Grattacielo_uffici_Lancia.JPG",
-    "pageViews": 19235
   },
   {
     "qid": "Q538587",
@@ -1702,7 +1642,7 @@
   {
     "qid": "Q598884",
     "title": "Hilton Hotels & Resorts is founded",
-    "subtitle": "American hotel and resorts company",
+    "subtitle": "Hotel brand by Hilton Worldwide",
     "year": 1919,
     "fact": "Hilton Hotels & Resorts is a global brand of full-service hotels and resorts and the flagship brand of American multinational hospitality company Hilton Worldwide.",
     "wikipediaSlug": "Hilton_Hotels_%26_Resorts",
@@ -1760,16 +1700,6 @@
     "pageViews": 15310
   },
   {
-    "qid": "Q1140241",
-    "title": "State University of New York is founded",
-    "subtitle": "Public university system in the state of New York, United States",
-    "year": 1948,
-    "fact": "The State University of New York is a system of public colleges and universities in the State of New York.",
-    "wikipediaSlug": "State_University_of_New_York",
-    "image": "SUNY_brandmark.svg",
-    "pageViews": 14901
-  },
-  {
     "qid": "Q817139",
     "title": "Benetton Group is founded",
     "subtitle": "Italian multinational clothing retailer",
@@ -1778,16 +1708,6 @@
     "wikipediaSlug": "Benetton_Group",
     "image": "04_United_Colors_of_Benetton_shop,_Parma,_Italy_-_ベネトン.jpg",
     "pageViews": 14855
-  },
-  {
-    "qid": "Q815352",
-    "title": "California State University is founded",
-    "subtitle": "Public university system in California, United States",
-    "year": 1857,
-    "fact": "The California State University is a public university system in California, and the largest public university system in the United States.",
-    "wikipediaSlug": "California_State_University",
-    "image": "Seal_of_the_California_State_University.svg",
-    "pageViews": 14739
   },
   {
     "qid": "Q229680",
@@ -1808,16 +1728,6 @@
     "wikipediaSlug": "Carl%27s_Jr.",
     "image": "Carls_Jr_Rancho_Cordova.jpg",
     "pageViews": 14612
-  },
-  {
-    "qid": "Q874407",
-    "title": "Lipton is founded",
-    "subtitle": "British-origin food and beverage brand",
-    "year": 1890,
-    "fact": "Lipton is a British brand owned by Lipton Teas and Infusions.",
-    "wikipediaSlug": "Lipton",
-    "image": "Lipton_%_282025%_29.webp",
-    "pageViews": 14313
   },
   {
     "qid": "Q827306",
@@ -1870,16 +1780,6 @@
     "pageViews": 13675
   },
   {
-    "qid": "Q6608367",
-    "title": "Indiana University is founded",
-    "subtitle": "University system, Indiana, United States",
-    "year": 1820,
-    "fact": "Indiana University (IU) is a system of public universities in the U.S. state of Indiana.",
-    "wikipediaSlug": "Indiana_University",
-    "image": "Indiana_State_Seminary_Act,_1820.jpg",
-    "pageViews": 13666
-  },
-  {
     "qid": "Q155152",
     "title": "Polydor is founded",
     "subtitle": "German-British record label",
@@ -1908,6 +1808,16 @@
     "wikipediaSlug": "Decca_Records",
     "image": "Decca_Records.svg",
     "pageViews": 13193
+  },
+  {
+    "qid": "Q2717882",
+    "title": "Holiday Inn is founded",
+    "subtitle": "Upper-midscale hotel chain run by IHG",
+    "year": 1952,
+    "fact": "Holiday Inn by IHG is an American chain of hotels based in Atlanta, Georgia and a brand of IHG Hotels & Resorts.",
+    "wikipediaSlug": "Holiday_Inn",
+    "image": "Holiday_Inn_by_IHG_logo.svg",
+    "pageViews": 13182
   },
   {
     "qid": "Q869733",
@@ -2250,16 +2160,6 @@
     "pageViews": 8614
   },
   {
-    "qid": "Q746592",
-    "title": "University of the Philippines is founded",
-    "subtitle": "National university of the Philippines",
-    "year": 1908,
-    "fact": "The University of the Philippines is a state public university system and the national university of the Philippines under Republic Act No.",
-    "wikipediaSlug": "University_of_the_Philippines",
-    "image": "University_of_The_Philippines_seal.svg",
-    "pageViews": 8585
-  },
-  {
     "qid": "Q174747",
     "title": "Repsol is founded",
     "subtitle": "Spanish multinational energy and petrochemical company",
@@ -2340,6 +2240,16 @@
     "pageViews": 6185
   },
   {
+    "qid": "Q701755",
+    "title": "Edeka is founded",
+    "subtitle": "German supermarket chain",
+    "year": 1907,
+    "fact": "The Edeka Group is the largest German supermarket corporation as of 2017, holding a market share of 25.3%.",
+    "wikipediaSlug": "Edeka",
+    "image": "Edeka_Logo_Aktuell.svg",
+    "pageViews": 6077
+  },
+  {
     "qid": "Q691029",
     "title": "Pull&Bear is founded",
     "subtitle": "Multinational clothing retailer from Spain",
@@ -2412,7 +2322,7 @@
   {
     "qid": "Q234707",
     "title": "Sofia Metro is founded",
-    "subtitle": "Rapid transit system of Sofia, Bulgaria",
+    "subtitle": "Rapid underground transit system of Sofia, Bulgaria",
     "year": 1998,
     "fact": "The Sofia Metro is the rapid transit network servicing the Bulgarian capital city Sofia.",
     "wikipediaSlug": "Sofia_Metro",

@@ -5,6 +5,7 @@ SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?creatorName) AS ?cre
     wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
     rdfs:label ?itemLabel.
   FILTER(LANG(?itemLabel) = "en")
+  FILTER(?item != wd:Q1247110) # "Landscape with the Fall of Icarus" has only millennium-precision inception
   OPTIONAL {
     ?item wdt:P170 ?creator.
     ?creator rdfs:label ?creatorName.
@@ -16,5 +17,4 @@ SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?creatorName) AS ?cre
 GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
 ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
 LIMIT 500
-
 

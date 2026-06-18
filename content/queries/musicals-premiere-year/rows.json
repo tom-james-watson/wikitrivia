@@ -11,7 +11,7 @@
     "itemLabel": "Jesus Christ Superstar",
     "year": "1970",
     "authorLabel": "Andrew Lloyd Webber",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q669010",
@@ -25,7 +25,7 @@
     "itemLabel": "The Phantom of the Opera",
     "year": "1986",
     "authorLabel": "Andrew Lloyd Webber",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q337097",
@@ -35,25 +35,25 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q487330",
-    "itemLabel": "Fiddler on the Roof",
-    "year": "1964",
-    "authorLabel": "Jerry Bock",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q19320959",
     "itemLabel": "Hamilton",
     "year": "2015",
     "authorLabel": "Lin-Manuel Miranda",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q830581",
     "itemLabel": "Les Misérables",
     "year": "1980",
     "authorLabel": "Claude-Michel Schönberg",
-    "sitelinks": "37"
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q487330",
+    "itemLabel": "Fiddler on the Roof",
+    "year": "1964",
+    "authorLabel": "Jerry Bock",
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1165499",
@@ -70,17 +70,17 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q686861",
-    "itemLabel": "Mamma Mia!",
-    "year": "1999",
-    "authorLabel": "Benny Andersson",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1022513",
     "itemLabel": "The Sound of Music",
     "year": "1959",
     "authorLabel": "Richard Rodgers",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q686861",
+    "itemLabel": "Mamma Mia!",
+    "year": "1999",
+    "authorLabel": "Benny Andersson",
     "sitelinks": "30"
   },
   {
@@ -91,13 +91,6 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q830549",
-    "itemLabel": "Evita",
-    "year": "1978",
-    "authorLabel": "Andrew Lloyd Webber",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q656285",
     "itemLabel": "Chicago",
     "year": "1975",
@@ -105,17 +98,24 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q553890",
-    "itemLabel": "Rent",
-    "year": "1996",
-    "authorLabel": "Jonathan Larson",
-    "sitelinks": "28"
+    "item": "http://www.wikidata.org/entity/Q830549",
+    "itemLabel": "Evita",
+    "year": "1978",
+    "authorLabel": "Andrew Lloyd Webber",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q611626",
     "itemLabel": "Grease",
     "year": "1971",
     "authorLabel": "Warren Casey",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q553890",
+    "itemLabel": "Rent",
+    "year": "1996",
+    "authorLabel": "Jonathan Larson",
     "sitelinks": "28"
   },
   {
@@ -140,6 +140,13 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1064850",
+    "itemLabel": "The Book of Mormon",
+    "year": "2011",
+    "authorLabel": "Matt Stone",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1326940",
     "itemLabel": "Sweeney Todd: The Demon Barber of Fleet Street",
     "year": "1979",
@@ -154,17 +161,10 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1064850",
-    "itemLabel": "The Book of Mormon",
-    "year": "2011",
-    "authorLabel": "Matt Stone",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q790583",
     "itemLabel": "Avenue Q",
     "year": "2003",
-    "authorLabel": "Jeff Marx",
+    "authorLabel": "Robert Lopez",
     "sitelinks": "24"
   },
   {
@@ -182,17 +182,17 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2016644",
-    "itemLabel": "Spartacus",
-    "year": "1956",
-    "authorLabel": "Aram Khachaturian",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1146264",
     "itemLabel": "Joseph and the Amazing Technicolor Dreamcoat",
     "year": "1982",
     "authorLabel": "Andrew Lloyd Webber",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2016644",
+    "itemLabel": "Spartacus",
+    "year": "1956",
+    "authorLabel": "Aram Khachaturian",
     "sitelinks": "22"
   },
   {
@@ -217,6 +217,13 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q583612",
+    "itemLabel": "The Rocky Horror Show",
+    "year": "1973",
+    "authorLabel": "Richard O'Brien",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q189427",
     "itemLabel": "A Chorus Line",
     "year": "1975",
@@ -231,11 +238,11 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q583612",
-    "itemLabel": "The Rocky Horror Show",
-    "year": "1973",
-    "authorLabel": "Richard O'Brien",
-    "sitelinks": "21"
+    "item": "http://www.wikidata.org/entity/Q1146706",
+    "itemLabel": "Nixon in China",
+    "year": "1987",
+    "authorLabel": "John Adams",
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2771",
@@ -249,13 +256,6 @@
     "itemLabel": "The Producers",
     "year": "2001",
     "authorLabel": "Mel Brooks",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1146706",
-    "itemLabel": "Nixon in China",
-    "year": "1987",
-    "authorLabel": "John Adams",
     "sitelinks": "20"
   },
   {

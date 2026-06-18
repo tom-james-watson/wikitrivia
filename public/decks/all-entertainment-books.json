@@ -310,6 +310,26 @@
     "pageViews": 76331
   },
   {
+    "qid": "Q183157",
+    "title": "‘The Brothers Karamazov’ is published",
+    "subtitle": "Book by Fyodor Dostoyevsky",
+    "year": 1880,
+    "fact": "The Brothers Karamazov, also translated as The Karamazov Brothers, is the sixteenth and final novel by Russian author Fyodor Dostoevsky.",
+    "wikipediaSlug": "The_Brothers_Karamazov",
+    "image": "Dostoevsky-Brothers_Karamazov.jpg",
+    "pageViews": 74857
+  },
+  {
+    "qid": "Q313129",
+    "title": "‘Middlemarch’ is published",
+    "subtitle": "Book by George Eliot",
+    "year": 1871,
+    "fact": "Middlemarch, A Study of Provincial Life is a novel by English author George Eliot, the pen name of Mary Ann Evans.",
+    "wikipediaSlug": "Middlemarch",
+    "image": "Middlemarch_1.jpg",
+    "pageViews": 74481
+  },
+  {
     "qid": "Q163297",
     "title": "‘The Stranger’ is published",
     "subtitle": "Book by Albert Camus",
@@ -353,7 +373,7 @@
     "qid": "Q523076",
     "title": "‘Little Women’ is published",
     "subtitle": "Book by Louisa May Alcott",
-    "year": 1861,
+    "year": 1868,
     "fact": "Little Women is a coming-of-age novel written by American novelist Louisa May Alcott, originally published in two volumes, in 1868 and 1869.",
     "wikipediaSlug": "Little_Women",
     "image": "Houghton_AC85.Aℓ194L.1869_pt.2aa_-_Little_Women,_title.jpg",
@@ -472,7 +492,7 @@
   {
     "qid": "Q1334940",
     "title": "‘Rebecca’ is published",
-    "subtitle": "Book by Lautaro de la Iglesia",
+    "subtitle": "Book by Daphne du Maurier",
     "year": 1938,
     "fact": "Rebecca is a 1938 Gothic novel by the English author Daphne du Maurier.",
     "wikipediaSlug": "Rebecca_(novel)",
@@ -543,7 +563,7 @@
     "qid": "Q164974",
     "title": "‘Oliver Twist’ is published",
     "subtitle": "Book by Charles Dickens",
-    "year": 1800,
+    "year": 1838,
     "fact": "Oliver Twist; or, The Parish Boy's Progress, is the second novel by English author Charles Dickens.",
     "wikipediaSlug": "Oliver_Twist",
     "image": "Olivertwist_front.jpg",
@@ -760,6 +780,16 @@
     "pageViews": 38999
   },
   {
+    "qid": "Q45735",
+    "title": "‘Charlotte's Web’ is published",
+    "subtitle": "Book by E. B. White",
+    "year": 1952,
+    "fact": "Charlotte's Web is a book of children's literature by American author E.",
+    "wikipediaSlug": "Charlotte%27s_Web",
+    "image": "CharlotteWeb.png",
+    "pageViews": 37946
+  },
+  {
     "qid": "Q612688",
     "title": "‘The Fountainhead’ is published",
     "subtitle": "Book by Ayn Rand",
@@ -868,6 +898,16 @@
     "wikipediaSlug": "Twenty_Thousand_Leagues_Under_the_Seas",
     "image": "Houghton_FC8_V5946_869ve_-_Verne,_frontispiece.jpg",
     "pageViews": 32691
+  },
+  {
+    "qid": "Q750670",
+    "title": "‘Lady Chatterley's Lover’ is published",
+    "subtitle": "Book by D. H. Lawrence",
+    "year": 1928,
+    "fact": "Lady Chatterley's Lover is the final novel by the English author D.",
+    "wikipediaSlug": "Lady_Chatterley%27s_Lover",
+    "image": "Lady_chatterley's_lover_1932_UK_(Secker).png",
+    "pageViews": 32475
   },
   {
     "qid": "Q485093",
@@ -1180,6 +1220,16 @@
     "pageViews": 24204
   },
   {
+    "qid": "Q1426188",
+    "title": "‘Matilda’ is published",
+    "subtitle": "Book by Roald Dahl",
+    "year": 1986,
+    "fact": "Matilda is a 1988 children's novel by British author Roald Dahl.",
+    "wikipediaSlug": "Matilda_(novel)",
+    "image": "MatildaCover.jpg",
+    "pageViews": 24192
+  },
+  {
     "qid": "Q741222",
     "title": "‘Rendezvous with Rama’ is published",
     "subtitle": "Book by Arthur C. Clarke",
@@ -1400,16 +1450,6 @@
     "pageViews": 21994
   },
   {
-    "qid": "Q838776",
-    "title": "‘Bridge to Terabithia’ is published",
-    "subtitle": "Book by Katherine Paterson",
-    "year": 1977,
-    "fact": "Bridge to Terabithia is a children's novel written by American author Katherine Paterson.",
-    "wikipediaSlug": "Bridge_to_Terabithia_(novel)",
-    "image": "Bridge_to_Terabithia.jpg",
-    "pageViews": 21949
-  },
-  {
     "qid": "Q1136104",
     "title": "‘Le Morte d'Arthur’ is published",
     "subtitle": "Book by Thomas Malory",
@@ -1448,16 +1488,6 @@
     "wikipediaSlug": "The_Neverending_Story",
     "image": "Die_unendliche_Geschichte.jpg",
     "pageViews": 21538
-  },
-  {
-    "qid": "Q1659714",
-    "title": "‘A Canticle for Leibowitz’ is published",
-    "subtitle": "Book by Walter M. Miller",
-    "year": 1959,
-    "fact": "A Canticle for Leibowitz is a post-apocalyptic social science fiction novel by American writer Walter M.",
-    "wikipediaSlug": "A_Canticle_for_Leibowitz",
-    "image": "A_Canticle_for_Leibowitz_cover_1st_ed.jpg",
-    "pageViews": 21490
   },
   {
     "qid": "Q212898",
@@ -1570,6 +1600,16 @@
     "pageViews": 20134
   },
   {
+    "qid": "Q883305",
+    "title": "‘Bleak House’ is published",
+    "subtitle": "Book by Charles Dickens",
+    "year": 1853,
+    "fact": "Bleak House is a novel by the English author Charles Dickens, first published as a 20-episode serial between 12 March 1852 and 12 September 1853.",
+    "wikipediaSlug": "Bleak_House",
+    "image": "Cover,_Bleak_House_(1852-3).png",
+    "pageViews": 20093
+  },
+  {
     "qid": "Q430514",
     "title": "‘American Gods’ is published",
     "subtitle": "Book by Neil Gaiman",
@@ -1630,16 +1670,6 @@
     "pageViews": 18978
   },
   {
-    "qid": "Q475125",
-    "title": "‘Coraline’ is published",
-    "subtitle": "Book by Neil Gaiman",
-    "year": 2002,
-    "fact": "Coraline is a 2002 British fantasy horror children's novella by author Neil Gaiman.",
-    "wikipediaSlug": "Coraline",
-    "image": "Coraline.jpg",
-    "pageViews": 18754
-  },
-  {
     "qid": "Q860577",
     "title": "‘Demian’ is published",
     "subtitle": "Book by Hermann Hesse",
@@ -1678,6 +1708,16 @@
     "wikipediaSlug": "Kafka_on_the_Shore",
     "image": "Kafkaontheshore.jpg",
     "pageViews": 18190
+  },
+  {
+    "qid": "Q396602",
+    "title": "‘The Death of Ivan Ilyich’ is published",
+    "subtitle": "Book by Leo Tolstoy",
+    "year": 1886,
+    "fact": "The Death of Ivan Ilyich, first published in 1886, is a novella by Leo Tolstoy, considered one of the masterpieces of his late fiction, written shortly after his religious conversion of the late 1870s.",
+    "wikipediaSlug": "The_Death_of_Ivan_Ilyich",
+    "image": "The_Death_of_Ivan_Ilyich.jpg",
+    "pageViews": 18103
   },
   {
     "qid": "Q47598",
@@ -1770,6 +1810,16 @@
     "pageViews": 16704
   },
   {
+    "qid": "Q1427966",
+    "title": "‘Pedro Páramo’ is published",
+    "subtitle": "Book by Juan Rulfo",
+    "year": 1955,
+    "fact": "Pedro Páramo is a novel by Mexican writer Juan Rulfo, first published in 1955.",
+    "wikipediaSlug": "Pedro_P%C3%A1ramo",
+    "image": "Pedro_Páramo_front_cover_art.jpg",
+    "pageViews": 16484
+  },
+  {
     "qid": "Q261281",
     "title": "‘Solaris’ is published",
     "subtitle": "Book by Stanisław Lem",
@@ -1788,6 +1838,16 @@
     "wikipediaSlug": "The_Lost_Symbol",
     "image": "LostSymbol.jpg",
     "pageViews": 15834
+  },
+  {
+    "qid": "Q1476462",
+    "title": "‘The BFG’ is published",
+    "subtitle": "Book by Roald Dahl",
+    "year": 1982,
+    "fact": "The BFG is a 1982 children's novel by British author Roald Dahl.",
+    "wikipediaSlug": "The_BFG",
+    "image": "The_BFG_(Dahl_novel_-_cover_art).jpg",
+    "pageViews": 15757
   },
   {
     "qid": "Q182502",
@@ -1858,6 +1918,16 @@
     "wikipediaSlug": "A_Portrait_of_the_Artist_as_a_Young_Man",
     "image": "JamesJoyce_Portrait1916.jpg",
     "pageViews": 15101
+  },
+  {
+    "qid": "Q499396",
+    "title": "‘Love in the Time of Cholera’ is published",
+    "subtitle": "Book by Gabriel García Márquez",
+    "year": 1985,
+    "fact": "Love in the Time of Cholera is a novel written in Spanish by Colombian Nobel Prize–winning author Gabriel García Márquez and published in 1985.",
+    "wikipediaSlug": "Love_in_the_Time_of_Cholera",
+    "image": "LoveInTheTimeOfCholera.jpg",
+    "pageViews": 15027
   },
   {
     "qid": "Q381756",
@@ -2140,16 +2210,6 @@
     "pageViews": 11904
   },
   {
-    "qid": "Q3657739",
-    "title": "‘Doctor Sleep’ is published",
-    "subtitle": "Book by Stephen King",
-    "year": 2013,
-    "fact": "Doctor Sleep is a 2013 horror novel by American writer Stephen King and the sequel to his 1977 novel The Shining.",
-    "wikipediaSlug": "Doctor_Sleep_(novel)",
-    "image": "Doctor_Sleep.jpg",
-    "pageViews": 11837
-  },
-  {
     "qid": "Q332581",
     "title": "‘The Return of the King’ is published",
     "subtitle": "Book by J. R. R. Tolkien",
@@ -2258,6 +2318,16 @@
     "wikipediaSlug": "The_Dead_Zone_(novel)",
     "image": "The_Dead_Zone_(1979)_front_cover,_first_edition.jpg",
     "pageViews": 10929
+  },
+  {
+    "qid": "Q2724561",
+    "title": "‘Ramcharitmanas’ is published",
+    "subtitle": "Book by Tulsidas",
+    "year": 1576,
+    "fact": "Ramcharitmanas, is an epic poem in the Awadhi language, composed by the 16th-century Indian bhakti poet Tulsidas.",
+    "wikipediaSlug": "Ramcharitmanas",
+    "image": "Rāmacaritamānasa_manuscript_(19th_century).png",
+    "pageViews": 10927
   },
   {
     "qid": "Q647379",
@@ -2380,16 +2450,6 @@
     "pageViews": 10427
   },
   {
-    "qid": "Q788777",
-    "title": "‘Breakfast of Champions’ is published",
-    "subtitle": "Book by Kurt Vonnegut",
-    "year": 1973,
-    "fact": "Breakfast of Champions, or Goodbye Blue Monday is a 1973 novel by the American author Kurt Vonnegut.",
-    "wikipediaSlug": "Breakfast_of_Champions",
-    "image": "Breakfast_of_Champions_(1973)_1st_edition_front_cover.jpg",
-    "pageViews": 10406
-  },
-  {
     "qid": "Q1649862",
     "title": "‘The Big Sleep’ is published",
     "subtitle": "Book by Raymond Chandler",
@@ -2408,6 +2468,16 @@
     "wikipediaSlug": "The_Knight_in_the_Panther%27s_Skin",
     "image": "《虎皮武士》抄本.jpg",
     "pageViews": 10246
+  },
+  {
+    "qid": "Q2320903",
+    "title": "‘Fantastic Mr Fox’ is published",
+    "subtitle": "Book by Roald Dahl",
+    "year": 1970,
+    "fact": "Fantastic Mr Fox is a children's novel written by British author Roald Dahl.",
+    "wikipediaSlug": "Fantastic_Mr_Fox",
+    "image": "FantasticFoxChaffin.jpg",
+    "pageViews": 10192
   },
   {
     "qid": "Q1524588",
@@ -2500,16 +2570,6 @@
     "pageViews": 9683
   },
   {
-    "qid": "Q655296",
-    "title": "‘Tarzan of the Apes’ is published",
-    "subtitle": "Book by Edgar Rice Burroughs",
-    "year": 1912,
-    "fact": "Tarzan of the Apes is a 1912 novel by American writer Edgar Rice Burroughs, and the first in the Tarzan series.",
-    "wikipediaSlug": "Tarzan_of_the_Apes",
-    "image": "Tarzan_of_the_Apes_in_color.jpg",
-    "pageViews": 9615
-  },
-  {
     "qid": "Q218950",
     "title": "‘Prince Caspian’ is published",
     "subtitle": "Book by C. S. Lewis",
@@ -2600,16 +2660,6 @@
     "pageViews": 8495
   },
   {
-    "qid": "Q135215",
-    "title": "‘I, Claudius’ is published",
-    "subtitle": "Book by Robert Graves",
-    "year": 1934,
-    "fact": "I, Claudius is a historical novel written by Robert Graves and published in 1934.",
-    "wikipediaSlug": "I,_Claudius",
-    "image": "I,_Claudius_(1934)_1st_edition_book_cover.jpg",
-    "pageViews": 8431
-  },
-  {
     "qid": "Q279486",
     "title": "‘The Song of Hiawatha’ is published",
     "subtitle": "Book by Henry Wadsworth Longfellow",
@@ -2647,16 +2697,6 @@
     "fact": "The Cuckoo's Calling is a crime fiction novel written by British author J.",
     "wikipediaSlug": "The_Cuckoo%27s_Calling",
     "image": "TheCuckoo'sCalling(first_UK_edition)cover.jpg",
-    "pageViews": 8321
-  },
-  {
-    "qid": "Q2414756",
-    "title": "‘The Last Wish’ is published",
-    "subtitle": "Book by Andrzej Sapkowski",
-    "year": 1993,
-    "fact": "The Last Wish is the first short story collection in Polish fantasy writer Andrzej Sapkowski's The Witcher series.",
-    "wikipediaSlug": "The_Last_Wish",
-    "image": "Andrzej_Sapkowski_-_The_Last_Wish.jpg",
     "pageViews": 8321
   },
   {
@@ -2840,6 +2880,16 @@
     "pageViews": 7525
   },
   {
+    "qid": "Q80771",
+    "title": "‘Sons and Lovers’ is published",
+    "subtitle": "Book by D. H. Lawrence",
+    "year": 1913,
+    "fact": "Sons and Lovers is a 1913 novel by the English writer D.",
+    "wikipediaSlug": "Sons_and_Lovers",
+    "image": "Sonslovers.jpg",
+    "pageViews": 7512
+  },
+  {
     "qid": "Q833012",
     "title": "‘Murder Is Easy’ is published",
     "subtitle": "Book by Agatha Christie",
@@ -2890,16 +2940,6 @@
     "pageViews": 7334
   },
   {
-    "qid": "Q1165508",
-    "title": "‘The Pale Horse’ is published",
-    "subtitle": "Book by Agatha Christie",
-    "year": 1961,
-    "fact": "The Pale Horse is a mystery novel by British writer Agatha Christie, first published in the UK by the Collins Crime Club on 6 November 1961, and in the US by Dodd, Mead and Company the following year.",
-    "wikipediaSlug": "The_Pale_Horse",
-    "image": "The_Pale_Horse_First_Edition_Cover_1961.jpg",
-    "pageViews": 7327
-  },
-  {
     "qid": "Q309019",
     "title": "‘Unfinished Tales’ is published",
     "subtitle": "Book by J. R. R. Tolkien",
@@ -2918,6 +2958,16 @@
     "wikipediaSlug": "The_Restaurant_at_the_End_of_the_Universe",
     "image": "RestaurantAtTheEndOfTheUniverse.jpg",
     "pageViews": 7292
+  },
+  {
+    "qid": "Q935935",
+    "title": "‘Chronicle of a Death Foretold’ is published",
+    "subtitle": "Book by Gabriel García Márquez",
+    "year": 1981,
+    "fact": "Chronicle of a Death Foretold is a novella by Gabriel García Márquez, published in 1981.",
+    "wikipediaSlug": "Chronicle_of_a_Death_Foretold",
+    "image": "ChronicleOfADeathForetold.JPG",
+    "pageViews": 7282
   },
   {
     "qid": "Q2362563",
@@ -3080,6 +3130,16 @@
     "pageViews": 6553
   },
   {
+    "qid": "Q137869",
+    "title": "‘Germinal’ is published",
+    "subtitle": "Book by Émile Zola",
+    "year": 1885,
+    "fact": "Germinal is the thirteenth novel in Émile Zola's twenty-volume series Les Rougon-Macquart.",
+    "wikipediaSlug": "Germinal_(novel)",
+    "image": "Germinal_first_edition_cover.jpg",
+    "pageViews": 6551
+  },
+  {
     "qid": "Q745079",
     "title": "‘A Murder Is Announced’ is published",
     "subtitle": "Book by Agatha Christie",
@@ -3190,16 +3250,6 @@
     "pageViews": 5767
   },
   {
-    "qid": "Q1247253",
-    "title": "‘Endless Night’ is published",
-    "subtitle": "Book by Agatha Christie",
-    "year": 1967,
-    "fact": "Endless Night is a mystery novel by Agatha Christie, first published in the UK by the Collins Crime Club on 30 October 1967 and in the US by Dodd, Mead and Company the following year.",
-    "wikipediaSlug": "Endless_Night_(novel)",
-    "image": "Endless_Night_First_Edition_Cover_1967.jpg",
-    "pageViews": 5717
-  },
-  {
     "qid": "Q464220",
     "title": "‘The Host’ is published",
     "subtitle": "Book by Stephenie Meyer",
@@ -3240,16 +3290,6 @@
     "pageViews": 5640
   },
   {
-    "qid": "Q2465752",
-    "title": "‘The Iron Heel’ is published",
-    "subtitle": "Book by Jack London",
-    "year": 1908,
-    "fact": "The Iron Heel is a dystopian and political novel in the form of science fiction by American writer Jack London, first published in 1908.",
-    "wikipediaSlug": "The_Iron_Heel",
-    "image": "The_Iron_Heel.jpg",
-    "pageViews": 5626
-  },
-  {
     "qid": "Q878580",
     "title": "‘The Gold-Bug’ is published",
     "subtitle": "Book by Edgar Allan Poe",
@@ -3268,16 +3308,6 @@
     "wikipediaSlug": "The_Hollow",
     "image": "The_Hollow_US_First_Edition_Cover_1946.jpg",
     "pageViews": 5575
-  },
-  {
-    "qid": "Q932592",
-    "title": "‘Foundation's Edge’ is published",
-    "subtitle": "Book by Isaac Asimov",
-    "year": 1982,
-    "fact": "Foundation's Edge (1982) is a science fiction novel by American writer Isaac Asimov, the fourth book in the Foundation Series.",
-    "wikipediaSlug": "Foundation%27s_Edge",
-    "image": "IsaacAsimov_Foundation'sEdge.jpg",
-    "pageViews": 5462
   },
   {
     "qid": "Q860831",
@@ -3640,16 +3670,6 @@
     "pageViews": 4374
   },
   {
-    "qid": "Q1991641",
-    "title": "‘The Battle of the Labyrinth’ is published",
-    "subtitle": "Book by Rick Riordan",
-    "year": 2008,
-    "fact": "The Battle of the Labyrinth is 2008 American children's fantasy action-adventure middle grade children's fiction novel based on Greek mythology written by American author Rick Riordan.",
-    "wikipediaSlug": "The_Battle_of_the_Labyrinth",
-    "image": "PercyBattleLabyrinth.jpg",
-    "pageViews": 4365
-  },
-  {
     "qid": "Q1044713",
     "title": "‘Taken at the Flood’ is published",
     "subtitle": "Book by Agatha Christie",
@@ -3960,16 +3980,6 @@
     "pageViews": 3589
   },
   {
-    "qid": "Q1765450",
-    "title": "‘Wyrd Sisters’ is published",
-    "subtitle": "Book by Terry Pratchett",
-    "year": 1988,
-    "fact": "Wyrd Sisters is Terry Pratchett's sixth Discworld novel, published in 1988.",
-    "wikipediaSlug": "Wyrd_Sisters",
-    "image": "Wyrd-sisters-cover.jpg",
-    "pageViews": 3575
-  },
-  {
     "qid": "Q1165714",
     "title": "‘The Charterhouse of Parma’ is published",
     "subtitle": "Book by Stendhal",
@@ -3978,16 +3988,6 @@
     "wikipediaSlug": "The_Charterhouse_of_Parma",
     "image": "StendhalCharterhouseParma01.jpg",
     "pageViews": 3565
-  },
-  {
-    "qid": "Q845106",
-    "title": "‘Mrs McGinty's Dead’ is published",
-    "subtitle": "Book by Agatha Christie",
-    "year": 1952,
-    "fact": "Mrs McGinty's Dead is a mystery novel by English writer Agatha Christie, first published in the US by Dodd, Mead and Company in February 1952 and in the UK by the Collins Crime Club on 3 March the same year.",
-    "wikipediaSlug": "Mrs_McGinty%27s_Dead",
-    "image": "Mrs_McGinty's_Dead_US_First_Edition_Cover_1952.jpg",
-    "pageViews": 3561
   },
   {
     "qid": "Q377710",
@@ -4048,16 +4048,6 @@
     "wikipediaSlug": "Sans_Famille",
     "image": "MalotNobodysBoy.jpg",
     "pageViews": 3447
-  },
-  {
-    "qid": "Q1166201",
-    "title": "‘Stardust’ is published",
-    "subtitle": "Book by Neil Gaiman",
-    "year": 1999,
-    "fact": "Stardust is a 1999 fantasy novel by British writer Neil Gaiman, usually published with illustrations by Charles Vess.",
-    "wikipediaSlug": "Stardust_(Neil_Gaiman_novel)",
-    "image": "StardustGaimanbookcover.jpg",
-    "pageViews": 3404
   },
   {
     "qid": "Q705839",
@@ -4300,6 +4290,16 @@
     "pageViews": 2484
   },
   {
+    "qid": "Q2020094",
+    "title": "‘La Reine Margot’ is published",
+    "subtitle": "Book by Alexandre Dumas",
+    "year": 1845,
+    "fact": "La Reine Margot is a historical novel written in 1845 by Alexandre Dumas.",
+    "wikipediaSlug": "La_Reine_Margot_(novel)",
+    "image": "SchlafzimmerBartholomaeusnacht.jpg",
+    "pageViews": 2438
+  },
+  {
     "qid": "Q794866",
     "title": "‘Paris in the Twentieth Century’ is published",
     "subtitle": "Book by Jules Verne",
@@ -4308,6 +4308,16 @@
     "wikipediaSlug": "Paris_in_the_Twentieth_Century",
     "image": "Paris_in_the_20th_Century_(book_cover).jpg",
     "pageViews": 2431
+  },
+  {
+    "qid": "Q645906",
+    "title": "‘Froth on the Daydream’ is published",
+    "subtitle": "Book by Boris Vian",
+    "year": 1947,
+    "fact": "Froth on the Daydream is a 1947 surrealist novel by French author Boris Vian.",
+    "wikipediaSlug": "Froth_on_the_Daydream",
+    "image": "BorisVian_FrothOnTheDaydream.jpg",
+    "pageViews": 2396
   },
   {
     "qid": "Q1151748",
@@ -4528,6 +4538,16 @@
     "wikipediaSlug": "The_Adventure_of_the_Beryl_Coronet",
     "image": "Sherlock_Holmes_-_WITH_A_LOOK_OF_GRIEF_AND_DESPAIR.jpg",
     "pageViews": 1377
+  },
+  {
+    "qid": "Q945216",
+    "title": "‘Jacques the Fatalist’ is published",
+    "subtitle": "Book by Denis Diderot",
+    "year": 1796,
+    "fact": "Jacques the Fatalist and his Master is a novel by Denis Diderot, written during the period 1765–1780.",
+    "wikipediaSlug": "Jacques_the_Fatalist",
+    "image": "DiderotJacquesFatalist01.jpg",
+    "pageViews": 1346
   },
   {
     "qid": "Q1070729",

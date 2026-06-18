@@ -109,7 +109,7 @@
     "positionLabel": "Emperor of Ethiopia",
     "sexLabel": "male",
     "year": "1667",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q716024",
@@ -152,14 +152,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q328495",
-    "itemLabel": "Wedem Arad",
-    "positionLabel": "Emperor of Ethiopia",
-    "sexLabel": "male",
-    "year": "1299",
-    "sitelinks": "14"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q611063",
     "itemLabel": "Yohannes III",
     "positionLabel": "Emperor of Ethiopia",
@@ -200,12 +192,12 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136652",
-    "itemLabel": "Za Dengel",
+    "item": "http://www.wikidata.org/entity/Q328495",
+    "itemLabel": "Wedem Arad",
     "positionLabel": "Emperor of Ethiopia",
     "sexLabel": "male",
-    "year": "1603",
-    "sitelinks": "13"
+    "year": "1299",
+    "sitelinks": "14"
   },
   {
     "item": "http://www.wikidata.org/entity/Q581685",
@@ -238,6 +230,22 @@
     "sexLabel": "male",
     "year": "1832",
     "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136652",
+    "itemLabel": "Za Dengel",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "year": "1603",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q343708",
+    "itemLabel": "Iyoas I",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "year": "1755",
+    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q495619",
@@ -296,22 +304,6 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q127112",
-    "itemLabel": "Sarwe Iyasus",
-    "positionLabel": "Emperor of Ethiopia",
-    "sexLabel": "male",
-    "year": "1433",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q342818",
-    "itemLabel": "Takla Maryam",
-    "positionLabel": "Emperor of Ethiopia",
-    "sexLabel": "male",
-    "year": "1430",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q343713",
     "itemLabel": "Newaya Maryam",
     "positionLabel": "Emperor of Ethiopia",
@@ -352,6 +344,22 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q127112",
+    "itemLabel": "Sarwe Iyasus",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "year": "1433",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q342818",
+    "itemLabel": "Takla Maryam",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "year": "1430",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q343723",
     "itemLabel": "Tekle Haymanot II",
     "positionLabel": "Emperor of Ethiopia",
@@ -374,14 +382,6 @@
     "sexLabel": "male",
     "year": "1801",
     "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q278808",
-    "itemLabel": "Hezqeyas",
-    "positionLabel": "Emperor of Ethiopia",
-    "sexLabel": "male",
-    "year": "1789",
-    "sitelinks": "9"
   },
   {
     "item": "http://www.wikidata.org/entity/Q342829",
@@ -440,12 +440,12 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q324688",
-    "itemLabel": "Na'od",
+    "item": "http://www.wikidata.org/entity/Q278808",
+    "itemLabel": "Hezqeyas",
     "positionLabel": "Emperor of Ethiopia",
     "sexLabel": "male",
-    "year": "1494",
-    "sitelinks": "8"
+    "year": "1789",
+    "sitelinks": "9"
   },
   {
     "item": "http://www.wikidata.org/entity/Q342894",
@@ -453,6 +453,14 @@
     "positionLabel": "Emperor of Ethiopia",
     "sexLabel": "male",
     "year": "1797",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q324688",
+    "itemLabel": "Na'od",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "year": "1494",
     "sitelinks": "8"
   },
   {

@@ -29,7 +29,7 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "632",
-    "sitelinks": "45"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q272148",
@@ -77,7 +77,7 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "593",
-    "sitelinks": "25"
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q727889",
@@ -85,7 +85,15 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "796",
-    "sitelinks": "25"
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q743095",
+    "itemLabel": "Creoda of Mercia",
+    "positionLabel": "King of Mercia",
+    "sexLabel": "male",
+    "year": "584",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q729723",
@@ -96,12 +104,12 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q743095",
-    "itemLabel": "Creoda of Mercia",
+    "item": "http://www.wikidata.org/entity/Q818595",
+    "itemLabel": "Beornwulf of Mercia",
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
-    "year": "584",
-    "sitelinks": "25"
+    "year": "823",
+    "sitelinks": "24"
   },
   {
     "item": "http://www.wikidata.org/entity/Q852077",
@@ -110,14 +118,6 @@
     "sexLabel": "male",
     "year": "852",
     "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q818595",
-    "itemLabel": "Beornwulf of Mercia",
-    "positionLabel": "King of Mercia",
-    "sexLabel": "male",
-    "year": "823",
-    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q518935",
@@ -133,7 +133,7 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "704",
-    "sitelinks": "21"
+    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q738812",
@@ -141,7 +141,7 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "515",
-    "sitelinks": "21"
+    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q742237",
@@ -149,6 +149,14 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "709",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q721826",
+    "itemLabel": "Ludeca of Mercia",
+    "positionLabel": "King of Mercia",
+    "sexLabel": "male",
+    "year": "825",
     "sitelinks": "20"
   },
   {
@@ -160,20 +168,12 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q721826",
-    "itemLabel": "Ludeca of Mercia",
-    "positionLabel": "King of Mercia",
-    "sexLabel": "male",
-    "year": "825",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q818588",
     "itemLabel": "Beorhtwulf of Mercia",
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "840",
-    "sitelinks": "19"
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q888634",
@@ -181,7 +181,7 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "821",
-    "sitelinks": "19"
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4019731",
@@ -189,6 +189,14 @@
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "839",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2430124",
+    "itemLabel": "Cnebba",
+    "positionLabel": "King of Mercia",
+    "sexLabel": "male",
+    "year": "535",
     "sitelinks": "15"
   },
   {
@@ -200,19 +208,11 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2430124",
-    "itemLabel": "Cnebba",
-    "positionLabel": "King of Mercia",
-    "sexLabel": "male",
-    "year": "535",
-    "sitelinks": "14"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2642796",
     "itemLabel": "Cynewald",
     "positionLabel": "King of Mercia",
     "sexLabel": "male",
     "year": "545",
-    "sitelinks": "12"
+    "sitelinks": "13"
   }
 ]

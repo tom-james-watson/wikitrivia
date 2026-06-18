@@ -33,7 +33,7 @@
     "item": "http://www.wikidata.org/entity/Q1407",
     "itemLabel": "Tiberius",
     "year": "14",
-    "sitelinks": "117"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1425",
@@ -63,13 +63,13 @@
     "item": "http://www.wikidata.org/entity/Q1421",
     "itemLabel": "Titus",
     "year": "79",
-    "sitelinks": "101"
+    "sitelinks": "100"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1423",
     "itemLabel": "Domitian",
     "year": "81",
-    "sitelinks": "96"
+    "sitelinks": "97"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43107",
@@ -111,7 +111,7 @@
     "item": "http://www.wikidata.org/entity/Q1446",
     "itemLabel": "Caracalla",
     "year": "198",
-    "sitelinks": "88"
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1416",
@@ -192,16 +192,22 @@
     "sitelinks": "76"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1433",
+    "itemLabel": "Lucius Verus",
+    "year": "161",
+    "sitelinks": "75"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q131195",
     "itemLabel": "Constantius Chlorus",
     "year": "305",
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1433",
-    "itemLabel": "Lucius Verus",
-    "year": "161",
-    "sitelinks": "74"
+    "item": "http://www.wikidata.org/entity/Q160353",
+    "itemLabel": "Theodosius II",
+    "year": "402",
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46750",
@@ -210,10 +216,10 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160353",
-    "itemLabel": "Theodosius II",
-    "year": "402",
-    "sitelinks": "74"
+    "item": "http://www.wikidata.org/entity/Q1777",
+    "itemLabel": "Maximinus Thrax",
+    "year": "235",
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46720",
@@ -222,10 +228,16 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1777",
-    "itemLabel": "Maximinus Thrax",
-    "year": "235",
-    "sitelinks": "72"
+    "item": "http://www.wikidata.org/entity/Q1782",
+    "itemLabel": "Gordian I",
+    "year": "238",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1812",
+    "itemLabel": "Gordian III",
+    "year": "238",
+    "sitelinks": "70"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46762",
@@ -240,22 +252,16 @@
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1812",
-    "itemLabel": "Gordian III",
-    "year": "238",
-    "sitelinks": "69"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q184549",
     "itemLabel": "Licinius",
     "year": "308",
-    "sitelinks": "69"
+    "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1782",
-    "itemLabel": "Gordian I",
-    "year": "238",
-    "sitelinks": "68"
+    "item": "http://www.wikidata.org/entity/Q104475",
+    "itemLabel": "Gallienus",
+    "year": "253",
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46734",
@@ -264,16 +270,16 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104475",
-    "itemLabel": "Gallienus",
-    "year": "253",
-    "sitelinks": "68"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q183089",
     "itemLabel": "Geta",
     "year": "209",
-    "sitelinks": "67"
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1797",
+    "itemLabel": "Pupienus",
+    "year": "238",
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46768",
@@ -282,51 +288,45 @@
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1797",
-    "itemLabel": "Pupienus",
-    "year": "238",
-    "sitelinks": "65"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q172168",
     "itemLabel": "Galerius",
     "year": "305",
-    "sitelinks": "65"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q177980",
     "itemLabel": "Aemilian",
     "year": "253",
-    "sitelinks": "65"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q187068",
     "itemLabel": "Probus",
     "year": "276",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34074",
+    "itemLabel": "Jovian",
+    "year": "363",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171023",
+    "itemLabel": "Trebonianus Gallus",
+    "year": "251",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q177988",
+    "itemLabel": "Tacitus",
+    "year": "275",
     "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1805",
     "itemLabel": "Balbinus",
     "year": "238",
-    "sitelinks": "64"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q34074",
-    "itemLabel": "Jovian",
-    "year": "363",
-    "sitelinks": "64"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q171023",
-    "itemLabel": "Trebonianus Gallus",
-    "year": "251",
-    "sitelinks": "64"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q177988",
-    "itemLabel": "Tacitus",
-    "year": "275",
     "sitelinks": "64"
   },
   {
@@ -348,27 +348,33 @@
     "sitelinks": "63"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q187004",
+    "itemLabel": "Carus",
+    "year": "282",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189108",
+    "itemLabel": "Gratian",
+    "year": "367",
+    "sitelinks": "61"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q46840",
     "itemLabel": "Diadumenian",
     "year": "218",
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q187004",
-    "itemLabel": "Carus",
-    "year": "282",
-    "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q189108",
-    "itemLabel": "Gratian",
-    "year": "367",
-    "sitelinks": "60"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q199946",
     "itemLabel": "Florian",
     "year": "276",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190097",
+    "itemLabel": "Carinus",
+    "year": "283",
     "sitelinks": "59"
   },
   {
@@ -384,9 +390,9 @@
     "sitelinks": "58"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q190097",
-    "itemLabel": "Carinus",
-    "year": "283",
+    "item": "http://www.wikidata.org/entity/Q189095",
+    "itemLabel": "Maximinus Daza",
+    "year": "311",
     "sitelinks": "58"
   },
   {
@@ -396,28 +402,22 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q189095",
-    "itemLabel": "Maximinus Daza",
-    "year": "311",
-    "sitelinks": "57"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q46846",
     "itemLabel": "Valentinian II",
     "year": "375",
-    "sitelinks": "56"
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46821",
+    "itemLabel": "Numerian",
+    "year": "283",
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q202222",
     "itemLabel": "Volusian",
     "year": "251",
     "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q46821",
-    "itemLabel": "Numerian",
-    "year": "283",
-    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q273253",

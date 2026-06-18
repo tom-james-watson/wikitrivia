@@ -17,7 +17,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q158861",
-    "itemLabel": "Chulalongkorn the Great",
+    "itemLabel": "Chulalongkorn",
     "positionLabel": "King of Thailand",
     "sexLabel": "male",
     "year": "1868",
@@ -40,20 +40,20 @@
     "sitelinks": "57"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q161389",
+    "itemLabel": "Vajiravudh",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "year": "1910",
+    "sitelinks": "56"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q313124",
     "itemLabel": "Prajadhipok",
     "positionLabel": "King of Thailand",
     "sexLabel": "male",
     "year": "1925",
     "sitelinks": "56"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q161389",
-    "itemLabel": "Vajiravudh",
-    "positionLabel": "King of Thailand",
-    "sexLabel": "male",
-    "year": "1910",
-    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q310992",
@@ -69,7 +69,7 @@
     "positionLabel": "King of Thailand",
     "sexLabel": "male",
     "year": "1767",
-    "sitelinks": "46"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q319669",
@@ -128,6 +128,14 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q613372",
+    "itemLabel": "Ramesuan",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "year": "1369",
+    "sitelinks": "19"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q561295",
     "itemLabel": "Phetracha",
     "positionLabel": "King of Thailand",
@@ -166,6 +174,22 @@
     "sexLabel": "male",
     "year": "1257",
     "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q561304",
+    "itemLabel": "Ramathibodi II",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "year": "1491",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q883010",
+    "itemLabel": "Thong Lan",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "year": "1388",
+    "sitelinks": "14"
   },
   {
     "item": "http://www.wikidata.org/entity/Q889133",
@@ -208,11 +232,27 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q755579",
+    "itemLabel": "Athittayawong",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "year": "1629",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q889077",
     "itemLabel": "Mahathammaracha I",
     "positionLabel": "King of Thailand",
     "sexLabel": "male",
     "year": "1347",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q889431",
+    "itemLabel": "Si Suthammaracha",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "year": "1656",
     "sitelinks": "11"
   },
   {

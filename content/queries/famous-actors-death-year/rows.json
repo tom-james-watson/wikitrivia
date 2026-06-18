@@ -3,19 +3,10 @@
     "item": "http://www.wikidata.org/entity/Q692",
     "itemLabel": "William Shakespeare",
     "year": "1616",
-    "sitelinks": "332",
+    "sitelinks": "335",
     "description": "English playwright and poet (1564–1616)",
     "nationalityLabel": "English",
-    "occupationLabel": "writer||playwright||poet||actor||dramaturge||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2831",
-    "itemLabel": "Michael Jackson",
-    "year": "2009",
-    "sitelinks": "325",
-    "description": "American singer, songwriter, dancer, and philanthropist (1958–2009)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "entrepreneur||businessperson||record producer||composer||dancer||actor||singer||singer-songwriter||musician||songwriter||philanthropist||autobiographer||choreographer"
+    "occupationLabel": "poet||actor||author||playwright||dramaturge||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9960",
@@ -24,52 +15,79 @@
     "sitelinks": "304",
     "description": "president of the United States from 1981 to 1989 and actor (1911–2004)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||screenwriter||military officer||actor||lifeguard||statesperson||art collector||television actor||character actor||film actor||voice actor||trade unionist||diarist||announcer||game show host||anti-communist"
+    "occupationLabel": "politician||screenwriter||actor||film actor||military officer||statesperson||art collector||lifeguard||trade unionist||television actor||game show host||announcer||anti-communist||character actor||diarist||voice actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q882",
     "itemLabel": "Charlie Chaplin",
     "year": "1977",
-    "sitelinks": "257",
+    "sitelinks": "259",
     "description": "English comic actor and filmmaker (1889–1977)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||screenwriter||composer||actor||comedian||film editor||autobiographer||film actor||producer||film screenwriter||film score composer||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||composer||actor||film editor||author||film actor||comedian||film screenwriter||producer||musician||autobiographer||film score composer||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5577",
     "itemLabel": "Salvador Dalí",
     "year": "1989",
-    "sitelinks": "245",
+    "sitelinks": "246",
     "description": "Spanish artist (1904–1989)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "writer||screenwriter||photographer||actor||designer||illustrator||theatre designer||painter||draftsperson||film actor||sculptor||scenographer||jewelry designer||film director||graphic artist||holographer"
+    "occupationLabel": "screenwriter||photographer||actor||author||designer||film actor||artist||theatre designer||draftsperson||painter||illustrator||holographer||sculptor||production designer||graphic artist||scenographer||jewelry designer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7241",
     "itemLabel": "Rabindranath Tagore",
     "year": "1941",
-    "sitelinks": "243",
+    "sitelinks": "244",
     "description": "Bengali poet, philosopher and polymath (1861–1941)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "writer||playwright||poet||composer||artist||librettist||actor||singer||novelist||essayist||songwriter||lyricist||painter||short story writer||film director||freedom fighter||travel writer||philosopher||Nobel Prize winner"
+    "occupationLabel": "singer||travel writer||poet||composer||actor||librettist||author||philosopher||artist||playwright||essayist||novelist||freedom fighter||lyricist||short story writer||social reformer||painter||songwriter||Nobel Prize winner||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4616",
     "itemLabel": "Marilyn Monroe",
     "year": "1962",
-    "sitelinks": "237",
+    "sitelinks": "239",
     "description": "American actress and model (1926–1962)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||singer||Playboy Playmate||autobiographer||film actor||fashion model||film producer||model"
+    "occupationLabel": "singer||actor||film actor||model||Playboy Playmate||musician||autobiographer||fashion model||film producer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q687",
+    "itemLabel": "Molière",
+    "year": "1673",
+    "sitelinks": "225",
+    "description": "French playwright and actor (1622–1673)",
+    "nationalityLabel": "French",
+    "occupationLabel": "poet||actor||author||satirist||playwright||dramaturge||Theaterintendant||theatre director||stage actor||theatre manager"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8704",
     "itemLabel": "Walt Disney",
     "year": "1966",
-    "sitelinks": "210",
+    "sitelinks": "211",
     "description": "American animator, producer, director, screenwriter, voice actor and entrepreneur, founder of The Walt Disney Company (1901–1966)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||inventor||screenwriter||actor||designer||animator||comics artist||manufacturer||illustrator||television presenter||painter||film actor||voice actor||producer||caricaturist||film director||film producer||director"
+    "occupationLabel": "actor||caricaturist||author||inventor||designer||film actor||animator||draftsperson||producer||comics artist||manufacturer||painter||illustrator||television presenter||voice actor||film producer||director||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34670",
+    "itemLabel": "Albert Camus",
+    "year": "1960",
+    "sitelinks": "205",
+    "description": "French philosopher, author, and journalist (1913–1960)",
+    "nationalityLabel": "French",
+    "occupationLabel": "poet||actor||author||philosopher||playwright||opinion journalist||essayist||novelist||French resistance fighter||association football player||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4612",
+    "itemLabel": "Marlene Dietrich",
+    "year": "1992",
+    "sitelinks": "199",
+    "description": "German and American actress and singer (1901–1992)",
+    "nationalityLabel": "German||Weimar Republic||Nazi Germany||American||Americans",
+    "occupationLabel": "singer||entertainer||actor||film actor||television actor||resistance fighter||musician||autobiographer||stage actor||violinist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4605",
@@ -78,14 +96,23 @@
     "sitelinks": "193",
     "description": "French stage actress, painter and sculptor (1844–1923)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||dancer||actor||painter||film actor||sculptor||stage actor"
+    "occupationLabel": "actor||author||film actor||dancer||painter||sculptor||stage actor||theatre manager"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7374",
+    "itemLabel": "Alfred Hitchcock",
+    "year": "1980",
+    "sitelinks": "185",
+    "description": "British filmmaker (1899–1980)",
+    "nationalityLabel": "British||Briton||American||Americans",
+    "occupationLabel": "screenwriter||actor||film editor||author||film actor||cinematographer||television producer||film screenwriter||producer||television director||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7742",
     "itemLabel": "Louis XIV of France",
     "year": "1715",
-    "sitelinks": "183",
-    "description": "King of France and of Navarre from 1643 to 1715 (1638–1715)",
+    "sitelinks": "184",
+    "description": "King of France and of Navarre from 1643 to 1715 (1638-1715)",
     "nationalityLabel": "French",
     "occupationLabel": "politician||monarch||actor||statesperson||art collector"
   },
@@ -96,16 +123,7 @@
     "sitelinks": "183",
     "description": "British musician (1940–1980)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||poet||composer||actor||singer||pianist||singer-songwriter||public figure||prose writer||political activist||film actor||guitarist||recording artist||peace activist||film director||film producer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7374",
-    "itemLabel": "Alfred Hitchcock",
-    "year": "1980",
-    "sitelinks": "182",
-    "description": "British filmmaker (1899–1980)",
-    "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "writer||screenwriter||cinematographer||actor||film editor||television producer||film actor||producer||film screenwriter||film director||film producer||director||television director"
+    "occupationLabel": "singer||poet||composer||actor||author||film actor||pianist||public figure||prose writer||performance artist||political activist||draftsperson||pop singer||singer-songwriter||recording artist||musician||guitarist||songwriter||peace activist||film producer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12897",
@@ -114,22 +132,22 @@
     "sitelinks": "181",
     "description": "Brazilian footballer (1940–2022)",
     "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "politician||actor||association football player||film actor"
+    "occupationLabel": "politician||composer||actor||film actor||musician||association football player||athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1779",
     "itemLabel": "Louis Armstrong",
     "year": "1971",
-    "sitelinks": "175",
+    "sitelinks": "176",
     "description": "American jazz musician, trumpeter and singer (1901–1971)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||conductor||actor||singer||bandleader||songwriter||trumpeter||film actor||recording artist||jazz musician||orchestra leader||film score composer||radio personality||street artist"
+    "occupationLabel": "singer||actor||conductor||author||film actor||trumpeter||bandleader||jazz musician||orchestra leader||recording artist||musician||songwriter||film score composer||street artist||radio personality"
   },
   {
     "item": "http://www.wikidata.org/entity/Q17515",
     "itemLabel": "Diego Maradona",
     "year": "2020",
-    "sitelinks": "173",
+    "sitelinks": "174",
     "description": "Argentine football player and manager (1960–2020)",
     "nationalityLabel": "Argentine||Argentinian",
     "occupationLabel": "actor||association football coach||association football player"
@@ -141,7 +159,7 @@
     "sitelinks": "162",
     "description": "Hong Kong–American martial artist and actor (1940–1973)",
     "nationalityLabel": "Hong Konger||Hong Kongese||Hongkonger||Hongkongese||American||Americans",
-    "occupationLabel": "writer||screenwriter||actor||martial artist||stunt performer||television actor||film actor||stunt coordinator||film director||film producer||director"
+    "occupationLabel": "screenwriter||actor||author||film actor||stunt performer||martial artist||television actor||film producer||director||stunt coordinator||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83338",
@@ -150,7 +168,7 @@
     "sitelinks": "161",
     "description": "American actor and comedian (1951–2014)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||comedian||actor||television actor||mime artist||film actor||voice actor||stand-up comedian||audiobook narrator||film producer||stage actor"
+    "occupationLabel": "screenwriter||actor||film actor||mime artist||television actor||comedian||stand-up comedian||musician||audiobook narrator||voice actor||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7546",
@@ -159,7 +177,7 @@
     "sitelinks": "160",
     "description": "Swedish director and screenwriter (1918–2007)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "writer||playwright||screenwriter||actor||autobiographer||film actor||film screenwriter||film director||film producer||director||theatrical director"
+    "occupationLabel": "screenwriter||actor||author||film actor||playwright||film screenwriter||autobiographer||theatre director||theatre manager||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34012",
@@ -168,7 +186,25 @@
     "sitelinks": "157",
     "description": "American actor (1924–2004)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||activist||film actor||director||stage actor"
+    "occupationLabel": "actor||author||film actor||activist||television actor||stage actor||theatre manager||director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38757",
+    "itemLabel": "Bertolt Brecht",
+    "year": "1956",
+    "sitelinks": "154",
+    "description": "German poet, playwright, and theatre director (1898–1956)",
+    "nationalityLabel": "Weimar Republic||East German||German||Austrian",
+    "occupationLabel": "screenwriter||poet||actor||librettist||author||literary critic||playwright||Theaterintendant||lyricist||musician||theatre director||director||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11637",
+    "itemLabel": "Judy Garland",
+    "year": "1969",
+    "sitelinks": "151",
+    "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "singer||actor||film actor||television actor||musician||voice actor||stage actor||radio personality"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36268",
@@ -177,16 +213,7 @@
     "sitelinks": "151",
     "description": "French actress, singer, animal rights activist (1934–2025)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||dancer||actor||singer||public figure||animal rights advocate||autobiographer||film actor||recording artist||fashion model||animal protectionist||model"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11637",
-    "itemLabel": "Judy Garland",
-    "year": "1969",
-    "sitelinks": "149",
-    "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||singer||television actor||film actor||voice actor||radio personality||stage actor"
+    "occupationLabel": "singer||actor||author||film actor||dancer||model||public figure||activist||animal rights advocate||animal protectionist||recording artist||autobiographer||fashion model"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44301",
@@ -195,25 +222,34 @@
     "sitelinks": "149",
     "description": "American singer and poet; lead vocalist of The Doors (1943–1971)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "poet||composer||actor||singer||singer-songwriter||lyricist||vocalist||director"
+    "occupationLabel": "singer||poet||composer||actor||rock musician||lyricist||singer-songwriter||musician||vocalist||speaker||director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1631",
     "itemLabel": "Édith Piaf",
     "year": "1963",
-    "sitelinks": "146",
+    "sitelinks": "147",
     "description": "French singer (1915–1963)",
     "nationalityLabel": "French",
-    "occupationLabel": "actor||singer||songwriter||chansonnier||recording artist||street artist"
+    "occupationLabel": "singer||actor||chansonnier||lyricist||recording artist||songwriter||street artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42786",
     "itemLabel": "Audrey Hepburn",
     "year": "1993",
-    "sitelinks": "145",
+    "sitelinks": "147",
     "description": "British actress (1929–1993)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "dancer||actor||ballet dancer||philanthropist||film actor||humanitarian||model||stage actor"
+    "occupationLabel": "singer||actor||film actor||dancer||model||philanthropist||humanitarian||ballet dancer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8003",
+    "itemLabel": "Sergei Eisenstein",
+    "year": "1948",
+    "sitelinks": "145",
+    "description": "Soviet filmmaker (1898–1948)",
+    "nationalityLabel": "Soviet||Russian",
+    "occupationLabel": "screenwriter||photographer||teacher||actor||film editor||inventor||cinematographer||theatre designer||draftsperson||theatre manager||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4573",
@@ -222,7 +258,7 @@
     "sitelinks": "143",
     "description": "Scottish actor (1930–2020)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||screenwriter||milk deliverer||actor||association football player||television actor||character actor||film actor||voice actor||producer||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||actor||author||film actor||television actor||milk deliverer||character actor||association football player||voice actor||stage actor||film producer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34851",
@@ -231,16 +267,16 @@
     "sitelinks": "142",
     "description": "British-American actress (1932–2011)",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "writer||actor||art collector||television actor||philanthropist||autobiographer||film actor||HIV/AIDS activist||film producer||stage actor"
+    "occupationLabel": "actor||author||film actor||art collector||philanthropist||television actor||HIV/AIDS activist||autobiographer||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q106529",
     "itemLabel": "Alain Delon",
     "year": "2024",
-    "sitelinks": "137",
+    "sitelinks": "138",
     "description": "French actor (1935–2024)",
     "nationalityLabel": "French||Swiss",
-    "occupationLabel": "writer||screenwriter||actor||singer||television actor||film actor||producer||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||singer||actor||author||film actor||art collector||television actor||producer||musician||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5383",
@@ -249,7 +285,7 @@
     "sitelinks": "136",
     "description": "English musician and actor (1947–2016)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "record producer||composer||librettist||actor||singer||pianist||singer-songwriter||art collector||manufacturer||musician||bandleader||songwriter||painter||mime artist||film actor||occultist||saxophonist||guitarist||music video director||visual artist||vocalist||film producer"
+    "occupationLabel": "record producer||singer||composer||actor||librettist||film actor||art collector||pianist||mime artist||bandleader||occultist||saxophonist||manufacturer||singer-songwriter||painter||musician||guitarist||songwriter||vocalist||music video director||film producer||visual artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34389",
@@ -258,7 +294,7 @@
     "sitelinks": "135",
     "description": "American singer, actress, and film producer (1963–2012)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "record producer||actor||singer||television actor||film actor||recording artist||film producer||model"
+    "occupationLabel": "record producer||singer||actor||film actor||model||television actor||recording artist||musician||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40912",
@@ -267,16 +303,25 @@
     "sitelinks": "134",
     "description": "American singer and actor (1915–1998)",
     "nationalityLabel": "Italian||American||Americans",
-    "occupationLabel": "actor||singer||television actor||activist||film actor||voice actor||producer||jazz musician||film producer||director"
+    "occupationLabel": "singer||actor||film actor||activist||television actor||jazz musician||producer||voice actor||film producer||director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6107",
     "itemLabel": "Tupac Shakur",
     "year": "1996",
-    "sitelinks": "131",
+    "sitelinks": "132",
     "description": "American rapper and actor (1971–1996)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "poet||dancer||actor||singer||television actor||activist||songwriter||lyricist||film actor||rapper"
+    "occupationLabel": "singer||poet||composer||actor||film actor||dancer||activist||television actor||lyricist||musician||songwriter||rapper"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56016",
+    "itemLabel": "Katharine Hepburn",
+    "year": "2003",
+    "sitelinks": "127",
+    "description": "American actress (1907–2003)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||film actor||television actor||autobiographer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2643",
@@ -285,7 +330,7 @@
     "sitelinks": "126",
     "description": "English musician and member of the Beatles (1943–2001)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "record producer||poet||composer||actor||singer||singer-songwriter||musician||television actor||songwriter||multi-instrumentalist||bass guitarist||autobiographer||film actor||guitarist||recording artist||film score composer||horticulturist||film director||film producer"
+    "occupationLabel": "record producer||singer||poet||composer||actor||film actor||bass guitarist||television actor||singer-songwriter||recording artist||musician||guitarist||autobiographer||songwriter||film score composer||horticulturist||film producer||multi-instrumentalist||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37001",
@@ -294,16 +339,16 @@
     "sitelinks": "125",
     "description": "Japanese actor (1920–1997)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "actor||television actor||film actor||film director||film producer"
+    "occupationLabel": "actor||film actor||television actor||film producer||director||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q56016",
-    "itemLabel": "Katharine Hepburn",
-    "year": "2003",
-    "sitelinks": "125",
-    "description": "American actress (1907–2003)",
+    "item": "http://www.wikidata.org/entity/Q23543",
+    "itemLabel": "Selena",
+    "year": "1995",
+    "sitelinks": "124",
+    "description": "American singer",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||autobiographer||film actor||stage actor"
+    "occupationLabel": "spokesperson||singer||actor||fashion designer||film actor||television actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132964",
@@ -311,17 +356,17 @@
     "year": "1930",
     "sitelinks": "123",
     "description": "Russian and Soviet poet (1893–1930)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian Republic||Russian||Soviet",
-    "occupationLabel": "writer||playwright||screenwriter||poet||opinion journalist||actor||poster artist||printmaker||painter||journalist||film actor||visual artist||film director||director||stage actor||theatrical director"
+    "nationalityLabel": "Russian Republic||Russian Socialist Federative Soviet Republic||Soviet||Russian",
+    "occupationLabel": "screenwriter||poet||actor||author||film actor||playwright||opinion journalist||printmaker||painter||poster artist||journalist||theatre director||stage actor||visual artist||director||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q23543",
-    "itemLabel": "Selena",
-    "year": "1995",
-    "sitelinks": "123",
-    "description": "American singer",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "spokesperson||actor||singer||television actor||film actor||fashion designer"
+    "item": "http://www.wikidata.org/entity/Q43247",
+    "itemLabel": "Ingrid Bergman",
+    "year": "1982",
+    "sitelinks": "122",
+    "description": "Swedish actress (1915–1982)",
+    "nationalityLabel": "Swedish",
+    "occupationLabel": "actor||film actor||musician||autobiographer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83158",
@@ -330,7 +375,7 @@
     "sitelinks": "121",
     "description": "French writer and filmmaker (1889–1963)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||playwright||screenwriter||photographer||poet||cinematographer||ceramicist||composer||actor||librettist||designer||novelist||author||prose writer||illustrator||painter||draftsperson||voice actor||lithographer||filmmaker||pastellist||postage stamp designer||jewelry designer||film director||director||muralist||exlibrist"
+    "occupationLabel": "screenwriter||poet||composer||photographer||ceramicist||actor||librettist||author||designer||playwright||novelist||cinematographer||prose writer||draftsperson||lithographer||filmmaker||pastellist||painter||illustrator||exlibrist||sculptor||postage stamp designer||voice actor||muralist||director||jewelry designer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q72984",
@@ -339,16 +384,7 @@
     "sitelinks": "121",
     "description": "American singer and actor (1903–1977)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||businessperson||composer||comedian||actor||singer||baseball player||television producer||television actor||film actor||voice actor||television personality||producer||jazz musician||radio personality||film producer||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q43247",
-    "itemLabel": "Ingrid Bergman",
-    "year": "1982",
-    "sitelinks": "121",
-    "description": "Swedish actress (1915–1982)",
-    "nationalityLabel": "Swedish",
-    "occupationLabel": "actor||autobiographer||film actor||stage actor"
+    "occupationLabel": "businessperson||screenwriter||singer||composer||actor||author||film actor||baseball player||television producer||television actor||comedian||television personality||jazz musician||film screenwriter||producer||musician||voice actor||stage actor||film producer||radio personality"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40531",
@@ -357,7 +393,7 @@
     "sitelinks": "119",
     "description": "American actor (1907–1979)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||actor||television actor||film actor||producer||film screenwriter||film director||American football player||film producer||director"
+    "occupationLabel": "screenwriter||actor||author||film actor||television actor||film screenwriter||producer||American football player||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q512",
@@ -366,7 +402,25 @@
     "sitelinks": "117",
     "description": "Soviet singer-songwriter and actor (1938–1980)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "writer||screenwriter||poet||composer||actor||singer||singer-songwriter||prose writer||songwriter||lyricist||film actor||guitarist||stage actor"
+    "occupationLabel": "screenwriter||singer||poet||composer||actor||author||film actor||prose writer||lyricist||singer-songwriter||guitarist||songwriter||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3925",
+    "itemLabel": "Grace Kelly",
+    "year": "1982",
+    "sitelinks": "117",
+    "description": "American actress and Princess consort of Monaco (1929–1982)",
+    "nationalityLabel": "Monacan||Monégasque||Monegasque||American||Americans",
+    "occupationLabel": "actor||film actor||model||television actor||musician||aristocrat||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42775",
+    "itemLabel": "Johnny Cash",
+    "year": "2003",
+    "sitelinks": "117",
+    "description": "American country singer (1932–2003)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "singer||composer||actor||bandleader||country musician||singer-songwriter||guitarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16390",
@@ -375,16 +429,25 @@
     "sitelinks": "115",
     "description": "American actor (1899–1957)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "sailor||screenwriter||actor||character actor||film actor||stage manager||stage actor"
+    "occupationLabel": "sailor||screenwriter||military personnel||actor||author||film actor||military officer||naval officer||character actor||stage actor||film producer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q42775",
-    "itemLabel": "Johnny Cash",
-    "year": "2003",
-    "sitelinks": "115",
-    "description": "American country singer (1932–2003)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||singer-songwriter||guitarist"
+    "item": "http://www.wikidata.org/entity/Q5443",
+    "itemLabel": "Greta Garbo",
+    "year": "1990",
+    "sitelinks": "113",
+    "description": "Swedish-American actress (1905–1990)",
+    "nationalityLabel": "Swedish||American||Americans",
+    "occupationLabel": "actor||film actor||dancer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41042",
+    "itemLabel": "Harold Pinter",
+    "year": "2008",
+    "sitelinks": "113",
+    "description": "British playwright (1930–2008)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "screenwriter||poet||actor||author||playwright||novelist||theatre director||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q24829",
@@ -393,25 +456,34 @@
     "sitelinks": "112",
     "description": "American actor and filmmaker (1915–1985)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||playwright||screenwriter||actor||television actor||character actor||film actor||voice actor||producer||magician||radio personality||film director||film producer||director||theatrical producer||stage actor"
+    "occupationLabel": "screenwriter||actor||author||film actor||playwright||magician||television actor||producer||character actor||musician||theatrical producer||voice actor||stage actor||theatre manager||film producer||radio personality||director||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5443",
-    "itemLabel": "Greta Garbo",
-    "year": "1990",
-    "sitelinks": "112",
-    "description": "Swedish-American actress (1905–1990)",
-    "nationalityLabel": "Swedish||American||Americans",
-    "occupationLabel": "actor||film actor||stage actor"
+    "item": "http://www.wikidata.org/entity/Q83359",
+    "itemLabel": "James Dean",
+    "year": "1955",
+    "sitelinks": "111",
+    "description": "American actor (1931–1955)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||film actor||racing automobile driver||television actor||stage actor"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q41042",
-    "itemLabel": "Harold Pinter",
-    "year": "2008",
-    "sitelinks": "112",
-    "description": "British playwright (1930–2008)",
+    "item": "http://www.wikidata.org/entity/Q180338",
+    "itemLabel": "Christopher Lee",
+    "year": "2015",
+    "sitelinks": "111",
+    "description": "English actor and singer (1922–2015)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||playwright||screenwriter||poet||actor||novelist||film director||director||theatrical director"
+    "occupationLabel": "singer||military personnel||actor||author||film actor||military officer||television actor||orator||producer||character actor||SOE agent||musician||voice actor||stage actor||film producer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202878",
+    "itemLabel": "Mae West",
+    "year": "1980",
+    "sitelinks": "110",
+    "description": "American actress, singer, screenwriter, and writer (1893–1980)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||singer||actor||author||film actor||playwright||television actor||comedian||film screenwriter||musician||autobiographer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127330",
@@ -420,16 +492,7 @@
     "sitelinks": "110",
     "description": "American musician (1940–1993)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||record producer||composer||actor||singer||musician||rock musician||songwriter||journalist||voice actor||guitarist||rock guitarist||film director||film producer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q180338",
-    "itemLabel": "Christopher Lee",
-    "year": "2015",
-    "sitelinks": "110",
-    "description": "English actor and singer (1922–2015)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||military personnel||military officer||actor||singer||television actor||orator||character actor||film actor||voice actor||producer||SOE agent||film producer||stage actor"
+    "occupationLabel": "screenwriter||record producer||singer||composer||actor||rock musician||bandleader||rock guitarist||musician||guitarist||songwriter||journalist||voice actor||film producer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7542",
@@ -438,7 +501,7 @@
     "sitelinks": "110",
     "description": "American musician (1958–2016)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||record producer||composer||dancer||actor||singer||singer-songwriter||multi-instrumentalist||film actor||guitarist||film score composer||film director||film producer"
+    "occupationLabel": "screenwriter||record producer||singer||composer||actor||film actor||dancer||singer-songwriter||guitarist||film score composer||film producer||multi-instrumentalist||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131814",
@@ -447,25 +510,34 @@
     "sitelinks": "110",
     "description": "American-born Swiss singer and songwriter (1939–2023)",
     "nationalityLabel": "Swiss||American||Americans",
-    "occupationLabel": "dancer||actor||singer||musician||songwriter||autobiographer||recording artist||choreographer||film director"
+    "occupationLabel": "singer||actor||dancer||recording artist||musician||autobiographer||songwriter||choreographer||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q83359",
-    "itemLabel": "James Dean",
-    "year": "1955",
-    "sitelinks": "109",
-    "description": "American actor (1931–1955)",
+    "item": "http://www.wikidata.org/entity/Q2673",
+    "itemLabel": "Chuck Norris",
+    "year": "2026",
+    "sitelinks": "110",
+    "description": "American martial artist and action actor (1940–2026)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||racing automobile driver||television actor||film actor||stage actor"
+    "occupationLabel": "screenwriter||actor||author||karateka||film actor||stunt performer||taekwondo athlete||television actor||film producer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202878",
-    "itemLabel": "Mae West",
-    "year": "1980",
+    "item": "http://www.wikidata.org/entity/Q134456",
+    "itemLabel": "Yukio Mishima",
+    "year": "1970",
     "sitelinks": "109",
-    "description": "American actress, singer, screenwriter, and writer (1893–1980)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||playwright||screenwriter||comedian||actor||singer||television actor||autobiographer||film actor||film screenwriter||stage actor"
+    "description": "Japanese author (1925–1970)",
+    "nationalityLabel": "Japanese",
+    "occupationLabel": "screenwriter||poet||actor||author||film actor||civil servant||playwright||critic||essayist||model||novelist||prose writer||political activist||translator||short story writer||narrator||theatre director||stage actor||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1110560",
+    "itemLabel": "Umm Kulthum",
+    "year": "1975",
+    "sitelinks": "109",
+    "description": "Egyptian singer and actress (1904–1975)",
+    "nationalityLabel": "United Arab Republic||Republic of Egypt||Kingdom of Egypt||Egyptian",
+    "occupationLabel": "singer||actor||film actor||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40572",
@@ -474,7 +546,7 @@
     "sitelinks": "109",
     "description": "Australian actor (1979–2008)",
     "nationalityLabel": "Australian||Aussie||Aussies||Australians",
-    "occupationLabel": "actor||television actor||character actor||film actor||film director"
+    "occupationLabel": "actor||film actor||television actor||character actor||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41871",
@@ -483,7 +555,7 @@
     "sitelinks": "109",
     "description": "American actor (1925–2008)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "entrepreneur||writer||screenwriter||military personnel||military officer||actor||racing automobile driver||television actor||activist||film actor||voice actor||producer||film screenwriter||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||entrepreneur||military personnel||actor||author||film actor||military officer||racing automobile driver||activist||television actor||film screenwriter||producer||voice actor||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q108941",
@@ -492,7 +564,7 @@
     "sitelinks": "109",
     "description": "American actress, writer and screenwriter (1956–2016)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "spokesperson||writer||playwright||screenwriter||actor||singer||novelist||television actor||script doctor||film actor||voice actor||film producer||stage actor"
+    "occupationLabel": "spokesperson||screenwriter||singer||actor||author||film actor||playwright||novelist||television actor||script doctor||voice actor||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q765",
@@ -501,7 +573,7 @@
     "sitelinks": "109",
     "description": "Italian actor, playwright, comedian, singer-songwriter, theater director, painter, and political activist (1926-2016)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "writer||playwright||screenwriter||poet||composer||actor||satirist||illustrator||painter||film actor||Theaterintendant||stage author||costume designer||scenographer||visual artist||director||stage actor||theatrical director||Nobel Prize winner"
+    "occupationLabel": "screenwriter||poet||composer||actor||author||satirist||film actor||playwright||Theaterintendant||painter||illustrator||Nobel Prize winner||theatre director||stage actor||costume designer||scenographer||visual artist||director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129429",
@@ -513,31 +585,22 @@
     "occupationLabel": "actor||film actor||stage actor"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2673",
-    "itemLabel": "Chuck Norris",
-    "year": "2026",
-    "sitelinks": "108",
-    "description": "American martial artist and action actor (1940–2026)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||actor||karateka||stunt performer||television actor||taekwondo athlete||film actor||film producer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1110560",
-    "itemLabel": "Umm Kulthum",
-    "year": "1975",
-    "sitelinks": "107",
-    "description": "Egyptian singer and actress (1904–1975)",
-    "nationalityLabel": "Republic of Egypt||Kingdom of Egypt||United Arab Republic||Egyptian",
-    "occupationLabel": "actor||singer||film actor"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q71206",
     "itemLabel": "Bette Davis",
     "year": "1989",
     "sitelinks": "107",
     "description": "American actress (1908–1989)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||musician||television actor||character actor||autobiographer||film actor||stage actor"
+    "occupationLabel": "actor||film actor||television actor||character actor||musician||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182658",
+    "itemLabel": "Harper Lee",
+    "year": "2016",
+    "sitelinks": "107",
+    "description": "American novelist (1926–2016)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||actor||author||novelist||prose writer||musician||poet lawyer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q106255",
@@ -546,7 +609,16 @@
     "sitelinks": "107",
     "description": "French actor (1933–2021)",
     "nationalityLabel": "French",
-    "occupationLabel": "actor||stunt performer||film actor||film producer||stage actor||theatrical director"
+    "occupationLabel": "actor||film actor||stunt performer||theatre director||stage actor||film producer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40933",
+    "itemLabel": "Eva Perón",
+    "year": "1952",
+    "sitelinks": "106",
+    "description": "Argentine actress and politician (1919–1952)",
+    "nationalityLabel": "Argentine||Argentinian",
+    "occupationLabel": "politician||singer||actor||film actor||trade unionist||suffragist||women's rights activist||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93356",
@@ -555,7 +627,7 @@
     "sitelinks": "106",
     "description": "Irish poet, playwright, translator, lecturer (1939–2013)",
     "nationalityLabel": "Irish",
-    "occupationLabel": "writer||playwright||poet||translator||actor||author||linguist||university teacher"
+    "occupationLabel": "poet||actor||author||playwright||translator||linguist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193426",
@@ -564,16 +636,7 @@
     "sitelinks": "106",
     "description": "First Lady of the United States from 1981 to 1989",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||businessperson||actor||lawyer||television actor||autobiographer||film actor||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q182658",
-    "itemLabel": "Harper Lee",
-    "year": "2016",
-    "sitelinks": "105",
-    "description": "American novelist (1926–2016)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||actor||novelist||musician||prose writer||poet lawyer"
+    "occupationLabel": "politician||businessperson||actor||lawyer||film actor||television actor||autobiographer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2071",
@@ -582,31 +645,13 @@
     "sitelinks": "105",
     "description": "American filmmaker, visual artist, musician, and actor (1946–2025)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||photographer||cinematographer||composer||actor||animator||film editor||musician||television actor||songwriter||lyricist||painter||film actor||voice actor||producer||film screenwriter||visual artist||film director||film producer||director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q76409",
-    "itemLabel": "Charles Bukowski",
-    "year": "1994",
-    "sitelinks": "104",
-    "description": "German-American writer (1920–1994)",
-    "nationalityLabel": "German||American||Americans",
-    "occupationLabel": "writer||screenwriter||poet||actor||novelist||author||autobiographer||journalist||diarist||columnist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q190523",
-    "itemLabel": "Christopher Plummer",
-    "year": "2021",
-    "sitelinks": "104",
-    "description": "Canadian actor (1929–2021)",
-    "nationalityLabel": "Canadian||Canadians",
-    "occupationLabel": "actor||television actor||character actor||film actor||voice actor||stage actor"
+    "occupationLabel": "singer||composer||photographer||actor||film editor||author||film actor||animator||cinematographer||television actor||lyricist||film screenwriter||painter||musician||songwriter||voice actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q71243",
     "itemLabel": "Clark Gable",
     "year": "1960",
-    "sitelinks": "103",
+    "sitelinks": "104",
     "description": "American actor (1901–1960)",
     "nationalityLabel": "American||Americans",
     "occupationLabel": "actor||film actor"
@@ -615,10 +660,37 @@
     "item": "http://www.wikidata.org/entity/Q42745",
     "itemLabel": "Rita Hayworth",
     "year": "1987",
-    "sitelinks": "103",
+    "sitelinks": "104",
     "description": "American actress (1918–1987)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "pin-up model||dancer||actor||television actor||film actor||producer||model||stage actor"
+    "occupationLabel": "actor||pin-up model||film actor||dancer||model||television actor||producer||musician||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76409",
+    "itemLabel": "Charles Bukowski",
+    "year": "1994",
+    "sitelinks": "104",
+    "description": "German-American writer (1920–1994)",
+    "nationalityLabel": "German||American||Americans",
+    "occupationLabel": "screenwriter||poet||actor||author||novelist||diarist||autobiographer||journalist||columnist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190523",
+    "itemLabel": "Christopher Plummer",
+    "year": "2021",
+    "sitelinks": "104",
+    "description": "Canadian actor (1929–2021)",
+    "nationalityLabel": "Canadian||Canadians",
+    "occupationLabel": "singer||actor||film actor||television actor||character actor||musician||voice actor||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81219",
+    "itemLabel": "Sándor Petőfi",
+    "year": "1849",
+    "sitelinks": "102",
+    "description": "Hungarian poet and liberal revolutionary (1823–1849)",
+    "nationalityLabel": "Hungarian",
+    "occupationLabel": "poet||actor||author||philologist||freedom fighter||translator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103876",
@@ -627,16 +699,7 @@
     "sitelinks": "102",
     "description": "British-Irish actor (1932–2013)",
     "nationalityLabel": "British||Briton||Irish",
-    "occupationLabel": "writer||actor||television actor||film actor||voice actor||producer||film director||film producer||director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81219",
-    "itemLabel": "Sándor Petőfi",
-    "year": "1849",
-    "sitelinks": "101",
-    "description": "Hungarian poet and liberal revolutionary (1823–1849)",
-    "nationalityLabel": "Hungarian",
-    "occupationLabel": "writer||poet||translator||actor"
+    "occupationLabel": "actor||author||film actor||television actor||musician||voice actor||stage actor||theatre manager||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134180",
@@ -645,7 +708,7 @@
     "sitelinks": "101",
     "description": "American author (1924-1984)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||playwright||screenwriter||actor||novelist||autobiographer||journalist"
+    "occupationLabel": "screenwriter||actor||author||playwright||novelist||autobiographer||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q100937",
@@ -654,7 +717,16 @@
     "sitelinks": "101",
     "description": "American dancer, actor, and singer (1899–1987)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "dancer||actor||singer||television producer||television actor||television presenter||film actor||voice actor||choreographer||executive producer||film producer||percussionist||stage actor"
+    "occupationLabel": "singer||actor||film actor||dancer||percussionist||television producer||television actor||musician||television presenter||voice actor||stage actor||film producer||executive producer||choreographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150651",
+    "itemLabel": "George Carlin",
+    "year": "2008",
+    "sitelinks": "101",
+    "description": "American stand-up comedian (1937–2008)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||composer||actor||author||film actor||humorist||television actor||comedian||stand-up comedian||manufacturer||journalist||television presenter||voice actor||radio personality"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104000",
@@ -663,7 +735,16 @@
     "sitelinks": "101",
     "description": "American actress (1924–2014)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "spokesperson||writer||actor||singer||television actor||film actor||voice actor||model||stage actor"
+    "occupationLabel": "spokesperson||singer||actor||author||film actor||model||television actor||voice actor||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191966",
+    "itemLabel": "Gene Wilder",
+    "year": "2016",
+    "sitelinks": "101",
+    "description": "American actor (1933–2016)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||singer||actor||author||film actor||television actor||comedian||film screenwriter||producer||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104027",
@@ -672,7 +753,7 @@
     "sitelinks": "101",
     "description": "American actor (1916–2020)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military personnel||actor||television actor||philanthropist||film actor||producer||soldier||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||military personnel||actor||author||film actor||soldier||philanthropist||television actor||musician||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40475",
@@ -681,7 +762,7 @@
     "sitelinks": "100",
     "description": "American actress (1908–1977)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "businessperson||dancer||actor||television actor||film actor||model"
+    "occupationLabel": "businessperson||actor||film actor||dancer||model||television actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104109",
@@ -690,7 +771,7 @@
     "sitelinks": "100",
     "description": "Canadian actress and producer (1892–1979)",
     "nationalityLabel": "Canadian||Canadians",
-    "occupationLabel": "writer||businessperson||screenwriter||actor||film actor||producer||film screenwriter||film director||film producer||director||stage actor"
+    "occupationLabel": "businessperson||screenwriter||actor||author||film actor||film screenwriter||producer||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q853",
@@ -699,25 +780,7 @@
     "sitelinks": "100",
     "description": "Soviet and Russian film director, screenwriter, film editor, film theorist, theatre and opera director (1932–1986)",
     "nationalityLabel": "Soviet||French||Italian",
-    "occupationLabel": "screenwriter||actor||film editor||biographer||film actor||film screenwriter||film director||director||theatrical director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q150651",
-    "itemLabel": "George Carlin",
-    "year": "2008",
-    "sitelinks": "100",
-    "description": "American stand-up comedian (1937–2008)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||composer||comedian||actor||manufacturer||television actor||television presenter||humorist||journalist||film actor||voice actor||stand-up comedian||radio personality"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q191966",
-    "itemLabel": "Gene Wilder",
-    "year": "2016",
-    "sitelinks": "100",
-    "description": "American actor (1933–2016)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||comedian||actor||singer||television actor||film actor||producer||film screenwriter||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||actor||film editor||film actor||film screenwriter||biographer||theatre director||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104372",
@@ -726,7 +789,25 @@
     "sitelinks": "100",
     "description": "American actress and singer (1922–2019)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||actor||singer||television actor||film actor||recording artist"
+    "occupationLabel": "politician||singer||actor||film actor||television actor||recording artist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104049",
+    "itemLabel": "Sidney Poitier",
+    "year": "2022",
+    "sitelinks": "100",
+    "description": "Bahamian and American actor and diplomat (1927–2022)",
+    "nationalityLabel": "Bahamian||American||Americans",
+    "occupationLabel": "diplomat||actor||author||film actor||television producer||activist||television actor||musician||autobiographer||theatre director||stage actor||film producer||director||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19155",
+    "itemLabel": "Henry Fonda",
+    "year": "1982",
+    "sitelinks": "99",
+    "description": "American actor (1905–1982)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||military personnel||actor||author||film actor||military officer||naval officer||television producer||television actor||beekeeper||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93341",
@@ -735,16 +816,25 @@
     "sitelinks": "99",
     "description": "American jazz trumpeter, bandleader, and composer (1926–1991)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||conductor||actor||musician||television actor||bandleader||songwriter||autobiographer||trumpeter||recording artist||jazz musician||orchestra leader||film score composer"
+    "occupationLabel": "composer||actor||conductor||trumpeter||television actor||bandleader||jazz musician||orchestra leader||recording artist||musician||autobiographer||songwriter||film score composer||music arranger"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49034",
+    "itemLabel": "Hedy Lamarr",
+    "year": "2000",
+    "sitelinks": "99",
+    "description": "Austrian-American actress and co-inventor of an early technique for spread spectrum communications and frequency hopping (1914-2000)",
+    "nationalityLabel": "Austrian||American||Americans",
+    "occupationLabel": "screenwriter||entertainer||actor||inventor||film actor||model||musician||autobiographer||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213864",
     "itemLabel": "Paul Walker",
     "year": "2013",
-    "sitelinks": "98",
+    "sitelinks": "99",
     "description": "American actor (1973–2013)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||actor||racing automobile driver||television actor||film actor||voice actor||marine biologist||film producer"
+    "occupationLabel": "screenwriter||marine biologist||actor||film actor||racing automobile driver||television actor||voice actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1785",
@@ -752,26 +842,26 @@
     "year": "2018",
     "sitelinks": "98",
     "description": "Armenian-French singer and diplomat (1924-2018)",
-    "nationalityLabel": "French||Armenian",
-    "occupationLabel": "screenwriter||poet||composer||actor||singer||diplomat||lyricist||chansonnier||film actor||recording artist||film director"
+    "nationalityLabel": "Armenian||French",
+    "occupationLabel": "screenwriter||singer||poet||composer||diplomat||actor||author||film actor||chansonnier||lyricist||recording artist||musician||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104049",
-    "itemLabel": "Sidney Poitier",
-    "year": "2022",
+    "item": "http://www.wikidata.org/entity/Q172653",
+    "itemLabel": "Maggie Smith",
+    "year": "2024",
     "sitelinks": "98",
-    "description": "Bahamian and American actor and diplomat (1927–2022)",
-    "nationalityLabel": "Bahamian||American||Americans",
-    "occupationLabel": "writer||actor||diplomat||author||television producer||television actor||activist||autobiographer||film actor||film director||film producer||director||stage actor||theatrical director"
+    "description": "British actress (1934–2024)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19155",
-    "itemLabel": "Henry Fonda",
-    "year": "1982",
+    "item": "http://www.wikidata.org/entity/Q103949",
+    "itemLabel": "Buster Keaton",
+    "year": "1966",
     "sitelinks": "97",
-    "description": "American actor (1905–1982)",
+    "description": "American actor, comedian, and director (1895–1966)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military personnel||military officer||actor||naval officer||television producer||television actor||beekeeper||film actor||producer||film producer||stage actor"
+    "occupationLabel": "screenwriter||military personnel||actor||film editor||author||film actor||stunt performer||military officer||mime artist||television actor||comedian||film screenwriter||producer||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53002",
@@ -780,7 +870,7 @@
     "sitelinks": "97",
     "description": "French film director (1932–1984)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||screenwriter||actor||film actor||producer||film screenwriter||film director||film critic||film producer||director"
+    "occupationLabel": "actor||film critic||film actor||film screenwriter||producer||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83410",
@@ -789,7 +879,7 @@
     "sitelinks": "97",
     "description": "British-American actor (1904–1986)",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "writer||businessperson||comedian||actor||autobiographer||film actor||circus performer||film producer||stage actor"
+    "occupationLabel": "businessperson||actor||author||film actor||comedian||circus performer||producer||autobiographer||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q55469",
@@ -801,22 +891,22 @@
     "occupationLabel": "actor||film actor"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q49034",
-    "itemLabel": "Hedy Lamarr",
-    "year": "2000",
-    "sitelinks": "97",
-    "description": "Austrian-American actress and co-inventor of an early technique for spread spectrum communications and frequency hopping (1914-2000)",
-    "nationalityLabel": "Austrian||American||Americans",
-    "occupationLabel": "entertainer||inventor||screenwriter||actor||musician||autobiographer||film actor||film producer||model"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q36105",
     "itemLabel": "Charles Bronson",
     "year": "2003",
     "sitelinks": "97",
     "description": "American actor (1921–2003)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||actor||television actor||character actor||film actor"
+    "occupationLabel": "screenwriter||actor||film actor||television actor||character actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108366",
+    "itemLabel": "Gregory Peck",
+    "year": "2003",
+    "sitelinks": "97",
+    "description": "American actor (1916–2003)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||film actor||activist||television actor||producer||character actor||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q146256",
@@ -824,8 +914,8 @@
     "year": "2008",
     "sitelinks": "97",
     "description": "South African singer and civil rights activist (1932–2008)",
-    "nationalityLabel": "Algerian||South African",
-    "occupationLabel": "composer||actor||singer||recording artist"
+    "nationalityLabel": "South African||Algerian",
+    "occupationLabel": "singer||composer||actor||recording artist||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19198",
@@ -834,7 +924,7 @@
     "sitelinks": "97",
     "description": "American singer, songwriter and musician (1976–2017)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||singer||musician||songwriter||rock singer"
+    "occupationLabel": "singer||composer||actor||musician||songwriter||rock singer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34580",
@@ -843,25 +933,25 @@
     "sitelinks": "97",
     "description": "Japanese singer, voice actor (1948-2022)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "composer||actor||singer||seiyū||singer-songwriter||lyricist||tarento"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q172653",
-    "itemLabel": "Maggie Smith",
-    "year": "2024",
-    "sitelinks": "97",
-    "description": "British actress (1934–2024)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "actor"
+    "occupationLabel": "singer||composer||actor||seiyū||lyricist||singer-songwriter||tarento"
   },
   {
     "item": "http://www.wikidata.org/entity/Q59215",
     "itemLabel": "Robert Redford",
     "year": "2025",
     "sitelinks": "97",
-    "description": "American actor and director (1936—2025)",
+    "description": "American actor and director (1936–2025)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||film actor||voice actor||executive producer||film director||film producer||stage actor"
+    "occupationLabel": "actor||film actor||television actor||voice actor||stage actor||film producer||executive producer||director||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131545",
+    "itemLabel": "Harry Houdini",
+    "year": "1926",
+    "sitelinks": "96",
+    "description": "Hungarian-born American illusionist, escapologist, and stunt performer (1874–1926)",
+    "nationalityLabel": "Austria–Hungary||American||Americans",
+    "occupationLabel": "screenwriter||actor||philosopher||stunt performer||historian||magician||performing artist||escape artist||illusionist||aircraft pilot||film producer||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93957",
@@ -870,16 +960,7 @@
     "sitelinks": "96",
     "description": "American actor (1901–1961)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||actor||stunt performer||television actor||film actor||film producer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q103949",
-    "itemLabel": "Buster Keaton",
-    "year": "1966",
-    "sitelinks": "96",
-    "description": "American actor, comedian, and director (1895–1966)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military personnel||military officer||comedian||actor||film editor||stunt performer||television actor||mime artist||film actor||producer||film screenwriter||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||actor||film actor||stunt performer||television actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151972",
@@ -888,7 +969,7 @@
     "sitelinks": "96",
     "description": "American-born French dancer, singer and actress (1906–1975)",
     "nationalityLabel": "French||American||Americans",
-    "occupationLabel": "writer||dancer||military officer||intelligence officer||actor||singer||film actor||jazz musician||civil rights advocate||vedette||street artist||model"
+    "occupationLabel": "singer||entertainer||intelligence officer||actor||author||film actor||dancer||military officer||model||jazz musician||resistance fighter||musician||civil rights advocate||street artist||vedette"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2737",
@@ -897,25 +978,16 @@
     "sitelinks": "96",
     "description": "French actor and comedian (1914–1983)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||screenwriter||comedian||actor||pianist||dub actor||television actor||film actor||producer||film director||film producer||director||stage actor"
+    "occupationLabel": "screenwriter||actor||author||film actor||pianist||television actor||comedian||dub actor||producer||stage actor||film producer||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102462",
     "itemLabel": "James Stewart",
     "year": "1997",
     "sitelinks": "96",
-    "description": "American actor (1908–1997)",
+    "description": "American actor and military officer (1908–1997)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military personnel||poet||military officer||actor||television actor||film actor||voice actor||aircraft pilot||film director||director||television director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108366",
-    "itemLabel": "Gregory Peck",
-    "year": "2003",
-    "sitelinks": "96",
-    "description": "American actor (1916–2003)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||activist||character actor||film actor||producer||film producer||stage actor"
+    "occupationLabel": "screenwriter||poet||military personnel||actor||author||film actor||military officer||television actor||television director||voice actor||stage actor||aircraft pilot||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134333",
@@ -924,16 +996,25 @@
     "sitelinks": "96",
     "description": "English actor (1927–2017)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "military personnel||actor||television producer||television actor||autobiographer||film actor||voice actor||film producer||television director||stage actor"
+    "occupationLabel": "military personnel||actor||film actor||television producer||television actor||autobiographer||television director||voice actor||stage actor||film producer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131545",
-    "itemLabel": "Harry Houdini",
-    "year": "1926",
-    "sitelinks": "95",
-    "description": "Hungarian-born American illusionist, escapologist, and stunt performer (1874–1926)",
-    "nationalityLabel": "Austria–Hungary||American||Americans",
-    "occupationLabel": "historian||screenwriter||actor||stunt performer||performing artist||magician||aircraft pilot||film director||illusionist||film producer||philosopher||escape artist"
+    "item": "http://www.wikidata.org/entity/Q426582",
+    "itemLabel": "Anthony Bourdain",
+    "year": "2018",
+    "sitelinks": "96",
+    "description": "American chef and television personality (1956-2018)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||cook||author||chef||traveler||essayist||novelist||television producer||journalist||television presenter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103784",
+    "itemLabel": "Donald Sutherland",
+    "year": "2024",
+    "sitelinks": "96",
+    "description": "Canadian actor (1935–2024)",
+    "nationalityLabel": "Canadian||Canadians",
+    "occupationLabel": "spokesperson||screenwriter||actor||film actor||television actor||character actor||peace activist||voice actor||stage actor||film producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q25120",
@@ -942,7 +1023,7 @@
     "sitelinks": "95",
     "description": "Italian writer, filmmaker, poet, and intellectual (1922–1975)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "writer||playwright||screenwriter||poet||translator||actor||novelist||prose writer||activist||journalist||film actor||film director||film critic||director"
+    "occupationLabel": "screenwriter||poet||actor||film critic||librettist||author||film actor||playwright||opinion journalist||philologist||novelist||activist||prose writer||dramaturge||translator||journalist||theatre director||director||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103846",
@@ -951,7 +1032,7 @@
     "sitelinks": "95",
     "description": "American comedian (1890–1977)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "comedian||actor||television actor||film actor||radio personality||stage actor"
+    "occupationLabel": "actor||film actor||television actor||comedian||game show host||stage actor||radio personality"
   },
   {
     "item": "http://www.wikidata.org/entity/Q56009",
@@ -963,22 +1044,31 @@
     "occupationLabel": "actor"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q51545",
+    "itemLabel": "Luis Buñuel",
+    "year": "1983",
+    "sitelinks": "94",
+    "description": "Spanish-Mexican filmmaker (1900–1983)",
+    "nationalityLabel": "Mexican||Mexicans||Spanish||Spaniard",
+    "occupationLabel": "screenwriter||poet||composer||photographer||actor||film editor||author||film producer||director||film director"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q182580",
     "itemLabel": "Shirley Temple",
     "year": "2014",
     "sitelinks": "94",
     "description": "American actress and diplomat (1928–2014)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||dancer||actor||singer||diplomat||television actor||film actor||child actor"
+    "occupationLabel": "ambassador||politician||singer||diplomat||actor||film actor||dancer||television actor||child actor"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q51545",
-    "itemLabel": "Luis Buñuel",
-    "year": "1983",
-    "sitelinks": "93",
-    "description": "Spanish-Mexican filmmaker (1900–1983)",
-    "nationalityLabel": "Mexican||Mexicans||Spanish||Spaniard",
-    "occupationLabel": "writer||screenwriter||photographer||poet||composer||actor||film editor||film director||film producer||director"
+    "item": "http://www.wikidata.org/entity/Q314801",
+    "itemLabel": "Hal Holbrook",
+    "year": "2021",
+    "sitelinks": "94",
+    "description": "American actor (1925–2021)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||actor||film actor||television actor||character actor||stage actor||director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q55245",
@@ -987,96 +1077,6 @@
     "sitelinks": "93",
     "description": "English actor and director (1907–1989)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||screenwriter||actor||dramaturge||television actor||character actor||film actor||producer||film screenwriter||film director||film producer||director||stage actor||theatrical director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80739",
-    "itemLabel": "Charlton Heston",
-    "year": "2008",
-    "sitelinks": "93",
-    "description": "American actor (1923–2008)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military personnel||military officer||actor||social activist||television actor||political activist||activist||autobiographer||film actor||voice actor||film screenwriter||film director||director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106481",
-    "itemLabel": "Alan Rickman",
-    "year": "2016",
-    "sitelinks": "93",
-    "description": "British actor and director (1946–2016)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||screenwriter||actor||graphic designer||television actor||character actor||film actor||voice actor||film director||film producer||director||stage actor||theatrical director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q314801",
-    "itemLabel": "Hal Holbrook",
-    "year": "2021",
-    "sitelinks": "93",
-    "description": "American actor (1925–2021)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||actor||television actor||character actor||film actor||director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104183",
-    "itemLabel": "Lillian Gish",
-    "year": "1993",
-    "sitelinks": "92",
-    "description": "American actress (1893–1993)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||actor||television actor||autobiographer||film actor||peace activist||film director||director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q308722",
-    "itemLabel": "James Gandolfini",
-    "year": "2013",
-    "sitelinks": "92",
-    "description": "American actor (1961–2013)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||film actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q180560",
-    "itemLabel": "Philip Seymour Hoffman",
-    "year": "2014",
-    "sitelinks": "92",
-    "description": "American actor (1967–2014)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||character actor||film actor||voice actor||film director||film producer||stage actor||theatrical director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q171736",
-    "itemLabel": "Robert Duvall",
-    "year": "2026",
-    "sitelinks": "92",
-    "description": "American actor and director (1931-2026)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||actor||television actor||character actor||film actor||film screenwriter||soldier||film director||film producer||director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q128297",
-    "itemLabel": "Maria Meneghini Callas",
-    "year": "1977",
-    "sitelinks": "91",
-    "description": "American-Greek operatic soprano (1923–1977)",
-    "nationalityLabel": "Greek||American||Americans",
-    "occupationLabel": "actor||opera singer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q177984",
-    "itemLabel": "Peter Sellers",
-    "year": "1980",
-    "sitelinks": "91",
-    "description": "British actor and comedian (1925–1980)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||comedian||actor||singer||banjoist||television actor||film actor||film director||director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q55415",
-    "itemLabel": "Leni Riefenstahl",
-    "year": "2003",
-    "sitelinks": "91",
-    "description": "German filmmaker (1902–2003)",
-    "nationalityLabel": "German||Weimar Republic||Nazi Germany||Sudanese",
-    "occupationLabel": "screenwriter||photographer||dancer||actor||film editor||film actor||film director||film producer||director"
+    "occupationLabel": "politician||screenwriter||actor||film actor||television actor||dramaturge||film screenwriter||producer||character actor||musician||stage actor||theatre director||theatre manager||film producer||director||film director"
   }
 ]
