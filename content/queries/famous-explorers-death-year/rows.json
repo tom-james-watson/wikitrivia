@@ -3,28 +3,19 @@
     "item": "http://www.wikidata.org/entity/Q1035",
     "itemLabel": "Charles Darwin",
     "year": "1882",
-    "sitelinks": "275",
+    "sitelinks": "277",
     "description": "English naturalist and biologist (1809–1882)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||travel writer||naturalist||philosopher||geologist||explorer||ethologist||botanical collector||scientific collector||botanist"
+    "occupationLabel": "author||naturalist||travel writer||philosopher||scientific collector||explorer||biologist||geologist||botanist||botanical collector||ethologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7322",
     "itemLabel": "Christopher Columbus",
     "year": "1506",
-    "sitelinks": "241",
+    "sitelinks": "242",
     "description": "Italian navigator, explorer, and colonist (1451–1506)",
     "nationalityLabel": "Republic of Genoa",
-    "occupationLabel": "sailor||inventor||seafarer||explorer||traveler"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6101",
-    "itemLabel": "Marco Polo",
-    "year": "1324",
-    "sitelinks": "210",
-    "description": "Venetian explorer and merchant who travelled through Asia (1254–1324)",
-    "nationalityLabel": "Venetian",
-    "occupationLabel": "ambassador||writer||entrepreneur||merchant||diplomat||explorer||memoirist||traveler||world traveler"
+    "occupationLabel": "sailor||seafarer||inventor||explorer||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7327",
@@ -51,61 +42,61 @@
     "sitelinks": "191",
     "description": "26th President of the United States from 1901 to 1909 (1858–1919)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||politician||naturalist||historian||statesperson||explorer||essayist||conservationist||husbandry worker||autobiographer||ornithologist||scientific collector||diarist"
+    "occupationLabel": "author||naturalist||governor||politician||scientific collector||jurist||historian||statesperson||essayist||explorer||conservationist||ornithologist||rancher||diarist||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q926",
     "itemLabel": "Roald Amundsen",
     "year": "1928",
-    "sitelinks": "187",
+    "sitelinks": "188",
     "description": "Norwegian explorer; first person to reach the South Pole (1872–1928)",
     "nationalityLabel": "Norwegian",
-    "occupationLabel": "writer||sailor||explorer||polar explorer||researcher||aircraft pilot||film director||naval aviator"
+    "occupationLabel": "film director||author||sailor||naval aviator||polar explorer||explorer||geographer||researcher||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7324",
     "itemLabel": "James Cook",
     "year": "1779",
-    "sitelinks": "183",
+    "sitelinks": "186",
     "description": "British explorer, cartographer and naval officer (1728–1779)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "naval officer||seafarer||explorer||botanist||cartographer"
+    "occupationLabel": "seafarer||naval officer||discoverer||explorer||botanist||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7328",
     "itemLabel": "Vasco da Gama",
     "year": "1525",
-    "sitelinks": "179",
+    "sitelinks": "180",
     "description": "Portuguese explorer (c. 1460s – 1524)",
     "nationalityLabel": "Kingdom of Portugal",
-    "occupationLabel": "naval officer||seafarer||explorer||world traveler"
+    "occupationLabel": "seafarer||naval officer||discoverer||explorer||world traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7326",
     "itemLabel": "Hernán Cortés",
     "year": "1547",
-    "sitelinks": "167",
+    "sitelinks": "170",
     "description": "Spanish conquistador",
-    "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "conquistador||governor||explorer"
+    "nationalityLabel": "New Spain||Mexican||Mexicans||Spanish||Spaniard",
+    "occupationLabel": "author||Conqueror||governor||conquistador||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7331",
     "itemLabel": "Ibn Battuta",
     "year": "1368",
-    "sitelinks": "163",
+    "sitelinks": "165",
     "description": "14th century Muslim Maghrebi scholar and explorer",
     "nationalityLabel": "",
-    "occupationLabel": "writer||merchant||qadi||explorer||geographer||Islamic jurist||cartographer"
+    "occupationLabel": "author||merchant||qadi||explorer||geographer||cartographer||Islamic jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7321",
     "itemLabel": "Jacques Cartier",
     "year": "1557",
-    "sitelinks": "157",
+    "sitelinks": "159",
     "description": "Breton maritime explorer of North America (1491–1557)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||sailor||inventor||seafarer||explorer||navigator"
+    "occupationLabel": "sailor||politician||seafarer||inventor||explorer||navigator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34836",
@@ -114,43 +105,43 @@
     "sitelinks": "157",
     "description": "president of the United States from 1869 to 1877",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||politician||statesperson||explorer||army officer"
+    "occupationLabel": "author||military personnel||politician||army officer||statesperson||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7333",
     "itemLabel": "Zheng He",
     "year": "1433",
-    "sitelinks": "151",
+    "sitelinks": "152",
     "description": "Chinese mariner, explorer, and diplomat",
     "nationalityLabel": "Ming dynasty",
-    "occupationLabel": "eunuch||diplomat||explorer||traveler||navigator"
+    "occupationLabel": "diplomat||eunuch||explorer||navigator||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6694",
     "itemLabel": "Alexander von Humboldt",
     "year": "1859",
-    "sitelinks": "136",
-    "description": "Prussian geographer, naturalist and explorer (1769–1859)",
+    "sitelinks": "140",
+    "description": "Prussian geographer, naturalist and explorer (1769-1859)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "astronomer||travel writer||economist||naturalist||oceanographer||geologist||zoologist||volcanologist||explorer||geographer||ethnologist||climatologist||ornithologist||botanical collector||botanist||world traveler||meteorologist||cartographer"
+    "occupationLabel": "astronomer||author||naturalist||physician||oceanographer||travel writer||volcanologist||economist||zoologist||explorer||geographer||geologist||climatologist||ornithologist||ethnologist||meteorologist||botanist||botanical collector||scholar||cartographer||world traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33817",
     "itemLabel": "Edmund Hillary",
     "year": "2008",
-    "sitelinks": "132",
+    "sitelinks": "134",
     "description": "New Zealand mountaineer and philanthropist (1919–2008)",
     "nationalityLabel": "New Zealander||New Zealand",
-    "occupationLabel": "diplomat||beekeeper||explorer||mountaineer||philanthropist||autobiographer"
+    "occupationLabel": "mountaineer||diplomat||philanthropist||explorer||speaker||beekeeper||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47087",
     "itemLabel": "Arthur C. Clarke",
     "year": "2008",
-    "sitelinks": "125",
+    "sitelinks": "126",
     "description": "British science fiction writer, inventor, and futurist (1917–2008)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||writer||physicist||inventor||novelist||explorer||futurist||non-fiction writer||science fiction writer"
+    "occupationLabel": "author||screenwriter||physicist||novelist||inventor||explorer||non-fiction writer||futurist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36517",
@@ -159,7 +150,7 @@
     "sitelinks": "119",
     "description": "English sailor and privateer (c. 1540 – 1596)",
     "nationalityLabel": "English",
-    "occupationLabel": "engineer||politician||privateer||sailor||vice admiral||explorer"
+    "occupationLabel": "sailor||engineer||vice admiral||politician||seafarer||privateer||pirate||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5752",
@@ -167,35 +158,35 @@
     "year": "1921",
     "sitelinks": "116",
     "description": "Russian revolutionary socialist and philosopher (1842–1921)",
-    "nationalityLabel": "Russian||Russian Soviet Federative Socialist Republic",
-    "occupationLabel": "writer||politician||economist||philosopher||zoologist||explorer||geographer||activist||anarchist||autobiographer||journalist||propagandist"
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian Soviet Federative Socialist Republic||Russian",
+    "occupationLabel": "author||philosopher||politician||economist||zoologist||explorer||geographer||anarchist||activist||autobiographer||propagandist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47674",
-    "itemLabel": "Amerigo Vespucci",
+    "itemLabel": "Américo Vespucio",
     "year": "1512",
     "sitelinks": "114",
     "description": "Florentine explorer, financier, navigator and cartographer",
-    "nationalityLabel": "Republic of Florence||Crown of Castile",
-    "occupationLabel": "writer||merchant||explorer||cartographer"
+    "nationalityLabel": "Crown of Castile||Republic of Florence",
+    "occupationLabel": "author||sailor||merchant||seafarer||explorer||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160627",
     "itemLabel": "Alfred Russel Wallace",
     "year": "1913",
-    "sitelinks": "105",
-    "description": "British naturalist, explorer, geographer, anthropologist and biologist (1823-1913)",
+    "sitelinks": "106",
+    "description": "British naturalist, explorer, geographer, anthropologist and biologist (1823–1913)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||naturalist||mathematician||beekeeper||zoologist||explorer||anthropologist||geographer||biologist||anti-vaccine activist||ornithologist||botanical collector||scientific collector||botanist||world traveler||entomologist||zoological collector"
+    "occupationLabel": "author||entomologist||naturalist||anthropologist||scientific collector||mathematician||zoological collector||zoologist||explorer||geographer||ornithologist||botanist||anti-vaccine activist||beekeeper||botanical collector||world traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48246",
     "itemLabel": "Ernst Haeckel",
     "year": "1919",
     "sitelinks": "104",
-    "description": "German zoologist (1834–1919)",
-    "nationalityLabel": "Weimar Republic||German||Prussian",
-    "occupationLabel": "physician||writer||photographer||naturalist||philosopher||ichthyologist||zoologist||explorer||university teacher||biologist||ecologist||ornithologist||botanical collector||botanist"
+    "description": "German zoologist (1834-1919)",
+    "nationalityLabel": "German||Weimar Republic||Prussian",
+    "occupationLabel": "photographer||author||naturalist||ichthyologist||physician||philosopher||zoologist||explorer||biologist||draftsperson||ornithologist||ecologist||university teacher||botanist||botanical collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42838",
@@ -204,7 +195,7 @@
     "sitelinks": "103",
     "description": "norse explorer (c. 970 – c. 1020)",
     "nationalityLabel": "Icelandic Commonwealth",
-    "occupationLabel": "explorer||seafarer||warrior"
+    "occupationLabel": "seafarer||explorer||discoverer||warrior"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42188",
@@ -213,25 +204,25 @@
     "sitelinks": "102",
     "description": "Dutch seafarer, explorer and merchant (1603–1659)",
     "nationalityLabel": "Dutch",
-    "occupationLabel": "author||explorer||seafarer||navigator||map drawer"
+    "occupationLabel": "map drawer||seafarer||explorer||navigator||author"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83233",
+    "itemLabel": "Jacques Cousteau",
+    "year": "1997",
+    "sitelinks": "101",
+    "description": "French naval officer, oceanographer, filmmaker and author (1910-1997)",
+    "nationalityLabel": "French",
+    "occupationLabel": "film director||Officer of the French Navy||photographer||author||screenwriter||film producer||innovator||oceanographer||engineer||marine biologist||inventor||zoologist||explorer||conservationist||filmmaker||documentary filmmaker||world traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48373",
     "itemLabel": "David Livingstone",
     "year": "1873",
     "sitelinks": "100",
-    "description": "Scottish missionary and explorer (1813–1873)",
+    "description": "Scottish missionary and explorer (1813-1873)",
     "nationalityLabel": "British||Briton||Scottish",
-    "occupationLabel": "writer||missionary||explorer||geographer||physician writer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83233",
-    "itemLabel": "Jacques Cousteau",
-    "year": "1997",
-    "sitelinks": "100",
-    "description": "French naval officer, oceanographer, filmmaker and author (1910-1997)",
-    "nationalityLabel": "French",
-    "occupationLabel": "engineer||screenwriter||writer||photographer||marine biologist||innovator||inventor||oceanographer||zoologist||explorer||filmmaker||biologist||conservationist||film producer||world traveler||film director||Officer of the French Navy"
+    "occupationLabel": "author||missionary||explorer||geographer||physician writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19825",
@@ -240,7 +231,7 @@
     "sitelinks": "96",
     "description": "British businessman, mining magnate and politician in South Africa (1853-1902)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||entrepreneur||economist||industrialist||explorer||patron of the arts||colonizer"
+    "occupationLabel": "businessperson||engineer||politician||entrepreneur||industrialist||economist||explorer||patron of the arts||colonizer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80732",
@@ -248,8 +239,8 @@
     "year": "1986",
     "sitelinks": "94",
     "description": "Nepalese Indian Sherpa mountaineer (1914-1986)",
-    "nationalityLabel": "Indian||Nepali||Nepalese",
-    "occupationLabel": "explorer||mountaineer||mountain guide||autobiographer"
+    "nationalityLabel": "Nepali||Nepalese||Indian",
+    "occupationLabel": "mountaineer||explorer||mountain guide||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44741",
@@ -258,16 +249,25 @@
     "sitelinks": "90",
     "description": "Spanish conquistador who conquered the Inca Empire",
     "nationalityLabel": "Crown of Castile||Spanish||Spaniard",
-    "occupationLabel": "conquistador||explorer"
+    "occupationLabel": "adventurer||Conqueror||conquistador||soldier||explorer||discoverer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q163900",
     "itemLabel": "Francis Xavier",
     "year": "1552",
-    "sitelinks": "88",
+    "sitelinks": "89",
     "description": "Spanish Catholic saint and missionary (1506–1552)",
-    "nationalityLabel": "Kingdom of Navarre||Crown of Castile",
-    "occupationLabel": "writer||missionary||explorer||Latin Catholic priest"
+    "nationalityLabel": "Crown of Castile||Navarran",
+    "occupationLabel": "author||Catholic theologian||missionary||explorer||Latin Catholic priest"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152306",
+    "itemLabel": "Carl Gustaf Emil Mannerheim",
+    "year": "1951",
+    "sitelinks": "88",
+    "description": "Finnish military leader and statesman (1867–1951)",
+    "nationalityLabel": "Grand Duchy of Finland||Russian||Finn||Finnish",
+    "occupationLabel": "politician||soldier||general field marshal||military officer||explorer||author"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76323",
@@ -276,16 +276,7 @@
     "sitelinks": "87",
     "description": "German climatologist and geophysicist (1880–1930)",
     "nationalityLabel": "German",
-    "occupationLabel": "astronomer||physicist||geologist||explorer||geographer||geophysicist||polar explorer||university teacher||climatologist||meteorologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q152306",
-    "itemLabel": "Carl Gustaf Emil Mannerheim",
-    "year": "1951",
-    "sitelinks": "87",
-    "description": "Finnish military leader and statesman (1867–1951)",
-    "nationalityLabel": "Grand Duchy of Finland||Russian||Finn||Finnish",
-    "occupationLabel": "politician||military officer||author||explorer"
+    "occupationLabel": "astronomer||physicist||polar explorer||earth scientist||geophysicist||explorer||geographer||geologist||climatologist||meteorologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q133622",
@@ -294,7 +285,16 @@
     "sitelinks": "87",
     "description": "Norwegian anthropologist and adventurer (1914-2002)",
     "nationalityLabel": "Norwegian",
-    "occupationLabel": "screenwriter||writer||archaeologist||marine biologist||sailor||historian||explorer||anthropologist||ethnographer||traveler||researcher||world traveler||film director||adventurer"
+    "occupationLabel": "film director||author||adventurer||screenwriter||sailor||anthropologist||archaeologist||marine biologist||historian||zoologist||explorer||ethnographer||traveler||researcher||ethnologist||world traveler"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126513",
+    "itemLabel": "Steve Irwin",
+    "year": "2006",
+    "sitelinks": "86",
+    "description": "Australian zookeeper, conservationist and TV personality (1962-2006)",
+    "nationalityLabel": "Australian||Aussie||Aussies||Australians",
+    "occupationLabel": "screenwriter||actor||businessperson||environmentalist||zoologist||explorer||herpetologist||television presenter||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154269",
@@ -303,7 +303,7 @@
     "sitelinks": "86",
     "description": "Soviet pilot and cosmonaut, first human to conduct a spacewalk (1934-2019)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "writer||astronaut||airman||explorer||air force officer||painter||fighter pilot||military aviator"
+    "occupationLabel": "astronaut||author||military aviator||major general||airman||explorer||painter||fighter pilot||air force officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127641",
@@ -312,16 +312,16 @@
     "sitelinks": "84",
     "description": "Danish-born Russian explorer (1681-1741)",
     "nationalityLabel": "Danish||dane||danes||Russian",
-    "occupationLabel": "naval officer||hydrographer||explorer||seafarer"
+    "occupationLabel": "seafarer||hydrographer||naval officer||discoverer||explorer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126513",
-    "itemLabel": "Steve Irwin",
-    "year": "2006",
-    "sitelinks": "84",
-    "description": "Australian zookeeper, conservationist and TV personality (1962–2006)",
-    "nationalityLabel": "Australian||Aussie||Aussies||Australians",
-    "occupationLabel": "screenwriter||actor||businessperson||environmentalist||explorer||television presenter||herpetologist||journalist"
+    "item": "http://www.wikidata.org/entity/Q174432",
+    "itemLabel": "Pedro Álvares Cabral",
+    "year": "1520",
+    "sitelinks": "82",
+    "description": "Portuguese military commander and explorer (c.1467/8 – c.1521)",
+    "nationalityLabel": "Kingdom of Portugal",
+    "occupationLabel": "seafarer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102527",
@@ -330,16 +330,16 @@
     "sitelinks": "82",
     "description": "Royal Navy officer and explorer (1868–1912)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "captain||naval officer||explorer||non-fiction writer"
+    "occupationLabel": "captain||polar explorer||naval officer||explorer||non-fiction writer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q174432",
-    "itemLabel": "Pedro Álvares Cabral",
-    "year": "1520",
-    "sitelinks": "81",
-    "description": "Portuguese military commander and explorer (c.1467/8 – c.1521)",
-    "nationalityLabel": "Kingdom of Portugal",
-    "occupationLabel": "explorer||seafarer"
+    "item": "http://www.wikidata.org/entity/Q171421",
+    "itemLabel": "Henry Morton Stanley",
+    "year": "1904",
+    "sitelinks": "80",
+    "description": "British journalist and explorer (1841–1904)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||politician||explorer||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130377",
@@ -357,16 +357,7 @@
     "sitelinks": "79",
     "description": "Dutch navigator, cartographer, and Arctic explorer (1550–1597)",
     "nationalityLabel": "Seventeen Provinces||Roman||Dutch",
-    "occupationLabel": "explorer||seafarer||polar explorer||navigator||skipper||maritime cartographer||cartographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q171421",
-    "itemLabel": "Henry Morton Stanley",
-    "year": "1904",
-    "sitelinks": "79",
-    "description": "British journalist and explorer (1841–1904)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||politician||explorer||journalist"
+    "occupationLabel": "maritime cartographer||seafarer||polar explorer||discoverer||explorer||navigator||skipper||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42063",
@@ -375,7 +366,7 @@
     "sitelinks": "77",
     "description": "7th-century Chinese Buddhist monk and scholar (602–664)",
     "nationalityLabel": "Tang dynasty||Sui dynasty",
-    "occupationLabel": "writer||philosopher||explorer||Buddhist monk||translator"
+    "occupationLabel": "author||philosopher||translator||explorer||monk||Buddhist monk"
   },
   {
     "item": "http://www.wikidata.org/entity/Q957543",
@@ -384,7 +375,7 @@
     "sitelinks": "76",
     "description": "Anglo-Irish Antarctic explorer (1874–1922)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "military officer||explorer||polar explorer||traveler||scientific collector"
+    "occupationLabel": "scientific collector||polar explorer||military officer||explorer||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185718",
@@ -393,7 +384,7 @@
     "sitelinks": "74",
     "description": "Russian admiral and military leader of the White movement (1874-1920)",
     "nationalityLabel": "Russian Republic||Russian State||Russian",
-    "occupationLabel": "politician||soldier||military officer||oceanographer||explorer||glaciologist"
+    "occupationLabel": "hydrologist||oceanographer||politician||soldier||minister||admiral||naval officer||military officer||explorer||glaciologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191026",
@@ -402,7 +393,7 @@
     "sitelinks": "73",
     "description": "British eugenist, polymath, and behavioural geneticist (1822–1911)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||photographer||mathematician||psychologist||philosopher||inventor||explorer||anthropologist||geographer||statistician||eugenicist||sociologist||physiologist||meteorologist||geneticist"
+    "occupationLabel": "statistician||photographer||author||geneticist||anthropologist||philosopher||mathematician||inventor||psychologist||explorer||geographer||meteorologist||physiologist||sociologist||eugenicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q68529",
@@ -411,7 +402,7 @@
     "sitelinks": "72",
     "description": "16/17th-century French explorer of North America",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||military personnel||soldier||diplomat||explorer||geographer||cartographer"
+    "occupationLabel": "military personnel||politician||soldier||diplomat||discoverer||explorer||geographer||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179167",
@@ -420,7 +411,7 @@
     "sitelinks": "71",
     "description": "English explorer b1565",
     "nationalityLabel": "English",
-    "occupationLabel": "explorer||seafarer"
+    "occupationLabel": "seafarer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189144",
@@ -429,7 +420,25 @@
     "sitelinks": "71",
     "description": "English statesman, soldier and writer (1552–1618)",
     "nationalityLabel": "English",
-    "occupationLabel": "poet||writer||politician||knight||explorer"
+    "occupationLabel": "author||knight||sailor||politician||poet||seafarer||discoverer||explorer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208993",
+    "itemLabel": "Nicholas Roerich",
+    "year": "1947",
+    "sitelinks": "71",
+    "description": "Russian painter, writer, archaeologist and philosopher (1874–1947)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "scenographer||choreographer||author||muralist||archaeologist||philosopher||poet||designer||jurist||diplomat||historian||occultist||explorer||mystic||traveler||painter||illustrator||costume designer||graphic artist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60040",
+    "itemLabel": "Hernando de Soto",
+    "year": "1542",
+    "sitelinks": "70",
+    "description": "Spanish explorer and conquistador",
+    "nationalityLabel": "Crown of Castile",
+    "occupationLabel": "Conqueror||conquistador||military personnel||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q125057",
@@ -438,43 +447,25 @@
     "sitelinks": "70",
     "description": "British explorer, army officer, writer and scholar (1821–1890)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "poet||writer||military personnel||naturalist||historian||diplomat||zoologist||explorer||spy||anthropologist||traveler||ethnologist||translator||linguist||botanical collector||cartographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q208993",
-    "itemLabel": "Nicholas Roerich",
-    "year": "1947",
-    "sitelinks": "69",
-    "description": "Russian painter, writer, archaeologist and philosopher (1874–1947)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "poet||writer||archaeologist||muralist||designer||philosopher||historian||diplomat||explorer||occultist||mystic||traveler||painter||illustrator||costume designer||graphic artist||choreographer||scenographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60040",
-    "itemLabel": "Hernando de Soto",
-    "year": "1542",
-    "sitelinks": "68",
-    "description": "Spanish explorer and conquistador",
-    "nationalityLabel": "Crown of Castile",
-    "occupationLabel": "conquistador||military personnel||explorer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154782",
-    "itemLabel": "Adelbert von Chamisso",
-    "year": "1838",
-    "sitelinks": "68",
-    "description": "German poet and botanist (1781–1838)",
-    "nationalityLabel": "French||Prussian",
-    "occupationLabel": "poet||writer||naturalist||military officer||zoologist||explorer||bryologist||pteridologist||curator||botanical collector||scientific collector||botanist"
+    "occupationLabel": "author||naturalist||anthropologist||military personnel||poet||spy||diplomat||translator||military officer||historian||zoologist||discoverer||explorer||traveler||linguist||ethnologist||botanical collector||orientalist||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q204397",
     "itemLabel": "Afonso de Albuquerque",
     "year": "1515",
-    "sitelinks": "67",
+    "sitelinks": "69",
     "description": "Portuguese general, admiral, and statesman (1453–1515)",
     "nationalityLabel": "Kingdom of Portugal",
     "occupationLabel": "explorer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154782",
+    "itemLabel": "Adelbert von Chamisso",
+    "year": "1838",
+    "sitelinks": "69",
+    "description": "German poet and botanist (1781–1838)",
+    "nationalityLabel": "French||Prussian",
+    "occupationLabel": "author||naturalist||poet||scientific collector||military officer||zoologist||explorer||curator||bryologist||botanist||botanical collector||pteridologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q172345",
@@ -483,7 +474,7 @@
     "sitelinks": "66",
     "description": "explorer and founder of the first viking settlement in Greenland",
     "nationalityLabel": "Norwegian",
-    "occupationLabel": "conquistador||explorer||warrior||settler"
+    "occupationLabel": "conquistador||seafarer||discoverer||explorer||warrior||settler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155914",
@@ -491,8 +482,8 @@
     "year": "1811",
     "sitelinks": "65",
     "description": "German zoologist and botanist (1741–1811)",
-    "nationalityLabel": "Russian||Prussian",
-    "occupationLabel": "physician||zoologist||explorer||geographer||biologist||arachnologist||ornithologist||botanical collector||scientific collector||botanist||entomologist"
+    "nationalityLabel": "Prussian||Russian",
+    "occupationLabel": "entomologist||naturalist||physician||scientific collector||zoologist||philologist||explorer||geographer||ornithologist||arachnologist||botanist||botanical collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q186585",
@@ -501,7 +492,16 @@
     "sitelinks": "65",
     "description": "explorer from the United States (1856–1920)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||explorer||researcher||botanical collector||science fiction writer"
+    "occupationLabel": "military officer||explorer||researcher||science fiction writer||botanical collector"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200405",
+    "itemLabel": "John Hurt",
+    "year": "2017",
+    "sitelinks": "65",
+    "description": "British actor (1940–2017)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||television actor||film actor||video game actor||explorer||character actor||stage actor||voice actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q233340",
@@ -510,7 +510,7 @@
     "sitelinks": "64",
     "description": "Italian Catholic missionary (1552–1610)",
     "nationalityLabel": "Papal",
-    "occupationLabel": "mathematician||missionary||explorer||translator||presbyter||sinologist||cartographer"
+    "occupationLabel": "Catholic theologian||mathematician||translator||missionary||explorer||sinologist||presbyter||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q202308",
@@ -519,16 +519,7 @@
     "sitelinks": "64",
     "description": "Turkish traveler and writer (1611–1682)",
     "nationalityLabel": "Ottoman",
-    "occupationLabel": "poet||writer||historian||explorer||traveler"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q200405",
-    "itemLabel": "John Hurt",
-    "year": "2017",
-    "sitelinks": "64",
-    "description": "British actor (1940–2017)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "actor||character actor||television actor||explorer||film actor||video game actor||voice actor||stage actor"
+    "occupationLabel": "author||travel writer||poet||historian||explorer||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185974",
@@ -546,7 +537,7 @@
     "sitelinks": "63",
     "description": "Castillian Basque sailor, explorer, and circumnavigator with the Magellan Expedition",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "explorer||seafarer"
+    "occupationLabel": "seafarer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q271878",
@@ -555,7 +546,16 @@
     "sitelinks": "63",
     "description": "Viceroy of India and British Foreign Secretary (1859–1925)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||diplomat||explorer||traveler"
+    "occupationLabel": "politician||diplomat||foreign minister||explorer||traveler"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q214926",
+    "itemLabel": "Nikolai Vavilov",
+    "year": "1943",
+    "sitelinks": "62",
+    "description": "Russian (Soviet) agronomist, botanist and geneticist (1887-1943)",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Soviet",
+    "occupationLabel": "geneticist||academic||explorer||geographer||biologist||botanist||botanical collector||agronomist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19080",
@@ -564,7 +564,16 @@
     "sitelinks": "61",
     "description": "Spanish explorer, governor, and conquistador",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "conquistador||politician||explorer"
+    "occupationLabel": "adventurer||conquistador||politician||explorer||traveler"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q379580",
+    "itemLabel": "John Muir",
+    "year": "1914",
+    "sitelinks": "61",
+    "description": "Scottish-American naturalist (1838–1914)",
+    "nationalityLabel": "British||Briton||American||Americans",
+    "occupationLabel": "author||naturalist||philosopher||scientific collector||mountaineer||inventor||essayist||preservationist||discoverer||explorer||mechanic||polymath||conservationist||geologist||glaciologist||ecologist||botanist||botanical collector||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189971",
@@ -573,7 +582,16 @@
     "sitelinks": "60",
     "description": "ancient Greek explorer",
     "nationalityLabel": "",
-    "occupationLabel": "astronomer||explorer"
+    "occupationLabel": "astronomer||seafarer||discoverer||explorer||geographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q203647",
+    "itemLabel": "Harald III of Norway",
+    "year": "1066",
+    "sitelinks": "60",
+    "description": "King of Norway from 1046 to 1066",
+    "nationalityLabel": "Kingdom of Norway",
+    "occupationLabel": "military personnel||explorer||ruler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76754",
@@ -582,7 +600,7 @@
     "sitelinks": "60",
     "description": "Baltic German officer in the Imperial Russian Navy, cartographer and explorer (1778–1852)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "military personnel||explorer||seafarer||cartographer"
+    "occupationLabel": "military personnel||soldier||seafarer||naval officer||explorer||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192442",
@@ -591,25 +609,7 @@
     "sitelinks": "60",
     "description": "Russian soldier, explorer, & geographer (1839-1888)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "writer||military personnel||naturalist||zoologist||explorer||geographer||traveler||botanical collector||scientific collector||botanist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q379580",
-    "itemLabel": "John Muir",
-    "year": "1914",
-    "sitelinks": "60",
-    "description": "Scottish-American naturalist (1838–1914)",
-    "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "writer||naturalist||philosopher||inventor||geologist||preservationist||mountaineer||explorer||glaciologist||essayist||ecologist||conservationist||autobiographer||botanical collector||scientific collector||botanist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q214926",
-    "itemLabel": "Nikolai Vavilov",
-    "year": "1943",
-    "sitelinks": "60",
-    "description": "Russian (Soviet) agronomist, botanist and geneticist (1887-1943)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Soviet||Russian",
-    "occupationLabel": "academic||explorer||geographer||biologist||agronomist||botanical collector||botanist||geneticist"
+    "occupationLabel": "author||naturalist||military personnel||scientific collector||zoologist||explorer||geographer||traveler||botanist||botanical collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234491",
@@ -621,22 +621,13 @@
     "occupationLabel": "mountaineer||explorer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q203647",
-    "itemLabel": "Harald III of Norway",
-    "year": "1066",
-    "sitelinks": "59",
-    "description": "King of Norway from 1046 to 1066",
-    "nationalityLabel": "Kingdom of Norway",
-    "occupationLabel": "military personnel||explorer||ruler"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q205485",
     "itemLabel": "George Vancouver",
     "year": "1798",
-    "sitelinks": "58",
+    "sitelinks": "59",
     "description": "English naval explorer (1757–1798)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||military officer||explorer"
+    "occupationLabel": "author||military officer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q231360",
@@ -645,16 +636,25 @@
     "sitelinks": "58",
     "description": "British traveller, writer, mountaineer, politician, archaeologist and spy (1868–1926)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||photographer||politician||archaeologist||diplomat||mountaineer||explorer||spy||assyriologist||arabist"
+    "occupationLabel": "photographer||author||archaeologist||politician||spy||mountaineer||diplomat||translator||historian||explorer||linguist||arabist||assyriologist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154759",
-    "itemLabel": "Sven Hedin",
-    "year": "1952",
-    "sitelinks": "58",
-    "description": "Swedish geographer, topographer, explorer, photographer, travel writer and illustrator (1865-1952)",
-    "nationalityLabel": "Swedish",
-    "occupationLabel": "writer||photographer||politician||naturalist||scientific explorer||geologist||explorer||geographer||geopolitical analyst||illustrator||non-fiction writer||botanical collector||botanist||political scientist"
+    "item": "http://www.wikidata.org/entity/Q200564",
+    "itemLabel": "James Clark Ross",
+    "year": "1862",
+    "sitelinks": "57",
+    "description": "British explorer and naval officer (1800–1862)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "naturalist||scientific collector||seafarer||polar explorer||naval officer||discoverer||explorer||botanist||botanical collector||Konteradmiral"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q276193",
+    "itemLabel": "Lavr Kornilov",
+    "year": "1918",
+    "sitelinks": "57",
+    "description": "Imperial Russian Army general (1870–1918)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "diplomat||military officer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q210268",
@@ -663,16 +663,7 @@
     "sitelinks": "57",
     "description": "American naval officer, explorer (1888-1957)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||oceanographer||explorer||aircraft pilot"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153911",
-    "itemLabel": "Louis-Antoine de Bougainville",
-    "year": "1811",
-    "sitelinks": "56",
-    "description": "French admiral and explorer (1729–1811)",
-    "nationalityLabel": "French",
-    "occupationLabel": "writer||travel writer||politician||naval officer||hydrographer||explorer||seafarer||botanical collector||world traveler"
+    "occupationLabel": "oceanographer||admiral||polar explorer||military officer||explorer||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217157",
@@ -681,7 +672,7 @@
     "sitelinks": "56",
     "description": "British inventor and mining engineer (1771-1833)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "engineer||inventor||explorer||mining engineer||railway engineer||locomotive designer"
+    "occupationLabel": "engineer||railway engineer||inventor||locomotive designer||explorer||mining engineer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29297",
@@ -693,31 +684,13 @@
     "occupationLabel": "explorer||geographer||university teacher||botanist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200564",
-    "itemLabel": "James Clark Ross",
-    "year": "1862",
-    "sitelinks": "56",
-    "description": "British explorer and naval officer (1800–1862)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "naturalist||naval officer||explorer||botanical collector||scientific collector||botanist"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q57190",
     "itemLabel": "Karl Ernst von Baer",
     "year": "1876",
     "sitelinks": "56",
     "description": "Baltic German scientist (1792-1876)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "physician||professor||zoologist||explorer||anthropologist||biologist||land owner||botanical collector||botanist||entomologist||physiologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q276193",
-    "itemLabel": "Lavr Kornilov",
-    "year": "1918",
-    "sitelinks": "56",
-    "description": "Imperial Russian Army general (1870–1918)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "military officer||diplomat||explorer"
+    "occupationLabel": "entomologist||naturalist||physician||anthropologist||professor||zoologist||explorer||university teacher||physiologist||botanist||botanical collector||land owner"
   },
   {
     "item": "http://www.wikidata.org/entity/Q200947",
@@ -726,7 +699,7 @@
     "sitelinks": "55",
     "description": "10th-century Arab traveller and ethnographer",
     "nationalityLabel": "",
-    "occupationLabel": "diplomat||explorer||geographer||traveler"
+    "occupationLabel": "travel writer||diplomat||explorer||geographer||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217119",
@@ -735,7 +708,7 @@
     "sitelinks": "55",
     "description": "Welsh surveyor and geographer (1790–1866)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "explorer||geographer||surveyor||geodesist"
+    "occupationLabel": "geodesist||explorer||geographer||surveyor||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q221125",
@@ -744,7 +717,7 @@
     "sitelinks": "54",
     "description": "British pirate and explorer (1651-1715)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "naturalist||privateer||pirate||seafarer||explorer||scientific collector||botanist"
+    "occupationLabel": "naturalist||scientific collector||seafarer||privateer||pirate||explorer||botanist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q219086",
@@ -753,7 +726,16 @@
     "sitelinks": "54",
     "description": "Scottish naturalist and explorer of the African continent",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "physician||writer||naturalist||surgeon||explorer||geographer||traveler||physician writer||botanist"
+    "occupationLabel": "author||naturalist||physician||explorer||geographer||traveler||physician writer||surgeon||botanist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q309589",
+    "itemLabel": "Peter Cushing",
+    "year": "1994",
+    "sitelinks": "54",
+    "description": "British actor (1913–1994)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||television actor||film actor||manufacturer||explorer||character actor||painter||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q315149",
@@ -762,7 +744,7 @@
     "sitelinks": "53",
     "description": "Roman Catholic archbishop and traveller (1182–1252)",
     "nationalityLabel": "",
-    "occupationLabel": "writer||historian||diplomat||missionary||explorer||Catholic priest"
+    "occupationLabel": "author||archbishop||diplomat||missionary||historian||explorer||Catholic priest||cleric"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311070",
@@ -771,7 +753,7 @@
     "sitelinks": "53",
     "description": "American frontiersman and politician (1786–1836)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||politician||military personnel||explorer||trapper||frontiersman||hunter"
+    "occupationLabel": "author||military personnel||politician||explorer||trapper||frontiersman||hunter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q204735",
@@ -780,25 +762,16 @@
     "sitelinks": "53",
     "description": "French Navy officer and explorer (1790–1842)",
     "nationalityLabel": "French",
-    "occupationLabel": "military personnel||hydrographer||explorer||botanical collector||scientific collector||botanist||expedition leader||cartographer"
+    "occupationLabel": "sailor||military personnel||scientific collector||expedition leader||hydrographer||explorer||traveler||botanist||botanical collector||cartographer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q135329",
-    "itemLabel": "Ferdinand von Wrangel",
-    "year": "1870",
+    "item": "http://www.wikidata.org/entity/Q213756",
+    "itemLabel": "Robert Fitzroy",
+    "year": "1865",
     "sitelinks": "53",
-    "description": "Baltic German explorer and Russian admiral (1797-1870)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "politician||military personnel||sailor||explorer||geographer||polar explorer||land owner"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q309589",
-    "itemLabel": "Peter Cushing",
-    "year": "1994",
-    "sitelinks": "53",
-    "description": "British actor (1913–1994)",
+    "description": "Royal Navy officer and scientist (1805–1865)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "actor||character actor||television actor||explorer||film actor||painter||stage actor"
+    "occupationLabel": "politician||naval officer||explorer||meteorologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q147676",
@@ -810,13 +783,22 @@
     "occupationLabel": "explorer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q213756",
-    "itemLabel": "Robert Fitzroy",
-    "year": "1865",
+    "item": "http://www.wikidata.org/entity/Q135329",
+    "itemLabel": "Ferdinand von Wrangel",
+    "year": "1870",
     "sitelinks": "52",
-    "description": "Royal Navy officer and scientist (1805–1865)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||naval officer||explorer||meteorologist"
+    "description": "Baltic German explorer and Russian admiral (1797-1870)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "sailor||military personnel||politician||polar explorer||naval officer||explorer||geographer||land owner"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51880",
+    "itemLabel": "Charles de Foucauld",
+    "year": "1916",
+    "sitelinks": "52",
+    "description": "French Catholic religious man, explorer and scholar (1858–1916)",
+    "nationalityLabel": "French",
+    "occupationLabel": "priest||soldier||hermit||translator||missionary||military officer||philologist||explorer||Catholic priest||geographer||linguist||regular priest||cartographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312978",
@@ -825,7 +807,7 @@
     "sitelinks": "51",
     "description": "Chinese Buddhist monk (bhikkhu), pilgrim to India, and travelogue author during the Jin and Liu Song dynasties",
     "nationalityLabel": "Liu Song dynasty||Jin dynasty",
-    "occupationLabel": "writer||historian||explorer||Buddhist monk||translator"
+    "occupationLabel": "author||translator||historian||explorer||monk||Buddhist monk"
   },
   {
     "item": "http://www.wikidata.org/entity/Q209138",
@@ -843,7 +825,7 @@
     "sitelinks": "51",
     "description": "Flemish Franciscan missionary and explorer",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||travel writer||diplomat||religious figure||missionary||explorer||orientalist"
+    "occupationLabel": "author||travel writer||religious role||diplomat||missionary||envoy||explorer||orientalist||cleric"
   },
   {
     "item": "http://www.wikidata.org/entity/Q55807",
@@ -852,7 +834,16 @@
     "sitelinks": "51",
     "description": "British explorer",
     "nationalityLabel": "English",
-    "occupationLabel": "writer||explorer||cartographer"
+    "occupationLabel": "author||explorer||cartographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q228024",
+    "itemLabel": "John Smith",
+    "year": "1631",
+    "sitelinks": "51",
+    "description": "English soldier, explorer, writer (1580–1631)",
+    "nationalityLabel": "English",
+    "occupationLabel": "author||adventurer||military personnel||soldier||explorer||ship captain||autobiographer||settler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q294478",
@@ -861,7 +852,7 @@
     "sitelinks": "51",
     "description": "French Navy officer and explorer (1741–1788)",
     "nationalityLabel": "French",
-    "occupationLabel": "military personnel||military officer||seafarer||explorer"
+    "occupationLabel": "military personnel||seafarer||military officer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q238960",
@@ -879,7 +870,16 @@
     "sitelinks": "51",
     "description": "English navigator and cartographer (1774-1814)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "explorer||navigator||botanist||cartographer"
+    "occupationLabel": "seafarer||explorer||navigator||botanist||cartographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157501",
+    "itemLabel": "Joseph Dalton Hooker",
+    "year": "1911",
+    "sitelinks": "51",
+    "description": "British botanist, lichenologist, and surgeon (1817–1911)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||scientific collector||explorer||surgeon||bryologist||botanist||mycologist||botanical collector||pteridologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58062",
@@ -887,26 +887,26 @@
     "year": "1794",
     "sitelinks": "50",
     "description": "German naturalist, ethnologist, travel writer, journalist, and revolutionary (1754-1794)",
-    "nationalityLabel": "Republic of Mainz||Polish–Lithuanian Commonwealth||Royal Prussia||German||French||Lithuanian||Polish",
-    "occupationLabel": "writer||travel writer||naturalist||scientific explorer||librarian||explorer||anthropologist||pteridologist||geographer||traveler||university teacher||ethnologist||translator||biologist||art historian||autobiographer||ornithologist||revolutionary||botanical collector||scientific collector||botanist||entomologist||journalist||mycologist"
+    "nationalityLabel": "Republic of Mainz||Royal Prussia||Polish–Lithuanian Commonwealth||French||German||Lithuanian||Polish",
+    "occupationLabel": "author||entomologist||naturalist||revolutionary||anthropologist||travel writer||scientific collector||librarian||translator||scientific explorer||explorer||geographer||traveler||ornithologist||ethnologist||university teacher||art historian||botanist||mycologist||botanical collector||autobiographer||pteridologist||journalist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q157501",
-    "itemLabel": "Joseph Dalton Hooker",
-    "year": "1911",
+    "item": "http://www.wikidata.org/entity/Q298933",
+    "itemLabel": "Edward Drinker Cope",
+    "year": "1897",
     "sitelinks": "50",
-    "description": "British botanist, lichenologist, and surgeon (1817–1911)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||surgeon||explorer||bryologist||pteridologist||botanical collector||scientific collector||botanist||mycologist"
+    "description": "American paleontologist, geologist, and biologist (1840–1897)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "naturalist||ichthyologist||anatomist||zoologist||explorer||herpetologist||geologist||university teacher||botanist||paleontologist||botanical collector"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q51880",
-    "itemLabel": "Charles de Foucauld",
-    "year": "1916",
+    "item": "http://www.wikidata.org/entity/Q313061",
+    "itemLabel": "Aurel Stein",
+    "year": "1943",
     "sitelinks": "50",
-    "description": "French Catholic religious man, explorer and scholar (1858–1916)",
-    "nationalityLabel": "French",
-    "occupationLabel": "priest||hermit||soldier||military officer||missionary||explorer||geographer||Catholic priest||philologist||translator||linguist||regular priest||cartographer"
+    "description": "Hungarian-British archaeologist (1862-1943)",
+    "nationalityLabel": "British||Briton||Hungarian",
+    "occupationLabel": "anthropologist||archaeologist||explorer||university teacher||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q310922",
@@ -915,7 +915,7 @@
     "sitelinks": "49",
     "description": "Venetian diplomat, historian, and explorer of the Pacific and Chile",
     "nationalityLabel": "Venetian",
-    "occupationLabel": "writer||explorer"
+    "occupationLabel": "author||seafarer||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q332790",
@@ -924,7 +924,7 @@
     "sitelinks": "49",
     "description": "Andalusian author",
     "nationalityLabel": "",
-    "occupationLabel": "writer||diplomat||explorer||geographer"
+    "occupationLabel": "author||diplomat||explorer||geographer||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q235121",
@@ -932,17 +932,8 @@
     "year": "1762",
     "sitelinks": "49",
     "description": "noblewoman; writer and poet from England, editor (1689-1762)",
-    "nationalityLabel": "British||Briton||English",
-    "occupationLabel": "poet||writer||playwright||explorer||editor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q298933",
-    "itemLabel": "Edward Drinker Cope",
-    "year": "1897",
-    "sitelinks": "49",
-    "description": "American paleontologist, geologist, and biologist (1840–1897)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "naturalist||ichthyologist||geologist||anatomist||zoologist||explorer||university teacher||herpetologist||botanical collector||botanist||paleontologist"
+    "nationalityLabel": "English||British||Briton",
+    "occupationLabel": "author||poet||playwright||explorer||editor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311033",
@@ -950,26 +941,17 @@
     "year": "1921",
     "sitelinks": "49",
     "description": "Russian poet (1886-1921)",
-    "nationalityLabel": "Russian||Russian Soviet Federative Socialist Republic",
-    "occupationLabel": "poet||writer||literary critic||military officer||explorer||translator||Africanist||bretteur"
+    "nationalityLabel": "Russian Soviet Federative Socialist Republic||Russian",
+    "occupationLabel": "author||poet||literary critic||translator||military officer||explorer||Africanist||bretteur"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q203534",
-    "itemLabel": "Pedro de Valdivia",
-    "year": "1554",
+    "item": "http://www.wikidata.org/entity/Q316364",
+    "itemLabel": "Yaqut al-Hamawi",
+    "year": "1229",
     "sitelinks": "48",
-    "description": "Spanish conquistador, first royal governor of Chile (1497–1553)",
-    "nationalityLabel": "Crown of Castile",
-    "occupationLabel": "conquistador||politician||explorer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q228024",
-    "itemLabel": "John Smith",
-    "year": "1631",
-    "sitelinks": "48",
-    "description": "English soldier, explorer, writer (1580–1631)",
-    "nationalityLabel": "English",
-    "occupationLabel": "writer||military personnel||explorer||autobiographer"
+    "description": "Arab bibliographer and geographer (1179–1229)",
+    "nationalityLabel": "",
+    "occupationLabel": "author||historian||explorer||geographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q318473",
@@ -978,7 +960,7 @@
     "sitelinks": "48",
     "description": "Russian protopope",
     "nationalityLabel": "Tsardom of Russia",
-    "occupationLabel": "writer||priest||explorer"
+    "occupationLabel": "author||priest||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180339",
@@ -987,7 +969,7 @@
     "sitelinks": "48",
     "description": "Italian antiquarian (1778-1823)",
     "nationalityLabel": "Venetian||British||Briton",
-    "occupationLabel": "travel writer||archaeologist||antiquarian||novelist||explorer||egyptologist"
+    "occupationLabel": "travel writer||archaeologist||antiquarian||dancer||novelist||explorer||Egyptologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311604",
@@ -999,22 +981,22 @@
     "occupationLabel": "mountaineer||explorer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q313061",
-    "itemLabel": "Aurel Stein",
-    "year": "1943",
-    "sitelinks": "48",
-    "description": "Hungarian-British archaeologist (1862-1943)",
-    "nationalityLabel": "British||Briton||Hungarian",
-    "occupationLabel": "archaeologist||explorer||anthropologist||university teacher||art historian"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q237220",
     "itemLabel": "Hiram Bingham III",
     "year": "1956",
     "sitelinks": "48",
     "description": "American academic, explorer, treasure hunter and politician (1875–1956)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||writer||politician||archaeologist||explorer||university teacher||aircraft pilot"
+    "occupationLabel": "scientist||author||governor||archaeologist||politician||historian||explorer||university teacher||aircraft pilot"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q167997",
+    "itemLabel": "Otto Schmidt",
+    "year": "1956",
+    "sitelinks": "48",
+    "description": "Russian geophysicist and polar explorer of Baltic German origin (1891-1956)",
+    "nationalityLabel": "Russian Republic||Russian Socialist Federative Soviet Republic||Russian||Soviet",
+    "occupationLabel": "astronomer||psychoanalyst||politician||physicist||mathematician||statesperson||geophysicist||explorer||geographer||traveler||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312548",
@@ -1023,7 +1005,7 @@
     "sitelinks": "47",
     "description": "ancient Greek ethnographer and explorer",
     "nationalityLabel": "Seleucid Empire",
-    "occupationLabel": "writer||historian||diplomat||explorer||ethnographer||Indologist"
+    "occupationLabel": "author||diplomat||historian||explorer||ethnographer||Indologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q208961",
@@ -1032,16 +1014,7 @@
     "sitelinks": "47",
     "description": "Irish monastic saint",
     "nationalityLabel": "Hibernia",
-    "occupationLabel": "writer||explorer||Catholic priest"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q316364",
-    "itemLabel": "Yaqut al-Hamawi",
-    "year": "1229",
-    "sitelinks": "47",
-    "description": "Arab bibliographer and geographer (1179–1229)",
-    "nationalityLabel": "",
-    "occupationLabel": "writer||historian||explorer||geographer"
+    "occupationLabel": "author||missionary||seafarer||explorer||Catholic priest"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207668",
@@ -1059,16 +1032,16 @@
     "sitelinks": "47",
     "description": "British naval officer and explorer (1786–1847)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "naval officer||explorer||botanist"
+    "occupationLabel": "scientist||polar explorer||naval officer||explorer||botanist||lieutenant governor||Konteradmiral"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q167997",
-    "itemLabel": "Otto Schmidt",
-    "year": "1956",
+    "item": "http://www.wikidata.org/entity/Q315366",
+    "itemLabel": "James Dwight Dana",
+    "year": "1895",
     "sitelinks": "47",
-    "description": "Russian geophysicist and polar explorer of Baltic German origin (1891-1956)",
-    "nationalityLabel": "Russian Republic||Russian Socialist Federative Soviet Republic||Soviet||Russian",
-    "occupationLabel": "astronomer||politician||mathematician||psychoanalyst||physicist||statesperson||explorer||geographer||geophysicist||traveler||university teacher"
+    "description": "American mineralogist, scientist and zoologist (1813-1895)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "scientific collector||zoologist||mineralogist||explorer||geologist||university teacher||carcinologist||scientific illustrator||botanist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q230456",
@@ -1077,6 +1050,33 @@
     "sitelinks": "47",
     "description": "French explorer, spiritualist, Buddhist, Taoist, anarchist and writer",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||singer||explorer||anthropologist||anarchist||women's rights activist||opera singer||diarist"
+    "occupationLabel": "author||opera singer||anthropologist||singer||explorer||anarchist||diarist||women's rights activist||orientalist||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210900",
+    "itemLabel": "Pedro de Alvarado",
+    "year": "1541",
+    "sitelinks": "46",
+    "description": "Spanish conquistador, explorer and condottiero",
+    "nationalityLabel": "Crown of Castile",
+    "occupationLabel": "Conqueror||conquistador||explorer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312499",
+    "itemLabel": "Nicholas Miklouho-Maclay",
+    "year": "1888",
+    "sitelinks": "46",
+    "description": "Russian explorer and scientist",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "naturalist||anthropologist||marine biologist||zoologist||explorer||ethnographer||geographer||traveler||biologist||ethnologist||botanist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q84211",
+    "itemLabel": "Heinrich Harrer",
+    "year": "2006",
+    "sitelinks": "46",
+    "description": "Austrian mountaineer and author (1912–2006)",
+    "nationalityLabel": "Austrian",
+    "occupationLabel": "photographer||author||naturalist||screenwriter||alpine skier||travel writer||mountaineer||explorer||geographer||golfer"
   }
 ]

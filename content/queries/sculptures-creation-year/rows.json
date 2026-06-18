@@ -2,17 +2,17 @@
   {
     "item": "http://www.wikidata.org/entity/Q9202",
     "itemLabel": "Statue of Liberty",
-    "description": "American icon in New York, United States",
+    "description": "monument in New York",
     "year": "1886",
     "creatorLabel": "Gustave Eiffel",
-    "sitelinks": "154"
+    "sitelinks": "156"
   },
   {
     "item": "http://www.wikidata.org/entity/Q79961",
     "itemLabel": "Christ the Redeemer",
     "description": "colossal statue of Jesus in Rio de Janeiro, Brazil",
     "year": "1920",
-    "creatorLabel": "Carlos Oswald",
+    "creatorLabel": "Paul Landowski",
     "sitelinks": "93"
   },
   {
@@ -21,7 +21,15 @@
     "description": "sculpture by Michelangelo",
     "year": "1500",
     "creatorLabel": "Michelangelo",
-    "sitelinks": "80"
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q214619",
+    "itemLabel": "The Little Mermaid",
+    "description": "1913 bronze statue by Edvard Eriksen in Copenhagen, Denmark",
+    "year": "1913",
+    "creatorLabel": "Edvard Eriksen",
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151952",
@@ -29,7 +37,7 @@
     "description": "ancient Greek marble statue of a woman",
     "year": "-140",
     "creatorLabel": "",
-    "sitelinks": "71"
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7604504",
@@ -46,14 +54,6 @@
     "year": "1619",
     "creatorLabel": "Hiëronymus Duquesnoy the Elder",
     "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q214619",
-    "itemLabel": "The Little Mermaid",
-    "description": "1913 bronze statue by Edvard Eriksen in Copenhagen, Denmark",
-    "year": "1913",
-    "creatorLabel": "Edvard Eriksen",
-    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18201640",
@@ -85,7 +85,7 @@
     "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
     "year": "-175",
     "creatorLabel": "",
-    "sitelinks": "53"
+    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q319296",
@@ -100,15 +100,23 @@
     "itemLabel": "Laocoön and His Sons",
     "description": "sculpture in the Museo Pio-Clementino",
     "year": "-1",
-    "creatorLabel": "Agesander of Rhodes",
-    "sitelinks": "46"
+    "creatorLabel": "Athanadoros",
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q408623",
     "itemLabel": "Capitoline Wolf",
-    "description": "bronze sculpture of a she-wolf suckling twin infants, inspired by the founding legend of Rome",
+    "description": "bronze sculpture of a she-wolf suckling twin infants, inspired by the founding legend of Rome, on display in the Capitoline Museums,  Rome",
     "year": "-500",
     "creatorLabel": "",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q582172",
+    "itemLabel": "Bust of Queen Nefertiti",
+    "description": "Bust of Queen Nefertiti from the Amarna Period in the Neues Museum, Berlin",
+    "year": "-1349",
+    "creatorLabel": "Thutmose",
     "sitelinks": "42"
   },
   {
@@ -120,19 +128,19 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q582172",
-    "itemLabel": "Bust of Queen Nefertiti",
-    "description": "Bust of Queen Nefertiti from the Amarna Period in the Neues Museum, Berlin",
-    "year": "-1349",
-    "creatorLabel": "Thutmose",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q133732",
     "itemLabel": "Discobolus",
     "description": "lost sculpture by Myron known through several copies",
     "year": "-450",
     "creatorLabel": "Myron",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q552113",
+    "itemLabel": "Venus of Dolní Věstonice",
+    "description": "a ceramic statuette comes from the Upper Paleolithic",
+    "year": "-29000",
+    "creatorLabel": "",
     "sitelinks": "38"
   },
   {
@@ -144,19 +152,19 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q552113",
-    "itemLabel": "Venus of Dolní Věstonice",
-    "description": "a ceramic statuette comes from the Upper Paleolithic",
-    "year": "-29000",
-    "creatorLabel": "",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q724954",
     "itemLabel": "Mesha Stele",
     "description": "Stele set up around 840 BCE by King Mesha of Moab",
     "year": "-839",
     "creatorLabel": "Mesha",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q205259",
+    "itemLabel": "Riace bronzes",
+    "description": "two ancient Greek sculptures",
+    "year": "-459",
+    "creatorLabel": "Greeks",
     "sitelinks": "36"
   },
   {
@@ -165,14 +173,6 @@
     "description": "16th century Mexica sculpture",
     "year": "1510",
     "creatorLabel": "Mexica",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q205259",
-    "itemLabel": "Riace bronzes",
-    "description": "two ancient Greek sculptures",
-    "year": "-459",
-    "creatorLabel": "Greeks",
     "sitelinks": "36"
   },
   {
@@ -224,20 +224,20 @@
     "sitelinks": "34"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q567833",
+    "itemLabel": "Madonna of Bruges",
+    "description": "sculpture by Michelangelo",
+    "year": "1503",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1161218",
     "itemLabel": "Fallen Astronaut",
     "description": "sculpture of an astronaut on the moon",
     "year": "1971",
     "creatorLabel": "Paul Van Hoeydonck",
     "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q567833",
-    "itemLabel": "Madonna of Bruges",
-    "description": "sculpture by Michelangelo",
-    "year": "1503",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1989744",
@@ -304,12 +304,36 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q636751",
+    "itemLabel": "Alexander Sarcophagus",
+    "description": "ancient sarcophagus",
+    "year": "-380",
+    "creatorLabel": "",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q667124",
     "itemLabel": "Augustus of Prima Porta",
     "description": "Ancient Roman sculpture of the emperor Augustus",
     "year": "-19",
     "creatorLabel": "",
     "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q849063",
+    "itemLabel": "Venus of Brassempouy",
+    "description": "sculpture, Paleolithic carved head",
+    "year": "-25000",
+    "creatorLabel": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1136305",
+    "itemLabel": "Doryphoros",
+    "description": "lost statue by Polykleitos / type of statue",
+    "year": "-450",
+    "creatorLabel": "Polykleitos",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q717956",
@@ -320,20 +344,12 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q636751",
-    "itemLabel": "Alexander Sarcophagus",
-    "description": "ancient sarcophagus",
-    "year": "-380",
-    "creatorLabel": "",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q849063",
-    "itemLabel": "Venus of Brassempouy",
-    "description": "sculpture, Paleolithic carved head",
-    "year": "-25000",
-    "creatorLabel": "",
-    "sitelinks": "29"
+    "item": "http://www.wikidata.org/entity/Q664245",
+    "itemLabel": "Hermannsdenkmal",
+    "description": "monument in North Rhine-Westphalia, Germany",
+    "year": "1875",
+    "creatorLabel": "Ernst von Bandel",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q945850",
@@ -341,14 +357,6 @@
     "description": "marble sculpture by Gian Lorenzo Bernini",
     "year": "1622",
     "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q664245",
-    "itemLabel": "Hermannsdenkmal",
-    "description": "monument in North Rhine-Westphalia, Germany",
-    "year": "1875",
-    "creatorLabel": "Ernst von Bandel",
     "sitelinks": "28"
   },
   {
@@ -376,6 +384,14 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q312522",
+    "itemLabel": "Venus of Hohle Fels",
+    "description": "sculpture",
+    "year": "-35000",
+    "creatorLabel": "",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q588892",
     "itemLabel": "Serpent Column",
     "description": "victory column in Istanbul, Turkey, from Delphi",
@@ -384,11 +400,11 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1136305",
-    "itemLabel": "Doryphoros",
-    "description": "lost statue by Polykleitos / type of statue",
-    "year": "-450",
-    "creatorLabel": "Polykleitos",
+    "item": "http://www.wikidata.org/entity/Q733893",
+    "itemLabel": "Chair of Saint Peter",
+    "description": "Artwork / throne in St Peter's, Rome",
+    "year": "1647",
+    "creatorLabel": "Gian Lorenzo Bernini",
     "sitelinks": "27"
   },
   {
@@ -400,19 +416,19 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q109968",
+    "itemLabel": "Columbus Circle",
+    "description": "monument, circle and neighborhood in Manhattan, New York City",
+    "year": "1892",
+    "creatorLabel": "Gaetano Russo",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q10602562",
     "itemLabel": "Norra skenet",
     "description": "sculpture by the artist Ernst Nordin and a symbol of Umeå University",
     "year": "1969",
     "creatorLabel": "Ernst Nordin",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q312522",
-    "itemLabel": "Venus of Hohle Fels",
-    "description": "sculpture",
-    "year": "-35000",
-    "creatorLabel": "",
     "sitelinks": "27"
   },
   {
@@ -424,11 +440,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q733893",
-    "itemLabel": "Chair of Saint Peter",
-    "description": "Artwork / throne in St Peter's, Rome",
-    "year": "1647",
-    "creatorLabel": "Gian Lorenzo Bernini",
+    "item": "http://www.wikidata.org/entity/Q860129",
+    "itemLabel": "Charging Bull",
+    "description": "bronze sculpture in New York",
+    "year": "1989",
+    "creatorLabel": "Ricardo Romero Delgadillo",
     "sitelinks": "26"
   },
   {
@@ -437,22 +453,6 @@
     "description": "monument consisting of a large sculptural group on a circular base in Arlington, Virginia, United States",
     "year": "1954",
     "creatorLabel": "Felix de Weldon",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q860129",
-    "itemLabel": "Charging Bull",
-    "description": "bronze sculpture in New York",
-    "year": "1989",
-    "creatorLabel": "Arturo Di Modica",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q109968",
-    "itemLabel": "Columbus Circle",
-    "description": "monument, circle and neighborhood in Manhattan, New York City",
-    "year": "1892",
-    "creatorLabel": "William Phelps Eno",
     "sitelinks": "26"
   },
   {
@@ -520,27 +520,43 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q766487",
-    "itemLabel": "David",
-    "description": "sculpture by Gian Lorenzo Bernini",
-    "year": "1624",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q774967",
     "itemLabel": "Venus de' Medici",
     "description": "sculpture by Cleomenes the Athenian",
     "year": "-50",
     "creatorLabel": "Cleomenes",
-    "sitelinks": "24"
+    "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q374591",
-    "itemLabel": "Farnese Hercules",
-    "description": "ancient statue of Hercules in the National Archaeological Museum, Naples",
-    "year": "-369",
-    "creatorLabel": "Lysippos",
+    "item": "http://www.wikidata.org/entity/Q856764",
+    "itemLabel": "Venus of Tan-Tan",
+    "description": "sculpture",
+    "year": "-400000",
+    "creatorLabel": "",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2570221",
+    "itemLabel": "Portrait of the Four Tetrarchs",
+    "description": "porphyry sculpture group of four Roman emperors outside the St Mark's Basilica in Venice, Italy",
+    "year": "290",
+    "creatorLabel": "",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3595955",
+    "itemLabel": "Lion Capital of Asoka",
+    "description": "capital of a column of Mauryan emperor Ashoka in Sarnath, Uttar Pradesh, India",
+    "year": "-249",
+    "creatorLabel": "",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q766487",
+    "itemLabel": "David",
+    "description": "sculpture by Gian Lorenzo Bernini",
+    "year": "1624",
+    "creatorLabel": "Gian Lorenzo Bernini",
     "sitelinks": "24"
   },
   {
@@ -552,6 +568,14 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q374591",
+    "itemLabel": "Farnese Hercules",
+    "description": "ancient statue of Hercules in the National Archaeological Museum, Naples",
+    "year": "-322",
+    "creatorLabel": "Lysippos",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2268940",
     "itemLabel": "Sea organ",
     "description": "architectural sound art object located in Zadar, Croatia",
@@ -560,26 +584,18 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q856764",
-    "itemLabel": "Venus of Tan-Tan",
-    "description": "sculpture",
-    "year": "-400000",
+    "item": "http://www.wikidata.org/entity/Q618521",
+    "itemLabel": "Venus Callipyge",
+    "description": "type of antique Venus",
+    "year": "-50",
     "creatorLabel": "",
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2570221",
-    "itemLabel": "Portrait of the Four Tetrarchs",
-    "description": "porphyry sculpture group of four Roman emperors outside the St Mark's Basilica in Venice, Italy",
-    "year": "290",
-    "creatorLabel": "",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3595955",
-    "itemLabel": "Lion Capital of Asoka",
-    "description": "capital of a column of Mauryan emperor Ashoka in Sarnath, Uttar Pradesh, India",
-    "year": "-249",
+    "item": "http://www.wikidata.org/entity/Q1088425",
+    "itemLabel": "Stele of the Vultures",
+    "description": "historical and mythical limestone account / depiction",
+    "year": "-2460",
     "creatorLabel": "",
     "sitelinks": "24"
   },
@@ -592,14 +608,6 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1188049",
-    "itemLabel": "Victims of Communism Memorial",
-    "description": "artwork",
-    "year": "2007",
-    "creatorLabel": "Thomas Marsh",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q431029",
     "itemLabel": "Apoxyomenos",
     "description": "sculpture by Lysippos",
@@ -608,11 +616,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q618521",
-    "itemLabel": "Venus Callipyge",
-    "description": "type of antique Venus",
-    "year": "-50",
-    "creatorLabel": "",
+    "item": "http://www.wikidata.org/entity/Q1188049",
+    "itemLabel": "Victims of Communism Memorial",
+    "description": "artwork",
+    "year": "2007",
+    "creatorLabel": "Thomas Marsh",
     "sitelinks": "23"
   },
   {
@@ -620,14 +628,6 @@
     "itemLabel": "Lady of Elche",
     "description": "Iberian sculpture",
     "year": "-500",
-    "creatorLabel": "",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1088425",
-    "itemLabel": "Stele of the Vultures",
-    "description": "historical and mythical limestone account / depiction",
-    "year": "-2460",
     "creatorLabel": "",
     "sitelinks": "23"
   },
@@ -640,11 +640,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2584017",
-    "itemLabel": "Sibelius Monument",
-    "description": "sculpture and memorial in Helsinki, created 1967 by Eila Hiltunen",
-    "year": "1967",
-    "creatorLabel": "Eila Hiltunen",
+    "item": "http://www.wikidata.org/entity/Q517408",
+    "itemLabel": "Psyche Revived by Cupid's Kiss",
+    "description": "sculpture by Antonio Canova",
+    "year": "1794",
+    "creatorLabel": "Antonio Canova",
     "sitelinks": "22"
   },
   {
@@ -656,11 +656,19 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q517408",
-    "itemLabel": "Psyche Revived by Cupid's Kiss",
-    "description": "sculpture by Antonio Canova",
-    "year": "1794",
-    "creatorLabel": "Antonio Canova",
+    "item": "http://www.wikidata.org/entity/Q581804",
+    "itemLabel": "Farnese Bull",
+    "description": "sculpture",
+    "year": "-150",
+    "creatorLabel": "Tauriskos of Tralles",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2418237",
+    "itemLabel": "The Kiss",
+    "description": "marble sculpture by the French sculptor Auguste Rodin",
+    "year": "1880",
+    "creatorLabel": "Auguste Rodin",
     "sitelinks": "22"
   },
   {
@@ -672,11 +680,11 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2418237",
-    "itemLabel": "The Kiss",
-    "description": "marble sculpture by the French sculptor Auguste Rodin",
-    "year": "1880",
-    "creatorLabel": "Auguste Rodin",
+    "item": "http://www.wikidata.org/entity/Q2584017",
+    "itemLabel": "Sibelius Monument",
+    "description": "sculpture and memorial in Helsinki, created 1967 by Eila Hiltunen",
+    "year": "1967",
+    "creatorLabel": "Eila Hiltunen",
     "sitelinks": "22"
   },
   {
@@ -696,12 +704,28 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1400866",
+    "itemLabel": "Franks Casket",
+    "description": "Anglo-Saxon carved chest",
+    "year": "701",
+    "creatorLabel": "",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2584518",
     "itemLabel": "Diana of Versailles",
     "description": "Roman sculpture of Artemis after a lost Greek bronze original by Leochares",
     "year": "100",
     "creatorLabel": "",
     "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1878666",
+    "itemLabel": "Rondanini Pietà",
+    "description": "sculpture by Michelangelo, 1564",
+    "year": "1564",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q593202",
@@ -712,27 +736,19 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q697208",
-    "itemLabel": "Cellini Salt Cellar",
-    "description": "sculpture by Benvenuto Cellini, Kunsthistorisches Museum Wien",
-    "year": "1540",
-    "creatorLabel": "Benvenuto Cellini",
+    "item": "http://www.wikidata.org/entity/Q1208140",
+    "itemLabel": "Diadumenos",
+    "description": "lost original bronze sculpture by Polykleitos the Elder (much copied)",
+    "year": "-430",
+    "creatorLabel": "Polykleitos",
     "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q963460",
-    "itemLabel": "Altarpiece of Veit Stoss",
+    "itemLabel": "Altarpiece of Veit Stoss in Kraków",
     "description": "largest Gothic altarpiece, national treasure of Poland",
     "year": "1477",
     "creatorLabel": "Veit Stoss",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q581804",
-    "itemLabel": "Farnese Bull",
-    "description": "sculpture",
-    "year": "-150",
-    "creatorLabel": "Apollonius of Tralles",
     "sitelinks": "21"
   },
   {
@@ -744,11 +760,35 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q867247",
+    "itemLabel": "Chollima Statue",
+    "description": "monument in Pyongyang, North Korea",
+    "year": "1961",
+    "creatorLabel": "Mansudae Art Studio",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q697208",
+    "itemLabel": "Cellini Salt Cellar",
+    "description": "sculpture by Benvenuto Cellini, Kunsthistorisches Museum Wien",
+    "year": "1540",
+    "creatorLabel": "Benvenuto Cellini",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2439030",
     "itemLabel": "St. Peter's Baldachin",
     "description": "sculptural monument by Gian Lorenzo Bernini",
     "year": "1620",
     "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q203765",
+    "itemLabel": "Venus of Laussel",
+    "description": "sculpture",
+    "year": "-23000",
+    "creatorLabel": "",
     "sitelinks": "21"
   },
   {
@@ -784,14 +824,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1400866",
-    "itemLabel": "Franks Casket",
-    "description": "Anglo-Saxon carved chest",
-    "year": "701",
-    "creatorLabel": "",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2020438",
     "itemLabel": "Lady of Auxerre",
     "description": "ancient Greek sculpture",
@@ -816,12 +848,12 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1878666",
-    "itemLabel": "Rondanini Pietà",
-    "description": "sculpture by Michelangelo, 1564",
-    "year": "1564",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "20"
+    "item": "http://www.wikidata.org/entity/Q24887379",
+    "itemLabel": "'Ain Ghazal Statues",
+    "description": "Early neolithic plaster statues found in the 1980s at Ain Ghazal in Jordan",
+    "year": "-6499",
+    "creatorLabel": "",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1200709",
@@ -829,14 +861,6 @@
     "description": "Chinese seal carved from jade",
     "year": "-220",
     "creatorLabel": "Qin Shi Huang",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1208140",
-    "itemLabel": "Diadumenos",
-    "description": "lost original bronze sculpture by Polykleitos the Elder (much copied)",
-    "year": "-430",
-    "creatorLabel": "Polykleitos",
     "sitelinks": "20"
   },
   {
@@ -848,11 +872,19 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1706629",
+    "itemLabel": "Stalin Monument",
+    "description": "sculpture in Prague, Czech Republic",
+    "year": "1955",
+    "creatorLabel": "Otakar Švec",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q185392",
     "itemLabel": "Borghese Gladiator",
     "description": "Hellenistic sculpture",
     "year": "-100",
-    "creatorLabel": "Nicolas Cordier",
+    "creatorLabel": "Agasias of Ephesus",
     "sitelinks": "20"
   },
   {
@@ -872,19 +904,19 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4343335",
+    "itemLabel": "Monument to Salavat Yulaev",
+    "description": "نصب تذكاري في روسيا",
+    "year": "1967",
+    "creatorLabel": "Soslanbek Tavasiev",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q16684555",
     "itemLabel": "Monument to the laboratory mouse",
     "description": "sculpture in Novosibirsk, Siberia, Russia",
     "year": "2013",
-    "creatorLabel": "Agrikolyansky",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q203765",
-    "itemLabel": "Venus of Laussel",
-    "description": "sculpture",
-    "year": "-23000",
-    "creatorLabel": "",
+    "creatorLabel": "Maxim Petrovich Dmitriev",
     "sitelinks": "20"
   },
   {
@@ -920,62 +952,6 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q24887379",
-    "itemLabel": "'Ain Ghazal Statues",
-    "description": "Early neolithic plaster statues found in the 1980s at Ain Ghazal in Jordan",
-    "year": "-6499",
-    "creatorLabel": "",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1572984",
-    "itemLabel": "Crucifix",
-    "description": "sculpture by Michelangelo",
-    "year": "1493",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q599034",
-    "itemLabel": "Perseus with the Head of Medusa",
-    "description": "sculpture by Benvenuto Cellini",
-    "year": "1600",
-    "creatorLabel": "Benvenuto Cellini",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1706629",
-    "itemLabel": "Stalin Monument",
-    "description": "sculpture in Prague, Czech Republic",
-    "year": "1955",
-    "creatorLabel": "Otakar Švec",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q867247",
-    "itemLabel": "Chollima Statue",
-    "description": "monument in Pyongyang, North Korea",
-    "year": "1961",
-    "creatorLabel": "Mansudae Art Studio",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4343335",
-    "itemLabel": "Monument to Salavat Yulaev",
-    "description": "نصب تذكاري في روسيا",
-    "year": "1967",
-    "creatorLabel": "Soslanbek Tavasiev",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q205064",
-    "itemLabel": "Het Zinneke",
-    "description": "bronze sculpture by Tom Frantzen in Brussels, Belgium",
-    "year": "1999",
-    "creatorLabel": "Tom Frantzen",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2078173",
     "itemLabel": "Madonna of the Stair",
     "description": "sculpture by Michelangelo",
@@ -992,11 +968,67 @@
     "sitelinks": "19"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2342843",
+    "itemLabel": "The Deposition",
+    "description": "sculpture by Michelangelo",
+    "year": "1600",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1572984",
+    "itemLabel": "Crucifix",
+    "description": "sculpture by Michelangelo",
+    "year": "1493",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75822",
+    "itemLabel": "Monument to the Revolution of the people of Moslavina",
+    "description": "sculpture by Dušan Džamonja",
+    "year": "1967",
+    "creatorLabel": "Dušan Džamonja",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q599034",
+    "itemLabel": "Perseus with the Head of Medus",
+    "description": "sculpture by Benvenuto Cellini",
+    "year": "1600",
+    "creatorLabel": "Benvenuto Cellini",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q205064",
+    "itemLabel": "Het Zinneke",
+    "description": "bronze sculpture by Tom Frantzen in Brussels, Belgium",
+    "year": "1999",
+    "creatorLabel": "Tom Frantzen",
+    "sitelinks": "19"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4945054",
     "itemLabel": "Sleeping Hermaphrodite",
     "description": "ancient marble sculpture, modified by Gianlorenzo Bernini",
     "year": "150",
     "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q724710",
+    "itemLabel": "Venus of Savignano",
+    "description": "sculpture",
+    "year": "-22000",
+    "creatorLabel": "",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1728619",
+    "itemLabel": "Capitoline Venus",
+    "description": "statue",
+    "year": "-200",
+    "creatorLabel": "",
     "sitelinks": "19"
   },
   {
@@ -1008,11 +1040,11 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1789503",
-    "itemLabel": "Kritios Boy",
-    "description": "ancient Greek sculpture from the Acropolis of Athens",
-    "year": "-480",
-    "creatorLabel": "Critius",
+    "item": "http://www.wikidata.org/entity/Q2280603",
+    "itemLabel": "Head of a Faun",
+    "description": "sculpture by Michelangelo",
+    "year": "1489",
+    "creatorLabel": "Michelangelo",
     "sitelinks": "18"
   },
   {
@@ -1024,6 +1056,14 @@
     "sitelinks": "18"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1789503",
+    "itemLabel": "Kritios Boy",
+    "description": "ancient Greek sculpture from the Acropolis of Athens",
+    "year": "-480",
+    "creatorLabel": "Critius",
+    "sitelinks": "18"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q315569",
     "itemLabel": "Karl Marx Monument",
     "description": "monument in Chemnitz",
@@ -1032,11 +1072,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q75822",
-    "itemLabel": "Monument to the Revolution of the people of Moslavina",
-    "description": "sculpture by Dušan Džamonja",
-    "year": "1967",
-    "creatorLabel": "Dušan Džamonja",
+    "item": "http://www.wikidata.org/entity/Q151785",
+    "itemLabel": "Memorial to the Sinti and Roma victims of National Socialism",
+    "description": "memorial designed by Dani Karavan in Berlin, Germany",
+    "year": "2012",
+    "creatorLabel": "Dani Karavan",
     "sitelinks": "18"
   },
   {
@@ -1056,19 +1096,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2280603",
-    "itemLabel": "Head of a Faun",
-    "description": "sculpture by Michelangelo",
-    "year": "1489",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2342843",
-    "itemLabel": "The Deposition",
-    "description": "sculpture by Michelangelo",
-    "year": "1600",
-    "creatorLabel": "Michelangelo",
+    "item": "http://www.wikidata.org/entity/Q3697674",
+    "itemLabel": "Veiled Christ",
+    "description": "sculpture by Giuseppe Sanmartino",
+    "year": "1753",
+    "creatorLabel": "Giuseppe Sanmartino",
     "sitelinks": "18"
   },
   {
@@ -1080,18 +1112,18 @@
     "sitelinks": "18"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q77715187",
+    "itemLabel": "Comedian",
+    "description": "Maurizio Cattelan artwork",
+    "year": "2019",
+    "creatorLabel": "Maurizio Cattelan",
+    "sitelinks": "18"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q592016",
     "itemLabel": "Ludovisi Throne",
     "description": "sculpture",
     "year": "-460",
-    "creatorLabel": "",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q724710",
-    "itemLabel": "Venus of Savignano",
-    "description": "sculpture",
-    "year": "-22000",
     "creatorLabel": "",
     "sitelinks": "18"
   },
@@ -1108,14 +1140,6 @@
     "itemLabel": "Moschophoros",
     "description": "ancient sculpture from the Acropolis of Athens",
     "year": "-600",
-    "creatorLabel": "",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1728619",
-    "itemLabel": "Capitoline Venus",
-    "description": "statue",
-    "year": "-200",
     "creatorLabel": "",
     "sitelinks": "18"
   },
@@ -1142,6 +1166,14 @@
     "year": "983",
     "creatorLabel": "",
     "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2354236",
+    "itemLabel": "Angel",
+    "description": "marble statue by Michelangelo",
+    "year": "1494",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "17"
   },
   {
     "item": "http://www.wikidata.org/entity/Q771017",
@@ -1176,35 +1208,11 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2511913",
-    "itemLabel": "Equestrian statue of Marshal Mannerheim",
-    "description": "Equestrian statue in Helsinki of Marshal Mannerheim, created 1960 by Aimo Tukiainen",
-    "year": "1960",
-    "creatorLabel": "Heikki Häiväoja",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151785",
-    "itemLabel": "Memorial to the Sinti and Roma victims of National Socialism",
-    "description": "memorial designed by Dani Karavan in Berlin, Germany",
-    "year": "2012",
-    "creatorLabel": "Dani Karavan",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3697674",
-    "itemLabel": "Veiled Christ",
-    "description": "sculpture by Giuseppe Sanmartino",
-    "year": "1753",
-    "creatorLabel": "Giuseppe Sanmartino",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2354236",
-    "itemLabel": "Angel",
-    "description": "marble statue by Michelangelo",
-    "year": "1494",
-    "creatorLabel": "Michelangelo",
+    "item": "http://www.wikidata.org/entity/Q1340523",
+    "itemLabel": "Victory Arch",
+    "description": "pair of triumphal arches in central Baghdad, Iraq",
+    "year": "1986",
+    "creatorLabel": "Mohammed Ghani Hikmat",
     "sitelinks": "17"
   },
   {
@@ -1213,6 +1221,22 @@
     "description": "sculpture by Czech artist David Černý",
     "year": "2009",
     "creatorLabel": "David Černý",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2511913",
+    "itemLabel": "Equestrian statue of Marshal Mannerheim",
+    "description": "Equestrian statue in Helsinki of Marshal Mannerheim, created 1960 by Aimo Tukiainen",
+    "year": "1960",
+    "creatorLabel": "Aimo Tukiainen",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2993019",
+    "itemLabel": "Venus of Arles",
+    "description": "sculpture of Venus at Musée du Louvre",
+    "year": "-100",
+    "creatorLabel": "François Girardon",
     "sitelinks": "17"
   },
   {
@@ -1280,86 +1304,6 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2627551",
-    "itemLabel": "Brutus",
-    "description": "sculpture by Michelangelo",
-    "year": "1538",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q943385",
-    "itemLabel": "statue of Franz Kafka",
-    "description": "statue in Prague on the border of the Old Town and Josefov",
-    "year": "2003",
-    "creatorLabel": "Jaroslav Róna",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1340523",
-    "itemLabel": "Victory Arch",
-    "description": "pair of triumphal arches in central Baghdad, Iraq",
-    "year": "1986",
-    "creatorLabel": "Mohammed Ghani Hikmat",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2993019",
-    "itemLabel": "Venus of Arles",
-    "description": "sculpture of Venus at Musée du Louvre",
-    "year": "-100",
-    "creatorLabel": "François Girardon",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2659575",
-    "itemLabel": "Broken Chair",
-    "description": "monumental sculpture in Geneva",
-    "year": "1997",
-    "creatorLabel": "Daniel Berset",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q77715187",
-    "itemLabel": "Comedian",
-    "description": "Maurizio Cattelan artwork",
-    "year": "2019",
-    "creatorLabel": "Maurizio Cattelan",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q468343",
-    "itemLabel": "The Stone Guest",
-    "description": "Opera by Alexander Dargomyzhsky",
-    "year": "1995",
-    "creatorLabel": "Hannu Siren",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q555792",
-    "itemLabel": "Mały Powstaniec",
-    "description": "Statue by Jerzy Jarnuszkiewicz in Warsaw, Poland",
-    "year": "1946",
-    "creatorLabel": "Jerzy Jarnuszkiewicz",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28698141",
-    "itemLabel": "Homunculus Loxodontus",
-    "description": "2016 sculpture by Margriet van Breevoort and an Internet meme",
-    "year": "2016",
-    "creatorLabel": "Margriet van Breevoort",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28916452",
-    "itemLabel": "Fearless Girl",
-    "description": "bronze statue in Manhattan",
-    "year": "2017",
-    "creatorLabel": "Kristen Visbal",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2429976",
     "itemLabel": "Saint Petronius",
     "description": "sculpture by Michelangelo",
@@ -1384,11 +1328,83 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q468343",
+    "itemLabel": "The Stone Guest",
+    "description": "Opera by Alexander Dargomyzhsky",
+    "year": "1995",
+    "creatorLabel": "Hannu Siren",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q555792",
+    "itemLabel": "Mały Powstaniec",
+    "description": "Statue by Jerzy Jarnuszkiewicz in Warsaw, Poland",
+    "year": "1946",
+    "creatorLabel": "Jerzy Jarnuszkiewicz",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q943385",
+    "itemLabel": "statue of Franz Kafka",
+    "description": "statue in Prague on the border of the Old Town and Josefov",
+    "year": "2003",
+    "creatorLabel": "Jaroslav Róna",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2063546",
     "itemLabel": "Statue of Freedom",
     "description": "artwork by Thomas Crawford, statue on top of the US Capitol",
     "year": "1860",
     "creatorLabel": "Thomas Crawford",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28698141",
+    "itemLabel": "Homunculus Loxodontus",
+    "description": "2016 sculpture by Margriet van Breevoort and an Internet meme",
+    "year": "2016",
+    "creatorLabel": "Margriet van Breevoort",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28916452",
+    "itemLabel": "Fearless Girl",
+    "description": "bronze statue in Manhattan",
+    "year": "2017",
+    "creatorLabel": "Kristen Visbal",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2627551",
+    "itemLabel": "Brutus",
+    "description": "sculpture by Michelangelo",
+    "year": "1538",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2659575",
+    "itemLabel": "Broken Chair",
+    "description": "monumental sculpture in Geneva",
+    "year": "1997",
+    "creatorLabel": "Daniel Berset",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3499497",
+    "itemLabel": "Jan Hus Memorial",
+    "description": "sculpture by Ladislav Šaloun in Prague, Czech Republic",
+    "year": "1915",
+    "creatorLabel": "Ladislav Šaloun",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q377296",
+    "itemLabel": "Venus of Petřkovice",
+    "description": "sculpture",
+    "year": "-21000",
+    "creatorLabel": "",
     "sitelinks": "16"
   },
   {
@@ -1432,6 +1448,14 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2002838",
+    "itemLabel": "Esquiline Venus",
+    "description": "Roman nude marble sculpture at Capitoline Museums",
+    "year": "50",
+    "creatorLabel": "",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2066005",
     "itemLabel": "Jockey of Artemision",
     "description": "Hellenistic bronze statue",
@@ -1456,11 +1480,11 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1187408",
-    "itemLabel": "Peine del Viento XV",
-    "description": "group of three sculptures by Eduardo Chillida",
-    "year": "1976",
-    "creatorLabel": "Eduardo Chillida",
+    "item": "http://www.wikidata.org/entity/Q1093113",
+    "itemLabel": "Venus Victrix",
+    "description": "neo-Classical portrait sculpture of Pauline Bonaparte by Antonio Canova",
+    "year": "1800",
+    "creatorLabel": "Antonio Canova",
     "sitelinks": "15"
   },
   {
@@ -1472,11 +1496,11 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q933665",
-    "itemLabel": "Unique Forms of Continuity in Space",
-    "description": "sculpture with multiple casts by Umberto Boccioni",
-    "year": "1913",
-    "creatorLabel": "Umberto Boccioni",
+    "item": "http://www.wikidata.org/entity/Q826635",
+    "itemLabel": "Elephant and Obelisk",
+    "description": "sculpture designed by Gianlorenzo Bernini",
+    "year": "-600",
+    "creatorLabel": "Gian Lorenzo Bernini",
     "sitelinks": "15"
   },
   {
@@ -1488,22 +1512,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4669005",
-    "itemLabel": "Statue of Abraham Lincoln",
-    "description": "statue at the Lincoln Memorial, Washington, D.C.",
-    "year": "1920",
-    "creatorLabel": "Daniel Chester French",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q959395",
-    "itemLabel": "Nike of Paionios",
-    "description": "5th-century BC sculpture by Paeonius of Mende",
-    "year": "-420",
-    "creatorLabel": "Paeonius",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q668343",
     "itemLabel": "Spiral Jetty",
     "description": "earthwork sculpture by Robert Smithson in Box Elder County, Utah, United States",
@@ -1512,43 +1520,11 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3203231",
-    "itemLabel": "Rebellious Slave",
-    "description": "sculpture by Michelangelo",
-    "year": "1514",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q932203",
-    "itemLabel": "Statue of Lenin, Seattle",
-    "description": "sculpture",
-    "year": "1988",
-    "creatorLabel": "Emil Venkov",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q587106",
-    "itemLabel": "Frederic Chopin Monument in Warsaw",
-    "description": "sculpture in Warsaw",
-    "year": "1926",
-    "creatorLabel": "Wacław Szymanowski",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3499497",
-    "itemLabel": "Jan Hus Memorial",
-    "description": "sculpture by Ladislav Šaloun in Prague, Czech Republic",
-    "year": "1915",
-    "creatorLabel": "Ladislav Šaloun",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2667987",
-    "itemLabel": "Prague Metronome",
-    "description": "23 m metronome in Letná Park, Prague, Czechia, built in 1991",
-    "year": "1991",
-    "creatorLabel": "Vratislav Karel Novák",
+    "item": "http://www.wikidata.org/entity/Q933665",
+    "itemLabel": "Unique Forms of Continuity in Space",
+    "description": "sculpture with multiple casts by Umberto Boccioni",
+    "year": "1913",
+    "creatorLabel": "Umberto Boccioni",
     "sitelinks": "15"
   },
   {
@@ -1560,11 +1536,27 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q29169058",
-    "itemLabel": "Head of Franz Kafka",
-    "description": "sculpture in Prague, Czech Republic",
-    "year": "2014",
-    "creatorLabel": "David Černý",
+    "item": "http://www.wikidata.org/entity/Q1187408",
+    "itemLabel": "Peine del Viento XV",
+    "description": "group of three sculptures by Eduardo Chillida",
+    "year": "1976",
+    "creatorLabel": "Eduardo Chillida",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q587106",
+    "itemLabel": "Frederic Chopin Monument in Warsaw",
+    "description": "sculpture in Warsaw",
+    "year": "1926",
+    "creatorLabel": "Wacław Szymanowski",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q959395",
+    "itemLabel": "Nike of Paionios",
+    "description": "5th-century BC sculpture by Paeonius of Mende",
+    "year": "-420",
+    "creatorLabel": "Paeonius",
     "sitelinks": "15"
   },
   {
@@ -1576,6 +1568,30 @@
     "sitelinks": "15"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q932203",
+    "itemLabel": "Statue of Lenin, Seattle",
+    "description": "sculpture",
+    "year": "1988",
+    "creatorLabel": "Emil Venkov",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29169058",
+    "itemLabel": "Head of Franz Kafka",
+    "description": "sculpture in Prague, Czech Republic",
+    "year": "2014",
+    "creatorLabel": "David Černý",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4669005",
+    "itemLabel": "Statue of Abraham Lincoln",
+    "description": "statue at the Lincoln Memorial, Washington, D.C.",
+    "year": "1920",
+    "creatorLabel": "Daniel Chester French",
+    "sitelinks": "15"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7797830",
     "itemLabel": "The Three Smiths statue",
     "description": "statue in Helsinki of three smiths, created 1932 by Felix Nylund",
@@ -1584,10 +1600,26 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q377296",
-    "itemLabel": "Venus of Petřkovice",
+    "item": "http://www.wikidata.org/entity/Q2667987",
+    "itemLabel": "Prague Metronome",
+    "description": "23 m metronome in Letná Park, Prague, Czechia, built in 1991",
+    "year": "1991",
+    "creatorLabel": "Vratislav Karel Novák",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3203231",
+    "itemLabel": "Rebellious Slave",
+    "description": "sculpture by Michelangelo",
+    "year": "1514",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q687286",
+    "itemLabel": "Venus of Monruz",
     "description": "sculpture",
-    "year": "-21000",
+    "year": "-13000",
     "creatorLabel": "",
     "sitelinks": "15"
   },
@@ -1604,14 +1636,6 @@
     "itemLabel": "Barberini ivory",
     "description": "relief",
     "year": "525",
-    "creatorLabel": "",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2002838",
-    "itemLabel": "Esquiline Venus",
-    "description": "Roman nude marble sculpture at Capitoline Museums",
-    "year": "50",
     "creatorLabel": "",
     "sitelinks": "15"
   },
@@ -1656,86 +1680,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q785767",
-    "itemLabel": "Pitti Tondo",
-    "description": "sculpture by Michelangelo",
-    "year": "1504",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1093113",
-    "itemLabel": "Venus Victrix",
-    "description": "neo-Classical portrait sculpture of Pauline Bonaparte by Antonio Canova",
-    "year": "1800",
-    "creatorLabel": "Antonio Canova",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1246440",
-    "itemLabel": "Judith and Holofernes",
-    "description": "sculpture by Donatello",
-    "year": "1460",
-    "creatorLabel": "Donatello",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q826635",
-    "itemLabel": "Elephant and Obelisk",
-    "description": "sculpture designed by Gianlorenzo Bernini",
-    "year": "-600",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1541884",
-    "itemLabel": "Well of Moses",
-    "description": "sculpture by Claus Sluter",
-    "year": "1000",
-    "creatorLabel": "Claus Sluter",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2869431",
-    "itemLabel": "Atlas",
-    "description": "Art Deco statue of Atlas at the Rockefeller Center, New York City, U.S.A.",
-    "year": "1937",
-    "creatorLabel": "Lee Lawrie",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3358957",
-    "itemLabel": "Oviri",
-    "description": "1894 ceramic sculpture by Paul Gauguin",
-    "year": "1894",
-    "creatorLabel": "Paul Gauguin",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q540460",
-    "itemLabel": "Bismarck Monument",
-    "description": "Bismarck monument in Hamburg",
-    "year": "1906",
-    "creatorLabel": "Hugo Lederer",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q348381",
-    "itemLabel": "Adam Mickiewicz Monument, Kraków",
-    "description": "monument in Poland",
-    "year": "1955",
-    "creatorLabel": "Teodor Rygier",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q49745",
-    "itemLabel": "Soviet War Memorial Schönholzer Heide",
-    "description": "monument in Berlin-Niederschönhausen, Germany",
-    "year": "1949",
-    "creatorLabel": "Ivan Pershudchev",
-    "sitelinks": "14"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1985071",
     "itemLabel": "Medici Madonna",
     "description": "sculpture by Michelangelo",
@@ -1752,11 +1696,123 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q785767",
+    "itemLabel": "Pitti Tondo",
+    "description": "sculpture by Michelangelo",
+    "year": "1504",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1246440",
+    "itemLabel": "Judith and Holofernes",
+    "description": "sculpture by Donatello",
+    "year": "1460",
+    "creatorLabel": "Donatello",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q540460",
+    "itemLabel": "Bismarck Monument",
+    "description": "Bismarck monument in Hamburg",
+    "year": "1906",
+    "creatorLabel": "Hugo Lederer",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1541884",
+    "itemLabel": "Well of Moses",
+    "description": "sculpture by Claus Sluter",
+    "year": "1000",
+    "creatorLabel": "Claus Sluter",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025131",
+    "itemLabel": "Cristo de La Laguna",
+    "description": "sculpture",
+    "year": "1514",
+    "creatorLabel": "Louis Van Der Vule",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q348381",
+    "itemLabel": "Adam Mickiewicz Monument, Kraków",
+    "description": "monument in Poland",
+    "year": "1955",
+    "creatorLabel": "Teodor Rygier",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2294491",
     "itemLabel": "Ludovisi Gaul",
     "description": "sculpture by Epigonus of Pergamum",
     "year": "-230",
     "creatorLabel": "Epigonus of Pergamum",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2065740",
+    "itemLabel": "Peace Monument",
+    "description": "artwork by Franklin Simmons",
+    "year": "1877",
+    "creatorLabel": "Franklin Simmons",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2063494",
+    "itemLabel": "Crouching Venus",
+    "description": "sculpture by Doidalsa",
+    "year": "-250",
+    "creatorLabel": "Doidalsa",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49745",
+    "itemLabel": "Soviet War Memorial Schönholzer Heide",
+    "description": "monument in Berlin-Niederschönhausen, Germany",
+    "year": "1949",
+    "creatorLabel": "Ivan Pershudchev",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2500548",
+    "itemLabel": "Taddei Tondo",
+    "description": "sculpture by Michelangelo",
+    "year": "1504",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2869431",
+    "itemLabel": "Atlas",
+    "description": "Art Deco statue of Atlas at the Rockefeller Center, New York City, U.S.A.",
+    "year": "1937",
+    "creatorLabel": "Lee Lawrie",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3645634",
+    "itemLabel": "Freedom Monument in Tbilisi",
+    "description": "memorial located in Tbilisi, Georgia",
+    "year": "2006",
+    "creatorLabel": "Zurab Tsereteli",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3358957",
+    "itemLabel": "Oviri",
+    "description": "1894 ceramic sculpture by Paul Gauguin",
+    "year": "1894",
+    "creatorLabel": "Paul Gauguin",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7981506",
+    "itemLabel": "equestrian statue of the Duke of Wellington",
+    "description": "statue by Carlo Marochetti in Glasgow, United Kingdom",
+    "year": "1844",
+    "creatorLabel": "Carlo Marochetti",
     "sitelinks": "14"
   },
   {
@@ -1780,14 +1836,6 @@
     "itemLabel": "Gero Cross",
     "description": "one of the oldest large sculpture of the crucified Christ north of the Alps, located in Cologne Cathedral in Germany.",
     "year": "960",
-    "creatorLabel": "",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q687286",
-    "itemLabel": "Venus of Monruz",
-    "description": "sculpture",
-    "year": "-13000",
     "creatorLabel": "",
     "sitelinks": "14"
   },
@@ -1824,75 +1872,19 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2438217",
+    "itemLabel": "The Genius of Victory",
+    "description": "marble sculpture by Michelangelo",
+    "year": "1532",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1518215",
     "itemLabel": "The Four Columns",
     "description": "architectural structure in Barcelona",
     "year": "1919",
     "creatorLabel": "Josep Puig i Cadafalch",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2990594",
-    "itemLabel": "Lobster Telephone",
-    "description": "surrealist art sculpture",
-    "year": "1936",
-    "creatorLabel": "Salvador Dalí",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2500541",
-    "itemLabel": "Saint Matthew",
-    "description": "sculpture by Michelangelo",
-    "year": "1505",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2500548",
-    "itemLabel": "Taddei Tondo",
-    "description": "sculpture by Michelangelo",
-    "year": "1504",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4343021",
-    "itemLabel": "Chekhov Monument",
-    "description": "statue in Taganrog, Russia",
-    "year": "1960",
-    "creatorLabel": "Iulian Rukavishnikov",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3275776",
-    "itemLabel": "Penitent Magdalene",
-    "description": "sculpture by Donatello",
-    "year": "1453",
-    "creatorLabel": "Donatello",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1025131",
-    "itemLabel": "Cristo de La Laguna",
-    "description": "sculpture",
-    "year": "1514",
-    "creatorLabel": "Louis Van Der Vule",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1100798",
-    "itemLabel": "monument to Yuri Gagarin",
-    "description": "monument in Moscow, Russia",
-    "year": "1980",
-    "creatorLabel": "Pavel Bondarenko",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3129834",
-    "itemLabel": "Hans Egede",
-    "description": "statue in Nuuk, Greenland",
-    "year": "1921",
-    "creatorLabel": "August Saabye",
     "sitelinks": "13"
   },
   {
@@ -1912,35 +1904,27 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2438217",
-    "itemLabel": "The Genius of Victory",
-    "description": "marble sculpture by Michelangelo",
-    "year": "1532",
-    "creatorLabel": "Michelangelo",
+    "item": "http://www.wikidata.org/entity/Q949076",
+    "itemLabel": "Great Cameo of France",
+    "description": "sculpture",
+    "year": "",
+    "creatorLabel": "Dioscurides",
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3645634",
-    "itemLabel": "Freedom Monument in Tbilisi",
-    "description": "memorial located in Tbilisi, Georgia",
-    "year": "2006",
-    "creatorLabel": "Zurab Tsereteli",
+    "item": "http://www.wikidata.org/entity/Q1232073",
+    "itemLabel": "Headington Shark",
+    "description": "sculpture in Oxford, England, UK",
+    "year": "1986",
+    "creatorLabel": "John Buckley",
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2063494",
-    "itemLabel": "Crouching Venus",
-    "description": "sculpture by Doidalsa",
-    "year": "-250",
-    "creatorLabel": "Doidalsa",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2065740",
-    "itemLabel": "Peace Monument",
-    "description": "artwork by Franklin Simmons",
-    "year": "1877",
-    "creatorLabel": "Franklin Simmons",
+    "item": "http://www.wikidata.org/entity/Q1100798",
+    "itemLabel": "monument to Yuri Gagarin",
+    "description": "monument in Moscow, Russia",
+    "year": "1980",
+    "creatorLabel": "Pavel Bondarenko",
     "sitelinks": "13"
   },
   {
@@ -1952,11 +1936,27 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7981506",
-    "itemLabel": "equestrian statue of the Duke of Wellington",
-    "description": "statue by Carlo Marochetti in Glasgow, United Kingdom",
-    "year": "1844",
-    "creatorLabel": "Carlo Marochetti",
+    "item": "http://www.wikidata.org/entity/Q4343021",
+    "itemLabel": "Chekhov Monument",
+    "description": "statue in Taganrog, Russia",
+    "year": "1960",
+    "creatorLabel": "Iulian Rukavishnikov",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2990594",
+    "itemLabel": "Lobster Telephone",
+    "description": "surrealist art sculpture",
+    "year": "1936",
+    "creatorLabel": "Salvador Dalí",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2500541",
+    "itemLabel": "Saint Matthew",
+    "description": "sculpture by Michelangelo",
+    "year": "1505",
+    "creatorLabel": "Michelangelo",
     "sitelinks": "13"
   },
   {
@@ -1965,6 +1965,22 @@
     "description": "original prize for winning the FIFA World Cup",
     "year": "1929",
     "creatorLabel": "Abel Lafleur",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3275776",
+    "itemLabel": "Penitent Magdalene",
+    "description": "sculpture by Donatello",
+    "year": "1453",
+    "creatorLabel": "Donatello",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3129834",
+    "itemLabel": "Hans Egede",
+    "description": "statue in Nuuk, Greenland",
+    "year": "1921",
+    "creatorLabel": "August Saabye",
     "sitelinks": "13"
   },
   {
@@ -2064,18 +2080,26 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7636803",
-    "itemLabel": "Sultanganj Buddha",
-    "description": "Largest copper Buddha statue of the world",
-    "year": "500",
-    "creatorLabel": "",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3752885",
     "itemLabel": "Mars of Todi",
     "description": "statue",
     "year": "-500",
+    "creatorLabel": "",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6028852",
+    "itemLabel": "Great Sphinx of Tanis",
+    "description": "granite sphinx in the collections of the Louvre",
+    "year": "-2599",
+    "creatorLabel": "",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7636803",
+    "itemLabel": "Sultanganj Buddha",
+    "description": "Largest copper Buddha statue of the world",
+    "year": "500",
     "creatorLabel": "",
     "sitelinks": "13"
   },
@@ -2096,11 +2120,35 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2255664",
+    "itemLabel": "Palestrina Pietà",
+    "description": "sculpture by Michelangelo",
+    "year": "1550",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2437692",
+    "itemLabel": "Leah",
+    "description": "sculpture by Michelangelo",
+    "year": "1545",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q596683",
     "itemLabel": "Dawn",
     "description": "sculpture by Michelangelo",
     "year": "1524",
     "creatorLabel": "Michelangelo",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q343981",
+    "itemLabel": "Statue of Humanity",
+    "description": "sculpture by Mehmet Aksoy",
+    "year": "2009",
+    "creatorLabel": "Mehmet Aksoy",
     "sitelinks": "12"
   },
   {
@@ -2120,6 +2168,14 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3878834",
+    "itemLabel": "Night",
+    "description": "sculpture by Michelangelo",
+    "year": "1526",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1307686",
     "itemLabel": "Phrasikleia Kore",
     "description": "sculpture by Aristion von Paros",
@@ -2128,19 +2184,43 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q949076",
-    "itemLabel": "Great Cameo of France",
-    "description": "sculpture",
-    "year": "",
-    "creatorLabel": "Dioscurides",
+    "item": "http://www.wikidata.org/entity/Q1736784",
+    "itemLabel": "Statue of Europe",
+    "description": "sculpture by Bernard Romain",
+    "year": "2003",
+    "creatorLabel": "Bernard Romain",
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1232073",
-    "itemLabel": "Headington Shark",
-    "description": "sculpture in Oxford, England, UK",
-    "year": "1986",
-    "creatorLabel": "John Buckley",
+    "item": "http://www.wikidata.org/entity/Q2402570",
+    "itemLabel": "Albert Einstein Memorial",
+    "description": "artwork by Robert Berks",
+    "year": "1979",
+    "creatorLabel": "Robert Berks",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2437806",
+    "itemLabel": "Monument to Giuseppe Garibaldi",
+    "description": "",
+    "year": "1904",
+    "creatorLabel": "Eugenio Maccagnani",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3988385",
+    "itemLabel": "Moon Museum",
+    "description": "ceramic artwork",
+    "year": "1969",
+    "creatorLabel": "Claes Oldenburg",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3733361",
+    "itemLabel": "Saint Ludovica Albertoni",
+    "description": "sculpture / artwork by Gianlorenzo Bernini",
+    "year": "1670",
+    "creatorLabel": "Gian Lorenzo Bernini",
     "sitelinks": "12"
   },
   {
@@ -2149,6 +2229,14 @@
     "description": "sculpture by Gian Lorenzo Bernini, Victoria and Albert Museum",
     "year": "1620",
     "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3648036",
+    "itemLabel": "Statue of Giordano Bruno",
+    "description": "monument in the city of Rome",
+    "year": "1889",
+    "creatorLabel": "Ettore Ferrari",
     "sitelinks": "12"
   },
   {
@@ -2168,83 +2256,19 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q343981",
-    "itemLabel": "Statue of Humanity",
-    "description": "sculpture by Mehmet Aksoy",
-    "year": "2009",
-    "creatorLabel": "Mehmet Aksoy",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2255664",
-    "itemLabel": "Palestrina Pietà",
-    "description": "sculpture by Michelangelo",
-    "year": "1550",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2437692",
-    "itemLabel": "Leah",
-    "description": "sculpture by Michelangelo",
-    "year": "1545",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3733361",
-    "itemLabel": "Saint Ludovica Albertoni",
-    "description": "sculpture / artwork by Gianlorenzo Bernini",
-    "year": "1670",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3648036",
-    "itemLabel": "Statue of Giordano Bruno",
-    "description": "monument in the city of Rome",
-    "year": "1889",
-    "creatorLabel": "Ettore Ferrari",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3988385",
-    "itemLabel": "Moon Museum",
-    "description": "ceramic artwork",
-    "year": "1969",
-    "creatorLabel": "Andy Warhol",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2437806",
-    "itemLabel": "Monument to Giuseppe Garibaldi",
-    "description": "",
-    "year": "1904",
-    "creatorLabel": "Eugenio Maccagnani",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2402570",
-    "itemLabel": "Albert Einstein Memorial",
-    "description": "artwork by Robert Berks",
-    "year": "1979",
-    "creatorLabel": "Robert Berks",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3878834",
-    "itemLabel": "Night",
-    "description": "sculpture by Michelangelo",
-    "year": "1526",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q6906912",
     "itemLabel": "Monument to the Women of World War II",
     "description": "British national war memorial situated on Whitehall in London, UK",
     "year": "2005",
     "creatorLabel": "John W. Mills",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6906958",
+    "itemLabel": "The Hand",
+    "description": "sculpture in Punta del Este",
+    "year": "1981",
+    "creatorLabel": "Mario Irarrázabal",
     "sitelinks": "12"
   },
   {
@@ -2296,18 +2320,10 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6028852",
-    "itemLabel": "Great Sphinx of Tanis",
-    "description": "granite sphinx in the collections of the Louvre",
-    "year": "-2599",
-    "creatorLabel": "",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7197669",
-    "itemLabel": "Piraeus Apollo",
-    "description": "Greek statue",
-    "year": "-520",
+    "item": "http://www.wikidata.org/entity/Q2364240",
+    "itemLabel": "Capuan Venus",
+    "description": "Roman sculpture, Venus of Capua.",
+    "year": "-200",
     "creatorLabel": "",
     "sitelinks": "12"
   },
@@ -2316,6 +2332,14 @@
     "itemLabel": "Alley of Classics",
     "description": "sculptural ensemble in the central park of Chișinău, Moldova, public forum monument",
     "year": "1958",
+    "creatorLabel": "",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7197669",
+    "itemLabel": "Piraeus Apollo",
+    "description": "Greek statue",
+    "year": "-520",
     "creatorLabel": "",
     "sitelinks": "12"
   },
@@ -2334,174 +2358,6 @@
     "year": "1996",
     "creatorLabel": "",
     "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1439502",
-    "itemLabel": "Napoleon as Mars the Peacemaker",
-    "description": "sculpture by Antonio Canova in London",
-    "year": "1806",
-    "creatorLabel": "Antonio Canova",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q947432",
-    "itemLabel": "Stone Flower",
-    "description": "monumentary sculpture in Jasenovac, Croatia",
-    "year": "1966",
-    "creatorLabel": "Bogdan Bogdanović",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4137916",
-    "itemLabel": "Death of Adonis",
-    "description": "sculpture by Giuseppe Mazzuoli",
-    "year": "1710",
-    "creatorLabel": "Giuseppe Mazzuoli",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1624279",
-    "itemLabel": "Holbeinpferd",
-    "description": "sculpture by Werner Gürtner located in Freiburg im Breisgau",
-    "year": "1936",
-    "creatorLabel": "Werner Gürtner",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4343088",
-    "itemLabel": "Monument to Bohdan Khmelnytsky in Kyiv",
-    "description": "monument in Kyiv, Ukraine",
-    "year": "1888",
-    "creatorLabel": "Mikhail Mikeshin",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1736784",
-    "itemLabel": "Statue of Europe",
-    "description": "sculpture by Bernard Romain",
-    "year": "2003",
-    "creatorLabel": "Bernard Romain",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2915336",
-    "itemLabel": "The Bride Stripped Bare By Her Bachelors, Even",
-    "description": "sculpture by Marcel Duchamp",
-    "year": "1915",
-    "creatorLabel": "Marcel Duchamp",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q665800",
-    "itemLabel": "Kindlifresserbrunnen",
-    "description": "16th century fountain located at the Kornhausplatz, in Bern, Switzerland",
-    "year": "1545",
-    "creatorLabel": "Hans Gieng",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2628659",
-    "itemLabel": "The Endless Column",
-    "description": "sculpture by Constantin Brâncuși",
-    "year": "1938",
-    "creatorLabel": "Constantin Brâncuși",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1454362",
-    "itemLabel": "Statue of Liberty, Mytilini",
-    "description": "statue in Mytilene, Lesbos, Greece",
-    "year": "1930",
-    "creatorLabel": "Grigorios Zeugoles",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1726492",
-    "itemLabel": "Obelisk of Montevideo",
-    "description": "sculpture by José Luis Zorrilla de San Martín",
-    "year": "1938",
-    "creatorLabel": "José Luis Zorrilla de San Martín",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3087894",
-    "itemLabel": "Parthenon Frieze",
-    "description": "sculpture from the Parthenon, in the Athenian Acropolis",
-    "year": "-443",
-    "creatorLabel": "Phidias",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4353553",
-    "itemLabel": "Statue of Bruce Lee",
-    "description": "statue in Hong Kong",
-    "year": "2005",
-    "creatorLabel": "Cao Chong'en",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3026255",
-    "itemLabel": "Diana of Gabii",
-    "description": "ancient Greek sculpture attributed to Praxiteles",
-    "year": "20",
-    "creatorLabel": "Praxiteles",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2902596",
-    "itemLabel": "Christ and Saint Thomas",
-    "description": "sculpture by Andrea del Verrocchio, Orsanmichele",
-    "year": "1467",
-    "creatorLabel": "Andrea del Verrocchio",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20587589",
-    "itemLabel": "Statue of Ali and Nino",
-    "description": "sculpture by Tamara Kvesitadze",
-    "year": "2010",
-    "creatorLabel": "Tamara Kvesitadze",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16364259",
-    "itemLabel": "The Men",
-    "description": "sculpture in Yerevan, Armenia",
-    "year": "2007",
-    "creatorLabel": "Davit Minasyan",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81644885",
-    "itemLabel": "Angels Unawares",
-    "description": "sculpture",
-    "year": "2019",
-    "creatorLabel": "Timothy P. Schmalz",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q254602",
-    "itemLabel": "Cadillac Ranch",
-    "description": "public art installation and sculpture in Amarillo, Texas",
-    "year": "1974",
-    "creatorLabel": "Ant Farm",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q538360",
-    "itemLabel": "Isted Lion",
-    "description": "sculpture",
-    "year": "1860",
-    "creatorLabel": "Herman Wilhelm Bissen",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26497793",
-    "itemLabel": "Statue of Edward Colston",
-    "description": "former public statue in Bristol, England",
-    "year": "1895",
-    "creatorLabel": "John Cassidy",
-    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1984954",
@@ -2536,6 +2392,70 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1439502",
+    "itemLabel": "Napoleon as Mars the Peacemaker",
+    "description": "sculpture by Antonio Canova in London",
+    "year": "1806",
+    "creatorLabel": "Antonio Canova",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q665800",
+    "itemLabel": "Kindlifresserbrunnen",
+    "description": "16th century fountain located at the Kornhausplatz, in the city of Bern, Switzerland",
+    "year": "1545",
+    "creatorLabel": "Hans Gieng",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q254602",
+    "itemLabel": "Cadillac Ranch",
+    "description": "public art installation and sculpture in Amarillo, Texas",
+    "year": "1974",
+    "creatorLabel": "Ant Farm",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q538360",
+    "itemLabel": "Isted Lion",
+    "description": "sculpture by Herman Wilhelm Bissen in Flensburg, Germany",
+    "year": "1860",
+    "creatorLabel": "Herman Wilhelm Bissen",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1624279",
+    "itemLabel": "Holbeinpferd",
+    "description": "sculpture by Werner Gürtner located in Freiburg im Breisgau",
+    "year": "1936",
+    "creatorLabel": "Werner Gürtner",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q947432",
+    "itemLabel": "Stone Flower",
+    "description": "monumentary sculpture in Jasenovac, Croatia",
+    "year": "1966",
+    "creatorLabel": "Bogdan Bogdanović",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1726492",
+    "itemLabel": "Obelisk of Montevideo",
+    "description": "sculpture by José Luis Zorrilla de San Martín",
+    "year": "1938",
+    "creatorLabel": "José Luis Zorrilla de San Martín",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1454362",
+    "itemLabel": "Statue of Liberty, Mytilini",
+    "description": "statue in Mytilene, Lesbos, Greece",
+    "year": "1930",
+    "creatorLabel": "Grigorios Zeugoles",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1999259",
     "itemLabel": "Fuente del Ángel Caído",
     "description": "fountain in Madrid",
@@ -2544,11 +2464,91 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6906958",
-    "itemLabel": "The Hand",
-    "description": "sculpture in Punta del Este",
-    "year": "1981",
-    "creatorLabel": "Mario Irarrázabal",
+    "item": "http://www.wikidata.org/entity/Q26497793",
+    "itemLabel": "Statue of Edward Colston",
+    "description": "former public statue in Bristol, England",
+    "year": "1895",
+    "creatorLabel": "John Cassidy",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4343088",
+    "itemLabel": "Monument to Bohdan Khmelnytsky in Kyiv",
+    "description": "monument in Kyiv, Ukraine",
+    "year": "1888",
+    "creatorLabel": "Mikhail Mikeshin",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4137916",
+    "itemLabel": "Death of Adonis",
+    "description": "sculpture by Giuseppe Mazzuoli",
+    "year": "1710",
+    "creatorLabel": "Giuseppe Mazzuoli",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4353553",
+    "itemLabel": "Statue of Bruce Lee",
+    "description": "statue in Hong Kong",
+    "year": "2005",
+    "creatorLabel": "Cao Chong'en",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47499411",
+    "itemLabel": "America",
+    "description": "2016 sculpture, a fully functioning toilet made of solid gold, by Maurizio Cattelan",
+    "year": "2016",
+    "creatorLabel": "Maurizio Cattelan",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2915336",
+    "itemLabel": "The Bride Stripped Bare By Her Bachelors, Even",
+    "description": "sculpture by Marcel Duchamp",
+    "year": "1915",
+    "creatorLabel": "Marcel Duchamp",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3026255",
+    "itemLabel": "Diana of Gabii",
+    "description": "ancient Greek sculpture attributed to Praxiteles",
+    "year": "20",
+    "creatorLabel": "Praxiteles",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2628659",
+    "itemLabel": "The Endless Column",
+    "description": "sculpture by Constantin Brâncuși",
+    "year": "1938",
+    "creatorLabel": "Constantin Brâncuși",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2902596",
+    "itemLabel": "Christ and Saint Thomas",
+    "description": "sculpture by Andrea del Verrocchio, Orsanmichele",
+    "year": "1467",
+    "creatorLabel": "Andrea del Verrocchio",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3087894",
+    "itemLabel": "Parthenon Frieze",
+    "description": "sculpture from the Parthenon, in the Athenian Acropolis",
+    "year": "-443",
+    "creatorLabel": "Phidias",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16364259",
+    "itemLabel": "The Men",
+    "description": "sculpture in Yerevan, Armenia",
+    "year": "2007",
+    "creatorLabel": "Davit Minasyan",
     "sitelinks": "11"
   },
   {
@@ -2557,6 +2557,38 @@
     "description": "Statue in Kraków, Poland",
     "year": "1972",
     "creatorLabel": "Bronisław Chromy",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11343812",
+    "itemLabel": "Brno astronomical clock",
+    "description": "monument in Brno, Czech Republic",
+    "year": "2010",
+    "creatorLabel": "Oldřich Rujbr",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11482253",
+    "itemLabel": "Statue of Peace",
+    "description": "memorial statue",
+    "year": "2011",
+    "creatorLabel": "Kim Seo-kyung & Kim Eun-sung",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81644885",
+    "itemLabel": "Angels Unawares",
+    "description": "sculpture",
+    "year": "2019",
+    "creatorLabel": "Timothy P. Schmalz",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20587589",
+    "itemLabel": "Statue of Ali and Nino",
+    "description": "sculpture by Tamara Kvesitadze",
+    "year": "2010",
+    "creatorLabel": "Tamara Kvesitadze",
     "sitelinks": "11"
   },
   {
@@ -2600,14 +2632,6 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2364240",
-    "itemLabel": "Capuan Venus",
-    "description": "Roman sculpture, Venus of Capua.",
-    "year": "-200",
-    "creatorLabel": "",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2469102",
     "itemLabel": "Lady of Galera",
     "description": "alabaster female figurine, made in the 7th century BC",
@@ -2640,10 +2664,26 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2899155",
+    "itemLabel": "Irish Hunger Memorial",
+    "description": "memorial in New York City",
+    "year": "2002",
+    "creatorLabel": "",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2901063",
     "itemLabel": "Borghese Vase",
     "description": "Roman era ornamental garden vase",
     "year": "-35",
+    "creatorLabel": "",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3968656",
+    "itemLabel": "The Porter",
+    "description": "one of the six talking statues of Rome",
+    "year": "1580",
     "creatorLabel": "",
     "sitelinks": "11"
   },
@@ -2664,30 +2704,6 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4563532",
-    "itemLabel": "Jason with the Golden Fleece",
-    "description": "statue by Bertel Thorvaldsen",
-    "year": "1803",
-    "creatorLabel": "Bertel Thorvaldsen",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1683191",
-    "itemLabel": "Monument to Prince Józef Poniatowski in Warsaw",
-    "description": "",
-    "year": "1826",
-    "creatorLabel": "Bertel Thorvaldsen",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4656688",
-    "itemLabel": "A Faun Teased by Children",
-    "description": "sculpture by Gianlorenzo and Pietro Bernini",
-    "year": "1616",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1808677",
     "itemLabel": "Tomb of Pope Alexander VII",
     "description": "funerary monument by Gianlorenzo Bernini",
@@ -2696,11 +2712,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3057930",
-    "itemLabel": "Atlas Slave",
-    "description": "sculpture by Michelangelo",
-    "year": "1530",
-    "creatorLabel": "Michelangelo",
+    "item": "http://www.wikidata.org/entity/Q1683191",
+    "itemLabel": "Monument to Prince Józef Poniatowski in Warsaw",
+    "description": "monument in 46/48 Krakowskie Przedmieście, Warsaw",
+    "year": "1826",
+    "creatorLabel": "Bertel Thorvaldsen",
     "sitelinks": "10"
   },
   {
@@ -2709,38 +2725,6 @@
     "description": "sculpture in Reykjavík by Jón Gunnar Árnason",
     "year": "1990",
     "creatorLabel": "Jón Gunnar Árnason",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2963060",
-    "itemLabel": "Marly horses",
-    "description": "sculpture by Guillaume Coustou",
-    "year": "1743",
-    "creatorLabel": "Guillaume Coustou the Elder",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4155629",
-    "itemLabel": "The Two Marys",
-    "description": "two sculptures at the Alameda-Park in Santiago de Compostela, Spain",
-    "year": "1994",
-    "creatorLabel": "César Lombera",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2910887",
-    "itemLabel": "Vietnam Women's Memorial",
-    "description": "memorial dedicated to the women of the United States who served in the Vietnam War",
-    "year": "1993",
-    "creatorLabel": "Glenna Goodacre",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3361505",
-    "itemLabel": "Athena of Velletri",
-    "description": "type of classical marble statue of Athena, wearing a helmet, Louvre",
-    "year": "100",
-    "creatorLabel": "Vincenzo Pacetti",
     "sitelinks": "10"
   },
   {
@@ -2760,6 +2744,14 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3937559",
+    "itemLabel": "Portrait of Giuliano de' Medici, Duke of Nemours",
+    "description": "sculpture by Michelangelo",
+    "year": "1526",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q287178",
     "itemLabel": "Nine Views",
     "description": "art installation in Zagreb, Croatia",
@@ -2768,35 +2760,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6074122",
-    "itemLabel": "Statue of Honor",
-    "description": "monument in Samsun, Turkey",
-    "year": "1932",
-    "creatorLabel": "Heinrich Krippel",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6023002",
-    "itemLabel": "Monument to Cuauhtémoc",
-    "description": "sculpture in Mexico City",
-    "year": "1887",
-    "creatorLabel": "Miguel Noreña",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5350918",
-    "itemLabel": "The Face of Barcelona",
-    "description": "sculpture by Roy Lichtenstein",
-    "year": "1992",
-    "creatorLabel": "Roy Lichtenstein",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1967392",
     "itemLabel": "Japanese American Memorial to Patriotism During World War II",
     "description": "artwork by Nina Akumu and Paul Matisse",
     "year": "2000",
-    "creatorLabel": "Paul Matisse",
+    "creatorLabel": "Nina Akamu",
     "sitelinks": "10"
   },
   {
@@ -2808,19 +2776,43 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3937559",
-    "itemLabel": "Portrait of Giuliano de' Medici, Duke of Nemours",
-    "description": "sculpture by Michelangelo",
-    "year": "1526",
-    "creatorLabel": "Giovanni Angelo Montorsoli",
+    "item": "http://www.wikidata.org/entity/Q4563532",
+    "itemLabel": "Jason with the Golden Fleece",
+    "description": "statue by Bertel Thorvaldsen",
+    "year": "1803",
+    "creatorLabel": "Bertel Thorvaldsen",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3968679",
-    "itemLabel": "Equestrian Monument of Cosimo I",
-    "description": "statue in Florence, Italy",
-    "year": "1622",
-    "creatorLabel": "Giambologna",
+    "item": "http://www.wikidata.org/entity/Q4009586",
+    "itemLabel": "Venus Italica",
+    "description": "sculpture by Antonio Canova",
+    "year": "1804",
+    "creatorLabel": "Antonio Canova",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4656688",
+    "itemLabel": "A Faun Teased by Children",
+    "description": "sculpture by Gianlorenzo and Pietro Bernini",
+    "year": "1616",
+    "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7514824",
+    "itemLabel": "Silesian Insurgents' Monument",
+    "description": "monument (Katowice, Poland)",
+    "year": "1967",
+    "creatorLabel": "Wojciech Zabłocki",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3057930",
+    "itemLabel": "Atlas Slave",
+    "description": "sculpture by Michelangelo",
+    "year": "1530",
+    "creatorLabel": "Michelangelo",
     "sitelinks": "10"
   },
   {
@@ -2832,19 +2824,27 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47499411",
-    "itemLabel": "America",
-    "description": "2016 sculpture, a fully functioning toilet made of solid gold, by Maurizio Cattelan",
-    "year": "2016",
-    "creatorLabel": "Maurizio Cattelan",
+    "item": "http://www.wikidata.org/entity/Q2963060",
+    "itemLabel": "Marly horses",
+    "description": "sculpture by Guillaume Coustou",
+    "year": "1743",
+    "creatorLabel": "Guillaume Coustou the Elder",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12138398",
-    "itemLabel": "Alexander Pushkin monument",
-    "description": "sculpture by Gueorgui Neroda in Taganrog, Russia (1986)",
-    "year": "1986",
-    "creatorLabel": "Georgy Neroda",
+    "item": "http://www.wikidata.org/entity/Q5350918",
+    "itemLabel": "The Face of Barcelona",
+    "description": "sculpture by Roy Lichtenstein",
+    "year": "1992",
+    "creatorLabel": "Roy Lichtenstein",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3968679",
+    "itemLabel": "Equestrian Monument of Cosimo I",
+    "description": "statue in Florence, Italy",
+    "year": "1594",
+    "creatorLabel": "Giambologna",
     "sitelinks": "10"
   },
   {
@@ -2856,19 +2856,51 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11482253",
-    "itemLabel": "Statue of Peace",
-    "description": "memorial statue",
-    "year": "2011",
-    "creatorLabel": "Kim Seo-kyung & Kim Eun-sung",
+    "item": "http://www.wikidata.org/entity/Q2910887",
+    "itemLabel": "Vietnam Women's Memorial",
+    "description": "memorial dedicated to the women of the United States who served in the Vietnam War",
+    "year": "1993",
+    "creatorLabel": "Glenna Goodacre",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11343812",
-    "itemLabel": "Brno astronomical clock",
-    "description": "monument in Brno, Czech Republic",
-    "year": "2010",
-    "creatorLabel": "Oldřich Rujbr",
+    "item": "http://www.wikidata.org/entity/Q12138398",
+    "itemLabel": "Alexander Pushkin monument",
+    "description": "sculpture by Gueorgui Neroda in Taganrog, Russia (1986)",
+    "year": "1986",
+    "creatorLabel": "Georgy Neroda",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3361505",
+    "itemLabel": "Athena of Velletri",
+    "description": "type of classical marble statue of Athena, wearing a helmet, Louvre",
+    "year": "100",
+    "creatorLabel": "Vincenzo Pacetti",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17051597",
+    "itemLabel": "Memoria Urbana Berlin",
+    "description": "public sculpture in Berlin, Germany",
+    "year": "2012",
+    "creatorLabel": "Juan Garaizabal",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6023002",
+    "itemLabel": "Monument to Cuauhtémoc",
+    "description": "sculpture in Mexico City",
+    "year": "1887",
+    "creatorLabel": "Miguel Noreña",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6074122",
+    "itemLabel": "Statue of Honor",
+    "description": "monument in Samsun, Turkey",
+    "year": "1932",
+    "creatorLabel": "Heinrich Krippel",
     "sitelinks": "10"
   },
   {
@@ -2884,6 +2916,14 @@
     "itemLabel": "Brunswick Lion",
     "description": "medieval bronze sculpture in Brunswick, Germany",
     "year": "1100",
+    "creatorLabel": "",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q754680",
+    "itemLabel": "Traffic Light tree",
+    "description": "sculpture by Pierre Vivant",
+    "year": "1998",
     "creatorLabel": "",
     "sitelinks": "10"
   },
@@ -2908,6 +2948,14 @@
     "itemLabel": "Garibaldi Monument in Taganrog",
     "description": "sculpture",
     "year": "1961",
+    "creatorLabel": "",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1550994",
+    "itemLabel": "Group of Aphrodite, Pan and Eros",
+    "description": "hellenistic marble statues group, today at the National Archaeological Museum at Athens",
+    "year": "-99",
     "creatorLabel": "",
     "sitelinks": "10"
   },
@@ -2952,14 +3000,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2899155",
-    "itemLabel": "Irish Hunger Memorial",
-    "description": "memorial in New York City",
-    "year": "2002",
-    "creatorLabel": "",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2957596",
     "itemLabel": "Monteleone Chariot",
     "description": "bronzes highlighted in The MET collection",
@@ -2968,18 +3008,18 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3918317",
-    "itemLabel": "Hercules of the Forum Boarium",
-    "description": "gilded bronze statues of Hercules at the Capitoline Museums, Rome, Italy",
-    "year": "-200",
+    "item": "http://www.wikidata.org/entity/Q3003587",
+    "itemLabel": "Cross of the Angels",
+    "description": "early medieval reliquary in Oviedo, Asturias (Spain)",
+    "year": "808",
     "creatorLabel": "",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3968656",
-    "itemLabel": "The Porter",
-    "description": "one of the six talking statues of Rome",
-    "year": "1580",
+    "item": "http://www.wikidata.org/entity/Q3918317",
+    "itemLabel": "Hercules of the Forum Boarium",
+    "description": "gilded bronze statues of Hercules at the Capitoline Museums, Rome, Italy",
+    "year": "-200",
     "creatorLabel": "",
     "sitelinks": "10"
   },
@@ -3016,11 +3056,43 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1750656",
-    "itemLabel": "Étant donnés",
-    "description": "artwork by Marcel Duchamp",
-    "year": "1966",
-    "creatorLabel": "Marcel Duchamp",
+    "item": "http://www.wikidata.org/entity/Q23356",
+    "itemLabel": "Harbaville Triptych",
+    "description": "Byzantine ivory triptych",
+    "year": "950",
+    "creatorLabel": "",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q618530",
+    "itemLabel": "Aphrodite of Syracuse",
+    "description": "Graeco-Roman statue in the National Archaeological Museum Athens",
+    "year": "200",
+    "creatorLabel": "Antonio Canova",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1566690",
+    "itemLabel": "Habakkuk and the angel",
+    "description": "sculpture in Rome by Bernini",
+    "year": "1660",
+    "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1628251",
+    "itemLabel": "The Caress of a Bird",
+    "description": "sculpture by Joan Miró",
+    "year": "1967",
+    "creatorLabel": "Joan Miró",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q261274",
+    "itemLabel": "7000 Oaks",
+    "description": "work of land art by Joseph Beuys",
+    "year": "1982",
+    "creatorLabel": "Joseph Beuys",
     "sitelinks": "9"
   },
   {
@@ -3040,35 +3112,11 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1628251",
-    "itemLabel": "The Caress of a Bird",
-    "description": "sculpture by Joan Miró",
-    "year": "1967",
-    "creatorLabel": "Joan Miró",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1566690",
-    "itemLabel": "Habakkuk and the angel",
-    "description": "sculpture in Rome by Bernini",
-    "year": "1660",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2626926",
-    "itemLabel": "Hercules",
-    "description": "statue by Michelangelo",
-    "year": "1492",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4345843",
-    "itemLabel": "The Branting Monument",
-    "description": "Monument in Stockholm, Sweden",
-    "year": "1952",
-    "creatorLabel": "Carl Eldh",
+    "item": "http://www.wikidata.org/entity/Q1750656",
+    "itemLabel": "Étant donnés",
+    "description": "artwork by Marcel Duchamp",
+    "year": "1966",
+    "creatorLabel": "Marcel Duchamp",
     "sitelinks": "9"
   },
   {
@@ -3080,115 +3128,11 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1341830",
-    "itemLabel": "Monteverde Angel",
-    "description": "sculpture by Giulio Monteverde",
-    "year": "1882",
-    "creatorLabel": "Giulio Monteverde",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4343303",
-    "itemLabel": "Monument to Peter I",
-    "description": "monument by Carlo Bartolomeo Rastrelli in Saint Petersburg, Russia",
-    "year": "1800",
-    "creatorLabel": "Mikhail Ivanovich Kozlovsky",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4343203",
-    "itemLabel": "Monument to Sergei Korolev and Yuri Gagarin",
-    "description": "monument in Taganrog, Russie",
-    "year": "1975",
-    "creatorLabel": "Oleg Konstantinovich Komov",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2918411",
-    "itemLabel": "Love",
-    "description": "pop art image by Robert Indiana",
-    "year": "1970",
-    "creatorLabel": "Robert Indiana",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1111022",
-    "itemLabel": "Little Princess Statue",
-    "description": "sculpture",
-    "year": "1972",
-    "creatorLabel": "László Marton",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3073296",
-    "itemLabel": "Flamingo",
-    "description": "sculpture in Chicago, Illinois, by Alexander Calder",
-    "year": "1973",
-    "creatorLabel": "Alexander Calder",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4422715",
-    "itemLabel": "Sculptural Composition \"The Man in a Case\"",
-    "description": "sculpture in Taganrog, Russia",
-    "year": "2010",
-    "creatorLabel": "David Begalov",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1405527",
     "itemLabel": "B of the Bang",
     "description": "sculpture by Thomas Heatherwick",
     "year": "2005",
     "creatorLabel": "Thomas Heatherwick",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2755218",
-    "itemLabel": "The Goat Amalthea with the Infant Jupiter and a Faun",
-    "description": "sculpture by Gianlorenzo Bernini",
-    "year": "1615",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2480782",
-    "itemLabel": "Memorial to the Dog Dżok",
-    "description": "monument, Kraków in Poland",
-    "year": "2001",
-    "creatorLabel": "Bronisław Chromy",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2883691",
-    "itemLabel": "Baptistery of Saint Louis",
-    "description": "Object of Islamic art",
-    "year": "1320",
-    "creatorLabel": "Muhammad ibn al-Zayn",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3497572",
-    "itemLabel": "Statue of Oliver Cromwell",
-    "description": "statue in Westminster, London, by Hamo Thornycroft",
-    "year": "1899",
-    "creatorLabel": "Hamo Thornycroft",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q261274",
-    "itemLabel": "7000 Oaks",
-    "description": "work of land art by Joseph Beuys",
-    "year": "1982",
-    "creatorLabel": "Joseph Beuys",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20822061",
-    "itemLabel": "Statue of Amy Winehouse",
-    "description": "statue in Camden Town, London",
-    "year": "2014",
-    "creatorLabel": "Scott Eaton",
     "sitelinks": "9"
   },
   {
@@ -3216,67 +3160,27 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q238932",
-    "itemLabel": "James A. Garfield Monument",
-    "description": "statue in Washington, D.C., by John Quincy Adams Ward",
-    "year": "1887",
-    "creatorLabel": "John Quincy Adams Ward",
+    "item": "http://www.wikidata.org/entity/Q1111022",
+    "itemLabel": "Little Princess Statue",
+    "description": "sculpture",
+    "year": "1972",
+    "creatorLabel": "László Marton",
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2454248",
-    "itemLabel": "Young Archer",
-    "description": "sculpture attributed to Michelangelo",
-    "year": "1491",
-    "creatorLabel": "Michelangelo",
+    "item": "http://www.wikidata.org/entity/Q1341830",
+    "itemLabel": "Monteverde Angel",
+    "description": "sculpture by Giulio Monteverde",
+    "year": "1882",
+    "creatorLabel": "Giulio Monteverde",
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3725175",
-    "itemLabel": "Aeneas, Anchises and Ascanius",
-    "description": "sculpture group by Gianlorenzo Bernini",
-    "year": "1618",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5113613",
-    "itemLabel": "Christus",
-    "description": "statue by Bertel Thorvaldsen in Church of Our Lady in Copenhagen",
-    "year": "1838",
-    "creatorLabel": "Bertel Thorvaldsen",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3538709",
-    "itemLabel": "Desert Breath",
-    "description": "Land art near Hurghada, Egypt",
-    "year": "1997",
-    "creatorLabel": "Danae Stratou",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q25060814",
-    "itemLabel": "Monument to Dante",
-    "description": "statue outside Santa Croce, Florence",
-    "year": "1865",
-    "creatorLabel": "Enrico Pazzi",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5240318",
-    "itemLabel": "Floralis Genérica",
-    "description": "sculpture in Buenos Aires",
-    "year": "2002",
-    "creatorLabel": "Eduardo Catalano",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3683526",
-    "itemLabel": "Washington Monument",
-    "description": "artwork by Enrico Causici and Robert Mills in Baltimore, United States",
-    "year": "1815",
-    "creatorLabel": "Enrico Causici",
+    "item": "http://www.wikidata.org/entity/Q1456408",
+    "itemLabel": "Three Soldiers",
+    "description": "Bronze statue of three American servicemen, part of the Vietnam Veterans Memorial",
+    "year": "1984",
+    "creatorLabel": "Frederick Hart",
     "sitelinks": "9"
   },
   {
@@ -3288,27 +3192,19 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4009586",
-    "itemLabel": "Venus Italica",
-    "description": "sculpture by Antonio Canova",
-    "year": "1804",
-    "creatorLabel": "Antonio Canova",
+    "item": "http://www.wikidata.org/entity/Q238932",
+    "itemLabel": "James A. Garfield Monument",
+    "description": "statue in Washington, D.C., by John Quincy Adams Ward",
+    "year": "1887",
+    "creatorLabel": "John Quincy Adams Ward",
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12432989",
-    "itemLabel": "Oscar Wilde's tomb",
-    "description": "tomb of Oscar Wilde",
-    "year": "1914",
-    "creatorLabel": "Jacob Epstein",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7401650",
-    "itemLabel": "Saint Longinus",
-    "description": "sculpture by Gianlorenzo Bernini",
-    "year": "1629",
-    "creatorLabel": "Gian Lorenzo Bernini",
+    "item": "http://www.wikidata.org/entity/Q25060814",
+    "itemLabel": "Monument to Dante",
+    "description": "statue outside Santa Croce, Florence",
+    "year": "1865",
+    "creatorLabel": "Enrico Pazzi",
     "sitelinks": "9"
   },
   {
@@ -3320,11 +3216,51 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18624915",
-    "itemLabel": "Gänseliesel-Brunnen Göttingen",
-    "description": "fountain which was erected in 1901 in front of the mediaeval town hall of Göttingen, Germany",
-    "year": "1901",
-    "creatorLabel": "Friedrich Heinrich Stöckhardt",
+    "item": "http://www.wikidata.org/entity/Q4345843",
+    "itemLabel": "The Branting Monument",
+    "description": "Monument in Stockholm, Sweden",
+    "year": "1952",
+    "creatorLabel": "Carl Eldh",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4422715",
+    "itemLabel": "Sculptural Composition \"The Man in a Case\"",
+    "description": "sculpture in Taganrog, Russia",
+    "year": "2010",
+    "creatorLabel": "David Begalov",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4343203",
+    "itemLabel": "Monument to Sergei Korolev and Yuri Gagarin",
+    "description": "monument in Taganrog, Russie",
+    "year": "1975",
+    "creatorLabel": "Oleg Konstantinovich Komov",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7401650",
+    "itemLabel": "Saint Longinus",
+    "description": "sculpture by Gianlorenzo Bernini",
+    "year": "1629",
+    "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7848306",
+    "itemLabel": "Truth unveiled by Time",
+    "description": "sculpture in the Galleria Borghese, Rome, Italy, by Gian Lorenzo Bernini",
+    "year": "1700",
+    "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4343303",
+    "itemLabel": "Monument to Peter I",
+    "description": "monument by Carlo Bartolomeo Rastrelli in Saint Petersburg, Russia",
+    "year": "1800",
+    "creatorLabel": "Mikhail Ivanovich Kozlovsky",
     "sitelinks": "9"
   },
   {
@@ -3336,6 +3272,150 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2454248",
+    "itemLabel": "Young Archer",
+    "description": "sculpture attributed to Michelangelo",
+    "year": "1491",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2626926",
+    "itemLabel": "Hercules",
+    "description": "statue by Michelangelo",
+    "year": "1492",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3073296",
+    "itemLabel": "Flamingo",
+    "description": "sculpture in Chicago, Illinois, by Alexander Calder",
+    "year": "1973",
+    "creatorLabel": "Alexander Calder",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2480782",
+    "itemLabel": "Memorial to the Dog Dżok",
+    "description": "monument, Kraków in Poland",
+    "year": "2001",
+    "creatorLabel": "Bronisław Chromy",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2918411",
+    "itemLabel": "Love",
+    "description": "pop art image by Robert Indiana",
+    "year": "1970",
+    "creatorLabel": "Robert Indiana",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3725175",
+    "itemLabel": "Aeneas, Anchises and Ascanius",
+    "description": "sculpture group by Gianlorenzo Bernini",
+    "year": "1618",
+    "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2755218",
+    "itemLabel": "The Goat Amalthea with the Infant Jupiter and a Faun",
+    "description": "sculpture by Gianlorenzo Bernini",
+    "year": "1615",
+    "creatorLabel": "Gian Lorenzo Bernini",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3683526",
+    "itemLabel": "Washington Monument",
+    "description": "artwork by Enrico Causici and Robert Mills in Baltimore, United States",
+    "year": "1815",
+    "creatorLabel": "Enrico Causici",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3538709",
+    "itemLabel": "Desert Breath",
+    "description": "Land art near Hurghada, Egypt",
+    "year": "1997",
+    "creatorLabel": "Danae Stratou",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12432989",
+    "itemLabel": "Oscar Wilde's tomb",
+    "description": "tomb of Oscar Wilde",
+    "year": "1914",
+    "creatorLabel": "Jacob Epstein",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2883691",
+    "itemLabel": "Baptistery of Saint Louis",
+    "description": "Object of Islamic art",
+    "year": "1320",
+    "creatorLabel": "Muhammad ibn al-Zayn",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5113613",
+    "itemLabel": "Christus",
+    "description": "statue by Bertel Thorvaldsen in Church of Our Lady in Copenhagen",
+    "year": "1838",
+    "creatorLabel": "Bertel Thorvaldsen",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5240318",
+    "itemLabel": "Floralis Genérica",
+    "description": "sculpture in Buenos Aires",
+    "year": "2002",
+    "creatorLabel": "Eduardo Catalano",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3497572",
+    "itemLabel": "Statue of Oliver Cromwell",
+    "description": "statue in Westminster, London, by Hamo Thornycroft",
+    "year": "1899",
+    "creatorLabel": "Hamo Thornycroft",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3305518",
+    "itemLabel": "Memorial to the Engine Room Heroes of the Titanic",
+    "description": "Monument in England",
+    "year": "1916",
+    "creatorLabel": "William Goscombe John",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16509688",
+    "itemLabel": "Minute man",
+    "description": "sculpture by Daniel Chester French",
+    "year": "1874",
+    "creatorLabel": "Daniel Chester French",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18624915",
+    "itemLabel": "Gänseliesel-Brunnen Göttingen",
+    "description": "fountain which was erected in 1901 in front of the mediaeval town hall of Göttingen, Germany",
+    "year": "1901",
+    "creatorLabel": "Friedrich Heinrich Stöckhardt",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6093292",
+    "itemLabel": "Puppy",
+    "description": "sculpture by Jeff Koons",
+    "year": "1992",
+    "creatorLabel": "Jeff Koons",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q18159623",
     "itemLabel": "Agatha Christie Memorial",
     "description": "memorial in London",
@@ -3344,18 +3424,26 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q60775779",
+    "itemLabel": "Mother of All Asia–Tower of Peace",
+    "description": "statue of the Virgin Mary in Batangas City",
+    "year": "2021",
+    "creatorLabel": "Eduardo Castrillo",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20822061",
+    "itemLabel": "Statue of Amy Winehouse",
+    "description": "statue in Camden Town, London",
+    "year": "2014",
+    "creatorLabel": "Scott Eaton",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q253254",
     "itemLabel": "Ombra della sera",
     "description": "Etruscan bronze sculpture in Volterra, Tuscany, Italy",
     "year": "-400",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q754680",
-    "itemLabel": "Traffic Light tree",
-    "description": "sculpture by Pierre Vivant",
-    "year": "1998",
     "creatorLabel": "",
     "sitelinks": "9"
   },
@@ -3384,50 +3472,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1550994",
-    "itemLabel": "Group of Aphrodite, Pan and Eros",
-    "description": "hellenistic marble statues group, today at the National Archaeological Museum at Athens",
-    "year": "-99",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2153199",
     "itemLabel": "Farnese Diadumenos",
     "description": "1st century sculpture",
     "year": "100",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6555477",
-    "itemLabel": "Lion of Venice",
-    "description": "statue on St. Mark's Square, Venice, Italy",
-    "year": "-300",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6743492",
-    "itemLabel": "Maligawila Buddha statue",
-    "description": "",
-    "year": "600",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7200562",
-    "itemLabel": "Plague Pillar",
-    "description": "sculpture group",
-    "year": "1723",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3003587",
-    "itemLabel": "Cross of the Angels",
-    "description": "early medieval reliquary in Oviedo, Asturias (Spain)",
-    "year": "808",
     "creatorLabel": "",
     "sitelinks": "9"
   },
@@ -3464,6 +3512,14 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4343223",
+    "itemLabel": "Monument to Lenin",
+    "description": "former monument in Kharkiv, Ukraine",
+    "year": "1964",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4680067",
     "itemLabel": "Adam of Macedonia",
     "description": "Neolithic sculpture from Macedonia",
@@ -3480,10 +3536,58 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q6555477",
+    "itemLabel": "Lion of Venice",
+    "description": "statue on St. Mark's Square, Venice, Italy",
+    "year": "-300",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6743492",
+    "itemLabel": "Maligawila Buddha statue",
+    "description": "",
+    "year": "600",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6936099",
+    "itemLabel": "Munich Kouros",
+    "description": "attic statue",
+    "year": "-539",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7200562",
+    "itemLabel": "Plague Pillar",
+    "description": "sculpture group",
+    "year": "1723",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8564279",
+    "itemLabel": "Fontana della Pigna",
+    "description": "ancient Roman sculpture",
+    "year": "100",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q12526909",
     "itemLabel": "Heracles statue",
     "description": "statue in Behistun, Iranian national heritage site",
     "year": "-147",
+    "creatorLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14550946",
+    "itemLabel": "Statue of Sveta Sofia",
+    "description": "historic site in Sofia, Bulgaria",
+    "year": "2000",
     "creatorLabel": "",
     "sitelinks": "9"
   },
@@ -3544,14 +3648,6 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q23356",
-    "itemLabel": "Harbaville Triptych",
-    "description": "Byzantine ivory triptych",
-    "year": "950",
-    "creatorLabel": "",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1774735",
     "itemLabel": "Saint Paul",
     "description": "sculpture by Michelangelo",
@@ -3568,34 +3664,10 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q618530",
-    "itemLabel": "Aphrodite of Syracuse",
-    "description": "Graeco-Roman statue in the National Archaeological Museum Athens",
-    "year": "200",
-    "creatorLabel": "Antonio Canova",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q768337",
     "itemLabel": "Bearded Slave",
     "description": "sculpture by Michelangelo",
     "year": "1519",
-    "creatorLabel": "Michelangelo",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1534095",
-    "itemLabel": "Goethe Monument",
-    "description": "memorial in Berlin",
-    "year": "1880",
-    "creatorLabel": "Fritz Schaper",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2625967",
-    "itemLabel": "Apollo/Cupid",
-    "description": "sculpture by Michelangelo",
-    "year": "1497",
     "creatorLabel": "Michelangelo",
     "sitelinks": "8"
   },
@@ -3608,35 +3680,11 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4683664",
-    "itemLabel": "Admiral David G. Farragut",
-    "description": "artwork by Vinnie Ream",
-    "year": "1881",
-    "creatorLabel": "Vinnie Ream",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4733573",
-    "itemLabel": "Alma Mater",
-    "description": "sculpture by Daniel Chester French",
-    "year": "1904",
-    "creatorLabel": "Daniel Chester French",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1144812",
-    "itemLabel": "Peter I Monument in Taganrog",
-    "description": "Monument in Taganrog sculpted by Mark Antokolski",
-    "year": "1872",
-    "creatorLabel": "Mark Antokolski",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2919779",
-    "itemLabel": "Object",
-    "description": "sculpture by Méret Oppenheim",
-    "year": "1936",
-    "creatorLabel": "Meret Oppenheim",
+    "item": "http://www.wikidata.org/entity/Q775562",
+    "itemLabel": "Saint Peter",
+    "description": "sculpture by Arnolfo di Cambio",
+    "year": "1290",
+    "creatorLabel": "Arnolfo di Cambio",
     "sitelinks": "8"
   },
   {
@@ -3644,15 +3692,7 @@
     "itemLabel": "Liberty Enlightening the World",
     "description": "statue in Paris, France",
     "year": "1889",
-    "creatorLabel": "Thiébaut Frères",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1456408",
-    "itemLabel": "Three Soldiers",
-    "description": "Bronze statue of three American servicemen, part of the Vietnam Veterans Memorial",
-    "year": "1984",
-    "creatorLabel": "Frederick Hart",
+    "creatorLabel": "Frédéric Auguste Bartholdi",
     "sitelinks": "8"
   },
   {
@@ -3664,14 +3704,6 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q775562",
-    "itemLabel": "Saint Peter",
-    "description": "sculpture by Arnolfo di Cambio",
-    "year": "1290",
-    "creatorLabel": "Arnolfo di Cambio",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q678445",
     "itemLabel": "Simsonbrunnen",
     "description": "figure fountain from the 16th century in the Kramgasse of the city of Bern, Switzerland",
@@ -3680,11 +3712,11 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1401615",
-    "itemLabel": "Saint Cecilia",
-    "description": "sculpture by Stefano Maderno",
-    "year": "1600",
-    "creatorLabel": "Stefano Maderno",
+    "item": "http://www.wikidata.org/entity/Q1534095",
+    "itemLabel": "Goethe Monument",
+    "description": "memorial in Berlin",
+    "year": "1880",
+    "creatorLabel": "Fritz Schaper",
     "sitelinks": "8"
   },
   {
@@ -3696,11 +3728,27 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3076195",
-    "itemLabel": "Fontana della Navicella",
-    "description": "Fountain in Rome",
-    "year": "1931",
-    "creatorLabel": "Andrea Sansovino",
+    "item": "http://www.wikidata.org/entity/Q1144812",
+    "itemLabel": "Peter I Monument in Taganrog",
+    "description": "Monument in Taganrog sculpted by Mark Antokolski",
+    "year": "1872",
+    "creatorLabel": "Mark Antokolski",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q649312",
+    "itemLabel": "King Jagiello Monument",
+    "description": "sculpture of King of Poland Władysław Jagiełło by Stanislaw K. Ostrowski",
+    "year": "1939",
+    "creatorLabel": "Stanisław Kazimierz Ostrowski",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1401615",
+    "itemLabel": "Saint Cecilia",
+    "description": "sculpture by Stefano Maderno",
+    "year": "1600",
+    "creatorLabel": "Stefano Maderno",
     "sitelinks": "8"
   },
   {
@@ -3712,147 +3760,11 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16060299",
-    "itemLabel": "Bust of Pope Gregory XV",
-    "description": "sculpture by Gianlorenzo Bernini",
-    "year": "1621",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16509688",
-    "itemLabel": "Minute man",
-    "description": "sculpture by Daniel Chester French",
-    "year": "1874",
-    "creatorLabel": "Daniel Chester French",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3076272",
-    "itemLabel": "fontaine du Fellah",
-    "description": "fountain in Paris, France",
-    "year": "1806",
-    "creatorLabel": "François-Jean Bralle",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3205458",
-    "itemLabel": "The Eternal Springtime",
-    "description": "sculpture by Auguste Rodin",
-    "year": "1884",
-    "creatorLabel": "Auguste Rodin",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3497617",
-    "itemLabel": "equestrian statue of Joan of Arc",
-    "description": "statue by Emmanuel Frémiet in Paris, France",
-    "year": "1874",
-    "creatorLabel": "Emmanuel Frémiet",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3424549",
-    "itemLabel": "Equestrian statue of Frederick V",
-    "description": "sculpture in Amalienborg Square, Copenhagen",
-    "year": "1768",
-    "creatorLabel": "Jacques Saly",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3305518",
-    "itemLabel": "Memorial to the Engine Room Heroes of the Titanic",
-    "description": "Monument in England",
-    "year": "1916",
-    "creatorLabel": "William Goscombe John",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q64699218",
-    "itemLabel": "Statue of David Bowie",
-    "description": "sculpture in Aylesbury, Buckinghamshire, England",
-    "year": "2018",
-    "creatorLabel": "Andrew Sinclair",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q22683776",
-    "itemLabel": "Apennine Colossus",
-    "description": "statue in Tuscany, Italy",
-    "year": "1589",
-    "creatorLabel": "Giambologna",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q103437642",
-    "itemLabel": "Teucer (statue)",
-    "description": "sculpture in Pontevedra (Spain)",
-    "year": "2006",
-    "creatorLabel": "Cándido Pazos",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6093292",
-    "itemLabel": "Puppy",
-    "description": "sculpture by Jeff Koons",
-    "year": "1992",
-    "creatorLabel": "Jeff Koons",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5469415",
-    "itemLabel": "Forever Marilyn",
-    "description": "sculpture by John Seward Johnson II",
-    "year": "2011",
-    "creatorLabel": "John Seward Johnson II",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10144",
-    "itemLabel": "Fontaine Bartholdi",
-    "description": "fountain in Lyon, France",
-    "year": "1889",
-    "creatorLabel": "Frédéric Auguste Bartholdi",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108627711",
-    "itemLabel": "Рождение Нового Человека",
-    "description": "monument in Seville",
-    "year": "1995",
-    "creatorLabel": "Zurab Tsereteli",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3753726",
-    "itemLabel": "Pediments of the Parthenon",
-    "description": "sculpture by Phidias",
-    "year": "-439",
-    "creatorLabel": "Phidias",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3842718",
-    "itemLabel": "Krumlov Madonna",
-    "description": "",
-    "year": "1390",
-    "creatorLabel": "Master of the Krumlov Madonna",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3647650",
-    "itemLabel": "Bust of Cardinal Richelieu",
-    "description": "sculpture by Gian Lorenzo Bernini",
-    "year": "1641",
-    "creatorLabel": "Gian Lorenzo Bernini",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5368987",
-    "itemLabel": "Emancipation Memorial",
-    "description": "artwork by Thomas Ball",
-    "year": "1876",
-    "creatorLabel": "Thomas Ball",
+    "item": "http://www.wikidata.org/entity/Q1980313",
+    "itemLabel": "New Bach monument",
+    "description": "monument in Leipzig",
+    "year": "1908",
+    "creatorLabel": "Carl Seffner",
     "sitelinks": "8"
   },
   {
@@ -3864,27 +3776,19 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17182277",
-    "itemLabel": "Prometheus",
-    "description": "Art Deco sculpture by Paul Manship",
-    "year": "1934",
-    "creatorLabel": "Paul Manship",
+    "item": "http://www.wikidata.org/entity/Q3826930",
+    "itemLabel": "Saint John the Evangelist",
+    "description": "sitting statue by Donatello, Museo dell'Opera del Duomo, Florence",
+    "year": "1500",
+    "creatorLabel": "Donatello",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16850111",
-    "itemLabel": "Jesus the Homeless",
-    "description": "sculpture depicting Jesus as a homeless person",
-    "year": "2013",
-    "creatorLabel": "Timothy P. Schmalz",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17011318",
-    "itemLabel": "Mohandas K. Gandhi",
-    "description": "bronze sculpture at San Francisco",
-    "year": "1988",
-    "creatorLabel": "Stephen Lowe",
+    "item": "http://www.wikidata.org/entity/Q3826972",
+    "itemLabel": "The Sacrifice of Isaac",
+    "description": "sculpture by Donatello, Museo dell'Opera del Duomo",
+    "year": "1500",
+    "creatorLabel": "Donatello",
     "sitelinks": "8"
   },
   {
@@ -3904,11 +3808,27 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6986594",
-    "itemLabel": "Needle Tower",
-    "description": "artwork by Kenneth Snelson, version at Hirshhorn Sculpture Garden",
-    "year": "1968",
-    "creatorLabel": "Kenneth Snelson",
+    "item": "http://www.wikidata.org/entity/Q3933560",
+    "itemLabel": "The Resurrection",
+    "description": "sculpture by Pericle Fazzini",
+    "year": "1970",
+    "creatorLabel": "Pericle Fazzini",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3842718",
+    "itemLabel": "Krumlov Madonna",
+    "description": "",
+    "year": "1390",
+    "creatorLabel": "Master of the Krumlov Madonna",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10144",
+    "itemLabel": "Fontaine Bartholdi",
+    "description": "fountain in Lyon, France",
+    "year": "1889",
+    "creatorLabel": "Frédéric Auguste Bartholdi",
     "sitelinks": "8"
   },
   {
@@ -3920,35 +3840,19 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3968677",
-    "itemLabel": "El Caballito",
-    "description": "equestrian statue of Charles IV of Spain",
-    "year": "1802",
-    "creatorLabel": "Manuel Tolsá",
+    "item": "http://www.wikidata.org/entity/Q7604500",
+    "itemLabel": "Statue of Sherlock Holmes",
+    "description": "statue in London by John Doubleday",
+    "year": "1999",
+    "creatorLabel": "John Doubleday",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15057808",
-    "itemLabel": "Monument to the Republic",
-    "description": "statue at the center of the Place de la République, Paris",
-    "year": "1883",
-    "creatorLabel": "Thiébaut Frères",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15272827",
-    "itemLabel": "Robert Edward Lee sculpture",
-    "description": "former public statue in Charlottesville, Virginia",
-    "year": "1924",
-    "creatorLabel": "Leo Lentelli",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60775779",
-    "itemLabel": "Mother of All Asia–Tower of Peace",
-    "description": "statue of the Virgin Mary in Batangas City",
-    "year": "2021",
-    "creatorLabel": "Eduardo Castrillo",
+    "item": "http://www.wikidata.org/entity/Q4683664",
+    "itemLabel": "Admiral David G. Farragut",
+    "description": "artwork by Vinnie Ream",
+    "year": "1881",
+    "creatorLabel": "Vinnie Ream",
     "sitelinks": "8"
   },
   {
@@ -3960,19 +3864,11 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q60853885",
-    "itemLabel": "Statue of Guan Yu (Jingzhou)",
-    "description": "statue in Jingzhou, People's Republic of China",
-    "year": "2016",
-    "creatorLabel": "Han Meilin",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q62124995",
-    "itemLabel": "Statue of Hachikō",
-    "description": "statue in Shibuya, Tokyo",
-    "year": "1934",
-    "creatorLabel": "Takeshi Andō",
+    "item": "http://www.wikidata.org/entity/Q7772874",
+    "itemLabel": "The Vision of Constantine",
+    "description": "statue by Gian Lorenzo Bernini in St. Peter's Basilica, Vatican City",
+    "year": "1670",
+    "creatorLabel": "Gian Lorenzo Bernini",
     "sitelinks": "8"
   },
   {
@@ -3984,19 +3880,123 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7772874",
-    "itemLabel": "The Vision of Constantine",
-    "description": "statue by Gian Lorenzo Bernini in St. Peter's Basilica, Vatican City",
-    "year": "1670",
+    "item": "http://www.wikidata.org/entity/Q2625967",
+    "itemLabel": "Apollo/Cupid",
+    "description": "sculpture by Michelangelo",
+    "year": "1497",
+    "creatorLabel": "Michelangelo",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7373706",
+    "itemLabel": "Royal Artillery Memorial",
+    "description": "war memorial on Hyde Park Corner, London",
+    "year": "1925",
+    "creatorLabel": "Charles Sargeant Jagger",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7604505",
+    "itemLabel": "Statue of Winston Churchill",
+    "description": "statue in Parliament Square, London",
+    "year": "1973",
+    "creatorLabel": "Ivor Roberts-Jones",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7772129",
+    "itemLabel": "The Veiled Virgin",
+    "description": "sculpture by Giovanni Strazza",
+    "year": "1860",
+    "creatorLabel": "Giovanni Strazza",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7604501",
+    "itemLabel": "Statue of Saladin",
+    "description": "monument of Saladin in Damascus, Syria",
+    "year": "1993",
+    "creatorLabel": "ʿbd al-lh al-sīd",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7744744",
+    "itemLabel": "The Kiss of Death",
+    "description": "sculpture by Jaume Barba in iPoblenou Cemetery (Barcelona)",
+    "year": "1930",
+    "creatorLabel": "Jaume Barba",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2919779",
+    "itemLabel": "Object",
+    "description": "sculpture by Méret Oppenheim",
+    "year": "1936",
+    "creatorLabel": "Meret Oppenheim",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3753726",
+    "itemLabel": "Pediments of the Parthenon",
+    "description": "sculpture by Phidias",
+    "year": "-439",
+    "creatorLabel": "Phidias",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3647650",
+    "itemLabel": "Bust of Cardinal Richelieu",
+    "description": "sculpture by Gian Lorenzo Bernini",
+    "year": "1641",
     "creatorLabel": "Gian Lorenzo Bernini",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7848306",
-    "itemLabel": "Truth",
-    "description": "sculpture in the Galleria Borghese, Rome, Italy, by Gian Lorenzo Bernini",
-    "year": "1700",
-    "creatorLabel": "Gian Lorenzo Bernini",
+    "item": "http://www.wikidata.org/entity/Q3076195",
+    "itemLabel": "Fontana della Navicella",
+    "description": "Fountain in Rome",
+    "year": "1931",
+    "creatorLabel": "Andrea Sansovino",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3076272",
+    "itemLabel": "fontaine du Fellah",
+    "description": "fountain in Paris, France",
+    "year": "1806",
+    "creatorLabel": "François-Jean Bralle",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4733573",
+    "itemLabel": "Alma Mater",
+    "description": "sculpture by Daniel Chester French",
+    "year": "1904",
+    "creatorLabel": "Daniel Chester French",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15057808",
+    "itemLabel": "Monument to the Republic",
+    "description": "statue at the center of the Place de la République, Paris",
+    "year": "1883",
+    "creatorLabel": "Léopold Morice",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3968677",
+    "itemLabel": "El Caballito",
+    "description": "equestrian statue of Charles IV of Spain",
+    "year": "1802",
+    "creatorLabel": "Manuel Tolsá",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22683776",
+    "itemLabel": "Apennine Colossus",
+    "description": "statue in Tuscany, Italy",
+    "year": "1589",
+    "creatorLabel": "Giambologna",
     "sitelinks": "8"
   }
 ]

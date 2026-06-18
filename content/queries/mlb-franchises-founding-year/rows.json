@@ -27,12 +27,18 @@
     "item": "http://www.wikidata.org/entity/Q461595",
     "itemLabel": "Atlanta Braves",
     "year": "1871",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q650816",
     "itemLabel": "Baltimore Orioles",
     "year": "1894",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q692417",
+    "itemLabel": "New York Mets",
+    "year": "1962",
     "sitelinks": "40"
   },
   {
@@ -42,20 +48,26 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q335169",
+    "itemLabel": "Chicago White Sox",
+    "year": "1894",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q650829",
     "itemLabel": "Toronto Blue Jays",
     "year": "1977",
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q692417",
-    "itemLabel": "New York Mets",
-    "year": "1962",
-    "sitelinks": "39"
+    "item": "http://www.wikidata.org/entity/Q466586",
+    "itemLabel": "Seattle Mariners",
+    "year": "1977",
+    "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q335169",
-    "itemLabel": "Chicago White Sox",
+    "item": "http://www.wikidata.org/entity/Q650855",
+    "itemLabel": "Detroit Tigers",
     "year": "1894",
     "sitelinks": "38"
   },
@@ -63,12 +75,6 @@
     "item": "http://www.wikidata.org/entity/Q329816",
     "itemLabel": "Texas Rangers",
     "year": "1961",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q466586",
-    "itemLabel": "Seattle Mariners",
-    "year": "1977",
     "sitelinks": "37"
   },
   {
@@ -84,15 +90,9 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q650840",
-    "itemLabel": "Philadelphia Phillies",
-    "year": "1883",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q650855",
-    "itemLabel": "Detroit Tigers",
-    "year": "1894",
+    "item": "http://www.wikidata.org/entity/Q721134",
+    "itemLabel": "San Diego Padres",
+    "year": "1969",
     "sitelinks": "37"
   },
   {
@@ -102,22 +102,22 @@
     "sitelinks": "37"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q650840",
+    "itemLabel": "Philadelphia Phillies",
+    "year": "1883",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q652879",
     "itemLabel": "Miami Marlins",
     "year": "1993",
-    "sitelinks": "36"
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q653772",
     "itemLabel": "Pittsburgh Pirates",
     "year": "1882",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q721134",
-    "itemLabel": "San Diego Padres",
-    "year": "1969",
-    "sitelinks": "36"
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q826751",
@@ -126,9 +126,21 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q670376",
+    "itemLabel": "Arizona Diamondbacks",
+    "year": "1998",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q825838",
     "itemLabel": "Washington Nationals",
     "year": "1969",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q650865",
+    "itemLabel": "Tampa Bay Rays",
+    "year": "1998",
     "sitelinks": "35"
   },
   {
@@ -138,27 +150,21 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q642553",
-    "itemLabel": "Cleveland Guardians",
-    "year": "1894",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q650865",
-    "itemLabel": "Tampa Bay Rays",
-    "year": "1998",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q670376",
-    "itemLabel": "Arizona Diamondbacks",
-    "year": "1998",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q848117",
     "itemLabel": "Houston Astros",
     "year": "1962",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q744530",
+    "itemLabel": "Kansas City Royals",
+    "year": "1969",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q642553",
+    "itemLabel": "Cleveland Guardians",
+    "year": "1894",
     "sitelinks": "34"
   },
   {
@@ -168,16 +174,10 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q744530",
-    "itemLabel": "Kansas City Royals",
-    "year": "1969",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q848103",
     "itemLabel": "Milwaukee Brewers",
     "year": "1969",
-    "sitelinks": "31"
+    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1148233",

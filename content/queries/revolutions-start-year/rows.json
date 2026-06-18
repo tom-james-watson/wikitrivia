@@ -4,7 +4,7 @@
     "itemLabel": "French Revolution",
     "year": "1789",
     "countryLabel": "France",
-    "sitelinks": "187"
+    "sitelinks": "189"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8690",
@@ -39,7 +39,7 @@
     "itemLabel": "American Revolution",
     "year": "1765",
     "countryLabel": "United States",
-    "sitelinks": "90"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81545",
@@ -53,7 +53,7 @@
     "itemLabel": "Cuban Revolution",
     "year": "1953",
     "countryLabel": "Cuba",
-    "sitelinks": "87"
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q101534",
@@ -65,7 +65,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q180548",
     "itemLabel": "neolithic revolution",
-    "year": "-8000",
+    "year": "-9000",
     "countryLabel": "",
     "sitelinks": "80"
   },
@@ -77,6 +77,13 @@
     "sitelinks": "71"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q214426",
+    "itemLabel": "Mexican Revolution",
+    "year": "1910",
+    "countryLabel": "Mexico",
+    "sitelinks": "68"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q836386",
     "itemLabel": "Orange Revolution",
     "year": "2004",
@@ -84,18 +91,11 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q214426",
-    "itemLabel": "Mexican Revolution",
-    "year": "1910",
-    "countryLabel": "Mexico",
-    "sitelinks": "67"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q190517",
     "itemLabel": "Xinhai Revolution",
     "year": "1911",
     "countryLabel": "China",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q214028",
@@ -123,7 +123,7 @@
     "itemLabel": "Haitian Revolution",
     "year": "1791",
     "countryLabel": "Saint-Domingue",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170306",
@@ -172,7 +172,7 @@
     "itemLabel": "Philippine Revolution",
     "year": "1896",
     "countryLabel": "Philippines",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1332160",
@@ -207,7 +207,7 @@
     "itemLabel": "Tulip Revolution",
     "year": "2005",
     "countryLabel": "Kyrgyzstan",
-    "sitelinks": "38"
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q236023",
@@ -222,6 +222,13 @@
     "year": "1986",
     "countryLabel": "Philippines",
     "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1463516",
+    "itemLabel": "Nicaraguan Revolution",
+    "year": "1961",
+    "countryLabel": "Nicaragua",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1368440",
@@ -242,7 +249,7 @@
     "itemLabel": "Chinese Communist Revolution",
     "year": "1927",
     "countryLabel": "Republic of China",
-    "sitelinks": "29"
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q891367",
@@ -294,13 +301,6 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q14746872",
-    "itemLabel": "Syrian revolution",
-    "year": "2011",
-    "countryLabel": "",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4162685",
     "itemLabel": "Rwandan Revolution",
     "year": "1959",
@@ -312,13 +312,27 @@
     "itemLabel": "Brabant Revolution",
     "year": "1789",
     "countryLabel": "Austrian Netherlands",
-    "sitelinks": "18"
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14746872",
+    "itemLabel": "Syrian revolution",
+    "year": "2011",
+    "countryLabel": "",
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16782534",
     "itemLabel": "Revolution of 1934",
     "year": "1934",
     "countryLabel": "Second Spanish Republic",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16707899",
+    "itemLabel": "Sokoto Revolution",
+    "year": "1804",
+    "countryLabel": "",
     "sitelinks": "15"
   },
   {
@@ -329,11 +343,11 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16707899",
-    "itemLabel": "Sokoto Revolution",
-    "year": "1804",
-    "countryLabel": "",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q3100354",
+    "itemLabel": "Cantonal revolution",
+    "year": "1873",
+    "countryLabel": "First Spanish Republic",
+    "sitelinks": "13"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7318712",
@@ -378,17 +392,17 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16931679",
-    "itemLabel": "Overthrow of the Roman monarchy",
-    "year": "-509",
-    "countryLabel": "Roman Kingdom",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q11703010",
     "itemLabel": "Spanish Revolution of 1854",
     "year": "1854",
     "countryLabel": "Kingdom of Spain",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16931679",
+    "itemLabel": "Overthrow of the Roman monarchy",
+    "year": "-509",
+    "countryLabel": "Roman Kingdom",
     "sitelinks": "11"
   },
   {
@@ -434,6 +448,13 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q123944461",
+    "itemLabel": "Khalji Revolution",
+    "year": "1290",
+    "countryLabel": "Delhi Sultanate",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3727804",
     "itemLabel": "Restorative Liberal Revolution",
     "year": "1899",
@@ -448,17 +469,10 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123944461",
-    "itemLabel": "Khalji Revolution",
-    "year": "1290",
-    "countryLabel": "Delhi Sultanate",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q17028780",
     "itemLabel": "Revolt of Tyre",
     "year": "996",
-    "countryLabel": "",
+    "countryLabel": "Lebanon",
     "sitelinks": "6"
   },
   {
@@ -476,17 +490,17 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19688873",
-    "itemLabel": "Tragic Week",
-    "year": "1920",
-    "countryLabel": "Guatemala",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5163326",
     "itemLabel": "consolidation of the Iranian Revolution",
     "year": "1979",
     "countryLabel": "Iran",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19688873",
+    "itemLabel": "Tragic Week",
+    "year": "1920",
+    "countryLabel": "Guatemala",
     "sitelinks": "5"
   },
   {
@@ -495,6 +509,13 @@
     "year": "1833",
     "countryLabel": "",
     "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6107157",
+    "itemLabel": "1871 Guatemalan Revolution",
+    "year": "1865",
+    "countryLabel": "Guatemala",
+    "sitelinks": "4"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9108414",
@@ -532,13 +553,6 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q20106628",
-    "itemLabel": "Revolution of 1933",
-    "year": "1933",
-    "countryLabel": "Andorra",
-    "sitelinks": "3"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q132861153",
     "itemLabel": "Aftermath of the July Revolution",
     "year": "2024",
@@ -546,9 +560,23 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q20106628",
+    "itemLabel": "Revolution of 1933",
+    "year": "1933",
+    "countryLabel": "Andorra",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4554827",
     "itemLabel": "1851 Chilean Revolution",
     "year": "1851",
+    "countryLabel": "",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7318720",
+    "itemLabel": "Revolution of the Restorers",
+    "year": "1833",
     "countryLabel": "",
     "sitelinks": "3"
   },
@@ -567,10 +595,10 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q134623331",
-    "itemLabel": "Cibaeño Revolution",
-    "year": "1857",
-    "countryLabel": "First Republic (Dominican Republic)",
+    "item": "http://www.wikidata.org/entity/Q124024074",
+    "itemLabel": "1934 Spanish peasants' strike",
+    "year": "1934",
+    "countryLabel": "Second Spanish Republic",
     "sitelinks": "2"
   },
   {
@@ -581,6 +609,13 @@
     "sitelinks": "2"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q134623331",
+    "itemLabel": "Cibaeño Revolution",
+    "year": "1857",
+    "countryLabel": "First Republic (Dominican Republic)",
+    "sitelinks": "2"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q11703023",
     "itemLabel": "Revolution of 1934 in Cantabria",
     "year": "1934",
@@ -588,10 +623,17 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q124024074",
-    "itemLabel": "1934 Spanish peasants' strike",
-    "year": "1934",
-    "countryLabel": "Second Spanish Republic",
+    "item": "http://www.wikidata.org/entity/Q25397027",
+    "itemLabel": "1820 Haitian Revolution",
+    "year": "1820",
+    "countryLabel": "Kingdom of Haiti",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25397029",
+    "itemLabel": "1859 Haitian Revolution",
+    "year": "1858",
+    "countryLabel": "Second Empire of Haiti",
     "sitelinks": "2"
   },
   {
@@ -623,20 +665,6 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q25397027",
-    "itemLabel": "1820 Haitian Revolution",
-    "year": "1820",
-    "countryLabel": "Kingdom of Haiti",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q25397029",
-    "itemLabel": "1859 Haitian Revolution",
-    "year": "1858",
-    "countryLabel": "Second Empire of Haiti",
-    "sitelinks": "2"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1654764",
     "itemLabel": "1849 Baden Revolution",
     "year": "1849",
@@ -647,13 +675,6 @@
     "item": "http://www.wikidata.org/entity/Q5526246",
     "itemLabel": "Garza Revolution",
     "year": "1891",
-    "countryLabel": "",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7318720",
-    "itemLabel": "Revolution of the Restorers",
-    "year": "1833",
     "countryLabel": "",
     "sitelinks": "2"
   },
@@ -679,24 +700,17 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q135012695",
-    "itemLabel": "Progressive and Popular Revolution",
-    "year": "2025",
-    "countryLabel": "Burkina Faso",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104845861",
-    "itemLabel": "Kalimantan Physical Revolution",
-    "year": "1945",
-    "countryLabel": "Indonesia",
-    "sitelinks": "1"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q16625168",
     "itemLabel": "Revolution of the Seven Chiefs",
     "year": "1580",
     "countryLabel": "Argentina",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q135012695",
+    "itemLabel": "Progressive and Popular Revolution",
+    "year": "2025",
+    "countryLabel": "Burkina Faso",
     "sitelinks": "1"
   },
   {
@@ -707,17 +721,17 @@
     "sitelinks": "1"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q104845861",
+    "itemLabel": "Kalimantan Physical Revolution",
+    "year": "1945",
+    "countryLabel": "Indonesia",
+    "sitelinks": "1"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q123925308",
     "itemLabel": "Chechen Revolution",
     "year": "1991",
     "countryLabel": "Soviet Union",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16708757",
-    "itemLabel": "Ukrainian national revolution",
-    "year": "1648",
-    "countryLabel": "Cossack Hetmanate",
     "sitelinks": "1"
   },
   {
@@ -739,6 +753,13 @@
     "itemLabel": "Abd al-Rahman ibn Muhammad ibn al-Ash'ath's revolt",
     "year": "700",
     "countryLabel": "Umayyad Caliphate",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16708757",
+    "itemLabel": "Ukrainian national revolution",
+    "year": "1648",
+    "countryLabel": "Cossack Hetmanate",
     "sitelinks": "1"
   },
   {

@@ -7,7 +7,7 @@
     "year": "1921",
     "awardRationale": "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect",
     "forWorkLabel": "",
-    "sitelinks": "319"
+    "sitelinks": "320"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8023",
@@ -37,7 +37,7 @@
     "year": "1964",
     "awardRationale": "for his non-violent struggle for civil rights for the Afro-American population",
     "forWorkLabel": "",
-    "sitelinks": "244"
+    "sitelinks": "245"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7241",
@@ -47,27 +47,27 @@
     "year": "1913",
     "awardRationale": "because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West",
     "forWorkLabel": "Song Offerings",
-    "sitelinks": "243"
+    "sitelinks": "244"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7186",
-    "itemLabel": "Marie Curie",
+    "itemLabel": "Marie Sklodowska-Curie",
     "award": "http://www.wikidata.org/entity/Q44585",
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "1911",
     "awardRationale": "in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element.",
     "forWorkLabel": "",
-    "sitelinks": "242"
+    "sitelinks": "244"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7186",
-    "itemLabel": "Marie Curie",
+    "itemLabel": "Marie Sklodowska-Curie",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1903",
     "awardRationale": "in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel",
     "forWorkLabel": "",
-    "sitelinks": "242"
+    "sitelinks": "244"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23434",
@@ -77,17 +77,7 @@
     "year": "1954",
     "awardRationale": "for his mastery of the art of narrative, most recently demonstrated in <I>The Old Man and the Sea,</I> and for the influence that he has exerted on contemporary style",
     "forWorkLabel": "",
-    "sitelinks": "206"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5878",
-    "itemLabel": "Gabriel García Márquez",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1982",
-    "awardRationale": "for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts",
-    "forWorkLabel": "",
-    "sitelinks": "206"
+    "sitelinks": "207"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34670",
@@ -100,22 +90,22 @@
     "sitelinks": "205"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q23685",
-    "itemLabel": "Jimmy Carter",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2002",
-    "awardRationale": "for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development",
-    "forWorkLabel": "",
-    "sitelinks": "198"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q30487",
     "itemLabel": "Mikhail Gorbachev",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
     "year": "1990",
     "awardRationale": "for the leading role he played in the radical changes in East-West relations",
+    "forWorkLabel": "",
+    "sitelinks": "200"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23685",
+    "itemLabel": "Jimmy Carter",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2002",
+    "awardRationale": "for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development",
     "forWorkLabel": "",
     "sitelinks": "198"
   },
@@ -137,7 +127,7 @@
     "year": "1964",
     "awardRationale": "for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age",
     "forWorkLabel": "",
-    "sitelinks": "197"
+    "sitelinks": "198"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33866",
@@ -167,7 +157,7 @@
     "year": "1907",
     "awardRationale": "in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author",
     "forWorkLabel": "",
-    "sitelinks": "187"
+    "sitelinks": "188"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19185",
@@ -177,7 +167,7 @@
     "year": "1925",
     "awardRationale": "for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty",
     "forWorkLabel": "",
-    "sitelinks": "185"
+    "sitelinks": "186"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33760",
@@ -187,17 +177,7 @@
     "year": "1950",
     "awardRationale": "in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought",
     "forWorkLabel": "",
-    "sitelinks": "185"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7085",
-    "itemLabel": "Niels Bohr",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1922",
-    "awardRationale": "for his services in the investigation of the structure of atoms and of the radiation emanating from them",
-    "forWorkLabel": "",
-    "sitelinks": "185"
+    "sitelinks": "184"
   },
   {
     "item": "http://www.wikidata.org/entity/Q392",
@@ -211,7 +191,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q9021",
-    "itemLabel": "Max Planck",
+    "itemLabel": "Max Karl Ernst Ludwig Planck",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1918",
@@ -237,7 +217,27 @@
     "year": "1983",
     "awardRationale": "for non-violent struggle for free trade unions and human rights in Poland",
     "forWorkLabel": "",
-    "sitelinks": "173"
+    "sitelinks": "175"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36740",
+    "itemLabel": "Aung San Suu Kyi",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1991",
+    "awardRationale": "for her non-violent struggle for democracy and human rights",
+    "forWorkLabel": "",
+    "sitelinks": "171"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7176",
+    "itemLabel": "Naguib Mahfouz",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1988",
+    "awardRationale": "who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind",
+    "forWorkLabel": "",
+    "sitelinks": "171"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9123",
@@ -250,26 +250,6 @@
     "sitelinks": "171"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q36740",
-    "itemLabel": "Aung San Suu Kyi",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1991",
-    "awardRationale": "for her non-violent struggle for democracy and human rights",
-    "forWorkLabel": "",
-    "sitelinks": "170"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7176",
-    "itemLabel": "Naguib Mahfouz",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1988",
-    "awardRationale": "who, through works rich in nuance - now clear-sightedly realistic, now evocatively ambiguous - has formed an Arabian narrative art that applies to all mankind",
-    "forWorkLabel": "",
-    "sitelinks": "167"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q8753",
     "itemLabel": "Enrico Fermi",
     "award": "http://www.wikidata.org/entity/Q38104",
@@ -277,7 +257,7 @@
     "year": "1938",
     "awardRationale": "for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons",
     "forWorkLabel": "",
-    "sitelinks": "167"
+    "sitelinks": "169"
   },
   {
     "item": "http://www.wikidata.org/entity/Q17293",
@@ -297,7 +277,7 @@
     "year": "1971",
     "awardRationale": "for a poetry that with the action of an elemental force brings alive a continent's destiny and dreams",
     "forWorkLabel": "",
-    "sitelinks": "165"
+    "sitelinks": "166"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37030",
@@ -310,14 +290,14 @@
     "sitelinks": "162"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q25973",
-    "itemLabel": "Hermann Hesse",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1946",
-    "awardRationale": "for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style",
+    "item": "http://www.wikidata.org/entity/Q9130",
+    "itemLabel": "Erwin Schrödinger",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1933",
+    "awardRationale": "for the discovery of new productive forms of atomic theory",
     "forWorkLabel": "",
-    "sitelinks": "160"
+    "sitelinks": "162"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42443",
@@ -327,15 +307,15 @@
     "year": "1921",
     "awardRationale": "in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament",
     "forWorkLabel": "",
-    "sitelinks": "160"
+    "sitelinks": "161"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9130",
-    "itemLabel": "Erwin Schrödinger",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1933",
-    "awardRationale": "for the discovery of new productive forms of atomic theory",
+    "item": "http://www.wikidata.org/entity/Q25973",
+    "itemLabel": "Hermann Hesse",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1946",
+    "awardRationale": "for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style",
     "forWorkLabel": "",
     "sitelinks": "160"
   },
@@ -347,27 +327,7 @@
     "year": "1970",
     "awardRationale": "for the ethical force with which he has pursued the indispensable traditions of Russian literature",
     "forWorkLabel": "",
-    "sitelinks": "157"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35149",
-    "itemLabel": "Wilhelm Röntgen",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1901",
-    "awardRationale": "in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him",
-    "forWorkLabel": "",
-    "sitelinks": "157"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39246",
-    "itemLabel": "Richard Feynman",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1965",
-    "awardRationale": "for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles",
-    "forWorkLabel": "",
-    "sitelinks": "156"
+    "sitelinks": "159"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37767",
@@ -377,7 +337,27 @@
     "year": "1948",
     "awardRationale": "for his outstanding, pioneer contribution to present-day poetry",
     "forWorkLabel": "",
-    "sitelinks": "155"
+    "sitelinks": "159"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35149",
+    "itemLabel": "Wilhelm Conrad Röntgen",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1901",
+    "awardRationale": "in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him",
+    "forWorkLabel": "",
+    "sitelinks": "157"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40213",
+    "itemLabel": "William Butler Yeats",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1923",
+    "awardRationale": "for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation",
+    "forWorkLabel": "",
+    "sitelinks": "154"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44519",
@@ -407,17 +387,7 @@
     "year": "1994",
     "awardRationale": "for their efforts to create peace in the Middle East",
     "forWorkLabel": "",
-    "sitelinks": "152"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q40213",
-    "itemLabel": "William Butler Yeats",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1923",
-    "awardRationale": "for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation",
-    "forWorkLabel": "",
-    "sitelinks": "152"
+    "sitelinks": "153"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39212",
@@ -447,7 +417,47 @@
     "year": "1973",
     "awardRationale": "for jointly having negotiated a cease fire in Vietnam in 1973",
     "forWorkLabel": "",
-    "sitelinks": "143"
+    "sitelinks": "144"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47484",
+    "itemLabel": "André Gide",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1947",
+    "awardRationale": "for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight",
+    "forWorkLabel": "",
+    "sitelinks": "141"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80900",
+    "itemLabel": "Pearl S. Buck",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1938",
+    "awardRationale": "for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces",
+    "forWorkLabel": "",
+    "sitelinks": "141"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47162",
+    "itemLabel": "Romain Rolland",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1915",
+    "awardRationale": "as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings",
+    "forWorkLabel": "",
+    "sitelinks": "140"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37327",
+    "itemLabel": "Samuel Beckett",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1969",
+    "awardRationale": "for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation",
+    "forWorkLabel": "",
+    "sitelinks": "139"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41223",
@@ -460,36 +470,6 @@
     "sitelinks": "139"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47162",
-    "itemLabel": "Romain Rolland",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1915",
-    "awardRationale": "as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings",
-    "forWorkLabel": "",
-    "sitelinks": "139"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47484",
-    "itemLabel": "André Gide",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1947",
-    "awardRationale": "for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight",
-    "forWorkLabel": "",
-    "sitelinks": "139"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37327",
-    "itemLabel": "Samuel Beckett",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1969",
-    "awardRationale": "for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation",
-    "forWorkLabel": "",
-    "sitelinks": "138"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q41502",
     "itemLabel": "Henryk Sienkiewicz",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -497,7 +477,7 @@
     "year": "1905",
     "awardRationale": "because of his outstanding merits as an epic writer",
     "forWorkLabel": "",
-    "sitelinks": "137"
+    "sitelinks": "138"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42156",
@@ -520,16 +500,6 @@
     "sitelinks": "137"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80900",
-    "itemLabel": "Pearl S. Buck",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1938",
-    "awardRationale": "for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces",
-    "forWorkLabel": "",
-    "sitelinks": "137"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q241248",
     "itemLabel": "Orhan Pamuk",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -537,7 +507,17 @@
     "year": "2006",
     "awardRationale": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures",
     "forWorkLabel": "",
-    "sitelinks": "135"
+    "sitelinks": "136"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40904",
+    "itemLabel": "Werner Heisenberg",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1932",
+    "awardRationale": "for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen",
+    "forWorkLabel": "",
+    "sitelinks": "136"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37060",
@@ -550,14 +530,24 @@
     "sitelinks": "135"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40904",
-    "itemLabel": "Werner Heisenberg",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1932",
-    "awardRationale": "for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen",
+    "item": "http://www.wikidata.org/entity/Q1403",
+    "itemLabel": "Luigi Pirandello",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1934",
+    "awardRationale": "for his bold and ingenious revival of dramatic and scenic art",
     "forWorkLabel": "",
-    "sitelinks": "135"
+    "sitelinks": "134"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37064",
+    "itemLabel": "Alexander Fleming",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1945",
+    "awardRationale": "for the discovery of penicillin and its curative effect in various infectious diseases",
+    "forWorkLabel": "",
+    "sitelinks": "134"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40826",
@@ -570,32 +560,12 @@
     "sitelinks": "134"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1403",
-    "itemLabel": "Luigi Pirandello",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1934",
-    "awardRationale": "for his bold and ingenious revival of dramatic and scenic art",
-    "forWorkLabel": "",
-    "sitelinks": "133"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q19673",
     "itemLabel": "Al Gore",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
     "year": "2007",
     "awardRationale": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change",
-    "forWorkLabel": "",
-    "sitelinks": "133"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37064",
-    "itemLabel": "Alexander Fleming",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1945",
-    "awardRationale": "for the discovery of penicillin and its curative effect in various infectious diseases",
     "forWorkLabel": "",
     "sitelinks": "133"
   },
@@ -607,7 +577,7 @@
     "year": "2007",
     "awardRationale": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny",
     "forWorkLabel": "",
-    "sitelinks": "131"
+    "sitelinks": "133"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49747",
@@ -616,6 +586,16 @@
     "awardLabel": "Nobel Prize in Literature",
     "year": "1911",
     "awardRationale": "in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations",
+    "forWorkLabel": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q72334",
+    "itemLabel": "Toni Morrison",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1993",
+    "awardRationale": "who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality",
     "forWorkLabel": "",
     "sitelinks": "131"
   },
@@ -630,12 +610,12 @@
     "sitelinks": "130"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q72334",
-    "itemLabel": "Toni Morrison",
+    "item": "http://www.wikidata.org/entity/Q39803",
+    "itemLabel": "Mario Vargas Llosa",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "1993",
-    "awardRationale": "who in novels characterized by visionary force and poetic import, gives life to an essential aspect of American reality",
+    "year": "2010",
+    "awardRationale": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat",
     "forWorkLabel": "",
     "sitelinks": "130"
   },
@@ -650,22 +630,32 @@
     "sitelinks": "129"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q39803",
-    "itemLabel": "Mario Vargas Llosa",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2010",
-    "awardRationale": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat",
-    "forWorkLabel": "",
-    "sitelinks": "129"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q43179",
     "itemLabel": "Ellen Johnson Sirleaf",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
     "year": "2011",
     "awardRationale": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+    "forWorkLabel": "",
+    "sitelinks": "128"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q234819",
+    "itemLabel": "Alice Munro",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2013",
+    "awardRationale": "master of the contemporary short story",
+    "forWorkLabel": "",
+    "sitelinks": "127"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57410",
+    "itemLabel": "Shimon Peres",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1994",
+    "awardRationale": "for their efforts to create peace in the Middle East",
     "forWorkLabel": "",
     "sitelinks": "127"
   },
@@ -680,26 +670,6 @@
     "sitelinks": "126"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q234819",
-    "itemLabel": "Alice Munro",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2013",
-    "awardRationale": "master of the contemporary short story",
-    "forWorkLabel": "",
-    "sitelinks": "126"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57410",
-    "itemLabel": "Shimon Peres",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1994",
-    "awardRationale": "for their efforts to create peace in the Middle East",
-    "forWorkLabel": "",
-    "sitelinks": "126"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q38049",
     "itemLabel": "Herta Müller",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -707,7 +677,17 @@
     "year": "2009",
     "awardRationale": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed",
     "forWorkLabel": "",
-    "sitelinks": "125"
+    "sitelinks": "126"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47243",
+    "itemLabel": "Elfriede Jelinek",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2004",
+    "awardRationale": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power",
+    "forWorkLabel": "",
+    "sitelinks": "126"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42013",
@@ -740,12 +720,12 @@
     "sitelinks": "125"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47243",
-    "itemLabel": "Elfriede Jelinek",
+    "item": "http://www.wikidata.org/entity/Q47619",
+    "itemLabel": "Nadine Gordimer",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "2004",
-    "awardRationale": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power",
+    "year": "1991",
+    "awardRationale": "who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity",
     "forWorkLabel": "",
     "sitelinks": "125"
   },
@@ -770,6 +750,16 @@
     "sitelinks": "124"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q42596",
+    "itemLabel": "Frédéric Mistral",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1904",
+    "awardRationale": "in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist",
+    "forWorkLabel": "",
+    "sitelinks": "124"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q43736",
     "itemLabel": "Yasunari Kawabata",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -778,6 +768,16 @@
     "awardRationale": "for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind",
     "forWorkLabel": "",
     "sitelinks": "124"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1267",
+    "itemLabel": "Dag Hammarskjöld",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1961",
+    "awardRationale": "for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter",
+    "forWorkLabel": "",
+    "sitelinks": "123"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42247",
@@ -790,18 +790,18 @@
     "sitelinks": "123"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q42596",
-    "itemLabel": "Frédéric Mistral",
+    "item": "http://www.wikidata.org/entity/Q46602",
+    "itemLabel": "Ivan Bunin",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "1904",
-    "awardRationale": "in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist",
+    "year": "1933",
+    "awardRationale": "for the strict artistry with which he has carried on the classical Russian traditions in prose writing",
     "forWorkLabel": "",
     "sitelinks": "123"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47480",
-    "itemLabel": "Paul Dirac",
+    "itemLabel": "Paul Adrien Maurice Dirac",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1933",
@@ -810,22 +810,12 @@
     "sitelinks": "123"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47619",
-    "itemLabel": "Nadine Gordimer",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1991",
-    "awardRationale": "who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity",
-    "forWorkLabel": "",
-    "sitelinks": "123"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1267",
-    "itemLabel": "Dag Hammarskjöld",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1961",
-    "awardRationale": "for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter",
+    "item": "http://www.wikidata.org/entity/Q42985",
+    "itemLabel": "Ivan Pavlov",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1904",
+    "awardRationale": "in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged.",
     "forWorkLabel": "",
     "sitelinks": "122"
   },
@@ -860,22 +850,42 @@
     "sitelinks": "122"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q46602",
-    "itemLabel": "Ivan Bunin",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1933",
-    "awardRationale": "for the strict artistry with which he has carried on the classical Russian traditions in prose writing",
-    "forWorkLabel": "",
-    "sitelinks": "122"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q80871",
     "itemLabel": "Gabriela Mistral",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
     "year": "1945",
     "awardRationale": "for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world",
+    "forWorkLabel": "",
+    "sitelinks": "122"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q862",
+    "itemLabel": "Joseph Brodsky",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1987",
+    "awardRationale": "for an all-embracing authorship, imbued with clarity of thought and poetic intensity",
+    "forWorkLabel": "",
+    "sitelinks": "122"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q274334",
+    "itemLabel": "Svetlana Alexievich",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2015",
+    "awardRationale": "for her polyphonic writings, a monument to suffering and courage in our time",
+    "forWorkLabel": "",
+    "sitelinks": "121"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42552",
+    "itemLabel": "Wisława Szymborska",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1996",
+    "awardRationale": "for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality",
     "forWorkLabel": "",
     "sitelinks": "121"
   },
@@ -888,36 +898,6 @@
     "awardRationale": "for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>",
     "forWorkLabel": "",
     "sitelinks": "121"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q862",
-    "itemLabel": "Joseph Brodsky",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1987",
-    "awardRationale": "for an all-embracing authorship, imbued with clarity of thought and poetic intensity",
-    "forWorkLabel": "",
-    "sitelinks": "121"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q274334",
-    "itemLabel": "Svetlana Alexievich",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2015",
-    "awardRationale": "for her polyphonic writings, a monument to suffering and courage in our time",
-    "forWorkLabel": "",
-    "sitelinks": "120"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q42985",
-    "itemLabel": "Ivan Pavlov",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1904",
-    "awardRationale": "in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged.",
-    "forWorkLabel": "",
-    "sitelinks": "120"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43969",
@@ -936,6 +916,16 @@
     "awardLabel": "Nobel Prize in Literature",
     "year": "1990",
     "awardRationale": "for impassioned writing with wide horizons, characterized by sensuous intelligence and humanistic integrity",
+    "forWorkLabel": "",
+    "sitelinks": "120"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47561",
+    "itemLabel": "Ivo Andrić",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1961",
+    "awardRationale": "for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country",
     "forWorkLabel": "",
     "sitelinks": "120"
   },
@@ -970,14 +960,14 @@
     "sitelinks": "120"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q42552",
-    "itemLabel": "Wisława Szymborska",
+    "item": "http://www.wikidata.org/entity/Q83059",
+    "itemLabel": "Saul Bellow",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "1996",
-    "awardRationale": "for poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality",
+    "year": "1976",
+    "awardRationale": "for the human understanding and subtle analysis of contemporary culture that are combined in his work",
     "forWorkLabel": "",
-    "sitelinks": "119"
+    "sitelinks": "120"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42747",
@@ -991,31 +981,11 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q47285",
-    "itemLabel": "J. J. Thomson",
+    "itemLabel": "Joseph John Thomson",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1906",
     "awardRationale": "in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases",
-    "forWorkLabel": "",
-    "sitelinks": "119"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47561",
-    "itemLabel": "Ivo Andrić",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1961",
-    "awardRationale": "for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country",
-    "forWorkLabel": "",
-    "sitelinks": "119"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83059",
-    "itemLabel": "Saul Bellow",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1976",
-    "awardRationale": "for the human understanding and subtle analysis of contemporary culture that are combined in his work",
     "forWorkLabel": "",
     "sitelinks": "119"
   },
@@ -1026,6 +996,16 @@
     "awardLabel": "Nobel Prize in Literature",
     "year": "1930",
     "awardRationale": "for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters",
+    "forWorkLabel": "",
+    "sitelinks": "118"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43033",
+    "itemLabel": "Desmond Tutu",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1984",
+    "awardRationale": "for his role as a unifying leader figure in the non-violent campaign to resolve the problem of apartheid in  South Africa",
     "forWorkLabel": "",
     "sitelinks": "118"
   },
@@ -1051,7 +1031,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q41688",
-    "itemLabel": "Hendrik Lorentz",
+    "itemLabel": "Hendrik Antoon Lorentz",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1902",
@@ -1060,12 +1040,12 @@
     "sitelinks": "117"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43033",
-    "itemLabel": "Desmond Tutu",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1984",
-    "awardRationale": "for his role as a unifying leader figure in the non-violent campaign to resolve the problem of apartheid in  South Africa",
+    "item": "http://www.wikidata.org/entity/Q43293",
+    "itemLabel": "J. M. Coetzee",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2003",
+    "awardRationale": "who in innumerable guises portrays the surprising involvement of the outsider",
     "forWorkLabel": "",
     "sitelinks": "117"
   },
@@ -1090,12 +1070,12 @@
     "sitelinks": "117"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43293",
-    "itemLabel": "J. M. Coetzee",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2003",
-    "awardRationale": "who in innumerable guises portrays the surprising involvement of the outsider",
+    "item": "http://www.wikidata.org/entity/Q60429",
+    "itemLabel": "Chandrasekhara Venkata Raman",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1930",
+    "awardRationale": "for his work on the scattering of light and for the discovery of the effect named after him",
     "forWorkLabel": "",
     "sitelinks": "116"
   },
@@ -1130,14 +1110,14 @@
     "sitelinks": "114"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q60429",
-    "itemLabel": "Chandrasekhara Venkata Raman",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1930",
-    "awardRationale": "for his work on the scattering of light and for the discovery of the effect named after him",
+    "item": "http://www.wikidata.org/entity/Q41042",
+    "itemLabel": "Harold Pinter",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2005",
+    "awardRationale": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms",
     "forWorkLabel": "",
-    "sitelinks": "114"
+    "sitelinks": "113"
   },
   {
     "item": "http://www.wikidata.org/entity/Q72292",
@@ -1150,12 +1130,22 @@
     "sitelinks": "112"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q41042",
-    "itemLabel": "Harold Pinter",
+    "item": "http://www.wikidata.org/entity/Q131152",
+    "itemLabel": "Shirin Ebadi",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2003",
+    "awardRationale": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children",
+    "forWorkLabel": "",
+    "sitelinks": "112"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41488",
+    "itemLabel": "Wole Soyinka",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "2005",
-    "awardRationale": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms",
+    "year": "1986",
+    "awardRationale": "who in a wide cultural perspective and with poetic overtones fashions the drama of existence",
     "forWorkLabel": "",
     "sitelinks": "112"
   },
@@ -1200,16 +1190,6 @@
     "sitelinks": "112"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q41488",
-    "itemLabel": "Wole Soyinka",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1986",
-    "awardRationale": "who in a wide cultural perspective and with poetic overtones fashions the drama of existence",
-    "forWorkLabel": "",
-    "sitelinks": "111"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q997",
     "itemLabel": "Andrei Sakharov",
     "award": "http://www.wikidata.org/entity/Q35637",
@@ -1217,27 +1197,17 @@
     "year": "1975",
     "awardRationale": "for his struggle for human rights in the Soviet Union, for disarmament and cooperation between all nations",
     "forWorkLabel": "",
-    "sitelinks": "111"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q131152",
-    "itemLabel": "Shirin Ebadi",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2003",
-    "awardRationale": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children",
-    "forWorkLabel": "",
-    "sitelinks": "110"
+    "sitelinks": "112"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41269",
-    "itemLabel": "Henri Becquerel",
+    "itemLabel": "Antoine Henri Becquerel",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1903",
     "awardRationale": "in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity",
     "forWorkLabel": "",
-    "sitelinks": "110"
+    "sitelinks": "111"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44593",
@@ -1247,7 +1217,7 @@
     "year": "2001",
     "awardRationale": "for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories",
     "forWorkLabel": "",
-    "sitelinks": "109"
+    "sitelinks": "110"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7504",
@@ -1300,12 +1270,32 @@
     "sitelinks": "108"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q121180",
+    "itemLabel": "Władysław Reymont",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1924",
+    "awardRationale": "for his great national epic, <I>The Peasants</I>",
+    "forWorkLabel": "The Peasants",
+    "sitelinks": "107"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q12091",
     "itemLabel": "Henry Dunant",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
     "year": "1901",
     "awardRationale": "for his humanitarian efforts to help wounded soldiers and create international understanding.",
+    "forWorkLabel": "",
+    "sitelinks": "107"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18456",
+    "itemLabel": "Bertha von Suttner",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1905",
+    "awardRationale": "for her audacity to oppose the horrors of war.",
     "forWorkLabel": "",
     "sitelinks": "107"
   },
@@ -1320,22 +1310,32 @@
     "sitelinks": "107"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q121180",
-    "itemLabel": "Władysław Reymont",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1924",
-    "awardRationale": "for his great national epic, <I>The Peasants</I>",
-    "forWorkLabel": "The Peasants",
-    "sitelinks": "106"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q127234",
-    "itemLabel": "Albert A. Michelson",
+    "itemLabel": "Albert Abraham Michelson",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1907",
     "awardRationale": "for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid",
+    "forWorkLabel": "",
+    "sitelinks": "106"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18391",
+    "itemLabel": "Elie Wiesel",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1986",
+    "awardRationale": "for being a messenger to mankind: his message is one of peace, atonement and dignity",
+    "forWorkLabel": "",
+    "sitelinks": "106"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80095",
+    "itemLabel": "Kenzaburō Ōe",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1994",
+    "awardRationale": "who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today",
     "forWorkLabel": "",
     "sitelinks": "106"
   },
@@ -1350,22 +1350,42 @@
     "sitelinks": "106"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18391",
-    "itemLabel": "Elie Wiesel",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1986",
-    "awardRationale": "for being a messenger to mankind: his message is one of peace, atonement and dignity",
+    "item": "http://www.wikidata.org/entity/Q130975",
+    "itemLabel": "Robert Andrews Millikan",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1923",
+    "awardRationale": "for his work on the elementary charge of electricity and on the photoelectric effect",
     "forWorkLabel": "",
     "sitelinks": "105"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18456",
-    "itemLabel": "Bertha von Suttner",
+    "item": "http://www.wikidata.org/entity/Q151414",
+    "itemLabel": "George Marshall",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
-    "year": "1905",
-    "awardRationale": "for her audacity to oppose the horrors of war.",
+    "year": "1953",
+    "awardRationale": "for proposing and supervising the plan for the economic recovery of Europe",
+    "forWorkLabel": "",
+    "sitelinks": "105"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42122",
+    "itemLabel": "Tomas Tranströmer",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2011",
+    "awardRationale": "because, through his condensed, translucent images, he gives us fresh access to reality",
+    "forWorkLabel": "",
+    "sitelinks": "105"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65989",
+    "itemLabel": "Wolfgang Pauli",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1945",
+    "awardRationale": "for the discovery of the Exclusion Principle, also called the Pauli Principle",
     "forWorkLabel": "",
     "sitelinks": "105"
   },
@@ -1380,32 +1400,12 @@
     "sitelinks": "105"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80095",
-    "itemLabel": "Kenzaburō Ōe",
+    "item": "http://www.wikidata.org/entity/Q131318",
+    "itemLabel": "Juan Ramón Jiménez",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "1994",
-    "awardRationale": "who with poetic force creates an imagined world, where life and myth condense to form a disconcerting picture of the human predicament today",
-    "forWorkLabel": "",
-    "sitelinks": "105"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q130975",
-    "itemLabel": "Robert A. Millikan",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1923",
-    "awardRationale": "for his work on the elementary charge of electricity and on the photoelectric effect",
-    "forWorkLabel": "",
-    "sitelinks": "104"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151414",
-    "itemLabel": "George Marshall",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1953",
-    "awardRationale": "for proposing and supervising the plan for the economic recovery of Europe",
+    "year": "1956",
+    "awardRationale": "for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity",
     "forWorkLabel": "",
     "sitelinks": "104"
   },
@@ -1430,22 +1430,12 @@
     "sitelinks": "104"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q42122",
-    "itemLabel": "Tomas Tranströmer",
+    "item": "http://www.wikidata.org/entity/Q47755",
+    "itemLabel": "Imre Kertész",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "2011",
-    "awardRationale": "because, through his condensed, translucent images, he gives us fresh access to reality",
-    "forWorkLabel": "",
-    "sitelinks": "104"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q65989",
-    "itemLabel": "Wolfgang Pauli",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1945",
-    "awardRationale": "for the discovery of the Exclusion Principle, also called the Pauli Principle",
+    "year": "2002",
+    "awardRationale": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history",
     "forWorkLabel": "",
     "sitelinks": "104"
   },
@@ -1470,12 +1460,12 @@
     "sitelinks": "103"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47755",
-    "itemLabel": "Imre Kertész",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2002",
-    "awardRationale": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history",
+    "item": "http://www.wikidata.org/entity/Q7487",
+    "itemLabel": "Dorothy Hodgkin",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1964",
+    "awardRationale": "for her determinations by X-ray techniques of the structures of important biochemical substances",
     "forWorkLabel": "",
     "sitelinks": "103"
   },
@@ -1490,16 +1480,6 @@
     "sitelinks": "103"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131318",
-    "itemLabel": "Juan Ramón Jiménez",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1956",
-    "awardRationale": "for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity",
-    "forWorkLabel": "",
-    "sitelinks": "102"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2344210",
     "itemLabel": "Louise Glück",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -1510,22 +1490,22 @@
     "sitelinks": "102"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q29230",
+    "itemLabel": "Martti Ahtisaari",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2008",
+    "awardRationale": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts",
+    "forWorkLabel": "",
+    "sitelinks": "102"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q57311",
     "itemLabel": "Juan Manuel Santos",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
     "year": "2016",
     "awardRationale": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end",
-    "forWorkLabel": "",
-    "sitelinks": "102"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7487",
-    "itemLabel": "Dorothy Hodgkin",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1964",
-    "awardRationale": "for her determinations by X-ray techniques of the structures of important biochemical substances",
     "forWorkLabel": "",
     "sitelinks": "102"
   },
@@ -1560,22 +1540,22 @@
     "sitelinks": "101"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q22007112",
+    "itemLabel": "Nadia Murad",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2018",
+    "awardRationale": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+    "forWorkLabel": "",
+    "sitelinks": "101"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q222944",
     "itemLabel": "Patrick Modiano",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
     "year": "2014",
     "awardRationale": "for the art of memory with which he has evoked the most ungraspable human destinies and",
-    "forWorkLabel": "",
-    "sitelinks": "101"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q29230",
-    "itemLabel": "Martti Ahtisaari",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2008",
-    "awardRationale": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts",
     "forWorkLabel": "",
     "sitelinks": "101"
   },
@@ -1591,7 +1571,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q57100",
-    "itemLabel": "Maria Goeppert Mayer",
+    "itemLabel": "Maria Göppert Mayer",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1963",
@@ -1630,12 +1610,12 @@
     "sitelinks": "100"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22007112",
-    "itemLabel": "Nadia Murad Basee",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
+    "item": "http://www.wikidata.org/entity/Q254032",
+    "itemLabel": "Olga Tokarczuk",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
     "year": "2018",
-    "awardRationale": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+    "awardRationale": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
     "forWorkLabel": "",
     "sitelinks": "100"
   },
@@ -1646,6 +1626,16 @@
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "1901",
     "awardRationale": "in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions",
+    "forWorkLabel": "",
+    "sitelinks": "99"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q133267",
+    "itemLabel": "Lev Landau",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1962",
+    "awardRationale": "for his pioneering theories for condensed matter, especially liquid helium",
     "forWorkLabel": "",
     "sitelinks": "99"
   },
@@ -1670,12 +1660,12 @@
     "sitelinks": "99"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q133267",
-    "itemLabel": "Lev Landau",
+    "item": "http://www.wikidata.org/entity/Q155790",
+    "itemLabel": "Eugene Paul Wigner",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1962",
-    "awardRationale": "for his pioneering theories for condensed matter, especially liquid helium",
+    "year": "1963",
+    "awardRationale": "for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles",
     "forWorkLabel": "",
     "sitelinks": "98"
   },
@@ -1707,6 +1697,46 @@
     "year": "1989",
     "awardRationale": "for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability",
     "forWorkLabel": "",
+    "sitelinks": "97"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q180989",
+    "itemLabel": "Jane Addams",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1931",
+    "awardRationale": "for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind",
+    "forWorkLabel": "",
+    "sitelinks": "97"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5646626",
+    "itemLabel": "Han Kang",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2024",
+    "awardRationale": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life",
+    "forWorkLabel": "",
+    "sitelinks": "97"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q179282",
+    "itemLabel": "Steven Weinberg",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1979",
+    "awardRationale": "for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current",
+    "forWorkLabel": "Weinberg-Salam theory",
+    "sitelinks": "96"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123280",
+    "itemLabel": "Francis Crick",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1962",
+    "awardRationale": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
+    "forWorkLabel": "",
     "sitelinks": "96"
   },
   {
@@ -1730,22 +1760,12 @@
     "sitelinks": "96"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q155790",
-    "itemLabel": "Eugene Wigner",
+    "item": "http://www.wikidata.org/entity/Q192112",
+    "itemLabel": "Peter Higgs",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1963",
-    "awardRationale": "for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles",
-    "forWorkLabel": "",
-    "sitelinks": "96"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q254032",
-    "itemLabel": "Olga Tokarczuk",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2018",
-    "awardRationale": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
+    "year": "2013",
+    "awardRationale": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
     "forWorkLabel": "",
     "sitelinks": "96"
   },
@@ -1771,43 +1791,13 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q57077",
-    "itemLabel": "Ferdinand Braun",
+    "itemLabel": "Karl Ferdinand Braun",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1909",
     "awardRationale": "in recognition of their contributions to the development of wireless telegraphy",
     "forWorkLabel": "",
     "sitelinks": "96"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q179282",
-    "itemLabel": "Steven Weinberg",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1979",
-    "awardRationale": "for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current",
-    "forWorkLabel": "Weinberg-Salam theory",
-    "sitelinks": "95"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q102034",
-    "itemLabel": "Ronald Ross",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1902",
-    "awardRationale": "for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it.",
-    "forWorkLabel": "",
-    "sitelinks": "95"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123280",
-    "itemLabel": "Francis Crick",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1962",
-    "awardRationale": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
-    "forWorkLabel": "",
-    "sitelinks": "95"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129173",
@@ -1830,12 +1820,12 @@
     "sitelinks": "95"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q180989",
-    "itemLabel": "Jane Addams",
+    "item": "http://www.wikidata.org/entity/Q188620",
+    "itemLabel": "Rigoberta Menchú",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
-    "year": "1931",
-    "awardRationale": "for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind",
+    "year": "1992",
+    "awardRationale": "for her struggle for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples",
     "forWorkLabel": "",
     "sitelinks": "95"
   },
@@ -1861,7 +1851,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q83297",
-    "itemLabel": "John Strutt, 3rd Baron Rayleigh",
+    "itemLabel": "John William Strutt",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1904",
@@ -1880,12 +1870,52 @@
     "sitelinks": "95"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q949",
+    "itemLabel": "John Bardeen",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1956",
+    "awardRationale": "for their researches on semiconductors and their discovery of the transistor effect",
+    "forWorkLabel": "",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q949",
+    "itemLabel": "John Bardeen",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1972",
+    "awardRationale": "for their jointly developed theory of superconductivity, usually called the BCS-theory",
+    "forWorkLabel": "",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102034",
+    "itemLabel": "Ronald Ross",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1902",
+    "awardRationale": "for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it.",
+    "forWorkLabel": "",
+    "sitelinks": "94"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q102483",
     "itemLabel": "Jaroslav Seifert",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
     "year": "1984",
     "awardRationale": "for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man",
+    "forWorkLabel": "",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104622",
+    "itemLabel": "Tawakkol Karman",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2011",
+    "awardRationale": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
     "forWorkLabel": "",
     "sitelinks": "94"
   },
@@ -1910,46 +1940,6 @@
     "sitelinks": "94"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5646626",
-    "itemLabel": "Han Kang",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2024",
-    "awardRationale": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life",
-    "forWorkLabel": "",
-    "sitelinks": "94"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q949",
-    "itemLabel": "John Bardeen",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1956",
-    "awardRationale": "for their researches on semiconductors and their discovery of the transistor effect",
-    "forWorkLabel": "",
-    "sitelinks": "94"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q949",
-    "itemLabel": "John Bardeen",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1972",
-    "awardRationale": "for their jointly developed theory of superconductivity, usually called the BCS-theory",
-    "forWorkLabel": "",
-    "sitelinks": "94"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q950726",
-    "itemLabel": "William Ramsay",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1904",
-    "awardRationale": "in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system",
-    "forWorkLabel": "",
-    "sitelinks": "94"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q57075",
     "itemLabel": "Fritz Haber",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -1960,18 +1950,38 @@
     "sitelinks": "93"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104622",
-    "itemLabel": "Tawakkol Karman",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2011",
-    "awardRationale": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+    "item": "http://www.wikidata.org/entity/Q1153825",
+    "itemLabel": "Annie Ernaux",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2022",
+    "awardRationale": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory",
+    "forWorkLabel": "",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150526",
+    "itemLabel": "Santiago Ramón y Cajal",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1906",
+    "awardRationale": "in recognition of their work on the structure of the nervous system",
+    "forWorkLabel": "",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q163415",
+    "itemLabel": "William Bradford Shockley",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1956",
+    "awardRationale": "for their researches on semiconductors and their discovery of the transistor effect",
     "forWorkLabel": "",
     "sitelinks": "93"
   },
   {
     "item": "http://www.wikidata.org/entity/Q169577",
-    "itemLabel": "Ernest Lawrence",
+    "itemLabel": "Ernest Orlando Lawrence",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1939",
@@ -1980,22 +1990,12 @@
     "sitelinks": "93"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q188620",
-    "itemLabel": "Rigoberta Menchú",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1992",
-    "awardRationale": "for her struggle for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples",
-    "forWorkLabel": "",
-    "sitelinks": "93"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192112",
-    "itemLabel": "Peter Higgs",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2013",
-    "awardRationale": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
+    "item": "http://www.wikidata.org/entity/Q44107",
+    "itemLabel": "Peter Handke",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2019",
+    "awardRationale": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
     "forWorkLabel": "",
     "sitelinks": "93"
   },
@@ -2010,6 +2010,16 @@
     "sitelinks": "93"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q78496",
+    "itemLabel": "Konrad Zacharias Lorenz",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1973",
+    "awardRationale": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
+    "forWorkLabel": "",
+    "sitelinks": "93"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q83174",
     "itemLabel": "Eugenio Montale",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -2018,6 +2028,36 @@
     "awardRationale": "for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions",
     "forWorkLabel": "",
     "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q950726",
+    "itemLabel": "William Ramsay",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1904",
+    "awardRationale": "in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system",
+    "forWorkLabel": "",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199654",
+    "itemLabel": "Barbara McClintock",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1983",
+    "awardRationale": "for her discovery of mobile genetic elements",
+    "forWorkLabel": "mobile genetic element",
+    "sitelinks": "92"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107037",
+    "itemLabel": "Leymah Roberta Gbowee",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2011",
+    "awardRationale": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+    "forWorkLabel": "",
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129187",
@@ -2030,74 +2070,44 @@
     "sitelinks": "92"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150526",
-    "itemLabel": "Santiago Ramón y Cajal",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1906",
-    "awardRationale": "in recognition of their work on the structure of the nervous system",
-    "forWorkLabel": "",
-    "sitelinks": "92"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155777",
-    "itemLabel": "Hideki Yukawa",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1949",
-    "awardRationale": "for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces",
-    "forWorkLabel": "",
-    "sitelinks": "92"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q163415",
-    "itemLabel": "William Shockley",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1956",
-    "awardRationale": "for their researches on semiconductors and their discovery of the transistor effect",
-    "forWorkLabel": "",
-    "sitelinks": "92"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q44107",
-    "itemLabel": "Peter Handke",
+    "item": "http://www.wikidata.org/entity/Q132684",
+    "itemLabel": "Saint-John Perse",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "2019",
-    "awardRationale": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
+    "year": "1960",
+    "awardRationale": "for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time",
     "forWorkLabel": "",
     "sitelinks": "92"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q78496",
-    "itemLabel": "Konrad Lorenz",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1973",
-    "awardRationale": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
+    "item": "http://www.wikidata.org/entity/Q148109",
+    "itemLabel": "Subrahmanyan Chandrasekhar",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1983",
+    "awardRationale": "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars",
     "forWorkLabel": "",
     "sitelinks": "92"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q107037",
-    "itemLabel": "Leymah Roberta Gbowee",
+    "item": "http://www.wikidata.org/entity/Q172840",
+    "itemLabel": "Murray Gell-Mann",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1969",
+    "awardRationale": "for his contributions and discoveries concerning the classification of elementary particles and their interactions",
+    "forWorkLabel": "",
+    "sitelinks": "92"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q50365049",
+    "itemLabel": "Abiy Ahmed",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
-    "year": "2011",
-    "awardRationale": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+    "year": "2019",
+    "awardRationale": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
     "forWorkLabel": "",
-    "sitelinks": "91"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1153825",
-    "itemLabel": "Annie Ernaux",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2022",
-    "awardRationale": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory",
-    "forWorkLabel": "",
-    "sitelinks": "91"
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131487",
@@ -2106,6 +2116,16 @@
     "awardLabel": "Nobel Prize in Literature",
     "year": "1917",
     "awardRationale": "for his varied and rich poetry, which is inspired by lofty ideals",
+    "forWorkLabel": "",
+    "sitelinks": "91"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131549",
+    "itemLabel": "Claude Simon",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1985",
+    "awardRationale": "who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition",
     "forWorkLabel": "",
     "sitelinks": "91"
   },
@@ -2120,16 +2140,6 @@
     "sitelinks": "91"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q132684",
-    "itemLabel": "Saint-John Perse",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1960",
-    "awardRationale": "for the soaring flight and the evocative imagery of his poetry which in a visionary fashion reflects the conditions of our time",
-    "forWorkLabel": "",
-    "sitelinks": "91"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q151813",
     "itemLabel": "F. W. de Klerk",
     "award": "http://www.wikidata.org/entity/Q35637",
@@ -2140,12 +2150,12 @@
     "sitelinks": "91"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q172840",
-    "itemLabel": "Murray Gell-Mann",
+    "item": "http://www.wikidata.org/entity/Q172844",
+    "itemLabel": "Pyotr Kapitsa",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1969",
-    "awardRationale": "for his contributions and discoveries concerning the classification of elementary particles and their interactions",
+    "year": "1978",
+    "awardRationale": "for his basic inventions and discoveries in the area of low-temperature physics",
     "forWorkLabel": "",
     "sitelinks": "91"
   },
@@ -2180,6 +2190,16 @@
     "sitelinks": "91"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4967771",
+    "itemLabel": "Narges Mohammadi",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2023",
+    "awardRationale": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
+    "forWorkLabel": "",
+    "sitelinks": "91"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q62891",
     "itemLabel": "Heike Kamerlingh Onnes",
     "award": "http://www.wikidata.org/entity/Q38104",
@@ -2190,22 +2210,12 @@
     "sitelinks": "91"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131549",
-    "itemLabel": "Claude Simon",
+    "item": "http://www.wikidata.org/entity/Q159552",
+    "itemLabel": "Johannes V. Jensen",
     "award": "http://www.wikidata.org/entity/Q37922",
     "awardLabel": "Nobel Prize in Literature",
-    "year": "1985",
-    "awardRationale": "who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition",
-    "forWorkLabel": "",
-    "sitelinks": "90"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q148109",
-    "itemLabel": "Subrahmanyan Chandrasekhar",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1983",
-    "awardRationale": "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars",
+    "year": "1944",
+    "awardRationale": "for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style",
     "forWorkLabel": "",
     "sitelinks": "90"
   },
@@ -2220,16 +2230,6 @@
     "sitelinks": "90"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q172844",
-    "itemLabel": "Pyotr Kapitsa",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1978",
-    "awardRationale": "for his basic inventions and discoveries in the area of low-temperature physics",
-    "forWorkLabel": "",
-    "sitelinks": "90"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q225554",
     "itemLabel": "Henrik Pontoppidan",
     "award": "http://www.wikidata.org/entity/Q37922",
@@ -2240,23 +2240,23 @@
     "sitelinks": "90"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q50365049",
-    "itemLabel": "Abiy Ahmed",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2019",
-    "awardRationale": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
+    "item": "http://www.wikidata.org/entity/Q70554",
+    "itemLabel": "Hermann Emil Fischer",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1902",
+    "awardRationale": "in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses.",
     "forWorkLabel": "",
     "sitelinks": "90"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q199654",
-    "itemLabel": "Barbara McClintock",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1983",
-    "awardRationale": "for her discovery of mobile genetic elements",
-    "forWorkLabel": "mobile genetic element",
+    "item": "http://www.wikidata.org/entity/Q56855591",
+    "itemLabel": "Donna Strickland",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2018",
+    "awardRationale": "for their method of generating high-intensity, ultra-short optical pulses",
+    "forWorkLabel": "chirped pulse amplification",
     "sitelinks": "89"
   },
   {
@@ -2290,12 +2290,12 @@
     "sitelinks": "89"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q159552",
-    "itemLabel": "Johannes V. Jensen",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1944",
-    "awardRationale": "for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style",
+    "item": "http://www.wikidata.org/entity/Q57070",
+    "itemLabel": "Gustav Ludwig Hertz",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1925",
+    "awardRationale": "for their discovery of the laws governing the impact of an electron upon an atom",
     "forWorkLabel": "",
     "sitelinks": "89"
   },
@@ -2310,14 +2310,14 @@
     "sitelinks": "89"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q70554",
-    "itemLabel": "Emil Fischer",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1902",
-    "awardRationale": "in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses.",
+    "item": "http://www.wikidata.org/entity/Q155786",
+    "itemLabel": "Dennis Gabor",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1971",
+    "awardRationale": "for his invention and development of the holographic method",
     "forWorkLabel": "",
-    "sitelinks": "89"
+    "sitelinks": "88"
   },
   {
     "item": "http://www.wikidata.org/entity/Q172254",
@@ -2330,12 +2330,22 @@
     "sitelinks": "88"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4967771",
-    "itemLabel": "Narges Mohammadi",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2023",
-    "awardRationale": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
+    "item": "http://www.wikidata.org/entity/Q204733",
+    "itemLabel": "Gerty Cori",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1947",
+    "awardRationale": "for their discovery of the course of the catalytic conversion of glycogen",
+    "forWorkLabel": "",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q317877",
+    "itemLabel": "Abdulrazak Gurnah",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2021",
+    "awardRationale": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents.",
     "forWorkLabel": "",
     "sitelinks": "88"
   },
@@ -2350,12 +2360,12 @@
     "sitelinks": "88"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q57070",
-    "itemLabel": "Gustav Ludwig Hertz",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1925",
-    "awardRationale": "for their discovery of the laws governing the impact of an electron upon an atom",
+    "item": "http://www.wikidata.org/entity/Q7426",
+    "itemLabel": "Ada Yonath",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "2009",
+    "awardRationale": "for studies of the structure and function of the ribosome",
     "forWorkLabel": "",
     "sitelinks": "88"
   },
@@ -2370,16 +2380,6 @@
     "sitelinks": "87"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q56855591",
-    "itemLabel": "Donna Strickland",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2018",
-    "awardRationale": "for their method of generating high-intensity, ultra-short optical pulses",
-    "forWorkLabel": "chirped pulse amplification",
-    "sitelinks": "87"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q104668",
     "itemLabel": "Vitaly Ginzburg",
     "award": "http://www.wikidata.org/entity/Q38104",
@@ -2390,8 +2390,18 @@
     "sitelinks": "87"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q123026",
+    "itemLabel": "Charles Édouard Guillaume",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1920",
+    "awardRationale": "in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys",
+    "forWorkLabel": "",
+    "sitelinks": "87"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q134085",
-    "itemLabel": "Jean Perrin",
+    "itemLabel": "Jean-Baptiste Perrin",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1926",
@@ -2430,42 +2440,42 @@
     "sitelinks": "87"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q155786",
-    "itemLabel": "Dennis Gabor",
+    "item": "http://www.wikidata.org/entity/Q57092",
+    "itemLabel": "Johannes Stark",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1971",
-    "awardRationale": "for his invention and development of the holographic method",
+    "year": "1919",
+    "awardRationale": "for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields",
     "forWorkLabel": "",
     "sitelinks": "87"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q317877",
-    "itemLabel": "Abdulrazak Gurnah",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2021",
-    "awardRationale": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents.",
+    "item": "http://www.wikidata.org/entity/Q76425",
+    "itemLabel": "Emil von Behring",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1901",
+    "awardRationale": "for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths.",
     "forWorkLabel": "",
     "sitelinks": "87"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7426",
-    "itemLabel": "Ada Yonath",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "2009",
-    "awardRationale": "for studies of the structure and function of the ribosome",
+    "item": "http://www.wikidata.org/entity/Q439564",
+    "itemLabel": "María Corina Machado",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2025",
+    "awardRationale": "for her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy.",
     "forWorkLabel": "",
     "sitelinks": "87"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123026",
-    "itemLabel": "Charles Édouard Guillaume",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1920",
-    "awardRationale": "in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys",
+    "item": "http://www.wikidata.org/entity/Q107402",
+    "itemLabel": "Rosalyn Sussman Yalow",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1977",
+    "awardRationale": "for the development of radioimmunoassays of peptide hormones",
     "forWorkLabel": "",
     "sitelinks": "86"
   },
@@ -2476,6 +2486,16 @@
     "awardLabel": "Nobel Prize in Literature",
     "year": "1974",
     "awardRationale": "for a narrative art, far-seeing in lands and ages, in the service of freedom",
+    "forWorkLabel": "",
+    "sitelinks": "86"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134644",
+    "itemLabel": "Vicente Aleixandre",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "1977",
+    "awardRationale": "for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars",
     "forWorkLabel": "",
     "sitelinks": "86"
   },
@@ -2510,32 +2530,22 @@
     "sitelinks": "86"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q35703",
+    "itemLabel": "Gertrude B. Elion",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1988",
+    "awardRationale": "for their discoveries of important principles for drug treatment",
+    "forWorkLabel": "",
+    "sitelinks": "86"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q57089",
     "itemLabel": "Paul Ehrlich",
     "award": "http://www.wikidata.org/entity/Q80061",
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "1908",
     "awardRationale": "in recognition of their work on immunity",
-    "forWorkLabel": "",
-    "sitelinks": "86"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57092",
-    "itemLabel": "Johannes Stark",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1919",
-    "awardRationale": "for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields",
-    "forWorkLabel": "",
-    "sitelinks": "86"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q76425",
-    "itemLabel": "Emil von Behring",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1901",
-    "awardRationale": "for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths.",
     "forWorkLabel": "",
     "sitelinks": "86"
   },
@@ -2548,16 +2558,6 @@
     "awardRationale": "for his discovery of human blood groups",
     "forWorkLabel": "",
     "sitelinks": "86"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107402",
-    "itemLabel": "Rosalyn Sussman Yalow",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1977",
-    "awardRationale": "for the development of radioimmunoassays of peptide hormones",
-    "forWorkLabel": "",
-    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132723",
@@ -2576,16 +2576,6 @@
     "awardLabel": "Nobel Peace Prize",
     "year": "2005",
     "awardRationale": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way",
-    "forWorkLabel": "",
-    "sitelinks": "85"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134644",
-    "itemLabel": "Vicente Aleixandre",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "1977",
-    "awardRationale": "for a creative poetic writing which illuminates man's condition in the cosmos and in present-day society, at the same time representing the great renewal of the traditions of Spanish poetry between the wars",
     "forWorkLabel": "",
     "sitelinks": "85"
   },
@@ -2610,24 +2600,14 @@
     "sitelinks": "85"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q204733",
-    "itemLabel": "Gerty Cori",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1947",
-    "awardRationale": "for their discovery of the course of the catalytic conversion of glycogen",
+    "item": "http://www.wikidata.org/entity/Q103955",
+    "itemLabel": "Gustav Stresemann",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1926",
+    "awardRationale": "for their crucial role in bringing about the Locarno Treaty",
     "forWorkLabel": "",
-    "sitelinks": "85"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35703",
-    "itemLabel": "Gertrude B. Elion",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1988",
-    "awardRationale": "for their discoveries of important principles for drug treatment",
-    "forWorkLabel": "",
-    "sitelinks": "85"
+    "sitelinks": "84"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132695",
@@ -2641,11 +2621,21 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q160518",
-    "itemLabel": "Gustaf Dalén",
+    "itemLabel": "Nils Gustaf Dalén",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1912",
     "awardRationale": "for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys",
+    "forWorkLabel": "",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q184566",
+    "itemLabel": "Charles Hard Townes",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1964",
+    "awardRationale": "for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle",
     "forWorkLabel": "",
     "sitelinks": "84"
   },
@@ -2670,12 +2660,12 @@
     "sitelinks": "84"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q439564",
-    "itemLabel": "María Corina Machado",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2025",
-    "awardRationale": "for her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy.",
+    "item": "http://www.wikidata.org/entity/Q56068",
+    "itemLabel": "Jennifer Doudna",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "2020",
+    "awardRationale": "for the development of a method for genome editing",
     "forWorkLabel": "",
     "sitelinks": "84"
   },
@@ -2690,18 +2680,18 @@
     "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q103955",
-    "itemLabel": "Gustav Stresemann",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1926",
-    "awardRationale": "for their crucial role in bringing about the Locarno Treaty",
+    "item": "http://www.wikidata.org/entity/Q103844",
+    "itemLabel": "Françoise Barré-Sinoussi.",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "2008",
+    "awardRationale": "for their discovery of human immunodeficiency virus",
     "forWorkLabel": "",
     "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q133222",
-    "itemLabel": "Clinton Davisson",
+    "itemLabel": "Clinton Joseph Davisson",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1937",
@@ -2720,16 +2710,6 @@
     "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q172877",
-    "itemLabel": "Arno Allan Penzias",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1978",
-    "awardRationale": "for their discovery of cosmic microwave background radiation",
-    "forWorkLabel": "",
-    "sitelinks": "82"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q179871",
     "itemLabel": "Eisaku Satō",
     "award": "http://www.wikidata.org/entity/Q35637",
@@ -2737,7 +2717,7 @@
     "year": "1974",
     "awardRationale": "for his contribution to stabilize conditions in the Pacific rim area and for signing the Nuclear Non-Proliferation Treaty",
     "forWorkLabel": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180468",
@@ -2746,6 +2726,36 @@
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "1937",
     "awardRationale": "for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid",
+    "forWorkLabel": "",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q78520",
+    "itemLabel": "Victor Francis Hess",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1936",
+    "awardRationale": "for his discovery of cosmic radiation",
+    "forWorkLabel": "",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171034",
+    "itemLabel": "Robert Wilson",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1978",
+    "awardRationale": "for their discovery of cosmic microwave background radiation",
+    "forWorkLabel": "",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172877",
+    "itemLabel": "Arno Allan Penzias",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1978",
+    "awardRationale": "for their discovery of cosmic microwave background radiation",
     "forWorkLabel": "",
     "sitelinks": "82"
   },
@@ -2760,16 +2770,6 @@
     "sitelinks": "82"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q184566",
-    "itemLabel": "Charles Hard Townes",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1964",
-    "awardRationale": "for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle",
-    "forWorkLabel": "",
-    "sitelinks": "82"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q188128",
     "itemLabel": "Alexei Abrikosov",
     "award": "http://www.wikidata.org/entity/Q38104",
@@ -2780,44 +2780,14 @@
     "sitelinks": "82"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q56068",
-    "itemLabel": "Jennifer Doudna",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "2020",
-    "awardRationale": "for the development of a method for genome editing",
-    "forWorkLabel": "",
-    "sitelinks": "82"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q57125",
-    "itemLabel": "Walther Nernst",
+    "itemLabel": "Walther Hermann Nernst",
     "award": "http://www.wikidata.org/entity/Q44585",
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "1920",
     "awardRationale": "in recognition of his work in thermochemistry",
     "forWorkLabel": "",
     "sitelinks": "82"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q78520",
-    "itemLabel": "Victor Francis Hess",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1936",
-    "awardRationale": "for his discovery of cosmic radiation",
-    "forWorkLabel": "",
-    "sitelinks": "82"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q103844",
-    "itemLabel": "Françoise Barré-Sinoussi.",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "2008",
-    "awardRationale": "for their discovery of human immunodeficiency virus",
-    "forWorkLabel": "",
-    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103854",
@@ -2850,6 +2820,26 @@
     "sitelinks": "81"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q153178",
+    "itemLabel": "Georges Charpak",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1992",
+    "awardRationale": "for his invention and development of particle detectors, in particular the multiwire proportional chamber",
+    "forWorkLabel": "",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154824",
+    "itemLabel": "Norman Borlaug",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1970",
+    "awardRationale": "for having given a well-founded hope - the green revolution",
+    "forWorkLabel": "",
+    "sitelinks": "81"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q157655",
     "itemLabel": "Mairead Maguire",
     "award": "http://www.wikidata.org/entity/Q35637",
@@ -2860,18 +2850,18 @@
     "sitelinks": "81"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q171034",
-    "itemLabel": "Robert Wilson",
+    "item": "http://www.wikidata.org/entity/Q170741",
+    "itemLabel": "Karl Manne Georg Siegbahn",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1978",
-    "awardRationale": "for their discovery of cosmic microwave background radiation",
+    "year": "1924",
+    "awardRationale": "for his discoveries and research in the field of X-ray spectroscopy",
     "forWorkLabel": "",
     "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183631",
-    "itemLabel": "Ernest Walton",
+    "itemLabel": "Ernest Thomas Sinton Walton",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1951",
@@ -2890,32 +2880,32 @@
     "sitelinks": "81"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q215139",
+    "itemLabel": "Emily Greene Balch",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1946",
+    "awardRationale": "for her lifelong work for the cause of peace",
+    "forWorkLabel": "",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150630",
+    "itemLabel": "Camillo Golgi",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1906",
+    "awardRationale": "in recognition of their work on the structure of the nervous system",
+    "forWorkLabel": "",
+    "sitelinks": "80"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q150989",
     "itemLabel": "Frédéric Joliot-Curie",
     "award": "http://www.wikidata.org/entity/Q44585",
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "1935",
     "awardRationale": "in recognition of their synthesis of new radioactive elements",
-    "forWorkLabel": "",
-    "sitelinks": "80"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153178",
-    "itemLabel": "Georges Charpak",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1992",
-    "awardRationale": "for his invention and development of particle detectors, in particular the multiwire proportional chamber",
-    "forWorkLabel": "",
-    "sitelinks": "80"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154824",
-    "itemLabel": "Norman Borlaug",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1970",
-    "awardRationale": "for having given a well-founded hope - the green revolution",
     "forWorkLabel": "",
     "sitelinks": "80"
   },
@@ -2930,12 +2920,32 @@
     "sitelinks": "80"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170741",
-    "itemLabel": "Manne Siegbahn",
+    "item": "http://www.wikidata.org/entity/Q169330",
+    "itemLabel": "Owen Willans Richardson",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1924",
-    "awardRationale": "for his discoveries and research in the field of X-ray spectroscopy",
+    "year": "1928",
+    "awardRationale": "for his work on the thermionic phenomenon and especially for the discovery of the law named after him",
+    "forWorkLabel": "",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17280087",
+    "itemLabel": "Emmanuelle Charpentier",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "2020",
+    "awardRationale": "for the development of a method for genome editing",
+    "forWorkLabel": "",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186481",
+    "itemLabel": "Riccardo Giacconi",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2002",
+    "awardRationale": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources",
     "forWorkLabel": "",
     "sitelinks": "80"
   },
@@ -2950,8 +2960,28 @@
     "sitelinks": "80"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3442375",
+    "itemLabel": "Kailash Satyarthi",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2014",
+    "awardRationale": "for their struggle against the suppression of children and young people and for the right of all children to education",
+    "forWorkLabel": "",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43917",
+    "itemLabel": "Eduard Buchner",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1907",
+    "awardRationale": "for his biochemical researches and his discovery of cell-free fermentation",
+    "forWorkLabel": "",
+    "sitelinks": "80"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q62897",
-    "itemLabel": "John Cockcroft",
+    "itemLabel": "John Douglas Cockcroft",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1951",
@@ -2966,6 +2996,16 @@
     "awardLabel": "Nobel Prize in Physics",
     "year": "1954",
     "awardRationale": "for the coincidence method and his discoveries made therewith",
+    "forWorkLabel": "",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80905",
+    "itemLabel": "Donald Arthur Glaser",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1960",
+    "awardRationale": "for the invention of the bubble chamber",
     "forWorkLabel": "",
     "sitelinks": "80"
   },
@@ -2990,22 +3030,22 @@
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150630",
-    "itemLabel": "Camillo Golgi",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1906",
-    "awardRationale": "in recognition of their work on the structure of the nervous system",
+    "item": "http://www.wikidata.org/entity/Q128604",
+    "itemLabel": "Lester B. Pearson",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1957",
+    "awardRationale": "for his crucial contribution to the deployment of a United Nations Emergency Force in the wake of the Suez Crisis",
     "forWorkLabel": "",
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q169330",
-    "itemLabel": "Owen Willans Richardson",
+    "item": "http://www.wikidata.org/entity/Q155759",
+    "itemLabel": "Igor Yevgenyevich Tamm",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1928",
-    "awardRationale": "for his work on the thermionic phenomenon and especially for the discovery of the law named after him",
+    "year": "1958",
+    "awardRationale": "for the discovery and the interpretation of the Cherenkov effect",
     "forWorkLabel": "",
     "sitelinks": "79"
   },
@@ -3020,12 +3060,12 @@
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17280087",
-    "itemLabel": "Emmanuelle Charpentier",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "2020",
-    "awardRationale": "for the development of a method for genome editing",
+    "item": "http://www.wikidata.org/entity/Q172466",
+    "itemLabel": "Steven Chu",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1997",
+    "awardRationale": "for development of methods to cool and trap atoms with laser light",
     "forWorkLabel": "",
     "sitelinks": "79"
   },
@@ -3060,42 +3100,12 @@
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q186481",
-    "itemLabel": "Riccardo Giacconi",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2002",
-    "awardRationale": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources",
-    "forWorkLabel": "",
-    "sitelinks": "79"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q215139",
-    "itemLabel": "Emily Greene Balch",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1946",
-    "awardRationale": "for her lifelong work for the cause of peace",
-    "forWorkLabel": "",
-    "sitelinks": "79"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3442375",
-    "itemLabel": "Kailash Satyarthi",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2014",
-    "awardRationale": "for their struggle against the suppression of children and young people and for the right of all children to education",
-    "forWorkLabel": "",
-    "sitelinks": "79"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q43917",
-    "itemLabel": "Eduard Buchner",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1907",
-    "awardRationale": "for his biochemical researches and his discovery of cell-free fermentation",
+    "item": "http://www.wikidata.org/entity/Q26322",
+    "itemLabel": "Carol Greider",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "2009",
+    "awardRationale": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
     "forWorkLabel": "",
     "sitelinks": "79"
   },
@@ -3106,16 +3116,6 @@
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "1905",
     "awardRationale": "in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds",
-    "forWorkLabel": "",
-    "sitelinks": "79"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80905",
-    "itemLabel": "Donald Arthur Glaser",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1960",
-    "awardRationale": "for the invention of the bubble chamber",
     "forWorkLabel": "",
     "sitelinks": "79"
   },
@@ -3140,22 +3140,12 @@
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q128604",
-    "itemLabel": "Lester B. Pearson",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1957",
-    "awardRationale": "for his crucial contribution to the deployment of a United Nations Emergency Force in the wake of the Suez Crisis",
-    "forWorkLabel": "",
-    "sitelinks": "78"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q172466",
-    "itemLabel": "Steven Chu",
+    "item": "http://www.wikidata.org/entity/Q153219",
+    "itemLabel": "Albert Fert",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1997",
-    "awardRationale": "for development of methods to cool and trap atoms with laser light",
+    "year": "2007",
+    "awardRationale": "for the discovery of Giant Magnetoresistance",
     "forWorkLabel": "",
     "sitelinks": "78"
   },
@@ -3170,22 +3160,32 @@
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26322",
-    "itemLabel": "Carol Greider",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "2009",
-    "awardRationale": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+    "item": "http://www.wikidata.org/entity/Q40262",
+    "itemLabel": "David Gross",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2004",
+    "awardRationale": "for the discovery of asymptotic freedom in the theory of the strong interaction",
     "forWorkLabel": "",
     "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48973",
-    "itemLabel": "Glenn T. Seaborg",
+    "itemLabel": "Glenn Theodore Seaborg",
     "award": "http://www.wikidata.org/entity/Q44585",
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "1951",
     "awardRationale": "for their discoveries in the chemistry of the transuranium elements",
+    "forWorkLabel": "",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57120",
+    "itemLabel": "Peter Grünberg",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2007",
+    "awardRationale": "for the discovery of Giant Magnetoresistance",
     "forWorkLabel": "",
     "sitelinks": "78"
   },
@@ -3201,7 +3201,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q83552",
-    "itemLabel": "Alexander Prokhorov",
+    "itemLabel": "Alexander Mikhailovich Prokhorov",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1964",
@@ -3236,16 +3236,6 @@
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "2015",
     "awardRationale": "for mechanistic studies of DNA repair",
-    "forWorkLabel": "",
-    "sitelinks": "77"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153219",
-    "itemLabel": "Albert Fert",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2007",
-    "awardRationale": "for the discovery of Giant Magnetoresistance",
     "forWorkLabel": "",
     "sitelinks": "77"
   },
@@ -3310,12 +3300,22 @@
     "sitelinks": "77"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40262",
-    "itemLabel": "David Gross",
+    "item": "http://www.wikidata.org/entity/Q190766",
+    "itemLabel": "Martin Ryle",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2004",
-    "awardRationale": "for the discovery of asymptotic freedom in the theory of the strong interaction",
+    "year": "1974",
+    "awardRationale": "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars",
+    "forWorkLabel": "",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q443868",
+    "itemLabel": "Jon Fosse",
+    "award": "http://www.wikidata.org/entity/Q37922",
+    "awardLabel": "Nobel Prize in Literature",
+    "year": "2023",
+    "awardRationale": "for his innovative plays and prose which give voice to the unsayable",
     "forWorkLabel": "",
     "sitelinks": "77"
   },
@@ -3330,32 +3330,12 @@
     "sitelinks": "77"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q57120",
-    "itemLabel": "Peter Grünberg",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2007",
-    "awardRationale": "for the discovery of Giant Magnetoresistance",
-    "forWorkLabel": "",
-    "sitelinks": "77"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q76797",
-    "itemLabel": "J. Hans D. Jensen",
+    "itemLabel": "Johannes Hans Daniel Jensen",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1963",
     "awardRationale": "for their discoveries concerning nuclear shell structure",
-    "forWorkLabel": "",
-    "sitelinks": "77"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83557",
-    "itemLabel": "Nikolay Basov",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1964",
-    "awardRationale": "for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle",
     "forWorkLabel": "",
     "sitelinks": "77"
   },
@@ -3370,12 +3350,42 @@
     "sitelinks": "76"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q103598",
+    "itemLabel": "Luc Montagnier",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "2008",
+    "awardRationale": "for their discovery of human immunodeficiency virus",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107416",
+    "itemLabel": "Martin Lewis Perl",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1995",
+    "awardRationale": "for the discovery of the tau lepton",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q107462",
     "itemLabel": "Har Gobind Khorana",
     "award": "http://www.wikidata.org/entity/Q80061",
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "1968",
     "awardRationale": "for their interpretation of the genetic code and its function in protein synthesis",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157690",
+    "itemLabel": "Betty Williams",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1976",
+    "awardRationale": "for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland",
     "forWorkLabel": "",
     "sitelinks": "76"
   },
@@ -3400,8 +3410,18 @@
     "sitelinks": "76"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q183270",
+    "itemLabel": "Edward Mills Purcell",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1952",
+    "awardRationale": "for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q184499",
-    "itemLabel": "Patrick Blackett",
+    "itemLabel": "Patrick Maynard Stuart Blackett",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1948",
@@ -3411,7 +3431,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q184563",
-    "itemLabel": "Shin'ichirō Tomonaga",
+    "itemLabel": "Shinichiro Tomonaga",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1965",
@@ -3440,22 +3460,22 @@
     "sitelinks": "76"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q188293",
+    "itemLabel": "Frits Zernike",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1953",
+    "awardRationale": "for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q189488",
     "itemLabel": "Willem Einthoven",
     "award": "http://www.wikidata.org/entity/Q80061",
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "1924",
     "awardRationale": "for his discovery of the mechanism of the electrocardiogram",
-    "forWorkLabel": "",
-    "sitelinks": "76"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q190766",
-    "itemLabel": "Martin Ryle",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1974",
-    "awardRationale": "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars",
     "forWorkLabel": "",
     "sitelinks": "76"
   },
@@ -3480,12 +3500,42 @@
     "sitelinks": "76"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q103598",
-    "itemLabel": "Luc Montagnier",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "2008",
-    "awardRationale": "for their discovery of human immunodeficiency virus",
+    "item": "http://www.wikidata.org/entity/Q6761526",
+    "itemLabel": "Maria Ressa",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "2021",
+    "awardRationale": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace.",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q71023",
+    "itemLabel": "Alfred Kastler",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1966",
+    "awardRationale": "for the discovery and development of optical methods for studying Hertzian resonances in atoms",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83557",
+    "itemLabel": "Nikolay Gennadiyevich Basov",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1964",
+    "awardRationale": "for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle",
+    "forWorkLabel": "",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106624",
+    "itemLabel": "Ahmed Zewail",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1999",
+    "awardRationale": "for his studies of the transition states of chemical reactions using femtosecond spectroscopy",
     "forWorkLabel": "",
     "sitelinks": "75"
   },
@@ -3520,42 +3570,32 @@
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q157690",
-    "itemLabel": "Betty Williams",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1976",
-    "awardRationale": "for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland",
-    "forWorkLabel": "",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q183270",
-    "itemLabel": "Edward Mills Purcell",
+    "item": "http://www.wikidata.org/entity/Q179572",
+    "itemLabel": "George F. Smoot",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1952",
-    "awardRationale": "for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith",
-    "forWorkLabel": "",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q188293",
-    "itemLabel": "Frits Zernike",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1953",
-    "awardRationale": "for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope",
+    "year": "2006",
+    "awardRationale": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
     "forWorkLabel": "",
     "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44286",
-    "itemLabel": "Rudolf Mössbauer",
+    "itemLabel": "Rudolf Ludwig Mössbauer",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1961",
     "awardRationale": "for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name",
+    "forWorkLabel": "",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46120",
+    "itemLabel": "William Alfred Fowler",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1983",
+    "awardRationale": "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe",
     "forWorkLabel": "",
     "sitelinks": "75"
   },
@@ -3570,22 +3610,12 @@
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6761526",
-    "itemLabel": "Maria Ressa",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2021",
-    "awardRationale": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace.",
-    "forWorkLabel": "",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q71023",
-    "itemLabel": "Alfred Kastler",
+    "item": "http://www.wikidata.org/entity/Q71022",
+    "itemLabel": "Ernst Ruska",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1966",
-    "awardRationale": "for the discovery and development of optical methods for studying Hertzian resonances in atoms",
+    "year": "1986",
+    "awardRationale": "for his fundamental work in electron optics, and for the design of the first electron microscope",
     "forWorkLabel": "",
     "sitelinks": "75"
   },
@@ -3610,22 +3640,12 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106624",
-    "itemLabel": "Ahmed Zewail",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1999",
-    "awardRationale": "for his studies of the transition states of chemical reactions using femtosecond spectroscopy",
-    "forWorkLabel": "",
-    "sitelinks": "74"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107416",
-    "itemLabel": "Martin Lewis Perl",
+    "item": "http://www.wikidata.org/entity/Q106949",
+    "itemLabel": "Saul Perlmutter",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1995",
-    "awardRationale": "for the discovery of the tau lepton",
+    "year": "2011",
+    "awardRationale": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
     "forWorkLabel": "",
     "sitelinks": "74"
   },
@@ -3640,12 +3660,12 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q179572",
-    "itemLabel": "George F. Smoot",
+    "item": "http://www.wikidata.org/entity/Q151746",
+    "itemLabel": "François Englert",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2006",
-    "awardRationale": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
+    "year": "2013",
+    "awardRationale": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
     "forWorkLabel": "",
     "sitelinks": "74"
   },
@@ -3660,6 +3680,36 @@
     "sitelinks": "74"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q186465",
+    "itemLabel": "Julian Seymour Schwinger",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1965",
+    "awardRationale": "for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles",
+    "forWorkLabel": "",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186497",
+    "itemLabel": "Willis Eugene Lamb",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1955",
+    "awardRationale": "for his discoveries concerning the fine structure of the hydrogen spectrum",
+    "forWorkLabel": "",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188120",
+    "itemLabel": "Yoichiro Nambu",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2008",
+    "awardRationale": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics",
+    "forWorkLabel": "",
+    "sitelinks": "74"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q189006",
     "itemLabel": "Charles Louis Alphonse Laveran",
     "award": "http://www.wikidata.org/entity/Q80061",
@@ -3670,32 +3720,12 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q443868",
-    "itemLabel": "Jon Fosse",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2023",
-    "awardRationale": "for his innovative plays and prose which give voice to the unsayable",
-    "forWorkLabel": "",
-    "sitelinks": "74"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q46120",
-    "itemLabel": "William Alfred Fowler",
+    "item": "http://www.wikidata.org/entity/Q192703",
+    "itemLabel": "Ilya Mikhailovich Frank",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1983",
-    "awardRationale": "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe",
-    "forWorkLabel": "",
-    "sitelinks": "74"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q71022",
-    "itemLabel": "Ernst Ruska",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1986",
-    "awardRationale": "for his fundamental work in electron optics, and for the design of the first electron microscope",
+    "year": "1958",
+    "awardRationale": "for the discovery and the interpretation of the Cherenkov effect",
     "forWorkLabel": "",
     "sitelinks": "74"
   },
@@ -3740,12 +3770,32 @@
     "sitelinks": "73"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q107450",
+    "itemLabel": "Frank Wilczek",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2004",
+    "awardRationale": "for the discovery of asymptotic freedom in the theory of the strong interaction",
+    "forWorkLabel": "",
+    "sitelinks": "73"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q16389",
     "itemLabel": "Charles K. Kao",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "2009",
     "awardRationale": "for groundbreaking achievements concerning the transmission of light in fibers for optical communication",
+    "forWorkLabel": "",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q179888",
+    "itemLabel": "Aristide Briand",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1926",
+    "awardRationale": "for their crucial role in bringing about the Locarno Treaty",
     "forWorkLabel": "",
     "sitelinks": "73"
   },
@@ -3760,32 +3810,22 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q186465",
-    "itemLabel": "Julian Schwinger",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1965",
-    "awardRationale": "for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles",
+    "item": "http://www.wikidata.org/entity/Q184565",
+    "itemLabel": "Charles G. Dawes",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1925",
+    "awardRationale": "for his crucial role in bringing about the Dawes Plan",
     "forWorkLabel": "",
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q186497",
-    "itemLabel": "Willis Lamb",
+    "item": "http://www.wikidata.org/entity/Q189990",
+    "itemLabel": "Antony Hewish",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1955",
-    "awardRationale": "for his discoveries concerning the fine structure of the hydrogen spectrum",
-    "forWorkLabel": "",
-    "sitelinks": "73"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192703",
-    "itemLabel": "Ilya Frank",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1958",
-    "awardRationale": "for the discovery and the interpretation of the Cherenkov effect",
+    "year": "1974",
+    "awardRationale": "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars",
     "forWorkLabel": "",
     "sitelinks": "73"
   },
@@ -3810,32 +3850,32 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106949",
-    "itemLabel": "Saul Perlmutter",
+    "item": "http://www.wikidata.org/entity/Q104104",
+    "itemLabel": "Andre Geim",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2011",
-    "awardRationale": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
+    "year": "2010",
+    "awardRationale": "for groundbreaking experiments regarding the two-dimensional material graphene",
     "forWorkLabel": "",
     "sitelinks": "72"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q107450",
-    "itemLabel": "Frank Wilczek",
+    "item": "http://www.wikidata.org/entity/Q106494",
+    "itemLabel": "Konstantin Novoselov",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2004",
-    "awardRationale": "for the discovery of asymptotic freedom in the theory of the strong interaction",
+    "year": "2010",
+    "awardRationale": "for groundbreaking experiments regarding the two-dimensional material graphene",
     "forWorkLabel": "",
     "sitelinks": "72"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q151746",
-    "itemLabel": "François Englert",
+    "item": "http://www.wikidata.org/entity/Q123029",
+    "itemLabel": "Heinrich Rohrer",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2013",
-    "awardRationale": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
+    "year": "1986",
+    "awardRationale": "for their design of the scanning tunneling microscope",
     "forWorkLabel": "",
     "sitelinks": "72"
   },
@@ -3850,8 +3890,18 @@
     "sitelinks": "72"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1673706",
+    "itemLabel": "Isamu Akasaki",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2014",
+    "awardRationale": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+    "forWorkLabel": "",
+    "sitelinks": "72"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q178103",
-    "itemLabel": "C. F. Powell",
+    "itemLabel": "Cecil Frank Powell",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
     "year": "1950",
@@ -3860,32 +3910,22 @@
     "sitelinks": "72"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q179888",
-    "itemLabel": "Aristide Briand",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1926",
-    "awardRationale": "for their crucial role in bringing about the Locarno Treaty",
-    "forWorkLabel": "",
-    "sitelinks": "72"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q184565",
-    "itemLabel": "Charles G. Dawes",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1925",
-    "awardRationale": "for his crucial role in bringing about the Dawes Plan",
-    "forWorkLabel": "",
-    "sitelinks": "72"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q189990",
-    "itemLabel": "Antony Hewish",
+    "item": "http://www.wikidata.org/entity/Q190503",
+    "itemLabel": "Arthur Leonard Schawlow",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1974",
-    "awardRationale": "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars",
+    "year": "1981",
+    "awardRationale": "for their contribution to the development of laser spectroscopy",
+    "forWorkLabel": "",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190770",
+    "itemLabel": "Philip W. Anderson",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1977",
+    "awardRationale": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems",
     "forWorkLabel": "",
     "sitelinks": "72"
   },
@@ -3900,12 +3940,52 @@
     "sitelinks": "72"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q493956",
+    "itemLabel": "Andrea M. Ghez",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2020",
+    "awardRationale": "for the discovery of a supermassive compact objectat the centre of our galaxy",
+    "forWorkLabel": "",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61045",
+    "itemLabel": "David J. Wineland",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2012",
+    "awardRationale": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
+    "forWorkLabel": "",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q64188",
+    "itemLabel": "Roy J. Glauber",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2005",
+    "awardRationale": "for his contribution to the quantum theory of optical coherence",
+    "forWorkLabel": "",
+    "sitelinks": "72"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6796222",
     "itemLabel": "May-Britt Moser",
     "award": "http://www.wikidata.org/entity/Q80061",
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "2014",
     "awardRationale": "for their discoveries of cells that constitute a positioning system in the brain",
+    "forWorkLabel": "",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q730065",
+    "itemLabel": "Shuji Nakamura",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2014",
+    "awardRationale": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
     "forWorkLabel": "",
     "sitelinks": "72"
   },
@@ -3920,16 +4000,6 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104104",
-    "itemLabel": "Andre Geim",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2010",
-    "awardRationale": "for groundbreaking experiments regarding the two-dimensional material graphene",
-    "forWorkLabel": "",
-    "sitelinks": "71"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q106399",
     "itemLabel": "John Howard Northrop",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -3940,32 +4010,22 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106494",
-    "itemLabel": "Konstantin Novoselov",
+    "item": "http://www.wikidata.org/entity/Q130113",
+    "itemLabel": "Robert Hofstadter",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2010",
-    "awardRationale": "for groundbreaking experiments regarding the two-dimensional material graphene",
+    "year": "1961",
+    "awardRationale": "for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123029",
-    "itemLabel": "Heinrich Rohrer",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1986",
-    "awardRationale": "for their design of the scanning tunneling microscope",
-    "forWorkLabel": "",
-    "sitelinks": "71"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1673706",
-    "itemLabel": "Isamu Akasaki",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2014",
-    "awardRationale": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+    "item": "http://www.wikidata.org/entity/Q179458",
+    "itemLabel": "Charles Albert Gobat",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1902",
+    "awardRationale": "for his eminently practical administration of the Inter-Parliamentary Union.",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
@@ -3980,12 +4040,12 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q188120",
-    "itemLabel": "Yoichiro Nambu",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2008",
-    "awardRationale": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics",
+    "item": "http://www.wikidata.org/entity/Q184659",
+    "itemLabel": "Maurice Wilkins",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1962",
+    "awardRationale": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
@@ -4000,22 +4060,22 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q190503",
-    "itemLabel": "Arthur Leonard Schawlow",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1981",
-    "awardRationale": "for their contribution to the development of laser spectroscopy",
+    "item": "http://www.wikidata.org/entity/Q19045",
+    "itemLabel": "Mario Molina",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1995",
+    "awardRationale": "for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q190770",
-    "itemLabel": "Philip W. Anderson",
+    "item": "http://www.wikidata.org/entity/Q190697",
+    "itemLabel": "Claude Cohen-Tannoudji",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1977",
-    "awardRationale": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems",
+    "year": "1997",
+    "awardRationale": "for development of methods to cool and trap atoms with laser light",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
@@ -4026,6 +4086,16 @@
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "1911",
     "awardRationale": "for his work on the dioptrics of the eye",
+    "forWorkLabel": "",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192688",
+    "itemLabel": "Ivar Giæver",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1973",
+    "awardRationale": "for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
@@ -4060,16 +4130,6 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q493956",
-    "itemLabel": "Andrea M. Ghez",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2020",
-    "awardRationale": "for the discovery of a supermassive compact objectat the centre of our galaxy",
-    "forWorkLabel": "",
-    "sitelinks": "71"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5327",
     "itemLabel": "Adolf Butenandt",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -4080,22 +4140,12 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q64188",
-    "itemLabel": "Roy J. Glauber",
+    "item": "http://www.wikidata.org/entity/Q71024",
+    "itemLabel": "Klaus von Klitzing",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2005",
-    "awardRationale": "for his contribution to the quantum theory of optical coherence",
-    "forWorkLabel": "",
-    "sitelinks": "71"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q730065",
-    "itemLabel": "Shuji Nakamura",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2014",
-    "awardRationale": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+    "year": "1985",
+    "awardRationale": "for the discovery of the quantized Hall effect",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
@@ -4106,6 +4156,16 @@
     "awardLabel": "Nobel Prize in Physics",
     "year": "1987",
     "awardRationale": "for their important break-through in the discovery of superconductivity in ceramic materials",
+    "forWorkLabel": "",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q88608397",
+    "itemLabel": "Katalin Karikó",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "2023",
+    "awardRationale": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
     "forWorkLabel": "",
     "sitelinks": "71"
   },
@@ -4130,6 +4190,26 @@
     "sitelinks": "70"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q104651",
+    "itemLabel": "John C. Mather",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2006",
+    "awardRationale": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
+    "forWorkLabel": "",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106454",
+    "itemLabel": "Adam Riess",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2011",
+    "awardRationale": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
+    "forWorkLabel": "",
+    "sitelinks": "70"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q107405",
     "itemLabel": "Lars Onsager",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -4140,32 +4220,22 @@
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q130113",
-    "itemLabel": "Robert Hofstadter",
+    "item": "http://www.wikidata.org/entity/Q107423",
+    "itemLabel": "Ben Roy Mottelson",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1961",
-    "awardRationale": "for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons",
+    "year": "1975",
+    "awardRationale": "for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection",
     "forWorkLabel": "",
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q184659",
-    "itemLabel": "Maurice Wilkins",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1962",
-    "awardRationale": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
-    "forWorkLabel": "",
-    "sitelinks": "70"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19045",
-    "itemLabel": "Mario Molina",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1995",
-    "awardRationale": "for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone",
+    "item": "http://www.wikidata.org/entity/Q184571",
+    "itemLabel": "Polykarp Kusch",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1955",
+    "awardRationale": "for his precision determination of the magnetic moment of the electron",
     "forWorkLabel": "",
     "sitelinks": "70"
   },
@@ -4180,42 +4250,42 @@
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q190697",
-    "itemLabel": "Claude Cohen-Tannoudji",
+    "item": "http://www.wikidata.org/entity/Q192718",
+    "itemLabel": "Anthony James Leggett",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1997",
-    "awardRationale": "for development of methods to cool and trap atoms with laser light",
+    "year": "2003",
+    "awardRationale": "for pioneering contributions to the theory of superconductors and superfluids",
     "forWorkLabel": "",
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q192688",
-    "itemLabel": "Ivar Giæver",
+    "item": "http://www.wikidata.org/entity/Q201452",
+    "itemLabel": "Brian Schmidt",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1973",
-    "awardRationale": "for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively",
+    "year": "2011",
+    "awardRationale": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
     "forWorkLabel": "",
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q61045",
-    "itemLabel": "David J. Wineland",
+    "item": "http://www.wikidata.org/entity/Q202149",
+    "itemLabel": "Martinus J. G. Veltman",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2012",
-    "awardRationale": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
+    "year": "1999",
+    "awardRationale": "for elucidating the quantum structure of electroweak interactions in physics",
     "forWorkLabel": "",
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q71024",
-    "itemLabel": "Klaus von Klitzing",
+    "item": "http://www.wikidata.org/entity/Q726394",
+    "itemLabel": "David J. Thouless",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1985",
-    "awardRationale": "for the discovery of the quantized Hall effect",
+    "year": "2016",
+    "awardRationale": "for theoretical discoveries of topological phase transitions and topological phases of matter",
     "forWorkLabel": "",
     "sitelinks": "70"
   },
@@ -4230,22 +4300,32 @@
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104651",
-    "itemLabel": "John C. Mather",
+    "item": "http://www.wikidata.org/entity/Q11443689",
+    "itemLabel": "Hiroshi Amano",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2006",
-    "awardRationale": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
+    "year": "2014",
+    "awardRationale": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
     "forWorkLabel": "",
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q107423",
-    "itemLabel": "Ben Roy Mottelson",
+    "item": "http://www.wikidata.org/entity/Q122298",
+    "itemLabel": "Karl Alexander Müller",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1975",
-    "awardRationale": "for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection",
+    "year": "1987",
+    "awardRationale": "for their important break-through in the discovery of superconductivity in ceramic materials",
+    "forWorkLabel": "",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122368",
+    "itemLabel": "Élie Ducommun",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1902",
+    "awardRationale": "for his untiring and skilful directorship of the Bern Peace Bureau.",
     "forWorkLabel": "",
     "sitelinks": "69"
   },
@@ -4260,22 +4340,32 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q179458",
-    "itemLabel": "Charles Albert Gobat",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1902",
-    "awardRationale": "for his eminently practical administration of the Inter-Parliamentary Union.",
+    "item": "http://www.wikidata.org/entity/Q157224",
+    "itemLabel": "Kary Mullis",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1993",
+    "awardRationale": "for his invention of the polymerase chain reaction (PCR) method",
     "forWorkLabel": "",
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q184571",
-    "itemLabel": "Polykarp Kusch",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1955",
-    "awardRationale": "for his precision determination of the magnetic moment of the electron",
+    "item": "http://www.wikidata.org/entity/Q170342",
+    "itemLabel": "Svante Pääbo",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "2022",
+    "awardRationale": "for his discoveries concerning the genomes of extinct hominins and human evolution",
+    "forWorkLabel": "",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182964",
+    "itemLabel": "Niels Ryberg Finsen",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1903",
+    "awardRationale": "in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science.",
     "forWorkLabel": "",
     "sitelinks": "69"
   },
@@ -4290,12 +4380,12 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q192718",
-    "itemLabel": "Anthony James Leggett",
+    "item": "http://www.wikidata.org/entity/Q192106",
+    "itemLabel": "Burton Richter",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2003",
-    "awardRationale": "for pioneering contributions to the theory of superconductors and superfluids",
+    "year": "1976",
+    "awardRationale": "for their pioneering work in the discovery of a heavy elementary particle of a new kind",
     "forWorkLabel": "",
     "sitelinks": "69"
   },
@@ -4330,6 +4420,16 @@
     "sitelinks": "69"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q233965",
+    "itemLabel": "Charles Nicolle",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1928",
+    "awardRationale": "for his work on typhus",
+    "forWorkLabel": "",
+    "sitelinks": "69"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q234145",
     "itemLabel": "Giulio Natta",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -4360,6 +4460,16 @@
     "sitelinks": "69"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q73058",
+    "itemLabel": "Willard Boyle",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2009",
+    "awardRationale": "for the invention of an imaging semiconductor circuit - the CCD sensor",
+    "forWorkLabel": "",
+    "sitelinks": "69"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q75847",
     "itemLabel": "Harald zur Hausen",
     "award": "http://www.wikidata.org/entity/Q80061",
@@ -4380,32 +4490,12 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q512062",
-    "itemLabel": "László Krasznahorkai",
-    "award": "http://www.wikidata.org/entity/Q37922",
-    "awardLabel": "Nobel Prize in Literature",
-    "year": "2025",
-    "awardRationale": "for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art.",
-    "forWorkLabel": "",
-    "sitelinks": "69"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106454",
-    "itemLabel": "Adam Riess",
+    "item": "http://www.wikidata.org/entity/Q109588",
+    "itemLabel": "Serge Haroche",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "2011",
-    "awardRationale": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11443689",
-    "itemLabel": "Hiroshi Amano",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2014",
-    "awardRationale": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+    "year": "2012",
+    "awardRationale": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
     "forWorkLabel": "",
     "sitelinks": "68"
   },
@@ -4420,52 +4510,22 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q122298",
-    "itemLabel": "Karl Alexander Müller",
+    "item": "http://www.wikidata.org/entity/Q156286",
+    "itemLabel": "Russell Alan Hulse",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1987",
-    "awardRationale": "for their important break-through in the discovery of superconductivity in ceramic materials",
+    "year": "1993",
+    "awardRationale": "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation",
     "forWorkLabel": "",
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q122368",
-    "itemLabel": "Élie Ducommun",
+    "item": "http://www.wikidata.org/entity/Q1823418",
+    "itemLabel": "Dmitri Muratov",
     "award": "http://www.wikidata.org/entity/Q35637",
     "awardLabel": "Nobel Peace Prize",
-    "year": "1902",
-    "awardRationale": "for his untiring and skilful directorship of the Bern Peace Bureau.",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q157224",
-    "itemLabel": "Kary Mullis",
-    "award": "http://www.wikidata.org/entity/Q44585",
-    "awardLabel": "Nobel Prize in Chemistry",
-    "year": "1993",
-    "awardRationale": "for his invention of the polymerase chain reaction (PCR) method",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q170342",
-    "itemLabel": "Svante Pääbo",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "2022",
-    "awardRationale": "for his discoveries concerning the genomes of extinct hominins and human evolution",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q182964",
-    "itemLabel": "Niels Ryberg Finsen",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1903",
-    "awardRationale": "in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science.",
+    "year": "2021",
+    "awardRationale": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace.",
     "forWorkLabel": "",
     "sitelinks": "68"
   },
@@ -4490,22 +4550,12 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q192106",
-    "itemLabel": "Burton Richter",
+    "item": "http://www.wikidata.org/entity/Q193655",
+    "itemLabel": "John Hasbrouck Van Vleck",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1976",
-    "awardRationale": "for their pioneering work in the discovery of a heavy elementary particle of a new kind",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q201452",
-    "itemLabel": "Brian Schmidt",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2011",
-    "awardRationale": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
+    "year": "1977",
+    "awardRationale": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems",
     "forWorkLabel": "",
     "sitelinks": "68"
   },
@@ -4520,6 +4570,36 @@
     "sitelinks": "68"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q323320",
+    "itemLabel": "Kip S. Thorne",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2017",
+    "awardRationale": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+    "forWorkLabel": "",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q708472",
+    "itemLabel": "Arthur Ashkin",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2018",
+    "awardRationale": "for the optical tweezers and their application to biological systems",
+    "forWorkLabel": "",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q71013",
+    "itemLabel": "Theodor W. Hänsch",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2005",
+    "awardRationale": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique",
+    "forWorkLabel": "",
+    "sitelinks": "68"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q71015",
     "itemLabel": "Horst Ludwig Störmer",
     "award": "http://www.wikidata.org/entity/Q38104",
@@ -4530,22 +4610,12 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q726394",
-    "itemLabel": "David J. Thouless",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2016",
-    "awardRationale": "for theoretical discoveries of topological phase transitions and topological phases of matter",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q73058",
-    "itemLabel": "Willard Boyle",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2009",
-    "awardRationale": "for the invention of an imaging semiconductor circuit - the CCD sensor",
+    "item": "http://www.wikidata.org/entity/Q76358",
+    "itemLabel": "Carl von Ossietzky",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1935",
+    "awardRationale": "for his burning love for freedom of thought and expression and his valuable contribution to the cause of peace",
     "forWorkLabel": "",
     "sitelinks": "68"
   },
@@ -4590,16 +4660,6 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q88608397",
-    "itemLabel": "Katalin Karikó",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "2023",
-    "awardRationale": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
-    "forWorkLabel": "",
-    "sitelinks": "68"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q102379",
     "itemLabel": "Paul Berg",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -4640,16 +4700,6 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q109588",
-    "itemLabel": "Serge Haroche",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2012",
-    "awardRationale": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
-    "forWorkLabel": "",
-    "sitelinks": "67"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q110925",
     "itemLabel": "Karl Barry Sharpless",
     "award": "http://www.wikidata.org/entity/Q44585",
@@ -4680,12 +4730,12 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156286",
-    "itemLabel": "Russell Alan Hulse",
+    "item": "http://www.wikidata.org/entity/Q153201",
+    "itemLabel": "John Robert Schrieffer",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1993",
-    "awardRationale": "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation",
+    "year": "1972",
+    "awardRationale": "for their jointly developed theory of superconductivity, usually called the BCS-theory",
     "forWorkLabel": "",
     "sitelinks": "67"
   },
@@ -4696,6 +4746,36 @@
     "awardLabel": "Nobel Prize in Chemistry",
     "year": "2006",
     "awardRationale": "for his studies of the molecular basis of eukaryotic transcription",
+    "forWorkLabel": "",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187224",
+    "itemLabel": "Pierre-Gilles de Gennes",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1991",
+    "awardRationale": "for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers",
+    "forWorkLabel": "",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188999",
+    "itemLabel": "Austen Chamberlain",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1925",
+    "awardRationale": "for his crucial role in bringing about the Locarno Treaty",
+    "forWorkLabel": "",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189485",
+    "itemLabel": "Nevill Francis Mott",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1977",
+    "awardRationale": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems",
     "forWorkLabel": "",
     "sitelinks": "67"
   },
@@ -4720,22 +4800,42 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q193655",
-    "itemLabel": "John Hasbrouck Van Vleck",
+    "item": "http://www.wikidata.org/entity/Q192712",
+    "itemLabel": "Kai Siegbahn",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1977",
-    "awardRationale": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems",
+    "year": "1981",
+    "awardRationale": "for his contribution to the development of high-resolution electron spectroscopy",
     "forWorkLabel": "",
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202149",
-    "itemLabel": "Martinus J. G. Veltman",
+    "item": "http://www.wikidata.org/entity/Q202164",
+    "itemLabel": "Makoto Kobayashi",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1999",
-    "awardRationale": "for elucidating the quantum structure of electroweak interactions in physics",
+    "year": "2008",
+    "awardRationale": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
+    "forWorkLabel": "",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202168",
+    "itemLabel": "Toshihide Maskawa",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2008",
+    "awardRationale": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
+    "forWorkLabel": "",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213500",
+    "itemLabel": "Ralph Bunche",
+    "award": "http://www.wikidata.org/entity/Q35637",
+    "awardLabel": "Nobel Peace Prize",
+    "year": "1950",
+    "awardRationale": "for his work as mediator in Palestine in 1948-1949",
     "forWorkLabel": "",
     "sitelinks": "67"
   },
@@ -4750,16 +4850,6 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q233965",
-    "itemLabel": "Charles Nicolle",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1928",
-    "awardRationale": "for his work on typhus",
-    "forWorkLabel": "",
-    "sitelinks": "67"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q234590",
     "itemLabel": "Christian de Duve",
     "award": "http://www.wikidata.org/entity/Q80061",
@@ -4770,22 +4860,32 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q71013",
-    "itemLabel": "Theodor W. Hänsch",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2005",
-    "awardRationale": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique",
+    "item": "http://www.wikidata.org/entity/Q48990",
+    "itemLabel": "Nikolay Semyonov",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "1956",
+    "awardRationale": "for their researches into the mechanism of chemical reactions",
     "forWorkLabel": "",
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q76358",
-    "itemLabel": "Carl von Ossietzky",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1935",
-    "awardRationale": "for his burning love for freedom of thought and expression and his valuable contribution to the cause of peace",
+    "item": "http://www.wikidata.org/entity/Q57227",
+    "itemLabel": "Wolfgang Paul",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1989",
+    "awardRationale": "for the development of the ion trap technique",
+    "forWorkLabel": "",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7442",
+    "itemLabel": "Carolyn Bertozzi",
+    "award": "http://www.wikidata.org/entity/Q44585",
+    "awardLabel": "Nobel Prize in Chemistry",
+    "year": "2022",
+    "awardRationale": "for the development of click chemistry and bioorthogonal chemistry",
     "forWorkLabel": "",
     "sitelinks": "67"
   },
@@ -4810,12 +4910,42 @@
     "sitelinks": "66"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1002250",
+    "itemLabel": "Duncan Haldane",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "2016",
+    "awardRationale": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+    "forWorkLabel": "",
+    "sitelinks": "66"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q104607",
     "itemLabel": "Andrew Huxley",
     "award": "http://www.wikidata.org/entity/Q80061",
     "awardLabel": "Nobel Prize in Physiology or Medicine",
     "year": "1963",
     "awardRationale": "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane",
+    "forWorkLabel": "",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105830",
+    "itemLabel": "Baruch Samuel Blumberg",
+    "award": "http://www.wikidata.org/entity/Q80061",
+    "awardLabel": "Nobel Prize in Physiology or Medicine",
+    "year": "1976",
+    "awardRationale": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
+    "forWorkLabel": "",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107419",
+    "itemLabel": "Norman Foster Ramsey",
+    "award": "http://www.wikidata.org/entity/Q38104",
+    "awardLabel": "Nobel Prize in Physics",
+    "year": "1989",
+    "awardRationale": "for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks",
     "forWorkLabel": "",
     "sitelinks": "66"
   },
@@ -4840,16 +4970,6 @@
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q153201",
-    "itemLabel": "John Robert Schrieffer",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1972",
-    "awardRationale": "for their jointly developed theory of superconductivity, usually called the BCS-theory",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q155375",
     "itemLabel": "Archibald Hill",
     "award": "http://www.wikidata.org/entity/Q80061",
@@ -4870,132 +4990,12 @@
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1823418",
-    "itemLabel": "Dmitri Muratov",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "2021",
-    "awardRationale": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace.",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q187224",
-    "itemLabel": "Pierre-Gilles de Gennes",
+    "item": "http://www.wikidata.org/entity/Q1700920",
+    "itemLabel": "J. Michael Kosterlitz",
     "award": "http://www.wikidata.org/entity/Q38104",
     "awardLabel": "Nobel Prize in Physics",
-    "year": "1991",
-    "awardRationale": "for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q188999",
-    "itemLabel": "Austen Chamberlain",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1925",
-    "awardRationale": "for his crucial role in bringing about the Locarno Treaty",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q189485",
-    "itemLabel": "Nevill Francis Mott",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1977",
-    "awardRationale": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192708",
-    "itemLabel": "Robert Coleman Richardson",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1996",
-    "awardRationale": "for their discovery of superfluidity in helium-3",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192712",
-    "itemLabel": "Kai Siegbahn",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1981",
-    "awardRationale": "for his contribution to the development of high-resolution electron spectroscopy",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q193496",
-    "itemLabel": "James Cronin",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1980",
-    "awardRationale": "for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q201470",
-    "itemLabel": "Richard E. Taylor",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "1990",
-    "awardRationale": "for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q202136",
-    "itemLabel": "Barry Marshall",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "2005",
-    "awardRationale": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q202164",
-    "itemLabel": "Makoto Kobayashi",
-    "award": "http://www.wikidata.org/entity/Q38104",
-    "awardLabel": "Nobel Prize in Physics",
-    "year": "2008",
-    "awardRationale": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q213500",
-    "itemLabel": "Ralph Bunche",
-    "award": "http://www.wikidata.org/entity/Q35637",
-    "awardLabel": "Nobel Peace Prize",
-    "year": "1950",
-    "awardRationale": "for his work as mediator in Palestine in 1948-1949",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q232024",
-    "itemLabel": "John James Rickard Macleod",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1923",
-    "awardRationale": "for the discovery of insulin",
-    "forWorkLabel": "",
-    "sitelinks": "66"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q233976",
-    "itemLabel": "Frederick Hopkins",
-    "award": "http://www.wikidata.org/entity/Q80061",
-    "awardLabel": "Nobel Prize in Physiology or Medicine",
-    "year": "1929",
-    "awardRationale": "for his discovery of the growth-stimulating vitamins.",
+    "year": "2016",
+    "awardRationale": "for theoretical discoveries of topological phase transitions and topological phases of matter",
     "forWorkLabel": "",
     "sitelinks": "66"
   }

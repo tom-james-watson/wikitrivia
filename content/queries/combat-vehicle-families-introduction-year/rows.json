@@ -4,16 +4,8 @@
     "itemLabel": "T-34",
     "description": "Soviet medium tank",
     "year": "1940",
-    "manufacturerLabel": "Malyshev Factory",
+    "manufacturerLabel": "Krasnoye Sormovo Factory No. 112",
     "sitelinks": "71"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q173684",
-    "itemLabel": "M1 Abrams",
-    "description": "main battle tank family",
-    "year": "1980",
-    "manufacturerLabel": "Joint Systems Manufacturing Center",
-    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155658",
@@ -24,11 +16,19 @@
     "sitelinks": "63"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q173684",
+    "itemLabel": "M1 Abrams",
+    "description": "main battle tank family",
+    "year": "1980",
+    "manufacturerLabel": "Joint Systems Manufacturing Center",
+    "sitelinks": "63"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q151968",
     "itemLabel": "Leopard 2",
     "description": "German main battle tank",
     "year": "1979",
-    "manufacturerLabel": "KNDS Deutschland",
+    "manufacturerLabel": "Maschinenbau Kiel",
     "sitelinks": "60"
   },
   {
@@ -64,19 +64,19 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q151960",
-    "itemLabel": "Panther",
-    "description": "German medium tank",
-    "year": "1943",
-    "manufacturerLabel": "MAN SE",
-    "sitelinks": "52"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q12186",
     "itemLabel": "Panzer IV",
     "description": "German WWII medium tank",
     "year": "1939",
     "manufacturerLabel": "Friedrich Krupp AG",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151960",
+    "itemLabel": "Panther",
+    "description": "German medium tank",
+    "year": "1943",
+    "manufacturerLabel": "MAN SE",
     "sitelinks": "52"
   },
   {
@@ -132,7 +132,7 @@
     "itemLabel": "Panzer III",
     "description": "German medium tank",
     "year": "1939",
-    "manufacturerLabel": "MAN SE",
+    "manufacturerLabel": "Friedrich Krupp AG",
     "sitelinks": "44"
   },
   {
@@ -152,11 +152,19 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q160357",
+    "itemLabel": "BMP-2",
+    "description": "Soviet infantry fighting vehicle series",
+    "year": "1980",
+    "manufacturerLabel": "Kurganmashzavod",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q462407",
     "itemLabel": "M113",
     "description": "US armored personnel carrier",
     "year": "1960",
-    "manufacturerLabel": "General Motors",
+    "manufacturerLabel": "Firestone Tire and Rubber Company",
     "sitelinks": "41"
   },
   {
@@ -166,22 +174,6 @@
     "year": "1946",
     "manufacturerLabel": "Vickers",
     "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q160357",
-    "itemLabel": "BMP-2",
-    "description": "Soviet infantry fighting vehicle series",
-    "year": "1980",
-    "manufacturerLabel": "Kurganmashzavod",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q160327",
-    "itemLabel": "M48 Patton",
-    "description": "main battle tank family",
-    "year": "1953",
-    "manufacturerLabel": "Stellantis North America",
-    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q796368",
@@ -200,6 +192,14 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q160327",
+    "itemLabel": "M48 Patton",
+    "description": "main battle tank family",
+    "year": "1953",
+    "manufacturerLabel": "Stellantis North America",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q152921",
     "itemLabel": "LT-35",
     "description": "1935 Czechoslovakian light tank series",
@@ -212,8 +212,8 @@
     "itemLabel": "Sturmgeschütz III",
     "description": "1940 German self-propelled gun family",
     "year": "1940",
-    "manufacturerLabel": "MIAG",
-    "sitelinks": "38"
+    "manufacturerLabel": "Alkett",
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159927",
@@ -248,19 +248,19 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q741609",
-    "itemLabel": "Chieftain",
-    "description": "main battle tank family",
-    "year": "1966",
-    "manufacturerLabel": "Leyland Motors",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q659630",
     "itemLabel": "Combat Vehicle 90",
     "description": "Swedish infantry fighting vehicle",
     "year": "1993",
     "manufacturerLabel": "BAE Systems AB",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q741609",
+    "itemLabel": "Chieftain",
+    "description": "main battle tank family",
+    "year": "1966",
+    "manufacturerLabel": "Leyland Motors",
     "sitelinks": "34"
   },
   {
@@ -316,7 +316,7 @@
     "itemLabel": "T-10",
     "description": "Soviet heavy tank family",
     "year": "1954",
-    "manufacturerLabel": "Kirov Plant",
+    "manufacturerLabel": "Chelyabinsk Tractor Plant",
     "sitelinks": "30"
   },
   {
@@ -360,6 +360,14 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3632274",
+    "itemLabel": "BTR-40",
+    "description": "1950s armored personnel carrier family of Soviet origin",
+    "year": "1950",
+    "manufacturerLabel": "GAZ",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q495189",
     "itemLabel": "M551 Sheridan",
     "description": "1967 light tank series",
@@ -368,11 +376,11 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3632274",
-    "itemLabel": "BTR-40",
-    "description": "1950s armored personnel carrier family of Soviet origin",
-    "year": "1950",
-    "manufacturerLabel": "GAZ",
+    "item": "http://www.wikidata.org/entity/Q295405",
+    "itemLabel": "AMX-10 RC",
+    "description": "1976 armored car family by GIAT",
+    "year": "1981",
+    "manufacturerLabel": "KNDS France",
     "sitelinks": "28"
   },
   {
@@ -397,14 +405,6 @@
     "description": "1940 infantry tank",
     "year": "1940",
     "manufacturerLabel": "Vickers-Armstrongs",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q295405",
-    "itemLabel": "AMX-10 RC",
-    "description": "1976 armored car family by GIAT",
-    "year": "1981",
-    "manufacturerLabel": "KNDS France",
     "sitelinks": "27"
   },
   {
@@ -452,7 +452,7 @@
     "itemLabel": "BTR-152",
     "description": "1950s armored personnel carrier of Soviet origin",
     "year": "1950",
-    "manufacturerLabel": "ZiL",
+    "manufacturerLabel": "Bryansk Automobile Plant",
     "sitelinks": "24"
   },
   {
@@ -472,19 +472,19 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160871",
-    "itemLabel": "Leichter Panzerspähwagen",
-    "description": "German scout car family",
-    "year": "1937",
-    "manufacturerLabel": "Auto Union",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1471974",
     "itemLabel": "OT-64 SKOT",
     "description": "1960s armored personnel carrier family",
     "year": "1963",
     "manufacturerLabel": "Fabryka Samochodów Ciężarowych",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160871",
+    "itemLabel": "Leichter Panzerspähwagen",
+    "description": "German scout car family",
+    "year": "1937",
+    "manufacturerLabel": "Auto Union",
     "sitelinks": "22"
   },
   {
@@ -584,6 +584,14 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q685851",
+    "itemLabel": "M42 Duster",
+    "description": "1950s self-propelled twin 40 mm anti-aircraft gun system",
+    "year": "1953",
+    "manufacturerLabel": "",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1092789",
     "itemLabel": "schwerer Panzerspähwagen",
     "description": "German armored car family",
@@ -593,7 +601,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q523839",
-    "itemLabel": "Dingo",
+    "itemLabel": "Daimler Dingo",
     "description": "British scout car family",
     "year": "1940",
     "manufacturerLabel": "Daimler Company",
@@ -605,14 +613,6 @@
     "description": "1977 self-propelled 155 mm gun",
     "year": "1977",
     "manufacturerLabel": "KNDS France",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q685851",
-    "itemLabel": "M42 Duster",
-    "description": "1950s self-propelled twin 40 mm anti-aircraft gun system",
-    "year": "1953",
-    "manufacturerLabel": "",
     "sitelinks": "15"
   },
   {
@@ -632,6 +632,22 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q748803",
+    "itemLabel": "Panhard 178",
+    "description": "French armored car",
+    "year": "1937",
+    "manufacturerLabel": "Panhard",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2720752",
+    "itemLabel": "T-34/85",
+    "description": "1944 medium tank",
+    "year": "1943",
+    "manufacturerLabel": "Gliwice",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q315554",
     "itemLabel": "HS.30",
     "description": "infantry fighting vehicle model by Hispano-Suiza",
@@ -648,22 +664,6 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q748803",
-    "itemLabel": "Panhard 178",
-    "description": "French armored car",
-    "year": "1937",
-    "manufacturerLabel": "Panhard",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2720752",
-    "itemLabel": "T-34/85",
-    "description": "1944 medium tank",
-    "year": "1943",
-    "manufacturerLabel": "Uralvagonzavod",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1789390",
     "itemLabel": "M59",
     "description": "1950s armored personnel carrier of American origin",
@@ -676,7 +676,7 @@
     "itemLabel": "M6 Gun Motor Carriage",
     "description": "1942 wheeled tank destroyer series by Dodge",
     "year": "1942",
-    "manufacturerLabel": "",
+    "manufacturerLabel": "Dodge",
     "sitelinks": "12"
   },
   {

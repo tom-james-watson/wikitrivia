@@ -13,7 +13,7 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1271",
-    "sitelinks": "108"
+    "sitelinks": "110"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185152",
@@ -21,15 +21,7 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1908",
-    "sitelinks": "84"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7225",
-    "itemLabel": "Emperor Wu of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "-140",
-    "sitelinks": "72"
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9738",
@@ -37,6 +29,14 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "female",
     "year": "690",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7225",
+    "itemLabel": "Emperor Wu of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "-140",
     "sitelinks": "72"
   },
   {
@@ -85,7 +85,7 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1875",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9701",
@@ -104,6 +104,14 @@
     "sitelinks": "55"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q9700",
+    "itemLabel": "Emperor Gaozu of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "618",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q310453",
     "itemLabel": "Shunzhi Emperor",
     "positionLabel": "Emperor of China",
@@ -112,12 +120,20 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9700",
-    "itemLabel": "Emperor Gaozu of Tang",
+    "item": "http://www.wikidata.org/entity/Q296367",
+    "itemLabel": "Hong Taiji",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "618",
-    "sitelinks": "52"
+    "year": "1636",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7250",
+    "itemLabel": "Wang Mang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "9",
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313333",
@@ -136,22 +152,6 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7250",
-    "itemLabel": "Wang Mang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "9",
-    "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q296367",
-    "itemLabel": "Hong Taiji",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1636",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q317839",
     "itemLabel": "Yongzheng Emperor",
     "positionLabel": "Emperor of China",
@@ -168,11 +168,43 @@
     "sitelinks": "47"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q10069",
+    "itemLabel": "Chongzhen Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1627",
+    "sitelinks": "47"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q245315",
     "itemLabel": "Liu Bei",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "221",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8666",
+    "itemLabel": "Toghon Temür",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1333",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10011",
+    "itemLabel": "Jiajing Emperor of Ming",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1521",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10061",
+    "itemLabel": "Wanli Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1572",
     "sitelinks": "46"
   },
   {
@@ -200,30 +232,6 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8666",
-    "itemLabel": "Toghon Temür",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1333",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10011",
-    "itemLabel": "Jiajing Emperor of Ming",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1521",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10069",
-    "itemLabel": "Chongzhen Emperor",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1627",
-    "sitelinks": "46"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q8468",
     "itemLabel": "Temür Khan",
     "positionLabel": "Emperor of China",
@@ -240,36 +248,12 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q10061",
-    "itemLabel": "Wanli Emperor",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1572",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q333178",
     "itemLabel": "Jiaqing Emperor",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1796",
     "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q334732",
-    "itemLabel": "Hong Xiuquan",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1851",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7196",
-    "itemLabel": "Qin Er Shi",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "-209",
-    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7418",
@@ -288,12 +272,20 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9977",
-    "itemLabel": "Xuande Emperor",
+    "item": "http://www.wikidata.org/entity/Q7196",
+    "itemLabel": "Qin Er Shi",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1425",
-    "sitelinks": "40"
+    "year": "-209",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q334732",
+    "itemLabel": "Hong Xiuquan",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1851",
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7486",
@@ -301,7 +293,15 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1100",
-    "sitelinks": "39"
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9977",
+    "itemLabel": "Xuande Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1425",
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9972",
@@ -312,19 +312,43 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7214",
-    "itemLabel": "Emperor Hui of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "-194",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7268",
     "itemLabel": "Emperor Guangwu of Han",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "25",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10007",
+    "itemLabel": "Zhengde Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1505",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10066",
+    "itemLabel": "Tianqi Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1620",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10065",
+    "itemLabel": "Taichang Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1620",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7214",
+    "itemLabel": "Emperor Hui of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "-194",
     "sitelinks": "38"
   },
   {
@@ -344,28 +368,12 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q10007",
-    "itemLabel": "Zhengde Emperor",
+    "item": "http://www.wikidata.org/entity/Q7419",
+    "itemLabel": "Emperor Yang of Sui",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1505",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10066",
-    "itemLabel": "Tianqi Emperor",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1620",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10065",
-    "itemLabel": "Taichang Emperor",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1620",
-    "sitelinks": "37"
+    "year": "604",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7479",
@@ -373,30 +381,6 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1063",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7483",
-    "itemLabel": "Emperor Shenzong of Song",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1067",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7221",
-    "itemLabel": "Emperor Wen of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "-179",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7419",
-    "itemLabel": "Emperor Yang of Sui",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "604",
     "sitelinks": "36"
   },
   {
@@ -408,11 +392,27 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7483",
+    "itemLabel": "Emperor Shenzong of Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1067",
+    "sitelinks": "36"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q9983",
     "itemLabel": "Zhengtong Emperor",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1435",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7221",
+    "itemLabel": "Emperor Wen of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "-179",
     "sitelinks": "36"
   },
   {
@@ -424,19 +424,19 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7484",
-    "itemLabel": "Emperor Zhezong of Song",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1085",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7316",
     "itemLabel": "Emperor Xian of Han",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "189",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7484",
+    "itemLabel": "Emperor Zhezong of Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1085",
     "sitelinks": "34"
   },
   {
@@ -461,6 +461,14 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1644",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7473",
+    "itemLabel": "Emperor Taizong of Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "976",
     "sitelinks": "33"
   },
   {
@@ -472,22 +480,6 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7271",
-    "itemLabel": "Emperor Ming of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "57",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7473",
-    "itemLabel": "Emperor Taizong of Song",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "976",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q9994",
     "itemLabel": "Hongzhi Emperor",
     "positionLabel": "Emperor of China",
@@ -496,11 +488,27 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q378470",
-    "itemLabel": "Cao Rui",
+    "item": "http://www.wikidata.org/entity/Q10059",
+    "itemLabel": "Longqing Emperor",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "226",
+    "year": "1567",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7271",
+    "itemLabel": "Emperor Ming of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "57",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7475",
+    "itemLabel": "Emperor Zhenzong of Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "997",
     "sitelinks": "32"
   },
   {
@@ -544,28 +552,12 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7475",
-    "itemLabel": "Emperor Zhenzong of Song",
+    "item": "http://www.wikidata.org/entity/Q378470",
+    "itemLabel": "Cao Rui",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "997",
+    "year": "226",
     "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10059",
-    "itemLabel": "Longqing Emperor",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1567",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7489",
-    "itemLabel": "Emperor Gaozong of Song",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1127",
-    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7277",
@@ -573,6 +565,14 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "75",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7489",
+    "itemLabel": "Emperor Gaozong of Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1127",
     "sitelinks": "31"
   },
   {
@@ -584,20 +584,12 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7232",
-    "itemLabel": "Emperor Yuan of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "-47",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7244",
     "itemLabel": "Emperor Ping of Han",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "0",
-    "sitelinks": "30"
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7297",
@@ -608,6 +600,38 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7232",
+    "itemLabel": "Emperor Yuan of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "-47",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7289",
+    "itemLabel": "Emperor Shun of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "125",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7292",
+    "itemLabel": "Emperor Chong of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "144",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7299",
+    "itemLabel": "Emperor Ling of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "168",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7488",
     "itemLabel": "Emperor Qinzong of Song",
     "positionLabel": "Emperor of China",
@@ -616,11 +640,11 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q470091",
-    "itemLabel": "Cao Huan",
+    "item": "http://www.wikidata.org/entity/Q7492",
+    "itemLabel": "Emperor Xiaozong of Song",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "260",
+    "year": "1162",
     "sitelinks": "29"
   },
   {
@@ -640,12 +664,12 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7492",
-    "itemLabel": "Emperor Xiaozong of Song",
+    "item": "http://www.wikidata.org/entity/Q470091",
+    "itemLabel": "Cao Huan",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1162",
-    "sitelinks": "28"
+    "year": "260",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8549",
@@ -653,6 +677,22 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1320",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9755",
+    "itemLabel": "Emperor Dezong of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "779",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9753",
+    "itemLabel": "Emperor Daizong of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "762",
     "sitelinks": "28"
   },
   {
@@ -680,20 +720,12 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7289",
-    "itemLabel": "Emperor Shun of Han",
+    "item": "http://www.wikidata.org/entity/Q7285",
+    "itemLabel": "Emperor An of Han",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "125",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7292",
-    "itemLabel": "Emperor Chong of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "144",
-    "sitelinks": "28"
+    "year": "106",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7293",
@@ -701,38 +733,22 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "145",
-    "sitelinks": "28"
+    "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7299",
-    "itemLabel": "Emperor Ling of Han",
+    "item": "http://www.wikidata.org/entity/Q7301",
+    "itemLabel": "Prince of Hongnong",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "168",
-    "sitelinks": "28"
+    "year": "189",
+    "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9755",
-    "itemLabel": "Emperor Dezong of Tang",
+    "item": "http://www.wikidata.org/entity/Q7498",
+    "itemLabel": "Emperor Duzong of Song",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "779",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9753",
-    "itemLabel": "Emperor Daizong of Tang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "762",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q468780",
-    "itemLabel": "Liu Shan",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "223",
+    "year": "1264",
     "sitelinks": "27"
   },
   {
@@ -752,35 +768,19 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7500",
+    "itemLabel": "Emperor Gong of Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1274",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q8560",
     "itemLabel": "Yesün Temür Khan",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "1323",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7262",
-    "itemLabel": "Emperor Gengshi of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "23",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7285",
-    "itemLabel": "Emperor An of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "106",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7301",
-    "itemLabel": "Prince of Hongnong",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "189",
     "sitelinks": "27"
   },
   {
@@ -792,27 +792,59 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q77822",
-    "itemLabel": "Cao Fang",
+    "item": "http://www.wikidata.org/entity/Q7262",
+    "itemLabel": "Emperor Gengshi of Han",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "239",
+    "year": "23",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q468780",
+    "itemLabel": "Liu Shan",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "223",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8655",
+    "itemLabel": "Jayaatu Khan",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1328",
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7498",
-    "itemLabel": "Emperor Duzong of Song",
+    "item": "http://www.wikidata.org/entity/Q8659",
+    "itemLabel": "Khutughtu Khan",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1264",
+    "year": "1329",
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7500",
-    "itemLabel": "Emperor Gong of Song",
+    "item": "http://www.wikidata.org/entity/Q8664",
+    "itemLabel": "Rinchinbal Khan",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1274",
+    "year": "1332",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9761",
+    "itemLabel": "Emperor Xianzong of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "805",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9801",
+    "itemLabel": "Emperor Wuzong of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "840",
     "sitelinks": "26"
   },
   {
@@ -840,68 +872,12 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8655",
-    "itemLabel": "Jayaatu Khan",
+    "item": "http://www.wikidata.org/entity/Q77822",
+    "itemLabel": "Cao Fang",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1328",
+    "year": "239",
     "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8659",
-    "itemLabel": "Khutughtu Khan",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1329",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8664",
-    "itemLabel": "Rinchinbal Khan",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1332",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9801",
-    "itemLabel": "Emperor Wuzong of Tang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "840",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q468767",
-    "itemLabel": "Sun Xiu",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "257",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q550290",
-    "itemLabel": "Cao Mao",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "254",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q736726",
-    "itemLabel": "Wu",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "502",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7228",
-    "itemLabel": "Prince of Changyi",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "-73",
-    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7282",
@@ -920,11 +896,11 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9761",
-    "itemLabel": "Emperor Xianzong of Tang",
+    "item": "http://www.wikidata.org/entity/Q7392",
+    "itemLabel": "Emperor Yuan of Jin",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "805",
+    "year": "317",
     "sitelinks": "25"
   },
   {
@@ -936,11 +912,51 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7228",
+    "itemLabel": "Prince of Changyi",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "-73",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q468767",
+    "itemLabel": "Sun Xiu",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "257",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q550290",
+    "itemLabel": "Cao Mao",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "254",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q714113",
     "itemLabel": "Huang Chao",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "881",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q736726",
+    "itemLabel": "Wu",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "502",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7280",
+    "itemLabel": "Emperor He of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "88",
     "sitelinks": "24"
   },
   {
@@ -960,22 +976,6 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7280",
-    "itemLabel": "Emperor He of Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "88",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7392",
-    "itemLabel": "Emperor Yuan of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "317",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q9891",
     "itemLabel": "Emperor Zhaozong of Tang",
     "positionLabel": "Emperor of China",
@@ -984,19 +984,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q470034",
-    "itemLabel": "Sun Liang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "252",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7361",
     "itemLabel": "Emperor Huai of Jin",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "307",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1326844",
+    "itemLabel": "Zhu Youlang, Prince of Gui",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1646",
     "sitelinks": "23"
   },
   {
@@ -1008,12 +1008,20 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1326844",
-    "itemLabel": "Zhu Youlang, Prince of Gui",
+    "item": "http://www.wikidata.org/entity/Q9889",
+    "itemLabel": "Emperor Xizong of Tang",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "1646",
-    "sitelinks": "22"
+    "year": "873",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q470034",
+    "itemLabel": "Sun Liang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "252",
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1327614",
@@ -1032,11 +1040,11 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q470030",
-    "itemLabel": "Sun Hao",
+    "item": "http://www.wikidata.org/entity/Q9776",
+    "itemLabel": "Emperor Jingzong of Tang",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "264",
+    "year": "824",
     "sitelinks": "22"
   },
   {
@@ -1048,28 +1056,12 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9776",
-    "itemLabel": "Emperor Jingzong of Tang",
+    "item": "http://www.wikidata.org/entity/Q470030",
+    "itemLabel": "Sun Hao",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "824",
+    "year": "264",
     "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9889",
-    "itemLabel": "Emperor Xizong of Tang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "873",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q706815",
-    "itemLabel": "Emperor Zhuangzong of Later Tang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "923",
-    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1194981",
@@ -1077,30 +1069,22 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "479",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7382",
+    "itemLabel": "Emperor Min of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "313",
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1275305",
-    "itemLabel": "Emperor Taizu of Later Liang",
+    "item": "http://www.wikidata.org/entity/Q7393",
+    "itemLabel": "Emperor Ming of Jin",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "907",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4991",
-    "itemLabel": "Emperor Taizong of Liao",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "927",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4993",
-    "itemLabel": "Emperor Muzong of Liao",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "951",
+    "year": "323",
     "sitelinks": "21"
   },
   {
@@ -1134,6 +1118,54 @@
     "sexLabel": "male",
     "year": "424",
     "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4991",
+    "itemLabel": "Emperor Taizong of Liao",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "927",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4993",
+    "itemLabel": "Emperor Muzong of Liao",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "951",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q706815",
+    "itemLabel": "Emperor Zhuangzong of Later Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "923",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1275305",
+    "itemLabel": "Emperor Taizu of Later Liang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "907",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7398",
+    "itemLabel": "Emperor Ai of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "361",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7420",
+    "itemLabel": "Emperor Gong of Sui",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "617",
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1352743",
@@ -1176,43 +1208,19 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7382",
-    "itemLabel": "Emperor Min of Jin",
+    "item": "http://www.wikidata.org/entity/Q7396",
+    "itemLabel": "Emperor Mu of Jin",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "313",
-    "sitelinks": "20"
+    "year": "344",
+    "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7393",
-    "itemLabel": "Emperor Ming of Jin",
+    "item": "http://www.wikidata.org/entity/Q9886",
+    "itemLabel": "Emperor Yizong of Tang",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "323",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7398",
-    "itemLabel": "Emperor Ai of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "361",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7420",
-    "itemLabel": "Emperor Gong of Sui",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "617",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q967998",
-    "itemLabel": "Fú Jiān",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "357",
+    "year": "859",
     "sitelinks": "19"
   },
   {
@@ -1240,52 +1248,12 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7396",
-    "itemLabel": "Emperor Mu of Jin",
+    "item": "http://www.wikidata.org/entity/Q967998",
+    "itemLabel": "Fú Jiān",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "344",
+    "year": "357",
     "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9886",
-    "itemLabel": "Emperor Yizong of Tang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "859",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q703646",
-    "itemLabel": "Li Siyuan",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "926",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q708522",
-    "itemLabel": "Emperor Gaozu of Later Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "947",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1194968",
-    "itemLabel": "Emperor Xuanwu of Northern Wei",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "499",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5080",
-    "itemLabel": "Emperor Xuanzong of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1213",
-    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7288",
@@ -1328,6 +1296,78 @@
     "sitelinks": "18"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5080",
+    "itemLabel": "Emperor Xuanzong of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1213",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q703646",
+    "itemLabel": "Li Siyuan",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "926",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q708522",
+    "itemLabel": "Emperor Gaozu of Later Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "947",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1194968",
+    "itemLabel": "Emperor Xuanwu of Northern Wei",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "499",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7360",
+    "itemLabel": "Sima Lun",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "301",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7394",
+    "itemLabel": "Emperor Cheng of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "325",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7395",
+    "itemLabel": "Emperor Kang of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "342",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7400",
+    "itemLabel": "Emperor Jianwen of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "372",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7404",
+    "itemLabel": "Emperor Gong of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "419",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1319646",
     "itemLabel": "Emperor Shizong of Later Zhou",
     "positionLabel": "Emperor of China",
@@ -1341,6 +1381,30 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "489",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9743",
+    "itemLabel": "Emperor Shang of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "710",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5073",
+    "itemLabel": "Emperor Shizong of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1161",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q712338",
+    "itemLabel": "Emperor Wenxuan of Northern Qi",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "550",
     "sitelinks": "17"
   },
   {
@@ -1384,91 +1448,11 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5073",
-    "itemLabel": "Emperor Shizong of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1161",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7394",
-    "itemLabel": "Emperor Cheng of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "325",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7395",
-    "itemLabel": "Emperor Kang of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "342",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7400",
-    "itemLabel": "Emperor Jianwen of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "372",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7404",
-    "itemLabel": "Emperor Gong of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "419",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9743",
-    "itemLabel": "Emperor Shang of Tang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "710",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1327591",
     "itemLabel": "Emperor Wu of Northern Zhou",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "560",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q712338",
-    "itemLabel": "Emperor Wenxuan of Northern Qi",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "550",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q940037",
-    "itemLabel": "Emperor Wu of Southern Qi",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "482",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1149114",
-    "itemLabel": "Emperor Yuan of Liang",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "552",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1189495",
-    "itemLabel": "Emperor Gaozu of Later Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "936",
     "sitelinks": "16"
   },
   {
@@ -1496,12 +1480,36 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7360",
-    "itemLabel": "Sima Lun",
+    "item": "http://www.wikidata.org/entity/Q940037",
+    "itemLabel": "Emperor Wu of Southern Qi",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
-    "year": "301",
+    "year": "482",
     "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1149114",
+    "itemLabel": "Emperor Yuan of Liang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "552",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1189495",
+    "itemLabel": "Emperor Gaozu of Later Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "936",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5081",
+    "itemLabel": "Emperor Aizong of Jin",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1224",
+    "sitelinks": "15"
   },
   {
     "item": "http://www.wikidata.org/entity/Q254752",
@@ -1509,6 +1517,14 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "407",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q713108",
+    "itemLabel": "Emperor Yin of Later Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "948",
     "sitelinks": "15"
   },
   {
@@ -1608,14 +1624,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5081",
-    "itemLabel": "Emperor Aizong of Jin",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1224",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2985487",
     "itemLabel": "Emperor Wen of Western Wei",
     "positionLabel": "Emperor of China",
@@ -1632,19 +1640,27 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q49701",
+    "itemLabel": "Emperor Shao of Liu Song",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "422",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5076",
+    "itemLabel": "Wanyan Yongji",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "year": "1209",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q708431",
     "itemLabel": "Emperor Min of Later Tang",
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "933",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q713108",
-    "itemLabel": "Emperor Yin of Later Han",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "948",
     "sitelinks": "14"
   },
   {
@@ -1717,22 +1733,6 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "501",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5076",
-    "itemLabel": "Wanyan Yongji",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "1209",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q49701",
-    "itemLabel": "Emperor Shao of Liu Song",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "422",
     "sitelinks": "14"
   },
   {
@@ -1944,6 +1944,14 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q10889741",
+    "itemLabel": "Daughter of Emperor Xiaoming of Northern Wei",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "female",
+    "year": "528",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3276215",
     "itemLabel": "Yuan Ye",
     "positionLabel": "Emperor of China",
@@ -1984,12 +1992,12 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q10889741",
-    "itemLabel": "Daughter of Emperor Xiaoming of Northern Wei",
+    "item": "http://www.wikidata.org/entity/Q7422",
+    "itemLabel": "Yang Tong",
     "positionLabel": "Emperor of China",
-    "sexLabel": "female",
-    "year": "528",
-    "sitelinks": "11"
+    "sexLabel": "male",
+    "year": "618",
+    "sitelinks": "10"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1138520",
@@ -1997,14 +2005,6 @@
     "positionLabel": "Emperor of China",
     "sexLabel": "male",
     "year": "912",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7422",
-    "itemLabel": "Yang Tong",
-    "positionLabel": "Emperor of China",
-    "sexLabel": "male",
-    "year": "618",
     "sitelinks": "10"
   },
   {

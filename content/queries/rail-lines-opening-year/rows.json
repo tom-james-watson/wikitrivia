@@ -11,7 +11,7 @@
     "item": "http://www.wikidata.org/entity/Q259313",
     "itemLabel": "Semmering railway",
     "year": "1854",
-    "adminLabel": "Lower Austria",
+    "adminLabel": "Styria",
     "countryLabel": "First Republic of Austria",
     "sitelinks": "49"
   },
@@ -24,20 +24,20 @@
     "sitelinks": "48"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q203030",
+    "itemLabel": "Victoria line",
+    "year": "1968",
+    "adminLabel": "London",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "47"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q216360",
     "itemLabel": "Docklands Light Railway",
     "year": "1987",
     "adminLabel": "Greater London",
     "countryLabel": "United Kingdom",
     "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q203030",
-    "itemLabel": "Victoria line",
-    "year": "1968",
-    "adminLabel": "London",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q205355",
@@ -83,7 +83,7 @@
     "item": "http://www.wikidata.org/entity/Q377967",
     "itemLabel": "Baikal-Amur Mainline",
     "year": "1984",
-    "adminLabel": "Irkutsk Oblast",
+    "adminLabel": "Buryatia",
     "countryLabel": "Russia",
     "sitelinks": "44"
   },
@@ -112,6 +112,14 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q214793",
+    "itemLabel": "Northern line",
+    "year": "1890",
+    "adminLabel": "London Borough of Wandsworth",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q660895",
     "itemLabel": "Tōkaidō Shinkansen",
     "year": "1964",
@@ -136,27 +144,19 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q214793",
-    "itemLabel": "Northern line",
-    "year": "1890",
-    "adminLabel": "London Borough of Wandsworth",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "42"
+    "item": "http://www.wikidata.org/entity/Q924225",
+    "itemLabel": "Hejaz Railway",
+    "year": "1908",
+    "adminLabel": "",
+    "countryLabel": "Saudi Arabia",
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q639128",
     "itemLabel": "Baghdad Railway",
     "year": "1903",
     "adminLabel": "",
-    "countryLabel": "Syria",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q924225",
-    "itemLabel": "Hejaz Railway",
-    "year": "1908",
-    "adminLabel": "",
-    "countryLabel": "Saudi Arabia",
+    "countryLabel": "Iraq",
     "sitelinks": "39"
   },
   {
@@ -179,7 +179,7 @@
     "item": "http://www.wikidata.org/entity/Q463874",
     "itemLabel": "Darjeeling Himalayan Railway",
     "year": "1881",
-    "adminLabel": "Jalpaiguri district",
+    "adminLabel": "Darjeeling district",
     "countryLabel": "India",
     "sitelinks": "38"
   },
@@ -213,7 +213,7 @@
     "year": "1889",
     "adminLabel": "Amsterdam",
     "countryLabel": "Netherlands",
-    "sitelinks": "35"
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q50718",
@@ -240,6 +240,14 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7171560",
+    "itemLabel": "Kalka–Shimla Railway",
+    "year": "1903",
+    "adminLabel": "Himachal Pradesh",
+    "countryLabel": "India",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q175271",
     "itemLabel": "Kaluzhsko-Rizhskaya Line",
     "year": "1958",
@@ -261,14 +269,6 @@
     "year": "1983",
     "adminLabel": "Moscow",
     "countryLabel": "Russia",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7171560",
-    "itemLabel": "Kalka–Shimla Railway",
-    "year": "1903",
-    "adminLabel": "Himachal Pradesh",
-    "countryLabel": "India",
     "sitelinks": "32"
   },
   {
@@ -336,11 +336,27 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q913275",
+    "itemLabel": "Beijing–Shanghai high-speed railway",
+    "year": "2011",
+    "adminLabel": "Beijing",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q693036",
     "itemLabel": "Yamanote Line",
     "year": "1885",
     "adminLabel": "Tokyo",
     "countryLabel": "Japan",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q806501",
+    "itemLabel": "BTS Skytrain",
+    "year": "1999",
+    "adminLabel": "Bangkok",
+    "countryLabel": "Thailand",
     "sitelinks": "31"
   },
   {
@@ -352,18 +368,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q806501",
-    "itemLabel": "BTS Skytrain",
-    "year": "1999",
-    "adminLabel": "Bangkok",
-    "countryLabel": "Konbaung dynasty",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q162835",
     "itemLabel": "Trans-Iranian Railway",
     "year": "1938",
-    "adminLabel": "Golestan Province",
+    "adminLabel": "Semnan Province",
     "countryLabel": "Iran",
     "sitelinks": "31"
   },
@@ -408,14 +416,6 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q913275",
-    "itemLabel": "Beijing–Shanghai high-speed railway",
-    "year": "2011",
-    "adminLabel": "Beijing",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q39158",
     "itemLabel": "Chinese Eastern Railway",
     "year": "1901",
@@ -456,14 +456,6 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q387264",
-    "itemLabel": "Tünel",
-    "year": "1875",
-    "adminLabel": "Beyoğlu",
-    "countryLabel": "Turkey",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q769591",
     "itemLabel": "Shanghai maglev train",
     "year": "2004",
@@ -472,11 +464,27 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q387264",
+    "itemLabel": "Tünel",
+    "year": "1875",
+    "adminLabel": "Beyoğlu",
+    "countryLabel": "Turkey",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11718",
+    "itemLabel": "Burma Railway",
+    "year": "1942",
+    "adminLabel": "Ban Pong",
+    "countryLabel": "Thailand",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1421980",
     "itemLabel": "Turkestan–Siberia Railway",
     "year": "1929",
     "adminLabel": "",
-    "countryLabel": "Kazakhstan",
+    "countryLabel": "Kyrgyzstan",
     "sitelinks": "29"
   },
   {
@@ -488,6 +496,14 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1853218",
+    "itemLabel": "Moscow Monorail",
+    "year": "2004",
+    "adminLabel": "Moscow",
+    "countryLabel": "Russia",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q50749",
     "itemLabel": "Paris Métro Line 7bis",
     "year": "1967",
@@ -496,11 +512,11 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1853218",
-    "itemLabel": "Moscow Monorail",
-    "year": "2004",
-    "adminLabel": "Moscow",
-    "countryLabel": "Russia",
+    "item": "http://www.wikidata.org/entity/Q1510414",
+    "itemLabel": "Coast Tram",
+    "year": "1885",
+    "adminLabel": "West Flanders",
+    "countryLabel": "Belgium",
     "sitelinks": "28"
   },
   {
@@ -512,19 +528,19 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q615964",
+    "itemLabel": "San'yō Shinkansen",
+    "year": "1972",
+    "adminLabel": "Yamaguchi Prefecture",
+    "countryLabel": "Japan",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q616970",
     "itemLabel": "Jungfrau railway",
     "year": "1912",
     "adminLabel": "Grindelwald",
     "countryLabel": "Switzerland",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11718",
-    "itemLabel": "Burma Railway",
-    "year": "1942",
-    "adminLabel": "Ban Pong",
-    "countryLabel": "Thailand",
     "sitelinks": "28"
   },
   {
@@ -536,6 +552,22 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1432750",
+    "itemLabel": "TAZARA Railway",
+    "year": "1976",
+    "adminLabel": "",
+    "countryLabel": "Tanzania",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q99691",
+    "itemLabel": "U1",
+    "year": "1902",
+    "adminLabel": "Berlin",
+    "countryLabel": "Germany",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q99697",
     "itemLabel": "U2",
     "year": "1902",
@@ -544,11 +576,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1510414",
-    "itemLabel": "Coast Tram",
-    "year": "1885",
-    "adminLabel": "West Flanders",
-    "countryLabel": "Belgium",
+    "item": "http://www.wikidata.org/entity/Q737791",
+    "itemLabel": "Haramain high-speed railway",
+    "year": "2018",
+    "adminLabel": "Saudi Arabia",
+    "countryLabel": "Saudi Arabia",
     "sitelinks": "27"
   },
   {
@@ -568,30 +600,6 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q615964",
-    "itemLabel": "San'yō Shinkansen",
-    "year": "1972",
-    "adminLabel": "Osaka Prefecture",
-    "countryLabel": "Japan",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1432750",
-    "itemLabel": "TAZARA Railway",
-    "year": "1976",
-    "adminLabel": "",
-    "countryLabel": "Zambia",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q99691",
-    "itemLabel": "U1",
-    "year": "1902",
-    "adminLabel": "Berlin",
-    "countryLabel": "Germany",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q99702",
     "itemLabel": "U3",
     "year": "1913",
@@ -608,19 +616,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q519861",
-    "itemLabel": "Line 1",
-    "year": "1955",
-    "adminLabel": "Saint Petersburg",
+    "item": "http://www.wikidata.org/entity/Q4226438",
+    "itemLabel": "Nekrasovskaya Line",
+    "year": "2019",
+    "adminLabel": "Moscow",
     "countryLabel": "Russia",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q737791",
-    "itemLabel": "Haramain high-speed railway",
-    "year": "2018",
-    "adminLabel": "Saudi Arabia",
-    "countryLabel": "Saudi Arabia",
     "sitelinks": "26"
   },
   {
@@ -632,6 +632,14 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q519861",
+    "itemLabel": "Line 1",
+    "year": "1955",
+    "adminLabel": "Saint Petersburg",
+    "countryLabel": "Russia",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1341305",
     "itemLabel": "Yokohama Municipal Subway",
     "year": "1972",
@@ -640,12 +648,12 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q99708",
-    "itemLabel": "U4",
-    "year": "1910",
-    "adminLabel": "Berlin",
-    "countryLabel": "Germany",
-    "sitelinks": "25"
+    "item": "http://www.wikidata.org/entity/Q139738",
+    "itemLabel": "Lima and Callao Subway",
+    "year": "1990",
+    "adminLabel": "Lima",
+    "countryLabel": "Peru",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1347825",
@@ -653,6 +661,14 @@
     "year": "1977",
     "adminLabel": "Paris",
     "countryLabel": "France",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q99708",
+    "itemLabel": "U4",
+    "year": "1910",
+    "adminLabel": "Berlin",
+    "countryLabel": "Germany",
     "sitelinks": "25"
   },
   {
@@ -664,35 +680,11 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4226438",
-    "itemLabel": "Nekrasovskaya Line",
-    "year": "2019",
-    "adminLabel": "Moscow",
-    "countryLabel": "Russia",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1196223",
     "itemLabel": "Hibiya Line",
     "year": "1961",
     "adminLabel": "Tokyo",
     "countryLabel": "Japan",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q139738",
-    "itemLabel": "Lima and Callao Subway",
-    "year": "1990",
-    "adminLabel": "Lima",
-    "countryLabel": "Peru",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q706198",
-    "itemLabel": "Taiwan High Speed Rail",
-    "year": "2007",
-    "adminLabel": "Taipei",
-    "countryLabel": "Taiwan",
     "sitelinks": "25"
   },
   {
@@ -704,11 +696,27 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q706198",
+    "itemLabel": "Taiwan High Speed Rail",
+    "year": "2007",
+    "adminLabel": "Taipei",
+    "countryLabel": "Taiwan",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q680834",
     "itemLabel": "Albula Railway",
     "year": "1903",
     "adminLabel": "Canton of the Grisons",
     "countryLabel": "Switzerland",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q648932",
+    "itemLabel": "Talyllyn Railway",
+    "year": "1866",
+    "adminLabel": "Tywyn",
+    "countryLabel": "United Kingdom",
     "sitelinks": "25"
   },
   {
@@ -728,19 +736,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1147054",
-    "itemLabel": "Tōzai Line",
-    "year": "1964",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q311661",
     "itemLabel": "Köln–Frankfurt high-speed rail line",
     "year": "2002",
     "adminLabel": "North Rhine-Westphalia",
     "countryLabel": "Germany",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1147054",
+    "itemLabel": "Tōzai Line",
+    "year": "1964",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
     "sitelinks": "24"
   },
   {
@@ -768,19 +776,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q648932",
-    "itemLabel": "Talyllyn Railway",
-    "year": "1866",
-    "adminLabel": "Tywyn",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q99636",
     "itemLabel": "Ascensor da Glória",
     "year": "1885",
     "adminLabel": "Santa Maria Maior",
     "countryLabel": "Portugal",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q649965",
+    "itemLabel": "Panama Canal Railway",
+    "year": "1855",
+    "adminLabel": "",
+    "countryLabel": "Panama",
     "sitelinks": "24"
   },
   {
@@ -825,7 +833,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q759229",
-    "itemLabel": "North–South MRT line",
+    "itemLabel": "North–South Line (Singapore)",
     "year": "1987",
     "adminLabel": "Singapore",
     "countryLabel": "Singapore",
@@ -867,7 +875,7 @@
     "item": "http://www.wikidata.org/entity/Q223656",
     "itemLabel": "Gotthard railway",
     "year": "1874",
-    "adminLabel": "Canton of Lucerne",
+    "adminLabel": "Canton of Ticino",
     "countryLabel": "Switzerland",
     "sitelinks": "23"
   },
@@ -880,14 +888,6 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q649965",
-    "itemLabel": "Panama Canal Railway",
-    "year": "1855",
-    "adminLabel": "",
-    "countryLabel": "Panama",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q792406",
     "itemLabel": "Belgrade–Bar railway",
     "year": "1979",
@@ -896,19 +896,19 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1895425",
+    "itemLabel": "East–West Line (Singapore)",
+    "year": "1989",
+    "adminLabel": "Singapore",
+    "countryLabel": "Singapore",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q99729",
     "itemLabel": "U8",
     "year": "1927",
     "adminLabel": "Berlin",
     "countryLabel": "Germany",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1895425",
-    "itemLabel": "East–West MRT line",
-    "year": "1989",
-    "adminLabel": "Singapore",
-    "countryLabel": "Singapore",
     "sitelinks": "22"
   },
   {
@@ -952,12 +952,28 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q762347",
+    "itemLabel": "Karasuma Line",
+    "year": "1981",
+    "adminLabel": "Kyoto",
+    "countryLabel": "Japan",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q817256",
     "itemLabel": "Benguela railway",
     "year": "1899",
     "adminLabel": "",
-    "countryLabel": "Angola",
+    "countryLabel": "Democratic Republic of the Congo",
     "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1075089",
+    "itemLabel": "Chiyoda Line",
+    "year": "1969",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q668655",
@@ -965,14 +981,6 @@
     "year": "1999",
     "adminLabel": "Paris",
     "countryLabel": "France",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q802523",
-    "itemLabel": "Baku–Tbilisi–Kars railway",
-    "year": "2017",
-    "adminLabel": "Azerbaijan",
-    "countryLabel": "Georgia",
     "sitelinks": "21"
   },
   {
@@ -1000,17 +1008,17 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q720653",
-    "itemLabel": "Asakusa Line",
-    "year": "1960",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q20982403",
+    "itemLabel": "Addis Ababa–Djibouti Railway",
+    "year": "2016",
+    "adminLabel": "Addis Ababa",
+    "countryLabel": "Djibouti",
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1075089",
-    "itemLabel": "Chiyoda Line",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q720653",
+    "itemLabel": "Asakusa Line",
+    "year": "1960",
     "adminLabel": "Tokyo",
     "countryLabel": "Japan",
     "sitelinks": "21"
@@ -1020,15 +1028,7 @@
     "itemLabel": "Brenner Railway",
     "year": "1859",
     "adminLabel": "Trentino-South Tyrol",
-    "countryLabel": "Austria",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20982403",
-    "itemLabel": "Addis Ababa–Djibouti Railway",
-    "year": "2016",
-    "adminLabel": "Addis Ababa",
-    "countryLabel": "Djibouti",
+    "countryLabel": "Italy",
     "sitelinks": "21"
   },
   {
@@ -1048,18 +1048,10 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q762347",
-    "itemLabel": "Karasuma Line",
-    "year": "1981",
-    "adminLabel": "Kyoto",
-    "countryLabel": "Japan",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1037409",
     "itemLabel": "Hokuriku Shinkansen",
     "year": "1997",
-    "adminLabel": "Nagano Prefecture",
+    "adminLabel": "Ishikawa Prefecture",
     "countryLabel": "Japan",
     "sitelinks": "21"
   },
@@ -1072,14 +1064,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q525056",
-    "itemLabel": "Berlin Ringbahn",
-    "year": "1877",
-    "adminLabel": "Berlin",
-    "countryLabel": "Germany",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1425351",
     "itemLabel": "RER D",
     "year": "1987",
@@ -1088,19 +1072,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200906",
-    "itemLabel": "RER C",
-    "year": "1980",
-    "adminLabel": "Paris",
-    "countryLabel": "France",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1332908",
-    "itemLabel": "Fukutoshin Line",
-    "year": "1994",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q525056",
+    "itemLabel": "Berlin Ringbahn",
+    "year": "1877",
+    "adminLabel": "Berlin",
+    "countryLabel": "Germany",
     "sitelinks": "20"
   },
   {
@@ -1109,6 +1085,14 @@
     "year": "1967",
     "adminLabel": "Saint Petersburg",
     "countryLabel": "Russia",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q802523",
+    "itemLabel": "Baku–Tbilisi–Kars railway",
+    "year": "2017",
+    "adminLabel": "Azerbaijan",
+    "countryLabel": "Georgia",
     "sitelinks": "20"
   },
   {
@@ -1128,9 +1112,17 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q787305",
-    "itemLabel": "Yūrakuchō Line",
-    "year": "1974",
+    "item": "http://www.wikidata.org/entity/Q200906",
+    "itemLabel": "RER C",
+    "year": "1980",
+    "adminLabel": "Paris",
+    "countryLabel": "France",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1332908",
+    "itemLabel": "Fukutoshin Line",
+    "year": "1994",
     "adminLabel": "Tokyo",
     "countryLabel": "Japan",
     "sitelinks": "20"
@@ -1141,6 +1133,14 @@
     "year": "1974",
     "adminLabel": "Seoul",
     "countryLabel": "South Korea",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q787305",
+    "itemLabel": "Yūrakuchō Line",
+    "year": "1974",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
     "sitelinks": "20"
   },
   {
@@ -1160,11 +1160,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q912219",
-    "itemLabel": "Jōetsu Shinkansen",
-    "year": "1982",
-    "adminLabel": "Saitama Prefecture",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q853876",
+    "itemLabel": "Wuhan–Guangzhou high-speed railway",
+    "year": "2009",
+    "adminLabel": "Guangdong",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "20"
   },
   {
@@ -1173,6 +1173,14 @@
     "year": "1889",
     "adminLabel": "Alpnach",
     "countryLabel": "Switzerland",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q912219",
+    "itemLabel": "Jōetsu Shinkansen",
+    "year": "1982",
+    "adminLabel": "Gunma Prefecture",
+    "countryLabel": "Japan",
     "sitelinks": "20"
   },
   {

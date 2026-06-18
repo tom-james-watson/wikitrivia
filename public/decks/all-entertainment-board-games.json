@@ -20,6 +20,16 @@
     "pageViews": 65651
   },
   {
+    "qid": "Q1030283",
+    "title": "‘Ludo’ is released",
+    "subtitle": "Board game by",
+    "year": 1896,
+    "fact": "Ludo is a strategy-based board game for two to four players, in which the players race their four tokens from start to finish according to the rolls of a single die.",
+    "wikipediaSlug": "Ludo",
+    "image": "Ludo-3.jpg",
+    "pageViews": 28643
+  },
+  {
     "qid": "Q17271",
     "title": "‘The Settlers of Catan’ is released",
     "subtitle": "Board game by Franckh-Kosmos",
@@ -190,6 +200,16 @@
     "pageViews": 5838
   },
   {
+    "qid": "Q65784798",
+    "title": "‘Wingspan’ is released",
+    "subtitle": "Board game by Feuerland Spiele",
+    "year": 2019,
+    "fact": "Wingspan is a board game designed by Elizabeth Hargrave and published by Stonemaier Games in 2019.",
+    "wikipediaSlug": "Wingspan_(board_game)",
+    "image": "3d-wingspan-768x752.png",
+    "pageViews": 5836
+  },
+  {
     "qid": "Q1700560",
     "title": "‘Blood Bowl’ is released",
     "subtitle": "Board game by Games Workshop",
@@ -232,7 +252,7 @@
   {
     "qid": "Q17276",
     "title": "‘7 Wonders’ is released",
-    "subtitle": "Board game by Hobby Japan",
+    "subtitle": "Board game by Repos Production",
     "year": 2010,
     "fact": "7 Wonders is a board game created by Antoine Bauza in 2010 and originally published by Repos Production.",
     "wikipediaSlug": "7_Wonders_(board_game)",
@@ -260,16 +280,6 @@
     "pageViews": 3065
   },
   {
-    "qid": "Q36718832",
-    "title": "‘Terraforming Mars’ is released",
-    "subtitle": "Board game by Arclight",
-    "year": 2016,
-    "fact": "Terraforming Mars is a board game for 1 to 5 players designed by Jacob Fryxelius and published by FryxGames in 2016, and thereafter by 12 others, including Stronghold Games.",
-    "wikipediaSlug": "Terraforming_Mars_(board_game)",
-    "image": "Terraforming_Mars_board_game_box_cover.jpg",
-    "pageViews": 3062
-  },
-  {
     "qid": "Q591813",
     "title": "‘Mordheim’ is released",
     "subtitle": "Board game by",
@@ -278,6 +288,16 @@
     "wikipediaSlug": "Mordheim",
     "image": "Mordheim.gif",
     "pageViews": 2631
+  },
+  {
+    "qid": "Q540081",
+    "title": "‘Blokus’ is released",
+    "subtitle": "Board game by Mattel",
+    "year": 2000,
+    "fact": "Blokus is an abstract strategy board game for two to four players, where players try to score points by occupying most of the board with pieces of their color.",
+    "wikipediaSlug": "Blokus",
+    "image": "Blokus_board_game.jpg",
+    "pageViews": 2463
   },
   {
     "qid": "Q597760",
@@ -332,12 +352,22 @@
   {
     "qid": "Q1457040",
     "title": "‘Puerto Rico’ is released",
-    "subtitle": "Board game by Rio Grande Games",
+    "subtitle": "Board game by Tilsit Éditions",
     "year": 2002,
     "fact": "Puerto Rico is a Euro-style board game designed by German designer Andreas Seyfarth and published in 2002 in a German-language edition by Alea.",
     "wikipediaSlug": "Puerto_Rico_(board_game)",
     "image": "Puerto_Rico_game.jpg",
     "pageViews": 1571
+  },
+  {
+    "qid": "Q1073027",
+    "title": "‘Tantrix’ is released",
+    "subtitle": "Board game by Gigamic",
+    "year": 1991,
+    "fact": "Tantrix is a hexagonal tile-based abstract game invented by Mike McManaway from New Zealand.",
+    "wikipediaSlug": "Tantrix",
+    "image": "TantrixBagandTiles200.gif",
+    "pageViews": 1426
   },
   {
     "qid": "Q1571026",
@@ -358,5 +388,15 @@
     "wikipediaSlug": "GNU_Chess",
     "image": "Heckert_GNU_white.svg",
     "pageViews": 1098
+  },
+  {
+    "qid": "Q1634851",
+    "title": "‘Luzhanqi’ is released",
+    "subtitle": "Board game by",
+    "year": 1927,
+    "fact": "Chinese military chess (luzhanqi) (Chinese: 陸戰棋; pinyin: lùzhànqí) (lit.",
+    "wikipediaSlug": "Luzhanqi",
+    "image": "Luzhanqi.JPG",
+    "pageViews": 1020
   }
 ]

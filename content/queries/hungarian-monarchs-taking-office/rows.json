@@ -5,7 +5,7 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "female",
     "year": "1740",
-    "sitelinks": "105"
+    "sitelinks": "106"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51056",
@@ -48,6 +48,14 @@
     "sitelinks": "77"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q57124",
+    "itemLabel": "Sigismund",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1387",
+    "sitelinks": "73"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q150494",
     "itemLabel": "Leopold I, Holy Roman Emperor",
     "positionLabel": "Apostolic King of Hungary",
@@ -61,14 +69,6 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1916",
-    "sitelinks": "72"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57124",
-    "itemLabel": "Sigismund",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1387",
     "sitelinks": "72"
   },
   {
@@ -120,6 +120,14 @@
     "sitelinks": "67"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q150862",
+    "itemLabel": "Maximilian II, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1564",
+    "sitelinks": "66"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q150966",
     "itemLabel": "Frederick III, Holy Roman Emperor",
     "positionLabel": "Apostolic King of Hungary",
@@ -133,14 +141,6 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1637",
-    "sitelinks": "65"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q150862",
-    "itemLabel": "Maximilian II, Holy Roman Emperor",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1564",
     "sitelinks": "65"
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q157092",
-    "itemLabel": "Louis II of Hungary",
+    "itemLabel": "Louis II, King of Hungary, Croatia and Bohemia",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1516",
@@ -208,6 +208,14 @@
     "sitelinks": "49"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q26486",
+    "itemLabel": "Ladislaus I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1077",
+    "sitelinks": "49"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q32607",
     "itemLabel": "John Zápolya",
     "positionLabel": "Apostolic King of Hungary",
@@ -232,20 +240,28 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26486",
-    "itemLabel": "Ladislaus I of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1077",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q157103",
     "itemLabel": "Ferdinand IV, King of the Romans",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1647",
     "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82686",
+    "itemLabel": "Béla II of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1131",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q86932",
+    "itemLabel": "Ladislaus III of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1204",
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q116382",
@@ -256,20 +272,12 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q82686",
-    "itemLabel": "Béla II of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1131",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q54040",
     "itemLabel": "Wenceslaus III of Bohemia",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1301",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83066",
@@ -277,15 +285,7 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1095",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q86932",
-    "itemLabel": "Ladislaus III of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1204",
-    "sitelinks": "43"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q87051",
@@ -293,7 +293,7 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1162",
-    "sitelinks": "43"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311351",
@@ -301,6 +301,54 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1060",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q314218",
+    "itemLabel": "Peter, King of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1038",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82448",
+    "itemLabel": "Stephen II of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1116",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82687",
+    "itemLabel": "Géza I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1074",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q86940",
+    "itemLabel": "Géza II of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1141",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q298056",
+    "itemLabel": "Andrew III of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1290",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q299400",
+    "itemLabel": "Andrew I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1047",
     "sitelinks": "43"
   },
   {
@@ -312,59 +360,19 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q314218",
-    "itemLabel": "Peter, King of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1038",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q82448",
-    "itemLabel": "Stephen II of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1116",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q82687",
-    "itemLabel": "Géza I of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1074",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q86940",
-    "itemLabel": "Géza II of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1141",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q298056",
-    "itemLabel": "Andrew III of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1290",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q299400",
-    "itemLabel": "Andrew I of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1047",
-    "sitelinks": "42"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q86953",
     "itemLabel": "Emeric, King of Hungary",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1196",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158038",
+    "itemLabel": "Stephen V of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1270",
     "sitelinks": "41"
   },
   {
@@ -374,14 +382,6 @@
     "sexLabel": "male",
     "year": "1386",
     "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q158038",
-    "itemLabel": "Stephen V of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1270",
-    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q87044",
@@ -400,6 +400,14 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q318824",
+    "itemLabel": "Solomon",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1063",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q57323",
     "itemLabel": "Otto V or III, Duke of Bavaria",
     "positionLabel": "Apostolic King of Hungary",
@@ -408,20 +416,12 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q318824",
-    "itemLabel": "Solomon",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1063",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q313494",
     "itemLabel": "Gabriel Bethlen",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1620",
-    "sitelinks": "35"
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q86946",

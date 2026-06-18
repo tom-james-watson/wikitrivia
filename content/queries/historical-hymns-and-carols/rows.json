@@ -13,7 +13,7 @@
     "year": "1779",
     "lyricistLabel": "John Newton",
     "composerLabel": "",
-    "sitelinks": "51"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q855575",
@@ -21,7 +21,7 @@
     "year": "1529",
     "lyricistLabel": "Martin Luther",
     "composerLabel": "",
-    "sitelinks": "34"
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q252123",
@@ -176,11 +176,19 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2736789",
+    "itemLabel": "Il est né, le divin Enfant",
+    "year": "1818",
+    "lyricistLabel": "traditional",
+    "composerLabel": "traditional",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1438854",
     "itemLabel": "Once in Royal David's City",
     "year": "1848",
     "lyricistLabel": "Cecil Frances Alexander",
-    "composerLabel": "Arthur Henry Mann",
+    "composerLabel": "Henry Gauntlett",
     "sitelinks": "12"
   },
   {
@@ -189,14 +197,6 @@
     "year": "1885",
     "lyricistLabel": "Charles H. Gabriel",
     "composerLabel": "William J. Kirkpatrick",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2736789",
-    "itemLabel": "Il est né, le divin Enfant",
-    "year": "1818",
-    "lyricistLabel": "traditional",
-    "composerLabel": "traditional",
     "sitelinks": "12"
   },
   {
@@ -264,14 +264,6 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q686572",
-    "itemLabel": "Up on the House Top",
-    "year": "1864",
-    "lyricistLabel": "Benjamin Hanby",
-    "composerLabel": "Benjamin Hanby",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q16147392",
     "itemLabel": "All Things Bright and Beautiful",
     "year": "1848",
@@ -288,12 +280,12 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2700097",
-    "itemLabel": "His Eye Is on the Sparrow",
-    "year": "1905",
-    "lyricistLabel": "Civilla D. Martin",
-    "composerLabel": "Charles H. Gabriel",
-    "sitelinks": "6"
+    "item": "http://www.wikidata.org/entity/Q686572",
+    "itemLabel": "Up on the House Top",
+    "year": "1864",
+    "lyricistLabel": "Benjamin Hanby",
+    "composerLabel": "Benjamin Hanby",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2193754",
@@ -309,6 +301,14 @@
     "year": "1819",
     "lyricistLabel": "James Montgomery",
     "composerLabel": "Henry Thomas Smart",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2700097",
+    "itemLabel": "His Eye Is on the Sparrow",
+    "year": "1905",
+    "lyricistLabel": "Civilla D. Martin",
+    "composerLabel": "Charles H. Gabriel",
     "sitelinks": "6"
   },
   {
@@ -328,19 +328,19 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11618143",
-    "itemLabel": "Nun ruhen alle Wälder",
-    "year": "1647",
-    "lyricistLabel": "Paul Gerhardt",
-    "composerLabel": "Heinrich Isaac",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5599364",
     "itemLabel": "Great Is Thy Faithfulness",
     "year": "1923",
     "lyricistLabel": "Thomas Chisholm",
     "composerLabel": "William M. Runyan",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11618143",
+    "itemLabel": "Nun ruhen alle Wälder",
+    "year": "1647",
+    "lyricistLabel": "Paul Gerhardt",
+    "composerLabel": "Heinrich Isaac",
     "sitelinks": "5"
   },
   {
@@ -384,19 +384,11 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11900540",
-    "itemLabel": "Sparven om julmorgonen",
-    "year": "1859",
-    "lyricistLabel": "Zachris Topelius",
-    "composerLabel": "Otto Kotilainen",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12317986",
-    "itemLabel": "I østen stiger solen op",
-    "year": "1837",
-    "lyricistLabel": "Bernhard Severin Ingemann",
-    "composerLabel": "Christoph Ernst Friedrich Weyse",
+    "item": "http://www.wikidata.org/entity/Q3809843",
+    "itemLabel": "Jolly Old Saint Nicholas",
+    "year": "1865",
+    "lyricistLabel": "",
+    "composerLabel": "James Ramsey Murray",
     "sitelinks": "4"
   },
   {
@@ -408,6 +400,14 @@
     "sitelinks": "4"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q12317986",
+    "itemLabel": "I østen stiger solen op",
+    "year": "1837",
+    "lyricistLabel": "Bernhard Severin Ingemann",
+    "composerLabel": "Christoph Ernst Friedrich Weyse",
+    "sitelinks": "4"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q19100915",
     "itemLabel": "Lo! He comes with clouds descending",
     "year": "1763",
@@ -416,11 +416,11 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3809843",
-    "itemLabel": "Jolly Old Saint Nicholas",
-    "year": "1865",
-    "lyricistLabel": "",
-    "composerLabel": "James Ramsey Murray",
+    "item": "http://www.wikidata.org/entity/Q11900540",
+    "itemLabel": "Sparven om julmorgonen",
+    "year": "1859",
+    "lyricistLabel": "Zachris Topelius",
+    "composerLabel": "Otto Kotilainen",
     "sitelinks": "4"
   },
   {
@@ -448,11 +448,11 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q59784978",
-    "itemLabel": "Fröhlich soll mein Herze springen",
-    "year": "1653",
-    "lyricistLabel": "Paul Gerhardt",
-    "composerLabel": "Johann Crüger",
+    "item": "http://www.wikidata.org/entity/Q3207006",
+    "itemLabel": "La Cambo me fai mau",
+    "year": "1700",
+    "lyricistLabel": "Nicolas Saboly",
+    "composerLabel": "Nicolas Saboly",
     "sitelinks": "3"
   },
   {
@@ -464,11 +464,11 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1366616",
-    "itemLabel": "Es wird scho glei dumpa",
-    "year": "1884",
-    "lyricistLabel": "Anton Reidinger",
-    "composerLabel": "Anton Reidinger",
+    "item": "http://www.wikidata.org/entity/Q59784978",
+    "itemLabel": "Fröhlich soll mein Herze springen",
+    "year": "1653",
+    "lyricistLabel": "Paul Gerhardt",
+    "composerLabel": "Johann Crüger",
     "sitelinks": "3"
   },
   {
@@ -480,19 +480,19 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1366616",
+    "itemLabel": "Es wird scho glei dumpa",
+    "year": "1884",
+    "lyricistLabel": "Anton Reidinger",
+    "composerLabel": "Anton Reidinger",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q19893108",
     "itemLabel": "Lift High the Cross",
     "year": "1887",
     "lyricistLabel": "George Kitchin",
     "composerLabel": "Sydney Nicholson",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3207006",
-    "itemLabel": "La Cambo me fai mau",
-    "year": "1700",
-    "lyricistLabel": "Nicolas Saboly",
-    "composerLabel": "Nicolas Saboly",
     "sitelinks": "3"
   },
   {
@@ -576,11 +576,11 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17050641",
-    "itemLabel": "Jesu, meine Freude",
-    "year": "1653",
-    "lyricistLabel": "Johann Franck",
-    "composerLabel": "Johann Crüger",
+    "item": "http://www.wikidata.org/entity/Q3601328",
+    "itemLabel": "As with Gladness Men of Old",
+    "year": "1861",
+    "lyricistLabel": "William Chatterton Dix",
+    "composerLabel": "Conrad Kocher",
     "sitelinks": "2"
   },
   {
@@ -592,11 +592,27 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3601328",
-    "itemLabel": "As with Gladness Men of Old",
-    "year": "1861",
-    "lyricistLabel": "William Chatterton Dix",
-    "composerLabel": "William Henry Monk",
+    "item": "http://www.wikidata.org/entity/Q17050641",
+    "itemLabel": "Jesu, meine Freude",
+    "year": "1653",
+    "lyricistLabel": "Johann Franck",
+    "composerLabel": "Johann Crüger",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28035624",
+    "itemLabel": "Lysets engel går med glans",
+    "year": "1837",
+    "lyricistLabel": "Bernhard Severin Ingemann",
+    "composerLabel": "Christoph Ernst Friedrich Weyse",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q121254360",
+    "itemLabel": "Q121254360",
+    "year": "1812",
+    "lyricistLabel": "Karl Friedrich Wilhelm Herrosee",
+    "composerLabel": "Karl Friedrich Schulz",
     "sitelinks": "2"
   },
   {
@@ -616,14 +632,6 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28035624",
-    "itemLabel": "Lysets engel går med glans",
-    "year": "1837",
-    "lyricistLabel": "Bernhard Severin Ingemann",
-    "composerLabel": "Christoph Ernst Friedrich Weyse",
-    "sitelinks": "2"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q56296227",
     "itemLabel": "Eine große Stadt ersteht",
     "year": "1950",
@@ -637,14 +645,6 @@
     "year": "1830",
     "lyricistLabel": "Ludwig Ernst Gebhardi",
     "composerLabel": "Ludwig Ernst Gebhardi",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q121254360",
-    "itemLabel": "Q121254360",
-    "year": "1812",
-    "lyricistLabel": "Karl Friedrich Wilhelm Herrosee",
-    "composerLabel": "Karl Friedrich Schulz",
     "sitelinks": "2"
   },
   {

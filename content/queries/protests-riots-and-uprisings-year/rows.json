@@ -24,6 +24,12 @@
     "sitelinks": "75"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q51402",
+    "itemLabel": "Stonewall riots",
+    "year": "1969",
+    "sitelinks": "73"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6743",
     "itemLabel": "May 68",
     "year": "1968",
@@ -36,16 +42,10 @@
     "sitelinks": "72"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q51402",
-    "itemLabel": "Stonewall riots",
-    "year": "1969",
-    "sitelinks": "72"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q137612545",
     "itemLabel": "2025–2026 Iranian protests",
     "year": "2025",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185642",
@@ -60,12 +60,6 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q110413718",
-    "itemLabel": "2022 Kazakh unrest",
-    "year": "2022",
-    "sitelinks": "53"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q114065797",
     "itemLabel": "Mahsa Amini protests",
     "year": "2022",
@@ -78,6 +72,12 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q110413718",
+    "itemLabel": "2022 Kazakh unrest",
+    "year": "2022",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q97384381",
     "itemLabel": "2020–2021 Belarusian protests",
     "year": "2020",
@@ -85,15 +85,9 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q162665",
-    "itemLabel": "Nika riots",
+    "itemLabel": "Nika Riots",
     "year": "532",
     "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q468823",
-    "itemLabel": "March on Rome",
-    "year": "1922",
-    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q95965839",
@@ -105,6 +99,12 @@
     "item": "http://www.wikidata.org/entity/Q239344",
     "itemLabel": "Salt March",
     "year": "1930",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q468823",
+    "itemLabel": "March on Rome",
+    "year": "1922",
     "sitelinks": "48"
   },
   {
@@ -150,15 +150,21 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q751743",
-    "itemLabel": "Yellow Turban Rebellion",
-    "year": "184",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q18145420",
     "itemLabel": "2014 Hong Kong protests",
     "year": "2014",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q115468992",
+    "itemLabel": "2022 COVID-19 protests in China",
+    "year": "2022",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q751743",
+    "itemLabel": "Yellow Turban Rebellion",
+    "year": "184",
     "sitelinks": "40"
   }
 ]

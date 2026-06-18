@@ -3,7 +3,7 @@
     "item": "http://www.wikidata.org/entity/Q127912",
     "itemLabel": "United States Declaration of Independence",
     "year": "1776",
-    "sitelinks": "119"
+    "sitelinks": "120"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223732",
@@ -36,15 +36,21 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q598496",
-    "itemLabel": "Declaration of Arbroath",
-    "year": "1320",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q41796018",
     "itemLabel": "Catalan declaration of independence",
     "year": "2017",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1994771",
+    "itemLabel": "Finnish Declaration of Independence",
+    "year": "1917",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q598496",
+    "itemLabel": "Declaration of Arbroath",
+    "year": "1320",
     "sitelinks": "30"
   },
   {
@@ -54,16 +60,16 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1994771",
-    "itemLabel": "Finnish Declaration of Independence",
-    "year": "1917",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1661772",
     "itemLabel": "Proclamation of Indonesian Independence",
     "year": "1945",
-    "sitelinks": "26"
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q281097",
+    "itemLabel": "Albanian Declaration of Independence",
+    "year": "1913",
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q634839",
@@ -72,16 +78,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q281097",
-    "itemLabel": "Albanian Declaration of Independence",
-    "year": "1913",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q16414371",
     "itemLabel": "Declaration of Independence of Azerbaijan",
     "year": "1918",
-    "sitelinks": "22"
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6895819",
@@ -99,7 +99,7 @@
     "item": "http://www.wikidata.org/entity/Q2823577",
     "itemLabel": "Act of the Re-Establishment of the State of Lithuania",
     "year": "1990",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15925292",
@@ -114,21 +114,27 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7321053",
+    "itemLabel": "Rhodesia's Unilateral Declaration of Independence",
+    "year": "1965",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1628090",
     "itemLabel": "Bulgarian Declaration of Independence",
     "year": "1908",
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7321053",
-    "itemLabel": "Rhodesia's Unilateral Declaration of Independence",
-    "year": "1965",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q12593144",
     "itemLabel": "Proclamation of Korean Independence",
     "year": "1919",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3382350",
+    "itemLabel": "Venezuela Declaration of Independence",
+    "year": "1811",
     "sitelinks": "16"
   },
   {
@@ -142,12 +148,6 @@
     "itemLabel": "Czechoslovak declaration of independence",
     "year": "1918",
     "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3382350",
-    "itemLabel": "Venezuela Declaration of Independence",
-    "year": "1811",
-    "sitelinks": "14"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1055742",
@@ -168,9 +168,27 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q12868917",
+    "itemLabel": "Georgian Declaration of Independence, 1918",
+    "year": "1918",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3248484",
+    "itemLabel": "Argentine Declaration of Independence",
+    "year": "1816",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1131780",
     "itemLabel": "Declaration of Independence of the Mexican Empire",
     "year": "1821",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7091483",
+    "itemLabel": "On the Restoration of Independence of the Republic of Latvia",
+    "year": "1990",
     "sitelinks": "11"
   },
   {
@@ -180,20 +198,8 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3248484",
-    "itemLabel": "Argentine Declaration of Independence",
-    "year": "1816",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q16642507",
     "itemLabel": "Declaration of State Sovereignty of Bashkortostan",
-    "year": "1990",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7091483",
-    "itemLabel": "On the Restoration of Independence of the Republic of Latvia",
     "year": "1990",
     "sitelinks": "11"
   },
@@ -216,21 +222,21 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1182065",
-    "itemLabel": "The Declaration of the Independence of New Zealand",
-    "year": "1835",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2004618",
     "itemLabel": "Slovak National Council's Declaration of Independence of the Slovak Nation",
     "year": "1992",
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3042670",
-    "itemLabel": "Irish Declaration of Independence",
-    "year": "1919",
+    "item": "http://www.wikidata.org/entity/Q2268588",
+    "itemLabel": "Solemn Act of the Declaration of Independence of Northern America",
+    "year": "1813",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1182065",
+    "itemLabel": "The Declaration of the Independence of New Zealand",
+    "year": "1835",
     "sitelinks": "9"
   },
   {
@@ -246,28 +252,22 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2268588",
-    "itemLabel": "Solemn Act of the Declaration of Independence of Northern America",
-    "year": "1813",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q17502440",
     "itemLabel": "Haitian Declaration of Independence",
     "year": "1804",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12868917",
-    "itemLabel": "Georgian Declaration of Independence, 1918",
-    "year": "1918",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q97168325",
     "itemLabel": "East Timor independence",
     "year": "2002",
     "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7247434",
+    "itemLabel": "Proclamation of Singapore",
+    "year": "1965",
+    "sitelinks": "6"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2492369",
@@ -288,22 +288,10 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7247434",
-    "itemLabel": "Proclamation of Singapore",
-    "year": "1965",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q104303142",
     "itemLabel": "Somaliland Declaration of Independence",
     "year": "1991",
     "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5249426",
-    "itemLabel": "Declaration of Independence of Armenia (1918)",
-    "year": "1918",
-    "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5654256",
@@ -312,9 +300,27 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5656901",
+    "itemLabel": "Independence Act of Panama",
+    "year": "1821",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6541120",
     "itemLabel": "Liberian Declaration of Independence",
     "year": "1847",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12170143",
+    "itemLabel": "Fourth Universal of the Ukrainian Central Council",
+    "year": "1918",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5249426",
+    "itemLabel": "Declaration of Independence of Armenia (1918)",
+    "year": "1918",
     "sitelinks": "5"
   },
   {
@@ -330,27 +336,15 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2616398",
-    "itemLabel": "independence of Suriname",
-    "year": "1975",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5656901",
-    "itemLabel": "Independence Act of Panama",
-    "year": "1821",
-    "sitelinks": "4"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5801137",
     "itemLabel": "Act of independence of Peru",
     "year": "1822",
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12170143",
-    "itemLabel": "Fourth Universal of the Ukrainian Central Council",
-    "year": "1918",
+    "item": "http://www.wikidata.org/entity/Q2616398",
+    "itemLabel": "independence of Suriname",
+    "year": "1975",
     "sitelinks": "4"
   },
   {
@@ -372,27 +366,27 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2893011",
-    "itemLabel": "Act of Independence of Colombia",
-    "year": "1810",
-    "sitelinks": "3"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5801144",
     "itemLabel": "Uruguayan Declaration of Independence",
     "year": "1825",
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3042666",
-    "itemLabel": "Declaration of Independence of Lower Canada",
-    "year": "1838",
-    "sitelinks": "2"
+    "item": "http://www.wikidata.org/entity/Q2893011",
+    "itemLabel": "Act of Independence of Colombia",
+    "year": "1810",
+    "sitelinks": "3"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5683732",
     "itemLabel": "Act of Independence of Paraguay",
     "year": "1842",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3042666",
+    "itemLabel": "Declaration of Independence of Lower Canada",
+    "year": "1838",
     "sitelinks": "2"
   },
   {
@@ -414,15 +408,21 @@
     "sitelinks": "2"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q6085931",
+    "itemLabel": "First Call for Independence",
+    "year": "1821",
+    "sitelinks": "1"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3042660",
     "itemLabel": "Declaration of Independence of Belgium",
     "year": "1830",
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6085931",
-    "itemLabel": "First Call for Independence",
-    "year": "1821",
+    "item": "http://www.wikidata.org/entity/Q137703868",
+    "itemLabel": "Syrian Declaration of Independence",
+    "year": "1941",
     "sitelinks": "1"
   },
   {
@@ -453,12 +453,6 @@
     "item": "http://www.wikidata.org/entity/Q123465892",
     "itemLabel": "independence of Brunei",
     "year": "1983",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q137703868",
-    "itemLabel": "Syrian Declaration of Independence",
-    "year": "1941",
     "sitelinks": "1"
   }
 ]

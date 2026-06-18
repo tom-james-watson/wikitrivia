@@ -30,15 +30,21 @@
     "sitelinks": "126"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q478317",
+    "itemLabel": "Coritiba F.C.",
+    "year": "1909",
+    "sitelinks": "125"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q9617",
     "itemLabel": "Arsenal F.C.",
     "year": "1886",
     "sitelinks": "124"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q478317",
-    "itemLabel": "Coritiba F.C.",
-    "year": "1909",
+    "item": "http://www.wikidata.org/entity/Q15789",
+    "itemLabel": "FC Bayern Munich",
+    "year": "1900",
     "sitelinks": "124"
   },
   {
@@ -48,16 +54,10 @@
     "sitelinks": "123"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15789",
-    "itemLabel": "FC Bayern Munich",
-    "year": "1900",
-    "sitelinks": "123"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q631",
     "itemLabel": "Inter Milan",
     "year": "1908",
-    "sitelinks": "120"
+    "sitelinks": "121"
   },
   {
     "item": "http://www.wikidata.org/entity/Q50602",
@@ -96,21 +96,15 @@
     "sitelinks": "103"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q29103",
-    "itemLabel": "FC Kuban Krasnodar",
-    "year": "1928",
+    "item": "http://www.wikidata.org/entity/Q35933",
+    "itemLabel": "S.C. Corinthians Paulista",
+    "year": "1910",
     "sitelinks": "102"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2739",
     "itemLabel": "AS Roma",
     "year": "1927",
-    "sitelinks": "102"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35933",
-    "itemLabel": "S.C. Corinthians Paulista",
-    "year": "1910",
     "sitelinks": "102"
   },
   {
@@ -126,6 +120,12 @@
     "sitelinks": "101"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q483020",
+    "itemLabel": "Paris Saint-Germain FC",
+    "year": "1970",
+    "sitelinks": "101"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q18711",
     "itemLabel": "Aston Villa F.C.",
     "year": "1874",
@@ -138,16 +138,10 @@
     "sitelinks": "99"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q483020",
-    "itemLabel": "Paris Saint-Germain FC",
-    "year": "1970",
-    "sitelinks": "99"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q41420",
     "itemLabel": "Borussia Dortmund",
     "year": "1909",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18716",
@@ -159,12 +153,18 @@
     "item": "http://www.wikidata.org/entity/Q2052",
     "itemLabel": "ACF Fiorentina",
     "year": "1926",
-    "sitelinks": "94"
+    "sitelinks": "93"
   },
   {
     "item": "http://www.wikidata.org/entity/Q128446",
     "itemLabel": "FC Porto",
     "year": "1893",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q495299",
+    "itemLabel": "Galatasaray S.K.",
+    "year": "1905",
     "sitelinks": "93"
   },
   {
@@ -180,21 +180,15 @@
     "sitelinks": "92"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q495299",
-    "itemLabel": "Galatasaray S.K.",
-    "year": "1905",
-    "sitelinks": "92"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q19481",
     "itemLabel": "Leicester City F.C.",
     "year": "1884",
     "sitelinks": "92"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131499",
-    "itemLabel": "S.L. Benfica",
-    "year": "1904",
+    "item": "http://www.wikidata.org/entity/Q6601875",
+    "itemLabel": "Fenerbahçe Istanbul",
+    "year": "1907",
     "sitelinks": "91"
   },
   {
@@ -204,10 +198,16 @@
     "sitelinks": "91"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6601875",
-    "itemLabel": "Fenerbahçe Istanbul",
-    "year": "1907",
+    "item": "http://www.wikidata.org/entity/Q131499",
+    "itemLabel": "S.L. Benfica",
+    "year": "1904",
     "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104761",
+    "itemLabel": "Bayer 04 Leverkusen",
+    "year": "1904",
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q714581",
@@ -219,12 +219,6 @@
     "item": "http://www.wikidata.org/entity/Q17479",
     "itemLabel": "Clube de Regatas do Flamengo",
     "year": "1895",
-    "sitelinks": "88"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104761",
-    "itemLabel": "Bayer 04 Leverkusen",
-    "year": "1904",
     "sitelinks": "88"
   },
   {
@@ -264,9 +258,33 @@
     "sitelinks": "85"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4512",
+    "itemLabel": "VfB Stuttgart",
+    "year": "1893",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172567",
+    "itemLabel": "Beşiktaş J.K. (Football)",
+    "year": "1903",
+    "sitelinks": "85"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2074",
     "itemLabel": "Genoa CFC",
     "year": "1893",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101959",
+    "itemLabel": "Borussia Mönchengladbach",
+    "year": "1900",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134241",
+    "itemLabel": "Feyenoord Rotterdam",
+    "year": "1908",
     "sitelinks": "84"
   },
   {
@@ -276,22 +294,22 @@
     "sitelinks": "84"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4512",
-    "itemLabel": "VfB Stuttgart",
-    "year": "1893",
-    "sitelinks": "84"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q179075",
     "itemLabel": "FC Dynamo Kyiv",
     "year": "1927",
     "sitelinks": "84"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q172567",
-    "itemLabel": "Beşiktaş J.K.",
-    "year": "1903",
-    "sitelinks": "84"
+    "item": "http://www.wikidata.org/entity/Q51976",
+    "itemLabel": "SV Werder Bremen",
+    "year": "1899",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11938",
+    "itemLabel": "PSV Eindhoven",
+    "year": "1913",
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2768",
@@ -300,27 +318,9 @@
     "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q134241",
-    "itemLabel": "Feyenoord Rotterdam",
-    "year": "1908",
-    "sitelinks": "83"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q101959",
-    "itemLabel": "Borussia Mönchengladbach",
-    "year": "1900",
-    "sitelinks": "83"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q18747",
     "itemLabel": "West Ham United F.C.",
     "year": "1895",
-    "sitelinks": "83"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q180305",
-    "itemLabel": "AS Monaco FC",
-    "year": "1924",
     "sitelinks": "83"
   },
   {
@@ -336,21 +336,39 @@
     "sitelinks": "83"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q180305",
+    "itemLabel": "AS Monaco FC",
+    "year": "1924",
+    "sitelinks": "83"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1457",
     "itemLabel": "U.C. Sampdoria",
     "year": "1946",
     "sitelinks": "82"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11938",
-    "itemLabel": "PSV Eindhoven",
-    "year": "1913",
+    "item": "http://www.wikidata.org/entity/Q8780",
+    "itemLabel": "RCD Espanyol de Barcelona",
+    "year": "1900",
     "sitelinks": "82"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q51976",
-    "itemLabel": "SV Werder Bremen",
-    "year": "1899",
+    "item": "http://www.wikidata.org/entity/Q18708",
+    "itemLabel": "Fulham F.C.",
+    "year": "1879",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18732",
+    "itemLabel": "Southampton F.C.",
+    "year": "1885",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19467",
+    "itemLabel": "Crystal Palace F.C.",
+    "year": "1905",
     "sitelinks": "82"
   },
   {
@@ -358,12 +376,6 @@
     "itemLabel": "FK Žalgiris",
     "year": "1947",
     "sitelinks": "82"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12297",
-    "itemLabel": "Villarreal CF",
-    "year": "1923",
-    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29108",
@@ -378,9 +390,15 @@
     "sitelinks": "81"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8780",
-    "itemLabel": "RCD Espanyol de Barcelona",
-    "year": "1900",
+    "item": "http://www.wikidata.org/entity/Q101859",
+    "itemLabel": "VfL Wolfsburg",
+    "year": "1945",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12297",
+    "itemLabel": "Villarreal CF",
+    "year": "1923",
     "sitelinks": "81"
   },
   {
@@ -390,21 +408,9 @@
     "sitelinks": "81"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18732",
-    "itemLabel": "Southampton F.C.",
-    "year": "1885",
-    "sitelinks": "81"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18708",
-    "itemLabel": "Fulham F.C.",
-    "year": "1879",
-    "sitelinks": "81"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19467",
-    "itemLabel": "Crystal Palace F.C.",
-    "year": "1905",
+    "item": "http://www.wikidata.org/entity/Q23894576",
+    "itemLabel": "FK Panevėžys",
+    "year": "2015",
     "sitelinks": "81"
   },
   {
@@ -414,10 +420,10 @@
     "sitelinks": "81"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q23894576",
-    "itemLabel": "FK Panevėžys",
-    "year": "2015",
-    "sitelinks": "81"
+    "item": "http://www.wikidata.org/entity/Q704",
+    "itemLabel": "Olympique Lyonnais",
+    "year": "1950",
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q10315",
@@ -426,15 +432,9 @@
     "sitelinks": "80"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q101859",
-    "itemLabel": "VfL Wolfsburg",
-    "year": "1945",
-    "sitelinks": "80"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q757104",
-    "itemLabel": "FK Sūduva",
-    "year": "1968",
+    "item": "http://www.wikidata.org/entity/Q18659",
+    "itemLabel": "Swansea City A.F.C.",
+    "year": "1912",
     "sitelinks": "80"
   },
   {
@@ -444,21 +444,15 @@
     "sitelinks": "80"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q704",
-    "itemLabel": "Olympique Lyonnais",
-    "year": "1950",
-    "sitelinks": "79"
+    "item": "http://www.wikidata.org/entity/Q757104",
+    "itemLabel": "FK Sūduva",
+    "year": "1968",
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2693",
     "itemLabel": "Parma Calcio 1913",
     "year": "1913",
-    "sitelinks": "79"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18659",
-    "itemLabel": "Swansea City A.F.C.",
-    "year": "1912",
     "sitelinks": "79"
   },
   {
@@ -468,21 +462,21 @@
     "sitelinks": "79"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2798",
+    "itemLabel": "Udinese Calcio",
+    "year": "1896",
+    "sitelinks": "78"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q14657783",
     "itemLabel": "FK Riteriai",
     "year": "2005",
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2798",
-    "itemLabel": "Udinese Calcio",
-    "year": "1896",
-    "sitelinks": "77"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19458",
-    "itemLabel": "Burnley F.C.",
-    "year": "1882",
+    "item": "http://www.wikidata.org/entity/Q8723",
+    "itemLabel": "Real Betis Balompié",
+    "year": "1907",
     "sitelinks": "77"
   },
   {
@@ -492,15 +486,27 @@
     "sitelinks": "77"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15799",
-    "itemLabel": "Club Atlético River Plate",
-    "year": "1901",
+    "item": "http://www.wikidata.org/entity/Q19458",
+    "itemLabel": "Burnley F.C.",
+    "year": "1882",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19490",
+    "itemLabel": "Nottingham Forest F.C.",
+    "year": "1865",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51974",
+    "itemLabel": "Hamburger SV",
+    "year": "1887",
     "sitelinks": "76"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8723",
-    "itemLabel": "Real Betis Balompié",
-    "year": "1907",
+    "item": "http://www.wikidata.org/entity/Q15799",
+    "itemLabel": "Club Atlético River Plate",
+    "year": "1901",
     "sitelinks": "76"
   },
   {
@@ -510,16 +516,16 @@
     "sitelinks": "76"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19490",
-    "itemLabel": "Nottingham Forest F.C.",
-    "year": "1865",
-    "sitelinks": "76"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q19568",
     "itemLabel": "AFC Bournemouth",
     "year": "1899",
     "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80964",
+    "itemLabel": "Sociedade Esportiva Palmeiras",
+    "year": "1914",
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1900",
@@ -528,9 +534,15 @@
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q51974",
-    "itemLabel": "Hamburger SV",
-    "year": "1887",
+    "item": "http://www.wikidata.org/entity/Q104770",
+    "itemLabel": "1. FC Köln",
+    "year": "1948",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q176371",
+    "itemLabel": "PFC CSKA Moscow",
+    "year": "1911",
     "sitelinks": "75"
   },
   {
@@ -540,15 +552,15 @@
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80964",
-    "itemLabel": "Sociedade Esportiva Palmeiras",
-    "year": "1914",
+    "item": "http://www.wikidata.org/entity/Q80955",
+    "itemLabel": "Santos F.C.",
+    "year": "1912",
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q176371",
-    "itemLabel": "PFC CSKA Moscow",
-    "year": "1911",
+    "item": "http://www.wikidata.org/entity/Q15755",
+    "itemLabel": "FC Augsburg",
+    "year": "1907",
     "sitelinks": "74"
   },
   {
@@ -564,21 +576,9 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15755",
-    "itemLabel": "FC Augsburg",
-    "year": "1907",
-    "sitelinks": "73"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80955",
-    "itemLabel": "Santos F.C.",
-    "year": "1912",
-    "sitelinks": "73"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104770",
-    "itemLabel": "1. FC Köln",
-    "year": "1948",
+    "item": "http://www.wikidata.org/entity/Q102720",
+    "itemLabel": "Hertha BSC",
+    "year": "1892",
     "sitelinks": "73"
   },
   {

@@ -57,18 +57,24 @@
     "item": "http://www.wikidata.org/entity/Q166105",
     "itemLabel": "Sacramento Kings",
     "year": "1945",
-    "sitelinks": "72"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q572134",
     "itemLabel": "Brooklyn Nets",
     "year": "1967",
-    "sitelinks": "71"
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q162954",
     "itemLabel": "Denver Nuggets",
     "year": "1967",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q163480",
+    "itemLabel": "Charlotte Hornets",
+    "year": "1988",
     "sitelinks": "71"
   },
   {
@@ -84,9 +90,9 @@
     "sitelinks": "70"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q163480",
-    "itemLabel": "Charlotte Hornets",
-    "year": "1988",
+    "item": "http://www.wikidata.org/entity/Q167253",
+    "itemLabel": "Portland Trail Blazers",
+    "year": "1970",
     "sitelinks": "70"
   },
   {
@@ -96,15 +102,9 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q169637",
-    "itemLabel": "Milwaukee Bucks",
-    "year": "1968",
-    "sitelinks": "69"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q167253",
-    "itemLabel": "Portland Trail Blazers",
-    "year": "1970",
+    "item": "http://www.wikidata.org/entity/Q161337",
+    "itemLabel": "Orlando Magic",
+    "year": "1989",
     "sitelinks": "69"
   },
   {
@@ -114,28 +114,22 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q161337",
-    "itemLabel": "Orlando Magic",
-    "year": "1989",
-    "sitelinks": "69"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q165529",
-    "itemLabel": "Memphis Grizzlies",
-    "year": "1995",
-    "sitelinks": "68"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q170329",
     "itemLabel": "Indiana Pacers",
     "year": "1967",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q169165",
     "itemLabel": "Washington Wizards",
     "year": "1961",
-    "sitelinks": "68"
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q169637",
+    "itemLabel": "Milwaukee Bucks",
+    "year": "1968",
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q161345",
@@ -147,24 +141,30 @@
     "item": "http://www.wikidata.org/entity/Q169661",
     "itemLabel": "Detroit Pistons",
     "year": "1937",
-    "sitelinks": "67"
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165529",
+    "itemLabel": "Memphis Grizzlies",
+    "year": "1995",
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q976396",
     "itemLabel": "Los Angeles Clippers",
     "year": "1970",
-    "sitelinks": "67"
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170649",
     "itemLabel": "Utah Jazz",
     "year": "1974",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170558",
-    "itemLabel": "Minnesota Timberwolves",
-    "year": "1989",
+    "item": "http://www.wikidata.org/entity/Q180950",
+    "itemLabel": "Oklahoma City Thunder",
+    "year": "1967",
     "sitelinks": "64"
   },
   {
@@ -174,10 +174,10 @@
     "sitelinks": "64"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q180950",
-    "itemLabel": "Oklahoma City Thunder",
-    "year": "1967",
-    "sitelinks": "63"
+    "item": "http://www.wikidata.org/entity/Q170558",
+    "itemLabel": "Minnesota Timberwolves",
+    "year": "1989",
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2928124",
@@ -193,7 +193,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q2354728",
-    "itemLabel": "Sheboygan Red Skins",
+    "itemLabel": "Sheboygan Redskins",
     "year": "1938",
     "sitelinks": "21"
   },

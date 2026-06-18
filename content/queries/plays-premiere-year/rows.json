@@ -4,7 +4,7 @@
     "itemLabel": "Hamlet",
     "year": "1602",
     "authorLabel": "William Shakespeare",
-    "sitelinks": "141"
+    "sitelinks": "142"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130283",
@@ -46,14 +46,14 @@
     "itemLabel": "Antigone",
     "year": "-440",
     "authorLabel": "Sophocles",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q148643",
     "itemLabel": "Oedipus Rex",
     "year": "-424",
     "authorLabel": "Sophocles",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q206400",
@@ -91,18 +91,18 @@
     "sitelinks": "55"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q669694",
+    "itemLabel": "A Doll's House",
+    "year": "1879",
+    "authorLabel": "Henrik Ibsen",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q389933",
     "itemLabel": "The Miser",
     "year": "1668",
     "authorLabel": "Molière",
     "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q669694",
-    "itemLabel": "A Doll's House",
-    "year": "1879",
-    "authorLabel": "Henrik Ibsen",
-    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q506505",
@@ -123,7 +123,7 @@
     "itemLabel": "Medea",
     "year": "-430",
     "authorLabel": "Euripides",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q463126",
@@ -168,6 +168,13 @@
     "sitelinks": "46"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q478381",
+    "itemLabel": "The Cherry Orchard",
+    "year": "1904",
+    "authorLabel": "Anton Chekhov",
+    "sitelinks": "45"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q846870",
     "itemLabel": "Prometheus Bound",
     "year": "-450",
@@ -179,13 +186,6 @@
     "itemLabel": "Lysistrata",
     "year": "-410",
     "authorLabel": "Aristophanes",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q478381",
-    "itemLabel": "The Cherry Orchard",
-    "year": "1904",
-    "authorLabel": "Anton Chekhov",
     "sitelinks": "45"
   },
   {
@@ -203,13 +203,6 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q650063",
-    "itemLabel": "The Seagull",
-    "year": "1896",
-    "authorLabel": "Anton Chekhov",
-    "sitelinks": "43"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q637200",
     "itemLabel": "Pygmalion",
     "year": "1913",
@@ -224,6 +217,13 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q650063",
+    "itemLabel": "The Seagull",
+    "year": "1896",
+    "authorLabel": "Anton Chekhov",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q733444",
     "itemLabel": "Electra",
     "year": "-410",
@@ -235,6 +235,13 @@
     "itemLabel": "Oedipus at Colonus",
     "year": "-400",
     "authorLabel": "Sophocles",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q753298",
+    "itemLabel": "Uncle Vanya",
+    "year": "1899",
+    "authorLabel": "Anton Chekhov",
     "sitelinks": "41"
   },
   {
@@ -242,6 +249,13 @@
     "itemLabel": "The Bacchae",
     "year": "-404",
     "authorLabel": "Euripides",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q588161",
+    "itemLabel": "The Imaginary Invalid",
+    "year": "1673",
+    "authorLabel": "Molière",
     "sitelinks": "40"
   },
   {
@@ -249,20 +263,6 @@
     "itemLabel": "Oresteia",
     "year": "-457",
     "authorLabel": "Aeschylus",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q753298",
-    "itemLabel": "Uncle Vanya",
-    "year": "1899",
-    "authorLabel": "Anton Chekhov",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q588161",
-    "itemLabel": "The Imaginary Invalid",
-    "year": "1673",
-    "authorLabel": "Molière",
     "sitelinks": "40"
   },
   {
@@ -278,20 +278,6 @@
     "year": "1598",
     "authorLabel": "William Shakespeare",
     "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q788458",
-    "itemLabel": "The Persians",
-    "year": "-471",
-    "authorLabel": "Aeschylus",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q506546",
-    "itemLabel": "Seven against Thebes",
-    "year": "-466",
-    "authorLabel": "Aeschylus",
-    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1164094",
@@ -319,7 +305,21 @@
     "itemLabel": "The Frogs",
     "year": "-404",
     "authorLabel": "Aristophanes",
-    "sitelinks": "37"
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q788458",
+    "itemLabel": "The Persians",
+    "year": "-471",
+    "authorLabel": "Aeschylus",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q506546",
+    "itemLabel": "Seven against Thebes",
+    "year": "-466",
+    "authorLabel": "Aeschylus",
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q730212",
@@ -343,17 +343,24 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1415903",
-    "itemLabel": "Philoctetes",
-    "year": "-408",
-    "authorLabel": "Sophocles",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1246408",
     "itemLabel": "Alcestis",
     "year": "-437",
     "authorLabel": "Euripides",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q672059",
+    "itemLabel": "Henry VIII",
+    "year": "1623",
+    "authorLabel": "William Shakespeare",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1415903",
+    "itemLabel": "Philoctetes",
+    "year": "-408",
+    "authorLabel": "Sophocles",
     "sitelinks": "33"
   },
   {
@@ -364,32 +371,11 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q672059",
-    "itemLabel": "Henry VIII",
-    "year": "1623",
-    "authorLabel": "William Shakespeare",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1233770",
-    "itemLabel": "Iphigenia in Aulis",
-    "year": "-404",
-    "authorLabel": "Euripides",
-    "sitelinks": "32"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1164079",
     "itemLabel": "The Birds",
     "year": "-413",
     "authorLabel": "Aristophanes",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q412341",
-    "itemLabel": "Ajax",
-    "year": "-441",
-    "authorLabel": "Sophocles",
-    "sitelinks": "32"
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1232349",
@@ -406,11 +392,18 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q540161",
-    "itemLabel": "Electra",
-    "year": "-414",
+    "item": "http://www.wikidata.org/entity/Q1233770",
+    "itemLabel": "Iphigenia in Aulis",
+    "year": "-404",
     "authorLabel": "Euripides",
-    "sitelinks": "31"
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q412341",
+    "itemLabel": "Ajax",
+    "year": "-441",
+    "authorLabel": "Sophocles",
+    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q969098",
@@ -420,11 +413,25 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q540161",
+    "itemLabel": "Electra",
+    "year": "-414",
+    "authorLabel": "Euripides",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1305319",
     "itemLabel": "An Enemy of the People",
     "year": "1883",
     "authorLabel": "Henrik Ibsen",
     "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q643236",
+    "itemLabel": "Henry VI, Part 1",
+    "year": "1623",
+    "authorLabel": "William Shakespeare",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q608261",
@@ -438,13 +445,6 @@
     "itemLabel": "Hippolytus",
     "year": "-427",
     "authorLabel": "Euripides",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q643236",
-    "itemLabel": "Henry VI, Part 1",
-    "year": "1623",
-    "authorLabel": "William Shakespeare",
     "sitelinks": "30"
   },
   {
@@ -497,6 +497,20 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1054372",
+    "itemLabel": "Le Bourgeois gentilhomme",
+    "year": "1670",
+    "authorLabel": "Molière",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q937443",
+    "itemLabel": "The School for Wives",
+    "year": "1662",
+    "authorLabel": "Molière",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q663886",
     "itemLabel": "Orestes",
     "year": "-407",
@@ -511,18 +525,18 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1054372",
-    "itemLabel": "Le Bourgeois gentilhomme",
-    "year": "1670",
-    "authorLabel": "Molière",
-    "sitelinks": "27"
+    "item": "http://www.wikidata.org/entity/Q1217608",
+    "itemLabel": "The Wild Duck",
+    "year": "1884",
+    "authorLabel": "Henrik Ibsen",
+    "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q937443",
-    "itemLabel": "The School for Wives",
-    "year": "1662",
-    "authorLabel": "Molière",
-    "sitelinks": "27"
+    "item": "http://www.wikidata.org/entity/Q1143075",
+    "itemLabel": "An Ideal Husband",
+    "year": "1899",
+    "authorLabel": "Oscar Wilde",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1217552",
@@ -546,11 +560,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1217608",
-    "itemLabel": "The Wild Duck",
-    "year": "1884",
-    "authorLabel": "Henrik Ibsen",
-    "sitelinks": "26"
+    "item": "http://www.wikidata.org/entity/Q179485",
+    "itemLabel": "Don Juan",
+    "year": "1682",
+    "authorLabel": "Molière",
+    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1233660",
@@ -588,32 +602,11 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1143075",
-    "itemLabel": "An Ideal Husband",
-    "year": "1899",
-    "authorLabel": "Oscar Wilde",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q179485",
-    "itemLabel": "Don Juan",
-    "year": "1682",
-    "authorLabel": "Molière",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1241754",
     "itemLabel": "Henry VI, Part 3",
     "year": "1623",
     "authorLabel": "William Shakespeare",
     "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1196456",
-    "itemLabel": "Plutus",
-    "year": "-387",
-    "authorLabel": "Aristophanes",
-    "sitelinks": "24"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1219041",
@@ -630,11 +623,25 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1196456",
+    "itemLabel": "Plutus",
+    "year": "-387",
+    "authorLabel": "Aristophanes",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2469735",
     "itemLabel": "Scapin the Schemer",
     "year": "1671",
     "authorLabel": "Molière",
     "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q512807",
+    "itemLabel": "Andromaque",
+    "year": "1667",
+    "authorLabel": "Jean Racine",
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1248812",
@@ -665,20 +672,6 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q512807",
-    "itemLabel": "Andromaque",
-    "year": "1667",
-    "authorLabel": "Jean Racine",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1233203",
-    "itemLabel": "Herakles' Children",
-    "year": "-429",
-    "authorLabel": "Euripides",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q641378",
     "itemLabel": "The Master Builder",
     "year": "1893",
@@ -690,6 +683,13 @@
     "itemLabel": "John Gabriel Borkman",
     "year": "1896",
     "authorLabel": "Henrik Ibsen",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1233203",
+    "itemLabel": "Herakles' Children",
+    "year": "-429",
+    "authorLabel": "Euripides",
     "sitelinks": "21"
   },
   {

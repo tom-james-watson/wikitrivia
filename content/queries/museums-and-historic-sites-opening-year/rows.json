@@ -5,15 +5,7 @@
     "year": "1793",
     "locationLabel": "Saint-Germain-l'Auxerrois",
     "description": "art and archeology museum in Paris, France",
-    "sitelinks": "164"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12506",
-    "itemLabel": "Hagia Sophia",
-    "year": "1054",
-    "locationLabel": "Istanbul",
-    "description": "mosque, museum, and former church in Istanbul, Turkey",
-    "sitelinks": "148"
+    "sitelinks": "166"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7341",
@@ -37,7 +29,7 @@
     "year": "1661",
     "locationLabel": "Versailles",
     "description": "palace in Versailles, France and location of the Museum of the History of France",
-    "sitelinks": "107"
+    "sitelinks": "108"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6373",
@@ -45,7 +37,7 @@
     "year": "1759",
     "locationLabel": "London Borough of Camden",
     "description": "national museum in London, United Kingdom",
-    "sitelinks": "106"
+    "sitelinks": "108"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80290",
@@ -53,7 +45,7 @@
     "year": "1923",
     "locationLabel": "Dongcheng District",
     "description": "Chinese imperial palace in Beijing",
-    "sitelinks": "102"
+    "sitelinks": "103"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42182",
@@ -69,7 +61,7 @@
     "year": "1869",
     "locationLabel": "Schwangau",
     "description": "castle in Bavaria, Germany, Europe",
-    "sitelinks": "90"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46815",
@@ -77,7 +69,7 @@
     "year": "1965",
     "locationLabel": "Jerusalem",
     "description": "national museum of the state of Israel in Jerusalem",
-    "sitelinks": "89"
+    "sitelinks": "90"
   },
   {
     "item": "http://www.wikidata.org/entity/Q62378",
@@ -93,7 +85,7 @@
     "year": "1764",
     "locationLabel": "Saint Petersburg",
     "description": "museum in Saint Petersburg, Russia",
-    "sitelinks": "85"
+    "sitelinks": "86"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160236",
@@ -101,7 +93,7 @@
     "year": "1870",
     "locationLabel": "Manhattan",
     "description": "art museum in New York City, United States",
-    "sitelinks": "84"
+    "sitelinks": "86"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42646",
@@ -109,7 +101,7 @@
     "year": "1070",
     "locationLabel": "Windsor and Maidenhead",
     "description": "royal residence at Windsor in Berkshire, England, UK",
-    "sitelinks": "84"
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160112",
@@ -133,7 +125,7 @@
     "year": "1987",
     "locationLabel": "Jerusalem",
     "description": "organization in Jerusalem",
-    "sitelinks": "77"
+    "sitelinks": "76"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51252",
@@ -150,6 +142,14 @@
     "locationLabel": "City of Westminster",
     "description": "art museum in London, England, UK",
     "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191739",
+    "itemLabel": "Florence Cathedral",
+    "year": "1296",
+    "locationLabel": "Tuscany",
+    "description": "13th-century cathedral in Florence, Italy",
+    "sitelinks": "70"
   },
   {
     "item": "http://www.wikidata.org/entity/Q190804",
@@ -176,20 +176,20 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q191739",
-    "itemLabel": "Florence Cathedral",
-    "year": "1296",
-    "locationLabel": "Florence",
-    "description": "13th-century cathedral in Florence, Italy",
-    "sitelinks": "68"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q179199",
     "itemLabel": "Guggenheim Museum Bilbao",
     "year": "1997",
     "locationLabel": "Bilbao",
     "description": "Museum of modern and contemporary art in Bilbao, Spain",
     "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188740",
+    "itemLabel": "Museum of Modern Art",
+    "year": "1929",
+    "locationLabel": "Manhattan",
+    "description": "art museum in Manhattan in New York City, New York, United States",
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q82941",
@@ -200,12 +200,12 @@
     "sitelinks": "65"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q188740",
-    "itemLabel": "Museum of Modern Art",
-    "year": "1929",
-    "locationLabel": "Manhattan",
-    "description": "art museum in Manhattan in New York City, New York, United States",
-    "sitelinks": "65"
+    "item": "http://www.wikidata.org/entity/Q182955",
+    "itemLabel": "Vatican Museums",
+    "year": "1771",
+    "locationLabel": "Vatican City",
+    "description": "museums of the Vatican City",
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156591",
@@ -216,12 +216,12 @@
     "sitelinks": "64"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182955",
-    "itemLabel": "Vatican Museums",
-    "year": "1771",
-    "locationLabel": "Vatican City",
-    "description": "museums of the Vatican City",
-    "sitelinks": "63"
+    "item": "http://www.wikidata.org/entity/Q126130",
+    "itemLabel": "Bible Lands Museum",
+    "year": "1985",
+    "locationLabel": "Givat Ram",
+    "description": "аchaeological museum in Jerusalem",
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179191",
@@ -229,14 +229,6 @@
     "year": "1983",
     "locationLabel": "Cleveland",
     "description": "music museum in Cleveland, Ohio, United States",
-    "sitelinks": "63"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q126130",
-    "itemLabel": "Bible Lands Museum",
-    "year": "1985",
-    "locationLabel": "Givat Ram",
-    "description": "аchaeological museum in Jerusalem",
     "sitelinks": "63"
   },
   {
@@ -272,11 +264,19 @@
     "sitelinks": "62"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9219",
-    "itemLabel": "United States Military Academy",
-    "year": "1802",
-    "locationLabel": "West Point",
-    "description": "federal service academy in West Point, New York, United States",
+    "item": "http://www.wikidata.org/entity/Q213322",
+    "itemLabel": "Victoria and Albert Museum",
+    "year": "1852",
+    "locationLabel": "Royal Borough of Kensington and Chelsea",
+    "description": "museum in London, England, United Kingdom",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157298",
+    "itemLabel": "Pergamon Museum",
+    "year": "1910",
+    "locationLabel": "Bezirk Mitte",
+    "description": "museum building in Berlin, part of the Museumsinsel, presents the Vorderasiatisches Museum, the Museum für Islamische Kunst and parts of the Antikensammlung",
     "sitelinks": "61"
   },
   {
@@ -288,19 +288,19 @@
     "sitelinks": "61"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q9219",
+    "itemLabel": "United States Military Academy",
+    "year": "1802",
+    "locationLabel": "West Point",
+    "description": "federal service academy in West Point, New York, United States",
+    "sitelinks": "61"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q183334",
     "itemLabel": "Tretyakov Gallery",
     "year": "1856",
     "locationLabel": "Russia",
     "description": "art museum in Moscow, Russia",
-    "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q213322",
-    "itemLabel": "Victoria and Albert Museum",
-    "year": "1852",
-    "locationLabel": "Royal Borough of Kensington and Chelsea",
-    "description": "museum in London, England, United Kingdom",
     "sitelinks": "60"
   },
   {
@@ -312,12 +312,12 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q157298",
-    "itemLabel": "Pergamon Museum",
-    "year": "1910",
-    "locationLabel": "Bezirk Mitte",
-    "description": "museum building in Berlin, part of the Museumsinsel, presents the Vorderasiatisches Museum, the Museum für Islamische Kunst and parts of the Antikensammlung",
-    "sitelinks": "60"
+    "item": "http://www.wikidata.org/entity/Q214867",
+    "itemLabel": "National Gallery of Art (Washington, D.C.)",
+    "year": "1941",
+    "locationLabel": "Washington, D.C.",
+    "description": "national art museum in Washington, D.C.",
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189883",
@@ -352,11 +352,11 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q463179",
-    "itemLabel": "Fallingwater",
-    "year": "1936",
-    "locationLabel": "Stewart Township",
-    "description": "house designed by architect Frank Lloyd Wright in Pennsylvania",
+    "item": "http://www.wikidata.org/entity/Q623578",
+    "itemLabel": "National Library of Australia",
+    "year": "1961",
+    "locationLabel": "Canberra Central",
+    "description": "national reference library in Canberra, Australia",
     "sitelinks": "59"
   },
   {
@@ -368,19 +368,19 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q623578",
-    "itemLabel": "National Library of Australia",
-    "year": "1961",
-    "locationLabel": "Canberra Central",
-    "description": "national reference library in Canberra, Australia",
+    "item": "http://www.wikidata.org/entity/Q463179",
+    "itemLabel": "Fallingwater",
+    "year": "1936",
+    "locationLabel": "Stewart Township",
+    "description": "house designed by architect Frank Lloyd Wright in Pennsylvania",
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q214867",
-    "itemLabel": "National Gallery of Art",
-    "year": "1941",
-    "locationLabel": "Washington, D.C.",
-    "description": "national art museum in Washington, D.C.",
+    "item": "http://www.wikidata.org/entity/Q486382",
+    "itemLabel": "Castel Sant'Angelo",
+    "year": "1906",
+    "locationLabel": "Rome",
+    "description": "castle and museum in Rome, formerly the imperial mausoleum of the emperor Hadrian and subsequent Roman emperors",
     "sitelinks": "58"
   },
   {
@@ -400,14 +400,6 @@
     "sitelinks": "58"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q23894294",
-    "itemLabel": "Museum of Philistine Culture",
-    "year": "1990",
-    "locationLabel": "Rova Dalet",
-    "description": "museum in Israel",
-    "sitelinks": "58"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q91274",
     "itemLabel": "Galata Tower",
     "year": "1349",
@@ -416,12 +408,20 @@
     "sitelinks": "58"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q486382",
-    "itemLabel": "Castel Sant'Angelo",
-    "year": "1906",
-    "locationLabel": "Roma Capitale",
-    "description": "castle and museum in Rome, formerly the imperial mausoleum of the emperor Hadrian and subsequent Roman emperors",
+    "item": "http://www.wikidata.org/entity/Q23894294",
+    "itemLabel": "Museum of Philistine Culture",
+    "year": "1990",
+    "locationLabel": "Rova Dalet",
+    "description": "museum in Israel",
     "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q217717",
+    "itemLabel": "American Museum of Natural History",
+    "year": "1878",
+    "locationLabel": "Manhattan",
+    "description": "natural history museum in Manhattan, New York",
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q212065",
@@ -438,14 +438,6 @@
     "locationLabel": "Eisenach",
     "description": "castle in Eisenach, Germany",
     "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q217717",
-    "itemLabel": "American Museum of Natural History",
-    "year": "1878",
-    "locationLabel": "Manhattan",
-    "description": "natural history museum in Manhattan, New York",
-    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q215423",
@@ -480,19 +472,19 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q46242",
-    "itemLabel": "Hofburg Palace",
-    "year": "1913",
-    "locationLabel": "Innere Stadt",
-    "description": "palace located in Vienna, Austria",
-    "sitelinks": "54"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q207385",
     "itemLabel": "Kensington Palace",
     "year": "1605",
     "locationLabel": "Royal Borough of Kensington and Chelsea",
     "description": "royal residence set in Kensington Gardens, London, England, UK",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46242",
+    "itemLabel": "Hofburg Palace",
+    "year": "1913",
+    "locationLabel": "Innere Stadt",
+    "description": "palace located in Vienna, Austria",
     "sitelinks": "54"
   },
   {
@@ -502,6 +494,14 @@
     "locationLabel": "Ludwigsvorstadt-Isarvorstadt",
     "description": "museum of science and technology in Munich, Germany",
     "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q205666",
+    "itemLabel": "Hampton Court Palace",
+    "year": "1838",
+    "locationLabel": "London Borough of Richmond upon Thames",
+    "description": "historic royal palace in Richmond, Greater London",
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104314",
@@ -520,11 +520,11 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q205666",
-    "itemLabel": "Hampton Court Palace",
-    "year": "1838",
-    "locationLabel": "London Borough of Richmond upon Thames",
-    "description": "historic royal palace in Richmond, Greater London",
+    "item": "http://www.wikidata.org/entity/Q160139",
+    "itemLabel": "Mauthausen concentration camp",
+    "year": "1938",
+    "locationLabel": "Mauthausen",
+    "description": "Nazi concentration camp in Austria (1938–1945)",
     "sitelinks": "53"
   },
   {
@@ -544,20 +544,20 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154828",
-    "itemLabel": "Berlin Zoological Garden",
-    "year": "1844",
-    "locationLabel": "Bezirk Mitte",
-    "description": "zoo in Germany",
+    "item": "http://www.wikidata.org/entity/Q38646",
+    "itemLabel": "Peter and Paul Fortress",
+    "year": "1703",
+    "locationLabel": "Petrogradsky District",
+    "description": "original citadel of St. Petersburg, Russia",
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160139",
-    "itemLabel": "Mauthausen concentration camp",
-    "year": "1938",
-    "locationLabel": "Mauthausen",
-    "description": "Nazi concentration camp in Austria (1938–1945)",
-    "sitelinks": "52"
+    "item": "http://www.wikidata.org/entity/Q43282",
+    "itemLabel": "Alexander Nevsky Cathedral",
+    "year": "1924",
+    "locationLabel": "Sofia",
+    "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q653433",
@@ -576,14 +576,6 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q38646",
-    "itemLabel": "Peter and Paul Fortress",
-    "year": "1703",
-    "locationLabel": "Petrogradsky District",
-    "description": "original citadel of St. Petersburg, Russia",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q208181",
     "itemLabel": "Blenheim Palace",
     "year": "1705",
@@ -592,12 +584,12 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43282",
-    "itemLabel": "Alexander Nevsky Cathedral",
-    "year": "1924",
-    "locationLabel": "Sofia",
-    "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
-    "sitelinks": "50"
+    "item": "http://www.wikidata.org/entity/Q211043",
+    "itemLabel": "Russian Museum",
+    "year": "1895",
+    "locationLabel": "Saint Petersburg",
+    "description": "art museum in Saint Petersburg, Russia",
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154996",
@@ -605,14 +597,6 @@
     "year": "1791",
     "locationLabel": "Berlin",
     "description": "Baroque palace in Berlin, Germany",
-    "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q211043",
-    "itemLabel": "Russian Museum",
-    "year": "1895",
-    "locationLabel": "Saint Petersburg",
-    "description": "art museum in Saint Petersburg, Russia",
     "sitelinks": "49"
   },
   {
@@ -632,6 +616,14 @@
     "sitelinks": "49"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q540668",
+    "itemLabel": "National Palace Museum",
+    "year": "1965",
+    "locationLabel": "Shilin District",
+    "description": "ancient Chinese imperial artifacts and artworks museum in Taipei, Taiwan",
+    "sitelinks": "49"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q271928",
     "itemLabel": "Palazzo Vecchio",
     "year": "1299",
@@ -640,11 +632,11 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2559128",
-    "itemLabel": "National Art Museum of Azerbaijan",
-    "year": "1937",
-    "locationLabel": "Baku",
-    "description": "аrt museum in Baku",
+    "item": "http://www.wikidata.org/entity/Q160135",
+    "itemLabel": "Lublin-Majdanek concentration camp",
+    "year": "1941",
+    "locationLabel": "Lublin",
+    "description": "Nazi concentration and extermination camp near Lublin in eastern Poland",
     "sitelinks": "48"
   },
   {
@@ -656,11 +648,19 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q540668",
-    "itemLabel": "National Palace Museum",
-    "year": "1965",
-    "locationLabel": "Shilin District",
-    "description": "ancient Chinese imperial artifacts and artworks museum in Taipei, Taiwan",
+    "item": "http://www.wikidata.org/entity/Q2559128",
+    "itemLabel": "National Art Museum of Azerbaijan",
+    "year": "1937",
+    "locationLabel": "Baku",
+    "description": "аrt museum in Baku",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2583681",
+    "itemLabel": "Grand Egyptian Museum",
+    "year": "2025",
+    "locationLabel": "Giza Governorate",
+    "description": "museum in the city of al-Giza, Egypt",
     "sitelinks": "48"
   },
   {
@@ -669,14 +669,6 @@
     "year": "1782",
     "locationLabel": "Phra Borom Maha Ratchawang",
     "description": "official residence of the King of Thailand since 1782",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q160135",
-    "itemLabel": "Lublin-Majdanek concentration camp",
-    "year": "1941",
-    "locationLabel": "Lublin",
-    "description": "Nazi concentration and extermination camp near Lublin in eastern Poland",
     "sitelinks": "48"
   },
   {
@@ -696,27 +688,11 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q371908",
-    "itemLabel": "Albertina",
-    "year": "1776",
-    "locationLabel": "Vienna",
-    "description": "art museum in Vienna, Austria",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154568",
     "itemLabel": "Alte Pinakothek",
     "year": "1836",
     "locationLabel": "Munich",
     "description": "art museum in Munich, Germany",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q51177",
-    "itemLabel": "Basilica of Santa Croce",
-    "year": "1442",
-    "locationLabel": "Florence",
-    "description": "Franciscan church in Florence, Italy",
     "sitelinks": "47"
   },
   {
@@ -728,19 +704,19 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q820892",
-    "itemLabel": "Petit Palais",
-    "year": "1900",
-    "locationLabel": "8th arrondissement of Paris",
-    "description": "building housing the Museum of Fine Arts of the City of Paris",
+    "item": "http://www.wikidata.org/entity/Q371908",
+    "itemLabel": "Albertina",
+    "year": "1776",
+    "locationLabel": "Vienna",
+    "description": "art museum in Vienna, Austria",
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2583681",
-    "itemLabel": "Grand Egyptian Museum",
-    "year": "2025",
-    "locationLabel": "Giza Governorate",
-    "description": "museum in the city of al-Giza, Egypt",
+    "item": "http://www.wikidata.org/entity/Q51177",
+    "itemLabel": "Basilica of Santa Croce",
+    "year": "1442",
+    "locationLabel": "Florence",
+    "description": "Franciscan church in Florence, Italy",
     "sitelinks": "47"
   },
   {
@@ -749,7 +725,31 @@
     "year": "1857",
     "locationLabel": "South Kensington",
     "description": "science museum in London, United Kingdom",
-    "sitelinks": "46"
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q820892",
+    "itemLabel": "Petit Palais",
+    "year": "1900",
+    "locationLabel": "8th arrondissement of Paris",
+    "description": "building housing the Museum of Fine Arts of the City of Paris",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q238587",
+    "itemLabel": "National Portrait Gallery",
+    "year": "1856",
+    "locationLabel": "City of Westminster",
+    "description": "art museum in London, England, United Kingdom",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157316",
+    "itemLabel": "Neues Museum",
+    "year": "1859",
+    "locationLabel": "Bezirk Mitte",
+    "description": "Name of one of the museum buildings on the Museum Island in Berlin, Germany",
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q333906",
@@ -768,11 +768,11 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q841506",
-    "itemLabel": "Galleria Borghese",
-    "year": "1902",
-    "locationLabel": "Roma Capitale",
-    "description": "Art museum in Rome, Italy",
+    "item": "http://www.wikidata.org/entity/Q28924",
+    "itemLabel": "Catacombs of Paris",
+    "year": "1809",
+    "locationLabel": "14th arrondissement of Paris",
+    "description": "underground ossuary in Paris, France",
     "sitelinks": "46"
   },
   {
@@ -784,19 +784,19 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q157316",
-    "itemLabel": "Neues Museum",
-    "year": "1859",
-    "locationLabel": "Bezirk Mitte",
-    "description": "museum in Berlin, Germany",
+    "item": "http://www.wikidata.org/entity/Q752266",
+    "itemLabel": "Durham Castle",
+    "year": "1072",
+    "locationLabel": "City of Durham",
+    "description": "Grade I listed historic house museum in Durham, England, UK",
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q238587",
-    "itemLabel": "National Portrait Gallery",
-    "year": "1856",
-    "locationLabel": "City of Westminster",
-    "description": "art museum in London, England, United Kingdom",
+    "item": "http://www.wikidata.org/entity/Q841506",
+    "itemLabel": "Galleria Borghese",
+    "year": "1902",
+    "locationLabel": "Roma Capitale",
+    "description": "Art museum in Rome, Italy",
     "sitelinks": "46"
   },
   {
@@ -816,14 +816,6 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q460889",
-    "itemLabel": "Museo Nacional Centro de Arte Reina Sofía",
-    "year": "1992",
-    "locationLabel": "Madrid",
-    "description": "national museum of art in Madrid, Spain",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q171517",
     "itemLabel": "Royal Palace of Madrid",
     "year": "1735",
@@ -840,11 +832,19 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28924",
-    "itemLabel": "Catacombs of Paris",
-    "year": "1809",
-    "locationLabel": "14th arrondissement of Paris",
-    "description": "underground ossuary in Paris, France",
+    "item": "http://www.wikidata.org/entity/Q460889",
+    "itemLabel": "Museo Nacional Centro de Arte Reina Sofía",
+    "year": "1992",
+    "locationLabel": "Madrid",
+    "description": "national museum of art in Madrid, Spain",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1074318",
+    "itemLabel": "National Museum of China",
+    "year": "2011",
+    "locationLabel": "Donghuamen Subdistrict",
+    "description": "museum in Beijing, China",
     "sitelinks": "45"
   },
   {
@@ -853,14 +853,6 @@
     "year": "1147",
     "locationLabel": "Maulbronn",
     "description": "monastery in Germany",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q752266",
-    "itemLabel": "Durham Castle",
-    "year": "1072",
-    "locationLabel": "City of Durham",
-    "description": "Grade I listed historic house museum in Durham, England, UK",
     "sitelinks": "45"
   },
   {
@@ -880,19 +872,19 @@
     "sitelinks": "45"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q11993457",
+    "itemLabel": "Royal Spanish Academy",
+    "year": "1713",
+    "locationLabel": "",
+    "description": "official regulator for the Spanish language",
+    "sitelinks": "45"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q23868",
     "itemLabel": "Brest Fortress",
     "year": "1836",
-    "locationLabel": "Brest",
+    "locationLabel": "Byerastsye",
     "description": "19th century Belarusian fortress",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q849489",
-    "itemLabel": "Chora Church",
-    "year": "1001",
-    "locationLabel": "Fatih",
-    "description": "church converted to mosque in Turkey",
     "sitelinks": "44"
   },
   {
@@ -904,14 +896,6 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1074318",
-    "itemLabel": "National Museum of China",
-    "year": "2011",
-    "locationLabel": "Donghuamen Subdistrict",
-    "description": "museum in Beijing, China",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q156722",
     "itemLabel": "Altes Museum",
     "year": "1830",
@@ -920,19 +904,11 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q270263",
-    "itemLabel": "London Zoo",
-    "year": "1828",
-    "locationLabel": "City of Westminster",
-    "description": "world's oldest scientific zoo, in London, England",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11993457",
-    "itemLabel": "Royal Spanish Academy",
-    "year": "1713",
-    "locationLabel": "",
-    "description": "official regulator for the Spanish language",
+    "item": "http://www.wikidata.org/entity/Q849489",
+    "itemLabel": "Chora Church",
+    "year": "1001",
+    "locationLabel": "Fatih",
+    "description": "church converted to mosque in Turkey",
     "sitelinks": "44"
   },
   {
@@ -960,6 +936,14 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q936884",
+    "itemLabel": "Engelsberg Ironworks",
+    "year": "1681",
+    "locationLabel": "Fagersta Municipality",
+    "description": "ironworks",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q157825",
     "itemLabel": "Bode Museum",
     "year": "1904",
@@ -968,12 +952,12 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q660082",
-    "itemLabel": "Melk Abbey",
-    "year": "1089",
-    "locationLabel": "Melk",
-    "description": "Benedictine Abbey in Melk, Austria",
-    "sitelinks": "42"
+    "item": "http://www.wikidata.org/entity/Q171255",
+    "itemLabel": "Cutty Sark",
+    "year": "1869",
+    "locationLabel": "Royal Borough of Greenwich",
+    "description": "British clipper ship",
+    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q652464",
@@ -981,6 +965,14 @@
     "year": "1528",
     "locationLabel": "Nagatinsky Zaton District",
     "description": "old royal estate in Moscow",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q338330",
+    "itemLabel": "Gallerie dell'Accademia",
+    "year": "1817",
+    "locationLabel": "Venice",
+    "description": "Art museum in Venice, Italy",
     "sitelinks": "42"
   },
   {
@@ -992,19 +984,27 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q936884",
-    "itemLabel": "Engelsberg Ironworks",
-    "year": "1681",
-    "locationLabel": "Fagersta Municipality",
-    "description": "ironworks",
+    "item": "http://www.wikidata.org/entity/Q850268",
+    "itemLabel": "Tuol Sleng torture center",
+    "year": "1980",
+    "locationLabel": "Phnom Penh",
+    "description": "former Security Prison 21, or S-21, under the Khmer Rouge in Cambodia",
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q171255",
-    "itemLabel": "Cutty Sark",
-    "year": "1869",
-    "locationLabel": "Royal Borough of Greenwich",
-    "description": "British clipper ship",
+    "item": "http://www.wikidata.org/entity/Q660082",
+    "itemLabel": "Melk Abbey",
+    "year": "1089",
+    "locationLabel": "Melk",
+    "description": "Benedictine Abbey in Melk, Austria",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q254156",
+    "itemLabel": "Egyptian Museum of Berlin",
+    "year": "1828",
+    "locationLabel": "Bezirk Mitte",
+    "description": "part of the Neues Museum, collection of Ancient Egyptian artifacts",
     "sitelinks": "42"
   },
   {
@@ -1024,6 +1024,14 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q188112",
+    "itemLabel": "National Museum in Prague",
+    "year": "1818",
+    "locationLabel": "Prague",
+    "description": "Czech museum institution",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q239303",
     "itemLabel": "Art Institute of Chicago",
     "year": "1893",
@@ -1032,35 +1040,11 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q338330",
-    "itemLabel": "Gallerie dell'Accademia",
-    "year": "1817",
-    "locationLabel": "Venice",
-    "description": "Art museum in Venice, Italy",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q850268",
-    "itemLabel": "Tuol Sleng torture center",
-    "year": "1980",
-    "locationLabel": "Phnom Penh",
-    "description": "former Security Prison 21, or S-21, under the Khmer Rouge in Cambodia",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q177174",
     "itemLabel": "Icelandic Phallological Museum",
     "year": "1997",
     "locationLabel": "Reykjavík",
     "description": "museum in Reykjavík, Iceland",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q254156",
-    "itemLabel": "Egyptian Museum of Berlin",
-    "year": "1828",
-    "locationLabel": "Bezirk Mitte",
-    "description": "part of the Neues Museum, collection of Ancient Egyptian artifacts",
     "sitelinks": "41"
   },
   {
@@ -1080,11 +1064,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q188112",
-    "itemLabel": "National Museum in Prague",
-    "year": "1818",
-    "locationLabel": "Prague",
-    "description": "Czech museum institution",
+    "item": "http://www.wikidata.org/entity/Q679292",
+    "itemLabel": "Hohensalzburg Fortress",
+    "year": "1077",
+    "locationLabel": "Salzburg",
+    "description": "fortress in Salzburg, Austria",
     "sitelinks": "40"
   },
   {
@@ -1096,6 +1080,14 @@
     "sitelinks": "40"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1140429",
+    "itemLabel": "State Historical Museum",
+    "year": "1872",
+    "locationLabel": "Tverskoy District",
+    "description": "national history museum in Moscow, Russia",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q388448",
     "itemLabel": "Bargello National Museum",
     "year": "1865",
@@ -1104,27 +1096,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q739792",
-    "itemLabel": "Bronx Zoo",
-    "year": "1899",
-    "locationLabel": "The Bronx",
-    "description": "metropolitan zoo in the Bronx, New York City, New York, USA",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2664428",
-    "itemLabel": "National Museum of History of Azerbaijan",
-    "year": "1921",
-    "locationLabel": "Baku",
-    "description": "museum in Baku, Azerbaijan",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q679292",
-    "itemLabel": "Hohensalzburg Fortress",
-    "year": "1077",
-    "locationLabel": "Salzburg",
-    "description": "fortress in Salzburg, Austria",
+    "item": "http://www.wikidata.org/entity/Q857276",
+    "itemLabel": "Musée d'art moderne de Paris",
+    "year": "1961",
+    "locationLabel": "16th arrondissement of Paris",
+    "description": "museum dedicated to modern and contemporary art of the 20th and 21st centuries, Paris",
     "sitelinks": "40"
   },
   {
@@ -1144,11 +1120,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q857276",
-    "itemLabel": "Musée d'art moderne de Paris",
-    "year": "1961",
-    "locationLabel": "16th arrondissement of Paris",
-    "description": "museum dedicated to modern and contemporary art of the 20th and 21st centuries, Paris",
+    "item": "http://www.wikidata.org/entity/Q2664428",
+    "itemLabel": "National Museum of History of Azerbaijan",
+    "year": "1921",
+    "locationLabel": "Baku",
+    "description": "museum in Baku, Azerbaijan",
     "sitelinks": "40"
   },
   {
@@ -1168,14 +1144,6 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q935116",
-    "itemLabel": "Sandringham House",
-    "year": "1870",
-    "locationLabel": "Sandringham",
-    "description": "royal residence near the village of Sandringham in Norfolk, England, UK",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q162052",
     "itemLabel": "Linderhof Palace",
     "year": "1870",
@@ -1184,11 +1152,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1140429",
-    "itemLabel": "State Historical Museum",
-    "year": "1872",
-    "locationLabel": "Tverskoy District",
-    "description": "national history museum in Moscow, Russia",
+    "item": "http://www.wikidata.org/entity/Q935116",
+    "itemLabel": "Sandringham House",
+    "year": "1870",
+    "locationLabel": "Sandringham",
+    "description": "royal residence near the village of Sandringham in Norfolk, England, UK",
     "sitelinks": "40"
   },
   {
@@ -1216,19 +1184,11 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q907052",
-    "itemLabel": "Shuri Castle",
-    "year": "1400",
-    "locationLabel": "Naha",
-    "description": "Ryukyuan gusuku castle",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q731635",
-    "itemLabel": "Mount Vernon",
-    "year": "1787",
-    "locationLabel": "Fairfax County",
-    "description": "plantation estate of George Washington, in Fairfax County, Virginia, United States",
+    "item": "http://www.wikidata.org/entity/Q203797",
+    "itemLabel": "Eggenberg Castle, Graz",
+    "year": "1635",
+    "locationLabel": "Graz",
+    "description": "building in Graz, Austria",
     "sitelinks": "39"
   },
   {
@@ -1240,19 +1200,35 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q725108",
+    "itemLabel": "Skansen",
+    "year": "1891",
+    "locationLabel": "Stockholm",
+    "description": "open-air museum and zoo, showing Swedish folk culture and way of life in the pre-industrial era",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q907052",
+    "itemLabel": "Shuri Castle",
+    "year": "1400",
+    "locationLabel": "Naha",
+    "description": "Ryukyuan gusuku castle",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q754322",
+    "itemLabel": "Museum of Anatolian Civilizations",
+    "year": "1943",
+    "locationLabel": "Altındağ",
+    "description": "museum in Ankara, Turkey",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q165631",
     "itemLabel": "Gemäldegalerie Berlin",
     "year": "1830",
     "locationLabel": "Bezirk Mitte",
     "description": "art museum in Berlin, Germany",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q637187",
-    "itemLabel": "National Archaeological Museum of Athens",
-    "year": "1893",
-    "locationLabel": "Athens Municipality",
-    "description": "museum in Athens, Greece",
     "sitelinks": "39"
   },
   {
@@ -1264,11 +1240,35 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q650519",
-    "itemLabel": "Musée Rodin",
-    "year": "2018",
-    "locationLabel": "7th arrondissement of Paris",
-    "description": "museum in Paris, France",
+    "item": "http://www.wikidata.org/entity/Q637187",
+    "itemLabel": "National Archaeological Museum of Athens",
+    "year": "1893",
+    "locationLabel": "Athens Municipality",
+    "description": "museum in Athens, Greece",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q238990",
+    "itemLabel": "United States Holocaust Memorial Museum",
+    "year": "1993",
+    "locationLabel": "Washington, D.C.",
+    "description": "United States' official memorial to the Holocaust in Washington, D.C.",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q649250",
+    "itemLabel": "Royal Ontario Museum",
+    "year": "1914",
+    "locationLabel": "Toronto",
+    "description": "museum of world culture and natural history in Toronto, Ontario, Canada",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19877",
+    "itemLabel": "Museo Egizio",
+    "year": "1824",
+    "locationLabel": "Turin",
+    "description": "ancient Egyptian art and history museum in Turin, Italy",
     "sitelinks": "38"
   },
   {
@@ -1288,17 +1288,9 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q414219",
-    "itemLabel": "Academy of Fine Arts Vienna",
-    "year": "1692",
-    "locationLabel": "Vienna",
-    "description": "art school in Vienna, Austria",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4890",
     "itemLabel": "Gemäldegalerie Alte Meister",
-    "year": "1855",
+    "year": "1560",
     "locationLabel": "Dresden",
     "description": "art gallery in Dresden, Germany",
     "sitelinks": "38"
@@ -1309,6 +1301,14 @@
     "year": "1792",
     "locationLabel": "Stockholm",
     "description": "art museum in Stockholm, Sweden",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q414219",
+    "itemLabel": "Academy of Fine Arts Vienna",
+    "year": "1692",
+    "locationLabel": "Vienna",
+    "description": "art school in Vienna, Austria",
     "sitelinks": "38"
   },
   {
@@ -1344,14 +1344,6 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q494407",
-    "itemLabel": "National Museum of Korea",
-    "year": "1945",
-    "locationLabel": "Yongsan District",
-    "description": "Museum located in Seoul, Republic of Korea",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q165366",
     "itemLabel": "Anne Frank House",
     "year": "1960",
@@ -1360,35 +1352,19 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q203797",
-    "itemLabel": "Eggenberg Castle, Graz",
-    "year": "1635",
-    "locationLabel": "Graz",
-    "description": "building in Graz, Austria",
+    "item": "http://www.wikidata.org/entity/Q494407",
+    "itemLabel": "National Museum of Korea",
+    "year": "1945",
+    "locationLabel": "Yongsan District",
+    "description": "Museum located in Seoul, Republic of Korea",
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q725108",
-    "itemLabel": "Skansen",
-    "year": "1891",
-    "locationLabel": "Stockholm",
-    "description": "open-air museum and zoo, showing Swedish folk culture and way of life in the pre-industrial era",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q844926",
-    "itemLabel": "Munch Museum",
-    "year": "1963",
-    "locationLabel": "Oslo Municipality",
-    "description": "art museum in Oslo, Norway",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q942713",
-    "itemLabel": "Scottish National Gallery",
-    "year": "1859",
-    "locationLabel": "City of Edinburgh",
-    "description": "part of National Galleries Scotland in Edinburgh",
+    "item": "http://www.wikidata.org/entity/Q206101",
+    "itemLabel": "Rosenborg Castle",
+    "year": "1606",
+    "locationLabel": "Copenhagen Municipality",
+    "description": "palace in Copenhagen",
     "sitelinks": "38"
   },
   {
@@ -1400,27 +1376,35 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q754322",
-    "itemLabel": "Museum of Anatolian Civilizations",
-    "year": "1943",
-    "locationLabel": "Altındağ",
-    "description": "museum in Ankara, Turkey",
+    "item": "http://www.wikidata.org/entity/Q844926",
+    "itemLabel": "Munch Museum",
+    "year": "1963",
+    "locationLabel": "Oslo Municipality",
+    "description": "art museum in Oslo, Norway",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q650519",
+    "itemLabel": "Musée Rodin",
+    "year": "2018",
+    "locationLabel": "7th arrondissement of Paris",
+    "description": "museum in Paris, France",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q942713",
+    "itemLabel": "Scottish National Gallery",
+    "year": "1859",
+    "locationLabel": "City of Edinburgh",
+    "description": "part of National Galleries Scotland in Edinburgh",
     "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q463874",
     "itemLabel": "Darjeeling Himalayan Railway",
     "year": "1881",
-    "locationLabel": "Darjeeling district",
+    "locationLabel": "Jalpaiguri district",
     "description": "Heritage railway between New Jalpaiguri and Darjeeling, India, also known as the Toy Train",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q206101",
-    "itemLabel": "Rosenborg Castle",
-    "year": "1606",
-    "locationLabel": "Copenhagen Municipality",
-    "description": "palace in Copenhagen",
     "sitelinks": "38"
   },
   {
@@ -1440,22 +1424,6 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q238990",
-    "itemLabel": "United States Holocaust Memorial Museum",
-    "year": "1993",
-    "locationLabel": "Washington, D.C.",
-    "description": "United States' official memorial to the Holocaust in Washington, D.C.",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q649250",
-    "itemLabel": "Royal Ontario Museum",
-    "year": "1914",
-    "locationLabel": "Toronto",
-    "description": "museum of world culture and natural history in Toronto, Ontario, Canada",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q752669",
     "itemLabel": "National Air and Space Museum",
     "year": "1976",
@@ -1469,14 +1437,6 @@
     "year": "1776",
     "locationLabel": "Milan",
     "description": "art museum in Milan, Italy",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19877",
-    "itemLabel": "Museo Egizio",
-    "year": "1824",
-    "locationLabel": "Turin",
-    "description": "ancient Egyptian art and history museum in Turin, Italy",
     "sitelinks": "37"
   },
   {
@@ -1504,14 +1464,6 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q840886",
-    "itemLabel": "Museum of Fine Arts, Budapest",
-    "year": "1906",
-    "locationLabel": "Zugló",
-    "description": "art museum in Budapest, Hungary",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3075489",
     "itemLabel": "Louis Vuitton Foundation",
     "year": "2014",
@@ -1520,43 +1472,11 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q752283",
-    "itemLabel": "Schönbrunn Zoo",
-    "year": "1752",
-    "locationLabel": "Hietzing",
-    "description": "zoo in Vienna",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q739612",
-    "itemLabel": "Matsumoto Castle",
-    "year": "1504",
-    "locationLabel": "Marunouchi",
-    "description": "building in Matsumoto, Nagano Prefecture, Japan",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1055311",
-    "itemLabel": "Livadia Palace",
-    "year": "1910",
-    "locationLabel": "Livadiya",
-    "description": "palace on the Crimea",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q613676",
-    "itemLabel": "Moscow Zoo",
-    "year": "1864",
-    "locationLabel": "Tverskoy District",
-    "description": "zoo in Moscow, Russia",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q421084",
-    "itemLabel": "Acropolis Museum",
-    "year": "2009",
-    "locationLabel": "Athens Municipality",
-    "description": "museum in Athens, Greece",
+    "item": "http://www.wikidata.org/entity/Q840886",
+    "itemLabel": "Museum of Fine Arts, Budapest",
+    "year": "1906",
+    "locationLabel": "Zugló",
+    "description": "art museum in Budapest, Hungary",
     "sitelinks": "37"
   },
   {
@@ -1568,11 +1488,43 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q653858",
-    "itemLabel": "Barbican Centre",
-    "year": "1982",
-    "locationLabel": "City of London",
-    "description": "arts centre in the City of London",
+    "item": "http://www.wikidata.org/entity/Q739612",
+    "itemLabel": "Matsumoto Castle",
+    "year": "1504",
+    "locationLabel": "Marunouchi",
+    "description": "building in Matsumoto, Nagano Prefecture, Japan",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q749808",
+    "itemLabel": "Imperial War Museum London",
+    "year": "1917",
+    "locationLabel": "London Borough of Southwark",
+    "description": "military museum in London",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1055311",
+    "itemLabel": "Livadia Palace",
+    "year": "1910",
+    "locationLabel": "Livadiya",
+    "description": "palace on the Crimea",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q421084",
+    "itemLabel": "Acropolis Museum",
+    "year": "2009",
+    "locationLabel": "Athens Municipality",
+    "description": "museum in Athens, Greece",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q598646",
+    "itemLabel": "Olympic Museum",
+    "year": "1993",
+    "locationLabel": "Lausanne",
+    "description": "museum collection in Lausanne in the canton of Vaud, Switzerland",
     "sitelinks": "36"
   },
   {
@@ -1584,11 +1536,11 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q598646",
-    "itemLabel": "Olympic Museum",
-    "year": "1993",
-    "locationLabel": "Lausanne",
-    "description": "museum collection in Lausanne in the canton of Vaud, Switzerland",
+    "item": "http://www.wikidata.org/entity/Q653858",
+    "itemLabel": "Barbican Centre",
+    "year": "1982",
+    "locationLabel": "City of London",
+    "description": "Performing arts centre in the City of London",
     "sitelinks": "36"
   },
   {
@@ -1600,11 +1552,27 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q521251",
+    "itemLabel": "National Museum of Iraq",
+    "year": "1926",
+    "locationLabel": "Baghdad",
+    "description": "historical museum in Baghdad",
+    "sitelinks": "36"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2087788",
     "itemLabel": "National Gallery of Armenia",
     "year": "1921",
     "locationLabel": "Yerevan",
     "description": "art museum in Yerevan, Armenia",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q510324",
+    "itemLabel": "Philadelphia Museum of Art",
+    "year": "1876",
+    "locationLabel": "Philadelphia",
+    "description": "art museum in Philadelphia, Pennsylvania",
     "sitelinks": "36"
   },
   {
@@ -1624,19 +1592,11 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q818395",
-    "itemLabel": "San Diego Zoo",
-    "year": "1916",
-    "locationLabel": "San Diego",
-    "description": "zoo in Balboa Park, San Diego, California, United States",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153306",
-    "itemLabel": "National Museum in Warsaw",
-    "year": "1862",
-    "locationLabel": "Śródmieście",
-    "description": "national museum in Warsaw, Poland",
+    "item": "http://www.wikidata.org/entity/Q920206",
+    "itemLabel": "Grimeton VLF transmitter",
+    "year": "1925",
+    "locationLabel": "Varberg Municipality",
+    "description": "working life museum in Varberg Municipality, Sweden",
     "sitelinks": "36"
   },
   {
@@ -1648,11 +1608,19 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q749808",
-    "itemLabel": "Imperial War Museum London",
-    "year": "1917",
-    "locationLabel": "London Borough of Southwark",
-    "description": "military museum in London",
+    "item": "http://www.wikidata.org/entity/Q153306",
+    "itemLabel": "National Museum in Warsaw",
+    "year": "1862",
+    "locationLabel": "Śródmieście",
+    "description": "national museum in Warsaw, Poland",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q917820",
+    "itemLabel": "London Museum",
+    "year": "1976",
+    "locationLabel": "City of London",
+    "description": "museum in the City of London",
     "sitelinks": "36"
   },
   {
@@ -1664,27 +1632,19 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1277585",
+    "itemLabel": "Kunstkamera",
+    "year": "1714",
+    "locationLabel": "Vasileostrovsky District",
+    "description": "museum in Saint Petersburg, Russia",
+    "sitelinks": "36"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1968711",
     "itemLabel": "Nobel Prize Museum",
     "year": "2001",
     "locationLabel": "Stockholm",
     "description": "museum about Alfred Nobel and the Nobel Prize",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1094338",
-    "itemLabel": "Cité des Sciences et de l'Industrie",
-    "year": "1986",
-    "locationLabel": "Pont-de-Flandre",
-    "description": "science museum in Paris",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q636978",
-    "itemLabel": "Istanbul Archaeology Museums",
-    "year": "1869",
-    "locationLabel": "Istanbul Province",
-    "description": "archaeology museums in Istanbul, Turkey",
     "sitelinks": "36"
   },
   {
@@ -1696,11 +1656,11 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q644464",
-    "itemLabel": "Akershus Fortress",
-    "year": "1290",
-    "locationLabel": "Oslo Municipality",
-    "description": "former medieval castle in Oslo, Norway",
+    "item": "http://www.wikidata.org/entity/Q636978",
+    "itemLabel": "Istanbul Archaeology Museums",
+    "year": "1869",
+    "locationLabel": "Istanbul Province",
+    "description": "archaeology museums in Istanbul, Turkey",
     "sitelinks": "36"
   },
   {
@@ -1712,6 +1672,22 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1094338",
+    "itemLabel": "Cité des Sciences et de l'Industrie",
+    "year": "1986",
+    "locationLabel": "Pont-de-Flandre",
+    "description": "science museum in Paris",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q644464",
+    "itemLabel": "Akershus Fortress",
+    "year": "1290",
+    "locationLabel": "Oslo Municipality",
+    "description": "former medieval castle in Oslo, Norway",
+    "sitelinks": "36"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1135392",
     "itemLabel": "Museo Nazionale Romano",
     "year": "1890",
@@ -1720,11 +1696,11 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q201902",
-    "itemLabel": "Mole Antonelliana",
-    "year": "1889",
-    "locationLabel": "Turin",
-    "description": "major landmark building in Turin, Italy",
+    "item": "http://www.wikidata.org/entity/Q861608",
+    "itemLabel": "National Museum of Women in the Arts",
+    "year": "1987",
+    "locationLabel": "Washington, D.C.",
+    "description": "art museum in Washington, D.C., United States",
     "sitelinks": "35"
   },
   {
@@ -1736,115 +1712,19 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q510324",
-    "itemLabel": "Philadelphia Museum of Art",
-    "year": "1876",
-    "locationLabel": "Philadelphia",
-    "description": "art museum in Philadelphia, Pennsylvania",
+    "item": "http://www.wikidata.org/entity/Q820872",
+    "itemLabel": "Ca' d'Oro",
+    "year": "1954",
+    "locationLabel": "Venice",
+    "description": "palace and art gallery in Venice, Italy",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q521251",
-    "itemLabel": "National Museum of Iraq",
-    "year": "1926",
-    "locationLabel": "Baghdad",
-    "description": "historical museum in Baghdad",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q290549",
-    "itemLabel": "Museo di Capodimonte",
-    "year": "1957",
-    "locationLabel": "Naples",
-    "description": "art museum and historic site in Naples, Italy",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q917820",
-    "itemLabel": "London Museum",
-    "year": "1976",
-    "locationLabel": "City of London",
-    "description": "museum in London, United Kingdom, documenting the city's history",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2452280",
-    "itemLabel": "Baku Zoo",
-    "year": "1928",
-    "locationLabel": "Baku",
-    "description": "zoo in Baku, Azerbaijan",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q726781",
-    "itemLabel": "Musée de l'Orangerie",
-    "year": "1927",
-    "locationLabel": "1st arrondissement of Paris",
-    "description": "art museum in Paris, France",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15503298",
-    "itemLabel": "Pombia Safari Park",
-    "year": "1976",
-    "locationLabel": "Pombia",
-    "description": "Attraction in Northern Italy",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q860994",
-    "itemLabel": "Guimet Museum",
+    "item": "http://www.wikidata.org/entity/Q201902",
+    "itemLabel": "Mole Antonelliana",
     "year": "1889",
-    "locationLabel": "16th arrondissement of Paris",
-    "description": "museum in Paris, France",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q920206",
-    "itemLabel": "Grimeton VLF transmitter",
-    "year": "1925",
-    "locationLabel": "Varberg Municipality",
-    "description": "working life museum in Varberg Municipality, Sweden",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1051293",
-    "itemLabel": "Shanghai Museum",
-    "year": "1952",
-    "locationLabel": "Huangpu District",
-    "description": "museum in the Huangpu District of Shanghai, China",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1277585",
-    "itemLabel": "Kunstkamera",
-    "year": "1714",
-    "locationLabel": "Vasileostrovsky District",
-    "description": "museum in Saint Petersburg, Russia",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q941276",
-    "itemLabel": "Warwick Castle",
-    "year": "1068",
-    "locationLabel": "Warwick",
-    "description": "medieval castle in Warwickshire, England, UK",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q226103",
-    "itemLabel": "Frederiksborg Palace",
-    "year": "1620",
-    "locationLabel": "Hillerød Municipality",
-    "description": "castle in Hillerød, Denmark",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1199924",
-    "itemLabel": "National Maritime Museum",
-    "year": "1937",
-    "locationLabel": "Royal Borough of Greenwich",
-    "description": "museum in London, England, United Kingdom",
+    "locationLabel": "Turin",
+    "description": "major landmark building in Turin, Italy",
     "sitelinks": "35"
   },
   {
@@ -1856,6 +1736,70 @@
     "sitelinks": "35"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q290549",
+    "itemLabel": "Museo di Capodimonte",
+    "year": "1957",
+    "locationLabel": "Naples",
+    "description": "art museum and historic site in Naples, Italy",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q860994",
+    "itemLabel": "Guimet Museum",
+    "year": "1889",
+    "locationLabel": "16th arrondissement of Paris",
+    "description": "museum in Paris, France",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q726781",
+    "itemLabel": "Musée de l'Orangerie",
+    "year": "1927",
+    "locationLabel": "1st arrondissement of Paris",
+    "description": "art museum in Paris, France",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1429003",
+    "itemLabel": "Bardo National Museum",
+    "year": "1888",
+    "locationLabel": "Le Bardo",
+    "description": "national museum in Tunis, Tunisia",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1051293",
+    "itemLabel": "Shanghai Museum",
+    "year": "1952",
+    "locationLabel": "Huangpu District",
+    "description": "museum in the Huangpu District of Shanghai, China",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q226103",
+    "itemLabel": "Frederiksborg Palace",
+    "year": "1620",
+    "locationLabel": "Hillerød Municipality",
+    "description": "castle in Hillerød, Denmark",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q941276",
+    "itemLabel": "Warwick Castle",
+    "year": "1068",
+    "locationLabel": "Warwick",
+    "description": "medieval castle in Warwickshire, England, UK",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1199924",
+    "itemLabel": "National Maritime Museum",
+    "year": "1937",
+    "locationLabel": "Royal Borough of Greenwich",
+    "description": "museum in London, England, United Kingdom",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1362629",
     "itemLabel": "National Museum of Western Art",
     "year": "1959",
@@ -1864,11 +1808,11 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q861608",
-    "itemLabel": "National Museum of Women in the Arts",
-    "year": "1987",
-    "locationLabel": "Washington, D.C.",
-    "description": "art museum in Washington, D.C., United States",
+    "item": "http://www.wikidata.org/entity/Q1136137",
+    "itemLabel": "National September 11 Memorial & Museum",
+    "year": "2011",
+    "locationLabel": "New York City",
+    "description": "memorial & museum in New York City commemorating the September 11, 2001 attacks",
     "sitelinks": "34"
   },
   {
@@ -1877,14 +1821,6 @@
     "year": "1451",
     "locationLabel": "Istanbul",
     "description": "Ottoman castle in Istanbul",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q820872",
-    "itemLabel": "Ca' d'Oro",
-    "year": "1954",
-    "locationLabel": "Venice",
-    "description": "palace and art gallery in Venice, Italy",
     "sitelinks": "34"
   },
   {
@@ -1912,16 +1848,8 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1429003",
-    "itemLabel": "Bardo National Museum",
-    "year": "1888",
-    "locationLabel": "Le Bardo",
-    "description": "national museum in Tunis, Tunisia",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1535247",
-    "itemLabel": "Musée d’Art Moderne",
+    "itemLabel": "Palais de Tokyo",
     "year": "1937",
     "locationLabel": "16th arrondissement of Paris",
     "description": "building in Paris",
@@ -1944,6 +1872,14 @@
     "sitelinks": "34"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1631008",
+    "itemLabel": "National Museum of Iran",
+    "year": "1937",
+    "locationLabel": "Tehran County",
+    "description": "museum in Tehran, Iran",
+    "sitelinks": "34"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q233098",
     "itemLabel": "Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science",
     "year": "1889",
@@ -1952,27 +1888,27 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q666063",
-    "itemLabel": "National Library of Wales",
-    "year": "1907",
-    "locationLabel": "Ceredigion",
-    "description": "Welsh archive and research library",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q671384",
-    "itemLabel": "Statens Museum for Kunst",
-    "year": "1896",
-    "locationLabel": "Copenhagen Municipality",
-    "description": "art museum in Copenhagen, Denmark",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q913672",
     "itemLabel": "San Francisco Museum of Modern Art",
     "year": "1935",
     "locationLabel": "San Francisco",
     "description": "modern art museum in San Francisco, California, USA",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7171560",
+    "itemLabel": "Kalka–Shimla Railway",
+    "year": "1903",
+    "locationLabel": "Himachal Pradesh",
+    "description": "Heritage rail line in India",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1145261",
+    "itemLabel": "Basilica of Superga",
+    "year": "1717",
+    "locationLabel": "Turin",
+    "description": "church in the vicinity of Turin, Italy",
     "sitelinks": "33"
   },
   {
@@ -1989,6 +1925,30 @@
     "year": "1988",
     "locationLabel": "Ontario",
     "description": "museum of art in Ottawa, Canada",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1427503",
+    "itemLabel": "Golden Gate",
+    "year": "1018",
+    "locationLabel": "Kyiv",
+    "description": "museum in Kyiv, Ukraine",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q666063",
+    "itemLabel": "National Library of Wales",
+    "year": "1907",
+    "locationLabel": "Ceredigion",
+    "description": "Welsh archive and research library",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q671384",
+    "itemLabel": "Statens Museum for Kunst",
+    "year": "1896",
+    "locationLabel": "Copenhagen Municipality",
+    "description": "art museum in Copenhagen, Denmark",
     "sitelinks": "33"
   },
   {
@@ -2024,14 +1984,6 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1631008",
-    "itemLabel": "National Museum of Iran",
-    "year": "1937",
-    "locationLabel": "Tehran County",
-    "description": "museum in Tehran, Iran",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q915603",
     "itemLabel": "Museum of New Zealand Te Papa Tongarewa",
     "year": "1998",
@@ -2045,14 +1997,6 @@
     "year": "1901",
     "locationLabel": "Glasgow City",
     "description": "Museum and art gallery near Glasgow in Scotland",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1136137",
-    "itemLabel": "National September 11 Memorial & Museum",
-    "year": "2011",
-    "locationLabel": "New York City",
-    "description": "memorial & museum in New York City commemorating the September 11, 2001 attacks",
     "sitelinks": "33"
   },
   {
@@ -2072,6 +2016,14 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q19824",
+    "itemLabel": "Royal Palace of Turin",
+    "year": "1948",
+    "locationLabel": "Turin",
+    "description": "palace in Turin",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q377500",
     "itemLabel": "Royal Museums of Fine Arts of Belgium",
     "year": "1803",
@@ -2080,19 +2032,11 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7171560",
-    "itemLabel": "Kalka–Shimla Railway",
-    "year": "1903",
-    "locationLabel": "Himachal Pradesh",
-    "description": "Heritage rail line in India",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1427503",
-    "itemLabel": "Golden Gate",
-    "year": "1018",
-    "locationLabel": "Kyiv",
-    "description": "museum in Kyiv, Ukraine",
+    "item": "http://www.wikidata.org/entity/Q1142142",
+    "itemLabel": "Nordic Museum",
+    "year": "1873",
+    "locationLabel": "Stockholm",
+    "description": "cultural history and ethnography museum in Sweden",
     "sitelinks": "32"
   },
   {
@@ -2104,35 +2048,27 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1051928",
-    "itemLabel": "Kröller-Müller Museum",
-    "year": "1938",
-    "locationLabel": "Ede",
-    "description": "art museum and sculpture garden in Otterlo, Netherlands",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q851527",
-    "itemLabel": "Musée océanographique de Monaco",
-    "year": "1910",
-    "locationLabel": "Monaco City",
-    "description": "museum of marine sciences",
+    "item": "http://www.wikidata.org/entity/Q679527",
+    "itemLabel": "Museum Boijmans Van Beuningen",
+    "year": "1849",
+    "locationLabel": "Rotterdam",
+    "description": "art museum in Rotterdam, Netherlands",
     "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1352282",
-    "itemLabel": "National Archaeological Museum",
+    "itemLabel": "National Museum of Archaeology",
     "year": "1871",
     "locationLabel": "Madrid",
     "description": "archaeological museum in Madrid, Spain",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1467125",
-    "itemLabel": "National Museum of Indonesia",
-    "year": "1778",
-    "locationLabel": "Central Jakarta",
-    "description": "archaeological, historical, ethnological, and geographical museum located in Jakarta",
+    "item": "http://www.wikidata.org/entity/Q1277393",
+    "itemLabel": "National Museum of Serbia",
+    "year": "1844",
+    "locationLabel": "Belgrade",
+    "description": "museum in Belgrade, Serbia",
     "sitelinks": "32"
   },
   {
@@ -2144,35 +2080,27 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q699474",
-    "itemLabel": "Liechtenstein Castle",
-    "year": "1136",
-    "locationLabel": "Maria Enzersdorf",
-    "description": "castle located near Maria Enzersdorf in Lower Austria bordering Vienna",
+    "item": "http://www.wikidata.org/entity/Q851527",
+    "itemLabel": "Musée océanographique de Monaco",
+    "year": "1910",
+    "locationLabel": "Monaco City",
+    "description": "museum of marine sciences",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q679527",
-    "itemLabel": "Museum Boijmans Van Beuningen",
-    "year": "1849",
-    "locationLabel": "Rotterdam",
-    "description": "art museum in Rotterdam, Netherlands",
+    "item": "http://www.wikidata.org/entity/Q1051928",
+    "itemLabel": "Kröller-Müller Museum",
+    "year": "1938",
+    "locationLabel": "Ede",
+    "description": "art museum and sculpture garden in Otterlo, Netherlands",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q746876",
-    "itemLabel": "Leeds Castle",
-    "year": "1119",
-    "locationLabel": "Leeds",
-    "description": "castle in Kent, England, UK",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q754560",
-    "itemLabel": "Ateshgah of Baku",
-    "year": "1745",
-    "locationLabel": "Surakhany",
-    "description": "Fire Temple in Surakhany, Baku, Azerbaijan",
+    "item": "http://www.wikidata.org/entity/Q1467125",
+    "itemLabel": "National Museum of Indonesia",
+    "year": "1778",
+    "locationLabel": "Central Jakarta",
+    "description": "archaeological, historical, ethnological, and geographical museum located in Jakarta",
     "sitelinks": "32"
   },
   {
@@ -2184,11 +2112,27 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q699474",
+    "itemLabel": "Liechtenstein Castle",
+    "year": "1136",
+    "locationLabel": "Maria Enzersdorf",
+    "description": "castle located near Maria Enzersdorf in Lower Austria bordering Vienna",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1420103",
     "itemLabel": "Swedish Museum of Natural History",
     "year": "1916",
     "locationLabel": "Stockholm",
     "description": "museum in Stockholm, Sweden",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q754560",
+    "itemLabel": "Ateshgah of Baku",
+    "year": "1745",
+    "locationLabel": "Surakhany",
+    "description": "Fire Temple in Surakhany, Baku, Azerbaijan",
     "sitelinks": "32"
   },
   {
@@ -2200,11 +2144,11 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1145261",
-    "itemLabel": "Basilica of Superga",
-    "year": "1717",
-    "locationLabel": "Turin",
-    "description": "church in the vicinity of Turin, Italy",
+    "item": "http://www.wikidata.org/entity/Q746876",
+    "itemLabel": "Leeds Castle",
+    "year": "1119",
+    "locationLabel": "Leeds",
+    "description": "castle in Kent, England, UK",
     "sitelinks": "32"
   },
   {
@@ -2224,6 +2168,14 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1304121",
+    "itemLabel": "Kremlin Armoury",
+    "year": "1851",
+    "locationLabel": "Tverskoy District",
+    "description": "museum and cultural heritage site in Russia",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1356352",
     "itemLabel": "Victoria Memorial",
     "year": "1921",
@@ -2232,19 +2184,11 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1304121",
-    "itemLabel": "Kremlin Armoury",
-    "year": "1581",
-    "locationLabel": "Tverskoy District",
-    "description": "museum and cultural heritage site in Russia",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1142142",
-    "itemLabel": "Nordic Museum",
-    "year": "1873",
-    "locationLabel": "Stockholm",
-    "description": "cultural history and ethnography museum in Sweden",
+    "item": "http://www.wikidata.org/entity/Q1370397",
+    "itemLabel": "Estonian National Museum",
+    "year": "1909",
+    "locationLabel": "",
+    "description": "museum in Tartu, Estonia",
     "sitelinks": "32"
   },
   {
@@ -2256,27 +2200,19 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1140507",
+    "itemLabel": "Ny Carlsberg Glyptotek",
+    "year": "1888",
+    "locationLabel": "Copenhagen Municipality",
+    "description": "museum in Copenhagen founded by Carl Jacobsen",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1517884",
     "itemLabel": "National Palace",
     "year": "1522",
     "locationLabel": "Mexico City",
     "description": "Seat of the Executive branch of the Mexican Federal Government in Mexico City",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19824",
-    "itemLabel": "Royal Palace of Turin",
-    "year": "1948",
-    "locationLabel": "Turin",
-    "description": "palace in Turin",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q463735",
-    "itemLabel": "Nilgiri Mountain Railway",
-    "year": "1908",
-    "locationLabel": "Tamil Nadu",
-    "description": "Heritage rail line in India",
     "sitelinks": "31"
   },
   {
@@ -2288,11 +2224,51 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1277393",
-    "itemLabel": "National Museum of Serbia",
-    "year": "1844",
-    "locationLabel": "Belgrade",
-    "description": "museum in Belgrade, Serbia",
+    "item": "http://www.wikidata.org/entity/Q463735",
+    "itemLabel": "Nilgiri Mountain Railway",
+    "year": "1908",
+    "locationLabel": "Tamil Nadu",
+    "description": "Heritage rail line in India",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1093925",
+    "itemLabel": "Slovak National Museum",
+    "year": "1961",
+    "locationLabel": "Bratislava",
+    "description": "national museum of the Slovak Republic",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q195311",
+    "itemLabel": "National Museum in Kraków",
+    "year": "1879",
+    "locationLabel": "Kraków",
+    "description": "museum in Krakow, Poland",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1124095",
+    "itemLabel": "Musée de Cluny",
+    "year": "1843",
+    "locationLabel": "5th arrondissement of Paris",
+    "description": "museum in Paris, France",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136893",
+    "itemLabel": "Turku Castle",
+    "year": "1300",
+    "locationLabel": "Turku",
+    "description": "castle in Turku, Finland",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q861252",
+    "itemLabel": "Museu Nacional d'Art de Catalunya",
+    "year": "1934",
+    "locationLabel": "Sants-Montjuïc",
+    "description": "art museum in Barcelona, Catalonia",
     "sitelinks": "31"
   },
   {
@@ -2312,19 +2288,19 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q861252",
-    "itemLabel": "Museu Nacional d'Art de Catalunya",
-    "year": "1934",
-    "locationLabel": "Sants-Montjuïc",
-    "description": "art museum in Barcelona, Catalonia",
+    "item": "http://www.wikidata.org/entity/Q372376",
+    "itemLabel": "House of Terror Museum",
+    "year": "2002",
+    "locationLabel": "Budapest District VI",
+    "description": "museum about about terror regimes in Budapest, Hungary",
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136893",
-    "itemLabel": "Turku Castle",
-    "year": "1300",
-    "locationLabel": "Turku",
-    "description": "castle in Turku, Finland",
+    "item": "http://www.wikidata.org/entity/Q321783",
+    "itemLabel": "Cecilienhof",
+    "year": "1910",
+    "locationLabel": "Nördliche Vorstädte",
+    "description": "historic Prussian palace and museum in Potsdam, Germany",
     "sitelinks": "31"
   },
   {
@@ -2344,59 +2320,11 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q321783",
-    "itemLabel": "Cecilienhof",
-    "year": "1910",
-    "locationLabel": "Nördliche Vorstädte",
-    "description": "historic Prussian palace and museum in Potsdam, Germany",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q372376",
-    "itemLabel": "House of Terror Museum",
-    "year": "2002",
-    "locationLabel": "Budapest District VI",
-    "description": "museum about about terror regimes in Budapest, Hungary",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1140507",
-    "itemLabel": "Ny Carlsberg Glyptotek",
-    "year": "1888",
-    "locationLabel": "Copenhagen Municipality",
-    "description": "museum in Copenhagen founded by Carl Jacobsen",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1370397",
-    "itemLabel": "Estonian National Museum",
-    "year": "1909",
-    "locationLabel": "",
-    "description": "museum in Tartu, Estonia",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q148584",
     "itemLabel": "National Museum of American History",
     "year": "1964",
     "locationLabel": "Washington, D.C.",
     "description": "history museum in Washington, D.C., a division of the Smithsonian Institution",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q657415",
-    "itemLabel": "Cleveland Museum of Art",
-    "year": "1916",
-    "locationLabel": "Cleveland",
-    "description": "art museum in Cleveland, Ohio",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q685524",
-    "itemLabel": "Miniatur Wunderland",
-    "year": "2000",
-    "locationLabel": "Hamburg-Mitte",
-    "description": "Model railway and miniature airport attraction in Hamburg, Germany",
     "sitelinks": "30"
   },
   {
@@ -2408,11 +2336,19 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1093925",
-    "itemLabel": "Slovak National Museum",
-    "year": "1961",
-    "locationLabel": "Bratislava",
-    "description": "national museum of the Slovak Republic",
+    "item": "http://www.wikidata.org/entity/Q685524",
+    "itemLabel": "Miniatur Wunderland",
+    "year": "2000",
+    "locationLabel": "Hamburg-Mitte",
+    "description": "Model railway and miniature airport attraction in Hamburg, Germany",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q657415",
+    "itemLabel": "Cleveland Museum of Art",
+    "year": "1916",
+    "locationLabel": "Cleveland",
+    "description": "art museum in Cleveland, Ohio",
     "sitelinks": "30"
   },
   {
@@ -2432,19 +2368,27 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q911047",
-    "itemLabel": "Palazzo Medici Riccardi",
-    "year": "1500",
-    "locationLabel": "Florence",
-    "description": "palace and museum in Florence, Italy",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q917183",
     "itemLabel": "Church of Our Lady",
     "year": "1210",
     "locationLabel": "Bruges",
     "description": "church in Bruges, Belgium",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q713124",
+    "itemLabel": "Natura Artis Magistra",
+    "year": "1838",
+    "locationLabel": "Amsterdam",
+    "description": "zoo in Amsterdam, the Netherlands",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q911047",
+    "itemLabel": "Palazzo Medici Riccardi",
+    "year": "1500",
+    "locationLabel": "Florence",
+    "description": "palace and museum in Florence, Italy",
     "sitelinks": "30"
   },
   {
@@ -2456,10 +2400,26 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1136822",
+    "itemLabel": "Azerbaijan Carpet Museum",
+    "year": "1967",
+    "locationLabel": "Baku",
+    "description": "art museum",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q639791",
+    "itemLabel": "Whitney Museum of American Art",
+    "year": "1931",
+    "locationLabel": "Manhattan",
+    "description": "art museum in New York City",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q389210",
     "itemLabel": "Pamplona Cathedral",
     "year": "1394",
-    "locationLabel": "Navarre",
+    "locationLabel": "Pamplona",
     "description": "cathedral in Spain",
     "sitelinks": "30"
   },
@@ -2472,35 +2432,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1124095",
-    "itemLabel": "Musée de Cluny",
-    "year": "1843",
-    "locationLabel": "5th arrondissement of Paris",
-    "description": "museum in Paris, France",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1450630",
     "itemLabel": "Czartoryski Museum",
     "year": "1887",
     "locationLabel": "Kraków",
     "description": "Art museum in Kraków, Poland",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q639791",
-    "itemLabel": "Whitney Museum of American Art",
-    "year": "1931",
-    "locationLabel": "Manhattan",
-    "description": "art museum in New York City",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q195311",
-    "itemLabel": "National Museum in Kraków",
-    "year": "1879",
-    "locationLabel": "Kraków",
-    "description": "museum in Krakow, Poland",
     "sitelinks": "30"
   },
   {
@@ -2512,19 +2448,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q919611",
-    "itemLabel": "Kumu",
-    "year": "2006",
-    "locationLabel": "Tallinn City",
-    "description": "art museum in Tallinn, Estonia",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2663377",
-    "itemLabel": "Frida Kahlo Museum",
-    "year": "1904",
-    "locationLabel": "Coyoacán",
-    "description": "historic house museum and art museum dedicated to the life and work of Mexican artist Frida Kahlo",
+    "item": "http://www.wikidata.org/entity/Q1050032",
+    "itemLabel": "Museu Picasso",
+    "year": "1963",
+    "locationLabel": "Ciutat Vella",
+    "description": "art museum in Barcelona, Spain",
     "sitelinks": "30"
   },
   {
@@ -2536,19 +2464,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q867072",
-    "itemLabel": "Fundació Joan Miró",
-    "year": "1975",
-    "locationLabel": "Montjuïc",
-    "description": "museum of modern art about Joan Miró located in Barcelona (Spain)",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4907651",
-    "itemLabel": "Bildmuseet",
-    "year": "1981",
-    "locationLabel": "Umeå Municipality",
-    "description": "contemporary art museum in Sweden",
+    "item": "http://www.wikidata.org/entity/Q919611",
+    "itemLabel": "Kumu",
+    "year": "2006",
+    "locationLabel": "Tallinn",
+    "description": "art museum in Tallinn, Estonia",
     "sitelinks": "30"
   },
   {
@@ -2565,6 +2485,30 @@
     "year": "1475",
     "locationLabel": "Savonlinna",
     "description": "medieval castle in Savonlinna, Finland",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4907651",
+    "itemLabel": "Bildmuseet",
+    "year": "1981",
+    "locationLabel": "Umeå Municipality",
+    "description": "contemporary art museum in Sweden",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q867072",
+    "itemLabel": "Fundació Joan Miró",
+    "year": "1975",
+    "locationLabel": "Montjuïc",
+    "description": "museum of modern art about Joan Miró located in Barcelona (Spain)",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2663377",
+    "itemLabel": "Frida Kahlo Museum",
+    "year": "1904",
+    "locationLabel": "Coyoacán",
+    "description": "historic house museum and art museum dedicated to the life and work of Mexican artist Frida Kahlo",
     "sitelinks": "30"
   },
   {

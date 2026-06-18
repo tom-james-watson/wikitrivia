@@ -80,6 +80,16 @@
     "pageViews": 176007
   },
   {
+    "qid": "Q133567959",
+    "title": "‘Tomodachi Life: Living the Dream’ releases",
+    "subtitle": "Video game by Nintendo Entertainment Planning & Development",
+    "year": 2026,
+    "fact": "Tomodachi Life: Living the Dream, known in Japan as Tomodachi Collection: Exciting Life, is a 2026 social simulation game developed and published by Nintendo for the Nintendo Switch.",
+    "wikipediaSlug": "Tomodachi_Life:_Living_the_Dream",
+    "image": "Tomodachi_Life_-_Living_The_Dream.jpeg",
+    "pageViews": 169057
+  },
+  {
     "qid": "Q1050284",
     "title": "‘Resident Evil – Code: Veronica’ releases",
     "subtitle": "Video game by Capcom",
@@ -102,22 +112,12 @@
   {
     "qid": "Q112231148",
     "title": "‘Resident Evil 4’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Capcom",
     "year": 2023,
     "fact": "Resident Evil 4 is a 2023 survival horror game developed and published by Capcom.",
     "wikipediaSlug": "Resident_Evil_4_(2023_video_game)",
     "image": "Resident_Evil_4_remake_cover_art.jpg",
     "pageViews": 127408
-  },
-  {
-    "qid": "Q83265",
-    "title": "‘Grand Theft Auto: San Andreas’ releases",
-    "subtitle": "Video game",
-    "year": 2004,
-    "fact": "Grand Theft Auto: San Andreas is a 2004 action-adventure game developed by Rockstar North and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto:_San_Andreas",
-    "image": "GTASABOX.jpg",
-    "pageViews": 125463
   },
   {
     "qid": "Q54920200",
@@ -190,16 +190,6 @@
     "pageViews": 93530
   },
   {
-    "qid": "Q64826862",
-    "title": "‘Elden Ring’ releases",
-    "subtitle": "Video game by FromSoftware",
-    "year": 2022,
-    "fact": "Elden Ring is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R.",
-    "wikipediaSlug": "Elden_Ring",
-    "image": "Elden_Ring_Box_art.jpg",
-    "pageViews": 92483
-  },
-  {
     "qid": "Q115641709",
     "title": "‘Death Stranding 2: On the Beach’ releases",
     "subtitle": "Video game by Kojima Productions",
@@ -228,6 +218,16 @@
     "wikipediaSlug": "Death_Stranding",
     "image": "Death_Stranding.jpg",
     "pageViews": 87716
+  },
+  {
+    "qid": "Q17168217",
+    "title": "‘Star Fox Zero’ releases",
+    "subtitle": "Video game by Nintendo Entertainment Planning & Development",
+    "year": 2016,
+    "fact": "Star Fox Zero is a 2016 rail shooter game developed by Nintendo and PlatinumGames and published by Nintendo for the Wii U.",
+    "wikipediaSlug": "Star_Fox_Zero",
+    "image": "Star_Fox_Zero.jpg",
+    "pageViews": 86087
   },
   {
     "qid": "Q124672125",
@@ -260,16 +260,6 @@
     "pageViews": 76321
   },
   {
-    "qid": "Q548203",
-    "title": "‘Red Dead Redemption’ releases",
-    "subtitle": "Video game by Rockstar San Diego",
-    "year": 2010,
-    "fact": "Red Dead Redemption is a 2010 action-adventure game developed by Rockstar San Diego and published by Rockstar Games.",
-    "wikipediaSlug": "Red_Dead_Redemption",
-    "image": "Red_Dead_Redemption.jpg",
-    "pageViews": 76140
-  },
-  {
     "qid": "Q1138864",
     "title": "‘Resident Evil: Revelations’ releases",
     "subtitle": "Video game by Capcom",
@@ -290,16 +280,6 @@
     "pageViews": 75620
   },
   {
-    "qid": "Q94797",
-    "title": "‘Grand Theft Auto IV’ releases",
-    "subtitle": "Video game by Rockstar Toronto",
-    "year": 2008,
-    "fact": "Grand Theft Auto IV is a 2008 action-adventure game developed by Rockstar North and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto_IV",
-    "image": "Grand_Theft_Auto_IV_cover.jpg",
-    "pageViews": 74698
-  },
-  {
     "qid": "Q1062106",
     "title": "‘Tekken 3’ releases",
     "subtitle": "Video game by Namco",
@@ -308,16 +288,6 @@
     "wikipediaSlug": "Tekken_3",
     "image": "Tekken_3_flyer.jpg",
     "pageViews": 72900
-  },
-  {
-    "qid": "Q94671",
-    "title": "‘Grand Theft Auto: Vice City’ releases",
-    "subtitle": "Video game",
-    "year": 2002,
-    "fact": "Grand Theft Auto: Vice City is a 2002 action-adventure game developed by Rockstar North and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto:_Vice_City",
-    "image": "Vice-city-cover.jpg",
-    "pageViews": 71315
   },
   {
     "qid": "Q752835",
@@ -372,7 +342,7 @@
   {
     "qid": "Q96417649",
     "title": "‘Among Us’ releases",
-    "subtitle": "Video game by Innersloth",
+    "subtitle": "Video game",
     "year": 2018,
     "fact": "Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth.",
     "wikipediaSlug": "Among_Us",
@@ -400,16 +370,6 @@
     "pageViews": 63039
   },
   {
-    "qid": "Q99397916",
-    "title": "‘God of War Ragnarök’ releases",
-    "subtitle": "Video game by Santa Monica Studio",
-    "year": 2022,
-    "fact": "God of War Ragnarök is a 2022 action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment.",
-    "wikipediaSlug": "God_of_War_Ragnar%C3%B6k",
-    "image": "God_of_War_Ragnarök_cover.jpg",
-    "pageViews": 59252
-  },
-  {
     "qid": "Q323862",
     "title": "‘The Elder Scrolls V: Skyrim’ releases",
     "subtitle": "Video game by Bethesda Game Studios",
@@ -432,7 +392,7 @@
   {
     "qid": "Q20155152",
     "title": "‘Final Fantasy VII Remake’ releases",
-    "subtitle": "Video game by Square Enix Business Division 1",
+    "subtitle": "Video game by Square Enix",
     "year": 2020,
     "fact": "Final Fantasy VII Remake is a 2020 action role-playing game developed and published by Square Enix for the PlayStation 4.",
     "wikipediaSlug": "Final_Fantasy_VII_Remake",
@@ -442,7 +402,7 @@
   {
     "qid": "Q2289776",
     "title": "‘Fatal Frame II: Crimson Butterfly’ releases",
-    "subtitle": "Video game by Koei Tecmo Holdings",
+    "subtitle": "Video game by Tecmo",
     "year": 2003,
     "fact": "Fatal Frame II: Crimson Butterfly is a survival horror video game developed by Tecmo for PlayStation 2.",
     "wikipediaSlug": "Fatal_Frame_II:_Crimson_Butterfly",
@@ -490,16 +450,6 @@
     "pageViews": 57481
   },
   {
-    "qid": "Q59756366",
-    "title": "‘Hades’ releases",
-    "subtitle": "Video game by Supergiant Games",
-    "year": 2020,
-    "fact": "Hades is a 2020 roguelike action role-playing game developed and published by Supergiant Games.",
-    "wikipediaSlug": "Hades_(video_game)",
-    "image": "Hades_cover_art.jpg",
-    "pageViews": 57320
-  },
-  {
     "qid": "Q105038239",
     "title": "‘It Takes Two’ releases",
     "subtitle": "Video game by Hazelight Studios",
@@ -510,44 +460,24 @@
     "pageViews": 56873
   },
   {
-    "qid": "Q55286432",
-    "title": "‘Starfield’ releases",
-    "subtitle": "Video game by Bethesda Game Studios",
-    "year": 2023,
-    "fact": "Starfield is a 2023 role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks.",
-    "wikipediaSlug": "Starfield_(video_game)",
-    "image": "Bethesda_Starfield.jpg",
-    "pageViews": 55833
+    "qid": "Q733992",
+    "title": "‘Resident Evil 2’ releases",
+    "subtitle": "Video game by Capcom",
+    "year": 1998,
+    "fact": "Resident Evil 2 is a 1998 survival horror video game developed and published by Capcom for the PlayStation.",
+    "wikipediaSlug": "Resident_Evil_2",
+    "image": "NTSC_Resident_Evil_2_Cover.png",
+    "pageViews": 56019
   },
   {
     "qid": "Q64083878",
     "title": "‘Call of Duty: Modern Warfare’ releases",
-    "subtitle": "Video game by Raven Software",
+    "subtitle": "Video game by Infinity Ward",
     "year": 2019,
     "fact": "Call of Duty: Modern Warfare is a 2019 first-person shooter game developed by Infinity Ward and published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_Modern_Warfare_(2019_video_game)",
     "image": "Call_of_Duty_Modern_Warfare_(2019)_cover.jpg",
     "pageViews": 52431
-  },
-  {
-    "qid": "Q15225985",
-    "title": "‘Persona 5’ releases",
-    "subtitle": "Video game by Atlus",
-    "year": 2016,
-    "fact": "Persona 5 is a 2016 role-playing video game developed by P-Studio.",
-    "wikipediaSlug": "Persona_5",
-    "image": "Persona_5_cover_art.jpg",
-    "pageViews": 51544
-  },
-  {
-    "qid": "Q7897632",
-    "title": "‘Until Dawn’ releases",
-    "subtitle": "Video game by Supermassive Games",
-    "year": 2015,
-    "fact": "Until Dawn is a 2015 interactive drama survival horror game developed by Supermassive Games and published by Sony Computer Entertainment.",
-    "wikipediaSlug": "Until_Dawn",
-    "image": "Until_Dawn_cover_art.jpg",
-    "pageViews": 51234
   },
   {
     "qid": "Q17185964",
@@ -558,16 +488,6 @@
     "wikipediaSlug": "The_Legend_of_Zelda:_Breath_of_the_Wild",
     "image": "The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
     "pageViews": 51147
-  },
-  {
-    "qid": "Q60102",
-    "title": "‘Fallout’ releases",
-    "subtitle": "Video game by Black Isle Studios",
-    "year": 1997,
-    "fact": "Fallout is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China.",
-    "wikipediaSlug": "Fallout_(video_game)",
-    "image": "Fallout.jpg",
-    "pageViews": 50984
   },
   {
     "qid": "Q98582386",
@@ -620,19 +540,19 @@
     "pageViews": 47865
   },
   {
-    "qid": "Q149106",
-    "title": "‘Grand Theft Auto III’ releases",
-    "subtitle": "Video game by DMA Design",
-    "year": 2001,
-    "fact": "Grand Theft Auto III is a 2001 action-adventure game developed by DMA Design and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto_III",
-    "image": "GTA3boxcover.jpg",
-    "pageViews": 47389
+    "qid": "Q15408545",
+    "title": "‘Kingdom Come: Deliverance’ releases",
+    "subtitle": "Video game by Warhorse Studios",
+    "year": 2018,
+    "fact": "Kingdom Come: Deliverance is a 2018 action role-playing video game developed by Warhorse Studios and published by Deep Silver.",
+    "wikipediaSlug": "Kingdom_Come:_Deliverance",
+    "image": "Kingdom_Come_Deliverance.jpg",
+    "pageViews": 47595
   },
   {
     "qid": "Q213911",
     "title": "‘The Legend of Zelda: Ocarina of Time’ releases",
-    "subtitle": "Video game by Nintendo Entertainment Analysis & Development",
+    "subtitle": "Video game by Nintendo",
     "year": 1998,
     "fact": "The Legend of Zelda: Ocarina of Time is a 1998 action-adventure game developed and published by Nintendo for the Nintendo 64.",
     "wikipediaSlug": "The_Legend_of_Zelda:_Ocarina_of_Time",
@@ -730,6 +650,26 @@
     "pageViews": 45143
   },
   {
+    "qid": "Q135144851",
+    "title": "‘EA Sports FC 26’ releases",
+    "subtitle": "Video game by EA Vancouver",
+    "year": 2025,
+    "fact": "EA Sports FC 26 is an association football simulation video game developed by EA Vancouver and EA Romania and published by Electronic Arts.",
+    "wikipediaSlug": "EA_Sports_FC_26",
+    "image": "EA_FC_26_Cover.jpg",
+    "pageViews": 44840
+  },
+  {
+    "qid": "Q54935655",
+    "title": "‘Control’ releases",
+    "subtitle": "Video game",
+    "year": 2019,
+    "fact": "Control is a 2019 action-adventure game developed by Remedy Entertainment.",
+    "wikipediaSlug": "Control_(video_game)",
+    "image": "Control_game_cover_art.jpg",
+    "pageViews": 44724
+  },
+  {
     "qid": "Q25340029",
     "title": "‘Spider-Man’ releases",
     "subtitle": "Video game by Insomniac Games",
@@ -742,7 +682,7 @@
   {
     "qid": "Q220365",
     "title": "‘Need for Speed: Most Wanted’ releases",
-    "subtitle": "Video game by EA Black Box",
+    "subtitle": "Video game",
     "year": 2005,
     "fact": "Need for Speed: Most Wanted is a 2005 racing video game, and the ninth installment in the Need for Speed series following Underground 2.",
     "wikipediaSlug": "Need_for_Speed:_Most_Wanted_(2005_video_game)",
@@ -752,7 +692,7 @@
   {
     "qid": "Q9176944",
     "title": "‘Subway Surfers’ releases",
-    "subtitle": "Video game by SYBO Games",
+    "subtitle": "Video game by Kiloo",
     "year": 2012,
     "fact": "Subway Surfers is a 2012 endless runner mobile game which is co-developed by Kiloo and SYBO Games, private companies based in Denmark.",
     "wikipediaSlug": "Subway_Surfers",
@@ -843,7 +783,7 @@
     "qid": "Q30330493",
     "title": "‘Brawl Stars’ releases",
     "subtitle": "Video game by Supercell",
-    "year": 2018,
+    "year": 2026,
     "fact": "Brawl Stars is a multiplayer online battle arena and hero shooter video game developed and published by Finnish video game company Supercell.",
     "wikipediaSlug": "Brawl_Stars",
     "image": "Brawl_Stars_logo_2025.svg",
@@ -982,7 +922,7 @@
   {
     "qid": "Q76255",
     "title": "‘Call of Duty 4: Modern Warfare’ releases",
-    "subtitle": "Video game by Infinity Ward",
+    "subtitle": "Video game by Aspyr",
     "year": 2007,
     "fact": "Call of Duty 4: Modern Warfare is a 2007 first-person shooter game developed by Infinity Ward and published by Activision.",
     "wikipediaSlug": "Call_of_Duty_4:_Modern_Warfare",
@@ -1028,16 +968,6 @@
     "wikipediaSlug": "Star_Wars_Jedi:_Survivor",
     "image": "Star_Wars_Jedi_Survivor.jpg",
     "pageViews": 37130
-  },
-  {
-    "qid": "Q14594724",
-    "title": "‘Grand Theft Auto Online’ releases",
-    "subtitle": "Video game",
-    "year": 2013,
-    "fact": "Grand Theft Auto Online is an online multiplayer action-adventure game developed by Rockstar North and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto_Online",
-    "image": "Grand_Theft_Auto_Online.jpg",
-    "pageViews": 37023
   },
   {
     "qid": "Q106827",
@@ -1132,7 +1062,7 @@
   {
     "qid": "Q20966579",
     "title": "‘Pokémon Go’ releases",
-    "subtitle": "Video game by Niantic Games Team",
+    "subtitle": "Video game by Scopely",
     "year": 2016,
     "fact": "Pokémon Go is a 2016 augmented reality (AR) mobile game developed and published by Niantic, in partnership with Nintendo and The Pokémon Company, for iOS and Android devices.",
     "wikipediaSlug": "Pok%C3%A9mon_Go",
@@ -1150,6 +1080,16 @@
     "pageViews": 34983
   },
   {
+    "qid": "Q837923",
+    "title": "‘Garry's Mod’ releases",
+    "subtitle": "Video game",
+    "year": 2006,
+    "fact": "Garry's Mod, commonly clipped as GMod, is a 2006 sandbox game developed by Facepunch Studios and published by Valve.",
+    "wikipediaSlug": "Garry%27s_Mod",
+    "image": "Garry's_Mod_logo.svg",
+    "pageViews": 34719
+  },
+  {
     "qid": "Q17618314",
     "title": "‘Five Nights at Freddy's’ releases",
     "subtitle": "Video game by Scott Cawthon",
@@ -1158,6 +1098,16 @@
     "wikipediaSlug": "Five_Nights_at_Freddy%27s_(video_game)",
     "image": "FNAF1logo.jpg",
     "pageViews": 34626
+  },
+  {
+    "qid": "Q111983519",
+    "title": "‘Zenless Zone Zero’ releases",
+    "subtitle": "Video game by miHoYo",
+    "year": 2024,
+    "fact": "Zenless Zone Zero is a free-to-play action role-playing game developed and published by miHoYo.",
+    "wikipediaSlug": "Zenless_Zone_Zero",
+    "image": "Zenless_Zone_Zero_curved_box_logo.svg",
+    "pageViews": 34419
   },
   {
     "qid": "Q18515944",
@@ -1182,7 +1132,7 @@
   {
     "qid": "Q575505",
     "title": "‘Alan Wake’ releases",
-    "subtitle": "Video game by Remedy Entertainment",
+    "subtitle": "Video game",
     "year": 2010,
     "fact": "Alan Wake is a 2010 action-adventure game developed by Remedy Entertainment and published by Microsoft Game Studios.",
     "wikipediaSlug": "Alan_Wake",
@@ -1262,7 +1212,7 @@
   {
     "qid": "Q121295422",
     "title": "‘Call of Duty: Modern Warfare III’ releases",
-    "subtitle": "Video game by Infinity Ward",
+    "subtitle": "Video game by Beenox",
     "year": 2023,
     "fact": "Call of Duty: Modern Warfare III is a 2023 first-person shooter game developed by Sledgehammer Games and published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_Modern_Warfare_III_(2023_video_game)",
@@ -1330,6 +1280,16 @@
     "pageViews": 31943
   },
   {
+    "qid": "Q6497116",
+    "title": "‘Myst’ releases",
+    "subtitle": "Video game by Cyan Worlds",
+    "year": 1993,
+    "fact": "Myst is a 1993 adventure video game developed by Cyan and published by Broderbund for Mac OS.",
+    "wikipediaSlug": "Myst",
+    "image": "MystCover.png",
+    "pageViews": 31798
+  },
+  {
     "qid": "Q119819453",
     "title": "‘Super Mario Bros. Wonder’ releases",
     "subtitle": "Video game by Nintendo Entertainment Planning & Development",
@@ -1340,9 +1300,29 @@
     "pageViews": 31701
   },
   {
+    "qid": "Q131433899",
+    "title": "‘Split Fiction’ releases",
+    "subtitle": "Video game by Hazelight Studios",
+    "year": 2025,
+    "fact": "Split Fiction is a 2025 action-adventure game developed by Hazelight Studios and published by Electronic Arts.",
+    "wikipediaSlug": "Split_Fiction",
+    "image": "Split_Fiction_cover_art.jpg",
+    "pageViews": 31688
+  },
+  {
+    "qid": "Q16987803",
+    "title": "‘BeamNG.drive’ releases",
+    "subtitle": "Video game",
+    "year": 2013,
+    "fact": "BeamNG.drive is a sandbox vehicle simulation video game developed and published by Bremen-based video game developer BeamNG GmbH for Windows and Linux.",
+    "wikipediaSlug": "BeamNG.drive",
+    "image": "BeamNGdrive_cover.png",
+    "pageViews": 31539
+  },
+  {
     "qid": "Q17183996",
     "title": "‘Tom Clancy's Rainbow Six Siege’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game by Ubisoft Chengdu",
     "year": 2015,
     "fact": "Tom Clancy's Rainbow Six Siege is a 2015 tactical shooter game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Tom_Clancy%27s_Rainbow_Six_Siege",
@@ -1352,7 +1332,7 @@
   {
     "qid": "Q15983778",
     "title": "‘Assassin's Creed Unity’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2014,
     "fact": "Assassin's Creed Unity is a 2014 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed_Unity",
@@ -1382,7 +1362,7 @@
   {
     "qid": "Q822849",
     "title": "‘Bully’ releases",
-    "subtitle": "Video game by Rockstar Toronto",
+    "subtitle": "Video game by Rockstar New England",
     "year": 2006,
     "fact": "Bully is a 2006 action-adventure video game developed by Rockstar Vancouver and published by Rockstar Games.",
     "wikipediaSlug": "Bully_(video_game)",
@@ -1422,7 +1402,7 @@
   {
     "qid": "Q200864",
     "title": "‘Assassin's Creed’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2007,
     "fact": "Assassin's Creed is a 2007 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed_(video_game)",
@@ -1542,7 +1522,7 @@
   {
     "qid": "Q92464687",
     "title": "‘Assassin's Creed Valhalla’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2020,
     "fact": "Assassin's Creed Valhalla is a 2020 action role-playing game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed_Valhalla",
@@ -1592,7 +1572,7 @@
   {
     "qid": "Q2529000",
     "title": "‘EarthBound’ releases",
-    "subtitle": "Video game by HAL Laboratory",
+    "subtitle": "Video game by Creatures",
     "year": 1994,
     "fact": "EarthBound, originally released in Japan as Mother 2: Gīgu no Gyakushū, is a 1994 role-playing video game developed by Ape Inc. and HAL Laboratory and published by Nintendo for the Super Nintendo Entertainment System.",
     "wikipediaSlug": "EarthBound",
@@ -1732,7 +1712,7 @@
   {
     "qid": "Q28234671",
     "title": "‘Super Mario Odyssey’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 2017,
     "fact": "Super Mario Odyssey is a 2017 platform game developed and published by Nintendo for the Nintendo Switch.",
     "wikipediaSlug": "Super_Mario_Odyssey",
@@ -1742,7 +1722,7 @@
   {
     "qid": "Q15103408",
     "title": "‘Cookie Clicker’ releases",
-    "subtitle": "Video game by Julien Thiennot",
+    "subtitle": "Video game by DashNet",
     "year": 2013,
     "fact": "Cookie Clicker is a 2013 video game created by French programmer Julien \"Orteil\" Thiennot.",
     "wikipediaSlug": "Cookie_Clicker",
@@ -1880,16 +1860,6 @@
     "pageViews": 27054
   },
   {
-    "qid": "Q94501",
-    "title": "‘Grand Theft Auto’ releases",
-    "subtitle": "Video game by Rockstar Lincoln",
-    "year": 1998,
-    "fact": "Grand Theft Auto is a 1997 action-adventure game developed by DMA Design and published by BMG Interactive.",
-    "wikipediaSlug": "Grand_Theft_Auto_(video_game)",
-    "image": "GTA_-_Box_Front.jpg",
-    "pageViews": 27004
-  },
-  {
     "qid": "Q1035512",
     "title": "‘Danganronpa: Trigger Happy Havoc’ releases",
     "subtitle": "Video game by Spike",
@@ -1920,6 +1890,16 @@
     "pageViews": 26529
   },
   {
+    "qid": "Q126091569",
+    "title": "‘Doom: The Dark Ages’ releases",
+    "subtitle": "Video game by id Software",
+    "year": 2025,
+    "fact": "Doom: The Dark Ages is a 2025 first-person shooter game developed by id Software and published by Bethesda Softworks.",
+    "wikipediaSlug": "Doom:_The_Dark_Ages",
+    "image": "DOOM,_The_Dark_Ages_Game_Cover.jpeg",
+    "pageViews": 26482
+  },
+  {
     "qid": "Q1133204",
     "title": "‘Street Fighter II’ releases",
     "subtitle": "Video game by Capcom",
@@ -1932,22 +1912,12 @@
   {
     "qid": "Q40166",
     "title": "‘Assassin's Creed III’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game by Ubisoft Romania",
     "year": 2012,
     "fact": "Assassin's Creed III is a 2012 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed_III",
     "image": "Assassin's_Creed_III_Game_Cover.jpg",
     "pageViews": 26266
-  },
-  {
-    "qid": "Q1129094",
-    "title": "‘L.A. Noire’ releases",
-    "subtitle": "Video game by Team Bondi",
-    "year": 2011,
-    "fact": "L.A.",
-    "wikipediaSlug": "L.A._Noire",
-    "image": "LA-Noire-Box-Art.jpg",
-    "pageViews": 26218
   },
   {
     "qid": "Q63595820",
@@ -1962,7 +1932,7 @@
   {
     "qid": "Q28451532",
     "title": "‘Celeste’ releases",
-    "subtitle": "Video game by Maddy Makes Games",
+    "subtitle": "Video game",
     "year": 2018,
     "fact": "Celeste is a 2018 platform video game developed and published by indie studio Maddy Makes Games.",
     "wikipediaSlug": "Celeste_(video_game)",
@@ -2020,6 +1990,16 @@
     "pageViews": 25781
   },
   {
+    "qid": "Q217423",
+    "title": "‘Quake’ releases",
+    "subtitle": "Video game by id Software",
+    "year": 1996,
+    "fact": "Quake is a 1996 first-person shooter video game developed by id Software and published by GT Interactive.",
+    "wikipediaSlug": "Quake_(video_game)",
+    "image": "Quake1cover.jpg",
+    "pageViews": 25753
+  },
+  {
     "qid": "Q50376754",
     "title": "‘Tom Clancy's The Division 2’ releases",
     "subtitle": "Video game",
@@ -2042,7 +2022,7 @@
   {
     "qid": "Q211735",
     "title": "‘Assassin's Creed II’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Assassin's Creed II is a 2009 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed_II",
@@ -2088,16 +2068,6 @@
     "wikipediaSlug": "Final_Fantasy_XV",
     "image": "FF_XV_cover_art.jpg",
     "pageViews": 25205
-  },
-  {
-    "qid": "Q641697",
-    "title": "‘Red Dead Revolver’ releases",
-    "subtitle": "Video game by Rockstar San Diego",
-    "year": 2004,
-    "fact": "Red Dead Revolver is a 2004 action-adventure game developed by Rockstar San Diego and published by Rockstar Games.",
-    "wikipediaSlug": "Red_Dead_Revolver",
-    "image": "Red_Dead_Revolver_Coverart.jpg",
-    "pageViews": 25143
   },
   {
     "qid": "Q647855",
@@ -2182,7 +2152,7 @@
   {
     "qid": "Q207797",
     "title": "‘Call of Duty: World at War’ releases",
-    "subtitle": "Video game by Arkane Studios",
+    "subtitle": "Video game by Treyarch",
     "year": 2008,
     "fact": "Call of Duty: World at War is a 2008 first-person shooter game developed by Treyarch and published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_World_at_War",
@@ -2222,7 +2192,7 @@
   {
     "qid": "Q111358923",
     "title": "‘The Quarry’ releases",
-    "subtitle": "Video game by Supermassive Games",
+    "subtitle": "Video game",
     "year": 2022,
     "fact": "The Quarry is a 2022 interactive drama horror game developed by Supermassive Games and published by 2K.",
     "wikipediaSlug": "The_Quarry_(video_game)",
@@ -2332,7 +2302,7 @@
   {
     "qid": "Q18940",
     "title": "‘Wolfenstein 3D’ releases",
-    "subtitle": "Video game by Interplay Entertainment",
+    "subtitle": "Video game by id Software",
     "year": 1992,
     "fact": "Wolfenstein 3D is a 1992 first-person shooter game developed by id Software and published by Apogee Software and FormGen for MS-DOS.",
     "wikipediaSlug": "Wolfenstein_3D",
@@ -2340,19 +2310,9 @@
     "pageViews": 23609
   },
   {
-    "qid": "Q98514334",
-    "title": "‘Call of Duty: Black Ops Cold War’ releases",
-    "subtitle": "Video game by Raven Software",
-    "year": 2020,
-    "fact": "Call of Duty: Black Ops Cold War is a 2020 first-person shooter game co-developed by Treyarch and Raven Software and published by Activision.",
-    "wikipediaSlug": "Call_of_Duty:_Black_Ops_Cold_War",
-    "image": "BOCW_Cover_Art.jpg",
-    "pageViews": 23596
-  },
-  {
     "qid": "Q15709637",
     "title": "‘Middle-earth: Shadow of Mordor’ releases",
-    "subtitle": "Video game by Monolith Productions",
+    "subtitle": "Video game by Feral Interactive",
     "year": 2014,
     "fact": "Middle-earth: Shadow of Mordor is a 2014 action-adventure game developed by Monolith Productions and published by Warner Bros.",
     "wikipediaSlug": "Middle-earth:_Shadow_of_Mordor",
@@ -2360,9 +2320,19 @@
     "pageViews": 23549
   },
   {
+    "qid": "Q105552720",
+    "title": "‘Splatoon 3’ releases",
+    "subtitle": "Video game by Nintendo Entertainment Planning & Development",
+    "year": 2022,
+    "fact": "Splatoon 3 is a 2022 third-person shooter video game developed and published by Nintendo for the Nintendo Switch.",
+    "wikipediaSlug": "Splatoon_3",
+    "image": "Splatoon.3.jpg",
+    "pageViews": 23447
+  },
+  {
     "qid": "Q715292",
     "title": "‘Prince of Persia: The Sands of Time’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2003,
     "fact": "Prince of Persia: The Sands of Time is a 2003 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Prince_of_Persia:_The_Sands_of_Time",
@@ -2372,7 +2342,7 @@
   {
     "qid": "Q610968",
     "title": "‘Mario Bros.’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 1984,
     "fact": "Mario Bros. is a 1983 platform game developed and published by Nintendo for arcades.",
     "wikipediaSlug": "Mario_Bros.",
@@ -2432,7 +2402,7 @@
   {
     "qid": "Q37123",
     "title": "‘Sonic the Hedgehog’ releases",
-    "subtitle": "Video game by Sonic Team",
+    "subtitle": "Video game by Konami",
     "year": 1991,
     "fact": "Sonic the Hedgehog is a 1991 platform game developed and published by Sega for the Sega Genesis.",
     "wikipediaSlug": "Sonic_the_Hedgehog_(1991_video_game)",
@@ -2482,7 +2452,7 @@
   {
     "qid": "Q13415292",
     "title": "‘Dying Light’ releases",
-    "subtitle": "Video game by Techland",
+    "subtitle": "Video game",
     "year": 2015,
     "fact": "Dying Light is a 2015 survival horror video game developed by Techland and originally published by Warner Bros.",
     "wikipediaSlug": "Dying_Light",
@@ -2502,7 +2472,7 @@
   {
     "qid": "Q1146147",
     "title": "‘Custer's Revenge’ releases",
-    "subtitle": "Video game by Mystique",
+    "subtitle": "Video game",
     "year": 1982,
     "fact": "Custer's Revenge is an adult action game published by American Multiple Industries for the Atari 2600, first released in November 1982.",
     "wikipediaSlug": "Custer%27s_Revenge",
@@ -2562,7 +2532,7 @@
   {
     "qid": "Q13431312",
     "title": "‘Tom Clancy's The Division’ releases",
-    "subtitle": "Video game by Red Storm Entertainment",
+    "subtitle": "Video game by Ubisoft Reflections",
     "year": 2016,
     "fact": "Tom Clancy's The Division is a 2016 online-only action role-playing video game developed by Massive Entertainment and published by Ubisoft.",
     "wikipediaSlug": "Tom_Clancy%27s_The_Division",
@@ -2750,6 +2720,16 @@
     "pageViews": 21716
   },
   {
+    "qid": "Q1202075",
+    "title": "‘Yosuga no Sora’ releases",
+    "subtitle": "Video game",
+    "year": 2008,
+    "fact": "Yosuga no Sora is a Japanese romance drama eroge visual novel developed by CUFFS (\"Sphere\").",
+    "wikipediaSlug": "Yosuga_no_Sora",
+    "image": "Yosuganosora_package.jpg",
+    "pageViews": 21614
+  },
+  {
     "qid": "Q19789342",
     "title": "‘Call of Duty: Black Ops III’ releases",
     "subtitle": "Video game by Treyarch",
@@ -2778,6 +2758,16 @@
     "wikipediaSlug": "Batman:_Arkham_City",
     "image": "Batman_Arkham_City_Game_Cover.jpg",
     "pageViews": 21524
+  },
+  {
+    "qid": "Q28861509",
+    "title": "‘Little Nightmares’ releases",
+    "subtitle": "Video game by Tarsier Studios",
+    "year": 2017,
+    "fact": "Little Nightmares is a puzzle-platform horror adventure game developed by Tarsier Studios and published by Bandai Namco Entertainment.",
+    "wikipediaSlug": "Little_Nightmares",
+    "image": "Little_Nightmares_Box_Art.png",
+    "pageViews": 21446
   },
   {
     "qid": "Q648980",
@@ -3001,7 +2991,7 @@
   },
   {
     "qid": "Q22019785",
-    "title": "‘Inside’ releases",
+    "title": "‘INSIDE’ releases",
     "subtitle": "Video game by Playdead",
     "year": 2016,
     "fact": "Inside is a 2016 puzzle-platform horror game developed and published by Playdead.",
@@ -3088,26 +3078,6 @@
     "wikipediaSlug": "Prototype_(video_game)",
     "image": "PROTOTYPE.png",
     "pageViews": 20095
-  },
-  {
-    "qid": "Q94640",
-    "title": "‘Grand Theft Auto: Vice City Stories’ releases",
-    "subtitle": "Video game by Rockstar Leeds",
-    "year": 2006,
-    "fact": "Grand Theft Auto: Vice City Stories is a 2006 action-adventure game developed by Rockstar Leeds and Rockstar North, and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto:_Vice_City_Stories",
-    "image": "GTA_Vice_City_Stories_PSP_boxart.jpg",
-    "pageViews": 20068
-  },
-  {
-    "qid": "Q30238508",
-    "title": "‘Metro Exodus’ releases",
-    "subtitle": "Video game by 4A Games",
-    "year": 2019,
-    "fact": "Metro Exodus is a first-person shooter video game developed by 4A Games and published by Deep Silver in 2019.",
-    "wikipediaSlug": "Metro_Exodus",
-    "image": "Cover_Art_of_Metro_Exodus.png",
-    "pageViews": 19966
   },
   {
     "qid": "Q518987",
@@ -3208,16 +3178,6 @@
     "wikipediaSlug": "Delta_Force_(2025_video_game)",
     "image": "Delta_Force_Logo.svg",
     "pageViews": 19672
-  },
-  {
-    "qid": "Q18149274",
-    "title": "‘Cities: Skylines’ releases",
-    "subtitle": "Video game by Colossal Order",
-    "year": 2015,
-    "fact": "Cities: Skylines is a 2015 city-building game developed by Colossal Order and published by Paradox Interactive.",
-    "wikipediaSlug": "Cities:_Skylines",
-    "image": "Cities_Skylines_cover_art.jpg",
-    "pageViews": 19627
   },
   {
     "qid": "Q252804",
@@ -3480,16 +3440,6 @@
     "pageViews": 18262
   },
   {
-    "qid": "Q108054772",
-    "title": "‘Call of Duty: Vanguard’ releases",
-    "subtitle": "Video game by Treyarch",
-    "year": 2021,
-    "fact": "Call of Duty: Vanguard is a 2021 first-person shooter game developed by Sledgehammer Games and published by Activision.",
-    "wikipediaSlug": "Call_of_Duty:_Vanguard",
-    "image": "Call_of_Duty_Vanguard_cover_art.jpg",
-    "pageViews": 18261
-  },
-  {
     "qid": "Q737308",
     "title": "‘Star Wars: The Old Republic’ releases",
     "subtitle": "Video game by BioWare",
@@ -3522,7 +3472,7 @@
   {
     "qid": "Q677351",
     "title": "‘Assassin's Creed: Brotherhood’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2010,
     "fact": "Assassin's Creed: Brotherhood is a 2010 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed:_Brotherhood",
@@ -3622,7 +3572,7 @@
   {
     "qid": "Q336177",
     "title": "‘EVE Online’ releases",
-    "subtitle": "Video game by CCP Games",
+    "subtitle": "Video game by Fenris Creations",
     "year": 2003,
     "fact": "Eve Online is a space-based, persistent-world massively-multiplayer online role-playing game (MMORPG) developed and published by CCP Games.",
     "wikipediaSlug": "Eve_Online",
@@ -3682,7 +3632,7 @@
   {
     "qid": "Q15992359",
     "title": "‘Far Cry 4’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game by Ubisoft Toronto",
     "year": 2014,
     "fact": "Far Cry 4 is a 2014 first-person shooter game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Far_Cry_4",
@@ -3760,16 +3710,6 @@
     "pageViews": 17548
   },
   {
-    "qid": "Q3083413",
-    "title": "‘Dragon's Dogma’ releases",
-    "subtitle": "Video game by Capcom",
-    "year": 2012,
-    "fact": "Dragon's Dogma is a 2012 action role-playing game developed and published by Capcom.",
-    "wikipediaSlug": "Dragon%27s_Dogma",
-    "image": "DragonsDogma.jpg",
-    "pageViews": 17473
-  },
-  {
     "qid": "Q1134845",
     "title": "‘EverQuest’ releases",
     "subtitle": "Video game by Daybreak Game Company",
@@ -3842,7 +3782,7 @@
   {
     "qid": "Q20155365",
     "title": "‘Tom Clancy's Ghost Recon Wildlands’ releases",
-    "subtitle": "Video game by Ubisoft Milan",
+    "subtitle": "Video game by Ubisoft Romania",
     "year": 2017,
     "fact": "Tom Clancy's Ghost Recon Wildlands is a third-person tactical shooter video game developed by Ubisoft Paris and Ubisoft Milan, and published by Ubisoft.",
     "wikipediaSlug": "Tom_Clancy%27s_Ghost_Recon_Wildlands",
@@ -3852,7 +3792,7 @@
   {
     "qid": "Q1069059",
     "title": "‘Sonic Adventure’ releases",
-    "subtitle": "Video game by Now Production",
+    "subtitle": "Video game by Sonic Team",
     "year": 1998,
     "fact": "Sonic Adventure is a 1998 platform game developed by Sonic Team and published by Sega for the Dreamcast.",
     "wikipediaSlug": "Sonic_Adventure",
@@ -3902,7 +3842,7 @@
   {
     "qid": "Q1326889",
     "title": "‘Star Fox’ releases",
-    "subtitle": "Video game by Nintendo Entertainment Analysis & Development",
+    "subtitle": "Video game by Argonaut Games",
     "year": 1993,
     "fact": "Star Fox, known as Starwing in PAL regions, is a 1993 rail shooter game developed by Nintendo and Argonaut Software, and published by Nintendo for the Super Nintendo Entertainment System (SNES).",
     "wikipediaSlug": "Star_Fox_(1993_video_game)",
@@ -3950,26 +3890,6 @@
     "pageViews": 16992
   },
   {
-    "qid": "Q94778",
-    "title": "‘Grand Theft Auto: Liberty City Stories’ releases",
-    "subtitle": "Video game by Rockstar Leeds",
-    "year": 2005,
-    "fact": "Grand Theft Auto: Liberty City Stories is a 2005 action-adventure game developed in a collaboration between Rockstar Leeds and Rockstar North, and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto:_Liberty_City_Stories",
-    "image": "Grand_Theft_Auto_Liberty_City_Stories_box.jpg",
-    "pageViews": 16988
-  },
-  {
-    "qid": "Q94460",
-    "title": "‘Grand Theft Auto 2’ releases",
-    "subtitle": "Video game by DMA Design",
-    "year": 1999,
-    "fact": "Grand Theft Auto 2 is a 1999 action-adventure game developed by DMA Design and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto_2",
-    "image": "GTA2_Box_art.jpg",
-    "pageViews": 16975
-  },
-  {
     "qid": "Q1416303",
     "title": "‘The World Ends with You’ releases",
     "subtitle": "Video game by Square Enix",
@@ -4002,7 +3922,7 @@
   {
     "qid": "Q40887608",
     "title": "‘Octopath Traveler’ releases",
-    "subtitle": "Video game by Acquire",
+    "subtitle": "Video game by Square Enix",
     "year": 2018,
     "fact": "Octopath Traveler is a 2018 role-playing video game developed by Square Enix in collaboration with Acquire.",
     "wikipediaSlug": "Octopath_Traveler",
@@ -4072,7 +3992,7 @@
   {
     "qid": "Q116995799",
     "title": "‘Cities: Skylines II’ releases",
-    "subtitle": "Video game by Colossal Order",
+    "subtitle": "Video game by Iceflake Studios",
     "year": 2023,
     "fact": "Cities: Skylines II is a 2023 city-building game initially developed by Colossal Order, with Iceflake Studios taking over at the start of 2026, and published by Paradox Interactive.",
     "wikipediaSlug": "Cities:_Skylines_II",
@@ -4092,7 +4012,7 @@
   {
     "qid": "Q1175156",
     "title": "‘Max Payne’ releases",
-    "subtitle": "Video game by Remedy Entertainment",
+    "subtitle": "Video game",
     "year": 2001,
     "fact": "Max Payne is a 2001 third-person shooter game developed by Remedy Entertainment.",
     "wikipediaSlug": "Max_Payne_(video_game)",
@@ -4132,7 +4052,7 @@
   {
     "qid": "Q16743064",
     "title": "‘Call of Duty: Advanced Warfare’ releases",
-    "subtitle": "Video game by Sledgehammer Games",
+    "subtitle": "Video game by High Moon Studios",
     "year": 2014,
     "fact": "Call of Duty: Advanced Warfare is a 2014 first-person shooter game published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_Advanced_Warfare",
@@ -4168,16 +4088,6 @@
     "wikipediaSlug": "Mafia_II",
     "image": "Mafia_II_Boxart.jpg",
     "pageViews": 16349
-  },
-  {
-    "qid": "Q20736242",
-    "title": "‘Dragon Quest XI’ releases",
-    "subtitle": "Video game by Square Enix",
-    "year": 2017,
-    "fact": "Dragon Quest XI: Echoes of an Elusive Age is a 2017 role-playing video game developed and published by Square Enix.",
-    "wikipediaSlug": "Dragon_Quest_XI",
-    "image": "Dragon_Quest_XI_cover_art.jpg",
-    "pageViews": 16331
   },
   {
     "qid": "Q71936",
@@ -4300,16 +4210,6 @@
     "pageViews": 16015
   },
   {
-    "qid": "Q526350",
-    "title": "‘Mirror's Edge’ releases",
-    "subtitle": "Video game by DICE",
-    "year": 2008,
-    "fact": "Mirror's Edge is a 2008 first-person action-adventure platform game developed by DICE and published by Electronic Arts.",
-    "wikipediaSlug": "Mirror%27s_Edge",
-    "image": "Mirror's_Edge.jpg",
-    "pageViews": 16012
-  },
-  {
     "qid": "Q592507",
     "title": "‘Grim Fandango’ releases",
     "subtitle": "Video game by Lucasfilm Games",
@@ -4320,19 +4220,9 @@
     "pageViews": 15986
   },
   {
-    "qid": "Q60850588",
-    "title": "‘Atomic Heart’ releases",
-    "subtitle": "Video game",
-    "year": 2023,
-    "fact": "Atomic Heart is a 2023 first-person shooter video game developed by Mundfish Studio.",
-    "wikipediaSlug": "Atomic_Heart",
-    "image": "Atomic_Heart_cover.jpg",
-    "pageViews": 15930
-  },
-  {
     "qid": "Q23978200",
     "title": "‘Call of Duty: Infinite Warfare’ releases",
-    "subtitle": "Video game by Infinity Ward",
+    "subtitle": "Video game by High Moon Studios",
     "year": 2016,
     "fact": "Call of Duty: Infinite Warfare is a 2016 first-person shooter game developed by Infinity Ward and published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_Infinite_Warfare",
@@ -4348,16 +4238,6 @@
     "wikipediaSlug": "Battlefield_V",
     "image": "Battlefield_V_standard_edition_box_art.jpg",
     "pageViews": 15909
-  },
-  {
-    "qid": "Q15630929",
-    "title": "‘Hitman’ releases",
-    "subtitle": "Video game by IO Interactive",
-    "year": 2016,
-    "fact": "Hitman is a 2016 stealth video game developed by IO Interactive and published by Square Enix.",
-    "wikipediaSlug": "Hitman_(2016_video_game)",
-    "image": "Hitman_2015.jpg",
-    "pageViews": 15896
   },
   {
     "qid": "Q1880781",
@@ -4382,7 +4262,7 @@
   {
     "qid": "Q29344737",
     "title": "‘Bendy and the Ink Machine’ releases",
-    "subtitle": "Video game by TheMeatly Games",
+    "subtitle": "Video game",
     "year": 2017,
     "fact": "Bendy and the Ink Machine is an episodic survival horror game developed and published by Joey Drew Studios.",
     "wikipediaSlug": "Bendy_and_the_Ink_Machine",
@@ -4532,7 +4412,7 @@
   {
     "qid": "Q83843",
     "title": "‘Forza Horizon’ releases",
-    "subtitle": "Video game by Turn 10 Studios",
+    "subtitle": "Video game by Playground Games",
     "year": 2012,
     "fact": "Forza Horizon is a 2012 racing video game developed by Playground Games and published by Microsoft Studios for the Xbox 360 on 23 October 2012.",
     "wikipediaSlug": "Forza_Horizon",
@@ -4572,7 +4452,7 @@
   {
     "qid": "Q34852",
     "title": "‘Age of Empires II: The Age of Kings’ releases",
-    "subtitle": "Video game by Ensemble Studios",
+    "subtitle": "Video game by Hidden Path Entertainment",
     "year": 1999,
     "fact": "Age of Empires II: The Age of Kings is a real-time strategy video game developed by Ensemble Studios and published by Microsoft.",
     "wikipediaSlug": "Age_of_Empires_II",
@@ -4598,6 +4478,16 @@
     "wikipediaSlug": "Crisis_Core:_Final_Fantasy_VII",
     "image": "Crisis_Core.png",
     "pageViews": 15274
+  },
+  {
+    "qid": "Q767456",
+    "title": "‘Gothic’ releases",
+    "subtitle": "Video game by Piranha Bytes",
+    "year": 2001,
+    "fact": "Gothic is a 2001 action role-playing game developed by Piranha Bytes for Windows and the first game of the Gothic game franchise.",
+    "wikipediaSlug": "Gothic_(video_game)",
+    "image": "Gothiccover.png",
+    "pageViews": 15266
   },
   {
     "qid": "Q663583",
@@ -4660,9 +4550,19 @@
     "pageViews": 15082
   },
   {
+    "qid": "Q119224900",
+    "title": "‘Prince of Persia: The Lost Crown’ releases",
+    "subtitle": "Video game by Ubisoft Montpellier",
+    "year": 2024,
+    "fact": "Prince of Persia: The Lost Crown is a 2024 action-adventure game developed by Ubisoft Montpellier and published by Ubisoft.",
+    "wikipediaSlug": "Prince_of_Persia:_The_Lost_Crown",
+    "image": "Prince_of_Persia_The_Lost_Crown_cover_art.jpg",
+    "pageViews": 15068
+  },
+  {
     "qid": "Q13361589",
     "title": "‘Quantum Break’ releases",
-    "subtitle": "Video game by Remedy Entertainment",
+    "subtitle": "Video game",
     "year": 2016,
     "fact": "Quantum Break is a 2016 action-adventure third-person shooter video game developed by Remedy Entertainment and published by Microsoft Studios.",
     "wikipediaSlug": "Quantum_Break",
@@ -4742,7 +4642,7 @@
   {
     "qid": "Q301555",
     "title": "‘New Super Mario Bros.’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 2006,
     "fact": "New Super Mario Bros. is a 2006 platform game developed and published by Nintendo for the Nintendo DS.",
     "wikipediaSlug": "New_Super_Mario_Bros.",
@@ -4790,9 +4690,19 @@
     "pageViews": 14673
   },
   {
+    "qid": "Q1408723",
+    "title": "‘Perfect Dark’ releases",
+    "subtitle": "Video game by Rare Ltd.",
+    "year": 2000,
+    "fact": "Perfect Dark is a 2000 first-person shooter game developed and published by Rare for the Nintendo 64.",
+    "wikipediaSlug": "Perfect_Dark",
+    "image": "Perfect_dark_box.jpg",
+    "pageViews": 14625
+  },
+  {
     "qid": "Q677274",
     "title": "‘Journey’ releases",
-    "subtitle": "Video game by thatgamecompany",
+    "subtitle": "Video game",
     "year": 2012,
     "fact": "Journey is an indie adventure game developed by Thatgamecompany and published by Sony Computer Entertainment for the PlayStation 3.",
     "wikipediaSlug": "Journey_(2012_video_game)",
@@ -4862,7 +4772,7 @@
   {
     "qid": "Q213217",
     "title": "‘Mafia’ releases",
-    "subtitle": "Video game by 2K Czech",
+    "subtitle": "Video game",
     "year": 2002,
     "fact": "Mafia is a 2002 action-adventure game developed by Illusion Softworks and published by Gathering of Developers.",
     "wikipediaSlug": "Mafia_(video_game)",
@@ -4882,7 +4792,7 @@
   {
     "qid": "Q50376633",
     "title": "‘Call of Duty: Black Ops 4’ releases",
-    "subtitle": "Video game by Raven Software",
+    "subtitle": "Video game by Beenox",
     "year": 2018,
     "fact": "Call of Duty: Black Ops 4 is a 2018 first-person shooter game developed by Treyarch and published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_Black_Ops_4",
@@ -4912,7 +4822,7 @@
   {
     "qid": "Q87416343",
     "title": "‘Call of Duty: Warzone’ releases",
-    "subtitle": "Video game by Infinity Ward",
+    "subtitle": "Video game by Treyarch",
     "year": 2020,
     "fact": "Call of Duty: Warzone was a free-to-play battle royale first-person shooter game developed by Raven Software and Infinity Ward and published by Activision.",
     "wikipediaSlug": "Call_of_Duty:_Warzone",
@@ -5002,7 +4912,7 @@
   {
     "qid": "Q840699",
     "title": "‘Silent Hill: Origins’ releases",
-    "subtitle": "Video game by Climax Group",
+    "subtitle": "Video game",
     "year": 2007,
     "fact": "Silent Hill: Origins is a 2007 survival horror game developed by Climax Studios and published by Konami.",
     "wikipediaSlug": "Silent_Hill:_Origins",
@@ -5048,16 +4958,6 @@
     "wikipediaSlug": "Spyro_the_Dragon",
     "image": "Spyro_the_Dragon.jpg",
     "pageViews": 14072
-  },
-  {
-    "qid": "Q64029241",
-    "title": "‘Call of Duty: Mobile’ releases",
-    "subtitle": "Video game by TiMi Studio Group",
-    "year": 2019,
-    "fact": "Call of Duty: Mobile is a shooter mobile video game developed by TiMi Studio Group and published by Activision for Android and IOS.",
-    "wikipediaSlug": "Call_of_Duty:_Mobile",
-    "image": "CODM_logo.png",
-    "pageViews": 14061
   },
   {
     "qid": "Q15614860",
@@ -5162,7 +5062,7 @@
   {
     "qid": "Q4558721",
     "title": "‘Angry Birds’ releases",
-    "subtitle": "Video game by Rovio Entertainment",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Angry Birds is a 2009 puzzle video game developed by Rovio Entertainment and published by Chillingo.",
     "wikipediaSlug": "Angry_Birds_(video_game)",
@@ -5172,7 +5072,7 @@
   {
     "qid": "Q739654",
     "title": "‘Assassin's Creed: Revelations’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2011,
     "fact": "Assassin's Creed: Revelations is a 2011 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed_Revelations",
@@ -5228,16 +5128,6 @@
     "wikipediaSlug": "Cave_Story",
     "image": "Cave_Story_title_screen.png",
     "pageViews": 13680
-  },
-  {
-    "qid": "Q54856541",
-    "title": "‘Hitman 2’ releases",
-    "subtitle": "Video game by IO Interactive",
-    "year": 2018,
-    "fact": "Hitman 2 is a 2018 stealth video game developed by IO Interactive.",
-    "wikipediaSlug": "Hitman_2_(2018_video_game)",
-    "image": "Hitman_2_(2018)_cover.jpg",
-    "pageViews": 13663
   },
   {
     "qid": "Q619427",
@@ -5332,7 +5222,7 @@
   {
     "qid": "Q893423",
     "title": "‘Borderlands’ releases",
-    "subtitle": "Video game by Feral Interactive",
+    "subtitle": "Video game by Gearbox Software",
     "year": 2009,
     "fact": "Borderlands is a 2009 action role-playing first-person shooter video game developed by Gearbox Software and published by 2K.",
     "wikipediaSlug": "Borderlands_(video_game)",
@@ -5382,7 +5272,7 @@
   {
     "qid": "Q1754133",
     "title": "‘Silent Hill: Shattered Memories’ releases",
-    "subtitle": "Video game by Climax Group",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Silent Hill: Shattered Memories is a 2009 survival horror game developed by Climax Studios and published by Konami.",
     "wikipediaSlug": "Silent_Hill:_Shattered_Memories",
@@ -5412,7 +5302,7 @@
   {
     "qid": "Q20737889",
     "title": "‘Mafia III’ releases",
-    "subtitle": "Video game by 2K Czech",
+    "subtitle": "Video game by Aspyr",
     "year": 2016,
     "fact": "Mafia III is a 2016 action-adventure video game developed by Hangar 13 and published by 2K.",
     "wikipediaSlug": "Mafia_III",
@@ -5430,14 +5320,14 @@
     "pageViews": 13375
   },
   {
-    "qid": "Q20829312",
-    "title": "‘Stellaris’ releases",
-    "subtitle": "Video game by Development Studio",
-    "year": 2016,
-    "fact": "Stellaris is a 4X grand strategy video game developed by Paradox Development Studio and published by Paradox Interactive.",
-    "wikipediaSlug": "Stellaris_(video_game)",
-    "image": "Stellaris_cover.png",
-    "pageViews": 13362
+    "qid": "Q133804482",
+    "title": "‘Kirby Air Riders’ releases",
+    "subtitle": "Video game by Sora Ltd.",
+    "year": 2025,
+    "fact": "Kirby Air Riders is a 2025 racing video game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch 2.",
+    "wikipediaSlug": "Kirby_Air_Riders",
+    "image": "AirRidersKey.jpg",
+    "pageViews": 13358
   },
   {
     "qid": "Q10279881",
@@ -5512,7 +5402,7 @@
   {
     "qid": "Q24455756",
     "title": "‘Watch Dogs 2’ releases",
-    "subtitle": "Video game by Ubisoft Romania",
+    "subtitle": "Video game by Ubisoft Toronto",
     "year": 2016,
     "fact": "Watch Dogs 2 is a 2016 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Watch_Dogs_2",
@@ -5548,6 +5438,16 @@
     "wikipediaSlug": "Bayonetta_3",
     "image": "Bayonetta_3_cover.webp",
     "pageViews": 13098
+  },
+  {
+    "qid": "Q203310",
+    "title": "‘DOOM 3’ releases",
+    "subtitle": "Video game by id Software",
+    "year": 2004,
+    "fact": "Doom 3 is a 2004 first-person shooter game developed by id Software and published by Activision.",
+    "wikipediaSlug": "Doom_3",
+    "image": "Doom3box.jpg",
+    "pageViews": 13059
   },
   {
     "qid": "Q275960",
@@ -5632,7 +5532,7 @@
   {
     "qid": "Q377242",
     "title": "‘Tom Clancy's Splinter Cell’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2002,
     "fact": "Tom Clancy's Splinter Cell is a 2002 action-adventure stealth game developed by Ubi Soft Montreal and published by Ubi Soft.",
     "wikipediaSlug": "Tom_Clancy%27s_Splinter_Cell_(video_game)",
@@ -5782,7 +5682,7 @@
   {
     "qid": "Q64534648",
     "title": "‘Watch Dogs: Legion’ releases",
-    "subtitle": "Video game by Ubisoft Toronto",
+    "subtitle": "Video game by Ubisoft Reflections",
     "year": 2020,
     "fact": "Watch Dogs: Legion is a 2020 action-adventure game developed by Ubisoft Toronto and published by Ubisoft.",
     "wikipediaSlug": "Watch_Dogs:_Legion",
@@ -5840,9 +5740,19 @@
     "pageViews": 12527
   },
   {
+    "qid": "Q247210",
+    "title": "‘Need for Speed: Underground’ releases",
+    "subtitle": "Video game",
+    "year": 2003,
+    "fact": "Need for Speed: Underground is a 2003 racing video game and the seventh installment in the Need for Speed series following Hot Pursuit 2 (2002).",
+    "wikipediaSlug": "Need_for_Speed:_Underground",
+    "image": "Need_for_Speed_Underground_cover.jpg",
+    "pageViews": 12521
+  },
+  {
     "qid": "Q893422",
     "title": "‘Borderlands 2’ releases",
-    "subtitle": "Video game by Aspyr",
+    "subtitle": "Video game by Gearbox Software",
     "year": 2012,
     "fact": "Borderlands 2 is a 2012 action role-playing first-person shooter video game developed by Gearbox Software and published by 2K.",
     "wikipediaSlug": "Borderlands_2",
@@ -5862,22 +5772,12 @@
   {
     "qid": "Q5075219",
     "title": "‘Alone in the Dark’ releases",
-    "subtitle": "Video game by Infogrames",
+    "subtitle": "Video game",
     "year": 1992,
     "fact": "Alone in the Dark is a 1992 survival horror video game designed by Frédérick Raynal.",
     "wikipediaSlug": "Alone_in_the_Dark_(1992_video_game)",
     "image": "Alone_in_the_Dark_boxart.jpg",
     "pageViews": 12439
-  },
-  {
-    "qid": "Q18185763",
-    "title": "‘Hellblade: Senua's Sacrifice’ releases",
-    "subtitle": "Video game by Ninja Theory",
-    "year": 2017,
-    "fact": "Hellblade: Senua's Sacrifice is a 2017 action-adventure game developed and published by Ninja Theory.",
-    "wikipediaSlug": "Hellblade:_Senua%27s_Sacrifice",
-    "image": "Hellblade_-_Senua's_Sacrifice.jpg",
-    "pageViews": 12436
   },
   {
     "qid": "Q108670544",
@@ -5972,7 +5872,7 @@
   {
     "qid": "Q176336",
     "title": "‘Far Cry 2’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2008,
     "fact": "Far Cry 2 is a 2008 first-person shooter developed by Ubisoft Montreal and published by Ubisoft for Microsoft Windows, PlayStation 3 and Xbox 360.",
     "wikipediaSlug": "Far_Cry_2",
@@ -6080,19 +5980,9 @@
     "pageViews": 12021
   },
   {
-    "qid": "Q56432842",
-    "title": "‘Subnautica: Below Zero’ releases",
-    "subtitle": "Video game by Unknown Worlds Entertainment",
-    "year": 2021,
-    "fact": "Subnautica: Below Zero is an open-world survival action-adventure video game developed and published by Unknown Worlds Entertainment.",
-    "wikipediaSlug": "Subnautica:_Below_Zero",
-    "image": "Subnautica_Below_Zero_cover_art.jpg",
-    "pageViews": 11996
-  },
-  {
     "qid": "Q94628102",
     "title": "‘Mafia: Definitive Edition’ releases",
-    "subtitle": "Video game by 2K Czech",
+    "subtitle": "Video game",
     "year": 2020,
     "fact": "Mafia: Definitive Edition is a 2020 action-adventure game developed by Hangar 13 and published by 2K.",
     "wikipediaSlug": "Mafia:_Definitive_Edition",
@@ -6222,7 +6112,7 @@
   {
     "qid": "Q24717189",
     "title": "‘Injustice 2’ releases",
-    "subtitle": "Video game by QLOC",
+    "subtitle": "Video game by NetherRealm Studios",
     "year": 2017,
     "fact": "Injustice 2 is a 2017 fighting game developed by NetherRealm Studios and published by Warner Bros.",
     "wikipediaSlug": "Injustice_2",
@@ -6262,7 +6152,7 @@
   {
     "qid": "Q743155",
     "title": "‘Prince of Persia: Warrior Within’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2004,
     "fact": "Prince of Persia: Warrior Within is a 2004 action-adventure game developed and published by Ubisoft for GameCube, Microsoft Windows, PlayStation 2, and Xbox.",
     "wikipediaSlug": "Prince_of_Persia:_Warrior_Within",
@@ -6292,7 +6182,7 @@
   {
     "qid": "Q946795",
     "title": "‘Max Payne 2: The Fall of Max Payne’ releases",
-    "subtitle": "Video game by Remedy Entertainment",
+    "subtitle": "Video game",
     "year": 2003,
     "fact": "Max Payne 2: The Fall of Max Payne is a 2003 third-person shooter game developed by Remedy Entertainment and published by Rockstar Games.",
     "wikipediaSlug": "Max_Payne_2:_The_Fall_of_Max_Payne",
@@ -6372,7 +6262,7 @@
   {
     "qid": "Q110607",
     "title": "‘Clannad’ releases",
-    "subtitle": "Video game by Visual Arts",
+    "subtitle": "Video game by Key",
     "year": 2004,
     "fact": "Clannad is a Japanese visual novel developed by Key and released on April 28, 2004, for Windows.",
     "wikipediaSlug": "Clannad_(video_game)",
@@ -6420,16 +6310,6 @@
     "pageViews": 11497
   },
   {
-    "qid": "Q94871",
-    "title": "‘Grand Theft Auto: Chinatown Wars’ releases",
-    "subtitle": "Video game by Rockstar Leeds",
-    "year": 2009,
-    "fact": "Grand Theft Auto: Chinatown Wars is a 2009 action-adventure game developed by Rockstar Leeds in conjunction with Rockstar North and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto:_Chinatown_Wars",
-    "image": "ChinatownWars.jpg",
-    "pageViews": 11488
-  },
-  {
     "qid": "Q1711359",
     "title": "‘The Witness’ releases",
     "subtitle": "Video game by Thekla",
@@ -6462,7 +6342,7 @@
   {
     "qid": "Q55154676",
     "title": "‘Age of Empires IV’ releases",
-    "subtitle": "Video game by Relic Entertainment",
+    "subtitle": "Video game",
     "year": 2021,
     "fact": "Age of Empires IV is a real-time strategy video game developed by Relic Entertainment in partnership with World's Edge and published by Xbox Game Studios.",
     "wikipediaSlug": "Age_of_Empires_IV",
@@ -6488,6 +6368,16 @@
     "wikipediaSlug": "Phantasy_Star_Online",
     "image": "Phantasy_Star_Online_cover_art_jp.png",
     "pageViews": 11396
+  },
+  {
+    "qid": "Q2265002",
+    "title": "‘Riven’ releases",
+    "subtitle": "Video game by Cyan Worlds",
+    "year": 1997,
+    "fact": "Riven: The Sequel to Myst is a 1997 adventure game developed by Cyan Productions and published by Red Orb Entertainment for Mac OS and Microsoft Windows.",
+    "wikipediaSlug": "Riven",
+    "image": "Riven_Coverart.png",
+    "pageViews": 11379
   },
   {
     "qid": "Q1536626",
@@ -6530,6 +6420,16 @@
     "pageViews": 11317
   },
   {
+    "qid": "Q123404756",
+    "title": "‘Lethal Company’ releases",
+    "subtitle": "Video game by Zeekerss",
+    "year": 2023,
+    "fact": "Lethal Company is an upcoming cooperative survival horror video game developed and published by American developer Zeekerss for Windows.",
+    "wikipediaSlug": "Lethal_Company",
+    "image": "Lethal_Company_Steam_cover.jpg",
+    "pageViews": 11312
+  },
+  {
     "qid": "Q1955277",
     "title": "‘Tom Clancy's Splinter Cell: Blacklist’ releases",
     "subtitle": "Video game by Ubisoft Toronto",
@@ -6562,7 +6462,7 @@
   {
     "qid": "Q1180815",
     "title": "‘Dead Island’ releases",
-    "subtitle": "Video game by Techland",
+    "subtitle": "Video game",
     "year": 2011,
     "fact": "Dead Island is a 2011 action role-playing game developed by Techland and published by Deep Silver.",
     "wikipediaSlug": "Dead_Island",
@@ -6592,7 +6492,7 @@
   {
     "qid": "Q1058903",
     "title": "‘Super Mario All-Stars’ releases",
-    "subtitle": "Video game by Nintendo Entertainment Analysis & Development",
+    "subtitle": "Video game by Nintendo",
     "year": 1993,
     "fact": "Super Mario All-Stars is a 1993 platform game compilation developed and published by Nintendo for the Super Nintendo Entertainment System (SNES).",
     "wikipediaSlug": "Super_Mario_All-Stars",
@@ -6660,6 +6560,16 @@
     "pageViews": 11197
   },
   {
+    "qid": "Q1358804",
+    "title": "‘The Legend of Zelda: A Link to the Past and Four Swords’ releases",
+    "subtitle": "Video game by Nintendo",
+    "year": 2002,
+    "fact": "The Legend of Zelda: A Link to the Past and Four Swords is a 2002 action-adventure game compilation developed by Nintendo R&D2 and Flagship and published by Nintendo for the Game Boy Advance.",
+    "wikipediaSlug": "The_Legend_of_Zelda:_A_Link_to_the_Past_and_Four_Swords",
+    "image": "The_Legend_of_Zelda_A_Link_to_the_Past_&_Four_Swords_Game_Cover.jpg",
+    "pageViews": 11186
+  },
+  {
     "qid": "Q725057",
     "title": "‘Mass Effect 2’ releases",
     "subtitle": "Video game by BioWare",
@@ -6668,16 +6578,6 @@
     "wikipediaSlug": "Mass_Effect_2",
     "image": "MassEffect2_cover.PNG",
     "pageViews": 11134
-  },
-  {
-    "qid": "Q1068962",
-    "title": "‘Sonic Heroes’ releases",
-    "subtitle": "Video game by Sonic Team",
-    "year": 2003,
-    "fact": "Sonic Heroes is a 2003 platform game developed by Sonic Team USA and published by Sega.",
-    "wikipediaSlug": "Sonic_Heroes",
-    "image": "Sonic_Heroes_cover.png",
-    "pageViews": 11097
   },
   {
     "qid": "Q1707918",
@@ -6730,6 +6630,16 @@
     "pageViews": 11015
   },
   {
+    "qid": "Q1016838",
+    "title": "‘Burnout Paradise’ releases",
+    "subtitle": "Video game by Criterion Games",
+    "year": 2008,
+    "fact": "Burnout Paradise is a 2008 racing video game developed by Criterion Games and published by Electronic Arts for PlayStation 3, Xbox 360 and Microsoft Windows.",
+    "wikipediaSlug": "Burnout_Paradise",
+    "image": "Burnout_Paradise_Boxart_2.jpg",
+    "pageViews": 11004
+  },
+  {
     "qid": "Q842431",
     "title": "‘Dead Space 2’ releases",
     "subtitle": "Video game by Visceral Games",
@@ -6762,7 +6672,7 @@
   {
     "qid": "Q25991770",
     "title": "‘Sonic Mania’ releases",
-    "subtitle": "Video game by Christian Whitehead",
+    "subtitle": "Video game by PagodaWest Games",
     "year": 2017,
     "fact": "Sonic Mania is a 2017 platform game developed by Christian Whitehead, PagodaWest Games and Headcannon and published by Sega.",
     "wikipediaSlug": "Sonic_Mania",
@@ -6812,7 +6722,7 @@
   {
     "qid": "Q753892",
     "title": "‘Prince of Persia: The Two Thrones’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2005,
     "fact": "Prince of Persia: The Two Thrones is a 2005 action-adventure game developed by Ubisoft Montreal and Ubisoft Casablanca, and published by Ubisoft for the PlayStation 2, GameCube, Microsoft Windows, Xbox and Java.",
     "wikipediaSlug": "Prince_of_Persia:_The_Two_Thrones",
@@ -6842,7 +6752,7 @@
   {
     "qid": "Q1371726",
     "title": "‘Watch Dogs’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2014,
     "fact": "Watch Dogs is a 2014 action-adventure game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Watch_Dogs_(video_game)",
@@ -6858,6 +6768,16 @@
     "wikipediaSlug": "Command_%26_Conquer:_Red_Alert_2",
     "image": "Cncra2-win-cover.jpg",
     "pageViews": 10863
+  },
+  {
+    "qid": "Q67714211",
+    "title": "‘Little Nightmares II’ releases",
+    "subtitle": "Video game by Tarsier Studios",
+    "year": 2021,
+    "fact": "Little Nightmares II is a puzzle-platform horror adventure game developed by Tarsier Studios and published by Bandai Namco Entertainment.",
+    "wikipediaSlug": "Little_Nightmares_II",
+    "image": "Little_Nightmares_II_cover.jpg",
+    "pageViews": 10841
   },
   {
     "qid": "Q2385",
@@ -6882,7 +6802,7 @@
   {
     "qid": "Q55004330",
     "title": "‘Dying Light 2 Stay Human’ releases",
-    "subtitle": "Video game by Techland",
+    "subtitle": "Video game",
     "year": 2022,
     "fact": "Dying Light 2 Stay Human is a 2022 action role-playing survival horror game developed and published by Techland.",
     "wikipediaSlug": "Dying_Light_2",
@@ -6892,7 +6812,7 @@
   {
     "qid": "Q59536524",
     "title": "‘Far Cry New Dawn’ releases",
-    "subtitle": "Video game by Ubisoft Shanghai",
+    "subtitle": "Video game by Ubisoft Kyiv",
     "year": 2019,
     "fact": "Far Cry New Dawn is a 2019 first-person shooter video game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Far_Cry_New_Dawn",
@@ -6908,6 +6828,16 @@
     "wikipediaSlug": "Castle_Wolfenstein",
     "image": "Castle_Wolfenstein_video_game_cover.jpg",
     "pageViews": 10798
+  },
+  {
+    "qid": "Q1855957",
+    "title": "‘NiGHTS into Dreams...’ releases",
+    "subtitle": "Video game by Sonic Team",
+    "year": 1996,
+    "fact": "Nights into Dreams is a 1996 action game developed by Sonic Team and published by Sega for the Sega Saturn.",
+    "wikipediaSlug": "Nights_into_Dreams",
+    "image": "NightsIntoDreamsBox.jpg",
+    "pageViews": 10772
   },
   {
     "qid": "Q751936",
@@ -7042,7 +6972,7 @@
   {
     "qid": "Q2323709",
     "title": "‘Mother’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 1989,
     "fact": "EarthBound Beginnings, originally released in Japan as Mother, is a 1989 role-playing video game developed by Ape Inc. and Nintendo and published by Nintendo for the Family Computer.",
     "wikipediaSlug": "EarthBound_Beginnings",
@@ -7210,16 +7140,6 @@
     "pageViews": 10357
   },
   {
-    "qid": "Q756856",
-    "title": "‘Hitman: Codename 47’ releases",
-    "subtitle": "Video game by IO Interactive",
-    "year": 2000,
-    "fact": "Hitman: Codename 47 is a stealth video game developed by IO Interactive and published by Eidos Interactive exclusively for Microsoft Windows in November 2000, and the first entry in the series.",
-    "wikipediaSlug": "Hitman:_Codename_47",
-    "image": "Hitman_artwork.jpg",
-    "pageViews": 10355
-  },
-  {
     "qid": "Q1313980",
     "title": "‘Ultimate Mortal Kombat 3’ releases",
     "subtitle": "Video game by Midway Games",
@@ -7232,7 +7152,7 @@
   {
     "qid": "Q533304",
     "title": "‘Tom Clancy's Splinter Cell: Chaos Theory’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Ubisoft",
     "year": 2005,
     "fact": "Tom Clancy's Splinter Cell: Chaos Theory is a 2005 action-adventure stealth game co-developed by Ubisoft Montreal and Ubisoft Milan, and published by Ubisoft.",
     "wikipediaSlug": "Tom_Clancy%27s_Splinter_Cell:_Chaos_Theory",
@@ -7242,7 +7162,7 @@
   {
     "qid": "Q1974230",
     "title": "‘The Warriors’ releases",
-    "subtitle": "Video game by Rockstar Leeds",
+    "subtitle": "Video game by Rockstar Toronto",
     "year": 2005,
     "fact": "The Warriors is a 2005 beat 'em up video game developed by Rockstar Toronto and published by Rockstar Games.",
     "wikipediaSlug": "The_Warriors_(video_game)",
@@ -7320,6 +7240,16 @@
     "pageViews": 10220
   },
   {
+    "qid": "Q55239",
+    "title": "‘Lego Star Wars II: The Original Trilogy’ releases",
+    "subtitle": "Video game by Traveller's Tales",
+    "year": 2006,
+    "fact": "Lego Star Wars II: The Original Trilogy is a 2006 Lego-themed action-adventure game developed by Traveller's Tales and published by LucasArts and TT Games Publishing, and is the sequel to Lego Star Wars: The Video Game (2005).",
+    "wikipediaSlug": "Lego_Star_Wars_II:_The_Original_Trilogy",
+    "image": "Lego_star_wars_II-box_art.png",
+    "pageViews": 10218
+  },
+  {
     "qid": "Q869511",
     "title": "‘Crash Bandicoot: The Wrath of Cortex’ releases",
     "subtitle": "Video game by Traveller's Tales",
@@ -7332,7 +7262,7 @@
   {
     "qid": "Q18608589",
     "title": "‘Street Fighter V’ releases",
-    "subtitle": "Video game by Dimps",
+    "subtitle": "Video game by Capcom",
     "year": 2016,
     "fact": "Street Fighter V is a 2016 fighting game developed by Capcom and Dimps and published by Capcom for PlayStation 4 and Windows.",
     "wikipediaSlug": "Street_Fighter_V",
@@ -7492,7 +7422,7 @@
   {
     "qid": "Q63463133",
     "title": "‘Age of Empires II: Definitive Edition’ releases",
-    "subtitle": "Video game by Forgotten Empires",
+    "subtitle": "Video game by Tantalus Media",
     "year": 2019,
     "fact": "Age of Empires II: Definitive Edition is a 2019 real-time strategy video game developed by World's Edge and Forgotten Empires and published by Xbox Game Studios.",
     "wikipediaSlug": "Age_of_Empires_II:_Definitive_Edition",
@@ -7580,16 +7510,6 @@
     "pageViews": 9895
   },
   {
-    "qid": "Q1255182",
-    "title": "‘Dragon's Lair’ releases",
-    "subtitle": "Video game by RDI Video Systems",
-    "year": 1983,
-    "fact": "Dragon's Lair is an interactive film LaserDisc video game developed by Advanced Microcomputer Systems and published by Cinematronics in 1983, as the first game in the Dragon's Lair series.",
-    "wikipediaSlug": "Dragon%27s_Lair_(1983_video_game)",
-    "image": "Dragons_lair.jpg",
-    "pageViews": 9890
-  },
-  {
     "qid": "Q865277",
     "title": "‘Hong Kong 97’ releases",
     "subtitle": "Video game",
@@ -7622,7 +7542,7 @@
   {
     "qid": "Q917588",
     "title": "‘Prince of Persia: The Forgotten Sands’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2010,
     "fact": "Prince of Persia: The Forgotten Sands refers to a group of 2010 action-adventure games developed and published by Ubisoft, with each version handled by different internal teams.",
     "wikipediaSlug": "Prince_of_Persia:_The_Forgotten_Sands",
@@ -7642,7 +7562,7 @@
   {
     "qid": "Q44462",
     "title": "‘Animal Crossing: New Leaf’ releases",
-    "subtitle": "Video game by Monolith Soft Inc.",
+    "subtitle": "Video game by Nintendo Entertainment Analysis & Development",
     "year": 2012,
     "fact": "Animal Crossing: New Leaf is a social simulation game developed and published by Nintendo for the Nintendo 3DS.",
     "wikipediaSlug": "Animal_Crossing:_New_Leaf",
@@ -7758,6 +7678,16 @@
     "wikipediaSlug": "Lego_Batman:_The_Videogame",
     "image": "Lego_batman_cover.jpg",
     "pageViews": 9608
+  },
+  {
+    "qid": "Q179247",
+    "title": "‘The Secret of Monkey Island’ releases",
+    "subtitle": "Video game by Lucasfilm Games",
+    "year": 1990,
+    "fact": "The Secret of Monkey Island is a 1990 point-and-click graphic adventure game developed and published by Lucasfilm Games.",
+    "wikipediaSlug": "The_Secret_of_Monkey_Island",
+    "image": "The_Secret_of_Monkey_Island_artwork.jpg",
+    "pageViews": 9597
   },
   {
     "qid": "Q977919",
@@ -8052,7 +7982,7 @@
   {
     "qid": "Q937066",
     "title": "‘Freelancer’ releases",
-    "subtitle": "Video game by Digital Anvil",
+    "subtitle": "Video game",
     "year": 2003,
     "fact": "Freelancer is an American space trading and combat simulation video game developed by Digital Anvil and published by Microsoft Game Studios.",
     "wikipediaSlug": "Freelancer_(video_game)",
@@ -8103,21 +8033,11 @@
     "qid": "Q606894",
     "title": "‘Rayman Origins’ releases",
     "subtitle": "Video game by Ubisoft Montpellier",
-    "year": 2012,
+    "year": 2011,
     "fact": "Rayman Origins is a 2011 platform game developed and published by Ubisoft.",
     "wikipediaSlug": "Rayman_Origins",
     "image": "Rayman_Origins_Box_Art.jpg",
     "pageViews": 9248
-  },
-  {
-    "qid": "Q63352",
-    "title": "‘Ingress’ releases",
-    "subtitle": "Video game by Niantic Games Team",
-    "year": 2012,
-    "fact": "Ingress is an augmented reality (AR) mobile game currently developed and published by Niantic Spatial for Android and iOS devices.",
-    "wikipediaSlug": "Ingress_(video_game)",
-    "image": "Ingress_Logo_vector.svg",
-    "pageViews": 9228
   },
   {
     "qid": "Q845417",
@@ -8178,16 +8098,6 @@
     "wikipediaSlug": "Devil_May_Cry_2",
     "image": "DMC2FrontCover.jpg",
     "pageViews": 9179
-  },
-  {
-    "qid": "Q7798922",
-    "title": "‘SimCity’ releases",
-    "subtitle": "Video game by Nintendo Entertainment Analysis & Development",
-    "year": 1989,
-    "fact": "SimCity is a city-building simulation video game developed by Will Wright, and released for several platforms from 1989 to 1991.",
-    "wikipediaSlug": "SimCity_(1989_video_game)",
-    "image": "SimCity_Classic_cover_art.jpg",
-    "pageViews": 9157
   },
   {
     "qid": "Q55381944",
@@ -8372,7 +8282,7 @@
   {
     "qid": "Q76868",
     "title": "‘Assassin's Creed III: Liberation’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Ubisoft",
     "year": 2012,
     "fact": "Assassin's Creed III: Liberation is a 2012 action-adventure video game developed by Ubisoft Sofia and published by Ubisoft Entertainment.",
     "wikipediaSlug": "Assassin%27s_Creed_III:_Liberation",
@@ -8398,16 +8308,6 @@
     "wikipediaSlug": "Lego_Marvel_Super_Heroes",
     "image": "Lego-Marvel-cover.jpg",
     "pageViews": 8937
-  },
-  {
-    "qid": "Q944320",
-    "title": "‘Gran Turismo’ releases",
-    "subtitle": "Video game by Polyphony Digital",
-    "year": 1997,
-    "fact": "Gran Turismo is a 1997 sim racing video game developed and published by Sony Computer Entertainment for the PlayStation.",
-    "wikipediaSlug": "Gran_Turismo_(1997_video_game)",
-    "image": "Gran_Turismo_-_Cover_-_JP.jpg",
-    "pageViews": 8932
   },
   {
     "qid": "Q834872",
@@ -8498,6 +8398,16 @@
     "wikipediaSlug": "Need_for_Speed_(2015_video_game)",
     "image": "Need_for_Speed_2015.jpg",
     "pageViews": 8730
+  },
+  {
+    "qid": "Q1543280",
+    "title": "‘Theme Park’ releases",
+    "subtitle": "Video game by Bullfrog Productions",
+    "year": 1995,
+    "fact": "Theme Park is a construction and management simulation video game developed by Bullfrog Productions and published by Electronic Arts in 1994.",
+    "wikipediaSlug": "Theme_Park_(video_game)",
+    "image": "Theme_Park_cover.jpg",
+    "pageViews": 8699
   },
   {
     "qid": "Q1988780",
@@ -8650,6 +8560,16 @@
     "pageViews": 8569
   },
   {
+    "qid": "Q1139272",
+    "title": "‘Crazy Taxi’ releases",
+    "subtitle": "Video game",
+    "year": 1999,
+    "fact": "Crazy Taxi is a racing video game developed and published by Sega.",
+    "wikipediaSlug": "Crazy_Taxi_(video_game)",
+    "image": "CrazyTaxi_cover.png",
+    "pageViews": 8561
+  },
+  {
     "qid": "Q668568",
     "title": "‘Tomb Raider: The Last Revelation’ releases",
     "subtitle": "Video game by Core Design",
@@ -8662,7 +8582,7 @@
   {
     "qid": "Q271062",
     "title": "‘Age of Mythology’ releases",
-    "subtitle": "Video game by Ensemble Studios",
+    "subtitle": "Video game by SkyBox Labs",
     "year": 2002,
     "fact": "Age of Mythology is a 2002 real-time strategy video game developed by Ensemble Studios and published by Microsoft Game Studios for Microsoft Windows and Mac OS X.",
     "wikipediaSlug": "Age_of_Mythology",
@@ -8692,7 +8612,7 @@
   {
     "qid": "Q866397",
     "title": "‘Need for Speed: Hot Pursuit 2’ releases",
-    "subtitle": "Video game by EA Black Box",
+    "subtitle": "Video game",
     "year": 2002,
     "fact": "Need for Speed: Hot Pursuit 2 is a 2002 racing video game, the sixth installment in the Need for Speed series following Porsche Unleashed (2000) and the direct sequel to Need for Speed III: Hot Pursuit (1998).",
     "wikipediaSlug": "Need_for_Speed:_Hot_Pursuit_2",
@@ -8772,7 +8692,7 @@
   {
     "qid": "Q74669",
     "title": "‘Star Wars Knights of the Old Republic II: The Sith Lords’ releases",
-    "subtitle": "Video game by Obsidian Entertainment",
+    "subtitle": "Video game by Aspyr",
     "year": 2004,
     "fact": "Star Wars Knights of the Old Republic II: The Sith Lords is a role-playing video game developed by Obsidian Entertainment and published by LucasArts.",
     "wikipediaSlug": "Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
@@ -8840,16 +8760,6 @@
     "pageViews": 8394
   },
   {
-    "qid": "Q16743212",
-    "title": "‘This War of Mine’ releases",
-    "subtitle": "Video game by 11 bit studios",
-    "year": 2014,
-    "fact": "This War of Mine is a 2014 war survival video game developed and published by Polish developer 11 Bit Studios.",
-    "wikipediaSlug": "This_War_of_Mine",
-    "image": "This_War_of_Mine_logo.png",
-    "pageViews": 8385
-  },
-  {
     "qid": "Q23895358",
     "title": "‘Slither.io’ releases",
     "subtitle": "Video game",
@@ -8898,6 +8808,16 @@
     "wikipediaSlug": "Rayman_Raving_Rabbids",
     "image": "Rrr-wii-cover.jpg",
     "pageViews": 8358
+  },
+  {
+    "qid": "Q6113095",
+    "title": "‘The House of the Dead’ releases",
+    "subtitle": "Video game by Sega Wow",
+    "year": 1996,
+    "fact": "The House of the Dead is a 1997 light gun shooter video game developed by Sega AM1 and published by Sega for arcades.",
+    "wikipediaSlug": "The_House_of_the_Dead_(video_game)",
+    "image": "House_of_the_Dead_arcade_flyer.jpg",
+    "pageViews": 8355
   },
   {
     "qid": "Q1988120",
@@ -9052,7 +8972,7 @@
   {
     "qid": "Q907508",
     "title": "‘Tom Clancy's Splinter Cell: Conviction’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2010,
     "fact": "Tom Clancy's Splinter Cell: Conviction is a 2010 action-adventure stealth game developed by Ubisoft Montreal and co-published by Microsoft Game Studios and Ubisoft.",
     "wikipediaSlug": "Tom_Clancy%27s_Splinter_Cell:_Conviction",
@@ -9252,7 +9172,7 @@
   {
     "qid": "Q1463730",
     "title": "‘Tony Hawk's Pro Skater 3’ releases",
-    "subtitle": "Video game by Blizzard Albany",
+    "subtitle": "Video game by Gearbox Software",
     "year": 2001,
     "fact": "Tony Hawk's Pro Skater 3 is a 2001 skateboarding video game and the third installment in the Tony Hawk's series.",
     "wikipediaSlug": "Tony_Hawk%27s_Pro_Skater_3",
@@ -9268,6 +9188,16 @@
     "wikipediaSlug": "Saints_Row_2",
     "image": "Saints_Row_2_Game_Cover.jpg",
     "pageViews": 8057
+  },
+  {
+    "qid": "Q743920",
+    "title": "‘Habbo’ releases",
+    "subtitle": "Video game by Sulake Corporation",
+    "year": 2000,
+    "fact": "Habbo is a virtual world and massively multiplayer online role-playing game (MMORPG).",
+    "wikipediaSlug": "Habbo",
+    "image": "Habbo.gif",
+    "pageViews": 8048
   },
   {
     "qid": "Q40627",
@@ -9293,7 +9223,7 @@
     "qid": "Q2681151",
     "title": "‘Happy Wheels’ releases",
     "subtitle": "Video game",
-    "year": 2010,
+    "year": 1800,
     "fact": "Happy Wheels is a side-scrolling ragdoll physics-based platform browser game developed and published by Fancy Force.",
     "wikipediaSlug": "Happy_Wheels",
     "image": "Happy_Wheels_Logo.png",
@@ -9308,16 +9238,6 @@
     "wikipediaSlug": "Agar.io",
     "image": "Agar.io_Logo.png",
     "pageViews": 8038
-  },
-  {
-    "qid": "Q1060715",
-    "title": "‘Soulcalibur’ releases",
-    "subtitle": "Video game by Namco",
-    "year": 1998,
-    "fact": "Soulcalibur is a 1998 fighting game developed and published by Namco.",
-    "wikipediaSlug": "Soulcalibur_(video_game)",
-    "image": "Soulcalibur_flyer.png",
-    "pageViews": 8035
   },
   {
     "qid": "Q588963",
@@ -9360,6 +9280,16 @@
     "pageViews": 7997
   },
   {
+    "qid": "Q868523",
+    "title": "‘Command & Conquer’ releases",
+    "subtitle": "Video game by Westwood Studios",
+    "year": 1995,
+    "fact": "Command & Conquer is a real-time strategy video game developed and published by Westwood Studios in 1995.",
+    "wikipediaSlug": "Command_%26_Conquer_(1995_video_game)",
+    "image": "Command_&_Conquer_1995_cover.jpg",
+    "pageViews": 7985
+  },
+  {
     "qid": "Q498866",
     "title": "‘Crossfire’ releases",
     "subtitle": "Video game by Smilegate",
@@ -9392,7 +9322,7 @@
   {
     "qid": "Q1779348",
     "title": "‘The Legend of Spyro: Dawn of the Dragon’ releases",
-    "subtitle": "Video game by The Mighty Troglodytes",
+    "subtitle": "Video game by Étranges Libellules",
     "year": 2008,
     "fact": "The Legend of Spyro: Dawn of the Dragon is a 2008 action-adventure video game in the Spyro series.",
     "wikipediaSlug": "The_Legend_of_Spyro:_Dawn_of_the_Dragon",
@@ -9412,22 +9342,12 @@
   {
     "qid": "Q471974",
     "title": "‘Need for Speed: Undercover’ releases",
-    "subtitle": "Video game by EA Black Box",
+    "subtitle": "Video game",
     "year": 2008,
     "fact": "Need for Speed: Undercover is a 2008 racing video game, and is the twelfth installment in the Need for Speed series following Need for Speed: ProStreet (2007).",
     "wikipediaSlug": "Need_for_Speed:_Undercover",
     "image": "Need_for_Speed_Undercover_cover.jpg",
     "pageViews": 7910
-  },
-  {
-    "qid": "Q13476380",
-    "title": "‘Sunset Overdrive’ releases",
-    "subtitle": "Video game by Insomniac Games",
-    "year": 2014,
-    "fact": "Sunset Overdrive is a 2014 action-adventure video game developed by Insomniac Games and published by Microsoft Studios.",
-    "wikipediaSlug": "Sunset_Overdrive",
-    "image": "Sunset_Overdrive_cover.jpg",
-    "pageViews": 7893
   },
   {
     "qid": "Q54936079",
@@ -9448,6 +9368,16 @@
     "wikipediaSlug": "Kane_%26_Lynch:_Dead_Men",
     "image": "Kane_and_Lynch_cover_art.jpg",
     "pageViews": 7882
+  },
+  {
+    "qid": "Q13361405",
+    "title": "‘Real Racing 3’ releases",
+    "subtitle": "Video game by Firemonkeys Studios",
+    "year": 2013,
+    "fact": "Real Racing 3 was a 2013 racing game developed by Firemonkeys Studios and Slingshot Studios and published by Electronic Arts for iOS, Android, Nvidia Shield and BlackBerry 10 devices.",
+    "wikipediaSlug": "Real_Racing_3",
+    "image": "Real_Racing_3.jpg",
+    "pageViews": 7879
   },
   {
     "qid": "Q2075296",
@@ -9482,7 +9412,7 @@
   {
     "qid": "Q26097",
     "title": "‘XCOM: Enemy Unknown’ releases",
-    "subtitle": "Video game by Firaxis Games",
+    "subtitle": "Video game by Feral Interactive",
     "year": 2012,
     "fact": "XCOM: Enemy Unknown is a 2012 turn-based tactics video game developed by Firaxis Games and published by 2K.",
     "wikipediaSlug": "XCOM:_Enemy_Unknown",
@@ -9502,7 +9432,7 @@
   {
     "qid": "Q30246427",
     "title": "‘Mario + Rabbids Kingdom Battle’ releases",
-    "subtitle": "Video game by Ubisoft Milan",
+    "subtitle": "Video game by Ubisoft Paris",
     "year": 2017,
     "fact": "Mario + Rabbids Kingdom Battle is a 2017 action-adventure and tactical role-playing game developed by Ubisoft Milan and Ubisoft Paris and published by Ubisoft for the Nintendo Switch.",
     "wikipediaSlug": "Mario_%2B_Rabbids_Kingdom_Battle",
@@ -9572,7 +9502,7 @@
   {
     "qid": "Q30253211",
     "title": "‘Skull and Bones’ releases",
-    "subtitle": "Video game by Ubisoft Berlin",
+    "subtitle": "Video game by Ubisoft Kyiv",
     "year": 2024,
     "fact": "Skull and Bones is a 2024 action-adventure game developed by Ubisoft Singapore and published by Ubisoft.",
     "wikipediaSlug": "Skull_and_Bones_(video_game)",
@@ -9592,7 +9522,7 @@
   {
     "qid": "Q2070167",
     "title": "‘Lego City Undercover’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by TT Fusion",
     "year": 2013,
     "fact": "Lego City Undercover is a 2013 action-adventure game developed by TT Fusion and published by Nintendo for the Wii U.",
     "wikipediaSlug": "Lego_City_Undercover",
@@ -9602,7 +9532,7 @@
   {
     "qid": "Q596596",
     "title": "‘Daikatana’ releases",
-    "subtitle": "Video game by Ion Storm",
+    "subtitle": "Video game by Kemco",
     "year": 2000,
     "fact": "John Romero's Daikatana, better known as simply Daikatana, is a 2000 first-person shooter action role-playing game developed by Ion Storm and published by Eidos Interactive for Windows.",
     "wikipediaSlug": "Daikatana",
@@ -9710,6 +9640,16 @@
     "pageViews": 7704
   },
   {
+    "qid": "Q2292512",
+    "title": "‘Croc: Legend of the Gobbos’ releases",
+    "subtitle": "Video game by Argonaut Games",
+    "year": 1997,
+    "fact": "Croc: Legend of the Gobbos is a 1997 platform game developed by Argonaut Software and published by Fox Interactive.",
+    "wikipediaSlug": "Croc:_Legend_of_the_Gobbos",
+    "image": "Croc_Legend_of_the_Gobbos.jpg",
+    "pageViews": 7675
+  },
+  {
     "qid": "Q1050833",
     "title": "‘Gears of War 3’ releases",
     "subtitle": "Video game by Epic Games",
@@ -9728,6 +9668,16 @@
     "wikipediaSlug": "Dune_(video_game)",
     "image": "Dune_cover.png",
     "pageViews": 7641
+  },
+  {
+    "qid": "Q1982333",
+    "title": "‘Call of Duty: Finest Hour’ releases",
+    "subtitle": "Video game by Kuju Ltd.",
+    "year": 2004,
+    "fact": "Call of Duty: Finest Hour is a 2004 first-person shooter video game developed by Spark Unlimited and published by Activision for GameCube, PlayStation 2, and Xbox.",
+    "wikipediaSlug": "Call_of_Duty:_Finest_Hour",
+    "image": "Codfhbox.jpg",
+    "pageViews": 7611
   },
   {
     "qid": "Q18185769",
@@ -9852,7 +9802,7 @@
   {
     "qid": "Q281246",
     "title": "‘Need for Speed: The Run’ releases",
-    "subtitle": "Video game by EA Black Box",
+    "subtitle": "Video game",
     "year": 2011,
     "fact": "Need for Speed: The Run is a 2011 racing video game developed by EA Black Box and published by Electronic Arts.",
     "wikipediaSlug": "Need_for_Speed:_The_Run",
@@ -9868,16 +9818,6 @@
     "wikipediaSlug": "Kid_Icarus",
     "image": "Kid_Icarus_NES_box_art.png",
     "pageViews": 7536
-  },
-  {
-    "qid": "Q13426441",
-    "title": "‘Mirror's Edge Catalyst’ releases",
-    "subtitle": "Video game by DICE",
-    "year": 2016,
-    "fact": "Mirror's Edge Catalyst is a 2016 first-person action-adventure platform game developed by DICE and published by Electronic Arts.",
-    "wikipediaSlug": "Mirror%27s_Edge_Catalyst",
-    "image": "Mirror's_Edge_Catalyst.jpg",
-    "pageViews": 7526
   },
   {
     "qid": "Q51594682",
@@ -9902,7 +9842,7 @@
   {
     "qid": "Q64547527",
     "title": "‘Sky: Children of the Light’ releases",
-    "subtitle": "Video game by thatgamecompany",
+    "subtitle": "Video game",
     "year": 2019,
     "fact": "Sky: Children of the Light is a social massively multiplayer online adventure game by Thatgamecompany.",
     "wikipediaSlug": "Sky:_Children_of_the_Light",
@@ -10142,7 +10082,7 @@
   {
     "qid": "Q220767",
     "title": "‘Age of Empires’ releases",
-    "subtitle": "Video game by Ensemble Studios",
+    "subtitle": "Video game",
     "year": 1997,
     "fact": "Age of Empires (AoE) is a 1997 real-time strategy video game based on the ancient world, developed by Ensemble Studios and published by Microsoft, and the first game in the Age of Empires series.",
     "wikipediaSlug": "Age_of_Empires_(video_game)",
@@ -10152,7 +10092,7 @@
   {
     "qid": "Q477199",
     "title": "‘Lineage II’ releases",
-    "subtitle": "Video game by NCSoft",
+    "subtitle": "Video game by NC",
     "year": 2003,
     "fact": "Lineage II is a massively multiplayer online role-playing game (MMORPG) for Windows and the second game in the Lineage series.",
     "wikipediaSlug": "Lineage_II",
@@ -10172,7 +10112,7 @@
   {
     "qid": "Q10857764",
     "title": "‘Far Cry 3: Blood Dragon’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game by Ubisoft Shanghai",
     "year": 2013,
     "fact": "Far Cry 3: Blood Dragon is a 2013 first-person shooter game developed by Ubisoft Montreal and published by Ubisoft.",
     "wikipediaSlug": "Far_Cry_3:_Blood_Dragon",
@@ -10230,6 +10170,16 @@
     "pageViews": 7255
   },
   {
+    "qid": "Q719337",
+    "title": "‘FarmVille’ releases",
+    "subtitle": "Video game by Zynga",
+    "year": 2009,
+    "fact": "FarmVille is a series of agriculture-simulation social network games developed and published by Zynga beginning in 2009.",
+    "wikipediaSlug": "FarmVille",
+    "image": "FarmVille_logo.png",
+    "pageViews": 7254
+  },
+  {
     "qid": "Q6586317",
     "title": "‘Mega Man’ releases",
     "subtitle": "Video game by Capcom",
@@ -10260,16 +10210,6 @@
     "pageViews": 7234
   },
   {
-    "qid": "Q1705294",
-    "title": "‘Pokémon Snap’ releases",
-    "subtitle": "Video game by HAL Laboratory",
-    "year": 1999,
-    "fact": "Pokémon Snap is a 1999 photography video game developed by HAL Laboratory and published by Nintendo for the Nintendo 64.",
-    "wikipediaSlug": "Pok%C3%A9mon_Snap",
-    "image": "Pokémon_Snap_Coverart.png",
-    "pageViews": 7228
-  },
-  {
     "qid": "Q558621",
     "title": "‘New Super Mario Bros. 2’ releases",
     "subtitle": "Video game by Nintendo Entertainment Analysis & Development",
@@ -10277,6 +10217,16 @@
     "fact": "New Super Mario Bros. 2 is a 2012 platform game developed and published by Nintendo for the Nintendo 3DS.",
     "wikipediaSlug": "New_Super_Mario_Bros._2",
     "image": "New_Super_Mario_Bros._2_box_artwork.png",
+    "pageViews": 7228
+  },
+  {
+    "qid": "Q1705294",
+    "title": "‘Pokémon Snap’ releases",
+    "subtitle": "Video game by HAL Laboratory",
+    "year": 1999,
+    "fact": "Pokémon Snap is a 1999 photography video game developed by HAL Laboratory and published by Nintendo for the Nintendo 64.",
+    "wikipediaSlug": "Pok%C3%A9mon_Snap",
+    "image": "Pokémon_Snap_Coverart.png",
     "pageViews": 7228
   },
   {
@@ -10308,16 +10258,6 @@
     "wikipediaSlug": "Saints_Row_(2006_video_game)",
     "image": "Saints_Row_Box_Art.jpg",
     "pageViews": 7226
-  },
-  {
-    "qid": "Q2377",
-    "title": "‘Civilization IV’ releases",
-    "subtitle": "Video game by Firaxis Games",
-    "year": 2005,
-    "fact": "Civilization IV is a 2005 4X turn-based strategy video game developed by Firaxis Games and published by 2K.",
-    "wikipediaSlug": "Civilization_IV",
-    "image": "CivIVboxshot.jpg",
-    "pageViews": 7225
   },
   {
     "qid": "Q4308783",
@@ -10392,7 +10332,7 @@
   {
     "qid": "Q1573878",
     "title": "‘Pitfall!’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Activision",
     "year": 1982,
     "fact": "Pitfall!",
     "wikipediaSlug": "Pitfall!",
@@ -10450,6 +10390,16 @@
     "pageViews": 7101
   },
   {
+    "qid": "Q56218638",
+    "title": "‘World War Z’ releases",
+    "subtitle": "Video game by Saber Interactive",
+    "year": 2019,
+    "fact": "World War Z is a third-person shooter video game developed and published by Saber Interactive.",
+    "wikipediaSlug": "World_War_Z_(2019_video_game)",
+    "image": "World_War_Z_cover_art.jpg",
+    "pageViews": 7099
+  },
+  {
     "qid": "Q1774415",
     "title": "‘Final Fantasy Type-0’ releases",
     "subtitle": "Video game by Square Enix",
@@ -10472,7 +10422,7 @@
   {
     "qid": "Q50356175",
     "title": "‘Frostpunk’ releases",
-    "subtitle": "Video game by 11 bit studios",
+    "subtitle": "Video game by 11 Bit Studios",
     "year": 2018,
     "fact": "Frostpunk is a 2018 city-building survival video game developed and published by 11 Bit Studios.",
     "wikipediaSlug": "Frostpunk",
@@ -10510,16 +10460,6 @@
     "pageViews": 7085
   },
   {
-    "qid": "Q16267814",
-    "title": "‘Evolve’ releases",
-    "subtitle": "Video game by Turtle Rock Studios",
-    "year": 2015,
-    "fact": "Evolve is a 2015 first-person shooter video game developed by Turtle Rock Studios and published by 2K.",
-    "wikipediaSlug": "Evolve_(video_game)",
-    "image": "Evolve_Box_Art.png",
-    "pageViews": 7082
-  },
-  {
     "qid": "Q1759208",
     "title": "‘Guitar Hero World Tour’ releases",
     "subtitle": "Video game by Neversoft",
@@ -10532,7 +10472,7 @@
   {
     "qid": "Q55812491",
     "title": "‘Arena of Valor’ releases",
-    "subtitle": "Video game by TiMi Studio Group",
+    "subtitle": "Video game by Garena",
     "year": 2016,
     "fact": "Arena of Valor, formerly Strike of Kings, is an international adaptation of Honor of Kings, a multiplayer online battle arena developed by TiMi Studio Group and published by Level Infinite for Android, iOS and Nintendo Switch for markets outside mainland China.",
     "wikipediaSlug": "Arena_of_Valor",
@@ -10572,7 +10512,7 @@
   {
     "qid": "Q104223925",
     "title": "‘Back 4 Blood’ releases",
-    "subtitle": "Video game by Turtle Rock Studios",
+    "subtitle": "Video game",
     "year": 2021,
     "fact": "Back 4 Blood is a 2021 first-person shooter game developed by Turtle Rock Studios and published by Warner Bros.",
     "wikipediaSlug": "Back_4_Blood",
@@ -10732,7 +10672,7 @@
   {
     "qid": "Q2005910",
     "title": "‘Metroid: Other M’ releases",
-    "subtitle": "Video game by Nintendo Software Planning & Development",
+    "subtitle": "Video game by Team Ninja",
     "year": 2010,
     "fact": "Metroid: Other M is a 2010 action-adventure game developed by Tecmo Koei's Team Ninja and Nintendo and published by Nintendo for the Wii.",
     "wikipediaSlug": "Metroid:_Other_M",
@@ -10768,16 +10708,6 @@
     "wikipediaSlug": "Donkey_Kong_Country:_Tropical_Freeze",
     "image": "DKC5_box_art.jpg",
     "pageViews": 6894
-  },
-  {
-    "qid": "Q648099",
-    "title": "‘Grand Theft Auto Advance’ releases",
-    "subtitle": "Video game by Digital Eclipse",
-    "year": 2004,
-    "fact": "Grand Theft Auto Advance is a 2004 action-adventure game developed by Digital Eclipse and published by Rockstar Games.",
-    "wikipediaSlug": "Grand_Theft_Auto_Advance",
-    "image": "Grand_Theft_Auto_Advance_logo.jpg",
-    "pageViews": 6883
   },
   {
     "qid": "Q1711379",
@@ -10842,7 +10772,7 @@
   {
     "qid": "Q747836",
     "title": "‘Halo Wars’ releases",
-    "subtitle": "Video game by Ensemble Studios",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Halo Wars is a real-time strategy (RTS) video game developed by Ensemble Studios and published by Microsoft Game Studios for the Xbox 360 video game console.",
     "wikipediaSlug": "Halo_Wars",
@@ -10858,6 +10788,16 @@
     "wikipediaSlug": "Golden_Sun_(video_game)",
     "image": "Golden_Sun_video_game_box_art.jpg",
     "pageViews": 6855
+  },
+  {
+    "qid": "Q2550114",
+    "title": "‘Peggle’ releases",
+    "subtitle": "Video game",
+    "year": 2007,
+    "fact": "Peggle is a casual puzzle video game developed by PopCap Games.",
+    "wikipediaSlug": "Peggle",
+    "image": "Peggle_Steam.jpg",
+    "pageViews": 6853
   },
   {
     "qid": "Q1257775",
@@ -10952,7 +10892,7 @@
   {
     "qid": "Q19849221",
     "title": "‘Yooka-Laylee’ releases",
-    "subtitle": "Video game by Playtonic Games",
+    "subtitle": "Video game",
     "year": 2017,
     "fact": "Yooka-Laylee is a 2017 platform game developed by Playtonic Games and published by Team17.",
     "wikipediaSlug": "Yooka-Laylee",
@@ -11102,7 +11042,7 @@
   {
     "qid": "Q1416931",
     "title": "‘Rayman 3: Hoodlum Havoc’ releases",
-    "subtitle": "Video game by Ubisoft Shanghai",
+    "subtitle": "Video game by Ubisoft",
     "year": 2003,
     "fact": "Rayman 3: Hoodlum Havoc is a 2003 platform game developed and published by Ubi Soft, and the third major installment in the Rayman series.",
     "wikipediaSlug": "Rayman_3:_Hoodlum_Havoc",
@@ -11370,6 +11310,16 @@
     "pageViews": 6489
   },
   {
+    "qid": "Q131382498",
+    "title": "‘MiSide’ releases",
+    "subtitle": "Video game by Aihasto",
+    "year": 2024,
+    "fact": "MiSide is an adventure game developed by Russian indie development team AIHASTO.",
+    "wikipediaSlug": "MiSide",
+    "image": "MiSideCoverArt.png",
+    "pageViews": 6489
+  },
+  {
     "qid": "Q42623244",
     "title": "‘World of Warcraft: Battle for Azeroth’ releases",
     "subtitle": "Video game by Blizzard Entertainment",
@@ -11400,16 +11350,6 @@
     "pageViews": 6470
   },
   {
-    "qid": "Q600707",
-    "title": "‘Hitman: Contracts’ releases",
-    "subtitle": "Video game by IO Interactive",
-    "year": 2004,
-    "fact": "Hitman: Contracts is a 2004 stealth video game developed by IO Interactive and published by Eidos Interactive for Microsoft Windows, PlayStation 2 and Xbox.",
-    "wikipediaSlug": "Hitman:_Contracts",
-    "image": "Hitman_3_artwork.jpg",
-    "pageViews": 6463
-  },
-  {
     "qid": "Q1139035",
     "title": "‘Need for Speed II’ releases",
     "subtitle": "Video game by EA Vancouver",
@@ -11438,16 +11378,6 @@
     "wikipediaSlug": "Just_Cause_2",
     "image": "Just_Cause_2_cover_art.jpg",
     "pageViews": 6450
-  },
-  {
-    "qid": "Q18705872",
-    "title": "‘Crossy Road’ releases",
-    "subtitle": "Video game by Hipster Whale",
-    "year": 2014,
-    "fact": "Crossy Road is an action game released on 20 November 2014.",
-    "wikipediaSlug": "Crossy_Road",
-    "image": "Crossy_Road_icon.jpeg",
-    "pageViews": 6447
   },
   {
     "qid": "Q1461007",
@@ -11872,12 +11802,22 @@
   {
     "qid": "Q739580",
     "title": "‘Assassin's Creed: Bloodlines’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Assassin's Creed: Bloodlines is a 2009 action-adventure video game developed by Griptonite Games and published by Ubisoft.",
     "wikipediaSlug": "Assassin%27s_Creed:_Bloodlines",
     "image": "Assassin's_Creed_Bloodlines.jpg",
     "pageViews": 6156
+  },
+  {
+    "qid": "Q1326048",
+    "title": "‘Daytona USA’ releases",
+    "subtitle": "Video game by Sega AM2",
+    "year": 1995,
+    "fact": "Daytona USA is a 1994 racing game developed by Sega AM2 and published by Sega for arcades.",
+    "wikipediaSlug": "Daytona_USA",
+    "image": "Daytona_USA_arcade_flyer.jpg",
+    "pageViews": 6146
   },
   {
     "qid": "Q1053648",
@@ -11890,19 +11830,9 @@
     "pageViews": 6128
   },
   {
-    "qid": "Q64743240",
-    "title": "‘Tom Clancy's Rainbow Six Extraction’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
-    "year": 2022,
-    "fact": "Tom Clancy's Rainbow Six Extraction is an online multiplayer tactical shooter video game developed by Ubisoft Montreal and published by Ubisoft.",
-    "wikipediaSlug": "Tom_Clancy%27s_Rainbow_Six_Extraction",
-    "image": "Rainbow_Six_Extraction_cover_art.jpg",
-    "pageViews": 6123
-  },
-  {
     "qid": "Q2264301",
     "title": "‘Donkey Kong Jr.’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 1982,
     "fact": "Donkey Kong Jr. is a 1982 platform game developed and published by Nintendo for arcades.",
     "wikipediaSlug": "Donkey_Kong_Jr.",
@@ -11972,7 +11902,7 @@
   {
     "qid": "Q1325327",
     "title": "‘Tom Clancy's Rainbow Six: Vegas’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2006,
     "fact": "Tom Clancy's Rainbow Six: Vegas is the fifth main game in the Rainbow Six series of video games.",
     "wikipediaSlug": "Tom_Clancy%27s_Rainbow_Six:_Vegas",
@@ -12052,7 +11982,7 @@
   {
     "qid": "Q733561",
     "title": "‘Bulletstorm’ releases",
-    "subtitle": "Video game by Epic Games",
+    "subtitle": "Video game by People Can Fly",
     "year": 2011,
     "fact": "Bulletstorm is a 2011 first-person shooter game developed by People Can Fly and Epic Games and published by Electronic Arts (EA).",
     "wikipediaSlug": "Bulletstorm",
@@ -12542,7 +12472,7 @@
   {
     "qid": "Q1462437",
     "title": "‘James Cameron's Avatar: The Game’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Avatar: The Game is a 2009 third-person shooter action-adventure game based on the 2009 film Avatar.",
     "wikipediaSlug": "Avatar:_The_Game",
@@ -12572,7 +12502,7 @@
   {
     "qid": "Q16319370",
     "title": "‘Child of Light’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2014,
     "fact": "Child of Light is a platforming role-playing video game developed by Ubisoft Montreal and published by Ubisoft for Windows, PlayStation 3, PlayStation 4, Wii U, Xbox 360 and Xbox One in April 2014, and was released on PlayStation Vita in July 2014.",
     "wikipediaSlug": "Child_of_Light",
@@ -12723,7 +12653,7 @@
     "qid": "Q1191816",
     "title": "‘WWE '12’ releases",
     "subtitle": "Video game by Yuke's",
-    "year": 2012,
+    "year": 2011,
     "fact": "WWE '12 is a professional wrestling video game developed by Yuke's and published by THQ for PlayStation 3, Wii and Xbox 360.",
     "wikipediaSlug": "WWE_%2712",
     "image": "WWE_'12_box_art.jpg",
@@ -12900,6 +12830,16 @@
     "pageViews": 5402
   },
   {
+    "qid": "Q54338",
+    "title": "‘Star Wars: Episode I – The Phantom Menace’ releases",
+    "subtitle": "Video game by Big Ape Productions",
+    "year": 1999,
+    "fact": "Star Wars: Episode I – The Phantom Menace is a 1999 action-adventure video game developed by Big Ape Productions and published by LucasArts for Windows and the PlayStation.",
+    "wikipediaSlug": "Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace_(video_game)",
+    "image": "The_phantom_menace_video_game.jpg",
+    "pageViews": 5402
+  },
+  {
     "qid": "Q1196167",
     "title": "‘The Godfather II’ releases",
     "subtitle": "Video game by Visceral Games",
@@ -12962,7 +12902,7 @@
   {
     "qid": "Q2502055",
     "title": "‘Alan Wake's American Nightmare’ releases",
-    "subtitle": "Video game by Remedy Entertainment",
+    "subtitle": "Video game",
     "year": 2012,
     "fact": "Alan Wake's American Nightmare is a 2012 third-person shooter video game developed by Remedy Entertainment and published by Microsoft Studios.",
     "wikipediaSlug": "Alan_Wake%27s_American_Nightmare",
@@ -13052,7 +12992,7 @@
   {
     "qid": "Q1116724",
     "title": "‘Homeworld’ releases",
-    "subtitle": "Video game by Relic Entertainment",
+    "subtitle": "Video game",
     "year": 1999,
     "fact": "Homeworld is a real-time strategy video game developed by Relic Entertainment and published by Sierra Studios on September 28, 1999, for Windows.",
     "wikipediaSlug": "Homeworld",
@@ -13112,7 +13052,7 @@
   {
     "qid": "Q1075123",
     "title": "‘Touhou Koumakyou ~ The Embodiment of Scarlet Devil’ releases",
-    "subtitle": "Video game by ZUN",
+    "subtitle": "Video game by Team Shanghai Alice",
     "year": 2002,
     "fact": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil is a 2002 bullet hell video game developed by Team Shanghai Alice.",
     "wikipediaSlug": "Embodiment_of_Scarlet_Devil",
@@ -13322,7 +13262,7 @@
   {
     "qid": "Q2667534",
     "title": "‘Far Cry Instincts’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2005,
     "fact": "Far Cry Instincts is a 2005 first-person shooter game developed and published by Ubisoft for the Xbox.",
     "wikipediaSlug": "Far_Cry_Instincts",
@@ -13412,7 +13352,7 @@
   {
     "qid": "Q842591",
     "title": "‘Need for Speed: World’ releases",
-    "subtitle": "Video game by EA Black Box",
+    "subtitle": "Video game",
     "year": 2010,
     "fact": "Need for Speed: World is a massively multiplayer online racing game published by Electronic Arts, and the fifteenth installment of the publisher's Need for Speed franchise.",
     "wikipediaSlug": "Need_for_Speed:_World",
@@ -13428,16 +13368,6 @@
     "wikipediaSlug": "Super_Mario_Run",
     "image": "Super_Mario_Run_logo.svg",
     "pageViews": 5115
-  },
-  {
-    "qid": "Q2415804",
-    "title": "‘Ace Combat: Assault Horizon’ releases",
-    "subtitle": "Video game by Namco",
-    "year": 2011,
-    "fact": "Ace Combat: Assault Horizon is a spin-off installment of the Ace Combat flight simulation video game series.",
-    "wikipediaSlug": "Ace_Combat:_Assault_Horizon",
-    "image": "Ace_Combat_Assault_Horizon.png",
-    "pageViews": 5114
   },
   {
     "qid": "Q23013242",
@@ -13632,7 +13562,7 @@
   {
     "qid": "Q1148672",
     "title": "‘Tom Clancy's Rainbow Six: Vegas 2’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2008,
     "fact": "Tom Clancy's Rainbow Six: Vegas 2 is the sixth main installment in the Rainbow Six series.",
     "wikipediaSlug": "Tom_Clancy%27s_Rainbow_Six:_Vegas_2",
@@ -13770,9 +13700,19 @@
     "pageViews": 4945
   },
   {
+    "qid": "Q88759",
+    "title": "‘Bubble Bobble’ releases",
+    "subtitle": "Video game by Taito",
+    "year": 1986,
+    "fact": "Bubble Bobble is a 1986 platform video game developed and published by Taito for arcades.",
+    "wikipediaSlug": "Bubble_Bobble_(video_game)",
+    "image": "Bubble_bobble.jpg",
+    "pageViews": 4939
+  },
+  {
     "qid": "Q28129061",
     "title": "‘Splatoon 2’ releases",
-    "subtitle": "Video game by Nintendo Entertainment Planning & Development",
+    "subtitle": "Video game by Nintendo",
     "year": 2017,
     "fact": "Splatoon 2 is a 2017 third-person shooter game developed and published by Nintendo for the Nintendo Switch.",
     "wikipediaSlug": "Splatoon_2",
@@ -13880,6 +13820,16 @@
     "pageViews": 4892
   },
   {
+    "qid": "Q2629197",
+    "title": "‘Ace Combat Zero: The Belkan War’ releases",
+    "subtitle": "Video game by Namco",
+    "year": 2006,
+    "fact": "Ace Combat Zero: The Belkan War is a 2006 combat flight simulation video game developed and published by Namco for the PlayStation 2.",
+    "wikipediaSlug": "Ace_Combat_Zero:_The_Belkan_War",
+    "image": "USAbox-acz.jpg",
+    "pageViews": 4889
+  },
+  {
     "qid": "Q2298157",
     "title": "‘Harvest Moon: Back to Nature’ releases",
     "subtitle": "Video game by Victor Interactive Software",
@@ -13942,7 +13892,7 @@
   {
     "qid": "Q2291321",
     "title": "‘Crash Nitro Kart’ releases",
-    "subtitle": "Video game by Blizzard Albany",
+    "subtitle": "Video game",
     "year": 2003,
     "fact": "Crash Nitro Kart is a 2003 kart racing game developed by Vicarious Visions and published by Universal Interactive for the PlayStation 2, Xbox, and GameCube.",
     "wikipediaSlug": "Crash_Nitro_Kart",
@@ -14002,7 +13952,7 @@
   {
     "qid": "Q284928",
     "title": "‘FlOw’ releases",
-    "subtitle": "Video game by thatgamecompany",
+    "subtitle": "Video game by SuperVillain Studios",
     "year": 2006,
     "fact": "Flow is an indie video game created by Jenova Chen and Nicholas Clark.",
     "wikipediaSlug": "Flow_(video_game)",
@@ -14012,7 +13962,7 @@
   {
     "qid": "Q1995146",
     "title": "‘Microsoft Flight Simulator X’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Xbox Game Studios",
     "year": 2006,
     "fact": "Microsoft Flight Simulator X (FSX) is a 2006 flight simulation video game originally developed by Aces Game Studio and published by Microsoft Game Studios for Microsoft Windows.",
     "wikipediaSlug": "Microsoft_Flight_Simulator_X",
@@ -14092,7 +14042,7 @@
   {
     "qid": "Q54935246",
     "title": "‘Rage 2’ releases",
-    "subtitle": "Video game by Avalanche Studios Group",
+    "subtitle": "Video game by id Software",
     "year": 2019,
     "fact": "Rage 2 is a 2019 first-person shooter video game developed by Avalanche Studios in conjunction with id Software and published by Bethesda Softworks.",
     "wikipediaSlug": "Rage_2",
@@ -14202,7 +14152,7 @@
   {
     "qid": "Q19953622",
     "title": "‘WWE 2K16’ releases",
-    "subtitle": "Video game by Yuke's",
+    "subtitle": "Video game by Visual Concepts",
     "year": 2015,
     "fact": "WWE 2K16 is a professional wrestling video game developed by Yuke's and published by 2K for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 and Xbox One.",
     "wikipediaSlug": "WWE_2K16",
@@ -14272,7 +14222,7 @@
   {
     "qid": "Q840776",
     "title": "‘Tom Clancy's EndWar’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Ubisoft",
     "year": 2008,
     "fact": "Tom Clancy's EndWar is a strategy video game available on Microsoft Windows and all seventh-generation platforms except the Wii, with the timing and flow of gameplay differing across platforms.",
     "wikipediaSlug": "Tom_Clancy%27s_EndWar",
@@ -14302,7 +14252,7 @@
   {
     "qid": "Q645418",
     "title": "‘Donald Duck: Goin' Quackers’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2000,
     "fact": "Donald Duck: Goin' Quackers is a 2000 platform game developed and published by Ubi Soft for various consoles and Windows-based personal computers.",
     "wikipediaSlug": "Donald_Duck:_Goin%27_Quackers",
@@ -14322,7 +14272,7 @@
   {
     "qid": "Q2004413",
     "title": "‘F.E.A.R. 3’ releases",
-    "subtitle": "Video game by Wargaming West Corporation",
+    "subtitle": "Video game",
     "year": 2011,
     "fact": "F.E.A.R. 3 is a 2011 first-person shooter psychological horror video game for PlayStation 3, Windows, and Xbox 360.",
     "wikipediaSlug": "F.E.A.R._3",
@@ -14352,7 +14302,7 @@
   {
     "qid": "Q764736",
     "title": "‘Paper Mario: Sticker Star’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 2012,
     "fact": "Paper Mario: Sticker Star is a 2012 role-playing video game developed by Intelligent Systems and published by Nintendo for the Nintendo 3DS.",
     "wikipediaSlug": "Paper_Mario:_Sticker_Star",
@@ -14402,7 +14352,7 @@
   {
     "qid": "Q1825218",
     "title": "‘Flower’ releases",
-    "subtitle": "Video game by thatgamecompany",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Flower is a video game developed by Thatgamecompany and published by Sony Computer Entertainment for the PlayStation 3.",
     "wikipediaSlug": "Flower_(video_game)",
@@ -14458,6 +14408,16 @@
     "wikipediaSlug": "Brain_Age:_Train_Your_Brain_in_Minutes_a_Day!",
     "image": "NDS_BrainTrainingForAdults.jpg",
     "pageViews": 4528
+  },
+  {
+    "qid": "Q1970425",
+    "title": "‘Virtua Cop’ releases",
+    "subtitle": "Video game by Sega AM2",
+    "year": 1994,
+    "fact": "Virtua Cop is a 1994 light gun shooter video game developed and published by Sega for arcades.",
+    "wikipediaSlug": "Virtua_Cop",
+    "image": "Virtuacop.jpg",
+    "pageViews": 4479
   },
   {
     "qid": "Q37598390",
@@ -14542,7 +14502,7 @@
   {
     "qid": "Q974232",
     "title": "‘Dead Island: Riptide’ releases",
-    "subtitle": "Video game by Techland",
+    "subtitle": "Video game",
     "year": 2013,
     "fact": "Dead Island: Riptide is a 2013 action role-playing game developed by Techland and published by Deep Silver.",
     "wikipediaSlug": "Dead_Island:_Riptide",
@@ -14552,7 +14512,7 @@
   {
     "qid": "Q1567550",
     "title": "‘Joust’ releases",
-    "subtitle": "Video game by WMS Industries",
+    "subtitle": "Video game by HAL Laboratory",
     "year": 1982,
     "fact": "Joust is a 1982 action game developed and published by Williams Electronics for arcades.",
     "wikipediaSlug": "Joust_(video_game)",
@@ -14652,7 +14612,7 @@
   {
     "qid": "Q1187668",
     "title": "‘Overlord’ releases",
-    "subtitle": "Video game by Electronic Arts",
+    "subtitle": "Video game by Triumph Studios",
     "year": 2007,
     "fact": "Overlord is an action role-playing video game developed by Triumph Studios and published by Codemasters for Xbox 360, Microsoft Windows, Linux and PlayStation 3.",
     "wikipediaSlug": "Overlord_(2007_video_game)",
@@ -14780,6 +14740,16 @@
     "pageViews": 4329
   },
   {
+    "qid": "Q1368183",
+    "title": "‘Hotel Mario’ releases",
+    "subtitle": "Video game",
+    "year": 1994,
+    "fact": "Hotel Mario is a 1994 puzzle video game developed by Fantasy Factory and published by Philips Interactive Media for the Philips CD-i.",
+    "wikipediaSlug": "Hotel_Mario",
+    "image": "Hotel_Mario.jpg",
+    "pageViews": 4324
+  },
+  {
     "qid": "Q1996527",
     "title": "‘Super Princess Peach’ releases",
     "subtitle": "Video game by Tose Co.",
@@ -14812,7 +14782,7 @@
   {
     "qid": "Q144728",
     "title": "‘Bad Piggies’ releases",
-    "subtitle": "Video game by Rovio Entertainment",
+    "subtitle": "Video game",
     "year": 2012,
     "fact": "Bad Piggies is a 2012 puzzle video game developed by Rovio Entertainment.",
     "wikipediaSlug": "Bad_Piggies",
@@ -14882,7 +14852,7 @@
   {
     "qid": "Q1750429",
     "title": "‘MySims’ releases",
-    "subtitle": "Video game by Visceral Games",
+    "subtitle": "Video game by Babaroga",
     "year": 2007,
     "fact": "MySims is a video game developed by EA Redwood Shores and published by Electronic Arts as a spin-off to Maxis's The Sims franchise for the Wii and Nintendo DS in September 2007, re-released for Microsoft Windows and mobile phones in 2008, and for BlackBerry in 2009.",
     "wikipediaSlug": "MySims",
@@ -14912,7 +14882,7 @@
   {
     "qid": "Q28312454",
     "title": "‘Arms’ releases",
-    "subtitle": "Video game by Bandai Namco Studios",
+    "subtitle": "Video game by Nintendo Entertainment Planning & Development",
     "year": 2017,
     "fact": "Arms is a 2017 fighting game developed and published by Nintendo for the Nintendo Switch.",
     "wikipediaSlug": "Arms_(video_game)",
@@ -14932,7 +14902,7 @@
   {
     "qid": "Q1202544",
     "title": "‘Mario & Sonic at the Olympic Winter Games’ releases",
-    "subtitle": "Video game by Racjin",
+    "subtitle": "Video game by Sonic Team",
     "year": 2009,
     "fact": "Mario & Sonic at the Olympic Winter Games is a 2009 crossover sports video game developed and published by Sega for the Wii and Nintendo DS.",
     "wikipediaSlug": "Mario_%26_Sonic_at_the_Olympic_Winter_Games",
@@ -14940,10 +14910,20 @@
     "pageViews": 4206
   },
   {
+    "qid": "Q388929",
+    "title": "‘After Burner’ releases",
+    "subtitle": "Video game by Sega AM2",
+    "year": 1987,
+    "fact": "After Burner is a 1987 rail shooter video game developed by Studio 128 and published by Sega for arcades.",
+    "wikipediaSlug": "After_Burner",
+    "image": "AfterBurner_JParcadeflyer.png",
+    "pageViews": 4197
+  },
+  {
     "qid": "Q268616",
     "title": "‘Metin2’ releases",
     "subtitle": "Video game",
-    "year": 2006,
+    "year": 2004,
     "fact": "Metin2 is a massively multiplayer online role-playing game (MMORPG) developed by Ymir Entertainment and first released in South Korea in 2004.",
     "wikipediaSlug": "Metin2",
     "image": "Metin2logo.png",
@@ -15108,16 +15088,6 @@
     "wikipediaSlug": "Jurassic_World_Evolution_2",
     "image": "Jurassic_World_Evolution_2_cover_art.png",
     "pageViews": 4117
-  },
-  {
-    "qid": "Q3133608",
-    "title": "‘Spider-Man 2: Enter: Electro’ releases",
-    "subtitle": "Video game by Blizzard Albany",
-    "year": 2001,
-    "fact": "Spider-Man 2: Enter: Electro is a 2001 action-adventure video game based on the Marvel Comics character Spider-Man.",
-    "wikipediaSlug": "Spider-Man_2:_Enter:_Electro",
-    "image": "Spider-Man_2_Enter_Electro_US_Cover.jpg",
-    "pageViews": 4105
   },
   {
     "qid": "Q1758399",
@@ -15302,7 +15272,7 @@
   {
     "qid": "Q580202",
     "title": "‘Syberia’ releases",
-    "subtitle": "Video game by Microids",
+    "subtitle": "Video game",
     "year": 2002,
     "fact": "Syberia is a graphic adventure game, developed and published by Microïds, and released for Windows on 30 May 2002, with the game later ported for PlayStation 2, Xbox, Windows Mobile, Nintendo DS, Android, OS X, PlayStation 3, Xbox 360, iOS and Nintendo Switch in later years.",
     "wikipediaSlug": "Syberia_(video_game)",
@@ -15378,6 +15348,16 @@
     "wikipediaSlug": "Command_%26_Conquer:_Renegade",
     "image": "Cncren-cover.jpg",
     "pageViews": 3938
+  },
+  {
+    "qid": "Q91268",
+    "title": "‘Archon: The Light and the Dark’ releases",
+    "subtitle": "Video game by Free Fall Associates",
+    "year": 1983,
+    "fact": "Archon: The Light and the Dark is a 1983 strategy/action video game developed by Free Fall Associates and one of the first five games published by Electronic Arts.",
+    "wikipediaSlug": "Archon:_The_Light_and_the_Dark",
+    "image": "Archon_box.png",
+    "pageViews": 3934
   },
   {
     "qid": "Q634893",
@@ -15480,19 +15460,9 @@
     "pageViews": 3877
   },
   {
-    "qid": "Q610138",
-    "title": "‘SimAnt’ releases",
-    "subtitle": "Video game by Maxis",
-    "year": 1991,
-    "fact": "SimAnt: The Electronic Ant Colony is a 1991 life simulation video game by Maxis and the company's third product, focusing on the lifecycle of ants.",
-    "wikipediaSlug": "SimAnt",
-    "image": "SimAnt_Coverart.png",
-    "pageViews": 3876
-  },
-  {
     "qid": "Q1355158",
     "title": "‘FlatOut 2’ releases",
-    "subtitle": "Video game by Bugbear Entertainment",
+    "subtitle": "Video game",
     "year": 2006,
     "fact": "FlatOut 2 is an action racing video game developed by Bugbear Entertainment and published by Empire Interactive for Windows, PlayStation 2 and Xbox.",
     "wikipediaSlug": "FlatOut_2",
@@ -15642,7 +15612,7 @@
   {
     "qid": "Q489800",
     "title": "‘Lineage’ releases",
-    "subtitle": "Video game by NCSoft",
+    "subtitle": "Video game by NC",
     "year": 1998,
     "fact": "Lineage, also known as Lineage: The Blood Pledge in Western markets, is a medieval fantasy, massively multiplayer online role-playing game (MMORPG) released in Korea and the United States in 1998 by the South Korean computer game developer NCSoft, based on a Korean comic book series of the same name.",
     "wikipediaSlug": "Lineage_(video_game)",
@@ -15822,7 +15792,7 @@
   {
     "qid": "Q500851",
     "title": "‘Company of Heroes’ releases",
-    "subtitle": "Video game by Relic Entertainment",
+    "subtitle": "Video game",
     "year": 2006,
     "fact": "Company of Heroes is a 2006 real-time strategy video game developed by Relic Entertainment and published by THQ for Windows and Mac OS X operating systems.",
     "wikipediaSlug": "Company_of_Heroes_(video_game)",
@@ -15852,7 +15822,7 @@
   {
     "qid": "Q15076529",
     "title": "‘Angry Birds Go!’ releases",
-    "subtitle": "Video game by Rovio Entertainment",
+    "subtitle": "Video game",
     "year": 2013,
     "fact": "Angry Birds Go!",
     "wikipediaSlug": "Angry_Birds_Go!",
@@ -15962,7 +15932,7 @@
   {
     "qid": "Q19562069",
     "title": "‘Angry Birds 2’ releases",
-    "subtitle": "Video game by Rovio Entertainment",
+    "subtitle": "Video game",
     "year": 2015,
     "fact": "Angry Birds 2 is a 2015 strategy video game developed and published by Rovio Entertainment for mobile devices.",
     "wikipediaSlug": "Angry_Birds_2",
@@ -15988,6 +15958,16 @@
     "wikipediaSlug": "Star_Trek_(1971_video_game)",
     "image": "Star_Trek_text_game.png",
     "pageViews": 3561
+  },
+  {
+    "qid": "Q585951",
+    "title": "‘Feeding Frenzy’ releases",
+    "subtitle": "Video game",
+    "year": 2004,
+    "fact": "Feeding Frenzy is a single-player mode and arcade-style aquatic video game written by Sprout Games, and published by PopCap Games and GameHouse.",
+    "wikipediaSlug": "Feeding_Frenzy_(video_game)",
+    "image": "Feeding_frenzy_1_xbox_cover.jpg",
+    "pageViews": 3560
   },
   {
     "qid": "Q532743",
@@ -16040,16 +16020,6 @@
     "pageViews": 3522
   },
   {
-    "qid": "Q810986",
-    "title": "‘Battle Chess’ releases",
-    "subtitle": "Video game by Interplay Entertainment",
-    "year": 1988,
-    "fact": "Battle Chess is a video game version of chess with 2.5D graphics and fighting animations showing the result of one piece moving onto the square of another.",
-    "wikipediaSlug": "Battle_Chess",
-    "image": "Battle_Chess.png",
-    "pageViews": 3513
-  },
-  {
     "qid": "Q2303119",
     "title": "‘Popeye’ releases",
     "subtitle": "Video game by Nintendo Research & Development 1",
@@ -16078,6 +16048,16 @@
     "wikipediaSlug": "Tropico_(video_game)",
     "image": "Tropico_Coverart.png",
     "pageViews": 3506
+  },
+  {
+    "qid": "Q959102",
+    "title": "‘Kirby: Squeak Squad’ releases",
+    "subtitle": "Video game by Flagship",
+    "year": 2006,
+    "fact": "Kirby: Squeak Squad is a 2006 platform game developed by HAL Laboratory and Flagship and published by Nintendo for the Nintendo DS.",
+    "wikipediaSlug": "Kirby:_Squeak_Squad",
+    "image": "Kirby_-_Squeak_Squad_Coverart.png",
+    "pageViews": 3487
   },
   {
     "qid": "Q42310881",
@@ -16142,7 +16122,7 @@
   {
     "qid": "Q406414",
     "title": "‘Aion’ releases",
-    "subtitle": "Video game by NCSoft",
+    "subtitle": "Video game by NC",
     "year": 2008,
     "fact": "Aion: The Tower of Eternity is a massively multiplayer online role-playing game (MMORPG) developed and published by the South Korean company NCSoft.",
     "wikipediaSlug": "Aion_(video_game)",
@@ -16168,6 +16148,16 @@
     "wikipediaSlug": "Inazuma_Eleven_(video_game)",
     "image": "Inazuma_Eleven.jpg",
     "pageViews": 3448
+  },
+  {
+    "qid": "Q170331",
+    "title": "‘Travian’ releases",
+    "subtitle": "Video game by Travian Games",
+    "year": 2004,
+    "fact": "Travian: Legends is a persistent, browser-based, massively multiplayer, online real-time strategy game developed by the German software company Travian Games.",
+    "wikipediaSlug": "Travian",
+    "image": "Travian_(video_game).png",
+    "pageViews": 3446
   },
   {
     "qid": "Q1648331",
@@ -16212,7 +16202,7 @@
   {
     "qid": "Q2096469",
     "title": "‘Company of Heroes 2’ releases",
-    "subtitle": "Video game by Relic Entertainment",
+    "subtitle": "Video game",
     "year": 2013,
     "fact": "Company of Heroes 2 is a real-time strategy video game developed by Relic Entertainment and published by Sega for Windows, Linux, and OS X.",
     "wikipediaSlug": "Company_of_Heroes_2",
@@ -16232,7 +16222,7 @@
   {
     "qid": "Q390291",
     "title": "‘Donkey Kong 3’ releases",
-    "subtitle": "Video game",
+    "subtitle": "Video game by Nintendo",
     "year": 1984,
     "fact": "Donkey Kong 3 is a 1983 shoot 'em up video game developed and published by Nintendo for arcades.",
     "wikipediaSlug": "Donkey_Kong_3",
@@ -16253,7 +16243,7 @@
     "qid": "Q1150685",
     "title": "‘Sonic Riders: Zero Gravity’ releases",
     "subtitle": "Video game by Sonic Team",
-    "year": 2009,
+    "year": 2008,
     "fact": "Sonic Riders: Zero Gravity is a 2008 racing video game developed by Sonic Team and published by Sega for the PlayStation 2 and Wii.",
     "wikipediaSlug": "Sonic_Riders:_Zero_Gravity",
     "image": "SonicRiders2.PNG",
@@ -16442,7 +16432,7 @@
   {
     "qid": "Q585271",
     "title": "‘Call of Juarez’ releases",
-    "subtitle": "Video game by Techland",
+    "subtitle": "Video game",
     "year": 2006,
     "fact": "Call of Juarez is a 2006 Western-themed first-person shooter for Windows and Xbox 360.",
     "wikipediaSlug": "Call_of_Juarez_(video_game)",
@@ -16532,7 +16522,7 @@
   {
     "qid": "Q2748684",
     "title": "‘Sonic Advance 2’ releases",
-    "subtitle": "Video game by Dimps",
+    "subtitle": "Video game by Sonic Team",
     "year": 2002,
     "fact": "Sonic Advance 2 is a 2002 platform game developed by Dimps and published by Sega for the Game Boy Advance.",
     "wikipediaSlug": "Sonic_Advance_2",
@@ -16672,7 +16662,7 @@
   {
     "qid": "Q2029195",
     "title": "‘Pokémon Pinball’ releases",
-    "subtitle": "Video game by Jupiter",
+    "subtitle": "Video game by HAL Laboratory",
     "year": 1999,
     "fact": "Pokémon Pinball is a pinball-based Pokémon spin-off video game for the Game Boy Color.",
     "wikipediaSlug": "Pok%C3%A9mon_Pinball",
@@ -16712,7 +16702,7 @@
   {
     "qid": "Q2337997",
     "title": "‘Alone in the Dark 2’ releases",
-    "subtitle": "Video game by Infogrames",
+    "subtitle": "Video game",
     "year": 1993,
     "fact": "Alone in the Dark 2 is a 1993 survival horror video game developed and published by Infogrames.",
     "wikipediaSlug": "Alone_in_the_Dark_2_(video_game)",
@@ -16772,7 +16762,7 @@
   {
     "qid": "Q19879485",
     "title": "‘Keep Talking and Nobody Explodes’ releases",
-    "subtitle": "Video game by Steel Crate Games",
+    "subtitle": "Video game",
     "year": 2015,
     "fact": "Keep Talking and Nobody Explodes is a puzzle video game developed and published by Canadian studio Steel Crate Games.",
     "wikipediaSlug": "Keep_Talking_and_Nobody_Explodes",
@@ -16883,7 +16873,7 @@
     "qid": "Q1988599",
     "title": "‘Pro Evolution Soccer 3’ releases",
     "subtitle": "Video game by Konami",
-    "year": 2004,
+    "year": 2003,
     "fact": "Pro Evolution Soccer 3 is a football simulation video game developed and produced by Konami as part of the Pro Evolution Soccer series.",
     "wikipediaSlug": "Pro_Evolution_Soccer_3",
     "image": "Pro_Evolution_Soccer_3.jpg",
@@ -16918,6 +16908,16 @@
     "wikipediaSlug": "Streets_of_Rage_3",
     "image": "Streets_of_Rage_3_(box_art).jpg",
     "pageViews": 2968
+  },
+  {
+    "qid": "Q623111",
+    "title": "‘Aquaria’ releases",
+    "subtitle": "Video game",
+    "year": 2007,
+    "fact": "Aquaria is an action-adventure game designed by Alec Holowka and Derek Yu, who published the game in 2007 as an independent game company Bit Blot.",
+    "wikipediaSlug": "Aquaria_(video_game)",
+    "image": "Aquaria_Logo.png",
+    "pageViews": 2959
   },
   {
     "qid": "Q2701058",
@@ -16982,7 +16982,7 @@
   {
     "qid": "Q98844808",
     "title": "‘Mario Kart Live: Home Circuit’ releases",
-    "subtitle": "Video game by Velan Studios",
+    "subtitle": "Video game",
     "year": 2020,
     "fact": "Mario Kart Live: Home Circuit is a 2020 mixed reality kart racing game developed by Velan Studios and published by Nintendo for the Nintendo Switch.",
     "wikipediaSlug": "Mario_Kart_Live:_Home_Circuit",
@@ -17132,7 +17132,7 @@
   {
     "qid": "Q1193623",
     "title": "‘Lost: Via Domus’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
+    "subtitle": "Video game",
     "year": 2008,
     "fact": "Lost: Via Domus, marketed as Lost: The Video Game in Europe, is a video game based on the ABC television series Lost.",
     "wikipediaSlug": "Lost:_Via_Domus",
@@ -17142,7 +17142,7 @@
   {
     "qid": "Q1027129",
     "title": "‘Call of Juarez: Bound in Blood’ releases",
-    "subtitle": "Video game by Techland",
+    "subtitle": "Video game",
     "year": 2009,
     "fact": "Call of Juarez: Bound in Blood is a 2009 Western-themed first-person shooter for PlayStation 3, Windows, and Xbox 360.",
     "wikipediaSlug": "Call_of_Juarez:_Bound_in_Blood",
@@ -17282,7 +17282,7 @@
   {
     "qid": "Q1883933",
     "title": "‘Sonic Rivals’ releases",
-    "subtitle": "Video game by Backbone Entertainment",
+    "subtitle": "Video game",
     "year": 2006,
     "fact": "Sonic Rivals is a 2006 action-racing video game developed by Backbone Entertainment and Sega Studio USA, and published by Sega for the PlayStation Portable (PSP); it is a game in the Sonic the Hedgehog series, and follows the heroes needing to stop Doctor Eggman Nega from turning everyone and the world into cards.",
     "wikipediaSlug": "Sonic_Rivals",
@@ -17350,16 +17350,6 @@
     "pageViews": 2636
   },
   {
-    "qid": "Q16333765",
-    "title": "‘Civilization: Beyond Earth’ releases",
-    "subtitle": "Video game by Firaxis Games",
-    "year": 2014,
-    "fact": "Sid Meier's Civilization: Beyond Earth is a turn-based strategy, 4X video game in the Civilization series developed by Firaxis Games, published by 2K Games and released for Microsoft Windows on October 24, 2014, the Mac App Store on November 27, 2014 and for Linux on December 18, 2014.",
-    "wikipediaSlug": "Civilization:_Beyond_Earth",
-    "image": "Civilization_Beyond_Earth_cover_art.png",
-    "pageViews": 2624
-  },
-  {
     "qid": "Q864943",
     "title": "‘Sid Meier's Colonization’ releases",
     "subtitle": "Video game by MicroProse",
@@ -17408,16 +17398,6 @@
     "wikipediaSlug": "Worms_World_Party",
     "image": "Wwp-win-cover.jpg",
     "pageViews": 2568
-  },
-  {
-    "qid": "Q1087397",
-    "title": "‘Serious Sam 2’ releases",
-    "subtitle": "Video game by Croteam",
-    "year": 2005,
-    "fact": "Serious Sam II is a 2005 first-person shooter game developed by Croteam and published by 2K Games.",
-    "wikipediaSlug": "Serious_Sam_II",
-    "image": "Serious_Sam_II.jpg",
-    "pageViews": 2551
   },
   {
     "qid": "Q665733",
@@ -17492,7 +17472,7 @@
   {
     "qid": "Q1188898",
     "title": "‘Angry Birds Space’ releases",
-    "subtitle": "Video game by Rovio Entertainment",
+    "subtitle": "Video game",
     "year": 2012,
     "fact": "Angry Birds Space is a 2012 puzzle video game developed and published by Rovio Entertainment.",
     "wikipediaSlug": "Angry_Birds_Space",
@@ -17602,7 +17582,7 @@
   {
     "qid": "Q2700588",
     "title": "‘Tennis’ releases",
-    "subtitle": "Video game by Nintendo Research & Development 1",
+    "subtitle": "Video game by Nintendo",
     "year": 1984,
     "fact": "Tennis is a tennis video game developed and published by Nintendo for the Nintendo Entertainment System.",
     "wikipediaSlug": "Tennis_(1984_video_game)",
@@ -17742,7 +17722,7 @@
   {
     "qid": "Q15731740",
     "title": "‘Angry Birds Stella’ releases",
-    "subtitle": "Video game by Rovio Entertainment",
+    "subtitle": "Video game",
     "year": 2014,
     "fact": "Angry Birds Stella, listed as Angry Birds Slingshot Stella, was a 2014 puzzle video game and the second spin-off from the Angry Birds series, developed by Rovio Entertainment.",
     "wikipediaSlug": "Angry_Birds_Stella",
@@ -17758,16 +17738,6 @@
     "wikipediaSlug": "Zoo_Tycoon_(2001_video_game)",
     "image": "Zoo_Tycoon_2001_cover.jpg",
     "pageViews": 2340
-  },
-  {
-    "qid": "Q765359",
-    "title": "‘Sherlock Holmes Versus Jack the Ripper’ releases",
-    "subtitle": "Video game by Frogwares",
-    "year": 2009,
-    "fact": "Sherlock Holmes Versus Jack the Ripper is an adventure game for Microsoft Windows and Xbox 360, developed by Ukrainian studio Frogwares and distributed by Focus Home Interactive.",
-    "wikipediaSlug": "Sherlock_Holmes_Versus_Jack_the_Ripper",
-    "image": "Sherlock_Holmes_vs._Jack_the_Ripper_Cover.jpg",
-    "pageViews": 2337
   },
   {
     "qid": "Q219743",
@@ -17792,7 +17762,7 @@
   {
     "qid": "Q635706",
     "title": "‘V-Rally’ releases",
-    "subtitle": "Video game by Infogrames",
+    "subtitle": "Video game by White Park Bay Software",
     "year": 1997,
     "fact": "V-Rally is a 1997 racing video game developed and published by Infogrames Multimedia for the PlayStation.",
     "wikipediaSlug": "V-Rally_(video_game)",
@@ -17818,16 +17788,6 @@
     "wikipediaSlug": "World_Cup_98_(video_game)",
     "image": "World_Cup_98_Coverart.png",
     "pageViews": 2298
-  },
-  {
-    "qid": "Q20895586",
-    "title": "‘Lara Croft Go’ releases",
-    "subtitle": "Video game by Square Enix Montréal",
-    "year": 2015,
-    "fact": "Lara Croft Go is a 2015 puzzle video game developed by Square Enix Montreal and published by Square Enix.",
-    "wikipediaSlug": "Lara_Croft_Go",
-    "image": "Lara_croft_go_logo.png",
-    "pageViews": 2283
   },
   {
     "qid": "Q581771",
@@ -17920,6 +17880,16 @@
     "pageViews": 2203
   },
   {
+    "qid": "Q19360088",
+    "title": "‘The Escapists’ releases",
+    "subtitle": "Video game",
+    "year": 2014,
+    "fact": "The Escapists is a strategy game developed by Mouldy Toof Studios and following a Steam Early Access release in 2014, was released in 2015 for Microsoft Windows, macOS, Linux, Xbox 360, Xbox One and PlayStation 4.",
+    "wikipediaSlug": "The_Escapists",
+    "image": "The_Escapists_logo.jpg",
+    "pageViews": 2197
+  },
+  {
     "qid": "Q1061361",
     "title": "‘Hearts of Iron II’ releases",
     "subtitle": "Video game by Development Studio",
@@ -17932,7 +17902,7 @@
   {
     "qid": "Q2088341",
     "title": "‘Syberia II’ releases",
-    "subtitle": "Video game by Microids",
+    "subtitle": "Video game",
     "year": 2004,
     "fact": "Syberia II is a 2004 graphic adventure game developed and published by MC2-Microïds.",
     "wikipediaSlug": "Syberia_II",
@@ -18152,7 +18122,7 @@
   {
     "qid": "Q1315886",
     "title": "‘Impossible Creatures’ releases",
-    "subtitle": "Video game by Relic Entertainment",
+    "subtitle": "Video game",
     "year": 2003,
     "fact": "Impossible Creatures is a 2003 steampunk real-time strategy game developed by Relic Entertainment and published by Microsoft Game Studios.",
     "wikipediaSlug": "Impossible_Creatures",
@@ -18198,16 +18168,6 @@
     "wikipediaSlug": "Flyff",
     "image": "FlyffLogo.png",
     "pageViews": 1783
-  },
-  {
-    "qid": "Q2486464",
-    "title": "‘Far Cry Vengeance’ releases",
-    "subtitle": "Video game by Ubisoft Montreal",
-    "year": 2006,
-    "fact": "Far Cry Vengeance is a 2006 first-person shooter game developed by Ubisoft Montreal and published by Ubisoft for the Wii.",
-    "wikipediaSlug": "Far_Cry_Vengeance",
-    "image": "Far_Cry_Vengeance_-_Box_Front.jpg",
-    "pageViews": 1773
   },
   {
     "qid": "Q20538667",
@@ -18262,7 +18222,7 @@
   {
     "qid": "Q50296394",
     "title": "‘Harry Potter: Wizards Unite’ releases",
-    "subtitle": "Video game by Warner Bros. Games",
+    "subtitle": "Video game by Niantic Games Team",
     "year": 2019,
     "fact": "Harry Potter: Wizards Unite was an augmented reality (AR) mobile game developed by Niantic and WB Games San Francisco, and published by Niantic, under license from Portkey Games.",
     "wikipediaSlug": "Harry_Potter:_Wizards_Unite",
@@ -18402,7 +18362,7 @@
   {
     "qid": "Q2446576",
     "title": "‘Sonic Rivals 2’ releases",
-    "subtitle": "Video game by Backbone Entertainment",
+    "subtitle": "Video game",
     "year": 2007,
     "fact": "Sonic Rivals 2 is a 2007 racing video game, the sequel to the 2006 game Sonic Rivals.",
     "wikipediaSlug": "Sonic_Rivals_2",
@@ -18448,6 +18408,16 @@
     "wikipediaSlug": "Jackal_(video_game)",
     "image": "Jackal_game_flyer.png",
     "pageViews": 1522
+  },
+  {
+    "qid": "Q26218316",
+    "title": "‘This Is the Police’ releases",
+    "subtitle": "Video game by Weappy Studio",
+    "year": 2016,
+    "fact": "This Is the Police is an adventure strategy video game by Belarusian developer Weappy Studio and published by Nordic Games and EuroVideo Medien.",
+    "wikipediaSlug": "This_Is_the_Police",
+    "image": "This_Is_the_Police_logo_verical.png",
+    "pageViews": 1518
   },
   {
     "qid": "Q2712291",
@@ -18542,7 +18512,7 @@
   {
     "qid": "Q2508481",
     "title": "‘Syberia III’ releases",
-    "subtitle": "Video game by Anuman",
+    "subtitle": "Video game by Koalabs",
     "year": 2017,
     "fact": "Syberia 3 is a graphic adventure video game developed by Microïds and published by Anuman for macOS, PlayStation 4, Windows, Xbox One, and Nintendo Switch.",
     "wikipediaSlug": "Syberia_3",

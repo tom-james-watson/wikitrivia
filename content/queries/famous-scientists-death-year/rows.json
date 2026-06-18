@@ -1,48 +1,57 @@
 [
   {
+    "item": "http://www.wikidata.org/entity/Q937",
+    "itemLabel": "Albert Einstein",
+    "year": "1955",
+    "sitelinks": "320",
+    "description": "German-born theoretical physicist (1879–1955)",
+    "nationalityLabel": "Württembergian||statelessness||Austrian||Weimar Republic||German||Swiss||American||Americans",
+    "occupationLabel": "scientist||patent examiner||professor||author||science writer||philosopher||physicist||mathematician||inventor||pedagogue||university teacher||philosopher of science||pacifist||theoretical physicist"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q762",
     "itemLabel": "Leonardo da Vinci",
     "year": "1519",
-    "sitelinks": "303",
+    "sitelinks": "304",
     "description": "Italian Renaissance polymath (1452−1519)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "engineer||astronomer||scientist||physicist||composer||mathematician||diplomat||writer||visual artist||architect||polymath||chemist||designer||caricaturist||inventor||zoologist||philosopher||architectural draftsperson||sculptor||civil engineer||anatomist||painter||physiologist||botanist"
+    "occupationLabel": "engineer||astronomer||scientist||naturalist||visual artist||composer||author||caricaturist||physicist||mathematician||inventor||architect||diplomat||designer||zoologist||polymath||anatomist||mechanic||librettist||musician||chemist||artist||painter||sculptor||natural philosopher||physiologist||graphic artist||master builder||architectural drafter||botanist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q307",
     "itemLabel": "Galileo Galilei",
     "year": "1642",
-    "sitelinks": "266",
+    "sitelinks": "269",
     "description": "Italian polymath (1564–1642)",
-    "nationalityLabel": "Duchy of Florence||Grand Duchy of Tuscany",
-    "occupationLabel": "engineer||astronomer||scientist||politician||astrologer||physicist||mathematician||inventor||philosopher||university teacher"
+    "nationalityLabel": "Grand Duchy of Tuscany||Duchy of Florence",
+    "occupationLabel": "engineer||astronomer||scientist||astrologer||politician||philosopher||physicist||mathematician||inventor||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9353",
     "itemLabel": "John Locke",
     "year": "1704",
-    "sitelinks": "205",
-    "description": "English philosopher and physician (1632–1704)",
+    "sitelinks": "206",
+    "description": "English philosopher and physician (1632-1704)",
     "nationalityLabel": "English",
-    "occupationLabel": "scientist||politician||physician||writer||philosopher||philosopher of law"
+    "occupationLabel": "scientist||author||politician||physician||philosopher||philosopher of law"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23810",
     "itemLabel": "Alfred Nobel",
     "year": "1896",
-    "sitelinks": "191",
+    "sitelinks": "192",
     "description": "Swedish chemist and inventor (1833–1896)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "engineer||scientist||photographer||chemist||inventor||philanthropist||industrialist||weapons manufacturer"
+    "occupationLabel": "engineer||scientist||entrepreneur||photographer||inventor||industrialist||philanthropist||chemist||pacifist||weapons manufacturer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7604",
     "itemLabel": "Leonhard Euler",
     "year": "1783",
-    "sitelinks": "187",
+    "sitelinks": "188",
     "description": "Swiss mathematician, physicist, and engineer (1707–1783)",
     "nationalityLabel": "Old Swiss Confederacy||Russian||Prussian",
-    "occupationLabel": "astronomer||scientist||physicist||mathematician||writer||inventor||geographer||executive||music theorist||university teacher"
+    "occupationLabel": "astronomer||scientist||author||physicist||mathematician||inventor||university teacher||music theorist||executive||geographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37388",
@@ -51,7 +60,25 @@
     "sitelinks": "186",
     "description": "English philosopher and statesman (1561–1626)",
     "nationalityLabel": "English",
-    "occupationLabel": "judge||scientist||politician||jurist||astrologer||lawyer||writer||historian||philosopher"
+    "occupationLabel": "scientist||author||astrologer||politician||philosopher||lawyer||jurist||judge||historian"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9095",
+    "itemLabel": "James Clerk Maxwell",
+    "year": "1879",
+    "sitelinks": "160",
+    "description": "Scottish physicist (1831–1879)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "scientist||photographer||teacher||physicist||mathematician||inventor||thermodynamicist||university teacher||theoretical physicist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34286",
+    "itemLabel": "Alexander Graham Bell",
+    "year": "1922",
+    "sitelinks": "160",
+    "description": "Canadian-American scientist inventor of telephone (1847–1922)",
+    "nationalityLabel": "British||Briton||American||Americans",
+    "occupationLabel": "engineer||scientist||professor||physicist||inventor||businessperson||teacher of the deaf||physiologist||electrical engineer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48301",
@@ -59,8 +86,8 @@
     "year": "1976",
     "sitelinks": "147",
     "description": "German philosopher (1889–1976)",
-    "nationalityLabel": "West German||Weimar Republic||Nazi Germany||German",
-    "occupationLabel": "poet||scientist||philosopher||university teacher"
+    "nationalityLabel": "West German||Nazi Germany||Weimar Republic||German",
+    "occupationLabel": "scientist||philosopher||poet||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36488",
@@ -69,7 +96,7 @@
     "sitelinks": "129",
     "description": "Italian inventor and radio pioneer (1874-1937)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "engineer||scientist||politician||physicist||businessperson||inventor"
+    "occupationLabel": "engineer||scientist||politician||physicist||inventor||businessperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132537",
@@ -78,34 +105,43 @@
     "sitelinks": "129",
     "description": "American theoretical physicist, known as \"father of the atomic bomb\" (1904–1967)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "engineer||scientist||physicist||art collector||nuclear physicist||theoretical physicist||university teacher||science administrator"
+    "occupationLabel": "engineer||scientist||physicist||science administrator||art collector||university teacher||nuclear physicist||theoretical physicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47480",
-    "itemLabel": "Paul Dirac",
+    "itemLabel": "Paul Adrien Maurice Dirac",
     "year": "1984",
     "sitelinks": "123",
     "description": "British theoretical physicist (1902–1984)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "engineer||professor||scientist||teacher||physicist||mathematician||academic||educator||theoretical physicist"
+    "occupationLabel": "engineer||scientist||academic||professor||teacher||physicist||mathematician||educator||theoretical physicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58978",
     "itemLabel": "Max Born",
     "year": "1970",
     "sitelinks": "120",
-    "description": "German-Jewish physicist and mathematician (1882-1970)",
+    "description": "German-Jewish physicist and mathematician (1882–1970)",
     "nationalityLabel": "German||British||Briton",
     "occupationLabel": "scientist||physicist||mathematician||university teacher||theoretical physicist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151403",
+    "itemLabel": "Thomas Carlyle",
+    "year": "1881",
+    "sitelinks": "118",
+    "description": "Scottish essayist, historian and philosopher (1795–1881)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "scientist||author||teacher||literary critic||philosopher||mathematician||novelist||literary historian||historian||essayist||translator||linguist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58720",
     "itemLabel": "Mikhail Lomonosov",
     "year": "1765",
-    "sitelinks": "108",
+    "sitelinks": "109",
     "description": "Russian polymath (1711-1765)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "poet||astronomer||scientist||politician||physicist||mathematician||writer||polymath||chemist||historian||mosaicist||translator||inventor||geologist||philosopher||geographer||linguist||painter||university teacher"
+    "occupationLabel": "astronomer||scientist||author||politician||physicist||philosopher||mathematician||inventor||mosaicist||polymath||geologist||historian||translator||poet||linguist||chemist||scholar||university teacher||painter||geographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83333",
@@ -114,7 +150,16 @@
     "sitelinks": "108",
     "description": "American molecular biologist, geneticist, zoologist and Nobel Laureate (1928–2025)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||physicist||writer||chemist||academic||zoologist||biologist||biophysicist||biochemist||molecular biologist||university teacher||geneticist"
+    "occupationLabel": "scientist||biochemist||geneticist||academic||author||physicist||Nobel Prize winner||zoologist||biophysicist||biologist||chemist||molecular biologist||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41239",
+    "itemLabel": "Konstantin Tsiolkovsky",
+    "year": "1935",
+    "sitelinks": "104",
+    "description": "Russian and Soviet rocket scientist and pioneer of the astronautic theory (1857-1935)",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian Republic||Russian||Soviet",
+    "occupationLabel": "astronomer||scientist||cosmologist||author||teacher||military flight engineer||philosopher||physicist||mathematician||inventor||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185007",
@@ -123,25 +168,16 @@
     "sitelinks": "104",
     "description": "Italian neurologist (1909–2012)",
     "nationalityLabel": "Italian||American||Americans",
-    "occupationLabel": "scientist||politician||physician||neuroscientist||neurologist||biochemist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41239",
-    "itemLabel": "Konstantin Tsiolkovsky",
-    "year": "1935",
-    "sitelinks": "103",
-    "description": "Russian and Soviet rocket scientist and pioneer of the astronautic theory (1857-1935)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian Republic||Russian||Soviet",
-    "occupationLabel": "astronomer||scientist||teacher||physicist||mathematician||writer||inventor||philosopher||military flight engineer||science fiction writer||cosmologist"
+    "occupationLabel": "scientist||biochemist||politician||physician||docent||neuroscientist||neurologist||neurobiologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57100",
-    "itemLabel": "Maria Goeppert Mayer",
+    "itemLabel": "Maria Göppert Mayer",
     "year": "1972",
     "sitelinks": "101",
     "description": "German-born American theoretical physicist (1906-1972)",
     "nationalityLabel": "German||American||Americans",
-    "occupationLabel": "scientist||physicist||nuclear physicist||university teacher"
+    "occupationLabel": "scientist||physicist||university teacher||nuclear physicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12735",
@@ -150,7 +186,34 @@
     "sitelinks": "98",
     "description": "Czech teacher, educator, philosopher and writer (1592-1670)",
     "nationalityLabel": "Habsburg monarchy",
-    "occupationLabel": "bishop||scientist||politician||teacher||missionary||writer||historian||archivist||presbyter||philosopher||pedagogue||theologian||linguist"
+    "occupationLabel": "scientist||bishop||author||teacher||politician||philosopher||historian||missionary||archivist||linguist||pedagogue||presbyter||theologian||cartographer||geographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q77888",
+    "itemLabel": "Wilhelm von Humboldt",
+    "year": "1835",
+    "sitelinks": "96",
+    "description": "Prussian philosopher, government official, diplomat, and educator (1767–1835)",
+    "nationalityLabel": "Prussian",
+    "occupationLabel": "scientist||author||teacher||politician||philosopher||diplomat||anthropologist||historian||translator||linguist||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155794",
+    "itemLabel": "Hans Bethe",
+    "year": "2005",
+    "sitelinks": "94",
+    "description": "German-American nuclear physicist",
+    "nationalityLabel": "German||American||Americans",
+    "occupationLabel": "scientist||physicist||university teacher||nuclear physicist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q78496",
+    "itemLabel": "Konrad Zacharias Lorenz",
+    "year": "1989",
+    "sitelinks": "93",
+    "description": "Austrian zoologist, winner of the Nobel Prize in Physiology or Medicine in 1973 (1903–1989)",
+    "nationalityLabel": "Austrian",
+    "occupationLabel": "scientist||naturalist||director||author||physician||philosopher||psychologist||zoologist||ethologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q62891",
@@ -162,13 +225,31 @@
     "occupationLabel": "scientist||physicist||inventor||university teacher"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q185832",
+    "itemLabel": "Emmanuel Swedenborg",
+    "year": "1772",
+    "sitelinks": "87",
+    "description": "Swedish 18th century scientist and theologian (1688-1772)",
+    "nationalityLabel": "Swedish",
+    "occupationLabel": "scientist||author||philosopher||physicist||mathematician||inventor||mystic||poet||theologian"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76425",
+    "itemLabel": "Emil von Behring",
+    "year": "1917",
+    "sitelinks": "87",
+    "description": "German physiologist who received the first Nobel Prize in Physiology or Medicine 1901 for his discovery of a diphtheria antitoxin",
+    "nationalityLabel": "German||Prussian",
+    "occupationLabel": "scientist||physician||bacteriologist||immunologist||university teacher||non-fiction writer||physiologist"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q102289",
     "itemLabel": "Buckminster Fuller",
     "year": "1983",
     "sitelinks": "87",
     "description": "American architect, systems theorist, author, designer, inventor and futurist (1895–1983)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "poet||engineer||scientist||mathematician||writer||visual artist||architect||artist||designer||inventor||philosopher||university teacher||diarist"
+    "occupationLabel": "engineer||scientist||visual artist||author||philosopher||mathematician||inventor||architect||designer||poet||artist||diarist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104668",
@@ -177,34 +258,34 @@
     "sitelinks": "87",
     "description": "Russian physicist (1916–2009)",
     "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "scientist||physicist||inventor||astrophysicist||theoretical physicist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q185832",
-    "itemLabel": "Emmanuel Swedenborg",
-    "year": "1772",
-    "sitelinks": "86",
-    "description": "Swedish 18th century scientist and theologian (1688–1772)",
-    "nationalityLabel": "Swedish",
-    "occupationLabel": "poet||scientist||physicist||mathematician||writer||inventor||mystic||philosopher||theologian"
+    "occupationLabel": "scientist||physicist||inventor||university teacher||theoretical physicist||astrophysicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182046",
     "itemLabel": "Leon Battista Alberti",
     "year": "1472",
-    "sitelinks": "85",
+    "sitelinks": "86",
     "description": "Italian architect and writer (1404-1472)",
     "nationalityLabel": "Republic of Genoa",
-    "occupationLabel": "poet||scientist||mathematician||writer||architect||artist||official||playwright||philosopher||sculptor||organist||cryptographer||musicologist||humanist||linguist||painter||architectural theoretician||music theorist||medalist||athlete||art theorist"
+    "occupationLabel": "scientist||author||humanist||philosopher||mathematician||architect||diplomat||playwright||cryptographer||official||musicologist||poet||linguist||organist||artist||art theorist||architectural theoretician||music theorist||painter||sculptor||medalist||art historian||athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q60024",
     "itemLabel": "Hermann von Helmholtz",
     "year": "1894",
-    "sitelinks": "84",
+    "sitelinks": "85",
     "description": "German physicist and physiologist (1821-1894)",
     "nationalityLabel": "German||Prussian",
-    "occupationLabel": "scientist||naturalist||physicist||psychologist||philosopher||military physician||ophthalmologist||biophysicist||musicologist||anatomist||physiologist||music theorist||university teacher||pathologist"
+    "occupationLabel": "scientist||pathologist||naturalist||military physician||physicist||philosopher||psychologist||anatomist||ophthalmologist||biophysicist||musicologist||university teacher||music theorist||physiologist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170842",
+    "itemLabel": "Sergei Korolev",
+    "year": "1966",
+    "sitelinks": "82",
+    "description": "Soviet rocket engineer and spacecraft designer (1907-1966)",
+    "nationalityLabel": "Soviet",
+    "occupationLabel": "engineer||scientist||military flight engineer||physicist||military personnel||university teacher||design engineer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q101740",
@@ -212,17 +293,26 @@
     "year": "2010",
     "sitelinks": "82",
     "description": "Polish-born, French and American mathematician (1924–2010)",
-    "nationalityLabel": "French||American||Americans||Polish",
-    "occupationLabel": "computer scientist||engineer||scientist||professor||economist||mathematician||writer||university teacher"
+    "nationalityLabel": "French||Polish||American||Americans",
+    "occupationLabel": "computer scientist||engineer||scientist||professor||author||mathematician||economist||university teacher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170842",
-    "itemLabel": "Sergei Korolev",
-    "year": "1966",
-    "sitelinks": "81",
-    "description": "Soviet rocket engineer and spacecraft designer (1907-1966)",
-    "nationalityLabel": "Soviet",
-    "occupationLabel": "engineer||scientist||physicist||military personnel||military flight engineer||university teacher||design engineer"
+    "item": "http://www.wikidata.org/entity/Q150630",
+    "itemLabel": "Camillo Golgi",
+    "year": "1926",
+    "sitelinks": "80",
+    "description": "Italian physician, pathologist, scientist, and Nobel laureate (1843-1926)",
+    "nationalityLabel": "Sardinian||Italian||Austrian",
+    "occupationLabel": "scientist||pathologist||professor||politician||physician||Nobel Prize winner||anatomist||neurologist||cell biologist||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150989",
+    "itemLabel": "Frédéric Joliot-Curie",
+    "year": "1958",
+    "sitelinks": "80",
+    "description": "French scientist (1900-1958)",
+    "nationalityLabel": "French",
+    "occupationLabel": "scientist||professor||actor||politician||physicist||chemist||university teacher||nuclear physicist||French resistance fighter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179825",
@@ -231,16 +321,7 @@
     "sitelinks": "79",
     "description": "Algerian religious and military leader (1808–1883)",
     "nationalityLabel": "",
-    "occupationLabel": "poet||scientist||politician||mujahid||writer||soldier||resistance fighter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q150630",
-    "itemLabel": "Camillo Golgi",
-    "year": "1926",
-    "sitelinks": "79",
-    "description": "Italian physician, pathologist, scientist, and Nobel laureate (1843-1926)",
-    "nationalityLabel": "Sardinian||Italian||Austrian",
-    "occupationLabel": "scientist||professor||politician||physician||neurologist||biologist||anatomist||cell biologist||university teacher||pathologist"
+    "occupationLabel": "scientist||Amir||author||politician||soldier||mujahid||poet||theologian||resistance fighter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103835",
@@ -249,7 +330,25 @@
     "sitelinks": "78",
     "description": "Dutch-American physicist and physical chemist (1884–1966)",
     "nationalityLabel": "Dutch||American||Americans",
-    "occupationLabel": "engineer||scientist||physicist||chemist||crystallographer||theoretical physicist||university teacher"
+    "occupationLabel": "engineer||scientist||physicist||plasma physicist||crystallographer||chemist||university teacher||theoretical physicist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168041",
+    "itemLabel": "Zbigniew Brzezinski",
+    "year": "2017",
+    "sitelinks": "76",
+    "description": "Polish-American diplomat and political scientist (1928–2017)",
+    "nationalityLabel": "Polish||American||Americans",
+    "occupationLabel": "scientist||politician||strategist||film actor||critic||author||pedagogue||geopolitical analyst||political scientist||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186042",
+    "itemLabel": "John Kenneth Galbraith",
+    "year": "2006",
+    "sitelinks": "75",
+    "description": "Canadian-American economist and diplomat (1908–2006)",
+    "nationalityLabel": "American||Americans||Canadian||Canadians",
+    "occupationLabel": "scientist||ambassador||author||politician||novelist||diplomat||economist||university teacher||non-fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178577",
@@ -258,7 +357,7 @@
     "sitelinks": "74",
     "description": "American mathematician, scientist in cybernetics and artificial intelligence (1894–1964)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "computer scientist||scientist||mathematician||psychologist||founder||autobiographer||university teacher"
+    "occupationLabel": "computer scientist||scientist||founder||mathematician||psychologist||university teacher||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q302835",
@@ -266,8 +365,17 @@
     "year": "1274",
     "sitelinks": "73",
     "description": "Persian astronomer (1201–1274)",
-    "nationalityLabel": "Assassin||Batini||Ismaili||Nizari||Hashashshin||Nizari Ismaili||Khwarazmian Empire||Ilkhanate||Abbasid Caliphate",
-    "occupationLabel": "poet||scientist||marji'||astronomer||politician||physician||mathematician||writer||architect||polymath||translator||philosopher||da'i||Islamic jurist||sage"
+    "nationalityLabel": "Khwarazmian Empire||Assassin||Batini||Ismaili||Nizari||Hashashshin||Nizari Ismaili||Ilkhanate||Abbasid Caliphate",
+    "occupationLabel": "astronomer||scientist||marji'||author||politician||intellectual||physician||philosopher||mathematician||architect||polymath||translator||poet||theologian||Islamic jurist||sage"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q227897",
+    "itemLabel": "Johann Bernoulli",
+    "year": "1748",
+    "sitelinks": "73",
+    "description": "Swiss mathematician (1667-1748)",
+    "nationalityLabel": "Swiss",
+    "occupationLabel": "scientist||physician||physicist||mathematician||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16389",
@@ -276,16 +384,16 @@
     "sitelinks": "73",
     "description": "Hong Kong-British-American physicist",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "entrepreneur||scientist||physicist||inventor||electrical engineer||executive||university teacher"
+    "occupationLabel": "scientist||entrepreneur||physicist||inventor||university teacher||executive||electrical engineer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q227897",
-    "itemLabel": "Johann Bernoulli",
-    "year": "1748",
+    "item": "http://www.wikidata.org/entity/Q1673706",
+    "itemLabel": "Isamu Akasaki",
+    "year": "2021",
     "sitelinks": "72",
-    "description": "Swiss mathematician (1667-1748)",
-    "nationalityLabel": "Swiss",
-    "occupationLabel": "scientist||physicist||physician||mathematician||university teacher"
+    "description": "Japanese engineer (1929-2021)",
+    "nationalityLabel": "Empire of Japan||Japanese",
+    "occupationLabel": "engineer||scientist||professor||physicist||university teacher||electrotechnician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q106399",
@@ -294,25 +402,34 @@
     "sitelinks": "71",
     "description": "American biochemist (1891-1987)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||chemist||biochemist||university teacher"
+    "occupationLabel": "scientist||biochemist||chemist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234888",
     "itemLabel": "Vera Rubin",
     "year": "2016",
-    "sitelinks": "70",
+    "sitelinks": "71",
     "description": "American astronomer and physicist (1928-2016)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||astronomer||physicist"
+    "occupationLabel": "astronomer||scientist||physicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192688",
     "itemLabel": "Ivar Giæver",
     "year": "2025",
-    "sitelinks": "70",
+    "sitelinks": "71",
     "description": "Norwegian-American physicist",
     "nationalityLabel": "American||Americans||Norwegian",
     "occupationLabel": "engineer||scientist||physicist||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192496",
+    "itemLabel": "Robert Fulton",
+    "year": "1815",
+    "sitelinks": "69",
+    "description": "American engineer and inventor (1765–1815)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "engineer||scientist||inventor||technician||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q123089",
@@ -321,16 +438,34 @@
     "sitelinks": "69",
     "description": "French-Swiss politician, writer on politics and religion (1767-1830)",
     "nationalityLabel": "French||Swiss",
-    "occupationLabel": "scientist||politician||writer||philosopher||diarist"
+    "occupationLabel": "scientist||author||politician||philosopher||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182964",
     "itemLabel": "Niels Ryberg Finsen",
     "year": "1904",
-    "sitelinks": "68",
+    "sitelinks": "69",
     "description": "Faroese physician and scientist of Icelandic descent",
     "nationalityLabel": "Danish||dane||danes",
     "occupationLabel": "scientist||physician||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57192",
+    "itemLabel": "Gerhard Domagk",
+    "year": "1964",
+    "sitelinks": "69",
+    "description": "German bacteriologist (1895-1964)",
+    "nationalityLabel": "German",
+    "occupationLabel": "scientist||biochemist||pathologist||physician||bacteriologist||chemist||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q73058",
+    "itemLabel": "Willard Boyle",
+    "year": "2011",
+    "sitelinks": "69",
+    "description": "Canadian physicist and inventor (1924–2011)",
+    "nationalityLabel": "American||Americans||Canadian||Canadians",
+    "occupationLabel": "scientist||photographer||physicist||inventor||executive"
   },
   {
     "item": "http://www.wikidata.org/entity/Q115490",
@@ -339,25 +474,16 @@
     "sitelinks": "68",
     "description": "Polish-Swiss chemist (1897-1996)",
     "nationalityLabel": "Swiss||Polish",
-    "occupationLabel": "scientist||physician||chemist||botanist||university teacher||botanical collector"
+    "occupationLabel": "scientist||physician||ordinary professor||chemist||university teacher||botanical collector||botanist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q73058",
-    "itemLabel": "Willard Boyle",
-    "year": "2011",
-    "sitelinks": "68",
-    "description": "Canadian physicist and inventor (1924–2011)",
-    "nationalityLabel": "American||Americans||Canadian||Canadians",
-    "occupationLabel": "scientist||photographer||physicist||inventor||executive"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192496",
-    "itemLabel": "Robert Fulton",
-    "year": "1815",
+    "item": "http://www.wikidata.org/entity/Q107609",
+    "itemLabel": "Christiaan Eijkman",
+    "year": "1930",
     "sitelinks": "67",
-    "description": "American engineer and inventor (1765–1815)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "engineer||scientist||inventor||painter"
+    "description": "Dutch physician (1858–1930)",
+    "nationalityLabel": "Dutch",
+    "occupationLabel": "scientist||biochemist||pathologist||physician||bacteriologist||university teacher||physiologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q153238",
@@ -366,7 +492,7 @@
     "sitelinks": "67",
     "description": "Hungarian-American Jewish physicist and inventor (1898–1964)",
     "nationalityLabel": "German||American||Americans||Hungarian",
-    "occupationLabel": "scientist||physicist||inventor||nuclear physicist||science fiction writer||molecular biologist||university teacher"
+    "occupationLabel": "scientist||physicist||inventor||molecular biologist||science fiction writer||university teacher||nuclear physicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156201",
@@ -374,26 +500,35 @@
     "year": "1982",
     "sitelinks": "66",
     "description": "Russian linguist (1896–1982)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Czechoslovak||Soviet||American||Americans",
-    "occupationLabel": "scientist||teacher||writer||historian||critic||pedagogue||philologist||linguist||literary scholar||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q164396",
-    "itemLabel": "Victor Ambartsumian",
-    "year": "1996",
-    "sitelinks": "66",
-    "description": "Soviet Armenian astrophysicist (1908–1996)",
-    "nationalityLabel": "Russian||Soviet||Armenian",
-    "occupationLabel": "scientist||astronomer||politician||astrophysicist"
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Czechoslovak||Russian||Soviet||American||Americans",
+    "occupationLabel": "scientist||author||teacher||critic||historian||linguist||pedagogue||philologist||literary scholar||slavist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76373",
     "itemLabel": "George E. Smith",
     "year": "2025",
-    "sitelinks": "65",
+    "sitelinks": "66",
     "description": "Nobel prize winning American physicist",
     "nationalityLabel": "American||Americans",
     "occupationLabel": "scientist||photographer||physicist||inventor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164396",
+    "itemLabel": "Victor Ambartsumian",
+    "year": "1996",
+    "sitelinks": "65",
+    "description": "Soviet Armenian astrophysicist (1908–1996)",
+    "nationalityLabel": "Russian||Armenian||Soviet",
+    "occupationLabel": "astronomer||scientist||politician||astrophysicist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156379",
+    "itemLabel": "Yury Luzhkov",
+    "year": "2019",
+    "sitelinks": "65",
+    "description": "Russian politician (1936–2019)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "engineer||scientist||mayor||politician||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157701",
@@ -402,16 +537,7 @@
     "sitelinks": "64",
     "description": "Czech chemist (1890-1967)",
     "nationalityLabel": "Czechoslovak",
-    "occupationLabel": "scientist||teacher||physicist||chemist||inventor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156379",
-    "itemLabel": "Yury Luzhkov",
-    "year": "2019",
-    "sitelinks": "64",
-    "description": "Russian politician (1936–2019)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "scientist||politician||statesperson"
+    "occupationLabel": "scientist||teacher||physicist||inventor||chemist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q60095",
@@ -420,7 +546,25 @@
     "sitelinks": "63",
     "description": "German scientist, inventor, and politician (1602-1686)",
     "nationalityLabel": "German",
-    "occupationLabel": "engineer||scientist||politician||jurist||physicist||inventor||instrument maker"
+    "occupationLabel": "engineer||scientist||mayor||politician||physicist||inventor||jurist||diplomat||instrument maker"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76997",
+    "itemLabel": "Moses Mendelssohn",
+    "year": "1786",
+    "sitelinks": "63",
+    "description": "German-Jewish philosopher and theologian (1729–1786)",
+    "nationalityLabel": "German",
+    "occupationLabel": "scientist||author||philosopher||translator||literary scholar||Bible translator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60060",
+    "itemLabel": "Karl von Frisch",
+    "year": "1982",
+    "sitelinks": "63",
+    "description": "German-Austrian ethologist (1886-1982)",
+    "nationalityLabel": "Austrian",
+    "occupationLabel": "scientist||entomologist||zoologist||ethologist||biologist||university teacher||beekeeper"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157250",
@@ -432,13 +576,13 @@
     "occupationLabel": "scientist||chemist||university teacher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q310767",
-    "itemLabel": "Lazare Carnot",
-    "year": "1823",
+    "item": "http://www.wikidata.org/entity/Q234357",
+    "itemLabel": "Stanisław Ulam",
+    "year": "1984",
     "sitelinks": "62",
-    "description": "French political, engineering and mathematical figure (1753–1823)",
-    "nationalityLabel": "French",
-    "occupationLabel": "poet||engineer||military engineer||scientist||politician||physicist||mathematician||military officer||general contractor"
+    "description": "Polish-American mathematician",
+    "nationalityLabel": "Kingdom of Galicia and Lodomeria||Polish||American||Americans",
+    "occupationLabel": "scientist||author||physicist||mathematician||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q450317",
@@ -446,8 +590,26 @@
     "year": "1997",
     "sitelinks": "62",
     "description": "Chinese-American physicist (1912–1997) (death at 85 years)",
-    "nationalityLabel": "Chinese||Taiwan||Taiwanese||taiwanese||American||Americans",
-    "occupationLabel": "scientist||physicist||nuclear physicist||university teacher"
+    "nationalityLabel": "Chinese||taiwanese||Taiwanese||Taiwan||American||Americans",
+    "occupationLabel": "scientist||physicist||university teacher||nuclear physicist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310767",
+    "itemLabel": "Lazare Carnot",
+    "year": "1823",
+    "sitelinks": "61",
+    "description": "French political, engineering and mathematical figure (1753–1823)",
+    "nationalityLabel": "French",
+    "occupationLabel": "engineer||scientist||military engineer||politician||physicist||mathematician||general contractor||military officer||poet"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153890",
+    "itemLabel": "Niko Tinbergen",
+    "year": "1988",
+    "sitelinks": "61",
+    "description": "Dutch Zoologist, ethologist (1907-1988)",
+    "nationalityLabel": "Dutch||British||Briton",
+    "occupationLabel": "scientist||photographer||zoologist||ethologist||biologist||university teacher||ornithologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q106746",
@@ -459,22 +621,13 @@
     "occupationLabel": "scientist||professor||chemist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q153890",
-    "itemLabel": "Niko Tinbergen",
-    "year": "1988",
-    "sitelinks": "60",
-    "description": "Dutch Zoologist, ethologist (1907-1988)",
-    "nationalityLabel": "Dutch||British||Briton",
-    "occupationLabel": "scientist||photographer||zoologist||biologist||ornithologist||ethologist||university teacher"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q152298",
     "itemLabel": "Gherman Titov",
     "year": "2000",
     "sitelinks": "60",
     "description": "Soviet cosmonaut (1935-2000)",
     "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "scientist||astronaut||politician||military personnel||writer||aircraft pilot"
+    "occupationLabel": "scientist||author||politician||astronaut||military personnel||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q328782",
@@ -483,7 +636,7 @@
     "sitelinks": "59",
     "description": "Persian physician and historian (1247-1318)",
     "nationalityLabel": "Ilkhanate",
-    "occupationLabel": "scientist||politician||physician||historian||inventor"
+    "occupationLabel": "scientist||politician||physician||inventor||historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q210898",
@@ -492,7 +645,7 @@
     "sitelinks": "59",
     "description": "English scientist (1919–2022)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "scientist||environmentalist||chemist||biologist||futurist||ecologist||science fiction writer||biochemist||autobiographer||university teacher||independent scientist||mythographer"
+    "occupationLabel": "scientist||biochemist||environmentalist||physician||independent scientist||ecologist||biophysicist||chemist||futurist||science fiction writer||university teacher||autobiographer||mythographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q205981",
@@ -509,8 +662,8 @@
     "year": "1945",
     "sitelinks": "58",
     "description": "German physicist (1882–1945)",
-    "nationalityLabel": "German||Weimar Republic||Nazi Germany",
-    "occupationLabel": "scientist||physicist||inventor||nuclear physicist||university teacher||laboratory director"
+    "nationalityLabel": "Nazi Germany||German||Weimar Republic",
+    "occupationLabel": "scientist||physicist||inventor||university teacher||nuclear physicist||laboratory director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313211",
@@ -518,8 +671,17 @@
     "year": "1932",
     "sitelinks": "57",
     "description": "Brazilian aviation pioneer (1873-1932)",
-    "nationalityLabel": "Brazilian||Brazilians||French",
+    "nationalityLabel": "French||Brazilian||Brazilians",
     "occupationLabel": "scientist||inventor||balloonist||aircraft pilot"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58632",
+    "itemLabel": "Hans Eysenck",
+    "year": "1997",
+    "sitelinks": "57",
+    "description": "British psychologist (1916–1997)",
+    "nationalityLabel": "German||British||Briton",
+    "occupationLabel": "scientist||psychologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q110106",
@@ -527,26 +689,35 @@
     "year": "2004",
     "sitelinks": "56",
     "description": "American biochemist (1912–2004)",
-    "nationalityLabel": "American||Americans||Polish",
-    "occupationLabel": "scientist||chemist||neuroscientist||biochemist||pharmacologist"
+    "nationalityLabel": "Polish||American||Americans",
+    "occupationLabel": "scientist||biochemist||neuroscientist||chemist||pharmacologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q903471",
     "itemLabel": "Martin Karplus",
     "year": "2024",
-    "sitelinks": "54",
+    "sitelinks": "55",
     "description": "Austrian-born American theoretical chemist (1930–2024)",
     "nationalityLabel": "Austrian||American||Americans",
-    "occupationLabel": "scientist||chemist||biophysicist||university teacher||theoretical chemist"
+    "occupationLabel": "scientist||biophysicist||chemist||university teacher||theoretical chemist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q268702",
     "itemLabel": "Mary Somerville",
     "year": "1872",
-    "sitelinks": "53",
+    "sitelinks": "54",
     "description": "Scottish scientist, writer and polymath (1780–1872)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "scientist||physicist||mathematician||writer||geologist"
+    "occupationLabel": "astronomer||scientist||author||physicist||mathematician||geologist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76892",
+    "itemLabel": "Friedrich Carl von Savigny",
+    "year": "1861",
+    "sitelinks": "53",
+    "description": "German jurist (1779-1861)",
+    "nationalityLabel": "Prussian",
+    "occupationLabel": "scientist||author||politician||philosopher||jurist||university teacher||legal historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q315266",
@@ -555,7 +726,7 @@
     "sitelinks": "53",
     "description": "Russian medical scientist (1810-1881)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "scientist||physician||surgeon||anatomist"
+    "occupationLabel": "scientist||physician||anatomist||surgeon"
   },
   {
     "item": "http://www.wikidata.org/entity/Q298427",
@@ -564,34 +735,34 @@
     "sitelinks": "52",
     "description": "Persian Seljuk scholar, politician, vizier and court official (1018–1092)",
     "nationalityLabel": "Seljuk Empire||Ghaznavid Empire||Abbasid Caliphate",
-    "occupationLabel": "scientist||politician||vizier||writer||statesperson||warrior"
+    "occupationLabel": "scientist||author||vizier||politician||statesperson||warrior"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311187",
-    "itemLabel": "Francesco Redi",
+    "itemLabel": "Frančesco Redi",
     "year": "1697",
     "sitelinks": "51",
-    "description": "Italian entomologist and poet",
+    "description": "Italian entomologist and poets",
     "nationalityLabel": "Grand Duchy of Tuscany",
-    "occupationLabel": "poet||naturalist||scientist||physician||biologist||parasitologist||painter||botanist||entomologist"
+    "occupationLabel": "scientist||naturalist||author||physician||entomologist||polymath||parasitologist||poet||painter||botanist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164384",
+    "itemLabel": "Theodore von Kármán",
+    "year": "1963",
+    "sitelinks": "50",
+    "description": "Hungarian-American mathematician, aerospace engineer and physicist (1881–1963)",
+    "nationalityLabel": "German||Weimar Republic||American||Americans||Hungarian",
+    "occupationLabel": "astronomer||scientist||military flight engineer||physicist||mathematician||inventor||aerospace engineer||university teacher||Idist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160196",
     "itemLabel": "Martin Heinrich Klaproth",
     "year": "1817",
     "sitelinks": "49",
-    "description": "German chemist",
+    "description": "German chemist (1743-1817)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "scientist||pharmacist||chemist||inventor||mineralogist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q164384",
-    "itemLabel": "Theodore von Kármán",
-    "year": "1963",
-    "sitelinks": "49",
-    "description": "Hungarian-American mathematician, aerospace engineer and physicist (1881–1963)",
-    "nationalityLabel": "German||Weimar Republic||American||Americans||Hungarian",
-    "occupationLabel": "scientist||astronomer||physicist||mathematician||inventor||military flight engineer||aerospace engineer||Idist||university teacher"
+    "occupationLabel": "scientist||pharmacist||inventor||mineralogist||chemist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q294169",
@@ -600,7 +771,7 @@
     "sitelinks": "48",
     "description": "chemist, physiologist, and physician from the Spanish Low Countries",
     "nationalityLabel": "Hispanic Monarchy",
-    "occupationLabel": "scientist||physicist||physician||writer||chemist||philosopher||physician writer||physiologist||alchemist"
+    "occupationLabel": "scientist||author||physician||philosopher||physicist||physician writer||chemist||alchemist||physiologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q237220",
@@ -609,7 +780,25 @@
     "sitelinks": "48",
     "description": "American academic, explorer, treasure hunter and politician (1875–1956)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||politician||writer||archaeologist||explorer||university teacher||aircraft pilot"
+    "occupationLabel": "scientist||archaeologist||governor||author||politician||historian||explorer||university teacher||aircraft pilot"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q442231",
+    "itemLabel": "Marie Stopes",
+    "year": "1958",
+    "sitelinks": "48",
+    "description": "British birth control campaigner and paleontologist (1880-1958)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "scientist||sexologist||author||suffragette||curator||scientific collector||paleontologist||feminist||botanical collector||botanist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2655",
+    "itemLabel": "John Franklin",
+    "year": "1847",
+    "sitelinks": "47",
+    "description": "British naval officer and explorer (1786–1847)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "scientist||naval officer||explorer||polar explorer||Konteradmiral||lieutenant governor||botanist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q214549",
@@ -618,7 +807,7 @@
     "sitelinks": "47",
     "description": "French mathematician and engineer (1809–1882)",
     "nationalityLabel": "French",
-    "occupationLabel": "engineer||scientist||astronomer||professor||politician||mathematician||university teacher"
+    "occupationLabel": "engineer||astronomer||scientist||professor||politician||mathematician||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207325",
@@ -627,25 +816,25 @@
     "sitelinks": "45",
     "description": "German mathematician",
     "nationalityLabel": "Russian||Prussian",
-    "occupationLabel": "scientist||mathematician||executive||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q310773",
-    "itemLabel": "Abdul Qadeer Khan",
-    "year": "2021",
-    "sitelinks": "44",
-    "description": "Pakistani nuclear engineer (1936–2021)",
-    "nationalityLabel": "Dominion of India||Pakistani||Indian",
-    "occupationLabel": "engineer||scientist||physicist||academic||nuclear physicist||metallurgist||theoretical physicist"
+    "occupationLabel": "scientist||mathematician||university teacher||executive"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26879",
     "itemLabel": "Melvil Dewey",
     "year": "1931",
-    "sitelinks": "42",
+    "sitelinks": "43",
     "description": "American librarian (1851–1931)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||librarian||teacher||journalist"
+    "occupationLabel": "scientist||teacher||librarian||editor||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213672",
+    "itemLabel": "Wolfgang Köhler",
+    "year": "1967",
+    "sitelinks": "43",
+    "description": "German-American psychologist and phenomenologist (1887-1967)",
+    "nationalityLabel": "Russian||German||American||Americans",
+    "occupationLabel": "scientist||director||philosopher||film producer||psychologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q318126",
@@ -654,7 +843,7 @@
     "sitelinks": "42",
     "description": "Estonian astronomer and astrophysicist (1893-1985)",
     "nationalityLabel": "Russian||Estonian||British||Briton",
-    "occupationLabel": "scientist||astronomer||composer||astrophysicist||university teacher"
+    "occupationLabel": "astronomer||scientist||composer||university teacher||astrophysicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q317149",
@@ -675,13 +864,31 @@
     "occupationLabel": "scientist||mathematician||university teacher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q128823",
-    "itemLabel": "John Ambrose Fleming",
-    "year": "1945",
+    "item": "http://www.wikidata.org/entity/Q57684",
+    "itemLabel": "Hermann Lotze",
+    "year": "1881",
+    "sitelinks": "41",
+    "description": "German philosopher (1817-1881)",
+    "nationalityLabel": "Kingdom of Saxony",
+    "occupationLabel": "scientist||author||physician||philosopher||anthropologist||psychologist||logician||university teacher||physiologist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q359568",
+    "itemLabel": "Vladimir A. Obruchev",
+    "year": "1956",
     "sitelinks": "40",
-    "description": "English electrical engineer and physicist (1849-1945)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "scientist||physicist||inventor||electrical engineer||university teacher"
+    "description": "Russian and Soviet geologist and writer (1863–1956)",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Don Republic||Russian Republic||Russian||Soviet",
+    "occupationLabel": "scientist||author||children's writer||geologist||explorer||science fiction writer||university teacher||paleontologist||geographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q560847",
+    "itemLabel": "Jim Simons",
+    "year": "2024",
+    "sitelinks": "40",
+    "description": "American mathematician and hedge fund manager (1938–2024)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "scientist||mathematician||businessperson||cryptographer||philanthropist||financial adviser||university teacher||financier"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57501",
@@ -690,16 +897,7 @@
     "sitelinks": "39",
     "description": "German philosopher (1655-1728)",
     "nationalityLabel": "Electorate of Saxony",
-    "occupationLabel": "scientist||jurist||writer||philosopher||journalist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q359568",
-    "itemLabel": "Vladimir A. Obruchev",
-    "year": "1956",
-    "sitelinks": "39",
-    "description": "Russian and Soviet geologist and writer (1863–1956)",
-    "nationalityLabel": "Don Republic||Russian Socialist Federative Soviet Republic||Russian Republic||Russian||Soviet",
-    "occupationLabel": "scientist||writer||children's writer||geologist||geographer||explorer||science fiction writer||paleontologist||university teacher"
+    "occupationLabel": "scientist||author||philosopher||independent publisher||jurist||university teacher||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q316310",
@@ -708,7 +906,7 @@
     "sitelinks": "39",
     "description": "Argentine-Cuban biochemistry doctor, writer, scientist and traveling companion of Che Guevara (1922-2011)",
     "nationalityLabel": "Colombian",
-    "occupationLabel": "scientist||screenwriter||pharmacist||physician||cinematographer||writer||film actor"
+    "occupationLabel": "scientist||biochemist||pharmacist||screenwriter||author||physician||film actor||cinematographer||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q366827",
@@ -726,7 +924,25 @@
     "sitelinks": "38",
     "description": "Russian engineer-polymath, scientist and architect (1853-1939)",
     "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "engineer||military engineer||scientist||photographer||physicist||architect||inventor"
+    "occupationLabel": "engineer||scientist||photographer||military engineer||physicist||inventor||architect||civil engineer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q432929",
+    "itemLabel": "Andrew Grove",
+    "year": "2016",
+    "sitelinks": "38",
+    "description": "Hungarian-born American businessman, engineer and author (1936–2016)",
+    "nationalityLabel": "American||Americans||Hungarian",
+    "occupationLabel": "engineer||scientist||professor||entrepreneur||author"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q348205",
+    "itemLabel": "Viktor Gorbatko",
+    "year": "2017",
+    "sitelinks": "38",
+    "description": "Soviet cosmonaut (1934-2017)",
+    "nationalityLabel": "Soviet||Russian",
+    "occupationLabel": "scientist||politician||astronaut||university teacher||aircraft pilot||philatelist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q372215",
@@ -735,16 +951,7 @@
     "sitelinks": "38",
     "description": "American astronaut (1932–2023)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "astronaut||entrepreneur||scientist||physicist||military officer||businessperson||merchant||fighter pilot||aircraft pilot"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q560847",
-    "itemLabel": "Jim Simons",
-    "year": "2024",
-    "sitelinks": "38",
-    "description": "American mathematician and hedge fund manager (1938–2024)",
-    "nationalityLabel": "Americans||American",
-    "occupationLabel": "scientist||mathematician||businessperson||philanthropist||financial adviser||cryptographer||financier||university teacher"
+    "occupationLabel": "scientist||entrepreneur||physicist||astronaut||businessperson||military officer||merchant||fighter pilot||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q289217",
@@ -756,13 +963,13 @@
     "occupationLabel": "scientist||photographer||physician||inventor||physiologist||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q432929",
-    "itemLabel": "Andrew Grove",
-    "year": "2016",
-    "sitelinks": "37",
-    "description": "Hungarian-born American businessman, engineer and author (1936–2016)",
-    "nationalityLabel": "American||Americans||Hungarian",
-    "occupationLabel": "engineer||entrepreneur||scientist||professor||writer"
+    "item": "http://www.wikidata.org/entity/Q503130",
+    "itemLabel": "Hunayn ibn Ishaq",
+    "year": "873",
+    "sitelinks": "36",
+    "description": "Arab Christian scholar, physician and scientist (809–873)",
+    "nationalityLabel": "Abbasid Caliphate",
+    "occupationLabel": "scientist||physician||philosopher||historian||translator||philologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q381039",
@@ -780,7 +987,7 @@
     "sitelinks": "36",
     "description": "English writer and antiquarian (1626-1697)",
     "nationalityLabel": "English",
-    "occupationLabel": "scientist||writer||anthropologist||historian||archaeologist||antiquarian||essayist||biographer||art historian"
+    "occupationLabel": "scientist||archaeologist||author||anthropologist||antiquarian||historian||essayist||scholar||biographer||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q323028",
@@ -792,13 +999,22 @@
     "occupationLabel": "scientist||mathematician||university teacher"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q548672",
+    "itemLabel": "Luigi Federico Menabrea",
+    "year": "1896",
+    "sitelinks": "36",
+    "description": "Italian politician, scientist, and general (1809–1896)",
+    "nationalityLabel": "Sardinian||Italian",
+    "occupationLabel": "computer scientist||engineer||scientist||professor||politician||mathematician||foreign minister||diplomat"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q377822",
     "itemLabel": "Per Teodor Cleve",
     "year": "1905",
     "sitelinks": "36",
     "description": "Swedish chemist who discovered holmium and thulium (1840-1905)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "scientist||oceanographer||chemist||geologist||zoologist||biologist||mineralogist||botanist||university teacher||botanical collector||scientific collector"
+    "occupationLabel": "scientist||oceanographer||zoologist||geologist||mineralogist||chemist||university teacher||scientific collector||botanical collector||botanist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q357154",
@@ -807,16 +1023,7 @@
     "sitelinks": "36",
     "description": "Swedish mathematician (1846–1927)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "entrepreneur||scientist||mathematician||editor||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q971382",
-    "itemLabel": "Aldo Leopold",
-    "year": "1948",
-    "sitelinks": "36",
-    "description": "American writer and scientist (1887-1948)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||naturalist||writer||environmentalist||philosopher||ecologist||forester||university teacher||botanical collector||forestry scientist"
+    "occupationLabel": "scientist||entrepreneur||mathematician||editor||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q453557",
@@ -837,22 +1044,31 @@
     "occupationLabel": "scientist||physician||blogger||university teacher||statistician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q503130",
-    "itemLabel": "Hunayn ibn Ishaq",
-    "year": "873",
-    "sitelinks": "35",
-    "description": "Arab Christian scholar, physician and scientist (809–873)",
-    "nationalityLabel": "Abbasid Caliphate",
-    "occupationLabel": "scientist||physician||historian||translator||philosopher"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q61038",
     "itemLabel": "Hermann Hankel",
     "year": "1873",
     "sitelinks": "35",
     "description": "German mathematician (1839–1873)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "scientist||mathematician||historian of mathematics||university teacher"
+    "occupationLabel": "scientist||mathematician||university teacher||historian of mathematics"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q78608",
+    "itemLabel": "Carl Djerassi",
+    "year": "2015",
+    "sitelinks": "35",
+    "description": "American chemistry professor, inventor, author, playwright (1923–2015)",
+    "nationalityLabel": "Austrian||Bulgarian||American||Americans",
+    "occupationLabel": "scientist||author||collector||playwright||chemist||science fiction writer||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58828",
+    "itemLabel": "Otto von Kotzebue",
+    "year": "1846",
+    "sitelinks": "34",
+    "description": "Baltic German explorer (1787–1846)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "scientist||military personnel||military officer||traveler||explorer||land owner"
   },
   {
     "item": "http://www.wikidata.org/entity/Q77124",
@@ -862,221 +1078,5 @@
     "description": "German scientist and inventor (1834–1874)",
     "nationalityLabel": "Prussian",
     "occupationLabel": "scientist||physicist||inventor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q78608",
-    "itemLabel": "Carl Djerassi",
-    "year": "2015",
-    "sitelinks": "34",
-    "description": "American chemistry professor, inventor, author, playwright (1923–2015)",
-    "nationalityLabel": "Bulgarian||Austrian||American||Americans",
-    "occupationLabel": "scientist||writer||chemist||playwright||science fiction writer||university teacher||collector"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q450757",
-    "itemLabel": "Nevil Maskelyne",
-    "year": "1811",
-    "sitelinks": "33",
-    "description": "fifth Astronomer Royal (*1765 – †1811)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "scientist||astronomer||mathematician||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q45124",
-    "itemLabel": "Hamza Hakimzade Niyazi",
-    "year": "1929",
-    "sitelinks": "33",
-    "description": "Uzbek screenwriter and poet (1889-1929)",
-    "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "poet||screenwriter||scientist||politician||composer||writer||playwright||novelist||political activist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q539093",
-    "itemLabel": "Annie Scott Dill Maunder",
-    "year": "1947",
-    "sitelinks": "33",
-    "description": "British astronomer (1868-1947)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "scientist||astronomer||mathematician||computer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q449487",
-    "itemLabel": "Florence R. Sabin",
-    "year": "1953",
-    "sitelinks": "33",
-    "description": "American medical scientist (1871–1953)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||physician||anatomist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3320231",
-    "itemLabel": "Margarita Salas",
-    "year": "2019",
-    "sitelinks": "33",
-    "description": "Spanish biochemist (1938-2019)",
-    "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "scientist||molecular geneticist||biochemist||molecular biologist||university teacher||geneticist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27122",
-    "itemLabel": "Luboš Kohoutek",
-    "year": "2023",
-    "sitelinks": "33",
-    "description": "Czech astronomer (1935–2023)",
-    "nationalityLabel": "Czechoslovak||Czech",
-    "occupationLabel": "astronomer||scientist||discoverer of asteroids"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q468351",
-    "itemLabel": "Axel Fredrik Cronstedt",
-    "year": "1765",
-    "sitelinks": "32",
-    "description": "Swedish mineralogist and chemist (1722-1765)",
-    "nationalityLabel": "Swedish",
-    "occupationLabel": "scientist||fortifications officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q431485",
-    "itemLabel": "Joseph-Nicolas Delisle",
-    "year": "1768",
-    "sitelinks": "32",
-    "description": "French astronomer",
-    "nationalityLabel": "Russian||French",
-    "occupationLabel": "scientist||astronomer||professor||physicist||oceanographer||translator||geographer||cartographer||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q350468",
-    "itemLabel": "J. Allen Hynek",
-    "year": "1986",
-    "sitelinks": "32",
-    "description": "American astronomer (1910–1986)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "scientist||astronomer||physicist||writer||astrophysicist||university teacher||ufologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q362819",
-    "itemLabel": "Aleksandr Serebrov",
-    "year": "2013",
-    "sitelinks": "32",
-    "description": "Soviet and Russian cosmonaut (1944–2013)",
-    "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "astronaut||scientist||military flight engineer||aerospace engineer||aircraft pilot"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4937352",
-    "itemLabel": "Bogaletch Gebre",
-    "year": "2019",
-    "sitelinks": "32",
-    "description": "Ethiopian scientist and activist",
-    "nationalityLabel": "Ethiopian",
-    "occupationLabel": "scientist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q548185",
-    "itemLabel": "Moshe Arens",
-    "year": "2019",
-    "sitelinks": "32",
-    "description": "Israeli diplomat, member of Knesset, and professor of aeronautics (1925-2019)",
-    "nationalityLabel": "Israeli||Israelis||American||Americans",
-    "occupationLabel": "engineer||entrepreneur||scientist||politician||diplomat||writer||opinion journalist||military flight engineer||aerospace engineer||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19629001",
-    "itemLabel": "Sidi Boushaki",
-    "year": "1453",
-    "sitelinks": "31",
-    "description": "Algerian theologian, exeget, linguist and sufi",
-    "nationalityLabel": "",
-    "occupationLabel": "scientist||imam||jurist||ulema||mufti||qāriʾ||science writer||khaṭīb||mufassir||Shaykh||linguist||Islamic jurist||Sufi||grammarian"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q364270",
-    "itemLabel": "Gustaf de Laval",
-    "year": "1913",
-    "sitelinks": "31",
-    "description": "Swedish engineer (1845-1913)",
-    "nationalityLabel": "Swedish",
-    "occupationLabel": "scientist||politician||businessperson||inventor||mechanical engineer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q596590",
-    "itemLabel": "Louis Nirenberg",
-    "year": "2020",
-    "sitelinks": "31",
-    "description": "American mathematician of Canadian origin (1925-2020)",
-    "nationalityLabel": "American||Americans||Canadian||Canadians",
-    "occupationLabel": "scientist||mathematician||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q379219",
-    "itemLabel": "Pierre Varignon",
-    "year": "1722",
-    "sitelinks": "30",
-    "description": "French mathematician",
-    "nationalityLabel": "French",
-    "occupationLabel": "scientist||professor||physicist||mathematician||Catholic priest||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q436039",
-    "itemLabel": "Thomas Addison",
-    "year": "1860",
-    "sitelinks": "30",
-    "description": "19th-century British physician and scientist",
-    "nationalityLabel": "British||Briton||English",
-    "occupationLabel": "scientist||physician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q77322",
-    "itemLabel": "Rudolf Lipschitz",
-    "year": "1903",
-    "sitelinks": "30",
-    "description": "German mathematician (1832-1903)",
-    "nationalityLabel": "Prussian",
-    "occupationLabel": "scientist||mathematician||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q275040",
-    "itemLabel": "Émile Coué",
-    "year": "1926",
-    "sitelinks": "30",
-    "description": "French psychologist and pharmacist (1857-1926)",
-    "nationalityLabel": "French",
-    "occupationLabel": "scientist||pharmacist||psychologist||psychoanalyst||psychotherapist||linguist||hypnotist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q437675",
-    "itemLabel": "Jane Ellen Harrison",
-    "year": "1928",
-    "sitelinks": "30",
-    "description": "British classical scholar, linguist and feminist (1850–1928)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "scientist||writer||anthropologist||essayist||linguist||university teacher||suffragist||classical scholar||art historian||mythographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q61745",
-    "itemLabel": "Walter Gerlach",
-    "year": "1979",
-    "sitelinks": "30",
-    "description": "German physicist (1889-1979)",
-    "nationalityLabel": "German",
-    "occupationLabel": "scientist||physicist||historian||nuclear physicist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93592",
-    "itemLabel": "Leo Kanner",
-    "year": "1981",
-    "sitelinks": "30",
-    "description": "Jewish-American physician and psychiatrist (1894-1981)",
-    "nationalityLabel": "Ukraine||American||Americans",
-    "occupationLabel": "scientist||physician||psychiatrist||child psychiatrist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q434805",
-    "itemLabel": "Augusto Boal",
-    "year": "2009",
-    "sitelinks": "30",
-    "description": "Brazilian writer (1931–2009)",
-    "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "scientist||politician||director||writer||playwright||theatrical director"
   }
 ]

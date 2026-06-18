@@ -3,9 +3,9 @@
     "item": "http://www.wikidata.org/entity/Q12506",
     "itemLabel": "Hagia Sophia",
     "description": "mosque, museum, and former church in Istanbul, Turkey",
-    "year": "1054",
+    "year": "537",
     "countryLabel": "Turkey",
-    "sitelinks": "148"
+    "sitelinks": "151"
   },
   {
     "item": "http://www.wikidata.org/entity/Q676203",
@@ -21,7 +21,7 @@
     "description": "ancient Roman amphitheatre, a landmark of Rome, Italy",
     "year": "81",
     "countryLabel": "Italy",
-    "sitelinks": "144"
+    "sitelinks": "145"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12495",
@@ -32,6 +32,14 @@
     "sitelinks": "139"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q43473",
+    "itemLabel": "Angkor Wat",
+    "description": "Hindu-Buddhist temple complex in Cambodia",
+    "year": "802",
+    "countryLabel": "Cambodia",
+    "sitelinks": "136"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q39671",
     "itemLabel": "Stonehenge",
     "description": "Neolithic henge monument in Amesbury, Wiltshire, England, UK",
@@ -40,12 +48,12 @@
     "sitelinks": "135"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43473",
-    "itemLabel": "Angkor Wat",
-    "description": "Buddhist temple complex in Cambodia",
-    "year": "802",
-    "countryLabel": "Cambodia",
-    "sitelinks": "135"
+    "item": "http://www.wikidata.org/entity/Q9188",
+    "itemLabel": "Empire State Building",
+    "description": "skyscraper located in Midtown Manhattan, New York City, USA",
+    "year": "1931",
+    "countryLabel": "United States",
+    "sitelinks": "123"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43332",
@@ -53,7 +61,7 @@
     "description": "ancient Roman city near modern Naples, Italy",
     "year": "-600",
     "countryLabel": "Italy",
-    "sitelinks": "122"
+    "sitelinks": "123"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37200",
@@ -64,28 +72,12 @@
     "sitelinks": "122"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9188",
-    "itemLabel": "Empire State Building",
-    "description": "skyscraper located in Midtown Manhattan, New York City, USA",
-    "year": "1931",
-    "countryLabel": "United States",
-    "sitelinks": "121"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q22647",
-    "itemLabel": "Troy",
-    "description": "ancient Homeric-era city in northwest Asia Minor; it is known as the setting for the Greek myth of the Trojan war",
-    "year": "-2999",
-    "countryLabel": "Turkey",
-    "sitelinks": "121"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5788",
     "itemLabel": "Petra",
     "description": "ancient rock-cut historical city in Jordan",
     "year": "-799",
     "countryLabel": "Jordan",
-    "sitelinks": "114"
+    "sitelinks": "115"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5859",
@@ -98,7 +90,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q129072",
     "itemLabel": "Persepolis",
-    "description": "ceremonial capital of the Achaemenid Empire, Iranian national heritage site",
+    "description": "ancient city in Marvdasht County, Iranian national heritage site and World heritage site",
     "year": "-510",
     "countryLabel": "Iran",
     "sitelinks": "103"
@@ -113,7 +105,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q42798",
-    "itemLabel": "Borobudur",
+    "itemLabel": "Borobudur Temple",
     "description": "Buddhist temple in Java, Indonesia",
     "year": "800",
     "countryLabel": "Indonesia",
@@ -141,7 +133,7 @@
     "description": "UNESCO World Heritage Site in southern Egypt",
     "year": "-1273",
     "countryLabel": "Egypt",
-    "sitelinks": "91"
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80541",
@@ -176,20 +168,12 @@
     "sitelinks": "88"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q178835",
-    "itemLabel": "Baalbek",
-    "description": "city in Baalbek-Hermel, Lebanon",
-    "year": "1000",
-    "countryLabel": "Lebanon",
-    "sitelinks": "85"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q172077",
     "itemLabel": "Dome of the Rock",
     "description": "Islamic building in Al-Aqsa, Jerusalem",
     "year": "691",
     "countryLabel": "Palestine",
-    "sitelinks": "85"
+    "sitelinks": "87"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5699",
@@ -197,7 +181,15 @@
     "description": "ancient Mesopotamian city-state",
     "year": "-3799",
     "countryLabel": "Iraq",
-    "sitelinks": "84"
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178835",
+    "itemLabel": "Baalbek",
+    "description": "city in Baalbek-Hermel, Lebanon",
+    "year": "",
+    "countryLabel": "Lebanon",
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83101",
@@ -213,6 +205,22 @@
     "description": "building in Tokyo, Japan",
     "year": "2008",
     "countryLabel": "Japan",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130958",
+    "itemLabel": "The Great Sphinx",
+    "description": "ancient Egyptian monumental sculpture",
+    "year": "-2559",
+    "countryLabel": "Egypt",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q184427",
+    "itemLabel": "Ajanta Caves",
+    "description": "2nd century BCE to 1st century CE Buddhist cave monuments located in Maharashtra, India",
+    "year": "-200",
+    "countryLabel": "India",
     "sitelinks": "83"
   },
   {
@@ -232,28 +240,12 @@
     "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q130958",
-    "itemLabel": "The Great Sphinx",
-    "description": "ancient Egyptian monumental sculpture",
-    "year": "-2559",
-    "countryLabel": "Egypt",
-    "sitelinks": "82"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q184427",
-    "itemLabel": "Ajanta Caves",
-    "description": "2nd century BCE to 1st century CE Buddhist cave monuments located in Maharashtra, India",
-    "year": "-200",
-    "countryLabel": "India",
-    "sitelinks": "82"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q101583",
     "itemLabel": "Thebes",
     "description": "ancient Egyptian city",
     "year": "-3199",
     "countryLabel": "Egypt",
-    "sitelinks": "81"
+    "sitelinks": "82"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180773",
@@ -264,12 +256,12 @@
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q214944",
-    "itemLabel": "Göbekli Tepe",
-    "description": "neolithic archaeological site in Turkey",
-    "year": "-9999",
-    "countryLabel": "Turkey",
-    "sitelinks": "78"
+    "item": "http://www.wikidata.org/entity/Q29317",
+    "itemLabel": "Bagan",
+    "description": "ancient city in Myanmar",
+    "year": "200",
+    "countryLabel": "Myanmar",
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q200200",
@@ -280,28 +272,20 @@
     "sitelinks": "77"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q187702",
+    "itemLabel": "Church of the Holy Sepulchre",
+    "description": "church in Jerusalem, containing the two holiest sites in Christianity",
+    "year": "1400",
+    "countryLabel": "Israel",
+    "sitelinks": "76"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q183562",
     "itemLabel": "Umayyad Mosque",
     "description": "mosque in Syria",
     "year": "706",
     "countryLabel": "Syria",
     "sitelinks": "76"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q187702",
-    "itemLabel": "Church of the Holy Sepulchre",
-    "description": "church in Jerusalem, containing the two holiest sites in Christianity",
-    "year": "1400",
-    "countryLabel": "Iran",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q29317",
-    "itemLabel": "Bagan",
-    "description": "ancient city in Myanmar",
-    "year": "200",
-    "countryLabel": "Myanmar",
-    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192541",
@@ -328,19 +312,27 @@
     "sitelinks": "74"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11245",
-    "itemLabel": "One World Trade Center",
-    "description": "main building of the rebuilt World Trade Center complex in Lower Manhattan, New York City",
-    "year": "2014",
-    "countryLabel": "United States",
-    "sitelinks": "73"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q29962",
     "itemLabel": "Asyut",
     "description": "City in Egypt",
     "year": "-3099",
     "countryLabel": "Egypt",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168518",
+    "itemLabel": "Uruk",
+    "description": "ancient city of Sumer and Babylonia",
+    "year": "-3199",
+    "countryLabel": "Iraq",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11245",
+    "itemLabel": "One World Trade Center",
+    "description": "main building of the rebuilt World Trade Center complex in Lower Manhattan, New York City",
+    "year": "2014",
+    "countryLabel": "United States",
     "sitelinks": "73"
   },
   {
@@ -352,11 +344,11 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q168518",
-    "itemLabel": "Uruk",
-    "description": "ancient city of Sumer and Babylonia",
-    "year": "-3199",
-    "countryLabel": "Iraq",
+    "item": "http://www.wikidata.org/entity/Q169460",
+    "itemLabel": "Miletus",
+    "description": "ancient city of Ionia, in modern-day Turkey",
+    "year": "-1100",
+    "countryLabel": "Turkey",
     "sitelinks": "72"
   },
   {
@@ -368,14 +360,6 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q169460",
-    "itemLabel": "Miletus",
-    "description": "ancient city of Ionia, in modern-day Turkey",
-    "year": "-1100",
-    "countryLabel": "Turkey",
-    "sitelinks": "71"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q42258",
     "itemLabel": "Mirante do Vale",
     "description": "skyscraper in São Paulo, Brazil",
@@ -384,18 +368,18 @@
     "sitelinks": "71"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q191739",
+    "itemLabel": "Florence Cathedral",
+    "description": "13th-century cathedral in Florence, Italy",
+    "year": "1296",
+    "countryLabel": "Italy",
+    "sitelinks": "70"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q178643",
     "itemLabel": "Süleymaniye Mosque",
     "description": "mosque in İstanbul, Turkey",
     "year": "1550",
-    "countryLabel": "Turkey",
-    "sitelinks": "69"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192522",
-    "itemLabel": "Çatalhöyük",
-    "description": "archaeological site in Konya Province, Turkey",
-    "year": "-7499",
     "countryLabel": "Turkey",
     "sitelinks": "69"
   },
@@ -408,12 +392,12 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q191739",
-    "itemLabel": "Florence Cathedral",
-    "description": "13th-century cathedral in Florence, Italy",
-    "year": "1296",
-    "countryLabel": "Italy",
-    "sitelinks": "68"
+    "item": "http://www.wikidata.org/entity/Q191504",
+    "itemLabel": "Leptis Magna",
+    "description": "ancient city in modern Libya",
+    "year": "-700",
+    "countryLabel": "Libya",
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193093",
@@ -429,14 +413,6 @@
     "description": "mosque in Lahore, Pakistan",
     "year": "1671",
     "countryLabel": "Pakistan",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q191504",
-    "itemLabel": "Leptis Magna",
-    "description": "ancient city in modern Libya",
-    "year": "-700",
-    "countryLabel": "Libya",
     "sitelinks": "68"
   },
   {
@@ -461,7 +437,7 @@
     "description": "village at Lake Tiberias in the north of historical Judea, associated with Jesus",
     "year": "-200",
     "countryLabel": "Israel",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q172988",
@@ -485,6 +461,14 @@
     "description": "cathedral (former mosque) in Cordoba, Spain",
     "year": "786",
     "countryLabel": "Spain",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q205131",
+    "itemLabel": "Leshan Giant Buddha",
+    "description": "monumental sculpture",
+    "year": "803",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "61"
   },
   {
@@ -512,10 +496,10 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q205131",
-    "itemLabel": "Leshan Giant Buddha",
-    "description": "monumental sculpture",
-    "year": "803",
+    "item": "http://www.wikidata.org/entity/Q80852",
+    "itemLabel": "Shanghai World Financial Center",
+    "description": "skyscraper in Shanghai",
+    "year": "2008",
     "countryLabel": "People's Republic of China",
     "sitelinks": "60"
   },
@@ -544,14 +528,6 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80852",
-    "itemLabel": "Shanghai World Financial Center",
-    "description": "skyscraper in Shanghai",
-    "year": "2008",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "59"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q91274",
     "itemLabel": "Galata Tower",
     "description": "historical tower in İstanbul",
@@ -560,19 +536,19 @@
     "sitelinks": "58"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q329967",
-    "itemLabel": "Paestum",
-    "description": "ancient Greek city in present-day village Paestum, Italy",
-    "year": "-599",
-    "countryLabel": "Italy",
-    "sitelinks": "57"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5736",
     "itemLabel": "Amarna",
     "description": "Egyptian archaeological site",
     "year": "-1352",
     "countryLabel": "Egypt",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q329967",
+    "itemLabel": "Paestum",
+    "description": "ancient Greek city in present-day village Paestum, Italy",
+    "year": "-599",
+    "countryLabel": "Italy",
     "sitelinks": "57"
   },
   {
@@ -589,6 +565,14 @@
     "description": "castle in Edinburgh, Scotland, UK",
     "year": "1200",
     "countryLabel": "United Kingdom",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244762",
+    "itemLabel": "Mari",
+    "description": "ancient Sumerian and Amorite city",
+    "year": "-2900",
+    "countryLabel": "Syria",
     "sitelinks": "57"
   },
   {
@@ -616,20 +600,20 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q244762",
-    "itemLabel": "Mari",
-    "description": "ancient Sumerian and Amorite city",
-    "year": "-2900",
-    "countryLabel": "Syria",
-    "sitelinks": "56"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q683632",
     "itemLabel": "Great Mosque of Djenné",
     "description": "mosque in Djenné, Mali",
     "year": "1907",
     "countryLabel": "Mali",
     "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192418",
+    "itemLabel": "Pyramid of Djoser",
+    "description": "Archeological site in Egypt",
+    "year": "-2639",
+    "countryLabel": "Egypt",
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q208379",
@@ -648,6 +632,14 @@
     "sitelinks": "55"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q242148",
+    "itemLabel": "Mehrgarh",
+    "description": "Neolithic archaeological site in Balochistan, Pakistan",
+    "year": "-6999",
+    "countryLabel": "Pakistan",
+    "sitelinks": "55"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q333661",
     "itemLabel": "Cahokia",
     "description": "archaeological site near East St. Louis, Illinois, USA",
@@ -656,10 +648,18 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q242148",
-    "itemLabel": "Mehrgarh",
-    "description": "Neolithic archaeological site in Balochistan, Pakistan",
-    "year": "-6999",
+    "item": "http://www.wikidata.org/entity/Q940843",
+    "itemLabel": "Lotus Temple",
+    "description": "Bahá'í House of Worship in Delhi, India",
+    "year": "1986",
+    "countryLabel": "India",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q500983",
+    "itemLabel": "Faisal Mosque",
+    "description": "mosque in Islamabad (Pakistan)",
+    "year": "1986",
     "countryLabel": "Pakistan",
     "sitelinks": "54"
   },
@@ -668,39 +668,15 @@
     "itemLabel": "Königsberg",
     "description": "historic capital of East Prussia, since 1945 Russian territory",
     "year": "1255",
-    "countryLabel": "Nazi Germany",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192418",
-    "itemLabel": "Pyramid of Djoser",
-    "description": "Archeological site in Egypt",
-    "year": "-2639",
-    "countryLabel": "Egypt",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q940843",
-    "itemLabel": "Lotus Temple",
-    "description": "Bahá'í House of Worship in Delhi, India",
-    "year": "1986",
-    "countryLabel": "India",
+    "countryLabel": "Russian Empire",
     "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1256501",
     "itemLabel": "Jameh Mosque of Isfahan",
-    "description": "mosque in Isfahan, Iranian national heritage site",
+    "description": "mosque in Isfahan, Iranian national heritage site and World heritage site",
     "year": "800",
     "countryLabel": "Iran",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q500983",
-    "itemLabel": "Faisal Mosque",
-    "description": "mosque in Islamabad (Pakistan)",
-    "year": "1986",
-    "countryLabel": "Pakistan",
     "sitelinks": "53"
   },
   {
@@ -712,14 +688,6 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q207808",
-    "itemLabel": "Circus Maximus",
-    "description": "Ancient Roman circus in Rome",
-    "year": "-550",
-    "countryLabel": "Italy",
-    "sitelinks": "52"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5843680",
     "itemLabel": "Halicarnassus",
     "description": "ancient Greek city in Caria, present day Bodrum in Turkey",
@@ -728,10 +696,18 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q80813",
-    "itemLabel": "Jin Mao Tower",
-    "description": "landmark skyscraper in Shanghai",
-    "year": "1999",
+    "item": "http://www.wikidata.org/entity/Q207808",
+    "itemLabel": "Circus Maximus",
+    "description": "Ancient Roman circus in Rome",
+    "year": "-550",
+    "countryLabel": "Italy",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q223207",
+    "itemLabel": "Oriental Pearl Tower",
+    "description": "TV tower in Shanghai, China",
+    "year": "1998",
     "countryLabel": "People's Republic of China",
     "sitelinks": "52"
   },
@@ -744,10 +720,10 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q223207",
-    "itemLabel": "Oriental Pearl Tower",
-    "description": "TV tower in Shanghai, China",
-    "year": "1998",
+    "item": "http://www.wikidata.org/entity/Q80813",
+    "itemLabel": "Jin Mao Tower",
+    "description": "landmark skyscraper in Shanghai",
+    "year": "1999",
     "countryLabel": "People's Republic of China",
     "sitelinks": "52"
   },
@@ -768,19 +744,19 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q277540",
-    "itemLabel": "Chan Chan",
-    "description": "Archaeological site in Peru",
-    "year": "850",
-    "countryLabel": "Peru",
+    "item": "http://www.wikidata.org/entity/Q223399",
+    "itemLabel": "Qumran",
+    "description": "archaeological site in the Palestinian Authority, West Bank",
+    "year": "-103",
+    "countryLabel": "Palestine",
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q500367",
-    "itemLabel": "Qal'at Bani Hammad",
-    "description": "fortified palatine city in Algeria",
-    "year": "1007",
-    "countryLabel": "Algeria",
+    "item": "http://www.wikidata.org/entity/Q43282",
+    "itemLabel": "Alexander Nevsky Cathedral",
+    "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
+    "year": "1924",
+    "countryLabel": "Bulgaria",
     "sitelinks": "51"
   },
   {
@@ -792,19 +768,43 @@
     "sitelinks": "51"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q500367",
+    "itemLabel": "Qal'at Bani Hammad",
+    "description": "fortified palatine city in Algeria",
+    "year": "1007",
+    "countryLabel": "Algeria",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q277540",
+    "itemLabel": "Chan Chan",
+    "description": "Archaeological site in Peru",
+    "year": "850",
+    "countryLabel": "Peru",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1012797",
+    "itemLabel": "Ostia",
+    "description": "ancient Roman city and colony",
+    "year": "-700",
+    "countryLabel": "Italy",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q242741",
+    "itemLabel": "Erechtheion",
+    "description": "ancient Greek temple on the north side of the Acropolis of Athens",
+    "year": "-500",
+    "countryLabel": "Greece",
+    "sitelinks": "50"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q216357",
     "itemLabel": "Grande Arche",
     "description": "monument and building in Paris's La Défense",
     "year": "1989",
     "countryLabel": "France",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q43282",
-    "itemLabel": "Alexander Nevsky Cathedral",
-    "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
-    "year": "1924",
-    "countryLabel": "Bulgaria",
     "sitelinks": "50"
   },
   {
@@ -816,22 +816,6 @@
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q223399",
-    "itemLabel": "Qumran",
-    "description": "archaeological site in the Palestinian Authority, West Bank",
-    "year": "-103",
-    "countryLabel": "Palestine",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q391229",
-    "itemLabel": "Tournai Cathedral",
-    "description": "cathedral",
-    "year": "1101",
-    "countryLabel": "Belgium",
-    "sitelinks": "49"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5786",
     "itemLabel": "Arch of Constantine",
     "description": "triumphal arch in Rome",
@@ -840,11 +824,11 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q242741",
-    "itemLabel": "Erechtheion",
-    "description": "ancient Greek temple on the north side of the Acropolis of Athens",
-    "year": "-500",
-    "countryLabel": "Greece",
+    "item": "http://www.wikidata.org/entity/Q391229",
+    "itemLabel": "Tournai Cathedral",
+    "description": "cathedral",
+    "year": "1101",
+    "countryLabel": "Belgium",
     "sitelinks": "49"
   },
   {
@@ -864,20 +848,20 @@
     "sitelinks": "49"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q115253",
+    "itemLabel": "Takht-e Soleyman",
+    "description": "archaeological site in West Azarbaijan, Iranian national heritage site",
+    "year": "-500",
+    "countryLabel": "Iran",
+    "sitelinks": "49"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q643098",
     "itemLabel": "Shah Mosque",
     "description": "mosque in Isfahan, Iranian national heritage site",
     "year": "1630",
     "countryLabel": "Iran",
     "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1012797",
-    "itemLabel": "Ostia",
-    "description": "ancient Roman city and colony",
-    "year": "-700",
-    "countryLabel": "Italy",
-    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216862",
@@ -904,6 +888,14 @@
     "sitelinks": "48"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q170610",
+    "itemLabel": "Edifício Itália",
+    "description": "skyscraper in São Paulo, Brazil",
+    "year": "1965",
+    "countryLabel": "Brazil",
+    "sitelinks": "48"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q9443",
     "itemLabel": "Lothal",
     "description": "prominent city of the ancient Indus valley civilization (present-day Gujarat, India)",
@@ -920,14 +912,6 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q170610",
-    "itemLabel": "Edifício Itália",
-    "description": "skyscraper in São Paulo, Brazil",
-    "year": "1965",
-    "countryLabel": "Brazil",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q817250",
     "itemLabel": "Pattadakal Group of Monuments",
     "description": "World Heritage site with 7th and 8th century temples",
@@ -936,11 +920,11 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q115253",
-    "itemLabel": "Takht-e Soleyman",
-    "description": "archaeological site in West Azarbaijan, Iranian national heritage site",
-    "year": "-500",
-    "countryLabel": "Iran",
+    "item": "http://www.wikidata.org/entity/Q385086",
+    "itemLabel": "Khirokitia",
+    "description": "archaeological site in Cyprus",
+    "year": "-7000",
+    "countryLabel": "Cyprus",
     "sitelinks": "48"
   },
   {
@@ -952,10 +936,10 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q390028",
-    "itemLabel": "Independence Hall",
-    "description": "historic building in Philadelphia, Pennsylvania, USA",
-    "year": "1753",
+    "item": "http://www.wikidata.org/entity/Q868772",
+    "itemLabel": "Trump Tower",
+    "description": "skyscraper in Manhattan, New York",
+    "year": "1983",
     "countryLabel": "United States",
     "sitelinks": "47"
   },
@@ -968,19 +952,11 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q323767",
-    "itemLabel": "Montparnasse Tower",
-    "description": "skyscraper in Paris",
-    "year": "1973",
-    "countryLabel": "France",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q385086",
-    "itemLabel": "Khirokitia",
-    "description": "archaeological site in Cyprus",
-    "year": "-7000",
-    "countryLabel": "Cyprus",
+    "item": "http://www.wikidata.org/entity/Q390028",
+    "itemLabel": "Independence Hall",
+    "description": "historic building in Philadelphia, Pennsylvania, USA",
+    "year": "1753",
+    "countryLabel": "United States",
     "sitelinks": "47"
   },
   {
@@ -989,6 +965,14 @@
     "description": "mosque in Qazan Kremlin, Qazan, Tatarstan",
     "year": "2005",
     "countryLabel": "Russia",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q323767",
+    "itemLabel": "Montparnasse Tower",
+    "description": "skyscraper in Paris",
+    "year": "1973",
+    "countryLabel": "France",
     "sitelinks": "47"
   },
   {
@@ -1008,11 +992,35 @@
     "sitelinks": "46"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q209349",
+    "itemLabel": "Nicomedia",
+    "description": "ancient city of Bithynia in modern-day Turkey",
+    "year": "-263",
+    "countryLabel": "Turkey",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q238623",
+    "itemLabel": "Pyramid of Menkaure",
+    "description": "smallest of the three main Pyramids of Giza, Egypt",
+    "year": "-2510",
+    "countryLabel": "Egypt",
+    "sitelinks": "46"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q317034",
     "itemLabel": "International Commerce Centre",
     "description": "skyscraper in West Kowloon, Hong Kong",
     "year": "2010",
     "countryLabel": "People's Republic of China",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1140026",
+    "itemLabel": "Azadi Tower",
+    "description": "tower in Tehran, Iranian national heritage site",
+    "year": "1971",
+    "countryLabel": "Iran",
     "sitelinks": "46"
   },
   {
@@ -1040,35 +1048,11 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q209349",
-    "itemLabel": "Nicomedia",
-    "description": "ancient city of Bithynia in modern-day Turkey",
-    "year": "-263",
-    "countryLabel": "Turkey",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q915413",
     "itemLabel": "Mosque of Ibn Tulun",
     "description": "Mosque in Cairo, Egypt",
     "year": "879",
     "countryLabel": "Egypt",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q238623",
-    "itemLabel": "Pyramid of Menkaure",
-    "description": "smallest of the three main Pyramids of Giza, Egypt",
-    "year": "-2510",
-    "countryLabel": "Egypt",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q392564",
-    "itemLabel": "Grand Mosque of Paris",
-    "description": "mosque in Paris, France",
-    "year": "1922",
-    "countryLabel": "France",
     "sitelinks": "45"
   },
   {
@@ -1088,6 +1072,14 @@
     "sitelinks": "45"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q392564",
+    "itemLabel": "Grand Mosque of Paris",
+    "description": "mosque in Paris, France",
+    "year": "1922",
+    "countryLabel": "France",
+    "sitelinks": "45"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q206435",
     "itemLabel": "Turning Torso",
     "description": "skyscraper in Malmö, Sweden",
@@ -1096,11 +1088,11 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q283680",
-    "itemLabel": "Carchemish",
-    "description": "ancient city in Turkey / Syria",
-    "year": "-1900",
-    "countryLabel": "Turkey",
+    "item": "http://www.wikidata.org/entity/Q339489",
+    "itemLabel": "Brú na Bóinne",
+    "description": "archaeological site",
+    "year": "-3499",
+    "countryLabel": "Ireland",
     "sitelinks": "44"
   },
   {
@@ -1108,6 +1100,14 @@
     "itemLabel": "Chora Church",
     "description": "church converted to mosque in Turkey",
     "year": "1001",
+    "countryLabel": "Turkey",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q283680",
+    "itemLabel": "Carchemish",
+    "description": "ancient city in Turkey / Syria",
+    "year": "-1900",
     "countryLabel": "Turkey",
     "sitelinks": "44"
   },
@@ -1128,14 +1128,6 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1140026",
-    "itemLabel": "Azadi Tower",
-    "description": "tower in Tehran, Iranian national heritage site",
-    "year": "1971",
-    "countryLabel": "Iran",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1962312",
     "itemLabel": "Nasir-ol-Molk Mosque",
     "description": "mosque in Shiraz, Iranian national heritage site",
@@ -1144,43 +1136,11 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q339489",
-    "itemLabel": "Brú na Bóinne",
-    "description": "archaeological site",
-    "year": "-3499",
-    "countryLabel": "Ireland",
-    "sitelinks": "43"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4255374",
     "itemLabel": "Lakhta Centre",
     "description": "skyscraper in Saint-Petersburg, Russia",
     "year": "2022",
     "countryLabel": "Russia",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q502098",
-    "itemLabel": "Baths of Caracalla",
-    "description": "public baths in ancient Rome",
-    "year": "216",
-    "countryLabel": "Italy",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q593115",
-    "itemLabel": "Great Mosque of Samarra",
-    "description": "mosque in Iraq",
-    "year": "848",
-    "countryLabel": "Iraq",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1160664",
-    "itemLabel": "Lyceum",
-    "description": "public meeting place in Classical Athens",
-    "year": "-334",
-    "countryLabel": "Greece",
     "sitelinks": "43"
   },
   {
@@ -1192,11 +1152,43 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q502098",
+    "itemLabel": "Baths of Caracalla",
+    "description": "public baths in ancient Rome",
+    "year": "216",
+    "countryLabel": "Italy",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1160664",
+    "itemLabel": "Lyceum",
+    "description": "public meeting place in Classical Athens",
+    "year": "-334",
+    "countryLabel": "Greece",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1979112",
     "itemLabel": "Blue Mosque",
     "description": "mosque in Yerevan, Armenia",
     "year": "1768",
     "countryLabel": "Armenia",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1136681",
+    "itemLabel": "Seleucia",
+    "description": "capital of the Seleucid Empire",
+    "year": "-304",
+    "countryLabel": "Iraq",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q593115",
+    "itemLabel": "Great Mosque of Samarra",
+    "description": "mosque in Iraq",
+    "year": "848",
+    "countryLabel": "Iraq",
     "sitelinks": "43"
   },
   {
@@ -1224,11 +1216,19 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q459608",
-    "itemLabel": "Bent Pyramid",
-    "description": "ancient tomb in Egypt",
-    "year": "-2699",
-    "countryLabel": "Egypt",
+    "item": "http://www.wikidata.org/entity/Q328505",
+    "itemLabel": "Bank of America Tower",
+    "description": "skyscraper in Midtown Manhattan, New York City, United States",
+    "year": "2009",
+    "countryLabel": "United States",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q384813",
+    "itemLabel": "Temple of Athena Nike",
+    "description": "ancient Greek temple built in the fifth century CE on the Acropolis of Athens in honor of Athena as the goddess of victory, located in Athens Municipality, Greece",
+    "year": "-425",
+    "countryLabel": "Greece",
     "sitelinks": "42"
   },
   {
@@ -1240,11 +1240,35 @@
     "sitelinks": "42"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q459608",
+    "itemLabel": "Bent Pyramid",
+    "description": "ancient tomb in Egypt",
+    "year": "-2699",
+    "countryLabel": "Egypt",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q679218",
+    "itemLabel": "Bibi-Khanym Mosque",
+    "description": "historical mosque in Samarkand, Uzbekistan",
+    "year": "1404",
+    "countryLabel": "Uzbekistan",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q252575",
     "itemLabel": "York Minster",
     "description": "cathedral of York, North Yorkshire, England, UK",
     "year": "1220",
     "countryLabel": "United Kingdom",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q125846",
+    "itemLabel": "Q1 Tower",
+    "description": "skyscraper in Australia",
+    "year": "2007",
+    "countryLabel": "Australia",
     "sitelinks": "42"
   },
   {
@@ -1264,30 +1288,6 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q679218",
-    "itemLabel": "Bibi-Khanym Mosque",
-    "description": "historical mosque in Samarkand, Uzbekistan",
-    "year": "1404",
-    "countryLabel": "Uzbekistan",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q125846",
-    "itemLabel": "Q1 Tower",
-    "description": "skyscraper in Australia",
-    "year": "2007",
-    "countryLabel": "Australia",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q464266",
-    "itemLabel": "Dura-Europos",
-    "description": "ancient Syrian city",
-    "year": "-299",
-    "countryLabel": "Syria",
-    "sitelinks": "42"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q18640924",
     "itemLabel": "Landmark 81",
     "description": "skyscraper",
@@ -1304,19 +1304,19 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1136681",
-    "itemLabel": "Seleucia",
-    "description": "capital of the Seleucid Empire",
-    "year": "-304",
-    "countryLabel": "Sasanian Empire",
+    "item": "http://www.wikidata.org/entity/Q464266",
+    "itemLabel": "Dura-Europos",
+    "description": "ancient Syrian city",
+    "year": "-299",
+    "countryLabel": "Syria",
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q328505",
-    "itemLabel": "Bank of America Tower",
-    "description": "skyscraper in Midtown Manhattan, New York City, United States",
-    "year": "2009",
-    "countryLabel": "United States",
+    "item": "http://www.wikidata.org/entity/Q911720",
+    "itemLabel": "New Mosque",
+    "description": "mosque in İstanbul, Turkey",
+    "year": "1597",
+    "countryLabel": "Turkey",
     "sitelinks": "41"
   },
   {
@@ -1328,19 +1328,11 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q384813",
-    "itemLabel": "Temple of Athena Nike",
-    "description": "ancient Greek temple built in the fifth century CE on the Acropolis of Athens in honor of Athena as the goddess of victory, located in Athens Municipality, Greece",
-    "year": "-425",
-    "countryLabel": "Greece",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q911720",
-    "itemLabel": "New Mosque",
-    "description": "mosque in İstanbul, Turkey",
-    "year": "1597",
-    "countryLabel": "Turkey",
+    "item": "http://www.wikidata.org/entity/Q59483",
+    "itemLabel": "Mercury City Tower",
+    "description": "skyscraper in Moscow",
+    "year": "2013",
+    "countryLabel": "Russia",
     "sitelinks": "41"
   },
   {
@@ -1360,11 +1352,11 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q59483",
-    "itemLabel": "Mercury City Tower",
-    "description": "skyscraper in Moscow",
-    "year": "2013",
-    "countryLabel": "Russia",
+    "item": "http://www.wikidata.org/entity/Q684072",
+    "itemLabel": "Garni Temple",
+    "description": "sacred architecture",
+    "year": "50",
+    "countryLabel": "Armenia",
     "sitelinks": "41"
   },
   {
@@ -1392,6 +1384,14 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1137533",
+    "itemLabel": "Koutoubia Mosque",
+    "description": "mosque in Marrakesh, Morocco",
+    "year": "1147",
+    "countryLabel": "Morocco",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q617550",
     "itemLabel": "Apamea",
     "description": "ancient city in Al-Suqaylabiyah, Syria",
@@ -1400,43 +1400,11 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q215023",
-    "itemLabel": "Nidaros Cathedral",
-    "description": "cathedral in Trondheim, Norway",
-    "year": "1201",
-    "countryLabel": "Norway",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q271695",
-    "itemLabel": "Aon Center",
-    "description": "skyscraper in the Chicago Loop, Chicago, Illinois, United States",
-    "year": "1973",
-    "countryLabel": "United States",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q546221",
-    "itemLabel": "Trump International Hotel and Tower",
-    "description": "skyscraper condo-hotel in downtown Chicago, Illinois",
-    "year": "2009",
-    "countryLabel": "United States",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q217727",
     "itemLabel": "875 North Michigan Avenue",
     "description": "skyscraper in Chicago, Illinois, United States",
     "year": "1969",
     "countryLabel": "United States",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q336246",
-    "itemLabel": "Torre Glòries",
-    "description": "38-story skyscraper in Barcelona",
-    "year": "2005",
-    "countryLabel": "Spain",
     "sitelinks": "40"
   },
   {
@@ -1464,6 +1432,38 @@
     "sitelinks": "40"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q215023",
+    "itemLabel": "Nidaros Cathedral",
+    "description": "cathedral in Trondheim, Norway",
+    "year": "1201",
+    "countryLabel": "Norway",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q336246",
+    "itemLabel": "Torre Glòries",
+    "description": "38-story skyscraper in Barcelona",
+    "year": "2005",
+    "countryLabel": "Spain",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q271695",
+    "itemLabel": "Aon Center",
+    "description": "skyscraper in the Chicago Loop, Chicago, Illinois, United States",
+    "year": "1973",
+    "countryLabel": "United States",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q546221",
+    "itemLabel": "Trump International Hotel and Tower",
+    "description": "skyscraper condo-hotel in downtown Chicago, Illinois",
+    "year": "2009",
+    "countryLabel": "United States",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q853935",
     "itemLabel": "Kocatepe Mosque",
     "description": "mosque in Ankara, Turkey",
@@ -1472,11 +1472,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q684072",
-    "itemLabel": "Garni Temple",
-    "description": "sacred architecture",
-    "year": "50",
-    "countryLabel": "Armenia",
+    "item": "http://www.wikidata.org/entity/Q839456",
+    "itemLabel": "El-Fustat",
+    "description": "first capital of Islamic Egypt, in Old Cairo",
+    "year": "641",
+    "countryLabel": "Egypt",
     "sitelinks": "40"
   },
   {
@@ -1496,11 +1496,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1137533",
-    "itemLabel": "Koutoubia Mosque",
-    "description": "mosque in Marrakesh, Morocco",
-    "year": "1147",
-    "countryLabel": "Morocco",
+    "item": "http://www.wikidata.org/entity/Q606763",
+    "itemLabel": "Gonbad-e Qabus",
+    "description": "mausoleum tower in Gonbad-e Kavus, Iranian national heritage site",
+    "year": "1006",
+    "countryLabel": "Iran",
     "sitelinks": "40"
   }
 ]

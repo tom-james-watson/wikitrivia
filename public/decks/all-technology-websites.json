@@ -20,16 +20,6 @@
     "pageViews": 2304895
   },
   {
-    "qid": "Q209330",
-    "title": "‘Instagram’ launches",
-    "subtitle": "Website",
-    "year": 2010,
-    "fact": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms.",
-    "wikipediaSlug": "Instagram",
-    "image": "Instagram_logo_2022.svg",
-    "pageViews": 1423318
-  },
-  {
     "qid": "Q52",
     "title": "‘Wikipedia’ launches",
     "subtitle": "Website",
@@ -38,16 +28,6 @@
     "wikipediaSlug": "Wikipedia",
     "image": "Wikipedia-logo-v2.svg",
     "pageViews": 1264857
-  },
-  {
-    "qid": "Q355",
-    "title": "‘Facebook’ launches",
-    "subtitle": "Website",
-    "year": 2004,
-    "fact": "Facebook is an American social networking service owned by the American technology conglomerate Meta Platforms.",
-    "wikipediaSlug": "Facebook",
-    "image": "Facebook_user_page.png",
-    "pageViews": 1120515
   },
   {
     "qid": "Q48938223",
@@ -120,6 +100,16 @@
     "pageViews": 178526
   },
   {
+    "qid": "Q364",
+    "title": "‘GitHub’ launches",
+    "subtitle": "Website",
+    "year": 2007,
+    "fact": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code.",
+    "wikipediaSlug": "GitHub",
+    "image": "GitHub_Invertocat_Logo.svg",
+    "pageViews": 166779
+  },
+  {
     "qid": "Q79576",
     "title": "‘Google Play’ launches",
     "subtitle": "Website",
@@ -168,16 +158,6 @@
     "wikipediaSlug": "CNN",
     "image": "CNN_Logo_(2014).svg",
     "pageViews": 133098
-  },
-  {
-    "qid": "Q22907849",
-    "title": "‘Discord’ launches",
-    "subtitle": "Website",
-    "year": 2015,
-    "fact": "Discord is an instant messaging and VoIP social platform that allows communication through voice calls, video calls, text messaging, and media.",
-    "wikipediaSlug": "Discord",
-    "image": "Discord_screenshot.png",
-    "pageViews": 132585
   },
   {
     "qid": "Q116698014",
@@ -250,6 +230,16 @@
     "pageViews": 110748
   },
   {
+    "qid": "Q65359104",
+    "title": "‘HBO Max’ launches",
+    "subtitle": "Website",
+    "year": 2020,
+    "fact": "HBO Max is an American subscription video on-demand over-the-top streaming service, a proprietary unit of Warner Bros.",
+    "wikipediaSlug": "HBO_Max",
+    "image": "HBO_Max_(2025).svg",
+    "pageViews": 98047
+  },
+  {
     "qid": "Q483959",
     "title": "‘PayPal’ launches",
     "subtitle": "Website",
@@ -258,16 +248,6 @@
     "wikipediaSlug": "PayPal",
     "image": "PayPal_San_Jose_Headquarters.jpg",
     "pageViews": 91368
-  },
-  {
-    "qid": "Q58024",
-    "title": "‘EBay’ launches",
-    "subtitle": "Website",
-    "year": 1995,
-    "fact": "eBay Inc. is an American multinational e-commerce company based in San Jose, California, that allows users to buy or view items via retail sales through online marketplaces and websites in 190 markets worldwide.",
-    "wikipediaSlug": "EBay",
-    "image": "EBay_logo.svg",
-    "pageViews": 90959
   },
   {
     "qid": "Q105584",
@@ -298,6 +278,16 @@
     "wikipediaSlug": "SCP_Foundation",
     "image": "SCP_Foundation_(emblem).svg",
     "pageViews": 87756
+  },
+  {
+    "qid": "Q210534",
+    "title": "‘Daily Mail’ launches",
+    "subtitle": "Website",
+    "year": 1896,
+    "fact": "The Daily Mail, often known simply as the Mail, is a British daily middle-market tabloid conservative newspaper founded in 1896 and published in London.",
+    "wikipediaSlug": "Daily_Mail",
+    "image": "Daily_Mail_10_July_2021.png",
+    "pageViews": 87576
   },
   {
     "qid": "Q868165",
@@ -423,7 +413,7 @@
     "qid": "Q63327",
     "title": "‘Airbnb’ launches",
     "subtitle": "Website",
-    "year": 2007,
+    "year": 2008,
     "fact": "Airbnb, Inc. is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions.",
     "wikipediaSlug": "Airbnb",
     "image": "888_Brannan,_San_Francisco,_2016.jpg",
@@ -480,16 +470,6 @@
     "pageViews": 51036
   },
   {
-    "qid": "Q160120",
-    "title": "‘Huawei’ launches",
-    "subtitle": "Website",
-    "year": 1987,
-    "fact": "Huawei Technologies Co., Ltd. is a Chinese multinational corporation and technology company headquartered in Longgang, Shenzhen, Guangdong.",
-    "wikipediaSlug": "Huawei",
-    "image": "Huawei_Standard_logo.svg",
-    "pageViews": 48435
-  },
-  {
     "qid": "Q50008",
     "title": "‘The Times’ launches",
     "subtitle": "Website",
@@ -520,16 +500,6 @@
     "pageViews": 46477
   },
   {
-    "qid": "Q936",
-    "title": "‘OpenStreetMap’ launches",
-    "subtitle": "Website",
-    "year": 2004,
-    "fact": "OpenStreetMap (OSM) is a map database maintained by a community of volunteers via open collaboration.",
-    "wikipediaSlug": "OpenStreetMap",
-    "image": "Openstreetmap_logo.svg",
-    "pageViews": 44652
-  },
-  {
     "qid": "Q136410803",
     "title": "‘Grokipedia’ launches",
     "subtitle": "Website",
@@ -540,6 +510,26 @@
     "pageViews": 43967
   },
   {
+    "qid": "Q5445894",
+    "title": "‘FetLife’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "FetLife is a social networking website that serves people interested in BDSM, fetishism, and kink.",
+    "wikipediaSlug": "FetLife",
+    "image": "FetLife_user_page_2025.png",
+    "pageViews": 43687
+  },
+  {
+    "qid": "Q40984",
+    "title": "‘Skype’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "Skype was a proprietary telecommunications application operated by Skype Technologies, an acquired division of Microsoft, best known for IP-based videotelephony, videoconferencing and voice calls.",
+    "wikipediaSlug": "Skype",
+    "image": "Skype_logo_(2019–present).svg",
+    "pageViews": 43061
+  },
+  {
     "qid": "Q19718090",
     "title": "‘Signal’ launches",
     "subtitle": "Website",
@@ -548,6 +538,16 @@
     "wikipediaSlug": "Signal_(software)",
     "image": "Signal-Logo-Ultramarine_(2024).svg",
     "pageViews": 42885
+  },
+  {
+    "qid": "Q1353939",
+    "title": "‘Etsy’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "Etsy, Inc. is an American e-commerce company focused on handmade or vintage items and craft supplies.",
+    "wikipediaSlug": "Etsy",
+    "image": "Etsy_logo.svg",
+    "pageViews": 42011
   },
   {
     "qid": "Q1542536",
@@ -598,6 +598,16 @@
     "wikipediaSlug": "Midjourney",
     "image": "Midjourney_logo.svg",
     "pageViews": 40829
+  },
+  {
+    "qid": "Q117084855",
+    "title": "‘Kick’ launches",
+    "subtitle": "Website",
+    "year": 2021,
+    "fact": "Kick is an Australian video livestreaming service.",
+    "wikipediaSlug": "Kick_(service)",
+    "image": "Kick_(website_screenshot).png",
+    "pageViews": 40770
   },
   {
     "qid": "Q55637991",
@@ -801,7 +811,7 @@
   },
   {
     "qid": "Q602471",
-    "title": "‘Line’ launches",
+    "title": "‘LINE’ launches",
     "subtitle": "Website",
     "year": 2011,
     "fact": "Line is a Japanese freeware app and service for instant messaging and social networking, operated by the Japanese company LY Corporation, co-owned by SoftBank Group and Naver.",
@@ -990,6 +1000,16 @@
     "pageViews": 22538
   },
   {
+    "qid": "Q110972973",
+    "title": "‘Sanctioned Suicide’ launches",
+    "subtitle": "Online community",
+    "year": 2018,
+    "fact": "Sanctioned Suicide is an internet forum known for its open discussion and encouragement of suicide and suicide methods.",
+    "wikipediaSlug": "Sanctioned_Suicide",
+    "image": "Sanctioned_Suicide.svg",
+    "pageViews": 21512
+  },
+  {
     "qid": "Q3598926",
     "title": "‘JD.com’ launches",
     "subtitle": "Website",
@@ -1028,6 +1048,16 @@
     "wikipediaSlug": "Pitchfork_(website)",
     "image": "Screenshot_of_the_Pitchfork_Homepage,_Dec_2025.png",
     "pageViews": 20049
+  },
+  {
+    "qid": "Q118398",
+    "title": "‘ArXiv’ launches",
+    "subtitle": "Website",
+    "year": 1991,
+    "fact": "arXiv is an open-access repository of electronic preprints and postprints approved for posting after moderation, but not peer reviewed.",
+    "wikipediaSlug": "ArXiv",
+    "image": "ArXiv_home_page_screenshot.png",
+    "pageViews": 18425
   },
   {
     "qid": "Q6449319",
@@ -1158,16 +1188,6 @@
     "wikipediaSlug": "Google_News",
     "image": "Google_News_icon.svg",
     "pageViews": 15716
-  },
-  {
-    "qid": "Q111947460",
-    "title": "‘BeReal’ launches",
-    "subtitle": "Social networking service",
-    "year": 2024,
-    "fact": "BeReal is a French social-networking app released in 2020, developed by Alexis Barreyat and Kévin Perreau.",
-    "wikipediaSlug": "BeReal",
-    "image": "BeReal._Logo.svg",
-    "pageViews": 15401
   },
   {
     "qid": "Q159540",
@@ -1570,16 +1590,6 @@
     "pageViews": 9698
   },
   {
-    "qid": "Q9593",
-    "title": "‘ITunes Store’ launches",
-    "subtitle": "Website",
-    "year": 2003,
-    "fact": "iTunes Store is a digital marketplace selling songs, albums, music videos, ringtones and alert tones.",
-    "wikipediaSlug": "ITunes_Store",
-    "image": "ITunes_Store.jpg",
-    "pageViews": 9608
-  },
-  {
     "qid": "Q231396",
     "title": "‘Orkut’ launches",
     "subtitle": "Website",
@@ -1590,14 +1600,14 @@
     "pageViews": 9534
   },
   {
-    "qid": "Q1194064",
-    "title": "‘Akinator’ launches",
+    "qid": "Q306956",
+    "title": "‘Pixiv’ launches",
     "subtitle": "Website",
     "year": 2007,
-    "fact": "Akinator is a video game developed by the French company Elokence.",
-    "wikipediaSlug": "Akinator",
-    "image": "Akinator.svg",
-    "pageViews": 9534
+    "fact": "Pixiv is a Japanese online community for artists.",
+    "wikipediaSlug": "Pixiv",
+    "image": "Pixiv_logo_(2025).svg",
+    "pageViews": 9456
   },
   {
     "qid": "Q318421",
@@ -1740,16 +1750,6 @@
     "pageViews": 8073
   },
   {
-    "qid": "Q743920",
-    "title": "‘Habbo’ launches",
-    "subtitle": "Website",
-    "year": 2000,
-    "fact": "Habbo is a virtual world and massively multiplayer online role-playing game (MMORPG).",
-    "wikipediaSlug": "Habbo",
-    "image": "Habbo.gif",
-    "pageViews": 8048
-  },
-  {
     "qid": "Q20012932",
     "title": "‘Agar.io’ launches",
     "subtitle": "Website",
@@ -1840,16 +1840,6 @@
     "pageViews": 7287
   },
   {
-    "qid": "Q719337",
-    "title": "‘FarmVille’ launches",
-    "subtitle": "Website",
-    "year": 2009,
-    "fact": "FarmVille is a series of agriculture-simulation social network games developed and published by Zynga beginning in 2009.",
-    "wikipediaSlug": "FarmVille",
-    "image": "FarmVille_logo.png",
-    "pageViews": 7254
-  },
-  {
     "qid": "Q200183",
     "title": "‘Simple English Wikipedia’ launches",
     "subtitle": "Website",
@@ -1877,6 +1867,16 @@
     "fact": "The Stanford Encyclopedia of Philosophy (SEP) is a free online philosophy resource published and maintained by Stanford University, encompassing both an online encyclopedia of philosophy and peer-reviewed original publication.",
     "wikipediaSlug": "Stanford_Encyclopedia_of_Philosophy",
     "image": "Stanford_Encyclopedia_of_Philosophy_logo.svg",
+    "pageViews": 7031
+  },
+  {
+    "qid": "Q96310034",
+    "title": "‘Iron March’ launches",
+    "subtitle": "Online community",
+    "year": 2011,
+    "fact": "Iron March was a neo-fascist web forum open from 2011 to 2017.",
+    "wikipediaSlug": "Iron_March",
+    "image": "Logo_of_Ironmarch.org.svg",
     "pageViews": 7031
   },
   {
@@ -2040,16 +2040,6 @@
     "pageViews": 5595
   },
   {
-    "qid": "Q1657282",
-    "title": "‘Giant Bomb’ launches",
-    "subtitle": "Website",
-    "year": 2008,
-    "fact": "Giant Bomb is an American video game website and wiki that includes personality-driven gaming videos, commentary, news and reviews, created by former GameSpot editors Jeff Gerstmann and Ryan Davis.",
-    "wikipediaSlug": "Giant_Bomb",
-    "image": "Giant_Bomb_logo.png",
-    "pageViews": 5521
-  },
-  {
     "qid": "Q1202611",
     "title": "‘The Moscow Times’ launches",
     "subtitle": "Website",
@@ -2130,6 +2120,16 @@
     "pageViews": 5336
   },
   {
+    "qid": "Q612975",
+    "title": "‘MobyGames’ launches",
+    "subtitle": "Website",
+    "year": 1999,
+    "fact": "MobyGames is a commercial database website that catalogs information on video games and the people and companies behind them via crowdsourcing.",
+    "wikipediaSlug": "MobyGames",
+    "image": "MobyGames_Logo.svg",
+    "pageViews": 5315
+  },
+  {
     "qid": "Q1444686",
     "title": "‘Scots Wikipedia’ launches",
     "subtitle": "Website",
@@ -2178,6 +2178,16 @@
     "wikipediaSlug": "Aparat",
     "image": "Aparat_logo_colour.svg",
     "pageViews": 5145
+  },
+  {
+    "qid": "Q483279",
+    "title": "‘Wikimania’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "Wikimania is the Wikimedia movement's annual conference, organized by the community of contributors and hosted by the Wikimedia Foundation.",
+    "wikipediaSlug": "Wikimania",
+    "image": "Wikimania_logo.svg",
+    "pageViews": 5024
   },
   {
     "qid": "Q2154085",
@@ -2430,16 +2440,6 @@
     "pageViews": 3760
   },
   {
-    "qid": "Q309008",
-    "title": "‘Polish Football Association’ launches",
-    "subtitle": "Website",
-    "year": 1919,
-    "fact": "The Polish Football Association is the governing body of association football in Poland.",
-    "wikipediaSlug": "Polish_Football_Association",
-    "image": "Polish_Football_Association_logo.svg",
-    "pageViews": 3693
-  },
-  {
     "qid": "Q60691545",
     "title": "‘Pixelfed’ launches",
     "subtitle": "Social networking service",
@@ -2478,16 +2478,6 @@
     "wikipediaSlug": "Vero_(app)",
     "image": "Vero_logo_2020.png",
     "pageViews": 3479
-  },
-  {
-    "qid": "Q170331",
-    "title": "‘Travian’ launches",
-    "subtitle": "Website",
-    "year": 2004,
-    "fact": "Travian: Legends is a persistent, browser-based, massively multiplayer, online real-time strategy game developed by the German software company Travian Games.",
-    "wikipediaSlug": "Travian",
-    "image": "Travian_(video_game).png",
-    "pageViews": 3446
   },
   {
     "qid": "Q281055",
@@ -2580,6 +2570,16 @@
     "pageViews": 3077
   },
   {
+    "qid": "Q389458",
+    "title": "‘Aftonbladet’ launches",
+    "subtitle": "Website",
+    "year": 1830,
+    "fact": "Aftonbladet is a Swedish daily newspaper published in Stockholm, Sweden.",
+    "wikipediaSlug": "Aftonbladet",
+    "image": "Aftonbladet_no1_1830-12-06.png",
+    "pageViews": 3023
+  },
+  {
     "qid": "Q8447",
     "title": "‘French Wikipedia’ launches",
     "subtitle": "Website",
@@ -2628,6 +2628,16 @@
     "wikipediaSlug": "Dribbble",
     "image": "Dribbble_logo.svg",
     "pageViews": 2939
+  },
+  {
+    "qid": "Q678095",
+    "title": "‘Paris Match’ launches",
+    "subtitle": "Website",
+    "year": 1949,
+    "fact": "Paris Match is a French-language weekly magazine that features a mix of news and pop culture.",
+    "wikipediaSlug": "Paris_Match",
+    "image": "Paris_Match_1981_logo.svg",
+    "pageViews": 2930
   },
   {
     "qid": "Q1051289",
@@ -2780,16 +2790,6 @@
     "pageViews": 2627
   },
   {
-    "qid": "Q16509734",
-    "title": "‘Phabricator’ launches",
-    "subtitle": "Website",
-    "year": 2010,
-    "fact": "Phabricator is a free and open source suite of web-based development collaboration tools.",
-    "wikipediaSlug": "Phabricator",
-    "image": "Wikimedia_Phabricator_screenshot.png",
-    "pageViews": 2583
-  },
-  {
     "qid": "Q281251",
     "title": "‘1Up Network’ launches",
     "subtitle": "Website",
@@ -2838,6 +2838,16 @@
     "wikipediaSlug": "Minds_(social_network)",
     "image": "Minds_logo.svg",
     "pageViews": 2379
+  },
+  {
+    "qid": "Q23565",
+    "title": "‘Hessischer Rundfunk’ launches",
+    "subtitle": "Website",
+    "year": 1948,
+    "fact": "Hessischer Rundfunk, shortened to HR, is the German state of Hesse's public broadcasting corporation.",
+    "wikipediaSlug": "Hessischer_Rundfunk",
+    "image": "Ehemaliges_Logo_HR.svg",
+    "pageViews": 2359
   },
   {
     "qid": "Q110063145",
@@ -3378,6 +3388,16 @@
     "wikipediaSlug": "Historical_Dictionary_of_Switzerland",
     "image": "HDS-books-123.jpg",
     "pageViews": 1339
+  },
+  {
+    "qid": "Q16354758",
+    "title": "‘Wikibase’ launches",
+    "subtitle": "Website",
+    "year": 2012,
+    "fact": "Wikibase is a set of software tools for working with versioned semi-structured data in a central repository.",
+    "wikipediaSlug": "Wikibase",
+    "image": "Wikibase_Logo_–_symbol.svg",
+    "pageViews": 1317
   },
   {
     "qid": "Q200386",

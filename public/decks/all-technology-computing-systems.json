@@ -10,14 +10,14 @@
     "pageViews": 144010
   },
   {
-    "qid": "Q48493",
-    "title": "IOS is released",
+    "qid": "Q107269746",
+    "title": "Windows 11 is released",
     "subtitle": "Operating System",
-    "year": 2007,
-    "fact": "iOS is a mobile operating system created and developed by Apple for its iPhone line of smartphones.",
-    "wikipediaSlug": "IOS",
-    "image": "IOS_wordmark_(2017).svg",
-    "pageViews": 89124
+    "year": 2021,
+    "fact": "Windows 11 is the current major release of Microsoft's Windows NT operating system, released on October 5, 2021, as the successor to Windows 10 (2015).",
+    "wikipediaSlug": "Windows_11",
+    "image": "Windows_11_Desktop.png",
+    "pageViews": 84914
   },
   {
     "qid": "Q11215",
@@ -148,6 +148,16 @@
     "wikipediaSlug": "Windows_1.0",
     "image": "Windows1.0.png",
     "pageViews": 19888
+  },
+  {
+    "qid": "Q123102639",
+    "title": "Xiaomi HyperOS is released",
+    "subtitle": "Operating System",
+    "year": 2023,
+    "fact": "Xiaomi HyperOS, sometimes shortened as HyperOS, is an operating system developed by Xiaomi.",
+    "wikipediaSlug": "Xiaomi_HyperOS",
+    "image": "Xiaomi_screenshot_setup_with_HyperOS_3_in_my_POCO_X6_5G.jpg",
+    "pageViews": 18380
   },
   {
     "qid": "Q2801412",
@@ -500,6 +510,16 @@
     "pageViews": 7272
   },
   {
+    "qid": "Q739186",
+    "title": "Multics is released",
+    "subtitle": "Operating System",
+    "year": 1969,
+    "fact": "Multics is an influential early time-sharing operating system based on the concept of a single-level memory.",
+    "wikipediaSlug": "Multics",
+    "image": "Multics-logo.svg",
+    "pageViews": 6481
+  },
+  {
     "qid": "Q79534",
     "title": "ChromiumOS is released",
     "subtitle": "Operating System",
@@ -758,6 +778,16 @@
     "wikipediaSlug": "386BSD",
     "image": "386BSD_logo.png",
     "pageViews": 2678
+  },
+  {
+    "qid": "Q1588573",
+    "title": "Trisquel is released",
+    "subtitle": "Operating System",
+    "year": 2007,
+    "fact": "Trisquel is a computer operating system, a Linux distribution, derived from another distribution, Ubuntu.",
+    "wikipediaSlug": "Trisquel",
+    "image": "Trisquel_12.0.png",
+    "pageViews": 2675
   },
   {
     "qid": "Q319307",

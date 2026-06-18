@@ -263,7 +263,7 @@
     "qid": "Q212616",
     "title": "‘The Raft of the Medusa’ is painted",
     "subtitle": "Painting by Théodore Géricault",
-    "year": 1818,
+    "year": 1819,
     "fact": "The Raft of the Medusa – originally titled Scène de Naufrage – is an oil painting of 1818–1819 by the French Romantic painter and lithographer Théodore Géricault (1791–1824).",
     "wikipediaSlug": "The_Raft_of_the_Medusa",
     "image": "JEAN_LOUIS_THÉODORE_GÉRICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg",
@@ -510,16 +510,6 @@
     "pageViews": 13813
   },
   {
-    "qid": "Q412",
-    "title": "‘Pioneer plaque’ is painted",
-    "subtitle": "Painting",
-    "year": 1972,
-    "fact": "The Pioneer plaques are a pair of gold-anodized aluminium plaques that were placed on board the 1972 Pioneer 10 and 1973 Pioneer 11 spacecraft, featuring a pictorial message, in case either Pioneer 10 or 11 is intercepted by intelligent extraterrestrial life.",
-    "wikipediaSlug": "Pioneer_plaque",
-    "image": "Pioneer10-plaque.jpg",
-    "pageViews": 13257
-  },
-  {
     "qid": "Q167536",
     "title": "‘The Great Masturbator’ is painted",
     "subtitle": "Painting by Salvador Dalí",
@@ -603,7 +593,7 @@
     "qid": "Q478271",
     "title": "‘Reply of the Zaporozhian Cossacks’ is painted",
     "subtitle": "Painting by Ilya Repin",
-    "year": 1891,
+    "year": 1890,
     "fact": "Reply of the Zaporozhian Cossacks is a painting by Ukrainian-born Russian realist artist Ilya Repin.",
     "wikipediaSlug": "Reply_of_the_Zaporozhian_Cossacks",
     "image": "Ilja_Jefimowitsch_Repin_-_Reply_of_the_Zaporozhian_Cossacks_-_Yorck.jpg",
@@ -683,7 +673,7 @@
     "qid": "Q2395218",
     "title": "‘Woman with a Parasol – Madame Monet and Her Son’ is painted",
     "subtitle": "Painting by Claude Monet",
-    "year": 1875,
+    "year": 1886,
     "fact": "Woman with a Parasol – Madame Monet and Her Son, sometimes known as The Stroll is an oil-on-canvas painting by Claude Monet from 1875.",
     "wikipediaSlug": "Woman_with_a_Parasol_%E2%80%93_Madame_Monet_and_Her_Son",
     "image": "Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
@@ -770,6 +760,16 @@
     "pageViews": 9544
   },
   {
+    "qid": "Q713211",
+    "title": "‘Freedom of Speech’ is painted",
+    "subtitle": "Painting by Norman Rockwell",
+    "year": 1943,
+    "fact": "Freedom of Speech is the first of the Four Freedoms, a series of oil paintings by Norman Rockwell, inspired by United States President Franklin D.",
+    "wikipediaSlug": "Freedom_of_Speech_(painting)",
+    "image": "\"Freedom_of_Speech\"_-_NARA_-_513536.jpg",
+    "pageViews": 9520
+  },
+  {
     "qid": "Q3173195",
     "title": "‘Declaration of Independence’ is painted",
     "subtitle": "Painting by John Trumbull",
@@ -853,7 +853,7 @@
     "qid": "Q890678",
     "title": "‘Where Do We Come From? What Are We? Where Are We Going?’ is painted",
     "subtitle": "Painting by Paul Gauguin",
-    "year": 1897,
+    "year": 1890,
     "fact": "Where Do We Come From?",
     "wikipediaSlug": "Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F",
     "image": "Paul_Gauguin_-_D'ou_venons-nous.jpg",
@@ -1102,7 +1102,7 @@
   {
     "qid": "Q1059211",
     "title": "‘The Baptism of Christ’ is painted",
-    "subtitle": "Painting by Andrea del Verrocchio",
+    "subtitle": "Painting by Leonardo da Vinci",
     "year": 1470,
     "fact": "The Baptism of Christ is an oil-on-panel painting finished around 1475 in the studio of the Italian Renaissance painter Andrea del Verrocchio and generally ascribed to him and his pupil Leonardo da Vinci.",
     "wikipediaSlug": "The_Baptism_of_Christ_(Verrocchio_and_Leonardo)",
@@ -1203,7 +1203,7 @@
     "qid": "Q1560719",
     "title": "‘Carnation, Lily, Lily and Rose’ is painted",
     "subtitle": "Painting by John Singer Sargent",
-    "year": 1885,
+    "year": 1880,
     "fact": "Carnation, Lily, Lily, Rose is an oil-on-canvas painting made by the American painter John Singer Sargent in 1885–86.",
     "wikipediaSlug": "Carnation,_Lily,_Lily,_Rose",
     "image": "John_Singer_Sargent_-_Carnation,_Lily,_Lily,_Rose_-_Google_Art_Project.jpg",
@@ -1360,16 +1360,6 @@
     "pageViews": 4786
   },
   {
-    "qid": "Q644106",
-    "title": "‘The Daughters of Edward Darley Boit’ is painted",
-    "subtitle": "Painting by John Singer Sargent",
-    "year": 1882,
-    "fact": "The Daughters of Edward Darley Boit is a painting by the American artist John Singer Sargent.",
-    "wikipediaSlug": "The_Daughters_of_Edward_Darley_Boit",
-    "image": "The_Daughters_of_Edward_Darley_Boit,_John_Singer_Sargent,_1882_(unfree_frame_crop).jpg",
-    "pageViews": 4769
-  },
-  {
     "qid": "Q232087",
     "title": "‘Two men contemplating the Moon’ is painted",
     "subtitle": "Painting by Caspar David Friedrich",
@@ -1401,7 +1391,7 @@
   },
   {
     "qid": "Q2270938",
-    "title": "‘Les Grandes Baigneuses (The Large Bathers)’ is painted",
+    "title": "‘Les Grandes Baigneuses’ is painted",
     "subtitle": "Painting by Paul Cézanne",
     "year": 1906,
     "fact": "The Bathers is an oil painting by French artist Paul Cézanne (1839–1906) first exhibited in 1906.",
@@ -1411,9 +1401,9 @@
   },
   {
     "qid": "Q16333797",
-    "title": "‘Rudolf II of Habsurg as Vertumnus’ is painted",
+    "title": "‘Rudolf II as Vertumnus’ is painted",
     "subtitle": "Painting by Giuseppe Arcimboldo",
-    "year": 1590,
+    "year": 1591,
     "fact": "Vertumnus is an oil painting produced by the Italian painter Giuseppe Arcimboldo in 1591 that consists of multiple fruits, vegetables and flowers that come together to create a portrait of Holy Roman Emperor Rudolf II.",
     "wikipediaSlug": "Vertumnus_(Arcimboldo)",
     "image": "Vertumnus_årstidernas_gud_målad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.jpg",
@@ -1503,7 +1493,7 @@
     "qid": "Q663133",
     "title": "‘The Cardsharps’ is painted",
     "subtitle": "Painting by Caravaggio",
-    "year": 1594,
+    "year": 1590,
     "fact": "The Cardsharps is a painting by the Italian Baroque artist Michelangelo Merisi da Caravaggio.",
     "wikipediaSlug": "The_Cardsharps",
     "image": "Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg",
@@ -1553,7 +1543,7 @@
     "qid": "Q867403",
     "title": "‘Madonna with the Long Neck’ is painted",
     "subtitle": "Painting by Parmigianino",
-    "year": 1530,
+    "year": 1600,
     "fact": "The Madonna with the Long Neck, also known as Madonna and Long Child with Angels and St.",
     "wikipediaSlug": "Madonna_with_the_Long_Neck",
     "image": "Parmigianino_-_Madonna_and_Child_with_Angels,_known_as_the_Madonna_with_the_Long_Neck.jpg",
@@ -1680,6 +1670,16 @@
     "pageViews": 4136
   },
   {
+    "qid": "Q4808020",
+    "title": "‘Automat’ is painted",
+    "subtitle": "Painting by Edward Hopper",
+    "year": 1927,
+    "fact": "Automat is a 1927 oil painting by the American realist painter Edward Hopper.",
+    "wikipediaSlug": "Automat_(Hopper)",
+    "image": "Automat-edward-hopper-1927.jpg",
+    "pageViews": 4114
+  },
+  {
     "qid": "Q685916",
     "title": "‘Crucifixion of Saint Peter’ is painted",
     "subtitle": "Painting by Caravaggio",
@@ -1791,7 +1791,7 @@
   },
   {
     "qid": "Q1133420",
-    "title": "‘The Surrender of Breda’ is painted",
+    "title": "‘The Surrender of Brea’ is painted",
     "subtitle": "Painting by Diego Velázquez",
     "year": 1634,
     "fact": "La rendición de Breda is a painting by the Spanish Golden Age painter Diego Velázquez.",
@@ -2072,7 +2072,7 @@
   {
     "qid": "Q3607521",
     "title": "‘At the Moulin Rouge’ is painted",
-    "subtitle": "Painting",
+    "subtitle": "Painting by Henri de Toulouse-Lautrec",
     "year": 1892,
     "fact": "At the Moulin Rouge is an oil-on-canvas painting by French artist Henri de Toulouse-Lautrec.",
     "wikipediaSlug": "At_the_Moulin_Rouge",
@@ -2143,7 +2143,7 @@
     "qid": "Q80869",
     "title": "‘Dull Gret’ is painted",
     "subtitle": "Painting by Pieter Brueghel the Elder",
-    "year": 1563,
+    "year": 1561,
     "fact": "Dulle Griet, also known as Mad Meg, is a figure of Flemish folklore who is best known as the subject of a 1563 oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder.",
     "wikipediaSlug": "Dull_Gret",
     "image": "Dulle_Griet,_by_Pieter_Brueghel_(I).jpg",
@@ -2180,9 +2180,19 @@
     "pageViews": 3054
   },
   {
+    "qid": "Q106522623",
+    "title": "‘Woman With a Fan’ is painted",
+    "subtitle": "Painting by Gustav Klimt",
+    "year": 1917,
+    "fact": "Lady with a Fan was the final portrait created by the Austrian painter Gustav Klimt.",
+    "wikipediaSlug": "Lady_with_a_Fan_(Klimt)",
+    "image": "Gustav_Klimt_-_Dame_mit_Fächer.jpeg",
+    "pageViews": 3046
+  },
+  {
     "qid": "Q4429116",
     "title": "‘The Magpie’ is painted",
-    "subtitle": "Painting by Claude Monet",
+    "subtitle": "Painting by Pablo Picasso",
     "year": 1868,
     "fact": "The Magpie is an oil-on-canvas landscape painting by the French Impressionist Claude Monet, created during the winter of 1868–1869 near the commune of Étretat in Normandy.",
     "wikipediaSlug": "The_Magpie_(Monet)",
@@ -2238,16 +2248,6 @@
     "wikipediaSlug": "The_Marriage_of_the_Virgin_(Raphael)",
     "image": "Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg",
     "pageViews": 2926
-  },
-  {
-    "qid": "Q797902",
-    "title": "‘Head of a Woman’ is painted",
-    "subtitle": "Painting by Leonardo da Vinci",
-    "year": 1500,
-    "fact": "La Scapigliata is an unfinished painting generally attributed to the Italian High Renaissance artist Leonardo da Vinci, and dated c.",
-    "wikipediaSlug": "La_Scapigliata",
-    "image": "Leonardo_da_vinci_-_La_scapigliata.jpg",
-    "pageViews": 2905
   },
   {
     "qid": "Q2200610",
@@ -2361,7 +2361,7 @@
   },
   {
     "qid": "Q3829156",
-    "title": "‘The Three Ages of the Woman’ is painted",
+    "title": "‘The Three Ages of Woman’ is painted",
     "subtitle": "Painting by Gustav Klimt",
     "year": 1905,
     "fact": "The Three Ages of Woman is a painting that was completed in Austria in 1905 by Gustav Klimt, symbolist painter and one of the most prominent members of the Vienna Secession movement.",
@@ -2438,6 +2438,16 @@
     "wikipediaSlug": "The_Tempest_(Giorgione)",
     "image": "Giorgione_-_Das_Gewitter.jpg",
     "pageViews": 2585
+  },
+  {
+    "qid": "Q4451145",
+    "title": "‘Dance at Bougival’ is painted",
+    "subtitle": "Painting by Pierre-Auguste Renoir",
+    "year": 1883,
+    "fact": "Dance at Bougival is an 1883 oil-on-canvas painting by the French artist Pierre-Auguste Renoir, currently in the collection of the Museum of Fine Arts in Boston, Massachusetts, United States.",
+    "wikipediaSlug": "Dance_at_Bougival",
+    "image": "Dance-At-Bougival.jpg",
+    "pageViews": 2568
   },
   {
     "qid": "Q80317",
@@ -2680,6 +2690,16 @@
     "pageViews": 2358
   },
   {
+    "qid": "Q2016193",
+    "title": "‘Madonna Enthroned’ is painted",
+    "subtitle": "Painting by Giotto",
+    "year": 1300,
+    "fact": "Madonna Enthroned, also known as the Ognissanti Madonna or Madonna Ognissanti, is a painting in tempera on wood panel by the Italian late medieval artist Giotto di Bondone, now in the Uffizi Gallery of Florence, Italy.",
+    "wikipediaSlug": "Ognissanti_Madonna",
+    "image": "Giotto,_1267_Around-1337_-_Maestà_-_Google_Art_Project.jpg",
+    "pageViews": 2341
+  },
+  {
     "qid": "Q766212",
     "title": "‘Swimming’ is painted",
     "subtitle": "Painting by Thomas Eakins",
@@ -2778,16 +2798,6 @@
     "wikipediaSlug": "Symphony_in_White,_No._1:_The_White_Girl",
     "image": "Whistler_James_Symphony_in_White_no_1_(The_White_Girl)_1862.jpg",
     "pageViews": 2255
-  },
-  {
-    "qid": "Q977777",
-    "title": "‘Proserpine’ is painted",
-    "subtitle": "Painting by Dante Gabriel Rossetti",
-    "year": 1874,
-    "fact": "Proserpine is an oil painting on canvas by British Pre-Raphaelite artist and poet Dante Gabriel Rossetti.",
-    "wikipediaSlug": "Proserpine_(Rossetti)",
-    "image": "Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg",
-    "pageViews": 2248
   },
   {
     "qid": "Q644936",
@@ -2940,16 +2950,6 @@
     "pageViews": 2046
   },
   {
-    "qid": "Q974674",
-    "title": "‘The Mystical Nativity’ is painted",
-    "subtitle": "Painting by Sandro Botticelli",
-    "year": 1500,
-    "fact": "The Mystical Nativity is a modern name given to an oil painting on canvas executed c. 1500–1501 by the Italian Renaissance master Sandro Botticelli that is held in the National Gallery collection in London.",
-    "wikipediaSlug": "The_Mystical_Nativity",
-    "image": "Mystic_Nativity,_Sandro_Botticelli.jpg",
-    "pageViews": 2012
-  },
-  {
     "qid": "Q3555076",
     "title": "‘Nymphs and Satyr’ is painted",
     "subtitle": "Painting by William-Adolphe Bouguereau",
@@ -3020,16 +3020,6 @@
     "pageViews": 1948
   },
   {
-    "qid": "Q941549",
-    "title": "‘La Grenouillère’ is painted",
-    "subtitle": "Painting by Claude Monet",
-    "year": 1869,
-    "fact": "La Grenouillère is an 1869 painting by the French impressionist painter, Claude Monet.",
-    "wikipediaSlug": "La_Grenouill%C3%A8re_(Monet)",
-    "image": "Claude_Monet_La_Grenouillére.jpg",
-    "pageViews": 1925
-  },
-  {
     "qid": "Q1652023",
     "title": "‘The Alchemist Discovering Phosphorus’ is painted",
     "subtitle": "Painting by Joseph Wright of Derby",
@@ -3038,6 +3028,16 @@
     "wikipediaSlug": "The_Alchemist_Discovering_Phosphorus",
     "image": "Joseph_Wright_of_Derby_The_Alchemist.jpg",
     "pageViews": 1914
+  },
+  {
+    "qid": "Q1219698",
+    "title": "‘Girl Interrupted at her Music’ is painted",
+    "subtitle": "Painting by Johannes Vermeer",
+    "year": 1660,
+    "fact": "Girl Interrupted at Her Music is a painting by the Dutch artist Johannes Vermeer.",
+    "wikipediaSlug": "Girl_Interrupted_at_Her_Music",
+    "image": "Vermeer_Girl_Interrupted_at_Her_Music.jpg",
+    "pageViews": 1913
   },
   {
     "qid": "Q254923",
@@ -3080,6 +3080,16 @@
     "pageViews": 1852
   },
   {
+    "qid": "Q3937570",
+    "title": "‘Mlle Irene Cahen d'Anvers’ is painted",
+    "subtitle": "Painting by Pierre-Auguste Renoir",
+    "year": 1880,
+    "fact": "The Portrait of Irène Cahen d’Anvers, or The Little Girl with the Blue Ribbon or Little Irène, is an oil painting by French Impressionist artist Pierre-Auguste Renoir.",
+    "wikipediaSlug": "Portrait_of_Ir%C3%A8ne_Cahen_d%27Anvers",
+    "image": "Pierre-Auguste_Renoir,_1880,_Portrait_of_Mademoiselle_Irène_Cahen_d'Anvers,_Sammlung_E.G._Bührle.jpg",
+    "pageViews": 1839
+  },
+  {
     "qid": "Q2622172",
     "title": "‘The Bellelli Family’ is painted",
     "subtitle": "Painting by Edgar Degas",
@@ -3108,6 +3118,16 @@
     "wikipediaSlug": "Boy_Bitten_by_a_Lizard",
     "image": "Boy_Bitten_by_a_Lizard_by_Caravaggio_(Florence).jpg",
     "pageViews": 1800
+  },
+  {
+    "qid": "Q1169199",
+    "title": "‘The Last Judgment (Beaune Altarpiece)’ is painted",
+    "subtitle": "Painting by Rogier van der Weyden",
+    "year": 1443,
+    "fact": "The Beaune Altarpiece is a large polyptych c. 1443–1451 altarpiece by the Early Netherlandish artist Rogier van der Weyden, painted in oil on oak panels with parts later transferred to canvas.",
+    "wikipediaSlug": "Beaune_Altarpiece",
+    "image": "Rogier_van_der_Weyden_-_Beaune_Altarpiece_exterior_(1443).jpg",
+    "pageViews": 1791
   },
   {
     "qid": "Q2636368",
@@ -3420,16 +3440,6 @@
     "pageViews": 1523
   },
   {
-    "qid": "Q334604",
-    "title": "‘Heart of the Andes’ is painted",
-    "subtitle": "Painting by Frederic Edwin Church",
-    "year": 1859,
-    "fact": "The Heart of the Andes is a large oil-on-canvas landscape painting by the American artist Frederic Edwin Church (1826–1900).",
-    "wikipediaSlug": "The_Heart_of_the_Andes",
-    "image": "Church_Heart_of_the_Andes.jpg",
-    "pageViews": 1511
-  },
-  {
     "qid": "Q2501284",
     "title": "‘The Great Bathers’ is painted",
     "subtitle": "Painting by Pierre-Auguste Renoir",
@@ -3520,6 +3530,16 @@
     "pageViews": 1449
   },
   {
+    "qid": "Q5967091",
+    "title": "‘The Virgin’ is painted",
+    "subtitle": "Painting by Gustav Klimt",
+    "year": 1913,
+    "fact": "The Maiden is a painting by the Austrian painter Gustav Klimt painted in 1913.",
+    "wikipediaSlug": "The_Maiden_(Klimt)",
+    "image": "KlimtDieJungfrau.jpg",
+    "pageViews": 1433
+  },
+  {
     "qid": "Q1747569",
     "title": "‘The Madonna in the Church’ is painted",
     "subtitle": "Painting by Jan van Eyck",
@@ -3548,16 +3568,6 @@
     "wikipediaSlug": "Poppy_Flowers",
     "image": "Van_Gogh_-_Vase_mit_Pechnelken.jpeg",
     "pageViews": 1423
-  },
-  {
-    "qid": "Q642198",
-    "title": "‘The Annunciation, with Saint Emidius’ is painted",
-    "subtitle": "Painting by Carlo Crivelli",
-    "year": 1486,
-    "fact": "The Annunciation, with Saint Emidius is an altarpiece by Italian artist Carlo Crivelli showing an artistic adaptation of the Annunciation.",
-    "wikipediaSlug": "The_Annunciation,_with_Saint_Emidius",
-    "image": "The_Annunciation,_with_Saint_Emidius_-_Carlo_Crivelli_-_National_Gallery.jpg",
-    "pageViews": 1420
   },
   {
     "qid": "Q1787143",
@@ -3683,7 +3693,7 @@
     "qid": "Q680128",
     "title": "‘Christ Carrying the Cross’ is painted",
     "subtitle": "Painting by Hieronymus Bosch",
-    "year": 1510,
+    "year": 1500,
     "fact": "Christ Carrying the Cross is a painting attributed to a follower of Hieronymus Bosch.",
     "wikipediaSlug": "Christ_Carrying_the_Cross_(Bosch,_Ghent)",
     "image": "Jheronimus_Bosch_or_follower_001.jpg",
@@ -3728,16 +3738,6 @@
     "wikipediaSlug": "Officer_and_Laughing_Girl",
     "image": "Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
     "pageViews": 1334
-  },
-  {
-    "qid": "Q323079",
-    "title": "‘Dresden Triptych’ is painted",
-    "subtitle": "Painting by Jan van Eyck",
-    "year": 1437,
-    "fact": "The Dresden Triptych is a very small hinged-triptych altarpiece by the Early Netherlandish painter Jan van Eyck.",
-    "wikipediaSlug": "Dresden_Triptych",
-    "image": "Jan_van_Eyck_-_Triptych_of_Mary_and_Child,_St._Michael,_and_the_Catherine_-_Google_Art_Project.jpg",
-    "pageViews": 1326
   },
   {
     "qid": "Q2388965",
@@ -3960,16 +3960,6 @@
     "pageViews": 1119
   },
   {
-    "qid": "Q835286",
-    "title": "‘Mars Being Disarmed by Venus’ is painted",
-    "subtitle": "Painting by Jacques-Louis David",
-    "year": 1824,
-    "fact": "Mars Being Disarmed by Venus is the last painting produced by the French artist Jacques-Louis David.",
-    "wikipediaSlug": "Mars_Being_Disarmed_by_Venus",
-    "image": "Jacques-Louis_David_-_Mars_désarmé_par_Vénus.jpg",
-    "pageViews": 1114
-  },
-  {
     "qid": "Q958088",
     "title": "‘Portrait of a Young Woman’ is painted",
     "subtitle": "Painting by Johannes Vermeer",
@@ -4058,16 +4048,6 @@
     "wikipediaSlug": "The_Wine_Glass",
     "image": "Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
     "pageViews": 1047
-  },
-  {
-    "qid": "Q706846",
-    "title": "‘Dwelling in the Fuchun Mountains’ is painted",
-    "subtitle": "Painting by Huang Gongwang",
-    "year": 1348,
-    "fact": "Dwelling in the Fuchun Mountains is one of the few surviving works by Chinese painter Huang Gongwang (1269–1354) and is considered to be among his greatest works.",
-    "wikipediaSlug": "Dwelling_in_the_Fuchun_Mountains",
-    "image": "Dwelling_in_the_Fuchun_Mountains_(first_half).JPG",
-    "pageViews": 1046
   },
   {
     "qid": "Q1169874",

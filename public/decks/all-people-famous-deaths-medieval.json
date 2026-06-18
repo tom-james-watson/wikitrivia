@@ -42,7 +42,7 @@
   {
     "qid": "Q3044",
     "title": "Charlemagne dies",
-    "subtitle": "King of Franks, regarded as the first Holy Roman Emperor",
+    "subtitle": null,
     "year": 814,
     "fact": "Charlemagne was King of the Franks from 768, King of the Lombards from 774, and Emperor of what is now known as the Carolingian Empire from 800.",
     "wikipediaSlug": "Charlemagne",
@@ -610,6 +610,16 @@
     "pageViews": 20329
   },
   {
+    "qid": "Q134259",
+    "title": "Louis VII of France dies",
+    "subtitle": null,
+    "year": 1180,
+    "fact": "Louis VII, was King of France from 1137 to 1180.",
+    "wikipediaSlug": "Louis_VII_of_France",
+    "image": "Louis_7.jpg",
+    "pageViews": 18570
+  },
+  {
     "qid": "Q7814",
     "title": "Giotto dies",
     "subtitle": "Italian painter and architect",
@@ -628,26 +638,6 @@
     "wikipediaSlug": "Roger_Bacon",
     "image": "Roger-bacon-statue.jpg",
     "pageViews": 16012
-  },
-  {
-    "qid": "Q51884",
-    "title": "John of Damascus dies",
-    "subtitle": "Christian monk, priest, hymnographer and apologist",
-    "year": 749,
-    "fact": "John of Damascus or John Damascene, born Yūḥana ibn Manṣūr ibn Sarjūn, was a Christian monk, priest, hymnographer, and apologist.",
-    "wikipediaSlug": "John_of_Damascus",
-    "image": "Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg",
-    "pageViews": 15425
-  },
-  {
-    "qid": "Q182897",
-    "title": "Prince Henry the Navigator dies",
-    "subtitle": "Portuguese prince and governor",
-    "year": 1460,
-    "fact": "Prince Henry of Portugal, Duke of Viseu, better known in English as Prince Henry the Navigator, was a Portuguese prince, a central figure in the early days of the Portuguese Empire and 15th-century European maritime exploration.",
-    "wikipediaSlug": "Prince_Henry_the_Navigator",
-    "image": "Henry_the_Navigator1.jpg",
-    "pageViews": 14550
   },
   {
     "qid": "Q771686",
@@ -770,26 +760,6 @@
     "pageViews": 9786
   },
   {
-    "qid": "Q36020",
-    "title": "Su Shi dies",
-    "subtitle": "Chinese writer and politician",
-    "year": 1101,
-    "fact": "Su Shi, courtesy name Zizhan (子瞻), art name Dongpo (東坡), was a Chinese poet, essayist, calligrapher, painter, scholar-official, literatus, artist, pharmacologist, and gastronome who lived during the Song dynasty.",
-    "wikipediaSlug": "Su_Shi",
-    "image": "Su_shi.jpg",
-    "pageViews": 9187
-  },
-  {
-    "qid": "Q305975",
-    "title": "Abbas Ibn Firnas dies",
-    "subtitle": "9Th century astronomer and physician",
-    "year": 887,
-    "fact": "Abū al-Qāsim ʿAbbās ibn Firnās ibn Wardās al-Tākurunnī, known as ʿAbbās ibn Firnās was an Andalusi polymath: an inventor, astronomer, physician, chemist, engineer, musician, and poet.",
-    "wikipediaSlug": "Abbas_ibn_Firnas",
-    "image": "Armen_Firman_Abbás_Ibn_Firnás_(MUNCYT,_Eulogia_Merle).jpg",
-    "pageViews": 7273
-  },
-  {
     "qid": "Q182046",
     "title": "Leon Battista Alberti dies",
     "subtitle": "Italian architect and writer",
@@ -818,16 +788,6 @@
     "wikipediaSlug": "Babak_Khorramdin",
     "image": "Papak_Xorramdin.jpg",
     "pageViews": 6429
-  },
-  {
-    "qid": "Q183458",
-    "title": "Andrea del Verrocchio dies",
-    "subtitle": "15Th century Italian sculptor, goldsmith and painter",
-    "year": 1488,
-    "fact": "Andrea del Verrocchio was an Italian sculptor, painter and goldsmith who was a master of a workshop in Florence.",
-    "wikipediaSlug": "Andrea_del_Verrocchio",
-    "image": "Andrea_del_Castagno,_portrait_de_Verrocchio,_vers_1470.jpg",
-    "pageViews": 6171
   },
   {
     "qid": "Q188995",
@@ -898,16 +858,6 @@
     "wikipediaSlug": "Giovanni_da_Pian_del_Carpine",
     "image": "Central_Asian_trade_routes.jpg",
     "pageViews": 2357
-  },
-  {
-    "qid": "Q313605",
-    "title": "Wang Wei dies",
-    "subtitle": "Chinese poet, musician, painter, and statesman",
-    "year": 759,
-    "fact": "Wang Wei, courtesy name Mojie, was a Chinese musician, painter, poet, and politician of the middle Tang dynasty.",
-    "wikipediaSlug": "Wang_Wei",
-    "image": "Wang_Wei.jpg",
-    "pageViews": 2240
   },
   {
     "qid": "Q2704613",

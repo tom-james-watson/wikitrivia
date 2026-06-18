@@ -1,48 +1,174 @@
 [
   {
-    "item": "http://www.wikidata.org/entity/Q2831",
-    "itemLabel": "Michael Jackson",
-    "year": "2009",
-    "sitelinks": "325",
-    "description": "American singer, songwriter, dancer, and philanthropist (1958–2009)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||businessperson||entrepreneur||singer||dancer||record producer||musician||philanthropist||autobiographer||singer-songwriter||songwriter||choreographer"
+    "item": "http://www.wikidata.org/entity/Q762",
+    "itemLabel": "Leonardo da Vinci",
+    "year": "1519",
+    "sitelinks": "304",
+    "description": "Italian Renaissance polymath (1452−1519)",
+    "nationalityLabel": "Republic of Florence",
+    "occupationLabel": "scientist||engineer||astronomer||botanist||naturalist||composer||author||architect||physicist||mathematician||caricaturist||inventor||diplomat||natural philosopher||artist||chemist||mechanic||librettist||visual artist||polymath||designer||zoologist||anatomist||musician||painter||physiologist||sculptor||architectural drafter||master builder||graphic artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q254",
     "itemLabel": "Wolfgang Amadeus Mozart",
     "year": "1791",
-    "sitelinks": "269",
-    "description": "Austrian composer of the Classical period (1756–1791)",
+    "sitelinks": "274",
+    "description": "Austrian composer of the Classical period (1756-1791)",
     "nationalityLabel": "Prince-Archbishopric of Salzburg",
-    "occupationLabel": "composer||musician||pianist||organist||music educator||violinist"
+    "occupationLabel": "composer||pianist||musician||organist||violinist||music educator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q882",
+    "itemLabel": "Charlie Chaplin",
+    "year": "1977",
+    "sitelinks": "259",
+    "description": "English comic actor and filmmaker (1889–1977)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||composer||author||screenwriter||film director||film producer||director||film screenwriter||comedian||producer||film editor||film actor||musician||film score composer||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4616",
+    "itemLabel": "Marilyn Monroe",
+    "year": "1962",
+    "sitelinks": "239",
+    "description": "American actress and model (1926–1962)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||film producer||singer||fashion model||model||film actor||Playboy Playmate||musician||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1268",
     "itemLabel": "Frédéric Chopin",
     "year": "1849",
-    "sitelinks": "198",
+    "sitelinks": "200",
     "description": "Polish composer and pianist (1810–1849)",
-    "nationalityLabel": "Duchy of Warsaw||Congress Poland||Russian||French",
-    "occupationLabel": "composer||virtuoso||musician||piano teacher||pianist||pedagogue"
+    "nationalityLabel": "Congress Poland||Duchy of Warsaw||Russian||French",
+    "occupationLabel": "composer||pianist||virtuoso||musician||pedagogue||piano teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4612",
+    "itemLabel": "Marlene Dietrich",
+    "year": "1992",
+    "sitelinks": "199",
+    "description": "German and American actress and singer (1901–1992)",
+    "nationalityLabel": "German||Weimar Republic||Nazi Germany||American||Americans",
+    "occupationLabel": "actor||entertainer||singer||television actor||film actor||musician||violinist||resistance fighter||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30547",
+    "itemLabel": "Mother Teresa",
+    "year": "1997",
+    "sitelinks": "198",
+    "description": "Albanian-Indian Catholic nun and missionary (1910–1997)",
+    "nationalityLabel": "Dominion of India||Indian||Ottoman||Albanian||Albanians",
+    "occupationLabel": "founder of Catholic religious community||missionary||nun||religious sister||Christian nun||librettist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1203",
+    "itemLabel": "John Lennon",
+    "year": "1980",
+    "sitelinks": "183",
+    "description": "British musician (1940–1980)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||composer||author||film director||film producer||singer||poet||pianist||recording artist||pop singer||singer-songwriter||political activist||film actor||musician||prose writer||songwriter||guitarist||performance artist||public figure||draftsperson||peace activist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12897",
+    "itemLabel": "Pelé",
+    "year": "2022",
+    "sitelinks": "181",
+    "description": "Brazilian footballer (1940–2022)",
+    "nationalityLabel": "Brazilian||Brazilians",
+    "occupationLabel": "actor||politician||composer||film actor||musician||association football player||athlete"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1779",
+    "itemLabel": "Louis Armstrong",
+    "year": "1971",
+    "sitelinks": "176",
+    "description": "American jazz musician, trumpeter and singer (1901–1971)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||radio personality||conductor||singer||street artist||orchestra leader||recording artist||bandleader||film actor||trumpeter||musician||songwriter||jazz musician||film score composer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35900",
     "itemLabel": "Omar Khayyám",
     "year": "1131",
-    "sitelinks": "164",
+    "sitelinks": "165",
     "description": "Persian mathematician and poet (1048–1131)",
     "nationalityLabel": "Seljuk Empire",
-    "occupationLabel": "astronomer||writer||poet||astrologer||mathematician||physicist||philosopher||musician||lyricist"
+    "occupationLabel": "astronomer||author||astrologer||physicist||mathematician||poet||philosopher||lyricist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37030",
+    "itemLabel": "Thomas Mann",
+    "year": "1955",
+    "sitelinks": "162",
+    "description": "German novelist and Nobel Prize laureate (1875–1955)",
+    "nationalityLabel": "German||Czechoslovak||American||Americans",
+    "occupationLabel": "author||screenwriter||poet||novelist||musician||essayist||university teacher||short story writer||social critic||diarist||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83338",
+    "itemLabel": "Robin Williams",
+    "year": "2014",
+    "sitelinks": "161",
+    "description": "American actor and comedian (1951–2014)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||actor||screenwriter||film producer||audiobook narrator||comedian||television actor||film actor||musician||mime artist||stand-up comedian||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38757",
+    "itemLabel": "Bertolt Brecht",
+    "year": "1956",
+    "sitelinks": "154",
+    "description": "German poet, playwright, and theatre director (1898–1956)",
+    "nationalityLabel": "Weimar Republic||German||East German||Austrian",
+    "occupationLabel": "actor||author||screenwriter||film director||director||poet||Theaterintendant||literary critic||playwright||librettist||theatre director||lyricist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11637",
+    "itemLabel": "Judy Garland",
+    "year": "1969",
+    "sitelinks": "151",
+    "description": "American actress, singer, dancer and vaudevillian (1922–1969)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||actor||radio personality||singer||television actor||film actor||musician||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44301",
+    "itemLabel": "Jim Morrison",
+    "year": "1971",
+    "sitelinks": "149",
+    "description": "American singer and poet; lead vocalist of The Doors (1943–1971)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||speaker||composer||singer||director||poet||vocalist||singer-songwriter||lyricist||rock musician||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41408",
+    "itemLabel": "Federico García Lorca",
+    "year": "1936",
+    "sitelinks": "142",
+    "description": "Spanish poet, dramatist and prose writer (1898–1936)",
+    "nationalityLabel": "Spanish||Spaniard",
+    "occupationLabel": "composer||author||poet||playwright||librettist||theatre director||lyricist||musician||draftsperson||theatre manager"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47162",
     "itemLabel": "Romain Rolland",
     "year": "1944",
-    "sitelinks": "139",
+    "sitelinks": "140",
     "description": "French author (1866-1944)",
     "nationalityLabel": "French",
-    "occupationLabel": "writer||teacher||novelist||historian||playwright||musician||essayist||musicologist||prose writer||biographer"
+    "occupationLabel": "teacher||author||historian||novelist||playwright||musician||prose writer||biographer||essayist||musicologist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106529",
+    "itemLabel": "Alain Delon",
+    "year": "2024",
+    "sitelinks": "138",
+    "description": "French actor (1935–2024)",
+    "nationalityLabel": "Swiss||French",
+    "occupationLabel": "actor||author||screenwriter||film director||film producer||singer||director||producer||television actor||art collector||film actor||musician||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5383",
@@ -51,7 +177,7 @@
     "sitelinks": "136",
     "description": "English musician and actor (1947–2016)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "actor||visual artist||composer||film producer||art collector||singer||film actor||record producer||manufacturer||musician||librettist||pianist||occultist||singer-songwriter||songwriter||saxophonist||mime artist||bandleader||guitarist||music video director||painter||vocalist"
+    "occupationLabel": "actor||music video director||composer||film producer||record producer||singer||vocalist||pianist||librettist||visual artist||singer-songwriter||occultist||saxophonist||bandleader||art collector||film actor||manufacturer||musician||songwriter||guitarist||painter||mime artist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1413",
@@ -60,7 +186,25 @@
     "sitelinks": "135",
     "description": "fifth and last Roman Emperor of Julio-Claudian dynasty (54–68)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "military personnel||politician||poet||musician"
+    "occupationLabel": "politician||military personnel||poet||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34389",
+    "itemLabel": "Whitney Houston",
+    "year": "2012",
+    "sitelinks": "135",
+    "description": "American singer, actress, and film producer (1963–2012)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||film producer||record producer||singer||model||recording artist||television actor||film actor||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6107",
+    "itemLabel": "Tupac Shakur",
+    "year": "1996",
+    "sitelinks": "132",
+    "description": "American rapper and actor (1971–1996)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||composer||singer||poet||dancer||television actor||lyricist||film actor||musician||songwriter||activist||rapper"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42",
@@ -69,7 +213,7 @@
     "sitelinks": "132",
     "description": "British science fiction writer and humorist (1952–2001)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||screenwriter||comedian||novelist||children's writer||playwright||musician||science fiction writer"
+    "occupationLabel": "author||screenwriter||novelist||comedian||playwright||children's writer||musician||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1276",
@@ -78,7 +222,7 @@
     "sitelinks": "130",
     "description": "Canadian singer, songwriter and poet (1934–2016)",
     "nationalityLabel": "Canadian||Canadians",
-    "occupationLabel": "street artist||writer||screenwriter||poet||novelist||singer||film actor||record producer||musician||pianist||draftsperson||singer-songwriter||author||lyricist"
+    "occupationLabel": "author||screenwriter||record producer||singer||poet||street artist||novelist||pianist||singer-songwriter||lyricist||film actor||musician||draftsperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15897",
@@ -87,7 +231,25 @@
     "sitelinks": "129",
     "description": "British singer-songwriter (1983–2011)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "composer||jazz guitarist||singer||musician||singer-songwriter||songwriter||jazz musician||guitarist||recording artist"
+    "occupationLabel": "composer||singer||jazz guitarist||recording artist||singer-songwriter||musician||songwriter||guitarist||jazz musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8446",
+    "itemLabel": "Kurt Cobain",
+    "year": "1994",
+    "sitelinks": "127",
+    "description": "American rock musician (1967–1994)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||singer||rock singer||visual artist||musician||songwriter||guitarist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41309",
+    "itemLabel": "Franz Liszt",
+    "year": "1886",
+    "sitelinks": "126",
+    "description": "Hungarian romantic composer and virtuoso pianist (1811-1886)",
+    "nationalityLabel": "Kingdom of Hungary||Austrian||Austria–Hungary",
+    "occupationLabel": "composer||author||conductor||classical composer||pianist||Catholic priest||virtuoso||musician||music educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2643",
@@ -96,16 +258,115 @@
     "sitelinks": "126",
     "description": "English musician and member of the Beatles (1943–2001)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "horticulturist||actor||composer||film producer||poet||television actor||singer||film actor||record producer||musician||bass guitarist||autobiographer||singer-songwriter||songwriter||multi-instrumentalist||film score composer||guitarist||recording artist||film director"
+    "occupationLabel": "actor||composer||film director||film producer||record producer||singer||poet||horticulturist||recording artist||singer-songwriter||television actor||film actor||musician||songwriter||guitarist||bass guitarist||film score composer||multi-instrumentalist||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q78491",
+    "itemLabel": "Stefan Zweig",
+    "year": "1942",
+    "sitelinks": "125",
+    "description": "Austrian writer (1881–1942)",
+    "nationalityLabel": "Austrian",
+    "occupationLabel": "author||historian||collector||poet||literary critic||novelist||playwright||translator||musician||prose writer||biographer||essayist||journalist||pacifist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46096",
+    "itemLabel": "Felix Mendelssohn",
+    "year": "1847",
+    "sitelinks": "122",
+    "description": "German composer, pianist, organist and conductor of Jewish descent (1809-1847)",
+    "nationalityLabel": "Kingdom of Saxony||Hamburger",
+    "occupationLabel": "composer||author||conductor||pianist||musician||organist||painter||university teacher||musicologist||music educator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43247",
+    "itemLabel": "Ingrid Bergman",
+    "year": "1982",
+    "sitelinks": "122",
+    "description": "Swedish actress (1915–1982)",
+    "nationalityLabel": "Swedish",
+    "occupationLabel": "actor||film actor||musician||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q72984",
+    "itemLabel": "Bing Crosby",
+    "year": "1977",
+    "sitelinks": "121",
+    "description": "American singer and actor (1903–1977)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||actor||composer||author||screenwriter||radio personality||film producer||businessperson||singer||film screenwriter||television personality||comedian||producer||television actor||baseball player||film actor||musician||television producer||jazz musician||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49325",
+    "itemLabel": "Albert Schweitzer",
+    "year": "1965",
+    "sitelinks": "120",
+    "description": "French-German physician, theologian, musician, and philosopher (1875-1965)",
+    "nationalityLabel": "German||French",
+    "occupationLabel": "composer||physician||missionary||philosopher||music historian||author||musician||physician writer||organist||university teacher||musicologist||pacifist||theologian"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3925",
+    "itemLabel": "Grace Kelly",
+    "year": "1982",
+    "sitelinks": "117",
+    "description": "American actress and Princess consort of Monaco (1929–1982)",
+    "nationalityLabel": "Monacan||Monégasque||Monegasque||American||Americans",
+    "occupationLabel": "aristocrat||actor||model||television actor||film actor||musician||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4457",
+    "itemLabel": "Franz Beckenbauer",
+    "year": "2024",
+    "sitelinks": "115",
+    "description": "German sports official and association football player (1945–2024)",
+    "nationalityLabel": "West German||German",
+    "occupationLabel": "coach||professional athlete||sports executive||association football coach||association football player||musician||sports journalist||functionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14277",
     "itemLabel": "William Herschel",
     "year": "1822",
-    "sitelinks": "113",
+    "sitelinks": "114",
     "description": "German-born British astronomer and composer (1738–1822)",
-    "nationalityLabel": "British||Briton||Kingdom of Hanover",
+    "nationalityLabel": "Kingdom of Hanover||British||Briton",
     "occupationLabel": "astronomer||composer||physicist||musician||oboist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24829",
+    "itemLabel": "Orson Welles",
+    "year": "1985",
+    "sitelinks": "112",
+    "description": "American actor and filmmaker (1915–1985)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||actor||author||screenwriter||radio personality||film director||film producer||director||playwright||producer||television actor||film actor||musician||character actor||theatrical producer||theatre manager||magician||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q180338",
+    "itemLabel": "Christopher Lee",
+    "year": "2015",
+    "sitelinks": "111",
+    "description": "English actor and singer (1922–2015)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "voice actor||actor||author||film producer||military personnel||singer||military officer||SOE agent||producer||television actor||film actor||musician||orator||character actor||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2516",
+    "itemLabel": "Helmut Schmidt",
+    "year": "2015",
+    "sitelinks": "111",
+    "description": "Chancellor of West Germany (1974–1982)",
+    "nationalityLabel": "German",
+    "occupationLabel": "minister||publisher||politician||author||economist||civil servant||statesperson||musician||political economist||non-fiction writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202878",
+    "itemLabel": "Mae West",
+    "year": "1980",
+    "sitelinks": "110",
+    "description": "American actress, singer, screenwriter, and writer (1893–1980)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||screenwriter||singer||film screenwriter||comedian||playwright||television actor||film actor||musician||autobiographer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127330",
@@ -114,7 +375,7 @@
     "sitelinks": "110",
     "description": "American musician (1940–1993)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||screenwriter||film producer||singer||record producer||musician||rock musician||songwriter||rock guitarist||guitarist||journalist||film director||voice actor"
+    "occupationLabel": "voice actor||actor||composer||screenwriter||film director||film producer||record producer||singer||rock guitarist||bandleader||rock musician||musician||songwriter||guitarist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131814",
@@ -123,7 +384,25 @@
     "sitelinks": "110",
     "description": "American-born Swiss singer and songwriter (1939–2023)",
     "nationalityLabel": "Swiss||American||Americans",
-    "occupationLabel": "actor||singer||dancer||musician||autobiographer||songwriter||recording artist||choreographer||film director"
+    "occupationLabel": "choreographer||actor||film director||singer||recording artist||dancer||musician||songwriter||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1110560",
+    "itemLabel": "Umm Kulthum",
+    "year": "1975",
+    "sitelinks": "109",
+    "description": "Egyptian singer and actress (1904–1975)",
+    "nationalityLabel": "Republic of Egypt||United Arab Republic||Kingdom of Egypt||Egyptian",
+    "occupationLabel": "actor||singer||film actor||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181659",
+    "itemLabel": "Ursula K. Le Guin",
+    "year": "2018",
+    "sitelinks": "108",
+    "description": "American fantasy and science fiction author (1929–2018)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "author||screenwriter||poet||literary critic||novelist||writer of feminist science fiction||women's rights activist||children's writer||translator||musician||prose writer||journalist||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q71206",
@@ -132,7 +411,16 @@
     "sitelinks": "107",
     "description": "American actress (1908–1989)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||film actor||musician||autobiographer||stage actor||character actor"
+    "occupationLabel": "actor||television actor||film actor||musician||character actor||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182658",
+    "itemLabel": "Harper Lee",
+    "year": "2016",
+    "sitelinks": "107",
+    "description": "American novelist (1926–2016)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||screenwriter||novelist||musician||prose writer||poet lawyer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q133151",
@@ -141,16 +429,16 @@
     "sitelinks": "106",
     "description": "English musician and television personality (1948–2025)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "composer||rock singer||singer||musician||singer-songwriter"
+    "occupationLabel": "composer||singer||rock singer||singer-songwriter||musician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182658",
-    "itemLabel": "Harper Lee",
-    "year": "2016",
+    "item": "http://www.wikidata.org/entity/Q544387",
+    "itemLabel": "Ray Charles",
+    "year": "2004",
     "sitelinks": "105",
-    "description": "American novelist (1926–2016)",
+    "description": "American singer, pianist and songwriter (1930–2004)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||writer||screenwriter||novelist||musician||prose writer||poet lawyer"
+    "occupationLabel": "composer||singer||vocalist||soul musician||pianist||recording artist||singer-songwriter||bandleader||musician||jazz musician||music arranger"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2071",
@@ -159,25 +447,106 @@
     "sitelinks": "105",
     "description": "American filmmaker, visual artist, musician, and actor (1946–2025)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||visual artist||composer||writer||screenwriter||film producer||photographer||director||television actor||animator||film editor||film actor||cinematographer||musician||songwriter||film screenwriter||lyricist||producer||film director||painter||voice actor"
+    "occupationLabel": "photographer||voice actor||actor||composer||author||film director||film producer||singer||director||film screenwriter||cinematographer||animator||television actor||film editor||lyricist||film actor||musician||songwriter||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42745",
+    "itemLabel": "Rita Hayworth",
+    "year": "1987",
+    "sitelinks": "104",
+    "description": "American actress (1918–1987)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||pin-up model||model||producer||dancer||television actor||film actor||musician||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190523",
+    "itemLabel": "Christopher Plummer",
+    "year": "2021",
+    "sitelinks": "104",
+    "description": "Canadian actor (1929–2021)",
+    "nationalityLabel": "Canadian||Canadians",
+    "occupationLabel": "voice actor||actor||singer||television actor||film actor||musician||character actor||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83326",
     "itemLabel": "Béla Bartók",
     "year": "1945",
-    "sitelinks": "101",
+    "sitelinks": "103",
     "description": "Hungarian composer and pianist (1881–1945)",
     "nationalityLabel": "American||Americans||Hungarian",
-    "occupationLabel": "composer||politician||musician||ethnomusicologist||musicologist||pianist||music educator||classical pianist||collector of folk music||choreographer||university teacher"
+    "occupationLabel": "choreographer||politician||composer||classical pianist||pianist||collector of folk music||musician||university teacher||musicologist||music educator||ethnomusicologist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1514",
-    "itemLabel": "Janis Joplin",
-    "year": "1970",
-    "sitelinks": "100",
-    "description": "American singer (1943–1970)",
+    "item": "http://www.wikidata.org/entity/Q130311",
+    "itemLabel": "George Michael",
+    "year": "2016",
+    "sitelinks": "103",
+    "description": "English singer (1963–2016)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "composer||film director||record producer||singer||recording artist||singer-songwriter||television actor||lyricist||musician||songwriter||multi-instrumentalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103876",
+    "itemLabel": "Peter O'Toole",
+    "year": "2013",
+    "sitelinks": "102",
+    "description": "British-Irish actor (1932–2013)",
+    "nationalityLabel": "British||Briton||Irish",
+    "occupationLabel": "voice actor||actor||author||film director||film producer||director||television actor||film actor||musician||theatre manager||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100937",
+    "itemLabel": "Fred Astaire",
+    "year": "1987",
+    "sitelinks": "101",
+    "description": "American dancer, actor, and singer (1899–1987)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||singer||musician||singer-songwriter||guitarist||recording artist"
+    "occupationLabel": "voice actor||choreographer||actor||film producer||singer||percussionist||dancer||television actor||film actor||musician||television producer||executive producer||television presenter||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104027",
+    "itemLabel": "Kirk Douglas",
+    "year": "2020",
+    "sitelinks": "101",
+    "description": "American actor (1916–2020)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||screenwriter||film director||film producer||military personnel||director||soldier||television actor||film actor||musician||philanthropist||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1768",
+    "itemLabel": "Ella Fitzgerald",
+    "year": "1996",
+    "sitelinks": "100",
+    "description": "American jazz singer (1917–1996)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||conductor||singer||jazz singer||recording artist||singer-songwriter||bandleader||film actor||musician||jazz musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5950",
+    "itemLabel": "James Brown",
+    "year": "2006",
+    "sitelinks": "100",
+    "description": "American musician (1933–2006)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||composer||record producer||singer||sound designer||soul musician||pianist||singer-songwriter||dancer||musician||manufacturer||guitarist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104372",
+    "itemLabel": "Doris Day",
+    "year": "2019",
+    "sitelinks": "100",
+    "description": "American actress and singer (1922–2019)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||actor||singer||recording artist||television actor||film actor||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104049",
+    "itemLabel": "Sidney Poitier",
+    "year": "2022",
+    "sitelinks": "100",
+    "description": "Bahamian and American actor and diplomat (1927–2022)",
+    "nationalityLabel": "Bahamian||American||Americans",
+    "occupationLabel": "actor||author||film director||film producer||director||diplomat||theatre director||television actor||film actor||musician||television producer||activist||autobiographer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93341",
@@ -186,16 +555,43 @@
     "sitelinks": "99",
     "description": "American jazz trumpeter, bandleader, and composer (1926–1991)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||orchestra leader||television actor||conductor||musician||trumpeter||autobiographer||songwriter||jazz musician||bandleader||film score composer||recording artist"
+    "occupationLabel": "actor||composer||conductor||orchestra leader||recording artist||television actor||bandleader||trumpeter||musician||songwriter||jazz musician||music arranger||film score composer||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49034",
     "itemLabel": "Hedy Lamarr",
     "year": "2000",
-    "sitelinks": "97",
+    "sitelinks": "99",
     "description": "Austrian-American actress and co-inventor of an early technique for spread spectrum communications and frequency hopping (1914-2000)",
     "nationalityLabel": "Austrian||American||Americans",
-    "occupationLabel": "actor||screenwriter||film producer||entertainer||model||inventor||film actor||musician||autobiographer"
+    "occupationLabel": "actor||entertainer||screenwriter||film producer||inventor||model||film actor||musician||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1785",
+    "itemLabel": "Charles Aznavour",
+    "year": "2018",
+    "sitelinks": "98",
+    "description": "Armenian-French singer and diplomat (1924-2018)",
+    "nationalityLabel": "Armenian||French",
+    "occupationLabel": "actor||composer||author||screenwriter||film director||singer||diplomat||poet||recording artist||lyricist||film actor||musician||chansonnier"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q146256",
+    "itemLabel": "Miriam Makeba",
+    "year": "2008",
+    "sitelinks": "97",
+    "description": "South African singer and civil rights activist (1932–2008)",
+    "nationalityLabel": "South African||Algerian",
+    "occupationLabel": "actor||composer||singer||recording artist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188969",
+    "itemLabel": "B. B. King",
+    "year": "2015",
+    "sitelinks": "97",
+    "description": "American blues guitarist, singer, and songwriter (1925–2015)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||record producer||singer||blues musician||pianist||singer-songwriter||musician||guitarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19198",
@@ -204,7 +600,25 @@
     "sitelinks": "97",
     "description": "American singer, songwriter and musician (1976–2017)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||rock singer||singer||musician||songwriter"
+    "occupationLabel": "actor||composer||singer||rock singer||musician||songwriter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151972",
+    "itemLabel": "Josephine Baker",
+    "year": "1975",
+    "sitelinks": "96",
+    "description": "American-born French dancer, singer and actress (1906–1975)",
+    "nationalityLabel": "French||American||Americans",
+    "occupationLabel": "actor||entertainer||author||vedette||singer||military officer||street artist||model||dancer||film actor||musician||intelligence officer||civil rights advocate||jazz musician||resistance fighter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103774",
+    "itemLabel": "Ravi Shankar",
+    "year": "2012",
+    "sitelinks": "96",
+    "description": "Indian sitar player (1920–2012)",
+    "nationalityLabel": "British Raj||Indian",
+    "occupationLabel": "politician||composer||conductor||film director||singer||sitarist||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q485508",
@@ -213,16 +627,25 @@
     "sitelinks": "96",
     "description": "American criminal and cult leader (1934–2017)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "musician||cult leader||serial killer||criminal"
+    "occupationLabel": "cult leader||serial killer||musician||criminal"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5921",
+    "itemLabel": "Chuck Berry",
+    "year": "2017",
+    "sitelinks": "96",
+    "description": "American musician (1926–2017)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||singer||restaurateur||singer-songwriter||rock musician||musician||guitarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q70326",
-    "itemLabel": "Pierre Beaumarchais",
+    "itemLabel": "Pierre-Augustin de Beaumarchais",
     "year": "1799",
-    "sitelinks": "94",
+    "sitelinks": "95",
     "description": "French playwright, diplomat and polymath (1732–1799)",
     "nationalityLabel": "French",
-    "occupationLabel": "poet||businessperson||watchmaker||opinion journalist||playwright||musician||arms trader||spy||diplomat||publisher||financier"
+    "occupationLabel": "publisher||politician||author||watchmaker||businessperson||arms trader||diplomat||poet||playwright||spy||musician||opinion journalist||financier"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6711",
@@ -231,7 +654,7 @@
     "sitelinks": "94",
     "description": "American poet and writer (1926–1997)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||poet||photographer||teacher||playwright||musician||diarist||autobiographer"
+    "occupationLabel": "photographer||teacher||author||screenwriter||poet||playwright||librettist||musician||diarist||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23848",
@@ -240,16 +663,61 @@
     "sitelinks": "94",
     "description": "Italian composer, orchestrator and conductor (1928–2020)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "composer||orchestrator||orchestra leader||conductor||record producer||musician||pianist||trumpeter||film score composer||music arranger"
+    "occupationLabel": "composer||conductor||record producer||orchestrator||orchestra leader||pianist||trumpeter||musician||music arranger||film score composer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55245",
+    "itemLabel": "Laurence Olivier",
+    "year": "1989",
+    "sitelinks": "93",
+    "description": "English actor and director (1907–1989)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||politician||screenwriter||film director||film producer||director||film screenwriter||producer||dramaturge||theatre director||television actor||film actor||musician||character actor||theatre manager||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80739",
+    "itemLabel": "Charlton Heston",
+    "year": "2008",
+    "sitelinks": "93",
+    "description": "American actor (1923–2008)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||speaker||actor||author||screenwriter||film director||military personnel||director||military officer||film screenwriter||social activist||television actor||political activist||film actor||musician||civil rights advocate||activist||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106481",
+    "itemLabel": "Alan Rickman",
+    "year": "2016",
+    "sitelinks": "93",
+    "description": "British actor and director (1946–2016)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "voice actor||actor||author||screenwriter||film director||film producer||director||theatre director||television actor||film actor||musician||graphic designer||character actor||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48173",
     "itemLabel": "Bedřich Smetana",
     "year": "1884",
     "sitelinks": "92",
-    "description": "Czech composer (1824–1884)",
-    "nationalityLabel": "Austria–Hungary||Austrian",
-    "occupationLabel": "composer||teacher||conductor||musician||pianist||music educator||pedagogue"
+    "description": "Czech composer",
+    "nationalityLabel": "Austrian||Austria–Hungary",
+    "occupationLabel": "composer||teacher||conductor||pianist||musician||music arranger||pedagogue||music educator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25820",
+    "itemLabel": "Thomas Young",
+    "year": "1829",
+    "sitelinks": "91",
+    "description": "English polymath (1773-1829)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "astronomer||botanist||physician||entomologist||archaeologist||physicist||philosopher||anthropologist||musician||university teacher||Egyptologist||physiologist||linguist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164004",
+    "itemLabel": "Alexander Borodin",
+    "year": "1887",
+    "sitelinks": "91",
+    "description": "Russian composer, doctor and chemist (1833–1887)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "composer||physician||classical composer||opera composer||chemist||pianist||musician||flautist||cellist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q13894",
@@ -258,34 +726,25 @@
     "sitelinks": "91",
     "description": "German composer and orchestra director (1864–1949)",
     "nationalityLabel": "German",
-    "occupationLabel": "composer||conductor||musician||librettist"
+    "occupationLabel": "composer||conductor||general music director||librettist||musician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q164004",
-    "itemLabel": "Alexander Borodin",
-    "year": "1887",
-    "sitelinks": "90",
-    "description": "Russian composer, doctor and chemist (1833–1887)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "composer||physician||musician||pianist||chemist||classical composer||opera composer||flautist||cellist"
+    "item": "http://www.wikidata.org/entity/Q177984",
+    "itemLabel": "Peter Sellers",
+    "year": "1980",
+    "sitelinks": "91",
+    "description": "British actor and comedian (1925–1980)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||screenwriter||film director||singer||director||comedian||television actor||banjoist||film actor||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160318",
     "itemLabel": "Norodom Sihanouk",
     "year": "2012",
-    "sitelinks": "90",
+    "sitelinks": "91",
     "description": "Cambodian monarch and politician (1922–2012)",
     "nationalityLabel": "Cambodian",
-    "occupationLabel": "actor||composer||screenwriter||politician||singer||musician||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q25820",
-    "itemLabel": "Thomas Young",
-    "year": "1829",
-    "sitelinks": "89",
-    "description": "English polymath (1773-1829)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "entomologist||astronomer||archaeologist||physician||anthropologist||physicist||philosopher||musician||linguist||egyptologist||botanist||university teacher||physiologist"
+    "occupationLabel": "politician||actor||composer||screenwriter||film director||singer||musician||ruler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104358",
@@ -294,25 +753,106 @@
     "sitelinks": "89",
     "description": "American jazz singer (1915–1959)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||singer||musician||autobiographer||singer-songwriter||songwriter||jazz singer||author"
+    "occupationLabel": "actor||composer||singer||jazz singer||author||singer-songwriter||bandleader||musician||songwriter||jazz musician||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q201538",
+    "itemLabel": "Edward Said",
+    "year": "2003",
+    "sitelinks": "89",
+    "description": "Palestinian-American professor (1935–2003)",
+    "nationalityLabel": "Mandatory Palestine||American||Americans",
+    "occupationLabel": "author||philosopher||literary critic||translator||musician||philologist||university teacher||journalist||musicologist||music critic||political scientist||researcher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132682",
+    "itemLabel": "Modest Petrovich Mussorgsky",
+    "year": "1881",
+    "sitelinks": "88",
+    "description": "Russian composer (1839–1881)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "composer||military personnel||pianist||librettist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4030",
+    "itemLabel": "Duke Ellington",
+    "year": "1974",
+    "sitelinks": "88",
+    "description": "American jazz pianist and composer (1899–1974)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||conductor||record producer||jazz arranger||orchestra leader||pianist||bandleader||lyricist||musician||jazz musician||music arranger||film score composer||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164487",
+    "itemLabel": "Ava Gardner",
+    "year": "1990",
+    "sitelinks": "88",
+    "description": "American actress (1922–1990)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||model||television actor||film actor||musician||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q505476",
     "itemLabel": "Avicii",
     "year": "2018",
     "sitelinks": "88",
-    "description": "Swedish record producer (1989–2018)",
+    "description": "Swedish electronic music producer (1989–2018)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "disc jockey||singer||record producer||musician||remixer"
+    "occupationLabel": "composer||disc jockey||record producer||fashion model||remixer||musician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4030",
-    "itemLabel": "Duke Ellington",
-    "year": "1974",
+    "item": "http://www.wikidata.org/entity/Q55796",
+    "itemLabel": "Peter Ustinov",
+    "year": "2004",
     "sitelinks": "87",
-    "description": "American jazz pianist and composer (1899–1974)",
+    "description": "British actor, writer and director (1921–2004)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "voice actor||actor||author||screenwriter||film director||film producer||military personnel||singer||director||humanitarian||military officer||film screenwriter||comedian||playwright||librettist||television actor||film actor||musician||television presenter||cabaret performer||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151973",
+    "itemLabel": "Richard Burton",
+    "year": "1984",
+    "sitelinks": "86",
+    "description": "Welsh actor (1925–1984)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "speaker||actor||film director||film producer||director||producer||film actor||musician||diarist||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190076",
+    "itemLabel": "Joe Cocker",
+    "year": "2014",
+    "sitelinks": "86",
+    "description": "British singer (1944–2014)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||singer||plumber||pianist||recording artist||musician||songwriter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244441",
+    "itemLabel": "Pete Seeger",
+    "year": "2014",
+    "sitelinks": "86",
+    "description": "American folk singer (1919–2014)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||orchestra leader||conductor||record producer||musician||pianist||autobiographer||jazz musician||jazz arranger||bandleader||film score composer||lyricist||music arranger"
+    "occupationLabel": "guitar||composer||singer||street artist||folk musician||recording artist||singer-songwriter||banjoist||musician||songwriter||guitarist||musicologist||peace activist||mandolinist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151435",
+    "itemLabel": "Montserrat Caballé",
+    "year": "2018",
+    "sitelinks": "86",
+    "description": "Spanish operatic soprano (1933–2018)",
+    "nationalityLabel": "Spanish||Spaniard",
+    "occupationLabel": "opera singer||singer||recording artist||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q73089",
+    "itemLabel": "Gene Kelly",
+    "year": "1996",
+    "sitelinks": "85",
+    "description": "American dancer, actor, singer, director and choreographer (1912–1996)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "choreographer||actor||screenwriter||film director||film producer||singer||director||film screenwriter||producer||dancer||television actor||film actor||musician||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q162005",
@@ -321,7 +861,52 @@
     "sitelinks": "85",
     "description": "American businessman and philanthropist, co-founder of Microsoft (1953–2018)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||computer scientist||film producer||businessperson||entrepreneur||programmer||art collector||inventor||record producer||philanthropist||musician||television producer||investor||co-founder"
+    "occupationLabel": "computer scientist||entrepreneur||composer||film producer||record producer||businessperson||inventor||co-founder||programmer||investor||art collector||musician||television producer||philanthropist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23842",
+    "itemLabel": "Jean Gabin",
+    "year": "1976",
+    "sitelinks": "84",
+    "description": "French actor and singer (1904–1976)",
+    "nationalityLabel": "French",
+    "occupationLabel": "author||screenwriter||singer||cattle rearer||dancer||film actor||musician||horse breeder"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83484",
+    "itemLabel": "Anthony Quinn",
+    "year": "2001",
+    "sitelinks": "84",
+    "description": "Mexican and American actor (1915–2001)",
+    "nationalityLabel": "Mexican||Mexicans||American||Americans",
+    "occupationLabel": "actor||author||film director||director||television actor||film actor||musician||painter||sculptor||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q263696",
+    "itemLabel": "Debbie Reynolds",
+    "year": "2016",
+    "sitelinks": "84",
+    "description": "American actress, singer, and dancer (1932–2016)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||entrepreneur||actor||author||screenwriter||singer||humanitarian||dancer||television actor||film actor||musician||beauty pageant contestant||autobiographer||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156347",
+    "itemLabel": "Lata Mangeshkar",
+    "year": "2022",
+    "sitelinks": "84",
+    "description": "Indian singer (1929–2022)",
+    "nationalityLabel": "Indian",
+    "occupationLabel": "film producer||singer||film actor||musician||playback singer||film score composer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174957",
+    "itemLabel": "Nina Simone",
+    "year": "2003",
+    "sitelinks": "83",
+    "description": "American singer, songwriter and pianist and civil rights activist (1933–2003)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "singer||jazz pianist||pianist||recording artist||singer-songwriter||musician||civil rights advocate||jazz musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182642",
@@ -330,7 +915,7 @@
     "sitelinks": "83",
     "description": "American astronaut and politician (1921–2016)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "astronaut||screenwriter||politician||businessperson||television actor||film actor||military officer||musician||test pilot||aircraft pilot||manager"
+    "occupationLabel": "astronaut||politician||manager||screenwriter||businessperson||military officer||television actor||film actor||musician||test pilot||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180374",
@@ -339,7 +924,52 @@
     "sitelinks": "83",
     "description": "Canadian and American architect (1929–2025)",
     "nationalityLabel": "American||Americans||Canadian||Canadians",
-    "occupationLabel": "scenographer||architect||designer||furniture designer||musician||draftsperson||author||jewelry designer"
+    "occupationLabel": "scenographer||jewelry designer||architect||author||designer||furniture designer||musician||draftsperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q487125",
+    "itemLabel": "Viktor Tsoi",
+    "year": "1990",
+    "sitelinks": "82",
+    "description": "Soviet rock musician (1962-1990)",
+    "nationalityLabel": "Soviet",
+    "occupationLabel": "actor||composer||singer||poet||singer-songwriter||lyricist||film actor||rock musician||musician||songwriter||guitarist||painter||fireman"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49004",
+    "itemLabel": "Patrick Swayze",
+    "year": "2009",
+    "sitelinks": "82",
+    "description": "American actor, producer, singer and dancer (1952–2009)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||choreographer||actor||composer||film producer||singer||aikidoka||singer-songwriter||dancer||television actor||film actor||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q211283",
+    "itemLabel": "Bob Hoskins",
+    "year": "2014",
+    "sitelinks": "82",
+    "description": "English actor (1942–2014)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||screenwriter||film director||film producer||comedian||television actor||film actor||musician||character actor||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1666",
+    "itemLabel": "Jacques Brel",
+    "year": "1978",
+    "sitelinks": "81",
+    "description": "Belgian singer (1929–1978)",
+    "nationalityLabel": "Belgian",
+    "occupationLabel": "actor||composer||author||screenwriter||film director||singer||poet||librettist||singer-songwriter||film actor||musician||chansonnier||guitarist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q94081",
+    "itemLabel": "Bob Hope",
+    "year": "2003",
+    "sitelinks": "81",
+    "description": "American entertainer (1903–2003)",
+    "nationalityLabel": "British||Briton||American||Americans",
+    "occupationLabel": "voice actor||actor||screenwriter||radio personality||singer||vaudeville performer||comedian||producer||dancer||television actor||film actor||musician||television presenter||activist||boxer||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41074",
@@ -348,7 +978,7 @@
     "sitelinks": "81",
     "description": "Indian classical sarangi player (1927–2024)",
     "nationalityLabel": "British Raj||Indian",
-    "occupationLabel": "musician"
+    "occupationLabel": "composer||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q94123",
@@ -357,7 +987,34 @@
     "sitelinks": "80",
     "description": "American actor (1925–2001)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||film producer||director||television actor||comedian||film actor||musician||producer||television presenter||stage actor||character actor"
+    "occupationLabel": "actor||film director||film producer||director||comedian||producer||television actor||film actor||musician||television presenter||character actor||stage actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q222818",
+    "itemLabel": "Eartha Kitt",
+    "year": "2008",
+    "sitelinks": "80",
+    "description": "American singer and actress (1927–2008)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||actor||singer||comedian||recording artist||dancer||musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189758",
+    "itemLabel": "Marvin Gaye",
+    "year": "1984",
+    "sitelinks": "79",
+    "description": "American R&B and soul singer (1939–1984)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "composer||singer||soul musician||pianist||author||singer-songwriter||musician||songwriter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q95089",
+    "itemLabel": "Ginger Rogers",
+    "year": "1995",
+    "sitelinks": "79",
+    "description": "American actress and dancer (1911–1995)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||singer||playwright||dancer||television actor||film actor||musician||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189080",
@@ -366,7 +1023,16 @@
     "sitelinks": "79",
     "description": "American rock musician (1942–2013)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "music executive||actor||composer||poet||photographer||singer||record producer||musician||singer-songwriter||songwriter||guitarist||film director"
+    "occupationLabel": "photographer||actor||composer||film director||record producer||singer||poet||music executive||singer-songwriter||musician||songwriter||guitarist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16345",
+    "itemLabel": "Leonard Nimoy",
+    "year": "2015",
+    "sitelinks": "79",
+    "description": "American actor (1931–2015)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "photographer||voice actor||actor||author||screenwriter||film director||film producer||director||poet||acting instructor||television actor||film actor||musician||manufacturer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q487473",
@@ -375,7 +1041,16 @@
     "sitelinks": "79",
     "description": "Italian recording artist; musician, songwriter, record producer (1943–2023)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "composer||singer||musician||performing artist||presenter||drummer||singer-songwriter||songwriter||saxophonist||lyricist||guitarist||recording artist||keyboardist||television presenter"
+    "occupationLabel": "composer||singer||drummer||recording artist||singer-songwriter||saxophonist||lyricist||musician||songwriter||presenter||guitarist||television presenter||keyboardist||performing artist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q235478",
+    "itemLabel": "Shelley Duvall",
+    "year": "2024",
+    "sitelinks": "79",
+    "description": "American actress (1949–2024)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "voice actor||actor||screenwriter||film producer||singer||comedian||video game actor||television actor||film actor||musician||television producer||casting director||executive producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207817",
@@ -383,8 +1058,8 @@
     "year": "1325",
     "sitelinks": "78",
     "description": "Indian poet, writer, singer and scholar (1253–1325)",
-    "nationalityLabel": "",
-    "occupationLabel": "writer||poet||philosopher||musician"
+    "nationalityLabel": "Indian",
+    "occupationLabel": "author||poet||philosopher||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q908933",
@@ -393,690 +1068,15 @@
     "sitelinks": "78",
     "description": "American singer (1948–2012)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||singer||musician||songwriter||recording artist"
+    "occupationLabel": "actor||composer||singer||recording artist||pop singer||musician||songwriter"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16345",
-    "itemLabel": "Leonard Nimoy",
-    "year": "2015",
+    "item": "http://www.wikidata.org/entity/Q51506",
+    "itemLabel": "Richard Attenborough",
+    "year": "2014",
     "sitelinks": "78",
-    "description": "American actor (1931–2015)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||writer||screenwriter||film producer||poet||photographer||director||acting instructor||television actor||film actor||musician||film director||voice actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106099",
-    "itemLabel": "Jeanne Moreau",
-    "year": "2017",
-    "sitelinks": "78",
-    "description": "French actress, singer, screenwriter and director (1928-2017)",
-    "nationalityLabel": "French",
-    "occupationLabel": "actor||screenwriter||film producer||director||singer||film actor||musician||recording artist||stage actor||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q235478",
-    "itemLabel": "Shelley Duvall",
-    "year": "2024",
-    "sitelinks": "78",
-    "description": "American actress (1949–2024)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||screenwriter||film producer||video game actor||television actor||comedian||singer||film actor||musician||television producer||casting director||executive producer||voice actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q103767",
-    "itemLabel": "Charlie Parker",
-    "year": "1955",
-    "sitelinks": "76",
-    "description": "American jazz saxophonist (1920–1955)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||musician||jazz musician||saxophonist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q137042",
-    "itemLabel": "Nat King Cole",
-    "year": "1965",
-    "sitelinks": "76",
-    "description": "American singer and jazz pianist (1919–1965)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||television actor||jazz guitarist||musician||pianist||singer-songwriter||jazz musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q214642",
-    "itemLabel": "Paul Auster",
-    "year": "2024",
-    "sitelinks": "76",
-    "description": "American novelist, poet, essayist, screenwriter (1947-2024)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||poet||critic||novelist||translator||playwright||musician||essayist||librettist||autobiographer||linguist||film screenwriter||editor||film director||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5977",
-    "itemLabel": "Buddy Holly",
-    "year": "1959",
-    "sitelinks": "75",
-    "description": "American rock and roll singer (1936–1959)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||singer||record producer||musician||songwriter||guitarist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47878",
-    "itemLabel": "Sid Vicious",
-    "year": "1979",
-    "sitelinks": "75",
-    "description": "English bassist (1957–1979)",
+    "description": "British actor (1923–2014)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "bass guitarist||musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q180727",
-    "itemLabel": "John Cage",
-    "year": "1992",
-    "sitelinks": "75",
-    "description": "American avant-garde composer (1912-1992)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "visual artist||composer||writer||poet||philosopher||musician||musicologist||conceptual artist||draftsperson||music theorist||illustrator||author||graphic artist||mycologist||painter||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153172",
-    "itemLabel": "Vangelis",
-    "year": "2022",
-    "sitelinks": "74",
-    "description": "Greek composer (1943–2022)",
-    "nationalityLabel": "Greek",
-    "occupationLabel": "composer||record producer||musician||film score composer||keyboardist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108283",
-    "itemLabel": "Alan Arkin",
-    "year": "2023",
-    "sitelinks": "73",
-    "description": "American actor, filmmaker (1934–2023)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||writer||screenwriter||film producer||director||theatrical director||television actor||singer||children's writer||film actor||musician||science fiction writer||television director||stage actor||film director||character actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q102813",
-    "itemLabel": "Yul Brynner",
-    "year": "1985",
-    "sitelinks": "72",
-    "description": "russian-born american actor (1920–1985)",
-    "nationalityLabel": "Far Eastern Republic||Swiss||American||Americans",
-    "occupationLabel": "actor||writer||photographer||model||television actor||film actor||musician||acrobat||television director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q76546",
-    "itemLabel": "Erich Kästner",
-    "year": "1974",
-    "sitelinks": "71",
-    "description": "German children's writer (1899–1974)",
-    "nationalityLabel": "German||West German||Nazi Germany||Allied-occupied Germany||Weimar Republic",
-    "occupationLabel": "writer||screenwriter||poet||novelist||children's writer||opinion journalist||playwright||musician||cabaret performer||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7833",
-    "itemLabel": "Boris Vian",
-    "year": "1959",
-    "sitelinks": "70",
-    "description": "French writer and musician (1920–1959)",
-    "nationalityLabel": "French",
-    "occupationLabel": "actor||engineer||writer||screenwriter||poet||literary critic||singer||translator||playwright||musician||prose writer||librettist||trumpeter||singer-songwriter||jazz musician||music critic||journalist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1698",
-    "itemLabel": "Serge Gainsbourg",
-    "year": "1991",
-    "sitelinks": "70",
-    "description": "French singer, songwriter, composer, writer, actor and director (1928–1991)",
-    "nationalityLabel": "French",
-    "occupationLabel": "actor||composer||writer||screenwriter||poet||singer||film actor||musician||pianist||singer-songwriter||songwriter||jazz musician||film score composer||film director||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q168847",
-    "itemLabel": "Brittany Murphy",
-    "year": "2009",
-    "sitelinks": "70",
-    "description": "American actress and singer (1977–2009)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||singer||musician||voice actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q180710",
-    "itemLabel": "Anna Nicole Smith",
-    "year": "2007",
-    "sitelinks": "69",
-    "description": "American actress and television personality (1967–2007)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||film producer||model||dancer||musician||Playboy Playmate||television personality||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156280",
-    "itemLabel": "Leopold Mozart",
-    "year": "1787",
-    "sitelinks": "67",
-    "description": "German composer (1719–1787)",
-    "nationalityLabel": "Roman",
-    "occupationLabel": "composer||musician||musicologist||music theorist||music educator||pedagogue||violinist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q152245",
-    "itemLabel": "Prince Albert of Saxe-Coburg and Gotha",
-    "year": "1861",
-    "sitelinks": "67",
-    "description": "Consort of Queen Victoria from 1840 to 1861 (1819–1861)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "singer||conductor||consort||musician||organist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13003",
-    "itemLabel": "Arturo Toscanini",
-    "year": "1957",
-    "sitelinks": "67",
-    "description": "Italian conductor (1867–1957)",
-    "nationalityLabel": "Italian",
-    "occupationLabel": "composer||politician||art collector||conductor||musician||music director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q181995",
-    "itemLabel": "Adolphe Sax",
-    "year": "1894",
-    "sitelinks": "66",
-    "description": "Belgian musical instrument designer and musician (1814–1894)",
-    "nationalityLabel": "Dutch||French||Belgian",
-    "occupationLabel": "inventor||musician||music educator||university teacher||musical instrument maker"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q49575",
-    "itemLabel": "Dizzy Gillespie",
-    "year": "1993",
-    "sitelinks": "66",
-    "description": "American jazz trumpeter (1917–1993)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||singer||conductor||musician||pianist||trumpeter||jazz musician||bandleader||recording artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q49086",
-    "itemLabel": "Simon Wiesenthal",
-    "year": "2005",
-    "sitelinks": "66",
-    "description": "Jewish Austrian Holocaust survivor and Nazi hunter (1908–2005)",
-    "nationalityLabel": "Polish||Austria–Hungary||Austrian||Hungarian",
-    "occupationLabel": "architect||writer||opinion journalist||advocate||musician||autobiographer||journalist||Nazis hunter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q82222",
-    "itemLabel": "Little Richard",
-    "year": "2020",
-    "sitelinks": "66",
-    "description": "American musician (1932–2020)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||priest||singer||musician||pianist||songwriter||recording artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q183458",
-    "itemLabel": "Andrea del Verrocchio",
-    "year": "1488",
-    "sitelinks": "65",
-    "description": "15th century Italian sculptor, goldsmith and painter (c.1435-1488)",
-    "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "architect||goldsmith||musician||architectural draftsperson||sculptor||carver||bronze sculptor||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151593",
-    "itemLabel": "Olivier Messiaen",
-    "year": "1992",
-    "sitelinks": "65",
-    "description": "French composer, organist and ornithologist (1908–1992)",
-    "nationalityLabel": "French",
-    "occupationLabel": "composer||musician||musicologist||librettist||pianist||organist||music theorist||music educator||ornithologist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q190116",
-    "itemLabel": "Benvenuto Cellini",
-    "year": "1571",
-    "sitelinks": "64",
-    "description": "Florentine sculptor and goldsmith (1500–1571)",
-    "nationalityLabel": "French",
-    "occupationLabel": "writer||goldsmith||jeweler||musician||architectural draftsperson||autobiographer||sculptor||silversmith||medalist||art historian"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151312",
-    "itemLabel": "Frederik IX of Denmark",
-    "year": "1972",
-    "sitelinks": "64",
-    "description": "King of Denmark from 1947 to 1972",
-    "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "monarch||conductor||musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q361642",
-    "itemLabel": "Marek Grechuta",
-    "year": "2006",
-    "sitelinks": "64",
-    "description": "Polish singer and composer (1945-2006)",
-    "nationalityLabel": "Polish",
-    "occupationLabel": "composer||writer||poet||singer||musician||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q216766",
-    "itemLabel": "Francisco I. Madero",
-    "year": "1913",
-    "sitelinks": "63",
-    "description": "Mexican revolutionary leader and president (1873-1913)",
-    "nationalityLabel": "Mexican||Mexicans",
-    "occupationLabel": "military personnel||writer||politician||businessperson||musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154556",
-    "itemLabel": "Karlheinz Stockhausen",
-    "year": "2007",
-    "sitelinks": "63",
-    "description": "German composer (1928–2007)",
-    "nationalityLabel": "German",
-    "occupationLabel": "composer||musician||musicologist||music theorist||music educator||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q78514",
-    "itemLabel": "Franz Werfel",
-    "year": "1945",
-    "sitelinks": "62",
-    "description": "Austrian-Bohemian novelist, playwright and poet (1890-1945)",
-    "nationalityLabel": "Austria–Hungary||American||Americans",
-    "occupationLabel": "writer||screenwriter||poet||translator||playwright||musician||librettist||science fiction writer||speaker"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q228904",
-    "itemLabel": "Hattie McDaniel",
-    "year": "1952",
-    "sitelinks": "62",
-    "description": "American actress (1893-1952)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||television actor||comedian||film actor||philanthropist||musician||singer-songwriter||fundraiser"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156193",
-    "itemLabel": "Pierre Boulez",
-    "year": "2016",
-    "sitelinks": "62",
-    "description": "French composer, conductor and writer (1925–2016)",
-    "nationalityLabel": "French",
-    "occupationLabel": "composer||writer||conductor||musician||musicologist||pianist||music theorist||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313013",
-    "itemLabel": "Brian Wilson",
-    "year": "2025",
-    "sitelinks": "62",
-    "description": "American musician, singer, songwriter and record producer",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "music executive||actor||composer||singer||record producer||bass guitarist||musician||pianist||singer-songwriter||songwriter||guitarist||keyboardist||music arranger"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154145",
-    "itemLabel": "Gabriel Marcel",
-    "year": "1973",
-    "sitelinks": "61",
-    "description": "French philosopher, playwright, music critic and leading Christian existentialist (1889-1973)",
-    "nationalityLabel": "French",
-    "occupationLabel": "writer||literary critic||philosopher||playwright||musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q262314",
-    "itemLabel": "Chris Rea",
-    "year": "2025",
-    "sitelinks": "61",
-    "description": "English male singer-songwriter and guitarist (1951–2025)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "actor||singer||record producer||musician||singer-songwriter||guitarist||recording artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80513",
-    "itemLabel": "Saint Cecilia",
-    "year": "230",
-    "sitelinks": "60",
-    "description": "Roman Catholic saint, martyr and patron saint of music",
-    "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q190933",
-    "itemLabel": "Anton Webern",
-    "year": "1945",
-    "sitelinks": "60",
-    "description": "Austrian composer and conductor",
-    "nationalityLabel": "Austrian",
-    "occupationLabel": "composer||conductor||musician||classical composer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q78475",
-    "itemLabel": "Alban Berg",
-    "year": "1935",
-    "sitelinks": "59",
-    "description": "Austrian composer (1885–1935)",
-    "nationalityLabel": "Austrian",
-    "occupationLabel": "composer||musician||librettist||pianist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106514",
-    "itemLabel": "River Phoenix",
-    "year": "1993",
-    "sitelinks": "59",
-    "description": "American actor and musician (1970–1993)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "street artist||environmentalist||actor||television actor||film actor||musician||singer-songwriter||guitarist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q108597",
-    "itemLabel": "Dave Brubeck",
-    "year": "2012",
-    "sitelinks": "59",
-    "description": "American jazz pianist and composer (1920–2012)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||musician||pianist||songwriter||jazz musician||bandleader||recording artist||music arranger"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q270935",
-    "itemLabel": "Chris Cornell",
-    "year": "2017",
-    "sitelinks": "59",
-    "description": "American musician (1964–2017)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||musician||songwriter||guitarist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q125133",
-    "itemLabel": "Víctor Jara",
-    "year": "1973",
-    "sitelinks": "58",
-    "description": "Chilean teacher, theatre director, poet, singer-songwriter, and political activist (1932-1973)",
-    "nationalityLabel": "Chilean",
-    "occupationLabel": "scenographer||cultural manager||actor||writer||politician||poet||teacher||theatrical director||singer||social activist||musician||librettist||singer-songwriter||songwriter||lyricist||guitarist||recording artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q23858",
-    "itemLabel": "John Belushi",
-    "year": "1982",
-    "sitelinks": "58",
-    "description": "American actor (1949–1982)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||television actor||comedian||film actor||musician||voice actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q319578",
-    "itemLabel": "Chinmoy Kumar Ghose",
-    "year": "2007",
-    "sitelinks": "58",
-    "description": "Indian writer and spiritual teacher (1931–2007)",
-    "nationalityLabel": "British Raj||French India",
-    "occupationLabel": "writer||poet||philosopher||musician||humanitarian||ultramarathon runner||weightlifter||guru||spiritual teacher||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q111074",
-    "itemLabel": "John Barry",
-    "year": "2011",
-    "sitelinks": "58",
-    "description": "British composer and conductor (1933–2011)",
-    "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "composer||musician||songwriter||film score composer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q272579",
-    "itemLabel": "Glynis Johns",
-    "year": "2024",
-    "sitelinks": "58",
-    "description": "British actress (1923–2024)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "actor||ballerina||television actor||singer||film actor||dancer||musician||pianist||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q305975",
-    "itemLabel": "Abbas Ibn Firnas",
-    "year": "887",
-    "sitelinks": "57",
-    "description": "9th century astronomer and physician",
-    "nationalityLabel": "",
-    "occupationLabel": "astronomer||poet||physician||inventor||musician||chemist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313027",
-    "itemLabel": "Jean Anthelme Brillat-Savarin",
-    "year": "1826",
-    "sitelinks": "57",
-    "description": "French lawyer, politician and writer (1755-1826)",
-    "nationalityLabel": "French",
-    "occupationLabel": "judge||lawyer||writer||politician||jurist||musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q295593",
-    "itemLabel": "Lionel Barrymore",
-    "year": "1954",
-    "sitelinks": "57",
-    "description": "American actor, director, screenwriter (1878–1954)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||screenwriter||film actor||musician||television presenter||stage actor||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q216896",
-    "itemLabel": "L. Ron Hubbard",
-    "year": "1986",
-    "sitelinks": "57",
-    "description": "American writer and Scientology founder (1911–1986)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||poet||novelist||military officer||musician||religious leader||science fiction writer||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155407",
-    "itemLabel": "Jean-Michel Basquiat",
-    "year": "1988",
-    "sitelinks": "57",
-    "description": "American artist (1960–1988)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||visual artist||composer||photographer||muralist||record producer||musician||artivist||architectural draftsperson||musicologist||graffiti artist||collagist||draftsperson||installation artist||illustrator||sculptor||cartoonist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q294583",
-    "itemLabel": "Sam Shepard",
-    "year": "2017",
-    "sitelinks": "57",
-    "description": "American playwright and actor (1943–2017)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||screenwriter||theatrical director||film actor||playwright||musician||dramaturge||autobiographer||stage actor||film director"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313124",
-    "itemLabel": "Prajadhipok",
-    "year": "1941",
-    "sitelinks": "56",
-    "description": "King of Siam",
-    "nationalityLabel": "Thai",
-    "occupationLabel": "monarch||politician||social worker||military officer||musician||sovereign"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q42180",
-    "itemLabel": "Israel Kamakawiwoʻole",
-    "year": "1997",
-    "sitelinks": "56",
-    "description": "Hawaiian singer (1959–1998)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||musician||songwriter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q203229",
-    "itemLabel": "François-André Danican Philidor",
-    "year": "1795",
-    "sitelinks": "55",
-    "description": "French composer and chess player (1726-1795)",
-    "nationalityLabel": "French",
-    "occupationLabel": "actor||composer||chess player||musician||pianist||chess theoretician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93349",
-    "itemLabel": "Bessie Smith",
-    "year": "1937",
-    "sitelinks": "55",
-    "description": "American blues singer (1892–1937)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "street artist||singer||dancer||musician||mime artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154331",
-    "itemLabel": "György Ligeti",
-    "year": "2006",
-    "sitelinks": "55",
-    "description": "Hungarian composer (1923-2006)",
-    "nationalityLabel": "Austrian||Hungarian",
-    "occupationLabel": "composer||musician||librettist||pianist||music educator||illustrator||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192359",
-    "itemLabel": "João Gilberto",
-    "year": "2019",
-    "sitelinks": "55",
-    "description": "Brazilian musician, pioneer of bossa nova (1931–2019)",
-    "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "composer||jazz guitarist||singer||musician||songwriter||jazz musician||guitarist||recording artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q216051",
-    "itemLabel": "Charlie Watts",
-    "year": "2021",
-    "sitelinks": "55",
-    "description": "British drummer (1941–2021)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "percussionist||musician||rock musician||drummer||jazz musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q36020",
-    "itemLabel": "Su Shi",
-    "year": "1101",
-    "sitelinks": "54",
-    "description": "Chinese writer and politician (1037–1101)",
-    "nationalityLabel": "Northern Song dynasty",
-    "occupationLabel": "writer||politician||pharmacist||poet||calligrapher||historian||philosopher||musician||essayist||scholar||prose writer||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11362",
-    "itemLabel": "Avempace",
-    "year": "1139",
-    "sitelinks": "54",
-    "description": "Arab Andalusian polymath (c. 1085 – 1138)",
-    "nationalityLabel": "Taifa of Zaragoza",
-    "occupationLabel": "astronomer||writer||politician||poet||physician||mathematician||physicist||philosopher||musician||botanist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q206466",
-    "itemLabel": "Mahalia Jackson",
-    "year": "1972",
-    "sitelinks": "54",
-    "description": "American gospel singer (1911–1972)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "gospel singer||musician||religious leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313281",
-    "itemLabel": "Michel Legrand",
-    "year": "2019",
-    "sitelinks": "54",
-    "description": "French film score composer (1932–2019)",
-    "nationalityLabel": "French||American||Americans",
-    "occupationLabel": "actor||composer||screenwriter||singer||conductor||musician||pianist||jazz musician||film score composer||film director||music arranger"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313605",
-    "itemLabel": "Wang Wei",
-    "year": "759",
-    "sitelinks": "53",
-    "description": "Chinese poet, musician, painter, and statesman",
-    "nationalityLabel": "Tang dynasty",
-    "occupationLabel": "writer||politician||poet||calligrapher||musician||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156815",
-    "itemLabel": "Mohammed Rafi",
-    "year": "1980",
-    "sitelinks": "53",
-    "description": "Indian playback singer (1924–1980)",
-    "nationalityLabel": "British Raj||Dominion of India||Indian",
-    "occupationLabel": "composer||singer||film actor||musician||playback singer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q214813",
-    "itemLabel": "Amália Rodrigues",
-    "year": "1999",
-    "sitelinks": "53",
-    "description": "Portuguese recording artist, fado singer, actress (1920-1999)",
-    "nationalityLabel": "Portuguese",
-    "occupationLabel": "actor||singer||musician||fado singer||recording artist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q191819",
-    "itemLabel": "George Martin",
-    "year": "2016",
-    "sitelinks": "53",
-    "description": "English record producer (1926–2016)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "composer||audio engineer||conductor||record producer||musician||music arranger"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q212762",
-    "itemLabel": "Burt Bacharach",
-    "year": "2023",
-    "sitelinks": "53",
-    "description": "American pianist, composer, producer (1928–2023)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||singer||conductor||record producer||musician||pianist||songwriter||film score composer||lyricist||recording artist||music arranger"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q204218",
-    "itemLabel": "Stuart Sutcliffe",
-    "year": "1962",
-    "sitelinks": "52",
-    "description": "Scottish painter and musician better known as the original bass guitarist of the English rock band the Beatles (1940–1962)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "musician||rock musician||bassist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q195371",
-    "itemLabel": "Cantinflas",
-    "year": "1993",
-    "sitelinks": "52",
-    "description": "Mexican comic film actor, producer, and screenwriter (1911–1993)",
-    "nationalityLabel": "Mexican||Mexicans",
-    "occupationLabel": "military personnel||actor||writer||screenwriter||television actor||comedian||film actor||musician||stage actor||voice actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q230401",
-    "itemLabel": "Astrud Gilberto",
-    "year": "2023",
-    "sitelinks": "52",
-    "description": "Brazilian-American singer and songwriter (1940–2023)",
-    "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "singer||musician||songwriter||jazz singer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q370560",
-    "itemLabel": "David Crosby",
-    "year": "2023",
-    "sitelinks": "52",
-    "description": "American singer, guitarist and songwriter (1941–2023)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||composer||singer||musician||singer-songwriter||lyricist||guitarist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q301597",
-    "itemLabel": "Bartolomeo Cristofori",
-    "year": "1731",
-    "sitelinks": "51",
-    "description": "Italian maker of musical instruments (1655–1731)",
-    "nationalityLabel": "Grand Duchy of Tuscany||Venetian",
-    "occupationLabel": "inventor||musician||harpsichord maker||piano maker||musical instrument maker"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q93444",
-    "itemLabel": "Vicki Baum",
-    "year": "1960",
-    "sitelinks": "51",
-    "description": "Austrian writer (1888–1960)",
-    "nationalityLabel": "Austrian||American||Americans",
-    "occupationLabel": "harpist||writer||screenwriter||musician||journalist"
+    "occupationLabel": "actor||politician||screenwriter||film director||film producer||director||film actor||musician||university teacher||stage actor"
   }
 ]

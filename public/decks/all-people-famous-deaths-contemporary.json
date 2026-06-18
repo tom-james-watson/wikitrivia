@@ -60,14 +60,14 @@
     "pageViews": 716989
   },
   {
-    "qid": "Q2831",
-    "title": "Michael Jackson dies",
-    "subtitle": "American singer, songwriter, dancer, and philanthropist",
-    "year": 2009,
-    "fact": "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist.",
-    "wikipediaSlug": "Michael_Jackson",
-    "image": "Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
-    "pageViews": 668335
+    "qid": "Q51506",
+    "title": "Richard Attenborough dies",
+    "subtitle": "British actor",
+    "year": 2014,
+    "fact": "Richard Samuel Attenborough, Baron Attenborough, was an English actor, film director and producer.",
+    "wikipediaSlug": "Richard_Attenborough",
+    "image": "Richard_Attenborough_(3x4_cropped).jpg",
+    "pageViews": 627642
   },
   {
     "qid": "Q1316",
@@ -88,6 +88,16 @@
     "wikipediaSlug": "Robert_F._Kennedy",
     "image": "Robert_F._Kennedy.jpg",
     "pageViews": 580921
+  },
+  {
+    "qid": "Q937",
+    "title": "Albert Einstein dies",
+    "subtitle": "German-born theoretical physicist",
+    "year": 1955,
+    "fact": "Albert Einstein was a German-born theoretical physicist best known for developing the theory of relativity.",
+    "wikipediaSlug": "Albert_Einstein",
+    "image": "Albert_Einstein_Head_cleaned.jpg",
+    "pageViews": 536822
   },
   {
     "qid": "Q59215",
@@ -120,6 +130,16 @@
     "pageViews": 465988
   },
   {
+    "qid": "Q426582",
+    "title": "Anthony Bourdain dies",
+    "subtitle": "American chef and television personality",
+    "year": 2018,
+    "fact": "Anthony Michael Bourdain was an American celebrity chef, author and travel documentarian.",
+    "wikipediaSlug": "Anthony_Bourdain",
+    "image": "Anthony_Bourdain_Peabody_2014b.jpg",
+    "pageViews": 447000
+  },
+  {
     "qid": "Q15869",
     "title": "Freddie Mercury dies",
     "subtitle": "British singer, songwriter and musician, frontman of the rock band Queen",
@@ -142,7 +162,7 @@
   {
     "qid": "Q19878",
     "title": "Muammar Gaddafi dies",
-    "subtitle": "Leader of Libya",
+    "subtitle": null,
     "year": 2011,
     "fact": "Muammar Muhammad Abu Minyar al-Gaddafi was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War.",
     "wikipediaSlug": "Muammar_Gaddafi",
@@ -248,16 +268,6 @@
     "wikipediaSlug": "Edward_VIII",
     "image": "HRH_The_Prince_of_Wales_No_4_(HS85-10-36416).jpg",
     "pageViews": 335647
-  },
-  {
-    "qid": "Q171736",
-    "title": "Robert Duvall dies",
-    "subtitle": "American actor and director",
-    "year": 2026,
-    "fact": "Robert Selden Duvall was an American actor, filmmaker, and producer, best known for his roles in the later 20th century of Hollywood.",
-    "wikipediaSlug": "Robert_Duvall",
-    "image": "Robert_Duvall_(actor,_at_home,_New_York_City_apartment,_1984)_(cropped).jpg",
-    "pageViews": 333345
   },
   {
     "qid": "Q25369",
@@ -490,16 +500,6 @@
     "pageViews": 249174
   },
   {
-    "qid": "Q106514",
-    "title": "River Phoenix dies",
-    "subtitle": "American actor and musician",
-    "year": 1993,
-    "fact": "River Jude Phoenix was an American actor and musician.",
-    "wikipediaSlug": "River_Phoenix",
-    "image": "RIVERP1989.jpg",
-    "pageViews": 245415
-  },
-  {
     "qid": "Q11613",
     "title": "Harry S. Truman dies",
     "subtitle": null,
@@ -610,16 +610,6 @@
     "pageViews": 224728
   },
   {
-    "qid": "Q168847",
-    "title": "Brittany Murphy dies",
-    "subtitle": "American actress and singer",
-    "year": 2009,
-    "fact": "Brittany Anne Murphy-Monjack was an American actress and singer, known for her equal mastery of the comedy and drama genres.",
-    "wikipediaSlug": "Brittany_Murphy",
-    "image": "Brittany_Murphy.jpg",
-    "pageViews": 224368
-  },
-  {
     "qid": "Q892",
     "title": "J. R. R. Tolkien dies",
     "subtitle": "English writer and philologist",
@@ -642,7 +632,7 @@
   {
     "qid": "Q505476",
     "title": "Avicii dies",
-    "subtitle": "Swedish record producer",
+    "subtitle": "Swedish electronic music producer",
     "year": 2018,
     "fact": "Tim Bergling, known professionally as Avicii, was a Swedish DJ, remixer, and record producer.",
     "wikipediaSlug": "Avicii",
@@ -660,16 +650,6 @@
     "pageViews": 214812
   },
   {
-    "qid": "Q270935",
-    "title": "Chris Cornell dies",
-    "subtitle": "American musician",
-    "year": 2017,
-    "fact": "Christopher John Cornell was an American musician, best known as the lead vocalist, rhythm guitarist, and the primary lyricist for the rock bands Soundgarden and Audioslave.",
-    "wikipediaSlug": "Chris_Cornell",
-    "image": "ChrisCornellTIFFSept2011.jpg",
-    "pageViews": 214398
-  },
-  {
     "qid": "Q41871",
     "title": "Paul Newman dies",
     "subtitle": "American actor",
@@ -678,6 +658,16 @@
     "wikipediaSlug": "Paul_Newman",
     "image": "Paul_Newman_-_1958.jpg",
     "pageViews": 211070
+  },
+  {
+    "qid": "Q49004",
+    "title": "Patrick Swayze dies",
+    "subtitle": "American actor, producer, singer and dancer",
+    "year": 2009,
+    "fact": "Patrick Wayne Swayze was an American actor, singer-songwriter and dancer.",
+    "wikipediaSlug": "Patrick_Swayze",
+    "image": "Patrick_Swayze_2006.jpg",
+    "pageViews": 203849
   },
   {
     "qid": "Q5588",
@@ -730,29 +720,9 @@
     "pageViews": 197373
   },
   {
-    "qid": "Q308722",
-    "title": "James Gandolfini dies",
-    "subtitle": "American actor",
-    "year": 2013,
-    "fact": "James John Gandolfini was an American actor.",
-    "wikipediaSlug": "James_Gandolfini",
-    "image": "James_Gandolfini_@_Toronto_International_Film_Festival_2011.jpg",
-    "pageViews": 195840
-  },
-  {
-    "qid": "Q180560",
-    "title": "Philip Seymour Hoffman dies",
-    "subtitle": "American actor",
-    "year": 2014,
-    "fact": "Philip Seymour Hoffman was an American actor.",
-    "wikipediaSlug": "Philip_Seymour_Hoffman",
-    "image": "Philip_Seymour_Hoffman_2011.jpg",
-    "pageViews": 194502
-  },
-  {
     "qid": "Q450675",
     "title": "Pope Francis dies",
-    "subtitle": "266Th pope of the Catholic Church",
+    "subtitle": null,
     "year": 2025,
     "fact": "Pope Francis was head of the Catholic Church and sovereign of Vatican City from 13 March 2013 until his death in 2025.",
     "wikipediaSlug": "Pope_Francis",
@@ -772,7 +742,7 @@
   {
     "qid": "Q150943",
     "title": "Gene Hackman dies",
-    "subtitle": "American actor",
+    "subtitle": "American actor and novelist",
     "year": 2025,
     "fact": "Eugene Allen Hackman was an American actor.",
     "wikipediaSlug": "Gene_Hackman",
@@ -810,6 +780,16 @@
     "pageViews": 189975
   },
   {
+    "qid": "Q30547",
+    "title": "Mother Teresa dies",
+    "subtitle": "Albanian-Indian Catholic nun and missionary",
+    "year": 1997,
+    "fact": "Mary Teresa Bojaxhiu, better known as Mother Teresa or Saint Mother Teresa, was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint.",
+    "wikipediaSlug": "Mother_Teresa",
+    "image": "Mother_Teresa_1.jpg",
+    "pageViews": 185236
+  },
+  {
     "qid": "Q130311",
     "title": "George Michael dies",
     "subtitle": "English singer",
@@ -828,16 +808,6 @@
     "wikipediaSlug": "Agatha_Christie",
     "image": "Agatha_Christie_in_Nederland_(detectiveschrijfster),_bij_aankomst_op_Schiphol_me,_Bestanddeelnr_916-8898_(cropped).jpg",
     "pageViews": 180257
-  },
-  {
-    "qid": "Q102711",
-    "title": "Dennis Hopper dies",
-    "subtitle": "American actor and film director",
-    "year": 2010,
-    "fact": "Dennis Lee Hopper was an American actor, filmmaker, photographer and visual artist.",
-    "wikipediaSlug": "Dennis_Hopper",
-    "image": "Dennis_Hopper_Cannes_2008_(cropped).jpg",
-    "pageViews": 179979
   },
   {
     "qid": "Q131814",
@@ -920,16 +890,6 @@
     "pageViews": 166938
   },
   {
-    "qid": "Q1149",
-    "title": "Indira Gandhi dies",
-    "subtitle": "Prime Minister of India",
-    "year": 1984,
-    "fact": "Indira Priyadarshini Gandhi was an Indian stateswoman who served as the prime minister of India from 1966 to 1977 and again from 1980 until her assassination in 1984.",
-    "wikipediaSlug": "Indira_Gandhi",
-    "image": "IndiraGandhi.png",
-    "pageViews": 166278
-  },
-  {
     "qid": "Q3335",
     "title": "George Orwell dies",
     "subtitle": "British writer and journalist",
@@ -990,6 +950,16 @@
     "pageViews": 155733
   },
   {
+    "qid": "Q103784",
+    "title": "Donald Sutherland dies",
+    "subtitle": "Canadian actor",
+    "year": 2024,
+    "fact": "Donald McNichol Sutherland was a Canadian actor.",
+    "wikipediaSlug": "Donald_Sutherland",
+    "image": "Donald_Sutherland,_1981.jpg",
+    "pageViews": 154490
+  },
+  {
     "qid": "Q34479",
     "title": "Hirohito dies",
     "subtitle": null,
@@ -1030,6 +1000,16 @@
     "pageViews": 151091
   },
   {
+    "qid": "Q189758",
+    "title": "Marvin Gaye dies",
+    "subtitle": "American R&B and soul singer",
+    "year": 1984,
+    "fact": "Marvin Pentz Gaye Jr. was an American R&B and soul singer, songwriter, musician, and record producer.",
+    "wikipediaSlug": "Marvin_Gaye",
+    "image": "Marvin_Gaye_(1973_publicity_photo).jpg",
+    "pageViews": 146348
+  },
+  {
     "qid": "Q34060",
     "title": "Yizhak Rabin dies",
     "subtitle": "Israeli politician, statesman and general",
@@ -1038,6 +1018,16 @@
     "wikipediaSlug": "Yitzhak_Rabin",
     "image": "Yitzhak_Rabin_1994_Portrait_(3x4_cropped).jpg",
     "pageViews": 146041
+  },
+  {
+    "qid": "Q3925",
+    "title": "Grace Kelly dies",
+    "subtitle": "American actress and Princess consort of Monaco",
+    "year": 1982,
+    "fact": "Grace Kelly was an American actress and Princess of Monaco as the wife of Prince Rainier III from their marriage on April 18, 1956 until her death in 1982.",
+    "wikipediaSlug": "Grace_Kelly",
+    "image": "Grace_Kelly_1955.jpg",
+    "pageViews": 145856
   },
   {
     "qid": "Q29179",
@@ -1058,16 +1048,6 @@
     "wikipediaSlug": "Richard_Feynman",
     "image": "Richard_Feynman_Nobel.jpg",
     "pageViews": 144292
-  },
-  {
-    "qid": "Q180710",
-    "title": "Anna Nicole Smith dies",
-    "subtitle": "American actress and television personality",
-    "year": 2007,
-    "fact": "Vickie Lynn Marshall, known professionally as Anna Nicole Smith, was an American model, actress and television personality.",
-    "wikipediaSlug": "Anna_Nicole_Smith",
-    "image": "Anna_Nicole_smith_2005.jpg",
-    "pageViews": 143413
   },
   {
     "qid": "Q83410",
@@ -1100,14 +1080,14 @@
     "pageViews": 141636
   },
   {
-    "qid": "Q23858",
-    "title": "John Belushi dies",
-    "subtitle": "American actor",
-    "year": 1982,
-    "fact": "John Adam Belushi was an American actor, comedian, and musician.",
-    "wikipediaSlug": "John_Belushi",
-    "image": "John_Belushi_at_the_32nd_Annual_Radio_and_Television_Correspondents_Association_Dinner_-_NARA_-_30805929.jpg",
-    "pageViews": 137022
+    "qid": "Q151973",
+    "title": "Richard Burton dies",
+    "subtitle": "Welsh actor",
+    "year": 1984,
+    "fact": "Richard Walter Burton was a Welsh actor.",
+    "wikipediaSlug": "Richard_Burton",
+    "image": "Richard_Burton_1955.jpg",
+    "pageViews": 139615
   },
   {
     "qid": "Q44301",
@@ -1170,14 +1150,14 @@
     "pageViews": 127851
   },
   {
-    "qid": "Q294583",
-    "title": "Sam Shepard dies",
-    "subtitle": "American playwright and actor",
-    "year": 2017,
-    "fact": "Samuel Shepard Rogers III was an American playwright, actor, director, screenwriter, author and musician whose career spanned half a century.",
-    "wikipediaSlug": "Sam_Shepard",
-    "image": "Sam_Shepard_Stealth_cropped.JPG",
-    "pageViews": 127802
+    "qid": "Q263696",
+    "title": "Debbie Reynolds dies",
+    "subtitle": "American actress, singer, and dancer",
+    "year": 2016,
+    "fact": "Debbie Reynolds was an American actress, singer and dancer.",
+    "wikipediaSlug": "Debbie_Reynolds",
+    "image": "Debbie_Reynolds_by_Beerman_Parry,_1954.jpg",
+    "pageViews": 127594
   },
   {
     "qid": "Q24829",
@@ -1220,16 +1200,6 @@
     "pageViews": 123590
   },
   {
-    "qid": "Q1514",
-    "title": "Janis Joplin dies",
-    "subtitle": "American singer",
-    "year": 1970,
-    "fact": "Janis Lyn Joplin was an American singer and songwriter.",
-    "wikipediaSlug": "Janis_Joplin",
-    "image": "Janis_Joplin_1969.JPG",
-    "pageViews": 122837
-  },
-  {
     "qid": "Q126513",
     "title": "Steve Irwin dies",
     "subtitle": "Australian zookeeper, conservationist and TV personality",
@@ -1262,7 +1232,7 @@
   {
     "qid": "Q102462",
     "title": "James Stewart dies",
-    "subtitle": "American actor",
+    "subtitle": "American actor and military officer",
     "year": 1997,
     "fact": "James Maitland Stewart was an American actor and military aviator.",
     "wikipediaSlug": "James_Stewart",
@@ -1348,16 +1318,6 @@
     "wikipediaSlug": "Alfred_Hitchcock",
     "image": "Hitchcock,_Alfred_02.jpg",
     "pageViews": 118334
-  },
-  {
-    "qid": "Q210435",
-    "title": "J. Edgar Hoover dies",
-    "subtitle": "American law enforcement administrator",
-    "year": 1972,
-    "fact": "John Edgar Hoover was an American law enforcement administrator who served as the fifth and final director of the Bureau of Investigation (BOI) and the first director of the Federal Bureau of Investigation (FBI).",
-    "wikipediaSlug": "J._Edgar_Hoover",
-    "image": "Hoover-JEdgar-LOC.jpg",
-    "pageViews": 118040
   },
   {
     "qid": "Q129429",
@@ -1490,16 +1450,6 @@
     "pageViews": 111569
   },
   {
-    "qid": "Q155407",
-    "title": "Jean-Michel Basquiat dies",
-    "subtitle": "American artist",
-    "year": 1988,
-    "fact": "Jean-Michel Basquiat was an American artist who rose to success during the 1980s as part of the neo-expressionism movement.",
-    "wikipediaSlug": "Jean-Michel_Basquiat",
-    "image": "Jean-Michel_Basquiat_passport_(cropped).jpg",
-    "pageViews": 110818
-  },
-  {
     "qid": "Q104049",
     "title": "Sidney Poitier dies",
     "subtitle": "Bahamian and American actor and diplomat",
@@ -1580,6 +1530,16 @@
     "pageViews": 107584
   },
   {
+    "qid": "Q134456",
+    "title": "Yukio Mishima dies",
+    "subtitle": "Japanese author",
+    "year": 1970,
+    "fact": "Kimitake Hiraoka, known by his pen name Yukio Mishima, was a Japanese novelist, playwright, short story writer, actor, martial artist, model, and the leader of an attempted coup d'état that culminated in his seppuku.",
+    "wikipediaSlug": "Yukio_Mishima",
+    "image": "Yukio_Mishima,_1955_(cropped_850×950_px).jpg",
+    "pageViews": 105223
+  },
+  {
     "qid": "Q162389",
     "title": "Tony Curtis dies",
     "subtitle": "American actor",
@@ -1620,16 +1580,6 @@
     "pageViews": 103926
   },
   {
-    "qid": "Q5977",
-    "title": "Buddy Holly dies",
-    "subtitle": "American rock and roll singer",
-    "year": 1959,
-    "fact": "Charles Hardin Holley, known professionally by his stage name Buddy Holly, was an American singer, songwriter, and musician who was a central and pioneering figure of rock and roll.",
-    "wikipediaSlug": "Buddy_Holly",
-    "image": "Buddy_Holly_Brunswick_Records.jpg",
-    "pageViews": 103867
-  },
-  {
     "qid": "Q41314",
     "title": "Bobby Fischer dies",
     "subtitle": "American chess player",
@@ -1638,6 +1588,16 @@
     "wikipediaSlug": "Bobby_Fischer",
     "image": "Bobby_Fischer_in_1962_portrait.jpg",
     "pageViews": 103533
+  },
+  {
+    "qid": "Q164487",
+    "title": "Ava Gardner dies",
+    "subtitle": "American actress",
+    "year": 1990,
+    "fact": "Ava Lavinia Gardner was an American actress during the Golden Age of Hollywood.",
+    "wikipediaSlug": "Ava_Gardner",
+    "image": "Eiganotomo-avagardner-dec1953.jpg",
+    "pageViews": 102801
   },
   {
     "qid": "Q184650",
@@ -1722,7 +1682,7 @@
   {
     "qid": "Q151509",
     "title": "Ibn Saud dies",
-    "subtitle": "Founder and first king of Saudi Arabia",
+    "subtitle": null,
     "year": 1953,
     "fact": "Abdulaziz bin Abdul Rahman Al Saud ;, known in the Western world as Ibn Saud, was a Najdi statesman and religious leader who became the founder and first king of Saudi Arabia, reigning from 23 September 1932 until his death in 1953.",
     "wikipediaSlug": "Ibn_Saud",
@@ -1758,16 +1718,6 @@
     "wikipediaSlug": "Leonard_Nimoy",
     "image": "Leonard_Nimoy_Mission_Impossible.jpg",
     "pageViews": 97832
-  },
-  {
-    "qid": "Q47878",
-    "title": "Sid Vicious dies",
-    "subtitle": "English bassist",
-    "year": 1979,
-    "fact": "John Simon Ritchie, better known by his stage name Sid Vicious, was an English musician, best known as the second bassist for the punk rock band Sex Pistols.",
-    "wikipediaSlug": "Sid_Vicious",
-    "image": "Sid_Vicious_1978_(cropped).jpg",
-    "pageViews": 95698
   },
   {
     "qid": "Q80739",
@@ -1810,19 +1760,9 @@
     "pageViews": 94030
   },
   {
-    "qid": "Q313013",
-    "title": "Brian Wilson dies",
-    "subtitle": "American musician, singer, songwriter and record producer",
-    "year": 2025,
-    "fact": "Brian Douglas Wilson was an American musician, singer, songwriter and record producer who co-founded the Beach Boys and received widespread recognition as one of the most innovative and significant musical figures of his era.",
-    "wikipediaSlug": "Brian_Wilson",
-    "image": "Brian_Wilson_of_the_Beach_Boys_in_West_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg",
-    "pageViews": 93860
-  },
-  {
     "qid": "Q82786",
     "title": "Leslie Nielsen dies",
-    "subtitle": null,
+    "subtitle": "Canadian-American actor and comedian",
     "year": 2010,
     "fact": "Leslie William Nielsen was a Canadian-American actor and comedian.",
     "wikipediaSlug": "Leslie_Nielsen",
@@ -1880,6 +1820,16 @@
     "pageViews": 91625
   },
   {
+    "qid": "Q40933",
+    "title": "Eva Perón dies",
+    "subtitle": "Argentine actress and politician",
+    "year": 1952,
+    "fact": "María Eva Duarte de Perón, better known as Eva \"Evita\" Perón, was an Argentine politician, activist, and actress who served as First Lady of Argentina from June 1946 until her death in July 1952, as the wife of Argentine President Juan Perón.",
+    "wikipediaSlug": "Eva_Per%C3%B3n",
+    "image": "Evita_color.jpg",
+    "pageViews": 91518
+  },
+  {
     "qid": "Q200405",
     "title": "John Hurt dies",
     "subtitle": "British actor",
@@ -1930,6 +1880,16 @@
     "pageViews": 85715
   },
   {
+    "qid": "Q184378",
+    "title": "Rock Hudson dies",
+    "subtitle": "American actor",
+    "year": 1985,
+    "fact": "Rock Hudson was an American actor.",
+    "wikipediaSlug": "Rock_Hudson",
+    "image": "Rock_Hudson_-_portrait.jpg",
+    "pageViews": 85575
+  },
+  {
     "qid": "Q104372",
     "title": "Doris Day dies",
     "subtitle": "American actress and singer",
@@ -1950,6 +1910,16 @@
     "pageViews": 84452
   },
   {
+    "qid": "Q222818",
+    "title": "Eartha Kitt dies",
+    "subtitle": "American singer and actress",
+    "year": 2008,
+    "fact": "Eartha Mae Kitt was an American singer, songwriter, and actress.",
+    "wikipediaSlug": "Eartha_Kitt",
+    "image": "Eartha_Kitt_visit_to_Israel_(997009326916805171)_(cropped).jpg",
+    "pageViews": 84185
+  },
+  {
     "qid": "Q1779",
     "title": "Louis Armstrong dies",
     "subtitle": "American jazz musician, trumpeter and singer",
@@ -1960,16 +1930,6 @@
     "pageViews": 83848
   },
   {
-    "qid": "Q102813",
-    "title": "Yul Brynner dies",
-    "subtitle": "Russian-born american actor",
-    "year": 1985,
-    "fact": "Yuliy Borisovich Briner, known professionally as Yul Brynner, was a Russian and American actor.",
-    "wikipediaSlug": "Yul_Brynner",
-    "image": "Publicity_press_photo_of_Yul_Brynner_in_1960_(cropped).jpg",
-    "pageViews": 83242
-  },
-  {
     "qid": "Q92760",
     "title": "Claude Shannon dies",
     "subtitle": "American mathematician and information theorist",
@@ -1978,16 +1938,6 @@
     "wikipediaSlug": "Claude_Shannon",
     "image": "C.E._Shannon._Tekniska_museet_43069_(cropped).jpg",
     "pageViews": 83175
-  },
-  {
-    "qid": "Q128297",
-    "title": "Maria Meneghini Callas dies",
-    "subtitle": "American-Greek operatic soprano",
-    "year": 1977,
-    "fact": "Maria Callas was an American soprano.",
-    "wikipediaSlug": "Maria_Callas",
-    "image": "Maria_Callas_1958.jpg",
-    "pageViews": 83120
   },
   {
     "qid": "Q95002",
@@ -2060,6 +2010,26 @@
     "pageViews": 77499
   },
   {
+    "qid": "Q181659",
+    "title": "Ursula K. Le Guin dies",
+    "subtitle": "American fantasy and science fiction author",
+    "year": 2018,
+    "fact": "Ursula Kroeber Le Guin was an American author.",
+    "wikipediaSlug": "Ursula_K._Le_Guin",
+    "image": "Ursula_Le_Guin_(3551195631)_-_Restoration.jpg",
+    "pageViews": 76845
+  },
+  {
+    "qid": "Q190076",
+    "title": "Joe Cocker dies",
+    "subtitle": "British singer",
+    "year": 2014,
+    "fact": "John Robert \"Joe\" Cocker was an English singer known for his gritty, bluesy voice and dynamic stage performances that featured expressive body movements.",
+    "wikipediaSlug": "Joe_Cocker",
+    "image": "Joe_cocker_1970.JPG",
+    "pageViews": 76628
+  },
+  {
     "qid": "Q106529",
     "title": "Alain Delon dies",
     "subtitle": "French actor",
@@ -2100,16 +2070,6 @@
     "pageViews": 75451
   },
   {
-    "qid": "Q108283",
-    "title": "Alan Arkin dies",
-    "subtitle": "American actor, filmmaker",
-    "year": 2023,
-    "fact": "Alan Wolf Arkin was an American actor, filmmaker and musician.",
-    "wikipediaSlug": "Alan_Arkin",
-    "image": "Alan_Arkin_-_1975.jpg",
-    "pageViews": 74811
-  },
-  {
     "qid": "Q104358",
     "title": "Billie Holiday dies",
     "subtitle": "American jazz singer",
@@ -2140,26 +2100,6 @@
     "pageViews": 72230
   },
   {
-    "qid": "Q76895",
-    "title": "Lee Marvin dies",
-    "subtitle": "American actor",
-    "year": 1987,
-    "fact": "Lamont Warren Marvin Jr., known as Lee Marvin, was an American film and television actor.",
-    "wikipediaSlug": "Lee_Marvin",
-    "image": "Lee_marvin_1971.JPG",
-    "pageViews": 71813
-  },
-  {
-    "qid": "Q370560",
-    "title": "David Crosby dies",
-    "subtitle": "American singer, guitarist and songwriter",
-    "year": 2023,
-    "fact": "David Van Cortlandt Crosby was an American singer, songwriter, and guitarist.",
-    "wikipediaSlug": "David_Crosby",
-    "image": "CrosbyDavid1983_(cropped).jpg",
-    "pageViews": 71540
-  },
-  {
     "qid": "Q183187",
     "title": "Fahd bin Abdulaziz Al Saud dies",
     "subtitle": null,
@@ -2178,16 +2118,6 @@
     "wikipediaSlug": "George_Best",
     "image": "George_best_1976.jpg",
     "pageViews": 70219
-  },
-  {
-    "qid": "Q310773",
-    "title": "Abdul Qadeer Khan dies",
-    "subtitle": "Pakistani nuclear engineer",
-    "year": 2021,
-    "fact": "Abdul Qadeer Khan was a Pakistani nuclear physicist and metallurgical engineer.",
-    "wikipediaSlug": "Abdul_Qadeer_Khan",
-    "image": "Abdul_Qadeer_Khan_(cropped2).jpg",
-    "pageViews": 69655
   },
   {
     "qid": "Q33760",
@@ -2210,6 +2140,16 @@
     "pageViews": 68806
   },
   {
+    "qid": "Q4612",
+    "title": "Marlene Dietrich dies",
+    "subtitle": "German and American actress and singer",
+    "year": 1992,
+    "fact": "Marie Magdalene \"Marlene\" Dietrich was a German and American actress and singer whose career spanned nearly seven decades.",
+    "wikipediaSlug": "Marlene_Dietrich",
+    "image": "Marlene_Dietrich_in_No_Highway_(1951)_(Cropped).png",
+    "pageViews": 68746
+  },
+  {
     "qid": "Q47087",
     "title": "Arthur C. Clarke dies",
     "subtitle": "British science fiction writer, inventor, and futurist",
@@ -2220,16 +2160,6 @@
     "pageViews": 68660
   },
   {
-    "qid": "Q42180",
-    "title": "Israel Kamakawiwoʻole dies",
-    "subtitle": "Hawaiian singer",
-    "year": 1997,
-    "fact": "Israel Kaʻanoʻi Kamakawiwoʻole, also called Braddah IZ or simply IZ, was a Native Hawaiian musician and singer.",
-    "wikipediaSlug": "Israel_Kamakawiwo%CA%BBole",
-    "image": "Israel_Kamakawiwoʻole.jpg",
-    "pageViews": 68465
-  },
-  {
     "qid": "Q93957",
     "title": "Gary Cooper dies",
     "subtitle": "American actor",
@@ -2238,16 +2168,6 @@
     "wikipediaSlug": "Gary_Cooper",
     "image": "Gary_Cooper_(1952).jpg",
     "pageViews": 68421
-  },
-  {
-    "qid": "Q82222",
-    "title": "Little Richard dies",
-    "subtitle": "American musician",
-    "year": 2020,
-    "fact": "Richard Wayne Penniman, better known by his stage name Little Richard, was an American singer-songwriter and pianist.",
-    "wikipediaSlug": "Little_Richard",
-    "image": "Little_Richard_1957_(crop).jpg",
-    "pageViews": 68270
   },
   {
     "qid": "Q152025",
@@ -2300,6 +2220,16 @@
     "pageViews": 65180
   },
   {
+    "qid": "Q174957",
+    "title": "Nina Simone dies",
+    "subtitle": "American singer, songwriter and pianist and civil rights activist",
+    "year": 2003,
+    "fact": "Nina Simone was an American composer concert pianist, singer, songwriter, and civil rights activist.",
+    "wikipediaSlug": "Nina_Simone",
+    "image": "Nina_Simone_-1969.jpg",
+    "pageViews": 64491
+  },
+  {
     "qid": "Q25120",
     "title": "Pier Paolo Pasolini dies",
     "subtitle": "Italian writer, filmmaker, poet, and intellectual",
@@ -2308,6 +2238,26 @@
     "wikipediaSlug": "Pier_Paolo_Pasolini",
     "image": "PierPaoloPasolini.jpg",
     "pageViews": 64268
+  },
+  {
+    "qid": "Q244441",
+    "title": "Pete Seeger dies",
+    "subtitle": "American folk singer",
+    "year": 2014,
+    "fact": "Peter Seeger was an American singer, songwriter, musician, and left-wing social activist.",
+    "wikipediaSlug": "Pete_Seeger",
+    "image": "Pete_Seeger_NYWTS.jpg",
+    "pageViews": 63467
+  },
+  {
+    "qid": "Q73089",
+    "title": "Gene Kelly dies",
+    "subtitle": "American dancer, actor, singer, director and choreographer",
+    "year": 1996,
+    "fact": "Eugene Curran Kelly was an American dancer, actor, singer, director and choreographer.",
+    "wikipediaSlug": "Gene_Kelly",
+    "image": "Committee_for_Free_Spain._Portrait_of_M._Woolf_and_Jack_(possibly_Captain_Jack_White)_Taken_for_the_Committee._(Includes_photo_of_film_star_Gene_Kelly)._Sep_1946_Slide_2_Trim_Edit.png",
+    "pageViews": 63161
   },
   {
     "qid": "Q6711",
@@ -2410,6 +2360,16 @@
     "pageViews": 59514
   },
   {
+    "qid": "Q156347",
+    "title": "Lata Mangeshkar dies",
+    "subtitle": "Indian singer",
+    "year": 2022,
+    "fact": "Lata Dinanath Mangeshkar was an Indian playback singer and occasional music composer.",
+    "wikipediaSlug": "Lata_Mangeshkar",
+    "image": "Lata-Mangeshkar.jpg",
+    "pageViews": 58904
+  },
+  {
     "qid": "Q244206",
     "title": "Saud of Saudi Arabia dies",
     "subtitle": null,
@@ -2460,14 +2420,14 @@
     "pageViews": 57787
   },
   {
-    "qid": "Q137042",
-    "title": "Nat King Cole dies",
-    "subtitle": "American singer and jazz pianist",
-    "year": 1965,
-    "fact": "Nathaniel Adams Coles, known professionally as Nat King Cole, was an American singer, jazz pianist, and actor.",
-    "wikipediaSlug": "Nat_King_Cole",
-    "image": "Nat_King_Cole_1947.jpg",
-    "pageViews": 57286
+    "qid": "Q95089",
+    "title": "Ginger Rogers dies",
+    "subtitle": "American actress and dancer",
+    "year": 1995,
+    "fact": "Ginger Rogers was an American actress, dancer, and singer during the Golden Age of Hollywood.",
+    "wikipediaSlug": "Ginger_Rogers",
+    "image": "Ginger_Rogers_by_John_Miehle_6.jpg",
+    "pageViews": 57482
   },
   {
     "qid": "Q5878",
@@ -2530,16 +2490,6 @@
     "pageViews": 56920
   },
   {
-    "qid": "Q204218",
-    "title": "Stuart Sutcliffe dies",
-    "subtitle": null,
-    "year": 1962,
-    "fact": "Stuart Fergusson Victor Sutcliffe was a British painter and musician from Edinburgh, Scotland, best known as the original bass guitarist of the Beatles.",
-    "wikipediaSlug": "Stuart_Sutcliffe",
-    "image": "Stuart_stucliffe.jpg",
-    "pageViews": 56434
-  },
-  {
     "qid": "Q36591",
     "title": "Vladimir Nabokov dies",
     "subtitle": "Russian-American novelist, lepidopterist, professor",
@@ -2558,16 +2508,6 @@
     "wikipediaSlug": "Philippe_P%C3%A9tain",
     "image": "Philippe_Pétain_1941_Portrait_photograph.jpg",
     "pageViews": 56290
-  },
-  {
-    "qid": "Q152505",
-    "title": "Leonard Bernstein dies",
-    "subtitle": "American conductor and composer",
-    "year": 1990,
-    "fact": "Leonard Bernstein was an American conductor, composer, pianist, music educator, author, and humanitarian.",
-    "wikipediaSlug": "Leonard_Bernstein",
-    "image": "Leonard_Bernstein_by_Jack_Mitchell_(high_quality).jpg",
-    "pageViews": 55694
   },
   {
     "qid": "Q48301",
@@ -2600,16 +2540,6 @@
     "pageViews": 55360
   },
   {
-    "qid": "Q104067",
-    "title": "Eli Wallach dies",
-    "subtitle": "American actor",
-    "year": 2014,
-    "fact": "Eli Herschel Wallach was an American film, television, and stage actor from New York City.",
-    "wikipediaSlug": "Eli_Wallach",
-    "image": "Eli_Wallach_-_publicity.jpg",
-    "pageViews": 55002
-  },
-  {
     "qid": "Q311195",
     "title": "Jerry West dies",
     "subtitle": "American basketball player and executive",
@@ -2618,16 +2548,6 @@
     "wikipediaSlug": "Jerry_West",
     "image": "Jerry_West_1972.jpeg",
     "pageViews": 54952
-  },
-  {
-    "qid": "Q156815",
-    "title": "Mohammed Rafi dies",
-    "subtitle": "Indian playback singer",
-    "year": 1980,
-    "fact": "Mohammed Rafi was an Indian playback singer.",
-    "wikipediaSlug": "Mohammed_Rafi",
-    "image": "Mohammed_Rafi_2016_postcard_of_India_crop-flip.jpg",
-    "pageViews": 54604
   },
   {
     "qid": "Q37571",
@@ -2700,6 +2620,16 @@
     "pageViews": 51369
   },
   {
+    "qid": "Q211283",
+    "title": "Bob Hoskins dies",
+    "subtitle": "English actor",
+    "year": 2014,
+    "fact": "Robert William Hoskins was an English actor and film director.",
+    "wikipediaSlug": "Bob_Hoskins",
+    "image": "Bob_hoskins_filming_ruby_blue_cropped_(cropped).jpg",
+    "pageViews": 51101
+  },
+  {
     "qid": "Q8873",
     "title": "Satyajit Ray dies",
     "subtitle": "Indian filmmaker and writer",
@@ -2718,26 +2648,6 @@
     "wikipediaSlug": "Samuel_Beckett",
     "image": "Samuel_Beckett,_Pic,_1_(cropped).jpg",
     "pageViews": 50898
-  },
-  {
-    "qid": "Q1698",
-    "title": "Serge Gainsbourg dies",
-    "subtitle": "French singer, songwriter, composer, writer, actor and director",
-    "year": 1991,
-    "fact": "Serge Gainsbourg was a French singer-songwriter, actor, composer, and director.",
-    "wikipediaSlug": "Serge_Gainsbourg",
-    "image": "Serge_Gainsbourg_par_Claude_Truong-Ngoc_1981.jpg",
-    "pageViews": 50671
-  },
-  {
-    "qid": "Q191819",
-    "title": "George Martin dies",
-    "subtitle": "English record producer",
-    "year": 2016,
-    "fact": "Sir George Henry Martin was an English record producer, arranger, composer, conductor, and musician.",
-    "wikipediaSlug": "George_Martin",
-    "image": "George_Martin_-_backstage_at_LOVE.jpg",
-    "pageViews": 50526
   },
   {
     "qid": "Q6733",
@@ -2808,6 +2718,26 @@
     "wikipediaSlug": "Niels_Bohr",
     "image": "Niels_Bohr.jpg",
     "pageViews": 48594
+  },
+  {
+    "qid": "Q40640",
+    "title": "Ray Bradbury dies",
+    "subtitle": "American author and screenwriter",
+    "year": 2012,
+    "fact": "Ray Douglas Bradbury was an American author and screenwriter.",
+    "wikipediaSlug": "Ray_Bradbury",
+    "image": "Ray_Bradbury_(1975)_-cropped-.jpg",
+    "pageViews": 48592
+  },
+  {
+    "qid": "Q8620",
+    "title": "Kwame Nkrumah dies",
+    "subtitle": "Ghanaian politician",
+    "year": 1972,
+    "fact": "Kwame Kofi Nkrumah, baptised Francis, was a Ghanaian politician, political theorist, and revolutionary.",
+    "wikipediaSlug": "Kwame_Nkrumah",
+    "image": "Kwame_Nkrumah_Portrait,_The_National_Archives_UK.jpg",
+    "pageViews": 48364
   },
   {
     "qid": "Q103846",
@@ -2900,16 +2830,6 @@
     "pageViews": 44730
   },
   {
-    "qid": "Q55415",
-    "title": "Leni Riefenstahl dies",
-    "subtitle": "German filmmaker",
-    "year": 2003,
-    "fact": "Helene Bertha Amalie \"Leni\" Riefenstahl was a German filmmaker, photographer, and actress.",
-    "wikipediaSlug": "Leni_Riefenstahl",
-    "image": "Leni_Riefenstahl,_1935.jpg",
-    "pageViews": 44472
-  },
-  {
     "qid": "Q37001",
     "title": "Toshirō Mifune dies",
     "subtitle": "Japanese actor",
@@ -2958,6 +2878,16 @@
     "wikipediaSlug": "Duke_Ellington",
     "image": "Duke_Ellington_-_publicity.JPG",
     "pageViews": 43456
+  },
+  {
+    "qid": "Q55796",
+    "title": "Peter Ustinov dies",
+    "subtitle": "British actor, writer and director",
+    "year": 2004,
+    "fact": "Sir Peter Alexander Ustinov was a British actor and humanitarian.",
+    "wikipediaSlug": "Peter_Ustinov",
+    "image": "Sir_Peter_Ustinov_Allan_Warren.jpg",
+    "pageViews": 43305
   },
   {
     "qid": "Q4457",
@@ -3010,24 +2940,14 @@
     "pageViews": 41803
   },
   {
-    "qid": "Q228904",
-    "title": "Hattie McDaniel dies",
-    "subtitle": "American actress",
-    "year": 1952,
-    "fact": "Hattie McDaniel was an American actress, singer-songwriter, and comedian.",
-    "wikipediaSlug": "Hattie_McDaniel",
-    "image": "Studio_publicity_Hattie_McDaniel.jpg",
-    "pageViews": 41575
-  },
-  {
-    "qid": "Q212762",
-    "title": "Burt Bacharach dies",
-    "subtitle": "American pianist, composer, producer",
-    "year": 2023,
-    "fact": "Burt Freeman Bacharach was an American composer, songwriter, record producer, and pianist, widely regarded as one of the most important and influential figures of 20th-century popular music.",
-    "wikipediaSlug": "Burt_Bacharach",
-    "image": "Burt_Bacharach_1972.JPG",
-    "pageViews": 41527
+    "qid": "Q51114",
+    "title": "John Ford dies",
+    "subtitle": "American film director",
+    "year": 1973,
+    "fact": "John Martin Feeney, better known as John Ford, was an American film director and producer.",
+    "wikipediaSlug": "John_Ford",
+    "image": "John_Ford_1946.jpg",
+    "pageViews": 41529
   },
   {
     "qid": "Q314801",
@@ -3120,6 +3040,16 @@
     "pageViews": 40424
   },
   {
+    "qid": "Q34105",
+    "title": "Hosni Mubarak dies",
+    "subtitle": null,
+    "year": 2020,
+    "fact": "Muhammad Hosni El Sayed Mubarak was an Egyptian politician and military officer who served as the 4th president of Egypt from 1981 until his resignation in 2011, following the Egyptian revolution.",
+    "wikipediaSlug": "Hosni_Mubarak",
+    "image": "Hosni_Mubarak_-_Official_Photo.JPG",
+    "pageViews": 40116
+  },
+  {
     "qid": "Q37030",
     "title": "Thomas Mann dies",
     "subtitle": "German novelist and Nobel Prize laureate",
@@ -3127,6 +3057,16 @@
     "fact": "Paul Thomas Mann was a German novelist, short story writer, social critic, philanthropist, essayist, and the 1929 Nobel Prize in Literature laureate.",
     "wikipediaSlug": "Thomas_Mann",
     "image": "Thomas_Mann_1929.jpg",
+    "pageViews": 39919
+  },
+  {
+    "qid": "Q57135",
+    "title": "Erich von Manstein dies",
+    "subtitle": "German field marshal",
+    "year": 1973,
+    "fact": "Erich von Manstein was a German military officer of Polish descent who served as a Generalfeldmarschall in the Heer (Army) of Nazi Germany during World War II.",
+    "wikipediaSlug": "Erich_von_Manstein",
+    "image": "Bundesarchiv_Bild_183-H01757,_Erich_von_Manstein.jpg",
     "pageViews": 39919
   },
   {
@@ -3138,16 +3078,6 @@
     "wikipediaSlug": "Joe_Louis",
     "image": "Joe_Louis_by_van_Vechten.jpg",
     "pageViews": 39301
-  },
-  {
-    "qid": "Q262314",
-    "title": "Chris Rea dies",
-    "subtitle": "English male singer-songwriter and guitarist",
-    "year": 2025,
-    "fact": "Christopher Anton Rea was an English rock and blues singer-songwriter, guitarist and record producer.",
-    "wikipediaSlug": "Chris_Rea",
-    "image": "Chris_Rea_personal_picture_(cropped2).jpg",
-    "pageViews": 39159
   },
   {
     "qid": "Q471040",
@@ -3200,16 +3130,6 @@
     "pageViews": 38839
   },
   {
-    "qid": "Q103767",
-    "title": "Charlie Parker dies",
-    "subtitle": "American jazz saxophonist",
-    "year": 1955,
-    "fact": "Charles Parker Jr., nicknamed \"Bird\" or \"Yardbird\", was an American jazz saxophonist, bandleader, and composer.",
-    "wikipediaSlug": "Charlie_Parker",
-    "image": "Portrait_of_Charlie_Parker_in_1947.jpg",
-    "pageViews": 38514
-  },
-  {
     "qid": "Q51545",
     "title": "Luis Buñuel dies",
     "subtitle": "Spanish-Mexican filmmaker",
@@ -3218,6 +3138,16 @@
     "wikipediaSlug": "Luis_Bu%C3%B1uel",
     "image": "LuisBuñuel1929.jpg",
     "pageViews": 38446
+  },
+  {
+    "qid": "Q38757",
+    "title": "Bertolt Brecht dies",
+    "subtitle": "German poet, playwright, and theatre director",
+    "year": 1956,
+    "fact": "Eugen Berthold Friedrich Brecht, known as Bertolt Brecht and Bert Brecht, was a German theatre practitioner, playwright, and poet.",
+    "wikipediaSlug": "Bertolt_Brecht",
+    "image": "Bertolt-Brecht.jpg",
+    "pageViews": 38396
   },
   {
     "qid": "Q56009",
@@ -3260,16 +3190,6 @@
     "pageViews": 36294
   },
   {
-    "qid": "Q180727",
-    "title": "John Cage dies",
-    "subtitle": "American avant-garde composer",
-    "year": 1992,
-    "fact": "John Milton Cage Jr. was an American composer, artist, and music theorist.",
-    "wikipediaSlug": "John_Cage",
-    "image": "Componist_John_Cage.jpg",
-    "pageViews": 35814
-  },
-  {
     "qid": "Q560847",
     "title": "Jim Simons dies",
     "subtitle": "American mathematician and hedge fund manager",
@@ -3300,6 +3220,16 @@
     "pageViews": 35482
   },
   {
+    "qid": "Q150552",
+    "title": "Franz von Papen dies",
+    "subtitle": null,
+    "year": 1969,
+    "fact": "Franz Joseph Hermann Michael Maria von Papen, Erbsälzer zu Werl und Neuwerk was a German politician, diplomat, army officer, and Prussian nobleman.",
+    "wikipediaSlug": "Franz_von_Papen",
+    "image": "Bundesarchiv_Bild_183-1988-0113-500,_Franz_v._Papen_(cropped).jpg",
+    "pageViews": 35454
+  },
+  {
     "qid": "Q7836",
     "title": "René Magritte dies",
     "subtitle": "Belgian surrealist",
@@ -3308,16 +3238,6 @@
     "wikipediaSlug": "Ren%C3%A9_Magritte",
     "image": "Portrait_en_buste_du_peintre_surréaliste_René_Magritte_(1898-1967)_le_18_octobre_1961_devant_une_de_ses_toiles,_PH19994.jpg",
     "pageViews": 35001
-  },
-  {
-    "qid": "Q81244",
-    "title": "Karl Popper dies",
-    "subtitle": null,
-    "year": 1994,
-    "fact": "Sir Karl Raimund Popper was an Austrian–British philosopher, academic and social commentator.",
-    "wikipediaSlug": "Karl_Popper",
-    "image": "Karl_Popper.jpg",
-    "pageViews": 34886
   },
   {
     "qid": "Q12807",
@@ -3330,24 +3250,14 @@
     "pageViews": 34281
   },
   {
-    "qid": "Q44183",
-    "title": "William Golding dies",
-    "subtitle": "British novelist, poet, playwright and Nobel Prize for Literature laureate",
-    "year": 1993,
-    "fact": "Sir William Gerald Golding was a British novelist, playwright, and poet.",
-    "wikipediaSlug": "William_Golding",
-    "image": "William_Golding_1983.jpg",
-    "pageViews": 33988
-  },
-  {
-    "qid": "Q153172",
-    "title": "Vangelis dies",
-    "subtitle": "Greek composer",
-    "year": 2022,
-    "fact": "Evangelos Odysseas Papathanassiou, known professionally as Vangelis, was a Greek musician, composer, and producer of electronic, progressive, ambient, and classical orchestral music.",
-    "wikipediaSlug": "Vangelis",
-    "image": "VangelisElGrecopremiereDE2.jpg",
-    "pageViews": 33568
+    "qid": "Q70560",
+    "title": "Heinz Guderian dies",
+    "subtitle": "German general",
+    "year": 1954,
+    "fact": "Heinz Wilhelm Guderian was a German army general and military theorist.",
+    "wikipediaSlug": "Heinz_Guderian",
+    "image": "Guderian_Heinz_(2-12705)_(cropped)_(2).jpg",
+    "pageViews": 33799
   },
   {
     "qid": "Q4724",
@@ -3380,19 +3290,9 @@
     "pageViews": 33005
   },
   {
-    "qid": "Q216051",
-    "title": "Charlie Watts dies",
-    "subtitle": "British drummer",
-    "year": 2021,
-    "fact": "Charles Robert Watts was an English musician who was the drummer of the Rolling Stones from 1963 until his death in 2021.",
-    "wikipediaSlug": "Charlie_Watts",
-    "image": "Charle-Watts-1965_(cropped).jpg",
-    "pageViews": 32744
-  },
-  {
     "qid": "Q7314",
     "title": "Igor Stravinsky dies",
-    "subtitle": "Russian composer",
+    "subtitle": "Russian, French, and American composer",
     "year": 1971,
     "fact": "Igor Fyodorovich Stravinsky was a Russian composer and conductor with French and American citizenship.",
     "wikipediaSlug": "Igor_Stravinsky",
@@ -3418,6 +3318,16 @@
     "wikipediaSlug": "Dra%C5%BEen_Petrovi%C4%87",
     "image": "Lipofsky-JDražen_Petrović.jpg",
     "pageViews": 32141
+  },
+  {
+    "qid": "Q76727",
+    "title": "Ernst Jünger dies",
+    "subtitle": "German writer",
+    "year": 1998,
+    "fact": "Ernst Jünger was a German author, soldier, philosopher, and entomologist who became publicly known for his World War I memoir Storm of Steel.",
+    "wikipediaSlug": "Ernst_J%C3%BCnger",
+    "image": "Ernst_Jünger_vers_1920_(cropped).jpg",
+    "pageViews": 32080
   },
   {
     "qid": "Q487125",
@@ -3451,23 +3361,13 @@
   },
   {
     "qid": "Q47480",
-    "title": "Paul Dirac dies",
+    "title": "Paul Adrien Maurice Dirac dies",
     "subtitle": "British theoretical physicist",
     "year": 1984,
     "fact": "Paul Adrien Maurice Dirac was a British theoretical physicist who is considered to be one of the founders of quantum mechanics.",
     "wikipediaSlug": "Paul_Dirac",
     "image": "Paul_Dirac,_1933.jpg",
     "pageViews": 30873
-  },
-  {
-    "qid": "Q195371",
-    "title": "Cantinflas dies",
-    "subtitle": "Mexican comic film actor, producer, and screenwriter",
-    "year": 1993,
-    "fact": "Mario Fortino Alfonso Moreno Reyes, known by the stage name Cantinflas, was a Mexican comedian, actor, and filmmaker.",
-    "wikipediaSlug": "Cantinflas",
-    "image": "Cantinflas_en_1967_(cropped).webp",
-    "pageViews": 30155
   },
   {
     "qid": "Q150747",
@@ -3480,6 +3380,16 @@
     "pageViews": 29948
   },
   {
+    "qid": "Q201538",
+    "title": "Edward Said dies",
+    "subtitle": "Palestinian-American professor",
+    "year": 2003,
+    "fact": "Edward Wadie Said was a Palestinian and American academic, literary critic, and political activist.",
+    "wikipediaSlug": "Edward_Said",
+    "image": "Edward_Said_and_Daniel_Barenboim_in_Sevilla,_2002_(Said).jpg",
+    "pageViews": 29898
+  },
+  {
     "qid": "Q39803",
     "title": "Mario Vargas Llosa dies",
     "subtitle": "Peruvian, Spanish and Dominican novelist and writer",
@@ -3488,16 +3398,6 @@
     "wikipediaSlug": "Mario_Vargas_Llosa",
     "image": "Mario_Vargas_Llosa_LCCN2020733847_(cropped).png",
     "pageViews": 29888
-  },
-  {
-    "qid": "Q57160",
-    "title": "Friedrich Paulus dies",
-    "subtitle": "German general",
-    "year": 1957,
-    "fact": "Friedrich Wilhelm Ernst Paulus was a German Generalfeldmarschall during World War II who is best known for his surrender of the German 6th Army during the Battle of Stalingrad.",
-    "wikipediaSlug": "Friedrich_Paulus",
-    "image": "Friedrich_Paulus.jpg",
-    "pageViews": 29500
   },
   {
     "qid": "Q48211",
@@ -3560,26 +3460,6 @@
     "pageViews": 28432
   },
   {
-    "qid": "Q49086",
-    "title": "Simon Wiesenthal dies",
-    "subtitle": "Jewish Austrian Holocaust survivor and Nazi hunter",
-    "year": 2005,
-    "fact": "Simon Wiesenthal was an Austrian Holocaust survivor, Nazi hunter, and writer.",
-    "wikipediaSlug": "Simon_Wiesenthal",
-    "image": "Dr._Simon_Wiesenthal,_Bestanddeelnr_932-3671.jpg",
-    "pageViews": 28360
-  },
-  {
-    "qid": "Q272579",
-    "title": "Glynis Johns dies",
-    "subtitle": "British actress",
-    "year": 2024,
-    "fact": "Glynis Margaret Payne Johns was a British actress and singer.",
-    "wikipediaSlug": "Glynis_Johns",
-    "image": "GLynis.jpg",
-    "pageViews": 28291
-  },
-  {
     "qid": "Q178698",
     "title": "W. H. Auden dies",
     "subtitle": "British-American poet",
@@ -3630,16 +3510,6 @@
     "pageViews": 27984
   },
   {
-    "qid": "Q111074",
-    "title": "John Barry dies",
-    "subtitle": "British composer and conductor",
-    "year": 2011,
-    "fact": "John Barry Prendergast was an English composer and conductor of film music.",
-    "wikipediaSlug": "John_Barry_(composer)",
-    "image": "John-barry-2006.jpg",
-    "pageViews": 27927
-  },
-  {
     "qid": "Q47293",
     "title": "Erich Maria Remarque dies",
     "subtitle": "German-born novelist",
@@ -3668,6 +3538,16 @@
     "wikipediaSlug": "Sayyid_Qutb",
     "image": "Sayyid_Qutb.jpg",
     "pageViews": 27363
+  },
+  {
+    "qid": "Q201732",
+    "title": "Robert Graves dies",
+    "subtitle": "English poet and novelist",
+    "year": 1985,
+    "fact": "Robert Ranke Graves, whose second name is sometimes given as von Ranke, was an English poet, novelist and critic.",
+    "wikipediaSlug": "Robert_Graves",
+    "image": "Robert_Graves_1929_(cropped).jpg",
+    "pageViews": 27209
   },
   {
     "qid": "Q200101",
@@ -3710,16 +3590,6 @@
     "pageViews": 26827
   },
   {
-    "qid": "Q104183",
-    "title": "Lillian Gish dies",
-    "subtitle": "American actress",
-    "year": 1993,
-    "fact": "Lillian Diana Gish was an American actress best known for her work in movies of the silent era.",
-    "wikipediaSlug": "Lillian_Gish",
-    "image": "Lillian_Gish-edit1.jpg",
-    "pageViews": 26770
-  },
-  {
     "qid": "Q53002",
     "title": "François Truffaut dies",
     "subtitle": "French film director",
@@ -3758,16 +3628,6 @@
     "wikipediaSlug": "Tenzing_Norgay",
     "image": "Tenzing_Norgay_(cropped).jpg",
     "pageViews": 26418
-  },
-  {
-    "qid": "Q49575",
-    "title": "Dizzy Gillespie dies",
-    "subtitle": "American jazz trumpeter",
-    "year": 1993,
-    "fact": "John Birks \"Dizzy\" Gillespie was an American jazz trumpeter, bandleader, composer, educator and singer.",
-    "wikipediaSlug": "Dizzy_Gillespie",
-    "image": "Dizzy_Gillespie_by_Carl_Van_Vechten_(cropped)_(2).jpg",
-    "pageViews": 26229
   },
   {
     "qid": "Q49481",
@@ -3820,16 +3680,6 @@
     "pageViews": 24829
   },
   {
-    "qid": "Q53325",
-    "title": "Arthur Ashe dies",
-    "subtitle": "American tennis player",
-    "year": 1993,
-    "fact": "Arthur Robert Ashe Jr. was an American professional tennis player.",
-    "wikipediaSlug": "Arthur_Ashe",
-    "image": "Arthur_Ashe_(cropped).jpg",
-    "pageViews": 24766
-  },
-  {
     "qid": "Q234888",
     "title": "Vera Rubin dies",
     "subtitle": "American astronomer and physicist",
@@ -3840,14 +3690,14 @@
     "pageViews": 24618
   },
   {
-    "qid": "Q108597",
-    "title": "Dave Brubeck dies",
-    "subtitle": "American jazz pianist and composer",
-    "year": 2012,
-    "fact": "David Warren Brubeck was an American jazz pianist and composer.",
-    "wikipediaSlug": "Dave_Brubeck",
-    "image": "Dave_Brubeck_(1964).jpg",
-    "pageViews": 24306
+    "qid": "Q168041",
+    "title": "Zbigniew Brzezinski dies",
+    "subtitle": "Polish-American diplomat and political scientist",
+    "year": 2017,
+    "fact": "Zbigniew \"Zbig\" Kazimierz Brzeziński was a Polish-American diplomat and political scientist.",
+    "wikipediaSlug": "Zbigniew_Brzezinski",
+    "image": "Zbigniew_Brzezinski,_1977.jpg",
+    "pageViews": 24571
   },
   {
     "qid": "Q189587",
@@ -3858,16 +3708,6 @@
     "wikipediaSlug": "Bobby_Robson",
     "image": "Anefo_934-2658,_Bobby_Robson,_Netherlands,_14-06-1988.jpg",
     "pageViews": 24108
-  },
-  {
-    "qid": "Q117144",
-    "title": "Miklós Horthy dies",
-    "subtitle": null,
-    "year": 1957,
-    "fact": "Miklós Horthy de Nagybánya was a Hungarian admiral and statesman who was the regent of the Kingdom of Hungary during the interwar period and most of World War II, from 1 March 1920 to 15 October 1944.",
-    "wikipediaSlug": "Mikl%C3%B3s_Horthy",
-    "image": "TF_62_2304_Nr001.jpg",
-    "pageViews": 23729
   },
   {
     "qid": "Q36233",
@@ -3970,16 +3810,6 @@
     "pageViews": 22628
   },
   {
-    "qid": "Q214642",
-    "title": "Paul Auster dies",
-    "subtitle": "American novelist, poet, essayist, screenwriter",
-    "year": 2024,
-    "fact": "Paul Benjamin Auster was an American writer, novelist, memoirist, poet, and filmmaker.",
-    "wikipediaSlug": "Paul_Auster",
-    "image": "Paul_Auster_BBF_2010_Shankbone.jpg",
-    "pageViews": 22562
-  },
-  {
     "qid": "Q1110560",
     "title": "Umm Kulthum dies",
     "subtitle": "Egyptian singer and actress",
@@ -4000,16 +3830,6 @@
     "pageViews": 22508
   },
   {
-    "qid": "Q106099",
-    "title": "Jeanne Moreau dies",
-    "subtitle": "French actress, singer, screenwriter and director",
-    "year": 2017,
-    "fact": "Jeanne Moreau was a French actress, singer, screenwriter, director, and socialite.",
-    "wikipediaSlug": "Jeanne_Moreau",
-    "image": "Genesys_-_Jeanne_Moreau.jpg",
-    "pageViews": 22499
-  },
-  {
     "qid": "Q223771",
     "title": "Bảo Đại dies",
     "subtitle": null,
@@ -4018,16 +3838,6 @@
     "wikipediaSlug": "B%E1%BA%A3o_%C4%90%E1%BA%A1i",
     "image": "Emperor_Bảo_Đại_on_his_throne_(cropped).jpg",
     "pageViews": 22458
-  },
-  {
-    "qid": "Q295593",
-    "title": "Lionel Barrymore dies",
-    "subtitle": "American actor, director, screenwriter",
-    "year": 1954,
-    "fact": "Lionel Barrymore was an American actor of stage, screen and radio as well as a film director.",
-    "wikipediaSlug": "Lionel_Barrymore",
-    "image": "Lionel_Barrymore_2.jpg",
-    "pageViews": 22267
   },
   {
     "qid": "Q93356",
@@ -4211,7 +4021,7 @@
   },
   {
     "qid": "Q163415",
-    "title": "William Shockley dies",
+    "title": "William Bradford Shockley dies",
     "subtitle": "American physicist and inventor",
     "year": 1989,
     "fact": "William Bradford Shockley was an American physicist.",
@@ -4270,16 +4080,6 @@
     "pageViews": 17306
   },
   {
-    "qid": "Q192359",
-    "title": "João Gilberto dies",
-    "subtitle": "Brazilian musician, pioneer of bossa nova",
-    "year": 2019,
-    "fact": "João Gilberto do Prado Pereira de Oliveira, known as João Gilberto, was a Brazilian guitarist, singer, and composer who was a pioneer of the musical genre of bossa nova in the late 1950s.",
-    "wikipediaSlug": "Jo%C3%A3o_Gilberto",
-    "image": "João_Gilberto.jpg",
-    "pageViews": 16977
-  },
-  {
     "qid": "Q1666",
     "title": "Jacques Brel dies",
     "subtitle": "Belgian singer",
@@ -4298,26 +4098,6 @@
     "wikipediaSlug": "Hassan_II_of_Morocco",
     "image": "Hassan_II_(1983).jpg",
     "pageViews": 16325
-  },
-  {
-    "qid": "Q230401",
-    "title": "Astrud Gilberto dies",
-    "subtitle": "Brazilian-American singer and songwriter",
-    "year": 2023,
-    "fact": "Astrud Gilberto was a Brazilian and American bossa nova and samba singer.",
-    "wikipediaSlug": "Astrud_Gilberto",
-    "image": "Astrud_Gilberto_1966_(cropped).jpg",
-    "pageViews": 15905
-  },
-  {
-    "qid": "Q40482",
-    "title": "Konstantin Rokossovsky dies",
-    "subtitle": "Soviet and Polish military commander",
-    "year": 1968,
-    "fact": "Konstantin Konstantinovich Rokossovsky was a Soviet and Polish general who served as a top commander in the Red Army during World War II and achieved the ranks of Marshal of the Soviet Union and Marshal of Poland.",
-    "wikipediaSlug": "Konstantin_Rokossovsky",
-    "image": "Маршал_Советского_Союза_дважды_Герой_Советского_Союза_Константин_Константинович_Рокоссовский.jpg",
-    "pageViews": 15689
   },
   {
     "qid": "Q295307",
@@ -4390,16 +4170,6 @@
     "pageViews": 14839
   },
   {
-    "qid": "Q151312",
-    "title": "Frederik IX of Denmark dies",
-    "subtitle": null,
-    "year": 1972,
-    "fact": "Frederik IX was King of Denmark from 1947 to 1972.",
-    "wikipediaSlug": "Frederik_IX",
-    "image": "Frederik_IX_(cropped)_-_Det_Kongelige_Bibliotek_(KE069531).jpg",
-    "pageViews": 14828
-  },
-  {
     "qid": "Q207457",
     "title": "Bill Shankly dies",
     "subtitle": "Scottish footballer and manager",
@@ -4420,14 +4190,24 @@
     "pageViews": 14643
   },
   {
-    "qid": "Q313281",
-    "title": "Michel Legrand dies",
-    "subtitle": "French film score composer",
-    "year": 2019,
-    "fact": "Michel Jean Legrand was a French musical composer, arranger, conductor, jazz pianist, and singer.",
-    "wikipediaSlug": "Michel_Legrand",
-    "image": "Michel_Legrand_Cabourg_2015.jpg",
-    "pageViews": 14213
+    "qid": "Q294351",
+    "title": "Siniša Mihajlović dies",
+    "subtitle": "Serbian football player and manager",
+    "year": 2022,
+    "fact": "Siniša Mihajlović was a Serbian football manager and player.",
+    "wikipediaSlug": "Sini%C5%A1a_Mihajlovi%C4%87",
+    "image": "Siniša_Mihajlović.JPG",
+    "pageViews": 14448
+  },
+  {
+    "qid": "Q186042",
+    "title": "John Kenneth Galbraith dies",
+    "subtitle": "Canadian-American economist and diplomat",
+    "year": 2006,
+    "fact": "John Kenneth Galbraith, also known as J.",
+    "wikipediaSlug": "John_Kenneth_Galbraith",
+    "image": "John_Kenneth_Galbraith_from_the_back_cover_of_\"The_Affluent_Society\".jpeg",
+    "pageViews": 14421
   },
   {
     "qid": "Q178577",
@@ -4450,18 +4230,8 @@
     "pageViews": 14140
   },
   {
-    "qid": "Q152534",
-    "title": "Alfredo Stroessner dies",
-    "subtitle": null,
-    "year": 2006,
-    "fact": "Alfredo Stroessner Matiauda was a Paraguayan politician, army general, and military dictator who ruled as the 42nd president of Paraguay from 15 August 1954 until his overthrow in 1989.",
-    "wikipediaSlug": "Alfredo_Stroessner",
-    "image": "Alfredo_Stroessner_at_desk_(cropped)_(cropped).jpg",
-    "pageViews": 13627
-  },
-  {
     "qid": "Q57100",
-    "title": "Maria Goeppert Mayer dies",
+    "title": "Maria Göppert Mayer dies",
     "subtitle": "German-born American theoretical physicist",
     "year": 1972,
     "fact": "Maria Goeppert-Mayer was a German–American theoretical physicist whose work on the structure of the atomic nucleus led to the development of the nuclear shell model.",
@@ -4540,6 +4310,16 @@
     "pageViews": 12650
   },
   {
+    "qid": "Q155794",
+    "title": "Hans Bethe dies",
+    "subtitle": "German-American nuclear physicist",
+    "year": 2005,
+    "fact": "Hans Albrecht Eduard Bethe was a German-American physicist who made major contributions to nuclear physics, astrophysics, quantum electrodynamics and solid-state physics, and received the Nobel Prize in Physics in 1967 for his work on the theory of stellar nucleosynthesis.",
+    "wikipediaSlug": "Hans_Bethe",
+    "image": "Hans_Bethe.jpg",
+    "pageViews": 12577
+  },
+  {
     "qid": "Q26853",
     "title": "Camilo Cienfuegos dies",
     "subtitle": "Cuban revolutionary fighter and guerilla",
@@ -4558,26 +4338,6 @@
     "wikipediaSlug": "Pauli_Murray",
     "image": "UNCPauliMurray.png",
     "pageViews": 12471
-  },
-  {
-    "qid": "Q125133",
-    "title": "Víctor Jara dies",
-    "subtitle": null,
-    "year": 1973,
-    "fact": "Víctor Lidio Jara Martínez was a Chilean teacher, theater director, poet, singer-songwriter and Communist political activist.",
-    "wikipediaSlug": "V%C3%ADctor_Jara",
-    "image": "Víctor_Jara.jpg",
-    "pageViews": 12408
-  },
-  {
-    "qid": "Q152293",
-    "title": "Aram Khachaturian dies",
-    "subtitle": "Soviet Armenian composer",
-    "year": 1978,
-    "fact": "Aram Ilyich Khachaturian was a Soviet Armenian composer and conductor.",
-    "wikipediaSlug": "Aram_Khachaturian",
-    "image": "Aram_Khachaturian_1971.jpg",
-    "pageViews": 12399
   },
   {
     "qid": "Q47484",
@@ -4610,6 +4370,16 @@
     "pageViews": 12200
   },
   {
+    "qid": "Q321322",
+    "title": "Abimael Guzmán dies",
+    "subtitle": "Peruvian Maoist terrorist leader",
+    "year": 2021,
+    "fact": "Manuel Rubén Abimael Guzmán Reinoso, also known by his nom de guerre Chairman Gonzalo, was a Peruvian Maoist revolutionary and guerrilla leader.",
+    "wikipediaSlug": "Abimael_Guzm%C3%A1n",
+    "image": "Abimael_Guzmán_Sendero_Luminoso.jpg",
+    "pageViews": 12135
+  },
+  {
     "qid": "Q192749",
     "title": "Just Fontaine dies",
     "subtitle": "French football player and manager",
@@ -4618,16 +4388,6 @@
     "wikipediaSlug": "Just_Fontaine",
     "image": "23.05.66_Just_Fontaine_dans_son_magasin_(1966)_-_53Fi634_(Cropped).jpg",
     "pageViews": 12082
-  },
-  {
-    "qid": "Q466662",
-    "title": "Vilma Espin Guillois dies",
-    "subtitle": "Cuban politician",
-    "year": 2007,
-    "fact": "Vilma Lucila Espín Guillois was a Cuban revolutionary, feminist, and chemical engineer.",
-    "wikipediaSlug": "Vilma_Esp%C3%ADn",
-    "image": "Vilma_Espín_Guillois.jpg",
-    "pageViews": 12007
   },
   {
     "qid": "Q223156",
@@ -4668,16 +4428,6 @@
     "wikipediaSlug": "Andreas_Brehme",
     "image": "Andreas_Brehme.jpg",
     "pageViews": 11689
-  },
-  {
-    "qid": "Q154556",
-    "title": "Karlheinz Stockhausen dies",
-    "subtitle": "German composer",
-    "year": 2007,
-    "fact": "Karlheinz Stockhausen was a German composer, widely acknowledged by critics as one of the most important but also controversial composers of the 20th and early 21st centuries.",
-    "wikipediaSlug": "Karlheinz_Stockhausen",
-    "image": "Stockhausen_1994_WDR.jpg",
-    "pageViews": 11685
   },
   {
     "qid": "Q192131",
@@ -4730,16 +4480,6 @@
     "pageViews": 11083
   },
   {
-    "qid": "Q151593",
-    "title": "Olivier Messiaen dies",
-    "subtitle": "French composer, organist and ornithologist",
-    "year": 1992,
-    "fact": "Olivier Eugène Prosper Charles Messiaen was a French composer, organist, and ornithologist.",
-    "wikipediaSlug": "Olivier_Messiaen",
-    "image": "Messiaen_Harcourt_1937_2.jpg",
-    "pageViews": 10909
-  },
-  {
     "qid": "Q178344",
     "title": "Luis Walter Alvarez dies",
     "subtitle": "American experimental physicist, inventor, and professor",
@@ -4770,14 +4510,14 @@
     "pageViews": 10504
   },
   {
-    "qid": "Q52589",
-    "title": "Emil Zátopek dies",
-    "subtitle": "Czech long-distance runner",
-    "year": 2000,
-    "fact": "Emil Zátopek was a Czech long-distance runner who won three gold medals at the 1952 Summer Olympics in Helsinki.",
-    "wikipediaSlug": "Emil_Z%C3%A1topek",
-    "image": "Fotothek_df_roe-neg_0006305_003_Emil_Zátopek-2.jpg",
-    "pageViews": 10190
+    "qid": "Q151435",
+    "title": "Montserrat Caballé dies",
+    "subtitle": "Spanish operatic soprano",
+    "year": 2018,
+    "fact": "María de Montserrat Bibiana Concepción Caballé i Folch or Folc, simply known as Montserrat Caballé, was a Spanish (Catalan) operatic soprano.",
+    "wikipediaSlug": "Montserrat_Caball%C3%A9",
+    "image": "Montserrat_Caballé_1971.jpg",
+    "pageViews": 10306
   },
   {
     "qid": "Q179908",
@@ -4800,26 +4540,6 @@
     "pageViews": 10008
   },
   {
-    "qid": "Q319578",
-    "title": "Chinmoy Kumar Ghose dies",
-    "subtitle": "Indian writer and spiritual teacher",
-    "year": 2007,
-    "fact": "Chinmoy Kumar Ghose, better known as Sri Chinmoy, was an Indian spiritual leader who taught meditation in the United States after moving to New York City in 1964.",
-    "wikipediaSlug": "Sri_Chinmoy",
-    "image": "Sri-Chinmoy-meditate-2.jpg",
-    "pageViews": 9836
-  },
-  {
-    "qid": "Q13003",
-    "title": "Arturo Toscanini dies",
-    "subtitle": "Italian conductor",
-    "year": 1957,
-    "fact": "Arturo Toscanini was an Italian conductor.",
-    "wikipediaSlug": "Arturo_Toscanini",
-    "image": "Arturo_Toscanini_c1930.jpg",
-    "pageViews": 9801
-  },
-  {
     "qid": "Q153793",
     "title": "Georges Braque dies",
     "subtitle": "French painter and sculptor",
@@ -4828,16 +4548,6 @@
     "wikipediaSlug": "Georges_Braque",
     "image": "Georges_Braque,_1908,_photograph_published_in_Gelett_Burgess,_The_Wild_Men_of_Paris,_Architectural_Record,_May_1910.jpg",
     "pageViews": 9641
-  },
-  {
-    "qid": "Q214813",
-    "title": "Amália Rodrigues dies",
-    "subtitle": "Portuguese recording artist, fado singer, actress",
-    "year": 1999,
-    "fact": "Amália da Piedade Rodrigues was a Portuguese fado singer (fadista).",
-    "wikipediaSlug": "Am%C3%A1lia_Rodrigues",
-    "image": "Amália_Rodrigues_('Fado_et_Flamenco',_Columbia,_1956),_cropped.png",
-    "pageViews": 9456
   },
   {
     "qid": "Q432929",
@@ -4880,6 +4590,16 @@
     "pageViews": 9121
   },
   {
+    "qid": "Q23842",
+    "title": "Jean Gabin dies",
+    "subtitle": "French actor and singer",
+    "year": 1976,
+    "fact": "Jean Gabin Alexis Moncorgé, known as Jean Gabin, was a French actor and singer.",
+    "wikipediaSlug": "Jean_Gabin",
+    "image": "Jean_Gabin_1958.jpg",
+    "pageViews": 8860
+  },
+  {
     "qid": "Q47619",
     "title": "Nadine Gordimer dies",
     "subtitle": "South African writer",
@@ -4890,16 +4610,6 @@
     "pageViews": 8842
   },
   {
-    "qid": "Q154331",
-    "title": "György Ligeti dies",
-    "subtitle": "Hungarian composer",
-    "year": 2006,
-    "fact": "György Sándor Ligeti was a Hungarian composer of contemporary classical music.",
-    "wikipediaSlug": "Gy%C3%B6rgy_Ligeti",
-    "image": "György_Ligeti_(1984).jpg",
-    "pageViews": 8772
-  },
-  {
     "qid": "Q16409",
     "title": "Tristan Tzara dies",
     "subtitle": "Romanian-French poet",
@@ -4908,16 +4618,6 @@
     "wikipediaSlug": "Tristan_Tzara",
     "image": "Retrato_de_Tristan_Tzara_(Robert_Delaunay).jpg",
     "pageViews": 8380
-  },
-  {
-    "qid": "Q313313",
-    "title": "M. N. Roy dies",
-    "subtitle": "Indian political activist and intellectual",
-    "year": 1954,
-    "fact": "Manabendra Nath Roy was a 20th-century Indian revolutionary, philosopher, radical activist and political theorist.",
-    "wikipediaSlug": "M._N._Roy",
-    "image": "Mn_roy2.jpg",
-    "pageViews": 8326
   },
   {
     "qid": "Q311511",
@@ -4990,16 +4690,6 @@
     "pageViews": 7934
   },
   {
-    "qid": "Q156193",
-    "title": "Pierre Boulez dies",
-    "subtitle": "French composer, conductor and writer",
-    "year": 2016,
-    "fact": "Pierre Louis Joseph Boulez was a French composer, conductor and writer, and the founder of several musical institutions.",
-    "wikipediaSlug": "Pierre_Boulez",
-    "image": "Pierre_Boulez_(1968).jpg",
-    "pageViews": 7725
-  },
-  {
     "qid": "Q185007",
     "title": "Rita Levi-Montalcini dies",
     "subtitle": "Italian neurologist",
@@ -5028,6 +4718,16 @@
     "wikipediaSlug": "Vladimir_Vysotsky",
     "image": "Владимир_Высоцкий_-_портрет_(cropped).jpg",
     "pageViews": 7525
+  },
+  {
+    "qid": "Q78496",
+    "title": "Konrad Zacharias Lorenz dies",
+    "subtitle": null,
+    "year": 1989,
+    "fact": "Konrad Zacharias Lorenz was an Austrian zoologist, ethologist, and ornithologist.",
+    "wikipediaSlug": "Konrad_Lorenz",
+    "image": "Konrad_Lorenz.JPG",
+    "pageViews": 7485
   },
   {
     "qid": "Q222924",
@@ -5070,16 +4770,6 @@
     "pageViews": 7173
   },
   {
-    "qid": "Q350468",
-    "title": "J. Allen Hynek dies",
-    "subtitle": "American astronomer",
-    "year": 1986,
-    "fact": "Josef Allen Hynek was an American astronomer, professor, and ufologist.",
-    "wikipediaSlug": "J._Allen_Hynek",
-    "image": "Allen_Hynek.jpg",
-    "pageViews": 7130
-  },
-  {
     "qid": "Q233969",
     "title": "Le Duc Tho dies",
     "subtitle": "Vietnamese diplomat",
@@ -5100,16 +4790,6 @@
     "pageViews": 7065
   },
   {
-    "qid": "Q213684",
-    "title": "Tamara Bunke dies",
-    "subtitle": "Argentinian revolutionary",
-    "year": 1967,
-    "fact": "Haydée Tamara Bunke Bider was an Argentine-born East German revolutionary known for her involvement in leftist politics and liberation movements.",
-    "wikipediaSlug": "Tamara_Bunke",
-    "image": "TamaraBunke1.jpg",
-    "pageViews": 6823
-  },
-  {
     "qid": "Q237541",
     "title": "Veronica Guerin dies",
     "subtitle": "Irish crime reporter",
@@ -5118,6 +4798,16 @@
     "wikipediaSlug": "Veronica_Guerin",
     "image": "Veronica_Guerin_real_person.jpg",
     "pageViews": 6800
+  },
+  {
+    "qid": "Q150989",
+    "title": "Frédéric Joliot-Curie dies",
+    "subtitle": "French scientist",
+    "year": 1958,
+    "fact": "Jean Frédéric Joliot-Curie was a French chemist and physicist who received the 1935 Nobel Prize in Chemistry with his wife, Irène Joliot-Curie, for their discovery of induced radioactivity.",
+    "wikipediaSlug": "Fr%C3%A9d%C3%A9ric_Joliot-Curie",
+    "image": "Joliot-fred.jpg",
+    "pageViews": 6781
   },
   {
     "qid": "Q110111",
@@ -5190,16 +4880,6 @@
     "pageViews": 6161
   },
   {
-    "qid": "Q465051",
-    "title": "Lakshmi Sahgal dies",
-    "subtitle": null,
-    "year": 2012,
-    "fact": "Lakshmi Sahgal was an Indian politician and activist.",
-    "wikipediaSlug": "Lakshmi_Sahgal",
-    "image": "Lakshmi_Sahgal.jpg",
-    "pageViews": 6134
-  },
-  {
     "qid": "Q295265",
     "title": "Sándor Kocsis dies",
     "subtitle": "Hungarian footballer",
@@ -5228,26 +4908,6 @@
     "wikipediaSlug": "Li_Xiannian",
     "image": "Li_Xiannian.png",
     "pageViews": 5870
-  },
-  {
-    "qid": "Q548471",
-    "title": "Viktor Chernov dies",
-    "subtitle": "Russian politician",
-    "year": 1952,
-    "fact": "Viktor Mikhailovich Chernov was a Russian revolutionary, politician, and theorist who was a principal founder and leader of the Socialist Revolutionary Party (PSR).",
-    "wikipediaSlug": "Viktor_Chernov",
-    "image": "Portrait_of_Minister_VM_Chernov_Trim_Edit.jpg",
-    "pageViews": 5732
-  },
-  {
-    "qid": "Q42398",
-    "title": "Mikhail Sholokhov dies",
-    "subtitle": "Soviet writer",
-    "year": 1984,
-    "fact": "Mikhail Aleksandrovich Sholokhov was a Russian novelist and winner of the 1965 Nobel Prize in Literature.",
-    "wikipediaSlug": "Mikhail_Sholokhov",
-    "image": "Mikhail_Sholokhov_1960.jpg",
-    "pageViews": 5706
   },
   {
     "qid": "Q220700",
@@ -5280,26 +4940,6 @@
     "pageViews": 5498
   },
   {
-    "qid": "Q505595",
-    "title": "Camilo Torres dies",
-    "subtitle": "Colombian theologian",
-    "year": 1966,
-    "fact": "Camilo Torres Restrepo, also known by his nom de guerre Argemiro, was a Colombian Catholic political leader, revolutionary, guerilla, priest, author and a leader of the National Liberation Army (ELN).",
-    "wikipediaSlug": "Camilo_Torres_Restrepo",
-    "image": "Camilo_Torres.jpg",
-    "pageViews": 5461
-  },
-  {
-    "qid": "Q7833",
-    "title": "Boris Vian dies",
-    "subtitle": "French writer and musician",
-    "year": 1959,
-    "fact": "Boris Vian was a French polymath who is primarily remembered for his novels.",
-    "wikipediaSlug": "Boris_Vian",
-    "image": "Boris_Vian.jpg",
-    "pageViews": 5417
-  },
-  {
     "qid": "Q159161",
     "title": "Cemal Gürsel dies",
     "subtitle": "4Th President of the Republic of Turkey",
@@ -5310,6 +4950,16 @@
     "pageViews": 5384
   },
   {
+    "qid": "Q58632",
+    "title": "Hans Eysenck dies",
+    "subtitle": "British psychologist",
+    "year": 1997,
+    "fact": "Hans Jürgen Eysenck was a German-born British psychologist.",
+    "wikipediaSlug": "Hans_Eysenck",
+    "image": "Hans_Eysenck_(cropped).jpg",
+    "pageViews": 5361
+  },
+  {
     "qid": "Q156201",
     "title": "Roman Jakobson dies",
     "subtitle": "Russian linguist",
@@ -5318,6 +4968,16 @@
     "wikipediaSlug": "Roman_Jakobson",
     "image": "Roman_Jakobson_Idoso.jpg",
     "pageViews": 5310
+  },
+  {
+    "qid": "Q442231",
+    "title": "Marie Stopes dies",
+    "subtitle": "British birth control campaigner and paleontologist",
+    "year": 1958,
+    "fact": "Marie Charlotte Carmichael Stopes was a British author, palaeobotanist and campaigner for eugenics and women's rights.",
+    "wikipediaSlug": "Marie_Stopes",
+    "image": "Marie_Stopes_at_the_time_of_the_marriage_with_Mr._H.V._Roe._Wellcome_M0017375_(cropped).jpg",
+    "pageViews": 5287
   },
   {
     "qid": "Q219390",
@@ -5370,16 +5030,6 @@
     "pageViews": 4919
   },
   {
-    "qid": "Q76546",
-    "title": "Erich Kästner dies",
-    "subtitle": "German children's writer",
-    "year": 1974,
-    "fact": "Emil Erich Kästner was a German writer, poet, screenwriter and satirist, known primarily for his humorous, socially astute poems and for children's books including Emil and the Detectives and Lisa and Lottie.",
-    "wikipediaSlug": "Erich_K%C3%A4stner",
-    "image": "Erich_Kästner_1961.jpg",
-    "pageViews": 4738
-  },
-  {
     "qid": "Q380695",
     "title": "Kunishige Kamamoto dies",
     "subtitle": "Japanese association football player and manager",
@@ -5388,16 +5038,6 @@
     "wikipediaSlug": "Kunishige_Kamamoto",
     "image": "Kunishige_Kamamoto_IMG_3322_20140110.JPG",
     "pageViews": 4706
-  },
-  {
-    "qid": "Q154145",
-    "title": "Gabriel Marcel dies",
-    "subtitle": null,
-    "year": 1973,
-    "fact": "Gabriel Honoré Marcel was a French philosopher, playwright, music critic and leading Christian existentialist.",
-    "wikipediaSlug": "Gabriel_Marcel",
-    "image": "Gabriel_Marcel_signature.jpg",
-    "pageViews": 4236
   },
   {
     "qid": "Q184566",
@@ -5418,16 +5058,6 @@
     "wikipediaSlug": "Gherman_Titov",
     "image": "German_Titov_(1995)_(cropped).jpg",
     "pageViews": 4042
-  },
-  {
-    "qid": "Q93592",
-    "title": "Leo Kanner dies",
-    "subtitle": "Jewish-American physician and psychiatrist",
-    "year": 1981,
-    "fact": "Leo Kanner was an Austrian-American psychiatrist, physician, and social activist best known for his work related to infantile autism.",
-    "wikipediaSlug": "Leo_Kanner",
-    "image": "Leo-Kanner.jpeg",
-    "pageViews": 3919
   },
   {
     "qid": "Q155786",
@@ -5480,16 +5110,6 @@
     "pageViews": 3634
   },
   {
-    "qid": "Q434805",
-    "title": "Augusto Boal dies",
-    "subtitle": "Brazilian writer",
-    "year": 2009,
-    "fact": "Augusto Boal was a Brazilian theatre practitioner, drama theorist, and political activist.",
-    "wikipediaSlug": "Augusto_Boal",
-    "image": "Augusto_Boal_nyc3cr.jpg",
-    "pageViews": 3546
-  },
-  {
     "qid": "Q156379",
     "title": "Yury Luzhkov dies",
     "subtitle": "Russian politician",
@@ -5518,16 +5138,6 @@
     "wikipediaSlug": "Ant%C3%B3nio_de_Sp%C3%ADnola",
     "image": "António_de_Spínola_(1974).png",
     "pageViews": 3420
-  },
-  {
-    "qid": "Q154759",
-    "title": "Sven Hedin dies",
-    "subtitle": null,
-    "year": 1952,
-    "fact": "Sven Anders Hedin, KNO1kl RVO, was a Swedish geographer, topographer, explorer, photographer, travel writer and illustrator of his own works.",
-    "wikipediaSlug": "Sven_Hedin",
-    "image": "Sven_Hedin_from_Hildebrand_Sveriges_historia.jpg",
-    "pageViews": 3407
   },
   {
     "qid": "Q206719",
@@ -5620,14 +5230,14 @@
     "pageViews": 2933
   },
   {
-    "qid": "Q348880",
-    "title": "Francisco da Costa Gomes dies",
-    "subtitle": "Portuguese military officer and politician",
-    "year": 2001,
-    "fact": "Francisco da Costa Gomes, ComTE GOA was a Portuguese military officer and politician who was the president of Portugal from 1974 to 1976.",
-    "wikipediaSlug": "Francisco_da_Costa_Gomes",
-    "image": "Francisco_Costa_Gomes_Roma_1975.jpg",
-    "pageViews": 2861
+    "qid": "Q60060",
+    "title": "Karl von Frisch dies",
+    "subtitle": "German-Austrian ethologist",
+    "year": 1982,
+    "fact": "Karl Ritter von Frisch was a German-Austrian ethologist who received the Nobel Prize in Physiology or Medicine in 1973, along with Nikolaas Tinbergen and Konrad Lorenz.",
+    "wikipediaSlug": "Karl_von_Frisch",
+    "image": "Karl_von_Frisch.jpg",
+    "pageViews": 2932
   },
   {
     "qid": "Q714934",
@@ -5668,26 +5278,6 @@
     "wikipediaSlug": "Zhores_Alferov",
     "image": "Zhores_Alferov_April_2016.jpg",
     "pageViews": 2572
-  },
-  {
-    "qid": "Q548185",
-    "title": "Moshe Arens dies",
-    "subtitle": "Israeli diplomat, member of Knesset, and professor of aeronautics",
-    "year": 2019,
-    "fact": "Moshe Arens was an Israeli aeronautical engineer, researcher, diplomat, and Likud politician.",
-    "wikipediaSlug": "Moshe_Arens",
-    "image": "Moshe_Arens_(cropped).jpg",
-    "pageViews": 2549
-  },
-  {
-    "qid": "Q596590",
-    "title": "Louis Nirenberg dies",
-    "subtitle": "American mathematician of Canadian origin",
-    "year": 2020,
-    "fact": "Louis Nirenberg was a Canadian-American mathematician, considered one of the most outstanding mathematicians of the 20th century.",
-    "wikipediaSlug": "Louis_Nirenberg",
-    "image": "Louis_Nirenberg.jpeg",
-    "pageViews": 2494
   },
   {
     "qid": "Q213504",
@@ -5740,6 +5330,16 @@
     "pageViews": 2393
   },
   {
+    "qid": "Q271492",
+    "title": "Elena Stasova dies",
+    "subtitle": "Soviet politician",
+    "year": 1966,
+    "fact": "Elena Dmitriyevna Stasova was a Russian Soviet revolutionary, Old Bolshevik and an early leader of the organisation that would go on to become the Communist Party of the Soviet Union.",
+    "wikipediaSlug": "Elena_Stasova",
+    "image": "Elena_Stasova_1907_Edit_Crop.jpg",
+    "pageViews": 2360
+  },
+  {
     "qid": "Q276510",
     "title": "Ernesto Cardenal dies",
     "subtitle": "Nicaraguan priest and politician",
@@ -5771,13 +5371,23 @@
   },
   {
     "qid": "Q155759",
-    "title": "Igor Tamm dies",
+    "title": "Igor Yevgenyevich Tamm dies",
     "subtitle": "Soviet physicist",
     "year": 1971,
     "fact": "Igor Yevgenyevich Tamm was a Soviet physicist who received the 1958 Nobel Prize in Physics, jointly with Pavel Alekseyevich Cherenkov and Ilya Mikhailovich Frank, for their 1934 discovery and demonstration of Cherenkov radiation.",
     "wikipediaSlug": "Igor_Tamm",
     "image": "Igor_Tamm.jpg",
     "pageViews": 2247
+  },
+  {
+    "qid": "Q213672",
+    "title": "Wolfgang Köhler dies",
+    "subtitle": "German-American psychologist and phenomenologist",
+    "year": 1967,
+    "fact": "Wolfgang Köhler was a German psychologist and phenomenologist who, like Max Wertheimer and Kurt Koffka, contributed to the creation of Gestalt psychology.",
+    "wikipediaSlug": "Wolfgang_K%C3%B6hler",
+    "image": "Wolfgang_Köhler.jpg",
+    "pageViews": 2215
   },
   {
     "qid": "Q164396",
@@ -5800,6 +5410,16 @@
     "pageViews": 2193
   },
   {
+    "qid": "Q57192",
+    "title": "Gerhard Domagk dies",
+    "subtitle": "German bacteriologist",
+    "year": 1964,
+    "fact": "Gerhard Johannes Paul Domagk was a German pathologist and bacteriologist.",
+    "wikipediaSlug": "Gerhard_Domagk",
+    "image": "Gerhard_Domagk_nobel.jpg",
+    "pageViews": 2127
+  },
+  {
     "qid": "Q76474",
     "title": "Walther Bothe dies",
     "subtitle": "German physicist, mathematician and chemist",
@@ -5810,14 +5430,14 @@
     "pageViews": 2119
   },
   {
-    "qid": "Q3320231",
-    "title": "Margarita Salas dies",
-    "subtitle": "Spanish biochemist",
-    "year": 2019,
-    "fact": "Margarita Salas Falgueras, 1st Marchioness of Canero was a Spanish scientist, medical researcher, and author in the fields of biochemistry and molecular genetics.",
-    "wikipediaSlug": "Margarita_Salas",
-    "image": "Margarita_Salas_Falgueras_062019.jpg",
-    "pageViews": 2048
+    "qid": "Q1673706",
+    "title": "Isamu Akasaki dies",
+    "subtitle": "Japanese engineer",
+    "year": 2021,
+    "fact": "Isamu Akasaki was a Japanese electronics engineer specializing in the field of semiconductor technology.",
+    "wikipediaSlug": "Isamu_Akasaki",
+    "image": "Isamu_Akasaki_201111.jpg",
+    "pageViews": 1929
   },
   {
     "qid": "Q71022",
@@ -5890,16 +5510,6 @@
     "pageViews": 1584
   },
   {
-    "qid": "Q93444",
-    "title": "Vicki Baum dies",
-    "subtitle": "Austrian writer",
-    "year": 1960,
-    "fact": "Hedwig \"Vicki\" Baum was an Austrian writer.",
-    "wikipediaSlug": "Vicki_Baum",
-    "image": "Vicki_Baum.jpg",
-    "pageViews": 1550
-  },
-  {
     "qid": "Q250919",
     "title": "Álvaro Cunhal dies",
     "subtitle": "Portuguese politician and writer",
@@ -5930,16 +5540,6 @@
     "pageViews": 1376
   },
   {
-    "qid": "Q449487",
-    "title": "Florence R. Sabin dies",
-    "subtitle": "American medical scientist",
-    "year": 1953,
-    "fact": "Florence Rena Sabin was an American physician and medical scientist known for pioneering work on the development of the lymphatic system and for later transforming public health in Colorado.",
-    "wikipediaSlug": "Florence_R._Sabin",
-    "image": "Florence_Sabin_1922-09-01.jpg",
-    "pageViews": 1295
-  },
-  {
     "qid": "Q104779",
     "title": "Simon van der Meer dies",
     "subtitle": "Dutch physicist",
@@ -5947,16 +5547,6 @@
     "fact": "Simon van der Meer was a Dutch particle accelerator physicist who shared the Nobel Prize in Physics in 1984 with Carlo Rubbia for contributions to the CERN project which led to the discovery of the W and Z particles, the two fundamental communicators of the weak interaction.",
     "wikipediaSlug": "Simon_van_der_Meer",
     "image": "Simon_van_der_Meer.jpg",
-    "pageViews": 1294
-  },
-  {
-    "qid": "Q361642",
-    "title": "Marek Grechuta dies",
-    "subtitle": "Polish singer and composer",
-    "year": 2006,
-    "fact": "Marek Michał Grechuta was a Polish singer, songwriter, composer, and lyricist.",
-    "wikipediaSlug": "Marek_Grechuta",
-    "image": "Marek_Grechuta.jpg",
     "pageViews": 1294
   },
   {
@@ -5971,7 +5561,7 @@
   },
   {
     "qid": "Q83557",
-    "title": "Nikolay Basov dies",
+    "title": "Nikolay Gennadiyevich Basov dies",
     "subtitle": "Soviet physicist",
     "year": 2001,
     "fact": "Nikolay Gennadiyevich Basov was a Russian Soviet physicist and educator.",
@@ -5988,16 +5578,6 @@
     "wikipediaSlug": "Willard_Boyle",
     "image": "Nobel_Prize_2009-Press_Conference_KVA-23.jpg",
     "pageViews": 1218
-  },
-  {
-    "qid": "Q61745",
-    "title": "Walter Gerlach dies",
-    "subtitle": "German physicist",
-    "year": 1979,
-    "fact": "Walther Gerlach was a German physicist who co-discovered, through laboratory experiment, spin quantization in a magnetic field, the Stern–Gerlach effect.",
-    "wikipediaSlug": "Walther_Gerlach",
-    "image": "Walther_Gerlach.jpg",
-    "pageViews": 1148
   },
   {
     "qid": "Q359732",

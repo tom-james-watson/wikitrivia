@@ -43,7 +43,7 @@
     "qid": "Q12506",
     "title": "Hagia Sophia is completed",
     "subtitle": "Mosque, museum, and former church in Istanbul, Turkey",
-    "year": 1054,
+    "year": 537,
     "fact": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and a major cultural and historical site in Istanbul, Turkey.",
     "wikipediaSlug": "Hagia_Sophia",
     "image": "Hagia_Sophia_(228968325).jpeg",
@@ -52,7 +52,7 @@
   {
     "qid": "Q43473",
     "title": "Angkor Wat is completed",
-    "subtitle": "Buddhist temple complex in Cambodia",
+    "subtitle": "Hindu-Buddhist temple complex in Cambodia",
     "year": 802,
     "fact": "Angkor Wat is a Theravada Buddhist temple complex and the largest religious complex in the world.",
     "wikipediaSlug": "Angkor_Wat",
@@ -150,16 +150,6 @@
     "pageViews": 28352
   },
   {
-    "qid": "Q178835",
-    "title": "Baalbek is completed",
-    "subtitle": "City in Baalbek-Hermel, Lebanon",
-    "year": 1000,
-    "fact": "Baalbek is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut.",
-    "wikipediaSlug": "Baalbek",
-    "image": "Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg",
-    "pageViews": 26149
-  },
-  {
     "qid": "Q212065",
     "title": "Edinburgh Castle is completed",
     "subtitle": "Castle in Edinburgh, Scotland, UK",
@@ -190,18 +180,8 @@
     "pageViews": 24245
   },
   {
-    "qid": "Q482485",
-    "title": "Gyeongbokgung is completed",
-    "subtitle": "Palace in Seoul, South Korea",
-    "year": 1395,
-    "fact": "Gyeongbokgung is a former royal palace in Seoul, South Korea.",
-    "wikipediaSlug": "Gyeongbokgung",
-    "image": "광화문_월대.jpg",
-    "pageViews": 23277
-  },
-  {
     "qid": "Q42798",
-    "title": "Borobudur is completed",
+    "title": "Borobudur Temple is completed",
     "subtitle": "Buddhist temple in Java, Indonesia",
     "year": 800,
     "fact": "Borobudur, also transcribed Barabudur, is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the town of Muntilan, northwest of the city of Yogyakarta, in Central Java, Indonesia.",
@@ -318,16 +298,6 @@
     "wikipediaSlug": "Castel_del_Monte,_Apulia",
     "image": "Castel_del_Monte_-_Andria.jpg",
     "pageViews": 17660
-  },
-  {
-    "qid": "Q71229",
-    "title": "Potala Palace is completed",
-    "subtitle": "Fortress in Lhasa, Tibet",
-    "year": 637,
-    "fact": "Potala Palace is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China.",
-    "wikipediaSlug": "Potala_Palace",
-    "image": "Potala_Palace_HQ.jpg",
-    "pageViews": 17259
   },
   {
     "qid": "Q4706020",
@@ -801,7 +771,7 @@
   },
   {
     "qid": "Q244952",
-    "title": "Snta Maria delle Grazie is completed",
+    "title": "Santa Maria delle Grazie is completed",
     "subtitle": "Church in Milan",
     "year": 1401,
     "fact": "Santa Maria delle Grazie is a church and Dominican convent in Milan, northern Italy, and a UNESCO World Heritage Site.",
@@ -982,7 +952,7 @@
   {
     "qid": "Q1256501",
     "title": "Jameh Mosque of Isfahan is completed",
-    "subtitle": "Mosque in Isfahan, Iranian national heritage site",
+    "subtitle": "Mosque in Isfahan, Iranian national heritage site and World heritage site",
     "year": 800,
     "fact": "The Jāmeh Mosque of Isfahān or Jāme' Mosque of Isfahān, also known as the Atiq Mosque and the Friday Mosque of Isfahān, is a historic congregational mosque (Jāmeh), located in Isfahan, Iran.",
     "wikipediaSlug": "Jameh_Mosque_of_Isfahan",
@@ -1088,6 +1058,16 @@
     "wikipediaSlug": "Lismore_Castle",
     "image": "Lismore_Castle_(Lismore,_Co._Waterford).jpg",
     "pageViews": 5277
+  },
+  {
+    "qid": "Q839456",
+    "title": "El-Fustat is completed",
+    "subtitle": "First capital of Islamic Egypt, in Old Cairo",
+    "year": 641,
+    "fact": "Fusṭāṭ was the first capital of Egypt under Muslim rule, though it has been integrated into Cairo.",
+    "wikipediaSlug": "Fustat",
+    "image": "Fostat-329.jpg",
+    "pageViews": 5267
   },
   {
     "qid": "Q4583646",
@@ -1651,7 +1631,7 @@
   },
   {
     "qid": "Q1143171",
-    "title": "St. Mary's Basilica is completed",
+    "title": "St. Mary's Basilica in Kraków is completed",
     "subtitle": "Church",
     "year": 1400,
     "fact": "The Church of the Assumption of the Blessed Virgin Mary, known colloquially as the St.",
@@ -2080,6 +2060,16 @@
     "pageViews": 2864
   },
   {
+    "qid": "Q7618555",
+    "title": "Stokesay Castle is completed",
+    "subtitle": "Grade I listed historic house museum in Shropshire, England, UK",
+    "year": 1285,
+    "fact": "Stokesay Castle is one of the finest surviving fortified manor houses in England, and situated at Stokesay in Shropshire.",
+    "wikipediaSlug": "Stokesay_Castle",
+    "image": "Stokesay_Castle_from_churchyard_1.jpg",
+    "pageViews": 2855
+  },
+  {
     "qid": "Q318660",
     "title": "Santa Maria in Aracoeli is completed",
     "subtitle": "Church in Rome, on the Capitol Hill",
@@ -2220,6 +2210,16 @@
     "pageViews": 2736
   },
   {
+    "qid": "Q1014402",
+    "title": "Vianden Castle is completed",
+    "subtitle": "Castle in Luxembourg",
+    "year": 1100,
+    "fact": "Vianden Castle, located in Vianden in the north of Luxembourg, is one of the largest fortified castles west of the Rhine.",
+    "wikipediaSlug": "Vianden_Castle",
+    "image": "Burg_Vianden,_Luxemburg.jpg",
+    "pageViews": 2733
+  },
+  {
     "qid": "Q490898",
     "title": "Larabanga Mosque is completed",
     "subtitle": "Is a mosque built in the Sudanese architectural style in Ghana",
@@ -2282,7 +2282,7 @@
   {
     "qid": "Q1122731",
     "title": "Clos Lucé is completed",
-    "subtitle": "Castle",
+    "subtitle": "Castle of Amboise, France",
     "year": 1471,
     "fact": "The Château du Clos Lucé, formerly called Manoir du Cloux, is a large château located in the center of Amboise, in the department of Indre-et-Loire, in the Centre-Val de Loire region of France.",
     "wikipediaSlug": "Clos_Luc%C3%A9",
@@ -2762,7 +2762,7 @@
   {
     "qid": "Q1190961",
     "title": "Palazzo Pubblico is completed",
-    "subtitle": "City hall",
+    "subtitle": "City hall of Siena, Italy",
     "year": 1310,
     "fact": "The Palazzo Pubblico is a historic palace in Siena, Tuscany, in central Italy.",
     "wikipediaSlug": "Palazzo_Pubblico",
@@ -2802,7 +2802,7 @@
   {
     "qid": "Q525635",
     "title": "Monmouth Castle is completed",
-    "subtitle": "Castle in Monmouth, Wales, UK",
+    "subtitle": "Castle in Monmouth, Wales",
     "year": 1060,
     "fact": "Monmouth Castle is a castle close to the centre of the town of Monmouth, the county town of Monmouthshire, on a hill above the River Monnow in south-east Wales.",
     "wikipediaSlug": "Monmouth_Castle",
@@ -2888,16 +2888,6 @@
     "wikipediaSlug": "Pfalzgrafenstein_Castle",
     "image": "Burg_Pfalzgrafenstein_2017.jpg",
     "pageViews": 1960
-  },
-  {
-    "qid": "Q2738834",
-    "title": "Salerno Cathedral is completed",
-    "subtitle": "The main church of the city of Salerno in southern Italy",
-    "year": 1001,
-    "fact": "Salerno Cathedral is the main church in the city of Salerno in southern Italy and a major tourist attraction.",
-    "wikipediaSlug": "Salerno_Cathedral",
-    "image": "Salerno_2013-05-17_09-37-10.jpg",
-    "pageViews": 1949
   },
   {
     "qid": "Q695891",
@@ -3100,6 +3090,16 @@
     "pageViews": 1822
   },
   {
+    "qid": "Q2351013",
+    "title": "Capitole de Toulouse is completed",
+    "subtitle": "Center of municipal administration of Toulouse",
+    "year": 1205,
+    "fact": "The Capitole de Toulouse, commonly known as the Capitole, is the heart of the municipal administration and the city hall of the French city of Toulouse.",
+    "wikipediaSlug": "Capitole_de_Toulouse",
+    "image": "Toulouse_Capitole_Night_Wikimedia_Commons.jpg",
+    "pageViews": 1822
+  },
+  {
     "qid": "Q1014126",
     "title": "Het Steen is completed",
     "subtitle": "Fortress in Antwerp, Belgium",
@@ -3178,16 +3178,6 @@
     "wikipediaSlug": "Monastery_of_S%C3%A3o_Vicente_de_Fora",
     "image": "Igreja_e_Mosteiro_de_São_Vicente_de_Fora.jpg",
     "pageViews": 1767
-  },
-  {
-    "qid": "Q1048693",
-    "title": "Castell y Bere is completed",
-    "subtitle": "Castle in Gwynedd, Wales",
-    "year": 1221,
-    "fact": "Castell y Bere is a Welsh castle near Llanfihangel-y-pennant in Gwynedd, Wales.",
-    "wikipediaSlug": "Castell_y_Bere",
-    "image": "CastellybereFMA01.jpg",
-    "pageViews": 1763
   },
   {
     "qid": "Q1545193",
@@ -3538,6 +3528,16 @@
     "wikipediaSlug": "Augustinian_Church,_Vienna",
     "image": "Augustinian_Church_Vienna.jpg",
     "pageViews": 1556
+  },
+  {
+    "qid": "Q688468",
+    "title": "Minoritenkirche is completed",
+    "subtitle": "Church in Vienna",
+    "year": 1276,
+    "fact": "The Minoritenkirche, formally called Italienische Nationalkirche Maria Schnee, was built in French Gothic style in the Altstadt or First District of Vienna, Austria.",
+    "wikipediaSlug": "Minoritenkirche_(Vienna)",
+    "image": "Minoritenkirche.Wien.jpg",
+    "pageViews": 1540
   },
   {
     "qid": "Q1268593",
@@ -4282,7 +4282,7 @@
   {
     "qid": "Q1428846",
     "title": "Flint Castle is completed",
-    "subtitle": "Grade I listed building in Flint. Castle",
+    "subtitle": "Grade I listed castle in Flint, Wales",
     "year": 1277,
     "fact": "Flint Castle in Flint, Flintshire, was the first of a series of castles built during King Edward I's campaign to conquer Wales.",
     "wikipediaSlug": "Flint_Castle",
@@ -4388,6 +4388,16 @@
     "wikipediaSlug": "Roslin_Castle",
     "image": "RoslinCastle1.JPG",
     "pageViews": 1179
+  },
+  {
+    "qid": "Q3916007",
+    "title": "Lübeck Cathedral is completed",
+    "subtitle": "Church in Lübeck",
+    "year": 1173,
+    "fact": "Lübeck Cathedral is a large brick-built Lutheran cathedral in Lübeck, Germany, and part of the Lübeck World Heritage Site.",
+    "wikipediaSlug": "L%C3%BCbeck_Cathedral",
+    "image": "Aerial_image_of_the_Lübeck_Cathedral_(view_from_the_southwest).jpg",
+    "pageViews": 1175
   },
   {
     "qid": "Q790118",
@@ -4581,13 +4591,23 @@
   },
   {
     "qid": "Q733389",
-    "title": "Villa Medici is completed",
+    "title": "Villa Medicea of Poggio a Caiano is completed",
     "subtitle": "Villa in Poggio a Caiano, Tuscany, Italy",
     "year": 1480,
     "fact": "The Medici Villa of Poggio a Caiano, also called Ambra, is one of the most famous Medici villas and is located in Poggio a Caiano (Prato).",
     "wikipediaSlug": "Villa_di_Poggio_a_Caiano",
     "image": "Villa_di_Poggio_a_Caiano,1.JPG",
     "pageViews": 1083
+  },
+  {
+    "qid": "Q908127",
+    "title": "Basilica of Our Lady is completed",
+    "subtitle": "Church in Maastricht, Netherlands",
+    "year": 1000,
+    "fact": "The Basilica of Our Lady is a Romanesque church in the historic center of Maastricht, Netherlands.",
+    "wikipediaSlug": "Basilica_of_Our_Lady,_Maastricht",
+    "image": "OLV-01_(cropped).jpg",
+    "pageViews": 1077
   },
   {
     "qid": "Q648226",
@@ -4672,7 +4692,7 @@
   {
     "qid": "Q3400816",
     "title": "Montgomery Castle is completed",
-    "subtitle": "Grade I listed castle in Powys, Wales, UK",
+    "subtitle": "Grade I listed castle in Powys, Wales",
     "year": 1223,
     "fact": "Montgomery Castle is a stone castle looking over the town of Montgomery in Powys, Mid Wales.",
     "wikipediaSlug": "Montgomery_Castle",
@@ -4688,6 +4708,16 @@
     "wikipediaSlug": "Bohus_Fortress",
     "image": "Bohus_fästning.jpg",
     "pageViews": 1054
+  },
+  {
+    "qid": "Q462239",
+    "title": "Pillnitz Castle is completed",
+    "subtitle": "Château",
+    "year": 1400,
+    "fact": "Pillnitz Palace is a restored Baroque castle at the eastern end of the city of Dresden in the German state of Saxony.",
+    "wikipediaSlug": "Pillnitz_Castle",
+    "image": "Aerial_image_of_Schlosspark_Pillnitz_(view_from_the_south).jpg",
+    "pageViews": 1047
   },
   {
     "qid": "Q2301986",
@@ -4798,6 +4828,16 @@
     "wikipediaSlug": "Banteay_Kdei",
     "image": "Banteay_Kdei,_Angkor,_Camboya,_2013-08-16,_DD_10.JPG",
     "pageViews": 1010
+  },
+  {
+    "qid": "Q1255652",
+    "title": "Palazzo Abatellis is completed",
+    "subtitle": "Historic palazzo and art gallery in Palermo, Sicily",
+    "year": 1495,
+    "fact": "Palazzo Abatellis is a palazzo in Palermo, Sicily, southern Italy, located in the Kalsa quarter.",
+    "wikipediaSlug": "Palazzo_Abatellis",
+    "image": "Palermo-Palazzo-Abatellis-bjs2007-01.jpg",
+    "pageViews": 1007
   },
   {
     "qid": "Q14906524",

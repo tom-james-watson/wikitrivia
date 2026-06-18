@@ -6,7 +6,7 @@
     "sitelinks": "114",
     "description": "American basketball player (1978–2020)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||basketball player||professional athlete"
+    "occupationLabel": "screenwriter||author||athlete||basketball player||professional athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q483148",
@@ -15,16 +15,16 @@
     "sitelinks": "91",
     "description": "American actor (1957–2012)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||comedian||voice actor||bodyguard||basketball player||television actor||film actor"
+    "occupationLabel": "actor||voice actor||basketball player||comedian||television actor||film actor||bodyguard"
   },
   {
     "item": "http://www.wikidata.org/entity/Q172140",
     "itemLabel": "Michael Crichton",
     "year": "2008",
-    "sitelinks": "83",
+    "sitelinks": "84",
     "description": "American author, screenwriter, film director (1942–2008)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||writer||television producer||physician writer||basketball player||film producer||film director||director||novelist||programmer||medical writer||science fiction writer"
+    "occupationLabel": "screenwriter||author||director||programmer||basketball player||novelist||film director||physician writer||film producer||television producer||medical writer||science fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182455",
@@ -33,7 +33,7 @@
     "sitelinks": "70",
     "description": "American basketball player (1936–1999)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||screenwriter||coach||basketball player||basketball coach||volleyball player"
+    "occupationLabel": "screenwriter||actor||coach||basketball coach||basketball player||volleyball player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q242185",
@@ -42,7 +42,25 @@
     "sitelinks": "65",
     "description": "American basketball player (1934–2022)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||coach||basketball player||basketball coach||high jumper"
+    "occupationLabel": "actor||coach||athlete||basketball coach||basketball player||high jumper"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q221482",
+    "itemLabel": "Jim Thorpe",
+    "year": "1953",
+    "sitelinks": "59",
+    "description": "American track and field athlete and baseball player (1888-1953)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||actor||athlete||basketball player||athletics competitor||baseball player||film actor||American football player||American football coach"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q95677819",
+    "itemLabel": "George Floyd",
+    "year": "2020",
+    "sitelinks": "59",
+    "description": "African American man who was a victim of police violence in the United States, killed by Derek Chauvin",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "driver||pornographic actor||rapper||basketball player||truck driver||security guard"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188962",
@@ -50,17 +68,8 @@
     "year": "1939",
     "sitelinks": "58",
     "description": "Canadian-American coach; inventor of basketball",
-    "nationalityLabel": "American||Americans||Canadian||Canadians",
-    "occupationLabel": "writer||physician||inventor||cleric||basketball player||head coach||basketball coach"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q221482",
-    "itemLabel": "Jim Thorpe",
-    "year": "1953",
-    "sitelinks": "58",
-    "description": "American track and field athlete and baseball player (1888-1953)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||screenwriter||basketball player||film actor||athletics competitor||baseball player||American football player||American football coach"
+    "nationalityLabel": "Canadian||Canadians||American||Americans",
+    "occupationLabel": "author||physician||inventor||basketball coach||basketball player||cleric||head coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q209982",
@@ -72,22 +81,13 @@
     "occupationLabel": "basketball player"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q95677819",
-    "itemLabel": "George Floyd",
-    "year": "2020",
-    "sitelinks": "57",
-    "description": "African American man who was a victim of police violence in the United States, killed by Derek Chauvin",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "rapper||driver||truck driver||security guard||basketball player||pornographic actor"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q273233",
     "itemLabel": "Paul Robeson",
     "year": "1976",
-    "sitelinks": "53",
+    "sitelinks": "54",
     "description": "American singer, actor, and political activist (1898–1976)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||writer||politician||lawyer||singer||stage actor||basketball player||film actor||musicologist||American football player"
+    "occupationLabel": "actor||singer||military officer||military personnel||politician||lawyer||author||civil rights advocate||athlete||stage actor||basketball player||film actor||musician||musicologist||activist||American football player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311195",
@@ -96,6 +96,6 @@
     "sitelinks": "53",
     "description": "American basketball player and executive (1938-2024)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "basketball player||basketball coach||sports executive"
+    "occupationLabel": "basketball coach||basketball player||sports executive"
   }
 ]

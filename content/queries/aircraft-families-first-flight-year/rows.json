@@ -3,14 +3,14 @@
     "item": "http://www.wikidata.org/entity/Q5830",
     "itemLabel": "Airbus A380",
     "year": "2005",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "101"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6387",
     "itemLabel": "Boeing 737",
     "year": "1967",
-    "manufacturerLabel": "Boeing",
+    "manufacturerLabel": "Boeing Commercial Airplanes",
     "sitelinks": "88"
   },
   {
@@ -24,14 +24,14 @@
     "item": "http://www.wikidata.org/entity/Q100026",
     "itemLabel": "General Dynamics F-16 Fighting Falcon",
     "year": "1974",
-    "manufacturerLabel": "Lockheed Martin",
-    "sitelinks": "84"
+    "manufacturerLabel": "Lockheed Corporation",
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q133324",
     "itemLabel": "Lockheed Martin F-22 Raptor",
     "year": "1997",
-    "manufacturerLabel": "Boeing",
+    "manufacturerLabel": "Boeing Defense, Space & Security",
     "sitelinks": "83"
   },
   {
@@ -39,13 +39,13 @@
     "itemLabel": "Boeing 777",
     "year": "1994",
     "manufacturerLabel": "Boeing Commercial Airplanes",
-    "sitelinks": "77"
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29261",
     "itemLabel": "Lockheed Martin F-35 Lightning II",
     "year": "2006",
-    "manufacturerLabel": "Lockheed Martin Aeronautics",
+    "manufacturerLabel": "Lockheed Martin",
     "sitelinks": "77"
   },
   {
@@ -59,7 +59,7 @@
     "item": "http://www.wikidata.org/entity/Q180285",
     "itemLabel": "Northrop B-2 Spirit",
     "year": "1989",
-    "manufacturerLabel": "Northrop",
+    "manufacturerLabel": "Northrop Grumman Corporation",
     "sitelinks": "75"
   },
   {
@@ -70,17 +70,17 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150609",
-    "itemLabel": "Mikoyan-Gurevich MiG-21",
-    "year": "1956",
-    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
-    "sitelinks": "71"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q6394",
     "itemLabel": "Boeing 707",
     "year": "1957",
     "manufacturerLabel": "Boeing Commercial Airplanes",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150609",
+    "itemLabel": "Mikoyan-Gurevich MiG-21",
+    "year": "1956",
+    "manufacturerLabel": "Russian Aircraft Corporation MiG",
     "sitelinks": "71"
   },
   {
@@ -94,7 +94,7 @@
     "item": "http://www.wikidata.org/entity/Q6475",
     "itemLabel": "Airbus A320 family",
     "year": "1987",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "70"
   },
   {
@@ -105,17 +105,31 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182027",
-    "itemLabel": "Lockheed C-130 Hercules",
-    "year": "1954",
-    "manufacturerLabel": "Lockheed Martin",
-    "sitelinks": "68"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q171468",
     "itemLabel": "Hughes AH-64 Apache",
     "year": "1975",
     "manufacturerLabel": "McDonnell Douglas",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190973",
+    "itemLabel": "Dassault Rafale",
+    "year": "1986",
+    "manufacturerLabel": "Dassault Aviation",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6409",
+    "itemLabel": "Boeing 727",
+    "year": "1963",
+    "manufacturerLabel": "Boeing Commercial Airplanes",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182027",
+    "itemLabel": "Lockheed C-130 Hercules",
+    "year": "1954",
+    "manufacturerLabel": "Lockheed Martin",
     "sitelinks": "68"
   },
   {
@@ -126,24 +140,10 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q190973",
-    "itemLabel": "Dassault Rafale",
-    "year": "1986",
-    "manufacturerLabel": "Dassault Aviation",
-    "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6409",
-    "itemLabel": "Boeing 727",
-    "year": "1963",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "68"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q29251",
     "itemLabel": "McDonnell Douglas F-15 Eagle",
     "year": "1972",
-    "manufacturerLabel": "McDonnell Douglas",
+    "manufacturerLabel": "Boeing",
     "sitelinks": "68"
   },
   {
@@ -157,7 +157,7 @@
     "item": "http://www.wikidata.org/entity/Q6478",
     "itemLabel": "Airbus A330",
     "year": "1992",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "65"
   },
   {
@@ -178,7 +178,7 @@
     "item": "http://www.wikidata.org/entity/Q155651",
     "itemLabel": "Mil Mi-24",
     "year": "1969",
-    "manufacturerLabel": "Rostvertol",
+    "manufacturerLabel": "Mil Moscow Helicopter Plant",
     "sitelinks": "64"
   },
   {
@@ -196,17 +196,17 @@
     "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q34945",
-    "itemLabel": "Grumman F-14 Tomcat",
-    "year": "1970",
-    "manufacturerLabel": "Grumman",
-    "sitelinks": "63"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q46397",
     "itemLabel": "McDonnell Douglas F/A-18 Hornet",
     "year": "1978",
     "manufacturerLabel": "Boeing",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34945",
+    "itemLabel": "Grumman F-14 Tomcat",
+    "year": "1970",
+    "manufacturerLabel": "Grumman",
     "sitelinks": "63"
   },
   {
@@ -220,14 +220,14 @@
     "item": "http://www.wikidata.org/entity/Q6481",
     "itemLabel": "Airbus A340",
     "year": "1991",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6484",
     "itemLabel": "Airbus A350",
     "year": "2013",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "62"
   },
   {
@@ -248,14 +248,7 @@
     "item": "http://www.wikidata.org/entity/Q187377",
     "itemLabel": "Mikoyan-Gurevich MiG-15",
     "year": "1947",
-    "manufacturerLabel": "Ulan-Ude",
-    "sitelinks": "61"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q150088",
-    "itemLabel": "Saab JAS 39 Gripen",
-    "year": "1988",
-    "manufacturerLabel": "Saab Group",
+    "manufacturerLabel": "Samara",
     "sitelinks": "61"
   },
   {
@@ -266,10 +259,17 @@
     "sitelinks": "61"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q150088",
+    "itemLabel": "Saab JAS 39 Gripen",
+    "year": "1988",
+    "manufacturerLabel": "Saab Group",
+    "sitelinks": "61"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q245275",
     "itemLabel": "Sukhoi Su-35",
     "year": "2008",
-    "manufacturerLabel": "Komsomolsk-on-Amur Aircraft Production Association",
+    "manufacturerLabel": "Sukhoi",
     "sitelinks": "61"
   },
   {
@@ -283,7 +283,7 @@
     "item": "http://www.wikidata.org/entity/Q6437",
     "itemLabel": "Airbus A300",
     "year": "1972",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "60"
   },
   {
@@ -343,17 +343,17 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q142549",
-    "itemLabel": "Ilyushin Il-76",
-    "year": "1971",
-    "manufacturerLabel": "Ilyushin",
-    "sitelinks": "56"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q192137",
     "itemLabel": "Sukhoi Su-25",
     "year": "1975",
     "manufacturerLabel": "Sukhoi",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q142549",
+    "itemLabel": "Ilyushin Il-76",
+    "year": "1971",
+    "manufacturerLabel": "Ilyushin",
     "sitelinks": "56"
   },
   {
@@ -395,7 +395,7 @@
     "item": "http://www.wikidata.org/entity/Q193487",
     "itemLabel": "Antonov An-124 Ruslan",
     "year": "1982",
-    "manufacturerLabel": "Antonov Serial Production Plant",
+    "manufacturerLabel": "Aviastar-SP",
     "sitelinks": "55"
   },
   {
@@ -406,10 +406,17 @@
     "sitelinks": "55"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q40156",
+    "itemLabel": "Mitsubishi A6M Zero",
+    "year": "1939",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
+    "sitelinks": "55"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q194251",
     "itemLabel": "Hawker Hurricane",
     "year": "1935",
-    "manufacturerLabel": "Hawker Aircraft",
+    "manufacturerLabel": "Gloster Aircraft Company",
     "sitelinks": "54"
   },
   {
@@ -420,24 +427,10 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40156",
-    "itemLabel": "Mitsubishi A6M Zero",
-    "year": "1939",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "54"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q140254",
     "itemLabel": "Messerschmitt Me 262",
     "year": "1942",
     "manufacturerLabel": "Messerschmitt",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153826",
-    "itemLabel": "F-86 Sabre",
-    "year": "1947",
-    "manufacturerLabel": "Canadair",
     "sitelinks": "53"
   },
   {
@@ -448,10 +441,24 @@
     "sitelinks": "53"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q153826",
+    "itemLabel": "F-86 Sabre",
+    "year": "1947",
+    "manufacturerLabel": "Commonwealth Aircraft Corporation",
+    "sitelinks": "53"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6471",
     "itemLabel": "Airbus A310",
     "year": "1982",
-    "manufacturerLabel": "Airbus SAS",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26795",
+    "itemLabel": "Junkers Ju 87",
+    "year": "1935",
+    "manufacturerLabel": "Junkers",
     "sitelinks": "53"
   },
   {
@@ -476,13 +483,6 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26795",
-    "itemLabel": "Junkers Ju 87",
-    "year": "1935",
-    "manufacturerLabel": "Junkers Motorenbau und Junkers Flugzeugwerk",
-    "sitelinks": "52"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q153307",
     "itemLabel": "Mikoyan-Gurevich MiG-19",
     "year": "1953",
@@ -497,10 +497,10 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q189491",
-    "itemLabel": "Sikorsky UH-60 Black Hawk",
-    "year": "1974",
-    "manufacturerLabel": "Sikorsky Aircraft Corporation",
+    "item": "http://www.wikidata.org/entity/Q155661",
+    "itemLabel": "Junkers Ju 88",
+    "year": "1936",
+    "manufacturerLabel": "Henschel & Sohn",
     "sitelinks": "51"
   },
   {
@@ -511,6 +511,20 @@
     "sitelinks": "51"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q189491",
+    "itemLabel": "Sikorsky UH-60 Black Hawk",
+    "year": "1974",
+    "manufacturerLabel": "Sikorsky Aircraft Corporation",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159067",
+    "itemLabel": "Tupolev Tu-134",
+    "year": "1963",
+    "manufacturerLabel": "Tupolev",
+    "sitelinks": "50"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q154106",
     "itemLabel": "Bell UH-1 Iroquois",
     "year": "1956",
@@ -518,10 +532,10 @@
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q159067",
-    "itemLabel": "Tupolev Tu-134",
-    "year": "1963",
-    "manufacturerLabel": "Tupolev",
+    "item": "http://www.wikidata.org/entity/Q17501733",
+    "itemLabel": "Bayraktar TB2",
+    "year": "2009",
+    "manufacturerLabel": "Baykar",
     "sitelinks": "50"
   },
   {
@@ -539,24 +553,17 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182012",
-    "itemLabel": "Lockheed C-5 Galaxy",
-    "year": "1968",
-    "manufacturerLabel": "Lockheed Martin",
-    "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155661",
-    "itemLabel": "Junkers Ju 88",
-    "year": "1936",
-    "manufacturerLabel": "Heinkel",
-    "sitelinks": "49"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q220529",
     "itemLabel": "Mikoyan MiG-35",
     "year": "2007",
     "manufacturerLabel": "Russian Aircraft Corporation MiG",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182012",
+    "itemLabel": "Lockheed C-5 Galaxy",
+    "year": "1968",
+    "manufacturerLabel": "Lockheed Martin",
     "sitelinks": "49"
   },
   {
@@ -574,13 +581,6 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17501733",
-    "itemLabel": "Bayraktar TB2",
-    "year": "2009",
-    "manufacturerLabel": "Baykar",
-    "sitelinks": "49"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q221344",
     "itemLabel": "de Havilland Mosquito",
     "year": "1940",
@@ -591,7 +591,7 @@
     "item": "http://www.wikidata.org/entity/Q242806",
     "itemLabel": "Mil Mi-28",
     "year": "1982",
-    "manufacturerLabel": "Mil Moscow Helicopter Plant",
+    "manufacturerLabel": "Rostvertol",
     "sitelinks": "49"
   },
   {
@@ -599,6 +599,13 @@
     "itemLabel": "McDonnell Douglas DC-10",
     "year": "1970",
     "manufacturerLabel": "McDonnell Douglas",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q844500",
+    "itemLabel": "McDonnell Douglas F-15E Strike Eagle",
+    "year": "1986",
+    "manufacturerLabel": "Boeing",
     "sitelinks": "48"
   },
   {
@@ -616,17 +623,17 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q844500",
-    "itemLabel": "McDonnell Douglas F-15E Strike Eagle",
-    "year": "1986",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q217935",
     "itemLabel": "Bell/Boeing V-22 Osprey",
     "year": "1989",
     "manufacturerLabel": "Boeing",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152200",
+    "itemLabel": "Panavia Tornado",
+    "year": "1974",
+    "manufacturerLabel": "Panavia Aircraft GmbH",
     "sitelinks": "47"
   },
   {
@@ -651,17 +658,10 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152200",
-    "itemLabel": "Panavia Tornado",
-    "year": "1974",
-    "manufacturerLabel": "Panavia Aircraft GmbH",
-    "sitelinks": "46"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q336150",
     "itemLabel": "Mi-26",
     "year": "1977",
-    "manufacturerLabel": "Mil Moscow Helicopter Plant",
+    "manufacturerLabel": "Rostvertol",
     "sitelinks": "46"
   },
   {
@@ -672,10 +672,17 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q271559",
-    "itemLabel": "Antonov An-12",
-    "year": "1957",
-    "manufacturerLabel": "Antonov",
+    "item": "http://www.wikidata.org/entity/Q426074",
+    "itemLabel": "Airbus A220",
+    "year": "2015",
+    "manufacturerLabel": "Airbus Canada",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q223315",
+    "itemLabel": "Douglas DC-8",
+    "year": "1958",
+    "manufacturerLabel": "McDonnell Douglas",
     "sitelinks": "46"
   },
   {
@@ -686,17 +693,17 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q426074",
-    "itemLabel": "Airbus A220",
-    "year": "2015",
-    "manufacturerLabel": "Airbus Canada",
+    "item": "http://www.wikidata.org/entity/Q271559",
+    "itemLabel": "Antonov An-12",
+    "year": "1957",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q204944",
-    "itemLabel": "Tupolev Tu-22M",
-    "year": "1969",
-    "manufacturerLabel": "Tupolev",
+    "item": "http://www.wikidata.org/entity/Q155642",
+    "itemLabel": "Messerschmitt Bf 110",
+    "year": "1936",
+    "manufacturerLabel": "Brunswick",
     "sitelinks": "45"
   },
   {
@@ -707,10 +714,10 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q223315",
-    "itemLabel": "Douglas DC-8",
-    "year": "1958",
-    "manufacturerLabel": "McDonnell Douglas",
+    "item": "http://www.wikidata.org/entity/Q204944",
+    "itemLabel": "Tupolev Tu-22M",
+    "year": "1969",
+    "manufacturerLabel": "Tupolev",
     "sitelinks": "45"
   },
   {
@@ -721,10 +728,17 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q155642",
-    "itemLabel": "Messerschmitt Bf 110",
-    "year": "1936",
-    "manufacturerLabel": "Augsburg",
+    "item": "http://www.wikidata.org/entity/Q34775",
+    "itemLabel": "Focke-Wulf Fw 190",
+    "year": "1939",
+    "manufacturerLabel": "Focke-Wulf",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q220759",
+    "itemLabel": "Consolidated B-24 Liberator",
+    "year": "1939",
+    "manufacturerLabel": "Ford Motor Company",
     "sitelinks": "44"
   },
   {
@@ -742,17 +756,10 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22960692",
-    "itemLabel": "Northrop Grumman B-21 Raider",
-    "year": "2023",
-    "manufacturerLabel": "Northrop Grumman Corporation",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q272571",
-    "itemLabel": "Iljushin IL-96",
-    "year": "1988",
-    "manufacturerLabel": "Voronezh Aircraft Production Association",
+    "item": "http://www.wikidata.org/entity/Q579939",
+    "itemLabel": "Antonov An-32",
+    "year": "1976",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "44"
   },
   {
@@ -763,6 +770,20 @@
     "sitelinks": "44"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q272571",
+    "itemLabel": "Iljushin IL-96",
+    "year": "1988",
+    "manufacturerLabel": "Voronezh Aircraft Production Association",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q261384",
+    "itemLabel": "Boeing E-3 Sentry",
+    "year": "1972",
+    "manufacturerLabel": "Westinghouse Electric Corporation",
+    "sitelinks": "44"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q62161",
     "itemLabel": "McDonnell Douglas MD-11",
     "year": "1990",
@@ -770,24 +791,17 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q34775",
-    "itemLabel": "Focke-Wulf Fw 190",
-    "year": "1939",
-    "manufacturerLabel": "Focke-Wulf",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q579939",
-    "itemLabel": "Antonov An-32",
-    "year": "1976",
-    "manufacturerLabel": "Antonov Serial Production Plant",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q62167",
     "itemLabel": "Iljushin Il-86",
     "year": "1976",
     "manufacturerLabel": "Ilyushin",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22960692",
+    "itemLabel": "Northrop Grumman B-21 Raider",
+    "year": "2023",
+    "manufacturerLabel": "Northrop Grumman Corporation",
     "sitelinks": "44"
   },
   {
@@ -812,20 +826,6 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26066",
-    "itemLabel": "Junkers Ju 52",
-    "year": "1932",
-    "manufacturerLabel": "Junkers",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q220759",
-    "itemLabel": "Consolidated B-24 Liberator",
-    "year": "1939",
-    "manufacturerLabel": "Ford Motor Company",
-    "sitelinks": "43"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q431231",
     "itemLabel": "AC-130",
     "year": "1966",
@@ -833,37 +833,23 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q261384",
-    "itemLabel": "Boeing E-3 Sentry",
-    "year": "1972",
-    "manufacturerLabel": "Westinghouse Electric Corporation",
+    "item": "http://www.wikidata.org/entity/Q26066",
+    "itemLabel": "Junkers Ju 52",
+    "year": "1932",
+    "manufacturerLabel": "Junkers",
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q155490",
-    "itemLabel": "Lockheed P-3 Orion",
+    "item": "http://www.wikidata.org/entity/Q337467",
+    "itemLabel": "Antonov An-24",
     "year": "1959",
-    "manufacturerLabel": "Lockheed Martin",
+    "manufacturerLabel": "Ulan-Ude Aviation Plant",
     "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q607444",
     "itemLabel": "Antonov An-22",
     "year": "1965",
-    "manufacturerLabel": "Antonov",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155360",
-    "itemLabel": "Messerschmitt Me 163 Komet",
-    "year": "1941",
-    "manufacturerLabel": "Messerschmitt",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q337467",
-    "itemLabel": "Antonov An-24",
-    "year": "1959",
     "manufacturerLabel": "Antonov",
     "sitelinks": "42"
   },
@@ -875,10 +861,24 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q562475",
-    "itemLabel": "Yakovlev Yak-9",
-    "year": "1942",
-    "manufacturerLabel": "Omsk",
+    "item": "http://www.wikidata.org/entity/Q334612",
+    "itemLabel": "Grumman F4F Wildcat",
+    "year": "1937",
+    "manufacturerLabel": "Grumman",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155490",
+    "itemLabel": "Lockheed P-3 Orion",
+    "year": "1959",
+    "manufacturerLabel": "Lockheed Corporation",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155360",
+    "itemLabel": "Messerschmitt Me 163 Komet",
+    "year": "1941",
+    "manufacturerLabel": "Messerschmitt",
     "sitelinks": "42"
   },
   {
@@ -889,31 +889,17 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q234371",
-    "itemLabel": "Dassault Mirage III",
-    "year": "1956",
-    "manufacturerLabel": "Dassault Aviation",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q269250",
-    "itemLabel": "Kamov Ka-50 Black Shark",
-    "year": "1982",
-    "manufacturerLabel": "Kamov",
+    "item": "http://www.wikidata.org/entity/Q562475",
+    "itemLabel": "Yakovlev Yak-9",
+    "year": "1942",
+    "manufacturerLabel": "Yakovlev",
     "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q461651",
     "itemLabel": "Sukhoi Su-15",
     "year": "1962",
-    "manufacturerLabel": "Novosibirsk Aircraft Production Association",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q308940",
-    "itemLabel": "Northrop F-5",
-    "year": "1959",
-    "manufacturerLabel": "Northrop",
+    "manufacturerLabel": "Sukhoi",
     "sitelinks": "42"
   },
   {
@@ -924,6 +910,34 @@
     "sitelinks": "42"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q269250",
+    "itemLabel": "Kamov Ka-50 Black Shark",
+    "year": "1982",
+    "manufacturerLabel": "Kamov",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q234371",
+    "itemLabel": "Dassault Mirage III",
+    "year": "1956",
+    "manufacturerLabel": "Dassault Aviation",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q308940",
+    "itemLabel": "Northrop F-5",
+    "year": "1959",
+    "manufacturerLabel": "Northrop",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q852",
+    "itemLabel": "Lockheed L-1011 TriStar",
+    "year": "1970",
+    "manufacturerLabel": "Lockheed Corporation",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q641977",
     "itemLabel": "Polikarpov I-16",
     "year": "1933",
@@ -931,52 +945,10 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q207400",
-    "itemLabel": "McDonnell Douglas MD-80/MD-90 family",
-    "year": "1979",
-    "manufacturerLabel": "Boeing Commercial Airplanes",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q648864",
     "itemLabel": "Consolidated PBY Catalina",
     "year": "1935",
-    "manufacturerLabel": "Boeing Canada",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q334612",
-    "itemLabel": "Grumman F4F Wildcat",
-    "year": "1937",
-    "manufacturerLabel": "Grumman",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q213342",
-    "itemLabel": "Tupolev Tu-22",
-    "year": "1958",
-    "manufacturerLabel": "Tupolev",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q175940",
-    "itemLabel": "Tejas",
-    "year": "2001",
-    "manufacturerLabel": "Hindustan Aeronautics Limited",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q219629",
-    "itemLabel": "Bell AH-1 Cobra",
-    "year": "1965",
-    "manufacturerLabel": "Bell Textron",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q218931",
-    "itemLabel": "Avro Vulcan",
-    "year": "1952",
-    "manufacturerLabel": "Avro",
+    "manufacturerLabel": "Consolidated Aircraft",
     "sitelinks": "41"
   },
   {
@@ -987,6 +959,41 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q207400",
+    "itemLabel": "McDonnell Douglas MD-80/MD-90 family",
+    "year": "1979",
+    "manufacturerLabel": "McDonnell Douglas",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213342",
+    "itemLabel": "Tupolev Tu-22",
+    "year": "1958",
+    "manufacturerLabel": "Tupolev",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q218931",
+    "itemLabel": "Avro Vulcan",
+    "year": "1952",
+    "manufacturerLabel": "Avro",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q219629",
+    "itemLabel": "Bell AH-1 Cobra",
+    "year": "1965",
+    "manufacturerLabel": "Bell Textron",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q175940",
+    "itemLabel": "Tejas",
+    "year": "2001",
+    "manufacturerLabel": "Hindustan Aeronautics Limited",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q506736",
     "itemLabel": "Fokker F27 Friendship",
     "year": "1955",
@@ -994,10 +1001,24 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q852",
-    "itemLabel": "Lockheed L-1011 TriStar",
-    "year": "1970",
-    "manufacturerLabel": "Lockheed Corporation",
+    "item": "http://www.wikidata.org/entity/Q734103",
+    "itemLabel": "Grumman Avenger",
+    "year": "1941",
+    "manufacturerLabel": "Trenton",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q744253",
+    "itemLabel": "CAC/PAC JF-17 Thunder",
+    "year": "2003",
+    "manufacturerLabel": "Chengdu Aircraft Industry Group",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q736765",
+    "itemLabel": "de Havilland Canada DHC-8",
+    "year": "1983",
+    "manufacturerLabel": "De Havilland Canada",
     "sitelinks": "41"
   },
   {
@@ -1015,24 +1036,10 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q736765",
-    "itemLabel": "de Havilland Canada DHC-8",
-    "year": "1983",
-    "manufacturerLabel": "De Havilland Canada",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q139289",
     "itemLabel": "Boeing 737 MAX",
     "year": "2016",
     "manufacturerLabel": "Boeing",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q611401",
-    "itemLabel": "Boeing P-8 Poseidon",
-    "year": "2009",
-    "manufacturerLabel": "Boeing Defense, Space & Security",
     "sitelinks": "40"
   },
   {
@@ -1064,10 +1071,10 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q118070",
-    "itemLabel": "Douglas SBD Dauntless",
-    "year": "1940",
-    "manufacturerLabel": "Douglas",
+    "item": "http://www.wikidata.org/entity/Q611401",
+    "itemLabel": "Boeing P-8 Poseidon",
+    "year": "2009",
+    "manufacturerLabel": "Boeing Defense, Space & Security",
     "sitelinks": "40"
   },
   {
@@ -1078,48 +1085,6 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q140318",
-    "itemLabel": "Gloster Meteor",
-    "year": "1943",
-    "manufacturerLabel": "Gloster Aircraft Company",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q505649",
-    "itemLabel": "Yakovlev Yak-42",
-    "year": "1975",
-    "manufacturerLabel": "Saratov Aviation Plant",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q499185",
-    "itemLabel": "Beriev A-50",
-    "year": "1978",
-    "manufacturerLabel": "Tashkent Mechanical Plant",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3495319",
-    "itemLabel": "E-Jet",
-    "year": "2002",
-    "manufacturerLabel": "Embraer",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6488",
-    "itemLabel": "Airbus A320neo family",
-    "year": "2014",
-    "manufacturerLabel": "Airbus SAS",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q275031",
-    "itemLabel": "Ilyushin Il-14",
-    "year": "1950",
-    "manufacturerLabel": "Avia",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q714326",
     "itemLabel": "Douglas C-47",
     "year": "1941",
@@ -1127,10 +1092,31 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q734103",
-    "itemLabel": "Grumman Avenger",
-    "year": "1941",
-    "manufacturerLabel": "Trenton",
+    "item": "http://www.wikidata.org/entity/Q140318",
+    "itemLabel": "Gloster Meteor",
+    "year": "1943",
+    "manufacturerLabel": "Gloster Aircraft Company",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q118070",
+    "itemLabel": "Douglas SBD Dauntless",
+    "year": "1940",
+    "manufacturerLabel": "Douglas",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q499185",
+    "itemLabel": "Beriev A-50",
+    "year": "1978",
+    "manufacturerLabel": "Beriev",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q505649",
+    "itemLabel": "Yakovlev Yak-42",
+    "year": "1975",
+    "manufacturerLabel": "Smolensk Aviation Plant",
     "sitelinks": "40"
   },
   {
@@ -1141,18 +1127,25 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q744253",
-    "itemLabel": "CAC/PAC JF-17 Thunder",
-    "year": "2003",
-    "manufacturerLabel": "Chengdu Aircraft Industry Group",
+    "item": "http://www.wikidata.org/entity/Q3495319",
+    "itemLabel": "E-Jet",
+    "year": "2002",
+    "manufacturerLabel": "Embraer",
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q660969",
-    "itemLabel": "Bell 206",
-    "year": "1962",
-    "manufacturerLabel": "Bell Textron",
-    "sitelinks": "39"
+    "item": "http://www.wikidata.org/entity/Q275031",
+    "itemLabel": "Ilyushin Il-14",
+    "year": "1950",
+    "manufacturerLabel": "Avia",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6488",
+    "itemLabel": "Airbus A320neo family",
+    "year": "2014",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q334759",
@@ -1162,10 +1155,38 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q660969",
+    "itemLabel": "Bell 206",
+    "year": "1962",
+    "manufacturerLabel": "AgustaWestland",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q725319",
+    "itemLabel": "Fokker F28 Fellowship",
+    "year": "1967",
+    "manufacturerLabel": "Fokker",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q505673",
     "itemLabel": "Yakovlev Yak-1",
     "year": "1940",
-    "manufacturerLabel": "Saratov Aviation Plant",
+    "manufacturerLabel": "NPO Lavochkin",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q850244",
+    "itemLabel": "Vickers Wellington",
+    "year": "1936",
+    "manufacturerLabel": "Vickers-Armstrongs",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q467649",
+    "itemLabel": "B-47 Stratojet",
+    "year": "1947",
+    "manufacturerLabel": "Boeing",
     "sitelinks": "39"
   },
   {
@@ -1183,24 +1204,17 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q467649",
-    "itemLabel": "B-47 Stratojet",
-    "year": "1947",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q725319",
-    "itemLabel": "Fokker F28 Fellowship",
-    "year": "1967",
-    "manufacturerLabel": "Fokker",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q403668",
     "itemLabel": "Aichi D3A",
     "year": "1938",
     "manufacturerLabel": "Aichi",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q607609",
+    "itemLabel": "Antonov An-30",
+    "year": "1974",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "38"
   },
   {
@@ -1211,24 +1225,10 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q674079",
-    "itemLabel": "Fairey Swordfish",
+    "item": "http://www.wikidata.org/entity/Q850179",
+    "itemLabel": "Gloster Gladiator",
     "year": "1934",
-    "manufacturerLabel": "Blackburn Aircraft",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q248348",
-    "itemLabel": "Yakovlev Yak-3",
-    "year": "1943",
-    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6503",
-    "itemLabel": "Sud Aviation Caravelle",
-    "year": "1955",
-    "manufacturerLabel": "Sud-Aviation",
+    "manufacturerLabel": "Gloster Aircraft Company",
     "sitelinks": "38"
   },
   {
@@ -1239,18 +1239,39 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q850244",
-    "itemLabel": "Vickers Wellington",
-    "year": "1936",
-    "manufacturerLabel": "Vickers-Armstrongs",
+    "item": "http://www.wikidata.org/entity/Q248348",
+    "itemLabel": "Yakovlev Yak-3",
+    "year": "1943",
+    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q850179",
-    "itemLabel": "Gloster Gladiator",
+    "item": "http://www.wikidata.org/entity/Q674079",
+    "itemLabel": "Fairey Swordfish",
     "year": "1934",
-    "manufacturerLabel": "Gloster Aircraft Company",
+    "manufacturerLabel": "Blackburn Aircraft",
     "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6503",
+    "itemLabel": "Sud Aviation Caravelle",
+    "year": "1955",
+    "manufacturerLabel": "Sud-Aviation",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q635687",
+    "itemLabel": "McDonnell Douglas AV-8B Harrier II",
+    "year": "1978",
+    "manufacturerLabel": "McDonnell Douglas",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q332809",
+    "itemLabel": "Grumman A-6 Intruder",
+    "year": "1960",
+    "manufacturerLabel": "Grumman",
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157925",
@@ -1267,10 +1288,10 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q332809",
-    "itemLabel": "Grumman A-6 Intruder",
-    "year": "1960",
-    "manufacturerLabel": "Grumman",
+    "item": "http://www.wikidata.org/entity/Q181251",
+    "itemLabel": "Aérospatiale Alouette III",
+    "year": "1959",
+    "manufacturerLabel": "Saab Group",
     "sitelinks": "37"
   },
   {
@@ -1281,10 +1302,10 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q505929",
-    "itemLabel": "Kamov Ka-27",
-    "year": "1973",
-    "manufacturerLabel": "Kamov",
+    "item": "http://www.wikidata.org/entity/Q696128",
+    "itemLabel": "Nakajima B5N",
+    "year": "1937",
+    "manufacturerLabel": "Nakajima",
     "sitelinks": "37"
   },
   {
@@ -1295,17 +1316,17 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q263786",
-    "itemLabel": "Saab 37 Viggen",
-    "year": "1967",
-    "manufacturerLabel": "Saab Group",
+    "item": "http://www.wikidata.org/entity/Q505929",
+    "itemLabel": "Kamov Ka-27",
+    "year": "1973",
+    "manufacturerLabel": "Kamov",
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q696128",
-    "itemLabel": "Nakajima B5N",
-    "year": "1937",
-    "manufacturerLabel": "Nakajima",
+    "item": "http://www.wikidata.org/entity/Q829092",
+    "itemLabel": "Boeing KC-135 Stratotanker",
+    "year": "1956",
+    "manufacturerLabel": "Boeing",
     "sitelinks": "37"
   },
   {
@@ -1316,11 +1337,32 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q829092",
-    "itemLabel": "Boeing KC-135 Stratotanker",
-    "year": "1956",
-    "manufacturerLabel": "Boeing",
+    "item": "http://www.wikidata.org/entity/Q831667",
+    "itemLabel": "Sikorsky SH-60 Seahawk",
+    "year": "1979",
+    "manufacturerLabel": "Sikorsky Aircraft Corporation",
     "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q263786",
+    "itemLabel": "Saab 37 Viggen",
+    "year": "1967",
+    "manufacturerLabel": "Saab Group",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q277491",
+    "itemLabel": "Saab 340",
+    "year": "1983",
+    "manufacturerLabel": "Saab Group",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q629539",
+    "itemLabel": "NH90",
+    "year": "1995",
+    "manufacturerLabel": "Airbus Helicopters",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q622673",
@@ -1344,17 +1386,17 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q635687",
-    "itemLabel": "McDonnell Douglas AV-8B Harrier II",
-    "year": "1978",
-    "manufacturerLabel": "McDonnell Douglas",
+    "item": "http://www.wikidata.org/entity/Q687743",
+    "itemLabel": "BAE Systems Hawk",
+    "year": "1974",
+    "manufacturerLabel": "Hindustan Aeronautics Limited",
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q181251",
-    "itemLabel": "Aérospatiale Alouette III",
-    "year": "1959",
-    "manufacturerLabel": "Saab Group",
+    "item": "http://www.wikidata.org/entity/Q729056",
+    "itemLabel": "North American XB-70 Valkyrie",
+    "year": "1964",
+    "manufacturerLabel": "North American Aviation",
     "sitelinks": "36"
   },
   {
@@ -1372,38 +1414,17 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q277491",
-    "itemLabel": "Saab 340",
-    "year": "1983",
-    "manufacturerLabel": "Saab Group",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q266066",
-    "itemLabel": "Douglas Skyraider",
-    "year": "1945",
-    "manufacturerLabel": "Douglas",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q729056",
-    "itemLabel": "North American XB-70 Valkyrie",
-    "year": "1964",
-    "manufacturerLabel": "North American Aviation",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q687743",
-    "itemLabel": "BAE Systems Hawk",
-    "year": "1974",
-    "manufacturerLabel": "Hindustan Aeronautics Limited",
+    "item": "http://www.wikidata.org/entity/Q751759",
+    "itemLabel": "Lockheed F-80 Shooting Star",
+    "year": "1944",
+    "manufacturerLabel": "California",
     "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q744635",
     "itemLabel": "Mi-6",
     "year": "1957",
-    "manufacturerLabel": "Mil Moscow Helicopter Plant",
+    "manufacturerLabel": "Khrunichev State Research and Production Space Center",
     "sitelinks": "36"
   },
   {
@@ -1414,13 +1435,6 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q831667",
-    "itemLabel": "Sikorsky SH-60 Seahawk",
-    "year": "1979",
-    "manufacturerLabel": "Sikorsky Aircraft Corporation",
-    "sitelinks": "36"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q875139",
     "itemLabel": "Short Stirling",
     "year": "1939",
@@ -1428,24 +1442,66 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q629539",
-    "itemLabel": "NH90",
-    "year": "1995",
-    "manufacturerLabel": "Airbus Helicopters",
-    "sitelinks": "35"
+    "item": "http://www.wikidata.org/entity/Q266066",
+    "itemLabel": "Douglas Skyraider",
+    "year": "1945",
+    "manufacturerLabel": "Douglas",
+    "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q616398",
-    "itemLabel": "Tupolev Tu-4",
-    "year": "1947",
-    "manufacturerLabel": "Aviakor",
-    "sitelinks": "35"
+    "item": "http://www.wikidata.org/entity/Q662123",
+    "itemLabel": "Typhoon",
+    "year": "1940",
+    "manufacturerLabel": "Hawker Siddeley",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q943360",
+    "itemLabel": "Polikarpov Po-2 Kukuruznik",
+    "year": "1927",
+    "manufacturerLabel": "Polikarpov",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q398999",
     "itemLabel": "A129 Mangusta",
     "year": "1983",
     "manufacturerLabel": "Agusta",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q616398",
+    "itemLabel": "Tupolev Tu-4",
+    "year": "1947",
+    "manufacturerLabel": "Tupolev",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q607651",
+    "itemLabel": "Sopwith Camel",
+    "year": "1916",
+    "manufacturerLabel": "Sopwith Aviation Company",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q599891",
+    "itemLabel": "Convair B-58 Hustler",
+    "year": "1956",
+    "manufacturerLabel": "Convair",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q723397",
+    "itemLabel": "Fokker 70",
+    "year": "1993",
+    "manufacturerLabel": "Fokker",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q398965",
+    "itemLabel": "AgustaWestland AW109",
+    "year": "1971",
+    "manufacturerLabel": "Leonardo",
     "sitelinks": "35"
   },
   {
@@ -1459,7 +1515,7 @@
     "item": "http://www.wikidata.org/entity/Q320900",
     "itemLabel": "Mil Mi-1",
     "year": "1948",
-    "manufacturerLabel": "Mil Moscow Helicopter Plant",
+    "manufacturerLabel": "PZL-Świdnik",
     "sitelinks": "35"
   },
   {
@@ -1470,73 +1526,10 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q607651",
-    "itemLabel": "Sopwith Camel",
-    "year": "1916",
-    "manufacturerLabel": "Sopwith Aviation Company",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q398965",
-    "itemLabel": "AgustaWestland AW109",
-    "year": "1971",
-    "manufacturerLabel": "Leonardo",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q505643",
-    "itemLabel": "Yakovlev Yak-38",
-    "year": "1971",
-    "manufacturerLabel": "Yakovlev",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q531053",
-    "itemLabel": "North American F-100 Super Sabre",
-    "year": "1953",
-    "manufacturerLabel": "North American Aviation",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1784324",
-    "itemLabel": "Airbus A318",
-    "year": "2002",
-    "manufacturerLabel": "Airbus SAS",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q662123",
-    "itemLabel": "Typhoon",
-    "year": "1940",
-    "manufacturerLabel": "Hawker Siddeley",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q223372",
-    "itemLabel": "Grumman E-2 Hawkeye",
-    "year": "1960",
-    "manufacturerLabel": "Northrop Grumman Corporation",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q723397",
-    "itemLabel": "Fokker 70",
-    "year": "1993",
-    "manufacturerLabel": "Fokker",
-    "sitelinks": "35"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q696089",
     "itemLabel": "Polikarpov I-15 Chaika",
     "year": "1933",
-    "manufacturerLabel": "Moscow Aviation Plant № 39",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q723612",
-    "itemLabel": "Hawker Tempest",
-    "year": "1942",
-    "manufacturerLabel": "Hawker Aircraft",
+    "manufacturerLabel": "Dux Factory",
     "sitelinks": "35"
   },
   {
@@ -1547,24 +1540,10 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q589498",
-    "itemLabel": "British Aerospace BAe 146 / Avro RJ",
-    "year": "1981",
-    "manufacturerLabel": "BAE Systems",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q44848",
-    "itemLabel": "IAI Kfir",
-    "year": "1969",
-    "manufacturerLabel": "Israel Aerospace Industries Ltd",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q751759",
-    "itemLabel": "Lockheed F-80 Shooting Star",
-    "year": "1944",
-    "manufacturerLabel": "Lockheed Corporation",
+    "item": "http://www.wikidata.org/entity/Q505643",
+    "itemLabel": "Yakovlev Yak-38",
+    "year": "1971",
+    "manufacturerLabel": "Yakovlev",
     "sitelinks": "35"
   },
   {
@@ -1575,10 +1554,31 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q929769",
-    "itemLabel": "Irkut MC-21",
-    "year": "2017",
-    "manufacturerLabel": "Irkutsk Aviation Plant",
+    "item": "http://www.wikidata.org/entity/Q531053",
+    "itemLabel": "North American F-100 Super Sabre",
+    "year": "1953",
+    "manufacturerLabel": "North American Aviation",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q589498",
+    "itemLabel": "British Aerospace BAe 146 / Avro RJ",
+    "year": "1981",
+    "manufacturerLabel": "Avro International Aerospace",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q723612",
+    "itemLabel": "Hawker Tempest",
+    "year": "1942",
+    "manufacturerLabel": "Hawker Aircraft",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1784324",
+    "itemLabel": "Airbus A318",
+    "year": "2002",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "35"
   },
   {
@@ -1589,10 +1589,24 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q943360",
-    "itemLabel": "Polikarpov Po-2 Kukuruznik",
-    "year": "1927",
-    "manufacturerLabel": "Polikarpov",
+    "item": "http://www.wikidata.org/entity/Q223372",
+    "itemLabel": "Grumman E-2 Hawkeye",
+    "year": "1960",
+    "manufacturerLabel": "Northrop Grumman Corporation",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q929769",
+    "itemLabel": "Irkut MC-21",
+    "year": "2017",
+    "manufacturerLabel": "Irkutsk Aviation Plant",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44848",
+    "itemLabel": "IAI Kfir",
+    "year": "1969",
+    "manufacturerLabel": "Israel Aerospace Industries Ltd",
     "sitelinks": "35"
   },
   {
@@ -1603,13 +1617,6 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q599891",
-    "itemLabel": "Convair B-58 Hustler",
-    "year": "1956",
-    "manufacturerLabel": "Convair",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q608997",
     "itemLabel": "Mil Mi-2",
     "year": "1961",
@@ -1617,24 +1624,17 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3317803",
-    "itemLabel": "Airbus A319",
-    "year": "1995",
-    "manufacturerLabel": "Airbus SAS",
+    "item": "http://www.wikidata.org/entity/Q142591",
+    "itemLabel": "Douglas DC-2",
+    "year": "1934",
+    "manufacturerLabel": "Fokker",
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1428728",
-    "itemLabel": "Sukhoi Su-2",
-    "year": "1937",
-    "manufacturerLabel": "Sukhoi",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q572590",
-    "itemLabel": "Antonov An-72",
-    "year": "1977",
-    "manufacturerLabel": "Antonov",
+    "item": "http://www.wikidata.org/entity/Q725313",
+    "itemLabel": "Harrier 1st Generation",
+    "year": "1967",
+    "manufacturerLabel": "Hawker Siddeley",
     "sitelinks": "34"
   },
   {
@@ -1652,24 +1652,10 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6499",
-    "itemLabel": "C-295",
-    "year": "1997",
-    "manufacturerLabel": "Airbus Defence and Space",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19381",
-    "itemLabel": "English Electric Lightning",
-    "year": "1957",
-    "manufacturerLabel": "English Electric",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q725313",
-    "itemLabel": "Harrier 1st Generation",
-    "year": "1967",
-    "manufacturerLabel": "Hawker Siddeley",
+    "item": "http://www.wikidata.org/entity/Q572590",
+    "itemLabel": "Antonov An-72",
+    "year": "1977",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "34"
   },
   {
@@ -1680,10 +1666,10 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40021",
-    "itemLabel": "T-6 Texan",
-    "year": "1935",
-    "manufacturerLabel": "North American Aviation",
+    "item": "http://www.wikidata.org/entity/Q1428728",
+    "itemLabel": "Sukhoi Su-2",
+    "year": "1937",
+    "manufacturerLabel": "Sukhoi",
     "sitelinks": "34"
   },
   {
@@ -1691,6 +1677,20 @@
     "itemLabel": "Convair F-106 Delta Dart",
     "year": "1956",
     "manufacturerLabel": "General Dynamics",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q831463",
+    "itemLabel": "Bristol Beaufighter",
+    "year": "1939",
+    "manufacturerLabel": "Bristol Aeroplane Company",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3317803",
+    "itemLabel": "Airbus A319",
+    "year": "1995",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "34"
   },
   {
@@ -1708,17 +1708,38 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q616437",
-    "itemLabel": "Tupolev Tu-2",
-    "year": "1941",
-    "manufacturerLabel": "Tupolev",
-    "sitelinks": "33"
+    "item": "http://www.wikidata.org/entity/Q19381",
+    "itemLabel": "English Electric Lightning",
+    "year": "1957",
+    "manufacturerLabel": "British Aircraft Corporation",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6499",
+    "itemLabel": "C-295",
+    "year": "1997",
+    "manufacturerLabel": "Airbus Defence and Space",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40021",
+    "itemLabel": "T-6 Texan",
+    "year": "1935",
+    "manufacturerLabel": "North American Aviation",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313740",
     "itemLabel": "Alpha Jet",
     "year": "1973",
     "manufacturerLabel": "Dornier",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q316321",
+    "itemLabel": "Heinkel He 177 Greif",
+    "year": "1939",
+    "manufacturerLabel": "Heinkel",
     "sitelinks": "33"
   },
   {
@@ -1729,10 +1750,10 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q142591",
-    "itemLabel": "Douglas DC-2",
-    "year": "1934",
-    "manufacturerLabel": "Fokker",
+    "item": "http://www.wikidata.org/entity/Q616437",
+    "itemLabel": "Tupolev Tu-2",
+    "year": "1941",
+    "manufacturerLabel": "Tupolev",
     "sitelinks": "33"
   },
   {
@@ -1740,6 +1761,20 @@
     "itemLabel": "Convair F-102 Delta Dagger",
     "year": "1953",
     "manufacturerLabel": "Convair",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q694456",
+    "itemLabel": "Saab 29 Tunnan",
+    "year": "1948",
+    "manufacturerLabel": "Saab Group",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q697583",
+    "itemLabel": "Mitsubishi G4M",
+    "year": "1940",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
     "sitelinks": "33"
   },
   {
@@ -1757,41 +1792,6 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6492",
-    "itemLabel": "Airbus A330 MRTT",
-    "year": "2007",
-    "manufacturerLabel": "Airbus Defence and Space",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q694456",
-    "itemLabel": "Saab 29 Tunnan",
-    "year": "1948",
-    "manufacturerLabel": "Saab Group",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39668",
-    "itemLabel": "Eurocopter AS350 Écureuil",
-    "year": "1974",
-    "manufacturerLabel": "Aérospatiale",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q697583",
-    "itemLabel": "Mitsubishi G4M",
-    "year": "1940",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39675",
-    "itemLabel": "R44",
-    "year": "1990",
-    "manufacturerLabel": "Robinson Helicopter Company",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q700703",
     "itemLabel": "Nakajima Ki-43 Hayabusa",
     "year": "1939",
@@ -1806,18 +1806,46 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q831463",
-    "itemLabel": "Bristol Beaufighter",
-    "year": "1939",
-    "manufacturerLabel": "Bristol Aeroplane Company",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1084919",
     "itemLabel": "Boeing 737 Next Generation",
     "year": "1997",
     "manufacturerLabel": "Boeing Commercial Airplanes",
     "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q958075",
+    "itemLabel": "Ilyushin Il-10",
+    "year": "1944",
+    "manufacturerLabel": "Ilyushin",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6492",
+    "itemLabel": "Airbus A330 MRTT",
+    "year": "2007",
+    "manufacturerLabel": "Airbus Defence and Space",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39668",
+    "itemLabel": "Eurocopter AS350 Écureuil",
+    "year": "1974",
+    "manufacturerLabel": "Marignane",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39679",
+    "itemLabel": "Airbus Helicopters H145",
+    "year": "1999",
+    "manufacturerLabel": "Airbus Helicopters",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312540",
+    "itemLabel": "Bell 47",
+    "year": "1945",
+    "manufacturerLabel": "AgustaWestland",
+    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q616409",
@@ -1827,17 +1855,17 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q316321",
-    "itemLabel": "Heinkel He 177 Greif",
-    "year": "1939",
-    "manufacturerLabel": "Heinkel",
+    "item": "http://www.wikidata.org/entity/Q607229",
+    "itemLabel": "Antonov An-10 Ukraina",
+    "year": "1957",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q617016",
     "itemLabel": "Handley Page Hampden",
     "year": "1936",
-    "manufacturerLabel": "Handley Page",
+    "manufacturerLabel": "English Electric",
     "sitelinks": "32"
   },
   {
@@ -1848,9 +1876,9 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q312540",
-    "itemLabel": "Bell 47",
-    "year": "1945",
+    "item": "http://www.wikidata.org/entity/Q162116",
+    "itemLabel": "Lynx",
+    "year": "1971",
     "manufacturerLabel": "AgustaWestland",
     "sitelinks": "32"
   },
@@ -1862,80 +1890,10 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q162116",
-    "itemLabel": "Lynx",
-    "year": "1971",
-    "manufacturerLabel": "AgustaWestland",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3278675",
-    "itemLabel": "Airbus A321",
-    "year": "1993",
-    "manufacturerLabel": "Airbus SAS",
-    "sitelinks": "32"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q562167",
     "itemLabel": "Douglas A-26 Invader",
     "year": "1942",
     "manufacturerLabel": "Douglas",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q683041",
-    "itemLabel": "de Havilland Canada DHC-6 Twin Otter",
-    "year": "1965",
-    "manufacturerLabel": "De Havilland Canada",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17452796",
-    "itemLabel": "Boeing 777X",
-    "year": "2020",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q293513",
-    "itemLabel": "F-CK-1 Ching-kuo",
-    "year": "1989",
-    "manufacturerLabel": "Aerospace Industrial Development Corporation",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q248224",
-    "itemLabel": "LTV A-7 Corsair II",
-    "year": "1965",
-    "manufacturerLabel": "Ling-Temco-Vought",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q429839",
-    "itemLabel": "A5M",
-    "year": "1935",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39636",
-    "itemLabel": "Chengdu J-7",
-    "year": "1966",
-    "manufacturerLabel": "Chengdu Aircraft Industry Group",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39679",
-    "itemLabel": "Airbus Helicopters H145",
-    "year": "1999",
-    "manufacturerLabel": "Kawasaki Heavy Industries",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q753644",
-    "itemLabel": "Lavochkin-Gorbunov-Gudkov LaGG-3",
-    "year": "1940",
-    "manufacturerLabel": "Taganrog",
     "sitelinks": "32"
   },
   {
@@ -1946,6 +1904,20 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q753644",
+    "itemLabel": "Lavochkin-Gorbunov-Gudkov LaGG-3",
+    "year": "1940",
+    "manufacturerLabel": "Sokol",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q794586",
+    "itemLabel": "Aérospatiale SA 330 Puma",
+    "year": "1965",
+    "manufacturerLabel": "Sud-Aviation",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q794491",
     "itemLabel": "Be-12 Chayka",
     "year": "1960",
@@ -1953,10 +1925,17 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q794586",
-    "itemLabel": "Aérospatiale SA 330 Puma",
-    "year": "1965",
-    "manufacturerLabel": "Aérospatiale",
+    "item": "http://www.wikidata.org/entity/Q906937",
+    "itemLabel": "Boeing 747-400",
+    "year": "1988",
+    "manufacturerLabel": "Boeing Commercial Airplanes",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3278675",
+    "itemLabel": "Airbus A321",
+    "year": "1993",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
     "sitelinks": "32"
   },
   {
@@ -1974,10 +1953,52 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q958075",
-    "itemLabel": "Ilyushin Il-10",
-    "year": "1944",
-    "manufacturerLabel": "Ilyushin",
+    "item": "http://www.wikidata.org/entity/Q429839",
+    "itemLabel": "A5M",
+    "year": "1935",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q293513",
+    "itemLabel": "F-CK-1 Ching-kuo",
+    "year": "1989",
+    "manufacturerLabel": "Aerospace Industrial Development Corporation",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q248224",
+    "itemLabel": "LTV A-7 Corsair II",
+    "year": "1965",
+    "manufacturerLabel": "Vought",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q683041",
+    "itemLabel": "de Havilland Canada DHC-6 Twin Otter",
+    "year": "1965",
+    "manufacturerLabel": "De Havilland Canada",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17452796",
+    "itemLabel": "Boeing 777X",
+    "year": "2020",
+    "manufacturerLabel": "Boeing Commercial Airplanes",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39636",
+    "itemLabel": "Chengdu J-7",
+    "year": "1966",
+    "manufacturerLabel": "Chengdu Aircraft Industry Group",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39675",
+    "itemLabel": "R44",
+    "year": "1990",
+    "manufacturerLabel": "Robinson Helicopter Company",
     "sitelinks": "32"
   },
   {
@@ -1985,6 +2006,13 @@
     "itemLabel": "Ka-60 family",
     "year": "1998",
     "manufacturerLabel": "Kamov",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q607566",
+    "itemLabel": "Antonov An-28",
+    "year": "1969",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "31"
   },
   {
@@ -2002,6 +2030,20 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q723296",
+    "itemLabel": "Messerschmitt Me 323 Gigant",
+    "year": "1942",
+    "manufacturerLabel": "Messerschmitt",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q729331",
+    "itemLabel": "Boeing 247",
+    "year": "1933",
+    "manufacturerLabel": "Boeing",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q160355",
     "itemLabel": "Heinkel He 51",
     "year": "1933",
@@ -2009,31 +2051,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q607566",
-    "itemLabel": "Antonov An-28",
-    "year": "1969",
-    "manufacturerLabel": "PZL Mielec",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q607229",
-    "itemLabel": "Antonov An-10 Ukraina",
-    "year": "1957",
-    "manufacturerLabel": "Antonov",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q148846",
-    "itemLabel": "Lavochkin La-7",
-    "year": "1944",
-    "manufacturerLabel": "Ulan-Ude Aviation Plant",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q167277",
-    "itemLabel": "Aero L-29 Delfin",
-    "year": "1959",
-    "manufacturerLabel": "AERO Vodochody Aerospace",
+    "item": "http://www.wikidata.org/entity/Q367719",
+    "itemLabel": "Antonov An-140",
+    "year": "1997",
+    "manufacturerLabel": "Aviakor",
     "sitelinks": "31"
   },
   {
@@ -2051,17 +2072,59 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1328822",
-    "itemLabel": "Lockheed Hudson",
-    "year": "1938",
-    "manufacturerLabel": "Lockheed Corporation",
+    "item": "http://www.wikidata.org/entity/Q148846",
+    "itemLabel": "Lavochkin La-7",
+    "year": "1944",
+    "manufacturerLabel": "Ulan-Ude Aviation Plant",
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q367719",
-    "itemLabel": "Antonov An-140",
-    "year": "1997",
-    "manufacturerLabel": "Aviakor",
+    "item": "http://www.wikidata.org/entity/Q167277",
+    "itemLabel": "Aero L-29 Delfin",
+    "year": "1959",
+    "manufacturerLabel": "AERO Vodochody Aerospace",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q698242",
+    "itemLabel": "Bell 212",
+    "year": "1965",
+    "manufacturerLabel": "Bell Textron",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q700719",
+    "itemLabel": "Nakajima Ki-84 Hayate",
+    "year": "1943",
+    "manufacturerLabel": "Nakajima",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q815688",
+    "itemLabel": "Bell 412",
+    "year": "1979",
+    "manufacturerLabel": "Canada",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q546051",
+    "itemLabel": "Yakovlev Yak-7",
+    "year": "1940",
+    "manufacturerLabel": "Yakovlev",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q700685",
+    "itemLabel": "Nakajima Ki-27",
+    "year": "1936",
+    "manufacturerLabel": "Nakajima",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q495218",
+    "itemLabel": "Korea Aerospace Industries KF-21 Boramae",
+    "year": "2022",
+    "manufacturerLabel": "Korea Aerospace Industries",
     "sitelinks": "31"
   },
   {
@@ -2072,10 +2135,59 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q546051",
-    "itemLabel": "Yakovlev Yak-7",
-    "year": "1940",
-    "manufacturerLabel": "Yakovlev",
+    "item": "http://www.wikidata.org/entity/Q756044",
+    "itemLabel": "Ilyushin Il-4",
+    "year": "1939",
+    "manufacturerLabel": "Voronezh Aircraft Production Association",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q846989",
+    "itemLabel": "Lavochkin La-5",
+    "year": "1942",
+    "manufacturerLabel": "NPO Lavochkin",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6498",
+    "itemLabel": "CASA/IPTN CN-235",
+    "year": "1983",
+    "manufacturerLabel": "Airbus",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6504",
+    "itemLabel": "BAC One-Eleven",
+    "year": "1963",
+    "manufacturerLabel": "British Aircraft Corporation",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109423211",
+    "itemLabel": "Embraer ERJ family",
+    "year": "1995",
+    "manufacturerLabel": "Embraer",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32038",
+    "itemLabel": "Beriev Be-200 Altair",
+    "year": "1998",
+    "manufacturerLabel": "Beriev",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39663",
+    "itemLabel": "Dauphin 2",
+    "year": "1975",
+    "manufacturerLabel": "Airbus Helicopters",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1328822",
+    "itemLabel": "Lockheed Hudson",
+    "year": "1938",
+    "manufacturerLabel": "Lockheed Corporation",
     "sitelinks": "31"
   },
   {
@@ -2093,101 +2205,17 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6498",
-    "itemLabel": "CASA/IPTN CN-235",
-    "year": "1983",
-    "manufacturerLabel": "Indonesian Aerospace",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6504",
-    "itemLabel": "BAC One-Eleven",
-    "year": "1963",
-    "manufacturerLabel": "British Aircraft Corporation",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q32038",
-    "itemLabel": "Beriev Be-200 Altair",
-    "year": "1998",
-    "manufacturerLabel": "Beriev",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q109423211",
-    "itemLabel": "Embraer ERJ family",
-    "year": "1995",
-    "manufacturerLabel": "Embraer",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q729331",
-    "itemLabel": "Boeing 247",
-    "year": "1933",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q698242",
-    "itemLabel": "Bell 212",
-    "year": "1965",
-    "manufacturerLabel": "Bell Textron",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q700685",
-    "itemLabel": "Nakajima Ki-27",
-    "year": "1936",
-    "manufacturerLabel": "Nakajima",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q700719",
-    "itemLabel": "Nakajima Ki-84 Hayate",
-    "year": "1943",
-    "manufacturerLabel": "Nakajima",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q723296",
-    "itemLabel": "Messerschmitt Me 323 Gigant",
-    "year": "1942",
-    "manufacturerLabel": "Messerschmitt",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q815688",
-    "itemLabel": "Bell 412",
-    "year": "1979",
-    "manufacturerLabel": "Canada",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q756044",
-    "itemLabel": "Ilyushin Il-4",
-    "year": "1939",
-    "manufacturerLabel": "Voronezh Aircraft Production Association",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q906937",
-    "itemLabel": "Boeing 747-400",
-    "year": "1988",
-    "manufacturerLabel": "Boeing Commercial Airplanes",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q846989",
-    "itemLabel": "Lavochkin La-5",
-    "year": "1942",
-    "manufacturerLabel": "NPO Lavochkin",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q182113",
     "itemLabel": "Lockheed C-141 Starlifter",
     "year": "1963",
     "manufacturerLabel": "Lockheed Corporation",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q643820",
+    "itemLabel": "Transall C-160",
+    "year": "1963",
+    "manufacturerLabel": "Vereinigte Flugtechnische Werke",
     "sitelinks": "30"
   },
   {
@@ -2198,10 +2226,24 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q643820",
-    "itemLabel": "Transall C-160",
-    "year": "1963",
-    "manufacturerLabel": "Vereinigte Flugtechnische Werke",
+    "item": "http://www.wikidata.org/entity/Q689463",
+    "itemLabel": "Armstrong Whitworth Whitley",
+    "year": "1936",
+    "manufacturerLabel": "Armstrong Whitworth Aircraft",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q381162",
+    "itemLabel": "MB-339",
+    "year": "1976",
+    "manufacturerLabel": "Aermacchi",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q694356",
+    "itemLabel": "Bell OH-58 Kiowa",
+    "year": "2013",
+    "manufacturerLabel": "Bell Textron",
     "sitelinks": "30"
   },
   {
@@ -2219,80 +2261,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q381162",
-    "itemLabel": "MB-339",
-    "year": "1976",
-    "manufacturerLabel": "Aermacchi",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q218977",
     "itemLabel": "Vickers Valiant",
     "year": "1951",
     "manufacturerLabel": "Vickers-Armstrongs",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1324759",
-    "itemLabel": "Mi-38",
-    "year": "2003",
-    "manufacturerLabel": "Mil Moscow Helicopter Plant",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1330167",
-    "itemLabel": "Fairey Battle",
-    "year": "1937",
-    "manufacturerLabel": "Fairey Aviation Company",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1145708",
-    "itemLabel": "Curtiss C-46 Commando",
-    "year": "1940",
-    "manufacturerLabel": "Curtiss-Wright",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q247036",
-    "itemLabel": "Yokosuka D4Y Suisei",
-    "year": "1940",
-    "manufacturerLabel": "Nagoya",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6273",
-    "itemLabel": "Fiat G.50 Freccia",
-    "year": "1937",
-    "manufacturerLabel": "Fiat Aviazione",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q689463",
-    "itemLabel": "Armstrong Whitworth Whitley",
-    "year": "1936",
-    "manufacturerLabel": "Armstrong Whitworth Aircraft",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39663",
-    "itemLabel": "Dauphin 2",
-    "year": "1975",
-    "manufacturerLabel": "Airbus Helicopters",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39600",
-    "itemLabel": "Xian H-6",
-    "year": "1955",
-    "manufacturerLabel": "Xi'an Aircraft Industrial Corporation",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q694356",
-    "itemLabel": "Bell OH-58 Kiowa",
-    "year": "2013",
-    "manufacturerLabel": "Bell Textron",
     "sitelinks": "30"
   },
   {
@@ -2310,6 +2282,13 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q730283",
+    "itemLabel": "Avro 504",
+    "year": "1913",
+    "manufacturerLabel": "Avro",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q852646",
     "itemLabel": "Lockheed L-188 Electra",
     "year": "1957",
@@ -2321,6 +2300,27 @@
     "itemLabel": "Saab 32 Lansen",
     "year": "1952",
     "manufacturerLabel": "Saab Group",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q847409",
+    "itemLabel": "Douglas DC-7",
+    "year": "1953",
+    "manufacturerLabel": "Douglas",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q427402",
+    "itemLabel": "Douglas DC-5",
+    "year": "1939",
+    "manufacturerLabel": "Douglas",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q247036",
+    "itemLabel": "Yokosuka D4Y Suisei",
+    "year": "1940",
+    "manufacturerLabel": "Aichi",
     "sitelinks": "30"
   },
   {
@@ -2345,11 +2345,39 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q616465",
-    "itemLabel": "Tupolev TB-3",
-    "year": "1930",
-    "manufacturerLabel": "Tupolev",
-    "sitelinks": "29"
+    "item": "http://www.wikidata.org/entity/Q6273",
+    "itemLabel": "Fiat G.50 Freccia",
+    "year": "1937",
+    "manufacturerLabel": "Fiat Aviazione",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39600",
+    "itemLabel": "Xian H-6",
+    "year": "1955",
+    "manufacturerLabel": "Xi'an Aircraft Industrial Corporation",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1324759",
+    "itemLabel": "Mi-38",
+    "year": "2003",
+    "manufacturerLabel": "Mil Moscow Helicopter Plant",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1145708",
+    "itemLabel": "Curtiss C-46 Commando",
+    "year": "1940",
+    "manufacturerLabel": "Curtiss-Wright",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1330167",
+    "itemLabel": "Fairey Battle",
+    "year": "1937",
+    "manufacturerLabel": "Fairey Aviation Company",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q403645",
@@ -2359,115 +2387,17 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q616465",
+    "itemLabel": "Tupolev TB-3",
+    "year": "1930",
+    "manufacturerLabel": "Tupolev",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q316212",
     "itemLabel": "Mil Mi-14",
     "year": "1969",
-    "manufacturerLabel": "Mil Moscow Helicopter Plant",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1131578",
-    "itemLabel": "J2M Raiden",
-    "year": "1942",
-    "manufacturerLabel": "Mitsubishi",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q498786",
-    "itemLabel": "E-8 Joint Surveillance Target Attack Radar System",
-    "year": "1988",
-    "manufacturerLabel": "Northrop Grumman Corporation",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q495218",
-    "itemLabel": "Korea Aerospace Industries KF-21 Boramae",
-    "year": "2022",
-    "manufacturerLabel": "Korea Aerospace Industries",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1175219",
-    "itemLabel": "Me 410 Hornisse",
-    "year": "1942",
-    "manufacturerLabel": "Messerschmitt",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q482538",
-    "itemLabel": "Sikorsky H-53 Sea Stallion",
-    "year": "1964",
-    "manufacturerLabel": "Sikorsky Aircraft Corporation",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12257149",
-    "itemLabel": "Eurocopter AS332 Super Puma",
-    "year": "1978",
-    "manufacturerLabel": "Airbus Helicopters",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q532428",
-    "itemLabel": "Grumman EA-6B Prowler",
-    "year": "1968",
-    "manufacturerLabel": "Grumman",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q520964",
-    "itemLabel": "English Electric Canberra",
-    "year": "1949",
-    "manufacturerLabel": "English Electric",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q685211",
-    "itemLabel": "PC-12",
-    "year": "1991",
-    "manufacturerLabel": "Pilatus Aircraft",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1137051",
-    "itemLabel": "Vickers Viscount",
-    "year": "1948",
-    "manufacturerLabel": "Vickers",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q295466",
-    "itemLabel": "AMX",
-    "year": "1984",
-    "manufacturerLabel": "Embraer",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q427402",
-    "itemLabel": "Douglas DC-5",
-    "year": "1939",
-    "manufacturerLabel": "Douglas",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q730283",
-    "itemLabel": "Avro 504",
-    "year": "1913",
-    "manufacturerLabel": "Avro",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26172",
-    "itemLabel": "Junkers F.13",
-    "year": "1919",
-    "manufacturerLabel": "Junkers Motorenbau und Junkers Flugzeugwerk",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q58725",
-    "itemLabel": "Lockheed T-33 Shooting Star",
-    "year": "1948",
-    "manufacturerLabel": "Mexico",
+    "manufacturerLabel": "Kazan Helicopters",
     "sitelinks": "29"
   },
   {
@@ -2478,10 +2408,52 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q498786",
+    "itemLabel": "E-8 Joint Surveillance Target Attack Radar System",
+    "year": "1988",
+    "manufacturerLabel": "Northrop Grumman Corporation",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q520964",
+    "itemLabel": "English Electric Canberra",
+    "year": "1949",
+    "manufacturerLabel": "English Electric",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q482538",
+    "itemLabel": "Sikorsky H-53 Sea Stallion",
+    "year": "1964",
+    "manufacturerLabel": "Sikorsky Aircraft Corporation",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q532428",
+    "itemLabel": "Grumman EA-6B Prowler",
+    "year": "1968",
+    "manufacturerLabel": "Grumman",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q756036",
     "itemLabel": "Yak-28",
     "year": "1958",
-    "manufacturerLabel": "Novosibirsk Aircraft Production Association",
+    "manufacturerLabel": "Yakovlev",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1366779",
+    "itemLabel": "Sea Fury",
+    "year": "1944",
+    "manufacturerLabel": "Hawker Siddeley",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q837405",
+    "itemLabel": "Lockheed F-94 Starfire",
+    "year": "1949",
+    "manufacturerLabel": "Lockheed Corporation",
     "sitelinks": "29"
   },
   {
@@ -2499,10 +2471,17 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q847409",
-    "itemLabel": "Douglas DC-7",
-    "year": "1953",
-    "manufacturerLabel": "Douglas",
+    "item": "http://www.wikidata.org/entity/Q842257",
+    "itemLabel": "Mi-10",
+    "year": "1960",
+    "manufacturerLabel": "Mil Moscow Helicopter Plant",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q868963",
+    "itemLabel": "Convair CV-880",
+    "year": "1959",
+    "manufacturerLabel": "Convair",
     "sitelinks": "29"
   },
   {
@@ -2513,10 +2492,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q842257",
-    "itemLabel": "Mi-10",
-    "year": "1960",
-    "manufacturerLabel": "Rostvertol",
+    "item": "http://www.wikidata.org/entity/Q831251",
+    "itemLabel": "Dewoitine D.520",
+    "year": "1938",
+    "manufacturerLabel": "SNCAM",
     "sitelinks": "29"
   },
   {
@@ -2527,17 +2506,24 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q831251",
-    "itemLabel": "Dewoitine D.520",
-    "year": "1938",
-    "manufacturerLabel": "SNCAM",
+    "item": "http://www.wikidata.org/entity/Q295466",
+    "itemLabel": "AMX",
+    "year": "1984",
+    "manufacturerLabel": "Embraer",
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q868963",
-    "itemLabel": "Convair CV-880",
-    "year": "1959",
-    "manufacturerLabel": "Convair",
+    "item": "http://www.wikidata.org/entity/Q12257149",
+    "itemLabel": "Eurocopter AS332 Super Puma",
+    "year": "1978",
+    "manufacturerLabel": "Indonesian Aerospace",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q685211",
+    "itemLabel": "PC-12",
+    "year": "1991",
+    "manufacturerLabel": "Pilatus Aircraft",
     "sitelinks": "29"
   },
   {
@@ -2555,18 +2541,53 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q58725",
+    "itemLabel": "Lockheed T-33 Shooting Star",
+    "year": "1948",
+    "manufacturerLabel": "Mexico",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26172",
+    "itemLabel": "Junkers F.13",
+    "year": "1919",
+    "manufacturerLabel": "Junkers Motorenbau und Junkers Flugzeugwerk",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1131578",
+    "itemLabel": "J2M Raiden",
+    "year": "1942",
+    "manufacturerLabel": "Mitsubishi",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1175219",
+    "itemLabel": "Me 410 Hornisse",
+    "year": "1942",
+    "manufacturerLabel": "Messerschmitt",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1137051",
+    "itemLabel": "Vickers Viscount",
+    "year": "1948",
+    "manufacturerLabel": "Vickers",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1187536",
+    "itemLabel": "C-130J Super Hercules",
+    "year": "1996",
+    "manufacturerLabel": "Lockheed Martin",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q167192",
     "itemLabel": "AS532 Cougar",
     "year": "1977",
     "manufacturerLabel": "",
     "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q132516",
-    "itemLabel": "RC-135",
-    "year": "1965",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q652964",
@@ -2576,17 +2597,10 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q597404",
-    "itemLabel": "Ka-25",
-    "year": "1961",
-    "manufacturerLabel": "Kamov",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q128631",
-    "itemLabel": "Junkers Ju 188",
-    "year": "1940",
-    "manufacturerLabel": "Junkers",
+    "item": "http://www.wikidata.org/entity/Q132516",
+    "itemLabel": "RC-135",
+    "year": "1965",
+    "manufacturerLabel": "Boeing",
     "sitelinks": "28"
   },
   {
@@ -2597,17 +2611,38 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q169438",
-    "itemLabel": "Fouga CM.170 Magister",
-    "year": "1952",
-    "manufacturerLabel": "Valtion lentokonetehdas",
+    "item": "http://www.wikidata.org/entity/Q696588",
+    "itemLabel": "CR.32",
+    "year": "1933",
+    "manufacturerLabel": "Turin",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1187536",
-    "itemLabel": "C-130J Super Hercules",
-    "year": "1996",
-    "manufacturerLabel": "Lockheed Martin",
+    "item": "http://www.wikidata.org/entity/Q398881",
+    "itemLabel": "AgustaWestland AW101",
+    "year": "1987",
+    "manufacturerLabel": "Leonardo",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q700695",
+    "itemLabel": "Kawasaki Ki-100",
+    "year": "1945",
+    "manufacturerLabel": "Kawasaki Motors",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q686708",
+    "itemLabel": "Cessna 182 Skylane",
+    "year": "1956",
+    "manufacturerLabel": "Cessna",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128631",
+    "itemLabel": "Junkers Ju 188",
+    "year": "1940",
+    "manufacturerLabel": "Junkers",
     "sitelinks": "28"
   },
   {
@@ -2632,17 +2667,24 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q398881",
-    "itemLabel": "AgustaWestland AW101",
-    "year": "1987",
-    "manufacturerLabel": "Leonardo",
+    "item": "http://www.wikidata.org/entity/Q700679",
+    "itemLabel": "Kawasaki Ki-45 Toryu",
+    "year": "1941",
+    "manufacturerLabel": "Kawasaki Aerospace Systems Company",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1366779",
-    "itemLabel": "Sea Fury",
-    "year": "1944",
-    "manufacturerLabel": "Hawker Siddeley",
+    "item": "http://www.wikidata.org/entity/Q169438",
+    "itemLabel": "Fouga CM.170 Magister",
+    "year": "1952",
+    "manufacturerLabel": "Valtion lentokonetehdas",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q597404",
+    "itemLabel": "Ka-25",
+    "year": "1961",
+    "manufacturerLabel": "Kamov",
     "sitelinks": "28"
   },
   {
@@ -2650,76 +2692,6 @@
     "itemLabel": "MD 450 Ouragan",
     "year": "1949",
     "manufacturerLabel": "Dassault Aviation",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1141716",
-    "itemLabel": "S-76",
-    "year": "1977",
-    "manufacturerLabel": "Sikorsky Aircraft Corporation",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1153846",
-    "itemLabel": "Mitsubishi SpaceJet",
-    "year": "2015",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1646112",
-    "itemLabel": "Shenyang J-6",
-    "year": "1958",
-    "manufacturerLabel": "Shenyang Aircraft Corporation",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6490",
-    "itemLabel": "Airbus A310 MRTT",
-    "year": "2003",
-    "manufacturerLabel": "Airbus SAS",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q249890",
-    "itemLabel": "Lockheed S-3 Viking",
-    "year": "1972",
-    "manufacturerLabel": "Lockheed Corporation",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5975",
-    "itemLabel": "Macchi C.202 Folgore",
-    "year": "1940",
-    "manufacturerLabel": "Alenia Aermacchi",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q686708",
-    "itemLabel": "Cessna 182 Skylane",
-    "year": "1956",
-    "manufacturerLabel": "Cessna",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q700695",
-    "itemLabel": "Kawasaki Ki-100",
-    "year": "1945",
-    "manufacturerLabel": "Kawasaki Motors",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39652",
-    "itemLabel": "R22",
-    "year": "1975",
-    "manufacturerLabel": "Robinson Helicopter Company",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q700679",
-    "itemLabel": "Kawasaki Ki-45 Toryu",
-    "year": "1941",
-    "manufacturerLabel": "Kawasaki Aerospace Systems Company",
     "sitelinks": "28"
   },
   {
@@ -2737,10 +2709,10 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q826709",
-    "itemLabel": "PZL P.11",
-    "year": "1931",
-    "manufacturerLabel": "PZL",
+    "item": "http://www.wikidata.org/entity/Q1646112",
+    "itemLabel": "Shenyang J-6",
+    "year": "1958",
+    "manufacturerLabel": "Shenyang Aircraft Corporation",
     "sitelinks": "28"
   },
   {
@@ -2751,10 +2723,10 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q837405",
-    "itemLabel": "Lockheed F-94 Starfire",
-    "year": "1949",
-    "manufacturerLabel": "Lockheed Corporation",
+    "item": "http://www.wikidata.org/entity/Q890178",
+    "itemLabel": "Boeing 307",
+    "year": "1938",
+    "manufacturerLabel": "Boeing",
     "sitelinks": "28"
   },
   {
@@ -2765,10 +2737,24 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q890178",
-    "itemLabel": "Boeing 307",
-    "year": "1938",
-    "manufacturerLabel": "Boeing",
+    "item": "http://www.wikidata.org/entity/Q826709",
+    "itemLabel": "PZL P.11",
+    "year": "1931",
+    "manufacturerLabel": "Industria Aeronautică Română",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q249890",
+    "itemLabel": "Lockheed S-3 Viking",
+    "year": "1972",
+    "manufacturerLabel": "California",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q677122",
+    "itemLabel": "Lockheed Constellation",
+    "year": "1943",
+    "manufacturerLabel": "Lockheed Corporation",
     "sitelinks": "28"
   },
   {
@@ -2779,17 +2765,66 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q371950",
-    "itemLabel": "Yak-17",
-    "year": "1947",
-    "manufacturerLabel": "Yakovlev",
-    "sitelinks": "27"
+    "item": "http://www.wikidata.org/entity/Q6490",
+    "itemLabel": "Airbus A310 MRTT",
+    "year": "2003",
+    "manufacturerLabel": "Airbus Commercial Aircraft",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q933767",
+    "itemLabel": "Curtiss P-36 Hawk",
+    "year": "1935",
+    "manufacturerLabel": "Hindustan Aeronautics Limited",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5975",
+    "itemLabel": "Macchi C.202 Folgore",
+    "year": "1940",
+    "manufacturerLabel": "Alenia Aermacchi",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39652",
+    "itemLabel": "R22",
+    "year": "1975",
+    "manufacturerLabel": "Robinson Helicopter Company",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1153846",
+    "itemLabel": "Mitsubishi SpaceJet",
+    "year": "2015",
+    "manufacturerLabel": "MSJ Asset Management Company",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1138882",
+    "itemLabel": "Douglas A-3 Skywarrior",
+    "year": "1952",
+    "manufacturerLabel": "Douglas",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1141716",
+    "itemLabel": "S-76",
+    "year": "1977",
+    "manufacturerLabel": "Sikorsky Aircraft Corporation",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q398900",
     "itemLabel": "AgustaWestland AW139",
     "year": "2001",
     "manufacturerLabel": "AgustaWestland",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q371950",
+    "itemLabel": "Yak-17",
+    "year": "1947",
+    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
     "sitelinks": "27"
   },
   {
@@ -2807,13 +2842,6 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q313858",
-    "itemLabel": "Ar 232",
-    "year": "1941",
-    "manufacturerLabel": "Arado Flugzeugwerke",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q646817",
     "itemLabel": "Nieuport 11",
     "year": "1916",
@@ -2821,87 +2849,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q164341",
-    "itemLabel": "Canadair CL-415",
-    "year": "1993",
-    "manufacturerLabel": "Canadair",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q210384",
-    "itemLabel": "British Aerospace Sea Harrier",
-    "year": "1978",
-    "manufacturerLabel": "British Aerospace",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q384469",
-    "itemLabel": "Convair CV-990 Coronado",
-    "year": "1961",
-    "manufacturerLabel": "Convair",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q577389",
-    "itemLabel": "Hawker Fury",
-    "year": "1931",
-    "manufacturerLabel": "Hispano-Suiza",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q507476",
-    "itemLabel": "Yakovlev Yak-18",
-    "year": "1946",
-    "manufacturerLabel": "Yakovlev",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2355950",
-    "itemLabel": "Boeing 737 Classic",
-    "year": "1984",
-    "manufacturerLabel": "Boeing Commercial Airplanes",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q564179",
-    "itemLabel": "Sikorsky R-4",
-    "year": "1942",
-    "manufacturerLabel": "Sikorsky Aircraft Corporation",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1138526",
-    "itemLabel": "Dassault Mirage 5",
-    "year": "1967",
-    "manufacturerLabel": "Dassault Aviation",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1138882",
-    "itemLabel": "Douglas A-3 Skywarrior",
-    "year": "1952",
-    "manufacturerLabel": "Douglas",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q677122",
-    "itemLabel": "Lockheed Constellation",
-    "year": "1943",
-    "manufacturerLabel": "Lockheed Corporation",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1349120",
-    "itemLabel": "Petlyakov Pe-8",
-    "year": "1936",
-    "manufacturerLabel": "Kazan Aircraft Production Association",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q291804",
-    "itemLabel": "de Havilland Canada DHC-2 Beaver",
-    "year": "1947",
-    "manufacturerLabel": "De Havilland Canada",
+    "item": "http://www.wikidata.org/entity/Q313858",
+    "itemLabel": "Ar 232",
+    "year": "1941",
+    "manufacturerLabel": "Arado Flugzeugwerke",
     "sitelinks": "27"
   },
   {
@@ -2919,10 +2870,45 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q696588",
-    "itemLabel": "CR.32",
-    "year": "1933",
-    "manufacturerLabel": "Fiat Aviazione",
+    "item": "http://www.wikidata.org/entity/Q384469",
+    "itemLabel": "Convair CV-990 Coronado",
+    "year": "1961",
+    "manufacturerLabel": "Convair",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164341",
+    "itemLabel": "Canadair CL-415",
+    "year": "1993",
+    "manufacturerLabel": "Canadair",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210384",
+    "itemLabel": "British Aerospace Sea Harrier",
+    "year": "1978",
+    "manufacturerLabel": "British Aerospace",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q507476",
+    "itemLabel": "Yakovlev Yak-18",
+    "year": "1946",
+    "manufacturerLabel": "Yakovlev",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q577389",
+    "itemLabel": "Hawker Fury",
+    "year": "1931",
+    "manufacturerLabel": "Ikarbus",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q564179",
+    "itemLabel": "Sikorsky R-4",
+    "year": "1942",
+    "manufacturerLabel": "Sikorsky Aircraft Corporation",
     "sitelinks": "27"
   },
   {
@@ -2930,6 +2916,20 @@
     "itemLabel": "Blériot XI",
     "year": "1909",
     "manufacturerLabel": "Louis Blériot",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q889373",
+    "itemLabel": "Boeing E-7 Wedgetail",
+    "year": "2004",
+    "manufacturerLabel": "Boeing",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2355950",
+    "itemLabel": "Boeing 737 Classic",
+    "year": "1984",
+    "manufacturerLabel": "Boeing Commercial Airplanes",
     "sitelinks": "27"
   },
   {
@@ -2947,17 +2947,17 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q291804",
+    "itemLabel": "de Havilland Canada DHC-2 Beaver",
+    "year": "1947",
+    "manufacturerLabel": "De Havilland Canada",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q937949",
     "itemLabel": "Dornier 328",
     "year": "1991",
     "manufacturerLabel": "Dornier",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q933767",
-    "itemLabel": "Curtiss P-36 Hawk",
-    "year": "1935",
-    "manufacturerLabel": "Hindustan Aeronautics Limited",
     "sitelinks": "27"
   },
   {
@@ -2968,17 +2968,31 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1349120",
+    "itemLabel": "Petlyakov Pe-8",
+    "year": "1936",
+    "manufacturerLabel": "Kazan Aircraft Production Association",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1138526",
+    "itemLabel": "Dassault Mirage 5",
+    "year": "1967",
+    "manufacturerLabel": "Dassault Aviation",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q311781",
+    "itemLabel": "Focke-Wulf Ta 152",
+    "year": "1944",
+    "manufacturerLabel": "Focke-Wulf",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q391923",
     "itemLabel": "Tupolev Tu-14",
     "year": "1949",
     "manufacturerLabel": "Tupolev",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q607305",
-    "itemLabel": "Antonov An-14 Pchelka",
-    "year": "1958",
-    "manufacturerLabel": "Antonov",
     "sitelinks": "26"
   },
   {
@@ -2989,17 +3003,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q311781",
-    "itemLabel": "Focke-Wulf Ta 152",
-    "year": "1944",
-    "manufacturerLabel": "Focke-Wulf",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q210338",
-    "itemLabel": "Aichi E13A",
-    "year": "1939",
-    "manufacturerLabel": "Aichi",
+    "item": "http://www.wikidata.org/entity/Q607305",
+    "itemLabel": "Antonov An-14 Pchelka",
+    "year": "1958",
+    "manufacturerLabel": "Antonov",
     "sitelinks": "26"
   },
   {
@@ -3010,10 +3017,17 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150245",
-    "itemLabel": "IAI Lavi",
-    "year": "1986",
-    "manufacturerLabel": "Israel Aerospace Industries Ltd",
+    "item": "http://www.wikidata.org/entity/Q210338",
+    "itemLabel": "Aichi E13A",
+    "year": "1939",
+    "manufacturerLabel": "Aichi",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q694765",
+    "itemLabel": "S-55",
+    "year": "1949",
+    "manufacturerLabel": "Sikorsky Aircraft Corporation",
     "sitelinks": "26"
   },
   {
@@ -3031,10 +3045,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1373850",
-    "itemLabel": "Westland Lysander",
-    "year": "1936",
-    "manufacturerLabel": "Westland Aircraft",
+    "item": "http://www.wikidata.org/entity/Q700727",
+    "itemLabel": "Nakajima Ki-44 Shōki",
+    "year": "1940",
+    "manufacturerLabel": "Nakajima",
     "sitelinks": "26"
   },
   {
@@ -3045,101 +3059,17 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q536742",
-    "itemLabel": "Skua",
-    "year": "1937",
-    "manufacturerLabel": "Blackburn Aircraft",
+    "item": "http://www.wikidata.org/entity/Q495337",
+    "itemLabel": "Cessna T-37 Tweet",
+    "year": "1954",
+    "manufacturerLabel": "Cessna",
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q476388",
-    "itemLabel": "Grumman F8F Bearcat",
-    "year": "1944",
-    "manufacturerLabel": "Grumman",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1252035",
-    "itemLabel": "Douglas B-18 Bolo",
-    "year": "1935",
-    "manufacturerLabel": "Douglas",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1252107",
-    "itemLabel": "Douglas C-54 Skymaster",
-    "year": "1942",
-    "manufacturerLabel": "Douglas",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1330180",
-    "itemLabel": "Gnat",
-    "year": "1955",
-    "manufacturerLabel": "Folland Aircraft",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8109781",
-    "itemLabel": "Canadair Regional Jet",
-    "year": "1991",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q665708",
-    "itemLabel": "Beechcraft King Air",
-    "year": "1963",
-    "manufacturerLabel": "Beechcraft",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q662271",
-    "itemLabel": "Breguet 1150 Atlantic",
-    "year": "1961",
-    "manufacturerLabel": "Breguet Aviation",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q666994",
-    "itemLabel": "PC-9",
-    "year": "1984",
-    "manufacturerLabel": "Pilatus Aircraft",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1982240",
-    "itemLabel": "Ilyushin Il-112",
-    "year": "2019",
-    "manufacturerLabel": "Voronezh Aircraft Production Association",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q672488",
-    "itemLabel": "Piper PA-18 Super Cub",
-    "year": "1949",
-    "manufacturerLabel": "Piper Aircraft",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6497",
-    "itemLabel": "CASA C-212 Aviocar",
-    "year": "1971",
-    "manufacturerLabel": "Indonesian Aerospace",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26225",
-    "itemLabel": "de Havilland Sea Vixen",
-    "year": "1951",
-    "manufacturerLabel": "de Havilland Aircraft Company",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q694765",
-    "itemLabel": "S-55",
-    "year": "1949",
-    "manufacturerLabel": "Sikorsky Aircraft Corporation",
+    "item": "http://www.wikidata.org/entity/Q150245",
+    "itemLabel": "IAI Lavi",
+    "year": "1986",
+    "manufacturerLabel": "Israel Aerospace Industries Ltd",
     "sitelinks": "26"
   },
   {
@@ -3150,10 +3080,52 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q700727",
-    "itemLabel": "Nakajima Ki-44 Shōki",
-    "year": "1940",
-    "manufacturerLabel": "Nakajima",
+    "item": "http://www.wikidata.org/entity/Q534270",
+    "itemLabel": "Bristol Beaufort",
+    "year": "1938",
+    "manufacturerLabel": "Bristol Aeroplane Company",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q476388",
+    "itemLabel": "Grumman F8F Bearcat",
+    "year": "1944",
+    "manufacturerLabel": "Grumman",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1373850",
+    "itemLabel": "Westland Lysander",
+    "year": "1936",
+    "manufacturerLabel": "Westland Aircraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q536742",
+    "itemLabel": "Skua",
+    "year": "1937",
+    "manufacturerLabel": "Blackburn Aircraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q814025",
+    "itemLabel": "T-6 Texan II",
+    "year": "2000",
+    "manufacturerLabel": "Hawker Beechcraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q835768",
+    "itemLabel": "Bo 105",
+    "year": "1967",
+    "manufacturerLabel": "Bölkow",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q905316",
+    "itemLabel": "Breguet 14",
+    "year": "1916",
+    "manufacturerLabel": "Breguet Aviation",
     "sitelinks": "26"
   },
   {
@@ -3171,24 +3143,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q835768",
-    "itemLabel": "Bo 105",
-    "year": "1967",
-    "manufacturerLabel": "Airbus Helicopters",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q842608",
-    "itemLabel": "Embraer EMB 312 Tucano",
-    "year": "1980",
-    "manufacturerLabel": "Embraer",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q905316",
-    "itemLabel": "Breguet 14",
-    "year": "1916",
-    "manufacturerLabel": "Breguet Aviation",
+    "item": "http://www.wikidata.org/entity/Q1982240",
+    "itemLabel": "Ilyushin Il-112",
+    "year": "2019",
+    "manufacturerLabel": "Voronezh Aircraft Production Association",
     "sitelinks": "26"
   },
   {
@@ -3199,17 +3157,59 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q889373",
-    "itemLabel": "Boeing E-7 Wedgetail",
-    "year": "2004",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q842481",
     "itemLabel": "Northrop F-89 Scorpion",
     "year": "1948",
     "manufacturerLabel": "Northrop",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q842608",
+    "itemLabel": "Embraer EMB 312 Tucano",
+    "year": "1980",
+    "manufacturerLabel": "Embraer",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3272950",
+    "itemLabel": "MH-6 Little Bird",
+    "year": "1963",
+    "manufacturerLabel": "MD Helicopters",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8109781",
+    "itemLabel": "Canadair Regional Jet",
+    "year": "1991",
+    "manufacturerLabel": "Canadair",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q666994",
+    "itemLabel": "PC-9",
+    "year": "1984",
+    "manufacturerLabel": "Pilatus Aircraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q665708",
+    "itemLabel": "Beechcraft King Air",
+    "year": "1963",
+    "manufacturerLabel": "Beechcraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q662271",
+    "itemLabel": "Breguet 1150 Atlantic",
+    "year": "1961",
+    "manufacturerLabel": "Breguet Aviation",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q672488",
+    "itemLabel": "Piper PA-18 Super Cub",
+    "year": "1949",
+    "manufacturerLabel": "Piper Aircraft",
     "sitelinks": "26"
   },
   {
@@ -3227,10 +3227,52 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q6497",
+    "itemLabel": "CASA C-212 Aviocar",
+    "year": "1971",
+    "manufacturerLabel": "Indonesian Aerospace",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1050858",
     "itemLabel": "Hughes OH-6 Cayuse",
     "year": "1963",
     "manufacturerLabel": "Hughes Helicopters",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26225",
+    "itemLabel": "de Havilland Sea Vixen",
+    "year": "1951",
+    "manufacturerLabel": "de Havilland Aircraft Company",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1245981",
+    "itemLabel": "Do J Wal",
+    "year": "1922",
+    "manufacturerLabel": "Dornier",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1330180",
+    "itemLabel": "Gnat",
+    "year": "1955",
+    "manufacturerLabel": "Folland Aircraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1252035",
+    "itemLabel": "Douglas B-18 Bolo",
+    "year": "1935",
+    "manufacturerLabel": "Douglas",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1252107",
+    "itemLabel": "Douglas C-54 Skymaster",
+    "year": "1942",
+    "manufacturerLabel": "Douglas",
     "sitelinks": "26"
   },
   {
@@ -3248,17 +3290,17 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q219152",
-    "itemLabel": "H225 Super Puma",
-    "year": "2000",
-    "manufacturerLabel": "Airbus Helicopters",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q368776",
     "itemLabel": "Mystère",
     "year": "1951",
     "manufacturerLabel": "Dassault Aviation",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q705063",
+    "itemLabel": "Heinkel He 70 Blitz",
+    "year": "1932",
+    "manufacturerLabel": "Heinkel",
     "sitelinks": "25"
   },
   {
@@ -3269,59 +3311,52 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q660944",
+    "itemLabel": "Boeing-Stearman Model 75",
+    "year": "1934",
+    "manufacturerLabel": "Stearman Aircraft",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q686252",
+    "itemLabel": "Junkers Ju 86",
+    "year": "1934",
+    "manufacturerLabel": "Junkers",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q219152",
+    "itemLabel": "H225 Super Puma",
+    "year": "2000",
+    "manufacturerLabel": "Airbus Helicopters",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q699843",
+    "itemLabel": "Challenger 600",
+    "year": "1978",
+    "manufacturerLabel": "Bombardier",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q698235",
+    "itemLabel": "Saab 105",
+    "year": "1963",
+    "manufacturerLabel": "Saab Group",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q700671",
+    "itemLabel": "Polikarpov I-153 Chaika",
+    "year": "1937",
+    "manufacturerLabel": "Dux Factory",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q128993",
     "itemLabel": "Hawker Siddeley Nimrod",
     "year": "1967",
     "manufacturerLabel": "Hawker Siddeley",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1163407",
-    "itemLabel": "Embraer EMB 120 Brasilia",
-    "year": "1983",
-    "manufacturerLabel": "Embraer",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q575356",
-    "itemLabel": "Avro Lincoln",
-    "year": "1944",
-    "manufacturerLabel": "Avro",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1422495",
-    "itemLabel": "Lockheed P-2 Neptune",
-    "year": "1945",
-    "manufacturerLabel": "Kawasaki Heavy Industries",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q495337",
-    "itemLabel": "Cessna T-37 Tweet",
-    "year": "1954",
-    "manufacturerLabel": "Cessna",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1245981",
-    "itemLabel": "Do J Wal",
-    "year": "1922",
-    "manufacturerLabel": "Dornier",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q553002",
-    "itemLabel": "North American F-82 Twin Mustang",
-    "year": "1945",
-    "manufacturerLabel": "North American Aviation",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1148532",
-    "itemLabel": "Grumman C-2 Greyhound",
-    "year": "1964",
-    "manufacturerLabel": "Grumman",
     "sitelinks": "25"
   },
   {
@@ -3332,10 +3367,108 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q534270",
-    "itemLabel": "Bristol Beaufort",
-    "year": "1938",
-    "manufacturerLabel": "Bristol Aeroplane Company",
+    "item": "http://www.wikidata.org/entity/Q553002",
+    "itemLabel": "North American F-82 Twin Mustang",
+    "year": "1945",
+    "manufacturerLabel": "North American Aviation",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q595582",
+    "itemLabel": "Heron-1",
+    "year": "1994",
+    "manufacturerLabel": "Israel Aerospace Industries Ltd",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1422495",
+    "itemLabel": "Lockheed P-2 Neptune",
+    "year": "1945",
+    "manufacturerLabel": "Lockheed Corporation",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q575356",
+    "itemLabel": "Avro Lincoln",
+    "year": "1944",
+    "manufacturerLabel": "Avro",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q578959",
+    "itemLabel": "Boeing B-50 Superfortress",
+    "year": "1947",
+    "manufacturerLabel": "Boeing",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q815682",
+    "itemLabel": "Bell 407",
+    "year": "1995",
+    "manufacturerLabel": "Bell Textron",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q731183",
+    "itemLabel": "Hongdu JL-8",
+    "year": "1990",
+    "manufacturerLabel": "Hongdu",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q740536",
+    "itemLabel": "Hongdu JL-10",
+    "year": "2006",
+    "manufacturerLabel": "Hongdu",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q890209",
+    "itemLabel": "Boeing P-26 Peashooter",
+    "year": "1932",
+    "manufacturerLabel": "Boeing",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q884894",
+    "itemLabel": "BV 222 Wiking",
+    "year": "1940",
+    "manufacturerLabel": "Blohm+Voss",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q921019",
+    "itemLabel": "Britten-Norman BN-2 Islander",
+    "year": "1965",
+    "manufacturerLabel": "Britten-Norman",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q862615",
+    "itemLabel": "McDonnell Douglas MD-90",
+    "year": "1993",
+    "manufacturerLabel": "McDonnell Douglas",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q849923",
+    "itemLabel": "Nieuport 17",
+    "year": "1916",
+    "manufacturerLabel": "Nieuport",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q284767",
+    "itemLabel": "de Havilland DH.112 Venom",
+    "year": "1949",
+    "manufacturerLabel": "de Havilland Aircraft Company",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q282934",
+    "itemLabel": "Boeing Vertol CH-46 Sea Knight",
+    "year": "1958",
+    "manufacturerLabel": "Boeing Rotorcraft Systems",
     "sitelinks": "25"
   },
   {
@@ -3353,150 +3486,17 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3272950",
-    "itemLabel": "MH-6 Little Bird",
-    "year": "1963",
-    "manufacturerLabel": "MD Helicopters",
+    "item": "http://www.wikidata.org/entity/Q976898",
+    "itemLabel": "Vega",
+    "year": "1927",
+    "manufacturerLabel": "Lockheed Corporation",
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q667988",
-    "itemLabel": "Learjet 35/36",
-    "year": "1973",
-    "manufacturerLabel": "Learjet",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6147",
-    "itemLabel": "Reggiane Re.2000 Falco I",
-    "year": "1939",
-    "manufacturerLabel": "Reggiane",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q284767",
-    "itemLabel": "de Havilland DH.112 Venom",
-    "year": "1949",
-    "manufacturerLabel": "de Havilland Aircraft Company",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q686252",
-    "itemLabel": "Junkers Ju 86",
-    "year": "1934",
-    "manufacturerLabel": "Junkers",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q698235",
-    "itemLabel": "Saab 105",
-    "year": "1963",
-    "manufacturerLabel": "Saab Group",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q699843",
-    "itemLabel": "Challenger 600",
-    "year": "1978",
-    "manufacturerLabel": "Bombardier",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q31548",
-    "itemLabel": "Ar 68",
-    "year": "1934",
-    "manufacturerLabel": "Arado Flugzeugwerke",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q32020",
-    "itemLabel": "JH-7",
-    "year": "1988",
-    "manufacturerLabel": "Xi'an Aircraft Industrial Corporation",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q700671",
-    "itemLabel": "Polikarpov I-153 Chaika",
-    "year": "1937",
-    "manufacturerLabel": "Dux Factory",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q595582",
-    "itemLabel": "Heron-1",
-    "year": "1994",
-    "manufacturerLabel": "Israel Aerospace Industries Ltd",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q731183",
-    "itemLabel": "Hongdu JL-8",
-    "year": "1990",
-    "manufacturerLabel": "Hongdu",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q578959",
-    "itemLabel": "Boeing B-50 Superfortress",
-    "year": "1947",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q705063",
-    "itemLabel": "Heinkel He 70 Blitz",
-    "year": "1932",
-    "manufacturerLabel": "Heinkel",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q815682",
-    "itemLabel": "Bell 407",
-    "year": "1995",
-    "manufacturerLabel": "Bell Textron",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q814025",
-    "itemLabel": "T-6 Texan II",
-    "year": "2000",
-    "manufacturerLabel": "Hawker Beechcraft",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q884894",
-    "itemLabel": "BV 222 Wiking",
-    "year": "1940",
-    "manufacturerLabel": "Blohm+Voss",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q890209",
-    "itemLabel": "Boeing P-26 Peashooter",
-    "year": "1932",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q862615",
-    "itemLabel": "McDonnell Douglas MD-90",
-    "year": "1993",
-    "manufacturerLabel": "McDonnell Douglas",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q921019",
-    "itemLabel": "Britten-Norman BN-2 Islander",
-    "year": "1965",
-    "manufacturerLabel": "Britten-Norman",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q849923",
-    "itemLabel": "Nieuport 17",
-    "year": "1916",
-    "manufacturerLabel": "Nieuport",
+    "item": "http://www.wikidata.org/entity/Q1074148",
+    "itemLabel": "Sukhoi Su-29",
+    "year": "1991",
+    "manufacturerLabel": "Sukhoi",
     "sitelinks": "25"
   }
 ]

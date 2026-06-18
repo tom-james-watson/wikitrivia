@@ -1,5 +1,15 @@
 [
   {
+    "qid": "Q170484",
+    "title": "Lego debuts",
+    "subtitle": "Toy from The Lego Group",
+    "year": 1949,
+    "fact": "Lego is a brand of plastic construction toys manufactured by the Lego Group, a privately held company based in Billund, Denmark.",
+    "wikipediaSlug": "Lego",
+    "image": "LEGO_logo.svg",
+    "pageViews": 82789
+  },
+  {
     "qid": "Q167447",
     "title": "Barbie debuts",
     "subtitle": "Toy from Mattel",
@@ -142,7 +152,7 @@
   {
     "qid": "Q3296044",
     "title": "Marvel Legends debuts",
-    "subtitle": "Toy line or franchise",
+    "subtitle": "Toy line or franchise from Hasbro",
     "year": 2002,
     "fact": "Marvel Legends is an action figure line based on the characters of Marvel Comics, initially produced by Toy Biz, then by Hasbro.",
     "wikipediaSlug": "Marvel_Legends",
@@ -198,5 +208,15 @@
     "wikipediaSlug": "Fulla_(doll)",
     "image": "Fullapicture.JPG",
     "pageViews": 1478
+  },
+  {
+    "qid": "Q307650",
+    "title": "Figma debuts",
+    "subtitle": "Toy line or franchise",
+    "year": 2008,
+    "fact": "Figma (フィグマ) is a Japanese brand of an action figure line produced by Max Factory and distributed by Good Smile Company.",
+    "wikipediaSlug": "Figma_(toy)",
+    "image": "Figma_Series_Logo.jpg",
+    "pageViews": 1093
   }
 ]

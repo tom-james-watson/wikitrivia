@@ -6,25 +6,16 @@
     "sitelinks": "304",
     "description": "president of the United States from 1981 to 1989 and actor (1911–2004)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||screenwriter||military officer||actor||statesperson||film actor||character actor||lifeguard||voice actor||anti-communist||trade unionist||diarist||television actor||game show host||announcer||art collector"
+    "occupationLabel": "politician||actor||military officer||screenwriter||film actor||lifeguard||character actor||art collector||television actor||statesperson||announcer||diarist||game show host||trade unionist||voice actor||anti-communist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q91",
     "itemLabel": "Abraham Lincoln",
     "year": "1865",
-    "sitelinks": "290",
-    "description": "president of the United States from 1861 to 1865 (1809–1865)",
+    "sitelinks": "292",
+    "description": "president of the United States from 1861 to 1865 (1809-1865)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||writer||military officer||farmer||lawyer||statesperson||postmaster"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q517",
-    "itemLabel": "Napoleon",
-    "year": "1821",
-    "sitelinks": "283",
-    "description": "French military leader, French Emperor 1804–1814 and again in 1815 (1769–1821)",
-    "nationalityLabel": "French",
-    "occupationLabel": "monarch||politician||military officer||emperor||statesperson||military leader||militant||sovereign||army officer||art collector"
+    "occupationLabel": "politician||farmer||author||lawyer||military officer||statesperson||postmaster"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8442",
@@ -33,16 +24,16 @@
     "sitelinks": "218",
     "description": "German statesman and Chancellor (1815-1898)",
     "nationalityLabel": "German||Prussian",
-    "occupationLabel": "politician||jurist||writer||military officer||diplomat||volunteer serving one year"
+    "occupationLabel": "politician||author||jurist||diplomat||military officer||chancellor||volunteer serving one year||lord of the manor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2042",
     "itemLabel": "Charles de Gaulle",
     "year": "1970",
-    "sitelinks": "215",
+    "sitelinks": "217",
     "description": "French general and statesman (1890–1970)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||military officer||memoirist||military theorist||statesperson"
+    "occupationLabel": "politician||military officer||author||statesperson||memoirist||military theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7327",
@@ -51,16 +42,16 @@
     "sitelinks": "202",
     "description": "Soviet pilot and cosmonaut, first human in space (1934–1968)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "astronaut||politician||military officer||explorer||aircraft pilot"
+    "occupationLabel": "politician||astronaut||military officer||explorer||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q892",
     "itemLabel": "J. R. R. Tolkien",
     "year": "1973",
-    "sitelinks": "201",
+    "sitelinks": "202",
     "description": "English writer and philologist (1892–1973)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||military officer||historian||translator||teacher||poet||essayist||linguist||prose writer||literary historian||author||illustrator||university teacher||philologist||literary critic||children's writer||librettist||novelist"
+    "occupationLabel": "author||historian||teacher||military officer||poet||translator||librettist||children's writer||novelist||philologist||linguist||prose writer||university teacher||literary historian||illustrator||essayist||literary critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11613",
@@ -69,7 +60,7 @@
     "sitelinks": "194",
     "description": "president of the United States from 1945 to 1953; politician (1884–1972)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||judge||military officer||businessperson||diarist"
+    "occupationLabel": "politician||judge||captain||military officer||businessperson||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9588",
@@ -77,8 +68,8 @@
     "year": "1994",
     "sitelinks": "189",
     "description": "president of the United States from 1969 to 1974 (1913–1994)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||military officer||lawyer||statesperson||autobiographer"
+    "nationalityLabel": "Americans||American",
+    "occupationLabel": "politician||jurist||lawyer||military officer||statesperson||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9916",
@@ -87,7 +78,7 @@
     "sitelinks": "188",
     "description": "president of the United States from 1953 to 1961 (1890–1969)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||writer||military officer||military personnel||statesperson||army officer"
+    "occupationLabel": "politician||author||military personnel||military officer||statesperson||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8440",
@@ -103,9 +94,9 @@
     "itemLabel": "Muammar Gaddafi",
     "year": "2011",
     "sitelinks": "185",
-    "description": "Leader of Libya (1969-2011)",
+    "description": "Military officer and former Brotherly Leader and Guide of the Revolution of Libya (1969-2011)",
     "nationalityLabel": "Libyan Arab Republic||Great Socialist People's Libyan Arab Jamahiriya||Kingdom of Libya",
-    "occupationLabel": "politician||writer||military officer"
+    "occupationLabel": "politician||author||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8605",
@@ -113,7 +104,7 @@
     "year": "1830",
     "sitelinks": "174",
     "description": "Venezuelan statesman and military officer (1783–1830)",
-    "nationalityLabel": "Spaniard||Gran Colombia||Ecuadoran||Ecuadorian||Venezuelan||Venezuelans||Bolivian||Spanish",
+    "nationalityLabel": "Gran Colombia||Bolivian||Venezuelan||Venezuelans||Ecuadorian||Ecuadoran||Spanish||Spaniard",
     "occupationLabel": "politician||military officer"
   },
   {
@@ -123,7 +114,16 @@
     "sitelinks": "144",
     "description": "President of the United States from 1865 to 1869",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||military officer||statesperson||tailor"
+    "occupationLabel": "politician||governor||mayor||military officer||tailor||President of the Republic||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11896",
+    "itemLabel": "Zachary Taylor",
+    "year": "1850",
+    "sitelinks": "143",
+    "description": "president of the United States from 1849 to 1850",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||military officer||statesperson||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q855252",
@@ -132,7 +132,7 @@
     "sitelinks": "142",
     "description": "former King of Thailand (1927–2016)",
     "nationalityLabel": "Thai",
-    "occupationLabel": "engineer||monarch||politician||composer||writer||military officer||photographer||teacher||sailor||statesperson||saxophonist||jazz musician||painter||environmentalist||social worker"
+    "occupationLabel": "engineer||monarch||author||photographer||teacher||military officer||composer||social worker||sailor||statesperson||painter||saxophonist||jazz musician||environmentalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11869",
@@ -141,7 +141,16 @@
     "sitelinks": "139",
     "description": "president of the United States in 1841",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||military officer||diplomat||statesperson"
+    "occupationLabel": "politician||governor||diplomat||military officer||President of the Republic||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12312",
+    "itemLabel": "Franklin Pierce",
+    "year": "1869",
+    "sitelinks": "138",
+    "description": "president of the United States from 1853 to 1857",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||jurist||lawyer||military officer||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35686",
@@ -150,7 +159,16 @@
     "sitelinks": "138",
     "description": "president of the United States from 1877 to 1881",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||lawyer||statesperson"
+    "occupationLabel": "politician||governor||major general||lawyer||military officer||President of the Republic||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34105",
+    "itemLabel": "Hosni Mubarak",
+    "year": "2020",
+    "sitelinks": "137",
+    "description": "President of Egypt from 1981 to 2011",
+    "nationalityLabel": "Republic of Egypt||United Arab Republic||Kingdom of Egypt||Egyptian",
+    "occupationLabel": "politician||military personnel||president||military officer||vice president||President of the Republic||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35678",
@@ -159,7 +177,7 @@
     "sitelinks": "135",
     "description": "President of the United States, 1889-1893 (1833–1901)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||writer||military officer||lawyer||statesperson"
+    "occupationLabel": "politician||author||jurist||lawyer||military officer||President of the Republic||statesperson||Brigadegeneral"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29179",
@@ -168,7 +186,7 @@
     "sitelinks": "133",
     "description": "Spanish general and dictator (1892-1975)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "governor||politician||screenwriter||military officer||film actor||spanish legionary||military leader"
+    "occupationLabel": "politician||governor||military officer||screenwriter||film actor||military leader||spanish legionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35498",
@@ -177,7 +195,7 @@
     "sitelinks": "131",
     "description": "president of the United States from 1881 to 1885",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||military officer||lawyer||statesperson||educator"
+    "occupationLabel": "politician||lawyer||military officer||educator||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39464",
@@ -185,7 +203,7 @@
     "year": "1998",
     "sitelinks": "130",
     "description": "former General Secretary of the Communist Party of Kampuchea (1925–1998)",
-    "nationalityLabel": "Democratic Kampuchea||Kingdom of Cambodia||State of Cambodia||Khmer Republic||People's Republic of Kampuchea||French Indochina||Cambodian",
+    "nationalityLabel": "Kingdom of Cambodia||State of Cambodia||Khmer Republic||People's Republic of Kampuchea||French Indochina||Democratic Kampuchea||Cambodian",
     "occupationLabel": "politician||military officer"
   },
   {
@@ -195,7 +213,16 @@
     "sitelinks": "127",
     "description": "Russian writer, poet and painter (1814–1841)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "writer||military officer||translator||playwright||poet||prose writer||painter||bretteur||novelist"
+    "occupationLabel": "author||military officer||poet||playwright||translator||librettist||novelist||prose writer||painter||bretteur"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39524",
+    "itemLabel": "Gamal Abdel Nasser",
+    "year": "1970",
+    "sitelinks": "127",
+    "description": "President of Egypt from 1956 to 1970",
+    "nationalityLabel": "Republic of Egypt||Sultanate of Egypt||United Arab Republic||Kingdom of Egypt",
+    "occupationLabel": "politician||president||military officer||military leader||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80976",
@@ -204,7 +231,7 @@
     "sitelinks": "127",
     "description": "consort of Elizabeth II from 1952 to 2021",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "military officer||polo player||aristocrat||naval officer||consort"
+    "occupationLabel": "military officer||naval officer||prince consort||polo player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42013",
@@ -212,15 +239,15 @@
     "year": "1981",
     "sitelinks": "125",
     "description": "President of Egypt from 1970 to 1981",
-    "nationalityLabel": "Sultanate of Egypt||Republic of Egypt||Kingdom of Egypt||United Arab Republic||Egyptian",
-    "occupationLabel": "politician||president||military officer||diplomat||vice president||statesperson||military leader"
+    "nationalityLabel": "Republic of Egypt||Sultanate of Egypt||United Arab Republic||Kingdom of Egypt||Egyptian",
+    "occupationLabel": "politician||president||diplomat||military officer||vice president||President of the Republic||opinion journalist||statesperson||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q280856",
     "itemLabel": "George VI",
     "year": "1952",
-    "sitelinks": "120",
-    "description": "King of the United Kingdom and the British Dominions from 1936 to 1952, Emperor of India from 1936 to 1948 (1895–1952)",
+    "sitelinks": "121",
+    "description": "King of the United Kingdom from 1936 to 1952",
     "nationalityLabel": "British||Briton",
     "occupationLabel": "monarch||military officer||tennis player||aristocrat"
   },
@@ -234,13 +261,31 @@
     "occupationLabel": "politician||military officer||statesperson"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q16390",
+    "itemLabel": "Humphrey Bogart",
+    "year": "1957",
+    "sitelinks": "115",
+    "description": "American actor (1899–1957)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||military personnel||military officer||screenwriter||sailor||film actor||character actor||naval officer||stage actor||film producer"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q34060",
     "itemLabel": "Yizhak Rabin",
     "year": "1995",
     "sitelinks": "114",
     "description": "Israeli politician, statesman and general (1922–1995)",
     "nationalityLabel": "Israeli||Israelis",
-    "occupationLabel": "politician||military officer||diplomat"
+    "occupationLabel": "politician||diplomat||military officer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q48231",
+    "itemLabel": "Idi Amin",
+    "year": "2003",
+    "sitelinks": "113",
+    "description": "President of Uganda (1971-1979)",
+    "nationalityLabel": "Uganda Protectorate||Ugandan||Saudi Arabia",
+    "occupationLabel": "politician||military personnel||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127417",
@@ -257,26 +302,17 @@
     "year": "1944",
     "sitelinks": "111",
     "description": "German field marshal (1891-1944)",
-    "nationalityLabel": "German||Weimar Republic||Nazi Germany",
-    "occupationLabel": "military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48231",
-    "itemLabel": "Idi Amin",
-    "year": "2003",
-    "sitelinks": "111",
-    "description": "President of Uganda (1971-1979)",
-    "nationalityLabel": "Uganda Protectorate||Ugandan||Saudi Arabia",
-    "occupationLabel": "politician||military officer||military personnel"
+    "nationalityLabel": "Weimar Republic||German||Nazi Germany",
+    "occupationLabel": "military officer||general field marshal"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180338",
     "itemLabel": "Christopher Lee",
     "year": "2015",
-    "sitelinks": "110",
+    "sitelinks": "111",
     "description": "English actor and singer (1922–2015)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||singer||military officer||orator||military personnel||actor||film actor||character actor||producer||SOE agent||voice actor||television actor||stage actor||film producer"
+    "occupationLabel": "actor||author||military personnel||singer||military officer||film actor||musician||character actor||television actor||orator||stage actor||producer||film producer||voice actor||SOE agent"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41871",
@@ -285,7 +321,25 @@
     "sitelinks": "109",
     "description": "American actor (1925–2008)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "entrepreneur||writer||screenwriter||military officer||military personnel||actor||film actor||activist||producer||film screenwriter||voice actor||film director||television actor||director||racing automobile driver||stage actor||film producer"
+    "occupationLabel": "entrepreneur||actor||author||military personnel||military officer||screenwriter||film actor||racing automobile driver||television actor||activist||stage actor||producer||film producer||director||voice actor||film screenwriter||film director"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82122",
+    "itemLabel": "Jean-Baptiste de Lamarck",
+    "year": "1829",
+    "sitelinks": "108",
+    "description": "French naturalist (1744-1829)",
+    "nationalityLabel": "French",
+    "occupationLabel": "naturalist||author||military officer||chemist||encyclopédistes||biologist||zoologist||paleontologist||university teacher||evolutionary biologist||malacologist||meteorologist||botanical collector||botanist||scientific collector"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124617",
+    "itemLabel": "Georgy Zhukov",
+    "year": "1974",
+    "sitelinks": "108",
+    "description": "Marshal of the Soviet Union (1896-1974)",
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "politician||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76430",
@@ -294,70 +348,79 @@
     "sitelinks": "107",
     "description": "German-Prussian general and military theorist",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "writer||historian||military officer||military personnel||military theorist||philosopher||army officer"
+    "occupationLabel": "author||military personnel||historian||military officer||philosopher||military theorist||army officer||military writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127234",
-    "itemLabel": "Albert A. Michelson",
+    "itemLabel": "Albert Abraham Michelson",
     "year": "1931",
     "sitelinks": "106",
     "description": "American physicist (1852–1931)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||physicist||university teacher"
+    "occupationLabel": "physicist||military officer||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12665",
     "itemLabel": "Robert Baden-Powell, 1st Baron Baden-Powell",
     "year": "1941",
-    "sitelinks": "106",
+    "sitelinks": "105",
     "description": "lieutenant-general in the British Army, writer, founder and Chief Scout of the Scout Movement (1857-1941)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||writer||military officer||scout leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q124617",
-    "itemLabel": "Georgy Zhukov",
-    "year": "1974",
-    "sitelinks": "106",
-    "description": "Marshal of the Soviet Union (1896-1974)",
-    "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "politician||military officer"
+    "occupationLabel": "politician||author||military officer||scouting||scout leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178903",
     "itemLabel": "Alexander Hamilton",
     "year": "1804",
-    "sitelinks": "103",
+    "sitelinks": "104",
     "description": "American Founding Father and statesman (1755/1757–1804)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||economist||writer||military officer||businessperson||military personnel||lawyer||aide-de-camp||philosopher"
+    "occupationLabel": "politician||author||military personnel||economist||lawyer||military officer||businessperson||aide-de-camp||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165557",
+    "itemLabel": "Robert E. Lee",
+    "year": "1870",
+    "sitelinks": "103",
+    "description": "Confederate States general (1807–1870)",
+    "nationalityLabel": "Confederate||Johnny Reb||American||Americans",
+    "occupationLabel": "military personnel||military officer||soldier||cartographer||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131691",
     "itemLabel": "Arthur Wellesley, 1st Duke of Wellington",
     "year": "1852",
     "sitelinks": "102",
-    "description": "British Field Marshal, Prime Minister of the United Kingdom, 1828–1830, 1834",
-    "nationalityLabel": "Kingdom of Ireland||Kingdom of Portugal||British||Briton",
-    "occupationLabel": "politician||military officer||diplomat"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q165557",
-    "itemLabel": "Robert E. Lee",
-    "year": "1870",
-    "sitelinks": "102",
-    "description": "Confederate States general (1807–1870)",
-    "nationalityLabel": "Confederate||Johnny Reb||American||Americans",
-    "occupationLabel": "military officer||military personnel||army officer||cartographer"
+    "description": "British Field Marshal, Prime Minister of the United Kingdom, 1828–1830, 1834 (1769-1852)",
+    "nationalityLabel": "British||Briton||Kingdom of Portugal||Kingdom of Ireland",
+    "occupationLabel": "politician||diplomat||military officer||general field marshal||head of government"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81716",
     "itemLabel": "Charles-Augustin de Coulomb",
     "year": "1806",
-    "sitelinks": "98",
+    "sitelinks": "100",
     "description": "French physicist (1736-1806)",
     "nationalityLabel": "French",
-    "occupationLabel": "engineer||military engineer||military officer||physicist||military personnel||soldier"
+    "occupationLabel": "engineer||military engineer||military personnel||physicist||military officer||soldier"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19155",
+    "itemLabel": "Henry Fonda",
+    "year": "1982",
+    "sitelinks": "99",
+    "description": "American actor (1905–1982)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||military personnel||military officer||screenwriter||film actor||naval officer||television producer||television actor||beekeeper||stage actor||film producer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25310",
+    "itemLabel": "Robert F. Kennedy",
+    "year": "1968",
+    "sitelinks": "98",
+    "description": "American politician and lawyer (1925–1968)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||author||lawyer||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q885",
@@ -365,35 +428,26 @@
     "year": "1935",
     "sitelinks": "97",
     "description": "Polish politician, First Marshall, and Prime Minister (1867–1935)",
-    "nationalityLabel": "Russian||Polish",
-    "occupationLabel": "politician||military officer||military personnel||statesperson||military leader"
+    "nationalityLabel": "Polish||Russian",
+    "occupationLabel": "politician||military personnel||military officer||statesperson||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19155",
-    "itemLabel": "Henry Fonda",
-    "year": "1982",
+    "item": "http://www.wikidata.org/entity/Q5721",
+    "itemLabel": "Philippe Pétain",
+    "year": "1951",
     "sitelinks": "97",
-    "description": "American actor (1905–1982)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military officer||military personnel||actor||film actor||producer||television producer||television actor||beekeeper||naval officer||stage actor||film producer"
+    "description": "French military and political leader (1856–1951)",
+    "nationalityLabel": "French",
+    "occupationLabel": "politician||marshal||military personnel||diplomat||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103949",
     "itemLabel": "Buster Keaton",
     "year": "1966",
-    "sitelinks": "96",
+    "sitelinks": "97",
     "description": "American actor, comedian, and director (1895–1966)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military officer||military personnel||actor||stunt performer||comedian||film actor||mime artist||producer||film screenwriter||film director||television actor||director||film editor||stage actor||film producer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q25310",
-    "itemLabel": "Robert F. Kennedy",
-    "year": "1968",
-    "sitelinks": "96",
-    "description": "American politician and lawyer",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||writer||military officer||lawyer"
+    "occupationLabel": "actor||author||military personnel||military officer||screenwriter||film editor||comedian||film actor||mime artist||television actor||stunt performer||stage actor||producer||film producer||director||film screenwriter||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151972",
@@ -402,34 +456,34 @@
     "sitelinks": "96",
     "description": "American-born French dancer, singer and actress (1906–1975)",
     "nationalityLabel": "French||American||Americans",
-    "occupationLabel": "writer||singer||military officer||actor||film actor||jazz musician||civil rights advocate||street artist||intelligence officer||vedette||dancer||model"
+    "occupationLabel": "entertainer||actor||author||singer||military officer||film actor||musician||intelligence officer||dancer||resistance fighter||civil rights advocate||jazz musician||vedette||model||street artist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202155",
+    "itemLabel": "Thomas Sankara",
+    "year": "1987",
+    "sitelinks": "96",
+    "description": "President of Burkina Faso from 1983 to 1987",
+    "nationalityLabel": "Upper Voltans||Upper Voltan||Burkinabé||Burkinabè||Burkinabe",
+    "occupationLabel": "politician||minister||military officer||soldier||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102462",
     "itemLabel": "James Stewart",
     "year": "1997",
     "sitelinks": "96",
-    "description": "American actor (1908–1997)",
+    "description": "American actor and military officer (1908–1997)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military officer||military personnel||actor||poet||film actor||voice actor||aircraft pilot||film director||television actor||television director||director||stage actor"
+    "occupationLabel": "actor||author||military personnel||military officer||screenwriter||poet||film actor||television actor||stage actor||director||voice actor||television director||aircraft pilot||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202155",
-    "itemLabel": "Thomas Sankara",
-    "year": "1987",
-    "sitelinks": "95",
-    "description": "President of Burkina Faso from 1983 to 1987",
-    "nationalityLabel": "Upper Voltans||Upper Voltan||Burkinabé||Burkinabè||Burkinabe",
-    "occupationLabel": "politician||minister||military officer||statesperson||soldier"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5721",
-    "itemLabel": "Philippe Pétain",
-    "year": "1951",
+    "item": "http://www.wikidata.org/entity/Q361567",
+    "itemLabel": "Muhammadu Buhari",
+    "year": "2025",
     "sitelinks": "94",
-    "description": "French military and political leader (1856–1951)",
-    "nationalityLabel": "French",
-    "occupationLabel": "politician||military officer||diplomat||military personnel"
+    "description": "former President of Nigeria from 1983 to 1985 and 2015 to 2025 (born 1942–2025)",
+    "nationalityLabel": "Nigerian||Nigerians",
+    "occupationLabel": "politician||military personnel||teacher||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80739",
@@ -438,16 +492,7 @@
     "sitelinks": "93",
     "description": "American actor (1923–2008)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||screenwriter||military officer||political activist||military personnel||actor||film actor||activist||film screenwriter||voice actor||autobiographer||film director||television actor||social activist||director||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q361567",
-    "itemLabel": "Muhammadu Buhari",
-    "year": "2025",
-    "sitelinks": "93",
-    "description": "former President of Nigeria from 1983 to 1985 and 2015 to 2025 (born 1942–2025)",
-    "nationalityLabel": "Nigerian||Nigerians",
-    "occupationLabel": "politician||military officer||teacher||military personnel"
+    "occupationLabel": "actor||author||military personnel||military officer||screenwriter||social activist||film actor||musician||television actor||autobiographer||political activist||civil rights advocate||activist||stage actor||director||voice actor||speaker||film screenwriter||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170596",
@@ -456,7 +501,7 @@
     "sitelinks": "91",
     "description": "British archaeologist, army officer and diplomat (1888–1935)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||screenwriter||military officer||diplomat||translator||military personnel||world traveler||autobiographer||aircraft pilot||spy||castellologist||archaeologist||anthropologist"
+    "occupationLabel": "author||military personnel||diplomat||military officer||screenwriter||spy||translator||autobiographer||castellologist||archaeologist||world traveler||anthropologist||aircraft pilot||French–English translator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93330",
@@ -465,7 +510,7 @@
     "sitelinks": "91",
     "description": "president of Argentina (1946–55, 1973–74)",
     "nationalityLabel": "Argentine||Argentinian",
-    "occupationLabel": "politician||military officer"
+    "occupationLabel": "politician||military officer||President of the Republic||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154232",
@@ -474,7 +519,7 @@
     "sitelinks": "90",
     "description": "Russian marshal (1730–1800)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "military officer||military personnel||military theorist||military leader||soldier"
+    "occupationLabel": "military personnel||military officer||soldier||general field marshal||military theorist||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167856",
@@ -483,34 +528,52 @@
     "sitelinks": "90",
     "description": "American writer (1789–1851)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||military officer||biographer||children's writer||novelist"
+    "occupationLabel": "author||military officer||children's writer||novelist||biographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q184650",
     "itemLabel": "Donald Rumsfeld",
     "year": "2021",
-    "sitelinks": "89",
+    "sitelinks": "90",
     "description": "American politician and diplomat (1932–2021)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||military officer||diplomat||businessperson||civil servant||author"
+    "occupationLabel": "politician||diplomat||civil servant||military officer||businessperson||author"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51114",
+    "itemLabel": "John Ford",
+    "year": "1973",
+    "sitelinks": "89",
+    "description": "American film director (1894–1973)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||military personnel||military officer||screenwriter||film actor||naval officer||producer||film producer||director||film screenwriter||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152306",
     "itemLabel": "Carl Gustaf Emil Mannerheim",
     "year": "1951",
-    "sitelinks": "87",
+    "sitelinks": "88",
     "description": "Finnish military leader and statesman (1867–1951)",
-    "nationalityLabel": "Russian||Grand Duchy of Finland||Finn||Finnish",
-    "occupationLabel": "politician||military officer||explorer||author"
+    "nationalityLabel": "Grand Duchy of Finland||Russian||Finn||Finnish",
+    "occupationLabel": "politician||military officer||soldier||general field marshal||author||explorer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76437",
     "itemLabel": "Karl Dönitz",
     "year": "1980",
-    "sitelinks": "87",
+    "sitelinks": "88",
     "description": "German admiral and former president of Nazi Germany in 1945 (born 1891-1980)",
     "nationalityLabel": "German",
-    "occupationLabel": "politician||military officer||autobiographer||submariner"
+    "occupationLabel": "politician||Großadmiral||military officer||autobiographer||submariner"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55796",
+    "itemLabel": "Peter Ustinov",
+    "year": "2004",
+    "sitelinks": "87",
+    "description": "British actor, writer and director (1921–2004)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "actor||author||military personnel||singer||military officer||screenwriter||playwright||comedian||film actor||musician||librettist||television actor||autobiographer||television presenter||humanitarian||cabaret performer||film producer||director||voice actor||film screenwriter||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104859",
@@ -519,7 +582,16 @@
     "sitelinks": "87",
     "description": "American astronaut (1930–2021)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "astronaut||entrepreneur||military officer||actor||airman||test pilot||autobiographer"
+    "occupationLabel": "astronaut||entrepreneur||actor||military officer||airman||test pilot||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q162269",
+    "itemLabel": "Jefferson Davis",
+    "year": "1889",
+    "sitelinks": "86",
+    "description": "President of the Confederate States from 1861 to 1865 (1808–1889)",
+    "nationalityLabel": "Confederate||Johnny Reb||American||Americans",
+    "occupationLabel": "politician||author||military officer||businessperson||political writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160847",
@@ -528,34 +600,25 @@
     "sitelinks": "86",
     "description": "Japanese general and politician (1884–1948)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "politician||military officer||diplomat"
+    "occupationLabel": "politician||diplomat||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q150943",
     "itemLabel": "Gene Hackman",
     "year": "2025",
     "sitelinks": "86",
-    "description": "American actor (1930–2025)",
+    "description": "American actor and novelist (1930–2025)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||military officer||military personnel||actor||film actor||voice actor||racing automobile driver||stage actor||novelist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q162269",
-    "itemLabel": "Jefferson Davis",
-    "year": "1889",
-    "sitelinks": "84",
-    "description": "President of the Confederate States from 1861 to 1865 (1808–1889)",
-    "nationalityLabel": "Confederate||Johnny Reb||American||Americans",
-    "occupationLabel": "politician||writer||military officer||businessperson||political writer"
+    "occupationLabel": "actor||author||military personnel||military officer||film actor||racing automobile driver||novelist||stage actor||voice actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152025",
     "itemLabel": "Bernard Montgomery",
     "year": "1976",
-    "sitelinks": "84",
+    "sitelinks": "85",
     "description": "British Army officer (1887–1976)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||writer||military officer"
+    "occupationLabel": "politician||author||military officer||general field marshal"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51492",
@@ -564,7 +627,7 @@
     "sitelinks": "84",
     "description": "Italian-born American film director (1897–1991)",
     "nationalityLabel": "Italian||American||Americans",
-    "occupationLabel": "writer||screenwriter||military officer||military personnel||producer||film screenwriter||film director||banjoist||director||film producer"
+    "occupationLabel": "author||military personnel||military officer||screenwriter||banjoist||producer||film producer||director||film screenwriter||film director"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182642",
@@ -573,7 +636,7 @@
     "sitelinks": "83",
     "description": "American astronaut and politician (1921–2016)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "astronaut||politician||screenwriter||military officer||businessperson||musician||film actor||test pilot||aircraft pilot||manager||television actor"
+    "occupationLabel": "politician||astronaut||military officer||screenwriter||businessperson||film actor||musician||television actor||test pilot||manager||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q162389",
@@ -582,7 +645,7 @@
     "sitelinks": "82",
     "description": "American actor (1925–2010)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||military officer||military personnel||actor||film actor||painter||television actor"
+    "occupationLabel": "actor||author||military personnel||military officer||film actor||television actor||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192615",
@@ -591,7 +654,7 @@
     "sitelinks": "81",
     "description": "French marchal and military theorist (1851–1929)",
     "nationalityLabel": "French",
-    "occupationLabel": "military officer||military personnel"
+    "occupationLabel": "marshal||military personnel||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q162708",
@@ -600,7 +663,16 @@
     "sitelinks": "81",
     "description": "2nd president (1966–76) and emperor (r. 1976–79) of the Central African Republic",
     "nationalityLabel": "Central African Empire||Central African||French",
-    "occupationLabel": "politician||military officer||sovereign||criminal"
+    "occupationLabel": "politician||military officer||President of the Republic||sovereign||criminal"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q215359",
+    "itemLabel": "Dean Martin",
+    "year": "1995",
+    "sitelinks": "80",
+    "description": "American singer, actor, comedian and film producer (1917–1995)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||author||military personnel||singer||military officer||comedian||film actor||television actor||television presenter||boxer||jazz musician||producer||film producer||television personality"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179846",
@@ -609,7 +681,7 @@
     "sitelinks": "80",
     "description": "Soviet general, Chechen leader (1944-1996)",
     "nationalityLabel": "Chechen Republic of Ichkeria||Soviet",
-    "occupationLabel": "politician||military officer||aircraft pilot"
+    "occupationLabel": "politician||military officer||soldier||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q21209",
@@ -621,13 +693,13 @@
     "occupationLabel": "military officer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q215359",
-    "itemLabel": "Dean Martin",
-    "year": "1995",
-    "sitelinks": "79",
-    "description": "American singer, actor, comedian and film producer (1917–1995)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||singer||military officer||boxer||military personnel||actor||comedian||film actor||producer||television presenter||jazz musician||television personality||television actor||film producer"
+    "item": "http://www.wikidata.org/entity/Q13898",
+    "itemLabel": "Guy Fawkes",
+    "year": "1606",
+    "sitelinks": "78",
+    "description": "English member of the Gunpowder Plot of 1605",
+    "nationalityLabel": "English",
+    "occupationLabel": "politician||military personnel||military officer||soldier"
   },
   {
     "item": "http://www.wikidata.org/entity/Q158838",
@@ -636,7 +708,25 @@
     "sitelinks": "78",
     "description": "third President of the French Republic (1808–1893)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||military officer||military personnel"
+    "occupationLabel": "politician||military personnel||military officer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207036",
+    "itemLabel": "A. A. Milne",
+    "year": "1956",
+    "sitelinks": "78",
+    "description": "British author known for creating Winnie-the-Pooh (1882–1956)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||military officer||screenwriter||poet||playwright||children's writer||novelist||journalist||essayist||short story writer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82786",
+    "itemLabel": "Leslie Nielsen",
+    "year": "2010",
+    "sitelinks": "78",
+    "description": "Canadian-American actor and comedian (1926–2010)",
+    "nationalityLabel": "American||Americans||Canadian||Canadians",
+    "occupationLabel": "actor||military personnel||military officer||comedian||film actor||television actor||producer||film producer||voice actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7723",
@@ -648,22 +738,31 @@
     "occupationLabel": "military officer||draftsperson"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q207036",
-    "itemLabel": "A. A. Milne",
-    "year": "1956",
+    "item": "http://www.wikidata.org/entity/Q150552",
+    "itemLabel": "Franz von Papen",
+    "year": "1969",
     "sitelinks": "77",
-    "description": "British author known for creating Winnie-the-Pooh (1882-1956)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "writer||screenwriter||military officer||playwright||poet||essayist||prose writer||short story writer||children's writer||novelist"
+    "description": "German general staff officer, politician, diplomat, nobleman and Chancellor of Germany (1879–1969)",
+    "nationalityLabel": "German",
+    "occupationLabel": "politician||military personnel||diplomat||military officer||military attaché"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q82786",
-    "itemLabel": "Leslie Nielsen",
-    "year": "2010",
+    "item": "http://www.wikidata.org/entity/Q102551",
+    "itemLabel": "Ernest Borgnine",
+    "year": "2012",
     "sitelinks": "77",
-    "description": "European-Canadian/American businessman, entrepreneur, actor, producer and comedian (1926–2010)",
-    "nationalityLabel": "American||Americans||Canadian||Canadians",
-    "occupationLabel": "military officer||military personnel||actor||comedian||film actor||producer||voice actor||television actor||film producer"
+    "description": "American actor (1917–2012)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||military officer||film actor||character actor||television actor||stage actor||voice actor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200582",
+    "itemLabel": "Hayreddin Barbarossa",
+    "year": "1546",
+    "sitelinks": "76",
+    "description": "Turkish admiral (1478–1546)",
+    "nationalityLabel": "Ottoman",
+    "occupationLabel": "politician||admiral||military officer||privateer||pirate"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179090",
@@ -672,7 +771,7 @@
     "sitelinks": "76",
     "description": "vice president of the United States from 1801 to 1805, lived (1756–1836)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||jurist||military officer||lawyer||bretteur"
+    "occupationLabel": "politician||jurist||lawyer||military officer||vice president||bretteur"
   },
   {
     "item": "http://www.wikidata.org/entity/Q957543",
@@ -693,13 +792,13 @@
     "occupationLabel": "politician||military officer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200582",
-    "itemLabel": "Hayreddin Barbarossa",
-    "year": "1546",
+    "item": "http://www.wikidata.org/entity/Q151173",
+    "itemLabel": "Joachim Murat",
+    "year": "1815",
     "sitelinks": "75",
-    "description": "Turkish admiral (1478–1546)",
-    "nationalityLabel": "Ottoman",
-    "occupationLabel": "politician||admiral||privateer||military officer||pirate"
+    "description": "Grand Duke of Berg and Cleves, The king of Naples (1767-1815)",
+    "nationalityLabel": "Grand Duchy of Berg||Kingdom of Naples||French",
+    "occupationLabel": "politician||marshal||military personnel||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q186652",
@@ -717,31 +816,13 @@
     "sitelinks": "75",
     "description": "Japanese Marshal Admiral (1884–1943)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q102551",
-    "itemLabel": "Ernest Borgnine",
-    "year": "2012",
-    "sitelinks": "75",
-    "description": "American actor (1917–2012)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||actor||film actor||character actor||voice actor||television actor||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q185718",
-    "itemLabel": "Alexander Kolchak",
-    "year": "1920",
-    "sitelinks": "74",
-    "description": "Russian admiral and military leader of the White movement (1874-1920)",
-    "nationalityLabel": "Russian||Russian State||Russian Republic",
-    "occupationLabel": "politician||military officer||explorer||glaciologist||soldier||oceanographer"
+    "occupationLabel": "admiral||military officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159161",
     "itemLabel": "Cemal Gürsel",
     "year": "1966",
-    "sitelinks": "74",
+    "sitelinks": "75",
     "description": "4th President of the Republic of Turkey (1895–1966)",
     "nationalityLabel": "Ottoman||Turkish",
     "occupationLabel": "politician||military officer"
@@ -750,19 +831,55 @@
     "item": "http://www.wikidata.org/entity/Q16472",
     "itemLabel": "Robert Mitchum",
     "year": "1997",
-    "sitelinks": "74",
+    "sitelinks": "75",
     "description": "American actor (1917–1997)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||writer||singer||screenwriter||military officer||military personnel||actor||poet||film actor||film screenwriter||film director||television actor||director||film producer"
+    "occupationLabel": "actor||author||military personnel||singer||military officer||screenwriter||composer||poet||film actor||television actor||film producer||film screenwriter||film director"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q151173",
-    "itemLabel": "Joachim Murat",
-    "year": "1815",
+    "item": "http://www.wikidata.org/entity/Q185718",
+    "itemLabel": "Alexander Kolchak",
+    "year": "1920",
+    "sitelinks": "74",
+    "description": "Russian admiral and military leader of the White movement (1874-1920)",
+    "nationalityLabel": "Russian State||Russian Republic||Russian",
+    "occupationLabel": "politician||admiral||minister||military officer||soldier||naval officer||explorer||glaciologist||hydrologist||oceanographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76361",
+    "itemLabel": "Wilhelm Keitel",
+    "year": "1946",
+    "sitelinks": "74",
+    "description": "German field marshal (1882–1946)",
+    "nationalityLabel": "German",
+    "occupationLabel": "politician||major general||military personnel||military officer||soldier||general field marshal||Holocaust perpetrator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q201732",
+    "itemLabel": "Robert Graves",
+    "year": "1985",
+    "sitelinks": "74",
+    "description": "English poet and novelist (1895-1985)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "author||military personnel||military officer||screenwriter||poet||playwright||translator||opinion journalist||novelist||theatre critic||university teacher||science fiction writer||literary scholar||mythographer||literary critic"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174943",
+    "itemLabel": "Belisarius",
+    "year": "565",
     "sitelinks": "73",
-    "description": "Grand Duke of Berg and Cleves, The king of Naples (1767-1815)",
-    "nationalityLabel": "Grand Duchy of Berg||Kingdom of Naples||French",
-    "occupationLabel": "politician||military officer||military personnel"
+    "description": "6th century Byzantine general instrumental in reconquest of much of the former Roman Mediterranean territories (505-565)",
+    "nationalityLabel": "Byzantine Empire",
+    "occupationLabel": "politician||military personnel||military officer||military leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185801",
+    "itemLabel": "Mikhail Kutuzov",
+    "year": "1813",
+    "sitelinks": "73",
+    "description": "Field Marshal of the Russian Empire (1745–1813)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "diplomat||military officer||general field marshal||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191479",
@@ -771,34 +888,34 @@
     "sitelinks": "73",
     "description": "Polish, Lithuanian and American military leader (1746–1817)",
     "nationalityLabel": "Polish–Lithuanian Commonwealth||French||Swiss||American||Americans",
-    "occupationLabel": "engineer||politician||military officer||hero||resistance fighter||geographical engineer (military cartographer)||soldier"
+    "occupationLabel": "politician||engineer||major general||hero||military officer||soldier||resistance fighter||geographical engineer (military cartographer)||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q76361",
-    "itemLabel": "Wilhelm Keitel",
-    "year": "1946",
+    "item": "http://www.wikidata.org/entity/Q70560",
+    "itemLabel": "Heinz Guderian",
+    "year": "1954",
     "sitelinks": "73",
-    "description": "German field marshal (1882–1946)",
+    "description": "German general",
     "nationalityLabel": "German",
-    "occupationLabel": "politician||major general||military officer||military personnel||Holocaust perpetrator||soldier||general field marshal"
+    "occupationLabel": "author||military personnel||military officer||Generaloberst"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q174943",
-    "itemLabel": "Belisarius",
-    "year": "565",
-    "sitelinks": "72",
-    "description": "6th century Byzantine general instrumental in reconquest of much of the former Roman Mediterranean territories (505-565)",
-    "nationalityLabel": "Byzantine Empire",
-    "occupationLabel": "politician||military officer||military personnel"
+    "item": "http://www.wikidata.org/entity/Q95002",
+    "itemLabel": "William Holden",
+    "year": "1981",
+    "sitelinks": "73",
+    "description": "American actor (1918–1981)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||military personnel||military officer||film actor||television actor"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q185801",
-    "itemLabel": "Mikhail Kutuzov",
-    "year": "1813",
+    "item": "http://www.wikidata.org/entity/Q207660",
+    "itemLabel": "Claude Joseph Rouget de Lisle",
+    "year": "1836",
     "sitelinks": "72",
-    "description": "Field Marshal of the Russian Empire (1745–1813)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "military officer||diplomat||statesperson"
+    "description": "French army officer (1760-1836)",
+    "nationalityLabel": "French",
+    "occupationLabel": "engineer||author||military personnel||military officer||composer||poet||playwright||songwriter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51068",
@@ -807,7 +924,16 @@
     "sitelinks": "72",
     "description": "Last monarch of Austria-Hungary (r. 1916–1918)",
     "nationalityLabel": "Austrian",
-    "occupationLabel": "monarch||politician||military officer"
+    "occupationLabel": "politician||monarch||military officer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171826",
+    "itemLabel": "Alfred Dreyfus",
+    "year": "1935",
+    "sitelinks": "72",
+    "description": "French artillery officer (1859–1935)",
+    "nationalityLabel": "French",
+    "occupationLabel": "military personnel||military officer||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58579",
@@ -815,17 +941,44 @@
     "year": "1937",
     "sitelinks": "72",
     "description": "German Army officer (1865–1937)",
-    "nationalityLabel": "Prussian||Nazi Germany",
-    "occupationLabel": "politician||writer||military officer||military leader||autobiographer"
+    "nationalityLabel": "Nazi Germany||Prussian",
+    "occupationLabel": "politician||author||military officer||soldier||autobiographer||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q95002",
-    "itemLabel": "William Holden",
-    "year": "1981",
+    "item": "http://www.wikidata.org/entity/Q189197",
+    "itemLabel": "Joseph McCarthy",
+    "year": "1957",
     "sitelinks": "72",
-    "description": "American actor (1918–1981)",
+    "description": "American politician (1908–1957)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||military personnel||actor||film actor||television actor"
+    "occupationLabel": "politician||judge||farmer||jurist||lawyer||military officer||usher||anti-communist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186185",
+    "itemLabel": "Kliment Voroshilov",
+    "year": "1969",
+    "sitelinks": "72",
+    "description": "Soviet marshal and politician",
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "politician||head of state||military officer||soldier||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200499",
+    "itemLabel": "Muhammad Zia-ul-Haq",
+    "year": "1988",
+    "sitelinks": "72",
+    "description": "President of Pakistan from 1978 to 1988 Of Saudi origin",
+    "nationalityLabel": "British Raj||Pakistani",
+    "occupationLabel": "politician||military officer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44205",
+    "itemLabel": "Helmuth von Moltke the Elder",
+    "year": "1891",
+    "sitelinks": "71",
+    "description": "German Field Marshal (1800–1891)",
+    "nationalityLabel": "Prussian",
+    "occupationLabel": "politician||author||historian||teacher||military officer||general field marshal"
   },
   {
     "item": "http://www.wikidata.org/entity/Q173196",
@@ -837,22 +990,13 @@
     "occupationLabel": "politician||military officer||statesperson"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q189197",
-    "itemLabel": "Joseph McCarthy",
-    "year": "1957",
+    "item": "http://www.wikidata.org/entity/Q76727",
+    "itemLabel": "Ernst Jünger",
+    "year": "1998",
     "sitelinks": "71",
-    "description": "American politician (1908–1957)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||judge||farmer||military officer||lawyer||anti-communist||usher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q200499",
-    "itemLabel": "Muhammad Zia-ul-Haq",
-    "year": "1988",
-    "sitelinks": "71",
-    "description": "President of Pakistan from 1978 to 1988 Of Saudi origin",
-    "nationalityLabel": "British Raj||Pakistani",
-    "occupationLabel": "politician||military officer"
+    "description": "German writer (1895–1998)",
+    "nationalityLabel": "German",
+    "occupationLabel": "author||military personnel||military officer||poet||philosopher||diarist||journalist||science fiction writer||entomologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q172471",
@@ -864,31 +1008,31 @@
     "occupationLabel": "politician||military officer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q44205",
-    "itemLabel": "Helmuth von Moltke the Elder",
-    "year": "1891",
+    "item": "http://www.wikidata.org/entity/Q125057",
+    "itemLabel": "Richard Francis Burton",
+    "year": "1890",
     "sitelinks": "70",
-    "description": "German Field Marshal (1800–1891)",
-    "nationalityLabel": "Prussian",
-    "occupationLabel": "politician||writer||historian||military officer"
+    "description": "British explorer, army officer, writer and scholar (1821–1890)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "naturalist||author||military personnel||historian||diplomat||military officer||poet||spy||translator||discoverer||ethnologist||linguist||explorer||traveler||zoologist||orientalist||cartographer||anthropologist||botanical collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q158861",
-    "itemLabel": "Chulalongkorn the Great",
+    "itemLabel": "Chulalongkorn",
     "year": "1910",
     "sitelinks": "70",
     "description": "King of Siam (1853-1910)",
     "nationalityLabel": "Siamese",
-    "occupationLabel": "monarch||politician||writer||military officer||diplomat||statesperson"
+    "occupationLabel": "politician||monarch||author||diplomat||military officer||statesperson"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q186185",
-    "itemLabel": "Kliment Voroshilov",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q151364",
+    "itemLabel": "Vidkun Quisling",
+    "year": "1945",
     "sitelinks": "70",
-    "description": "Soviet marshal and politician",
-    "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "politician||military officer||soldier||revolutionary"
+    "description": "Norwegian politician and Nazi collaborator (1887–1945)",
+    "nationalityLabel": "Norwegian",
+    "occupationLabel": "politician||military officer||soldier||wartime collaborator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152428",
@@ -900,183 +1044,39 @@
     "occupationLabel": "military officer||military leader||army officer"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q154782",
+    "itemLabel": "Adelbert von Chamisso",
+    "year": "1838",
+    "sitelinks": "69",
+    "description": "German poet and botanist (1781–1838)",
+    "nationalityLabel": "French||Prussian",
+    "occupationLabel": "naturalist||author||military officer||poet||explorer||zoologist||curator||bryologist||pteridologist||botanical collector||botanist||scientific collector"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7726",
     "itemLabel": "Joseph Bonaparte",
     "year": "1844",
     "sitelinks": "69",
     "description": "brother of Napoleon Bonaparte; King of Naples (1806–08) and Spain (1808–13)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||military officer||diplomat"
+    "occupationLabel": "politician||diplomat||military officer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q151364",
-    "itemLabel": "Vidkun Quisling",
-    "year": "1945",
+    "item": "http://www.wikidata.org/entity/Q57135",
+    "itemLabel": "Erich von Manstein",
+    "year": "1973",
     "sitelinks": "69",
-    "description": "Norwegian politician and Nazi collaborator (1887–1945)",
-    "nationalityLabel": "Norwegian",
-    "occupationLabel": "politician||military officer||wartime collaborator"
+    "description": "German field marshal (1887-1973)",
+    "nationalityLabel": "German",
+    "occupationLabel": "military officer||soldier||general field marshal||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152534",
-    "itemLabel": "Alfredo Stroessner",
-    "year": "2006",
+    "item": "http://www.wikidata.org/entity/Q184378",
+    "itemLabel": "Rock Hudson",
+    "year": "1985",
     "sitelinks": "69",
-    "description": "military dictator of Paraguay from 1954 to 1989",
-    "nationalityLabel": "Paraguayan",
-    "occupationLabel": "politician||military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154782",
-    "itemLabel": "Adelbert von Chamisso",
-    "year": "1838",
-    "sitelinks": "68",
-    "description": "German poet and botanist (1781–1838)",
-    "nationalityLabel": "French||Prussian",
-    "occupationLabel": "writer||naturalist||military officer||zoologist||poet||explorer||curator||bryologist||pteridologist||botanist||scientific collector||botanical collector"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q188936",
-    "itemLabel": "William Tecumseh Sherman",
-    "year": "1891",
-    "sitelinks": "68",
-    "description": "United States Army general (1820–1891)",
+    "description": "American actor (1925–1985)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||military officer||lawyer||banker"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q58583",
-    "itemLabel": "Ernst Röhm",
-    "year": "1934",
-    "sitelinks": "68",
-    "description": "German Nazi politician, military officer and leader of the Sturmabteilung (1887-1934)",
-    "nationalityLabel": "German",
-    "occupationLabel": "politician||minister||military officer||military personnel"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q117144",
-    "itemLabel": "Miklós Horthy",
-    "year": "1957",
-    "sitelinks": "68",
-    "description": "Regent of Hungary from 1920 to 1944 (1868-1957)",
-    "nationalityLabel": "Hungarian",
-    "occupationLabel": "politician||military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57160",
-    "itemLabel": "Friedrich Paulus",
-    "year": "1957",
-    "sitelinks": "67",
-    "description": "German general (1890–1957)",
-    "nationalityLabel": "German||Weimar Republic||East German||Nazi Germany",
-    "occupationLabel": "military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q40482",
-    "itemLabel": "Konstantin Rokossovsky",
-    "year": "1968",
-    "sitelinks": "67",
-    "description": "Soviet and Polish military commander (1896-1968)",
-    "nationalityLabel": "Polish People's Republic||Soviet",
-    "occupationLabel": "military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q182897",
-    "itemLabel": "Prince Henry the Navigator",
-    "year": "1460",
-    "sitelinks": "66",
-    "description": "Portuguese prince and governor (1394–1460)",
-    "nationalityLabel": "Kingdom of Portugal",
-    "occupationLabel": "military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q76895",
-    "itemLabel": "Lee Marvin",
-    "year": "1987",
-    "sitelinks": "66",
-    "description": "American actor (1924–1987)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||military personnel||actor||film actor||television actor||stage actor"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151305",
-    "itemLabel": "Christian IX of Denmark",
-    "year": "1906",
-    "sitelinks": "65",
-    "description": "King of Denmark from 1863 to 1906",
-    "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "monarch||military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q186585",
-    "itemLabel": "Robert Peary",
-    "year": "1920",
-    "sitelinks": "65",
-    "description": "explorer from the United States (1856–1920)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||explorer||science fiction writer||researcher||botanical collector"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q156617",
-    "itemLabel": "Christian X of Denmark",
-    "year": "1947",
-    "sitelinks": "65",
-    "description": "King of Denmark (1912–1947) and Iceland (1918–1944)",
-    "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "monarch||military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57133",
-    "itemLabel": "Kurt von Schleicher",
-    "year": "1934",
-    "sitelinks": "64",
-    "description": "German chancellor (1882-1934)",
-    "nationalityLabel": "German",
-    "occupationLabel": "politician||military officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q53325",
-    "itemLabel": "Arthur Ashe",
-    "year": "1993",
-    "sitelinks": "64",
-    "description": "American tennis player (1943–1993)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||military officer||tennis player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q52589",
-    "itemLabel": "Emil Zátopek",
-    "year": "2000",
-    "sitelinks": "64",
-    "description": "Czech long-distance runner (1922–2000)",
-    "nationalityLabel": "Czechoslovak||Czech",
-    "occupationLabel": "military officer||athletics competitor||Olympic competitor||runner||career soldier"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104067",
-    "itemLabel": "Eli Wallach",
-    "year": "2014",
-    "sitelinks": "64",
-    "description": "American actor (1915–2014)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "military officer||actor||film actor||character actor||autobiographer||television actor||stage actor||film producer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4701",
-    "itemLabel": "Manfred von Richthofen",
-    "year": "1918",
-    "sitelinks": "63",
-    "description": "German fighter pilot (1892-1918)",
-    "nationalityLabel": "Prussian",
-    "occupationLabel": "military officer||airman"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q210435",
-    "itemLabel": "J. Edgar Hoover",
-    "year": "1972",
-    "sitelinks": "63",
-    "description": "American law enforcement administrator (1895–1972)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||librarian||screenwriter||military officer||lawyer"
+    "occupationLabel": "actor||military personnel||military officer||film actor||television actor||activist||stage actor||HIV/AIDS activist"
   }
 ]

@@ -10,14 +10,14 @@
     "pageViews": 2222451
   },
   {
-    "qid": "Q22906900",
-    "title": "Brave is released",
+    "qid": "Q698",
+    "title": "Mozilla Firefox is released",
     "subtitle": "Web browser",
-    "year": 2016,
-    "fact": "Brave is a free and open-source web browser which was first released in 2016.",
-    "wikipediaSlug": "Brave_(web_browser)",
-    "image": "Brave_Browser_Phone_&_Desktop_screenshot,_2025.10.05.png",
-    "pageViews": 49451
+    "year": 2002,
+    "fact": "Mozilla Firefox, or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.",
+    "wikipediaSlug": "Firefox",
+    "image": "Firefox_logo,_2019.svg",
+    "pageViews": 214633
   },
   {
     "qid": "Q1575",
@@ -28,16 +28,6 @@
     "wikipediaSlug": "Internet_Explorer",
     "image": "Internet_Explorer_11_screenshot.png",
     "pageViews": 39065
-  },
-  {
-    "qid": "Q48524",
-    "title": "Chromium is released",
-    "subtitle": "Web browser",
-    "year": 2008,
-    "fact": "Chromium is a free and open-source web browser project, primarily developed and maintained by Google.",
-    "wikipediaSlug": "Chromium_(web_browser)",
-    "image": "Chromium_140_on_Linux_screenshot_(light_theme).webp",
-    "pageViews": 32961
   },
   {
     "qid": "Q18913176",
@@ -88,6 +78,16 @@
     "wikipediaSlug": "NCSA_Mosaic",
     "image": "NCSA_Mosaic_Browser_Screenshot.png",
     "pageViews": 7948
+  },
+  {
+    "qid": "Q156197",
+    "title": "SeaMonkey is released",
+    "subtitle": "Web browser",
+    "year": 2006,
+    "fact": "SeaMonkey is a free and open-source Internet suite.",
+    "wikipediaSlug": "SeaMonkey",
+    "image": "Seamonkey_2.53.17.1_screenshot.png",
+    "pageViews": 6104
   },
   {
     "qid": "Q178565",

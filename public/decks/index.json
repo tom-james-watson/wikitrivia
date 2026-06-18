@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 610,
-    "normal": 977,
-    "hard": 1798
+    "easy": 607,
+    "normal": 971,
+    "hard": 1792
   },
   "id": "all",
   "minScore": 1000,
@@ -13,8 +13,8 @@
     {
       "difficultyCounts": {
         "easy": 301,
-        "normal": 515,
-        "hard": 888
+        "normal": 518,
+        "hard": 893
       },
       "id": "all-history",
       "minScore": 1000,
@@ -26,8 +26,8 @@
         {
           "difficultyCounts": {
             "easy": 170,
-            "normal": 303,
-            "hard": 530
+            "normal": 301,
+            "hard": 533
           },
           "id": "all-history-nations",
           "minScore": 12,
@@ -38,9 +38,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 22,
-            "normal": 41,
-            "hard": 83
+            "easy": 21,
+            "normal": 40,
+            "hard": 82
           },
           "id": "all-history-eras",
           "minScore": 3,
@@ -53,7 +53,7 @@
           "difficultyCounts": {
             "easy": 35,
             "normal": 75,
-            "hard": 149
+            "hard": 150
           },
           "id": "all-history-battles",
           "minScore": 30,
@@ -66,7 +66,7 @@
           "difficultyCounts": {
             "easy": 88,
             "normal": 157,
-            "hard": 292
+            "hard": 289
           },
           "id": "all-history-wars",
           "minScore": 22,
@@ -78,8 +78,8 @@
         {
           "difficultyCounts": {
             "easy": 24,
-            "normal": 44,
-            "hard": 76
+            "normal": 45,
+            "hard": 77
           },
           "id": "all-history-revolts",
           "minScore": 0,
@@ -93,7 +93,7 @@
           "difficultyCounts": {
             "easy": 16,
             "normal": 43,
-            "hard": 81
+            "hard": 82
           },
           "id": "all-history-writing",
           "minScore": 20,
@@ -105,9 +105,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 0,
-            "normal": 1,
-            "hard": 7
+            "easy": 1,
+            "normal": 2,
+            "hard": 8
           },
           "id": "all-history-outbreaks",
           "minScore": 0,
@@ -121,9 +121,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 210,
-        "normal": 420,
-        "hard": 1040
+        "easy": 212,
+        "normal": 421,
+        "hard": 1044
       },
       "id": "all-leaders",
       "minScore": 1000,
@@ -389,7 +389,7 @@
                   "difficultyCounts": {
                     "easy": 2,
                     "normal": 3,
-                    "hard": 16
+                    "hard": 17
                   },
                   "id": "all-leaders-politicians-oceania-new-zealand",
                   "minScore": 20,
@@ -418,9 +418,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 171,
-            "normal": 362,
-            "hard": 951
+            "easy": 173,
+            "normal": 363,
+            "hard": 955
           },
           "id": "all-leaders-rulers",
           "minScore": 1000,
@@ -431,9 +431,9 @@
           "children": [
             {
               "difficultyCounts": {
-                "easy": 110,
-                "normal": 248,
-                "hard": 591
+                "easy": 111,
+                "normal": 249,
+                "hard": 596
               },
               "id": "all-leaders-rulers-europe",
               "minScore": 1000,
@@ -523,9 +523,9 @@
                 },
                 {
                   "difficultyCounts": {
-                    "easy": 7,
-                    "normal": 14,
-                    "hard": 27
+                    "easy": 8,
+                    "normal": 15,
+                    "hard": 28
                   },
                   "id": "all-leaders-rulers-europe-france",
                   "minScore": 15,
@@ -697,7 +697,7 @@
                   "difficultyCounts": {
                     "easy": 3,
                     "normal": 10,
-                    "hard": 20
+                    "hard": 21
                   },
                   "id": "all-leaders-rulers-europe-franks",
                   "minScore": 12,
@@ -750,7 +750,7 @@
                   "difficultyCounts": {
                     "easy": 3,
                     "normal": 13,
-                    "hard": 33
+                    "hard": 37
                   },
                   "id": "all-leaders-rulers-europe-sweden",
                   "minScore": 0,
@@ -870,9 +870,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 24,
+                "easy": 25,
                 "normal": 53,
-                "hard": 159
+                "hard": 158
               },
               "id": "all-leaders-rulers-middle-east",
               "minScore": 1000,
@@ -910,9 +910,9 @@
                 },
                 {
                   "difficultyCounts": {
-                    "easy": 6,
-                    "normal": 11,
-                    "hard": 21
+                    "easy": 7,
+                    "normal": 12,
+                    "hard": 22
                   },
                   "id": "all-leaders-rulers-middle-east-persia",
                   "minScore": 20,
@@ -924,8 +924,8 @@
                 {
                   "difficultyCounts": {
                     "easy": 1,
-                    "normal": 6,
-                    "hard": 11
+                    "normal": 5,
+                    "hard": 10
                   },
                   "id": "all-leaders-rulers-middle-east-safavids",
                   "minScore": 0,
@@ -1032,7 +1032,7 @@
                   "difficultyCounts": {
                     "easy": 0,
                     "normal": 2,
-                    "hard": 15
+                    "hard": 14
                   },
                   "id": "all-leaders-rulers-middle-east-assyria",
                   "minScore": 0,
@@ -1284,9 +1284,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 236,
-        "normal": 354,
-        "hard": 512
+        "easy": 229,
+        "normal": 348,
+        "hard": 503
       },
       "id": "all-people",
       "minScore": 1000,
@@ -1297,9 +1297,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 227,
-            "normal": 348,
-            "hard": 511
+            "easy": 220,
+            "normal": 341,
+            "hard": 503
           },
           "id": "all-people-famous-deaths",
           "minScore": 1000,
@@ -1312,7 +1312,7 @@
               "difficultyCounts": {
                 "easy": 18,
                 "normal": 36,
-                "hard": 70
+                "hard": 69
               },
               "id": "all-people-famous-deaths-classical",
               "minScore": 21,
@@ -1323,9 +1323,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 24,
-                "normal": 47,
-                "hard": 90
+                "easy": 23,
+                "normal": 44,
+                "hard": 85
               },
               "id": "all-people-famous-deaths-medieval",
               "minScore": 21,
@@ -1337,8 +1337,8 @@
             {
               "difficultyCounts": {
                 "easy": 44,
-                "normal": 80,
-                "hard": 140
+                "normal": 79,
+                "hard": 135
               },
               "id": "all-people-famous-deaths-early-modern",
               "minScore": 21,
@@ -1349,9 +1349,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 73,
-                "normal": 112,
-                "hard": 135
+                "easy": 70,
+                "normal": 109,
+                "hard": 137
               },
               "id": "all-people-famous-deaths-modern",
               "minScore": 21,
@@ -1362,9 +1362,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 68,
+                "easy": 65,
                 "normal": 73,
-                "hard": 76
+                "hard": 77
               },
               "id": "all-people-famous-deaths-contemporary",
               "minScore": 21,
@@ -1379,7 +1379,7 @@
           "difficultyCounts": {
             "easy": 24,
             "normal": 45,
-            "hard": 72
+            "hard": 71
           },
           "id": "all-people-nobel-laureates",
           "minScore": 1000,
@@ -1390,9 +1390,9 @@
           "children": [
             {
               "difficultyCounts": {
-                "easy": 4,
-                "normal": 7,
-                "hard": 11
+                "easy": 3,
+                "normal": 6,
+                "hard": 9
               },
               "id": "all-people-nobel-laureates-physics",
               "minScore": 120,
@@ -1403,9 +1403,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 14,
-                "normal": 28,
-                "hard": 55
+                "easy": 15,
+                "normal": 29,
+                "hard": 57
               },
               "id": "all-people-nobel-laureates-literature",
               "minScore": 120,
@@ -1461,9 +1461,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 142,
-        "normal": 198,
-        "hard": 295
+        "easy": 147,
+        "normal": 199,
+        "hard": 296
       },
       "id": "all-entertainment",
       "minScore": 1000,
@@ -1487,7 +1487,7 @@
         },
         {
           "difficultyCounts": {
-            "easy": 32,
+            "easy": 33,
             "normal": 46,
             "hard": 65
           },
@@ -1500,9 +1500,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 87,
-            "normal": 136,
-            "hard": 184
+            "easy": 91,
+            "normal": 137,
+            "hard": 187
           },
           "id": "all-entertainment-books",
           "minScore": 10,
@@ -1552,9 +1552,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 20,
-            "normal": 36,
-            "hard": 50
+            "easy": 26,
+            "normal": 43,
+            "hard": 60
           },
           "id": "all-entertainment-characters",
           "minScore": 30,
@@ -1566,9 +1566,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 22,
-            "normal": 40,
-            "hard": 49
+            "easy": 23,
+            "normal": 41,
+            "hard": 52
           },
           "id": "all-entertainment-comics",
           "minScore": 25,
@@ -1582,7 +1582,7 @@
           "difficultyCounts": {
             "easy": 2,
             "normal": 3,
-            "hard": 20
+            "hard": 21
           },
           "id": "all-entertainment-graphic-novels",
           "minScore": 5,
@@ -1608,9 +1608,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 2,
-            "normal": 12,
-            "hard": 32
+            "easy": 3,
+            "normal": 13,
+            "hard": 36
           },
           "id": "all-entertainment-board-games",
           "minScore": 12,
@@ -1622,9 +1622,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 3,
-            "normal": 7,
-            "hard": 18
+            "easy": 4,
+            "normal": 8,
+            "hard": 20
           },
           "id": "all-entertainment-toys",
           "minScore": 5,
@@ -1652,9 +1652,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 42,
-        "normal": 101,
-        "hard": 380
+        "easy": 43,
+        "normal": 100,
+        "hard": 378
       },
       "id": "all-art",
       "minScore": 1000,
@@ -1665,9 +1665,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 26,
-            "normal": 62,
-            "hard": 224
+            "easy": 27,
+            "normal": 61,
+            "hard": 226
           },
           "id": "all-art-paintings",
           "minScore": 5,
@@ -1679,8 +1679,8 @@
         {
           "difficultyCounts": {
             "easy": 8,
-            "normal": 29,
-            "hard": 186
+            "normal": 30,
+            "hard": 182
           },
           "id": "all-art-sculptures",
           "minScore": 3,
@@ -1706,9 +1706,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 56,
-        "normal": 72,
-        "hard": 89
+        "easy": 58,
+        "normal": 73,
+        "hard": 94
       },
       "id": "all-technology",
       "minScore": 1000,
@@ -1719,9 +1719,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 23,
-            "normal": 38,
-            "hard": 57
+            "easy": 22,
+            "normal": 39,
+            "hard": 59
           },
           "id": "all-technology-computing",
           "minScore": 1000,
@@ -1746,9 +1746,9 @@
             },
             {
               "difficultyCounts": {
-                "easy": 11,
-                "normal": 22,
-                "hard": 40
+                "easy": 10,
+                "normal": 23,
+                "hard": 42
               },
               "id": "all-technology-computing-systems",
               "minScore": 20,
@@ -1761,8 +1761,8 @@
             {
               "difficultyCounts": {
                 "easy": 3,
-                "normal": 5,
-                "hard": 10
+                "normal": 6,
+                "hard": 11
               },
               "id": "all-technology-computing-browsers",
               "minScore": 20,
@@ -1818,9 +1818,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 43,
+            "easy": 44,
             "normal": 52,
-            "hard": 58
+            "hard": 59
           },
           "id": "all-technology-video-games",
           "minScore": 10,
@@ -1831,9 +1831,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 42,
+            "easy": 41,
             "normal": 53,
-            "hard": 66
+            "hard": 69
           },
           "id": "all-technology-websites",
           "minScore": 0,
@@ -1844,8 +1844,8 @@
         },
         {
           "difficultyCounts": {
-            "easy": 13,
-            "normal": 23,
+            "easy": 14,
+            "normal": 22,
             "hard": 30
           },
           "id": "all-technology-mobile-apps",
@@ -1859,9 +1859,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 110,
-        "normal": 133,
-        "hard": 169
+        "easy": 111,
+        "normal": 132,
+        "hard": 168
       },
       "id": "all-engineering",
       "minScore": 1000,
@@ -1886,7 +1886,7 @@
         {
           "difficultyCounts": {
             "easy": 83,
-            "normal": 99,
+            "normal": 100,
             "hard": 114
           },
           "id": "all-engineering-aeroplanes",
@@ -1911,9 +1911,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 64,
-            "normal": 94,
-            "hard": 119
+            "easy": 65,
+            "normal": 95,
+            "hard": 120
           },
           "id": "all-engineering-weapons",
           "minScore": 5,
@@ -1924,8 +1924,8 @@
         },
         {
           "difficultyCounts": {
-            "easy": 7,
-            "normal": 15,
+            "easy": 8,
+            "normal": 17,
             "hard": 55
           },
           "id": "all-engineering-space",
@@ -1978,9 +1978,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 2,
-            "normal": 4,
-            "hard": 6
+            "easy": 1,
+            "normal": 2,
+            "hard": 4
           },
           "id": "all-engineering-imaging",
           "minScore": 10,
@@ -2008,9 +2008,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 69,
-        "normal": 208,
-        "hard": 727
+        "easy": 66,
+        "normal": 202,
+        "hard": 730
       },
       "id": "all-architecture",
       "minScore": 1000,
@@ -2021,9 +2021,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 17,
-            "normal": 35,
-            "hard": 78
+            "easy": 15,
+            "normal": 33,
+            "hard": 77
           },
           "id": "all-architecture-ancient",
           "minScore": 10,
@@ -2034,9 +2034,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 17,
-            "normal": 56,
-            "hard": 258
+            "easy": 16,
+            "normal": 54,
+            "hard": 260
           },
           "id": "all-architecture-medieval",
           "minScore": 10,
@@ -2061,8 +2061,8 @@
         {
           "difficultyCounts": {
             "easy": 28,
-            "normal": 83,
-            "hard": 201
+            "normal": 81,
+            "hard": 203
           },
           "id": "all-architecture-modern",
           "minScore": 10,
@@ -2075,9 +2075,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 67,
-        "normal": 101,
-        "hard": 144
+        "easy": 69,
+        "normal": 102,
+        "hard": 145
       },
       "id": "all-sport",
       "minScore": 1000,
@@ -2088,9 +2088,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 51,
-            "normal": 76,
-            "hard": 118
+            "easy": 50,
+            "normal": 75,
+            "hard": 117
           },
           "id": "all-sport-teams",
           "minScore": 10,
@@ -2101,9 +2101,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 20,
-            "normal": 41,
-            "hard": 85
+            "easy": 23,
+            "normal": 44,
+            "hard": 86
           },
           "id": "all-sport-stadiums",
           "minScore": 40,
@@ -2116,8 +2116,8 @@
     },
     {
       "difficultyCounts": {
-        "easy": 88,
-        "normal": 144,
+        "easy": 86,
+        "normal": 141,
         "hard": 198
       },
       "id": "all-business",
@@ -2129,9 +2129,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 55,
-            "normal": 89,
-            "hard": 129
+            "easy": 54,
+            "normal": 85,
+            "hard": 123
           },
           "id": "all-business-companies",
           "minScore": 30,
@@ -2143,8 +2143,8 @@
         {
           "difficultyCounts": {
             "easy": 37,
-            "normal": 83,
-            "hard": 148
+            "normal": 84,
+            "hard": 152
           },
           "id": "all-business-food-drink",
           "minScore": 5,
@@ -2157,7 +2157,7 @@
           "difficultyCounts": {
             "easy": 29,
             "normal": 61,
-            "hard": 129
+            "hard": 128
           },
           "id": "all-business-media",
           "minScore": 0,

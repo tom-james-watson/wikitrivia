@@ -37,7 +37,7 @@
     "positionLabel": "King of Wessex",
     "sexLabel": "male",
     "year": "642",
-    "sitelinks": "45"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q272157",
@@ -96,6 +96,22 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q503057",
+    "itemLabel": "Cynegils",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "year": "611",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q514878",
+    "itemLabel": "Ceolwulf",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "year": "597",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q465515",
     "itemLabel": "Cynewulf",
     "positionLabel": "King of Wessex",
@@ -104,11 +120,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q514878",
-    "itemLabel": "Ceolwulf",
+    "item": "http://www.wikidata.org/entity/Q545437",
+    "itemLabel": "Ceol of Wessex",
     "positionLabel": "King of Wessex",
     "sexLabel": "male",
-    "year": "597",
+    "year": "592",
     "sitelinks": "27"
   },
   {
@@ -120,27 +136,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q503057",
-    "itemLabel": "Cynegils",
-    "positionLabel": "King of Wessex",
-    "sexLabel": "male",
-    "year": "611",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q545062",
     "itemLabel": "Cædwalla of Wessex",
     "positionLabel": "King of Wessex",
     "sexLabel": "male",
     "year": "685",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q545437",
-    "itemLabel": "Ceol of Wessex",
-    "positionLabel": "King of Wessex",
-    "sexLabel": "male",
-    "year": "592",
     "sitelinks": "26"
   },
   {
@@ -152,19 +152,19 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q465506",
-    "itemLabel": "Cuthred",
-    "positionLabel": "King of Wessex",
-    "sexLabel": "male",
-    "year": "740",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3476862",
     "itemLabel": "Seaxburh of Wessex",
     "positionLabel": "King of Wessex",
     "sexLabel": "female",
     "year": "672",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q465506",
+    "itemLabel": "Cuthred",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "year": "740",
     "sitelinks": "24"
   },
   {

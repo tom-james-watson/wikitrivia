@@ -28,7 +28,7 @@
     "itemLabel": "Baa, Baa, Black Sheep",
     "year": "1744",
     "lyricistLabel": "",
-    "composerLabel": "James Hook",
+    "composerLabel": "Samuel Arnold",
     "sitelinks": "22"
   },
   {
@@ -37,7 +37,7 @@
     "year": "1830",
     "lyricistLabel": "",
     "composerLabel": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3543405",
@@ -64,14 +64,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2956145",
-    "itemLabel": "Chanson de l'Oignon",
-    "year": "1850",
-    "lyricistLabel": "",
-    "composerLabel": "",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q6115950",
     "itemLabel": "Jack and Jill",
     "year": "1765",
@@ -80,10 +72,26 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2956145",
+    "itemLabel": "Chanson de l'Oignon",
+    "year": "1850",
+    "lyricistLabel": "",
+    "composerLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4051390",
+    "itemLabel": "There was an Old Woman Who Lived in a Shoe",
+    "year": "1784",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1366516",
     "itemLabel": "Es tanzt ein Bi-Ba-Butzemann",
     "year": "1808",
-    "lyricistLabel": "Ludwig Achim von Arnim",
+    "lyricistLabel": "Jacob Grimm",
     "composerLabel": "",
     "sitelinks": "8"
   },
@@ -104,12 +112,28 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4051390",
-    "itemLabel": "There was an Old Woman Who Lived in a Shoe",
-    "year": "1784",
+    "item": "http://www.wikidata.org/entity/Q3135083",
+    "itemLabel": "Hey Diddle Diddle",
+    "year": "1772",
     "lyricistLabel": "",
     "composerLabel": "Samuel Arnold",
-    "sitelinks": "8"
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3278172",
+    "itemLabel": "Sing a Song of Sixpence",
+    "year": "1744",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6650491",
+    "itemLabel": "Little Jack Horner",
+    "year": "1772",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4019610",
@@ -125,30 +149,6 @@
     "year": "1805",
     "lyricistLabel": "",
     "composerLabel": "",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3135083",
-    "itemLabel": "Hey Diddle Diddle",
-    "year": "1772",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3278172",
-    "itemLabel": "Sing a Song of Sixpence",
-    "year": "1744",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6650491",
-    "itemLabel": "Little Jack Horner",
-    "year": "1772",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
     "sitelinks": "7"
   },
   {
@@ -184,6 +184,46 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q862441",
+    "itemLabel": "Tre pepparkaksgubbar",
+    "year": "1913",
+    "lyricistLabel": "Astrid Gullstrand",
+    "composerLabel": "Alice Tegnér",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6652297",
+    "itemLabel": "Little Tommy Tucker",
+    "year": "1744",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7354162",
+    "itemLabel": "Rock-a-bye Baby",
+    "year": "1772",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7674971",
+    "itemLabel": "Taffy was a Welshman",
+    "year": "1780",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11635265",
+    "itemLabel": "Akatombo",
+    "year": "1934",
+    "lyricistLabel": "Rofū Miki",
+    "composerLabel": "Kōsaku Yamada",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5278123",
     "itemLabel": "Ding Dong Bell",
     "year": "1600",
@@ -216,44 +256,52 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6652297",
-    "itemLabel": "Little Tommy Tucker",
-    "year": "1744",
+    "item": "http://www.wikidata.org/entity/Q7084562",
+    "itemLabel": "Old Mother Hubbard",
+    "year": "1790",
     "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "5"
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7354162",
-    "itemLabel": "Rock-a-bye Baby",
+    "item": "http://www.wikidata.org/entity/Q7176398",
+    "itemLabel": "Peter Piper",
+    "year": "1790",
+    "lyricistLabel": "",
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "4"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7445520",
+    "itemLabel": "See Saw Margery Daw",
     "year": "1772",
     "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "5"
+    "composerLabel": "Samuel Arnold",
+    "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7674971",
-    "itemLabel": "Taffy was a Welshman",
+    "item": "http://www.wikidata.org/entity/Q5584150",
+    "itemLabel": "Goosey Goosey Gander",
     "year": "1780",
     "lyricistLabel": "",
     "composerLabel": "James Hook",
-    "sitelinks": "5"
+    "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11635265",
-    "itemLabel": "Akatombo",
-    "year": "1934",
-    "lyricistLabel": "Rofū Miki",
-    "composerLabel": "Kōsaku Yamada",
-    "sitelinks": "5"
+    "item": "http://www.wikidata.org/entity/Q4700162",
+    "itemLabel": "Akai Kutsu",
+    "year": "1922",
+    "lyricistLabel": "Ujō Noguchi",
+    "composerLabel": "Nagayo Motoori",
+    "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q862441",
-    "itemLabel": "Tre pepparkaksgubbar",
-    "year": "1913",
-    "lyricistLabel": "Astrid Gullstrand",
-    "composerLabel": "Alice Tegnér",
-    "sitelinks": "5"
+    "item": "http://www.wikidata.org/entity/Q1782748",
+    "itemLabel": "Musevisa",
+    "year": "1946",
+    "lyricistLabel": "Alf Prøysen",
+    "composerLabel": "DP",
+    "sitelinks": "4"
   },
   {
     "item": "http://www.wikidata.org/entity/Q961085",
@@ -304,52 +352,20 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5584150",
-    "itemLabel": "Goosey Goosey Gander",
-    "year": "1780",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7445520",
-    "itemLabel": "See Saw Margery Daw",
-    "year": "1772",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7084562",
-    "itemLabel": "Old Mother Hubbard",
-    "year": "1790",
+    "item": "http://www.wikidata.org/entity/Q6649245",
+    "itemLabel": "Little Boy Blue",
+    "year": "1760",
     "lyricistLabel": "",
     "composerLabel": "Samuel Arnold",
-    "sitelinks": "4"
+    "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7176398",
-    "itemLabel": "Peter Piper",
-    "year": "1790",
+    "item": "http://www.wikidata.org/entity/Q56292351",
+    "itemLabel": "There Was a Man in Our Town",
+    "year": "1729",
     "lyricistLabel": "",
     "composerLabel": "Samuel Arnold",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4700162",
-    "itemLabel": "Akai Kutsu",
-    "year": "1922",
-    "lyricistLabel": "Ujō Noguchi",
-    "composerLabel": "Nagayo Motoori",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1782748",
-    "itemLabel": "Musevisa",
-    "year": "1946",
-    "lyricistLabel": "Alf Prøysen",
-    "composerLabel": "DP",
-    "sitelinks": "4"
+    "sitelinks": "3"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7814710",
@@ -376,20 +392,36 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6649245",
-    "itemLabel": "Little Boy Blue",
-    "year": "1760",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q56292351",
-    "itemLabel": "There Was a Man in Our Town",
-    "year": "1729",
+    "item": "http://www.wikidata.org/entity/Q6115303",
+    "itemLabel": "Jack Sprat",
+    "year": "1639",
     "lyricistLabel": "",
     "composerLabel": "Samuel Arnold",
-    "sitelinks": "3"
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7375754",
+    "itemLabel": "Rub-a-dub-dub",
+    "year": "1797",
+    "lyricistLabel": "",
+    "composerLabel": "James Hook",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11352743",
+    "itemLabel": "January 1st",
+    "year": "1893",
+    "lyricistLabel": "Senge Takatomi",
+    "composerLabel": "Ue Sanemichi",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q99438833",
+    "itemLabel": "Three children sliding on the ice",
+    "year": "1713",
+    "lyricistLabel": "",
+    "composerLabel": "James Hook",
+    "sitelinks": "2"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7176357",
@@ -437,30 +469,6 @@
     "year": "1904",
     "lyricistLabel": "",
     "composerLabel": "",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q99438833",
-    "itemLabel": "Three children sliding on the ice",
-    "year": "1713",
-    "lyricistLabel": "",
-    "composerLabel": "James Hook",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6115303",
-    "itemLabel": "Jack Sprat",
-    "year": "1639",
-    "lyricistLabel": "",
-    "composerLabel": "Samuel Arnold",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11352743",
-    "itemLabel": "January 1st",
-    "year": "1893",
-    "lyricistLabel": "Senge Takatomi",
-    "composerLabel": "Ue Sanemichi",
     "sitelinks": "2"
   }
 ]

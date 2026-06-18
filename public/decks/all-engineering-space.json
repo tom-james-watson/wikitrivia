@@ -1,5 +1,15 @@
 [
   {
+    "qid": "Q16947045",
+    "title": "Artemis II launches",
+    "subtitle": "Mission by National Aeronautics and Space Administration",
+    "year": 2026,
+    "fact": "Artemis II was a crewed flyby of the Moon.",
+    "wikipediaSlug": "Artemis_II",
+    "image": "Earthset_(art002e009288).jpg",
+    "pageViews": 203876
+  },
+  {
     "qid": "Q43653",
     "title": "Apollo 11 launches",
     "subtitle": "Mission by National Aeronautics and Space Administration",
@@ -100,6 +110,16 @@
     "pageViews": 22441
   },
   {
+    "qid": "Q136850111",
+    "title": "Shenzhou 23 launches",
+    "subtitle": "Space mission",
+    "year": 2026,
+    "fact": "Shenzhou 23 is an ongoing Chinese spaceflight to transport three taikonauts on a Shenzhou spacecraft to and from the Tiangong space station.",
+    "wikipediaSlug": "Shenzhou_23",
+    "image": "Shenzhou_23_rollout_04.png",
+    "pageViews": 22392
+  },
+  {
     "qid": "Q165585",
     "title": "Cassini−Huygens launches",
     "subtitle": "Space mission",
@@ -182,7 +202,7 @@
   {
     "qid": "Q47482008",
     "title": "Double Asteroid Redirection Test launches",
-    "subtitle": "Mission by Johns Hopkins University Applied Physics Laboratory",
+    "subtitle": "Mission by The Johns Hopkins University Applied Physics Laboratory LLC",
     "year": 2021,
     "fact": "The Double Asteroid Redirection Test (DART) was a NASA space mission to test a method of planetary defense against near-Earth objects (NEOs).",
     "wikipediaSlug": "Double_Asteroid_Redirection_Test",
@@ -203,7 +223,7 @@
     "qid": "Q498533",
     "title": "Mercury-Atlas 6 launches",
     "subtitle": "Mission by National Aeronautics and Space Administration",
-    "year": 1961,
+    "year": 1962,
     "fact": "Mercury-Atlas 6 (MA-6) was the first crewed American orbital spaceflight, which took place on February 20, 1962.",
     "wikipediaSlug": "Mercury-Atlas_6",
     "image": "Glenn62.jpg",
@@ -222,7 +242,7 @@
   {
     "qid": "Q113169",
     "title": "BepiColombo launches",
-    "subtitle": "Mission by European Space Agency",
+    "subtitle": "Mission by Japan Aerospace Exploration Agency",
     "year": 2018,
     "fact": "BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to the planet Mercury.",
     "wikipediaSlug": "BepiColombo",
@@ -292,7 +312,7 @@
   {
     "qid": "Q19266",
     "title": "Van Allen Probes launches",
-    "subtitle": "Mission by Johns Hopkins University Applied Physics Laboratory",
+    "subtitle": "Mission by The Johns Hopkins University Applied Physics Laboratory LLC",
     "year": 2012,
     "fact": "The Van Allen Probes, formerly known as the Radiation Belt Storm Probes (RBSP), are two robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth.",
     "wikipediaSlug": "Van_Allen_Probes",
@@ -348,6 +368,16 @@
     "wikipediaSlug": "Axiom_Mission_4",
     "image": "The_SpaceX_Dragon_spacecraft_carrying_Axiom_Mission_4_approaches_the_International_Space_Station_(iss073e0249606).jpg",
     "pageViews": 5887
+  },
+  {
+    "qid": "Q182008",
+    "title": "Galileo mission launches",
+    "subtitle": "Mission by Ames Research Center",
+    "year": 1989,
+    "fact": "Galileo was an American robotic space program that studied the planet Jupiter and its moons, as well as several other Solar System bodies.",
+    "wikipediaSlug": "Galileo_project",
+    "image": "Artwork_Galileo-Io-Jupiter.JPG",
+    "pageViews": 5815
   },
   {
     "qid": "Q242528",
@@ -950,16 +980,6 @@
     "pageViews": 2243
   },
   {
-    "qid": "Q126382811",
-    "title": "Starship Flight Test 7 launches",
-    "subtitle": "Mission by SpaceX",
-    "year": 2025,
-    "fact": "Starship flight test 7 was the seventh flight test of a SpaceX Starship launch vehicle.",
-    "wikipediaSlug": "Starship_flight_test_7",
-    "image": "Starship_flight_test_7_patch.png",
-    "pageViews": 2135
-  },
-  {
     "qid": "Q18932",
     "title": "Korabl-Sputnik 4 launches",
     "subtitle": "Mission by Soviet space program",
@@ -1320,16 +1340,6 @@
     "pageViews": 1530
   },
   {
-    "qid": "Q124847142",
-    "title": "Starship Flight Test 6 launches",
-    "subtitle": "Mission by SpaceX",
-    "year": 2024,
-    "fact": "Starship flight test 6 was the sixth flight test of a SpaceX Starship launch vehicle.",
-    "wikipediaSlug": "Starship_flight_test_6",
-    "image": "Iss072e220068-crop-highlights.jpg",
-    "pageViews": 1523
-  },
-  {
     "qid": "Q842278",
     "title": "STS-49 launches",
     "subtitle": "Mission by National Aeronautics and Space Administration",
@@ -1468,6 +1478,16 @@
     "wikipediaSlug": "Mars_Cube_One",
     "image": "PIA22316_MarCO_InSight.jpg",
     "pageViews": 1327
+  },
+  {
+    "qid": "Q979266",
+    "title": "Saturn-Apollo 5 launches",
+    "subtitle": "Space mission",
+    "year": 1964,
+    "fact": "Saturn-Apollo 5 (SA-5) was the first launch of the Block II Saturn I rocket and was part of the Apollo program.",
+    "wikipediaSlug": "Saturn_I_SA-5",
+    "image": "Seamans,_von_Braun_and_President_Kennedy_at_Cape_Canaveral_-_GPN-2000-001843.jpg",
+    "pageViews": 1322
   },
   {
     "qid": "Q114257376",

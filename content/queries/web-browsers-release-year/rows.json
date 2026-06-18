@@ -1,10 +1,17 @@
 [
   {
+    "item": "http://www.wikidata.org/entity/Q698",
+    "itemLabel": "Mozilla Firefox",
+    "year": "2002",
+    "developerLabel": "Mozilla Foundation",
+    "sitelinks": "159"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q777",
     "itemLabel": "Google Chrome",
     "year": "2008",
     "developerLabel": "Google",
-    "sitelinks": "124"
+    "sitelinks": "125"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1575",
@@ -12,20 +19,6 @@
     "year": "1995",
     "developerLabel": "Microsoft",
     "sitelinks": "98"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48524",
-    "itemLabel": "Chromium",
-    "year": "2008",
-    "developerLabel": "",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q22906900",
-    "itemLabel": "Brave",
-    "year": "2016",
-    "developerLabel": "Sanjeev Mishra",
-    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q235419",
@@ -49,6 +42,13 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q18913176",
+    "itemLabel": "Vivaldi",
+    "year": "2015",
+    "developerLabel": "Vivaldi Technologies",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q819079",
     "itemLabel": "Opera Mini",
     "year": "2005",
@@ -56,11 +56,11 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18913176",
-    "itemLabel": "Vivaldi",
-    "year": "2015",
-    "developerLabel": "Vivaldi Technologies",
-    "sitelinks": "40"
+    "item": "http://www.wikidata.org/entity/Q156197",
+    "itemLabel": "SeaMonkey",
+    "year": "2006",
+    "developerLabel": "SeaMonkey Council",
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1662015",
@@ -71,9 +71,9 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q30589050",
-    "itemLabel": "Samsung Internet",
+    "itemLabel": "Samsung Browser",
     "year": "2013",
-    "developerLabel": "Samsung Group",
+    "developerLabel": "Samsung Electronics",
     "sitelinks": "29"
   },
   {
