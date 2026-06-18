@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 607,
-    "normal": 971,
-    "hard": 1792
+    "easy": 603,
+    "normal": 967,
+    "hard": 1774
   },
   "id": "all",
   "minScore": 1000,
@@ -13,8 +13,8 @@
     {
       "difficultyCounts": {
         "easy": 301,
-        "normal": 518,
-        "hard": 893
+        "normal": 517,
+        "hard": 892
       },
       "id": "all-history",
       "minScore": 1000,
@@ -39,8 +39,8 @@
         {
           "difficultyCounts": {
             "easy": 21,
-            "normal": 40,
-            "hard": 82
+            "normal": 39,
+            "hard": 81
           },
           "id": "all-history-eras",
           "minScore": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 229,
-        "normal": 348,
-        "hard": 503
+        "easy": 228,
+        "normal": 346,
+        "hard": 502
       },
       "id": "all-people",
       "minScore": 1000,
@@ -1297,9 +1297,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 220,
-            "normal": 341,
-            "hard": 503
+            "easy": 219,
+            "normal": 339,
+            "hard": 502
           },
           "id": "all-people-famous-deaths",
           "minScore": 1000,
@@ -1310,9 +1310,9 @@
           "children": [
             {
               "difficultyCounts": {
-                "easy": 18,
-                "normal": 36,
-                "hard": 69
+                "easy": 17,
+                "normal": 34,
+                "hard": 68
               },
               "id": "all-people-famous-deaths-classical",
               "minScore": 21,
@@ -1652,9 +1652,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 43,
-        "normal": 100,
-        "hard": 378
+        "easy": 40,
+        "normal": 95,
+        "hard": 349
       },
       "id": "all-art",
       "minScore": 1000,
@@ -1666,8 +1666,8 @@
         {
           "difficultyCounts": {
             "easy": 27,
-            "normal": 61,
-            "hard": 226
+            "normal": 60,
+            "hard": 225
           },
           "id": "all-art-paintings",
           "minScore": 5,
@@ -1678,9 +1678,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 8,
-            "normal": 30,
-            "hard": 182
+            "easy": 5,
+            "normal": 25,
+            "hard": 148
           },
           "id": "all-art-sculptures",
           "minScore": 3,
@@ -2008,9 +2008,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 66,
-        "normal": 202,
-        "hard": 730
+        "easy": 65,
+        "normal": 201,
+        "hard": 729
       },
       "id": "all-architecture",
       "minScore": 1000,
@@ -2021,9 +2021,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 15,
-            "normal": 33,
-            "hard": 77
+            "easy": 14,
+            "normal": 32,
+            "hard": 76
           },
           "id": "all-architecture-ancient",
           "minScore": 10,
@@ -2077,7 +2077,7 @@
       "difficultyCounts": {
         "easy": 69,
         "normal": 102,
-        "hard": 145
+        "hard": 144
       },
       "id": "all-sport",
       "minScore": 1000,
@@ -2090,7 +2090,7 @@
           "difficultyCounts": {
             "easy": 50,
             "normal": 75,
-            "hard": 117
+            "hard": 116
           },
           "id": "all-sport-teams",
           "minScore": 10,
