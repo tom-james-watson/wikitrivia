@@ -1,0 +1,71 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?locationName) AS ?locationLabel) (SAMPLE(?descriptionText) AS ?description) ?sitelinks WHERE {
+  VALUES ?class {
+    wd:Q23413 # castle
+    wd:Q16560 # palace
+    wd:Q751876 # château
+    wd:Q53536964 # royal palace
+    wd:Q1343246 # English country house
+    wd:Q2087181 # historic house museum
+    wd:Q16970 # church building
+    wd:Q2977 # cathedral
+    wd:Q56242215 # Catholic cathedral
+    wd:Q120560 # minor basilica
+    wd:Q44613 # monastery
+    wd:Q160742 # abbey
+    wd:Q108325 # chapel
+    wd:Q1088552 # Catholic church building
+    wd:Q32815 # mosque
+    wd:Q57831 # fortress
+    wd:Q57821 # fortification
+    wd:Q1785071 # fort
+    wd:Q88291 # citadel
+    wd:Q3390714 # stronghold
+    wd:Q1044204 # gusuku
+    wd:Q92026 # Japanese castle
+    wd:Q11482300 # hirajiro
+    wd:Q81917 # fortified tower
+    wd:Q12518 # tower
+    wd:Q53060 # gate
+    wd:Q41176 # building
+    wd:Q856584 # library building
+    wd:Q24699794 # museum building
+    wd:Q2651004 # Palazzo
+    wd:Q15848826 # city palace
+    wd:Q16823155 # Schloss
+    wd:Q1307276 # single-family detached home
+    wd:Q1686006 # summer residence
+    wd:Q481289 # official residence
+    wd:Q1497364 # building complex
+    wd:Q1497375 # architectural ensemble
+    wd:Q12292478 # estate
+    wd:Q112132534 # military museum building
+    wd:Q112132542 # palazzo museum
+    wd:Q5003624 # memorial
+    wd:Q473094 # fast battleship
+    wd:Q575727 # museum ship
+    wd:Q130326199 # preserved watercraft
+  }
+  ?item
+    wdt:P31/wdt:P279* wd:Q33506;
+    wdt:P31 ?class;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER NOT EXISTS { ?item wdt:P1619 ?openingDate. }
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionText.
+    FILTER(LANG(?descriptionText) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P131 ?location.
+    ?location rdfs:label ?locationName.
+    FILTER(LANG(?locationName) = "en")
+  }
+  FILTER(YEAR(?date) > 1000)
+  FILTER(?sitelinks >= 30)
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

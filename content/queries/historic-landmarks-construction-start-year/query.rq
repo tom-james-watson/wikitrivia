@@ -1,0 +1,75 @@
+SELECT
+  ?item
+  ?itemLabel
+  (SAMPLE(?descriptionValue) AS ?description)
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?countryLabelValue) AS ?countryLabel)
+  ?sitelinks WHERE {
+  ?item
+    wdt:P31 ?class;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
+    rdfs:label ?itemLabel.
+  FILTER NOT EXISTS { ?item wdt:P1619 ?openingDate. }
+  OPTIONAL {
+    ?item schema:description ?descriptionValue.
+    FILTER(LANG(?descriptionValue) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P17 ?country.
+    ?country rdfs:label ?countryLabelValue.
+    FILTER(LANG(?countryLabelValue) = "en")
+  }
+  FILTER(LANG(?itemLabel) = "en")
+  VALUES ?class { # allowed classes for this pack
+    wd:Q11303 # skyscraper
+    wd:Q12518 # tower
+    wd:Q12280 # bridge
+    wd:Q839954 # archaeological site
+    wd:Q2977 # cathedral
+    wd:Q32815 # mosque
+    wd:Q44539 # temple
+    wd:Q4989906 # monument
+    wd:Q143912 # triumphal arch
+    wd:Q1930585 # victory column
+  }
+  MINUS {
+    VALUES ?foundingClass {
+      wd:Q15661340 # ancient city
+      wd:Q148837 # polis
+      wd:Q133442 # city-state
+      wd:Q486972 # human settlement
+      wd:Q515 # city
+      wd:Q532 # village
+      wd:Q1708422 # settlement site
+      wd:Q65064889 # Bronze Age settlement
+      wd:Q106491339 # Neolithic settlement
+      wd:Q7251867 # proto-city
+      wd:Q22674925 # former settlement
+      wd:Q707813 # Hanseatic city
+      wd:Q69391739 # Greek colony
+      wd:Q2202509 # Roman city
+      wd:Q106468588 # Jewish settlement in the land of Israel
+      wd:Q7830262 # township of Myanmar
+      wd:Q16124843 # municipality of Libya
+      wd:Q125366925 # village in Egypt
+      wd:Q755017 # tell
+      wd:Q3024240 # historical country
+      wd:Q3914 # school
+      wd:Q504400 # gymnasium
+    }
+    ?item wdt:P31 ?foundingClass.
+  }
+  MINUS {
+    VALUES ?establishmentClass {
+      wd:Q46169 # national park
+      wd:Q34918903 # National Park of the United States
+    }
+    ?item wdt:P31 ?establishmentClass.
+  }
+  FILTER(?sitelinks >= 40) # cut off very obscure entries
+  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+}
+GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
+ORDER BY DESC(?sitelinks) # keep the most recognisable rows first
+LIMIT 500

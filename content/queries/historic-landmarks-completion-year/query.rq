@@ -18,10 +18,7 @@ SELECT
     ?country rdfs:label ?countryLabelValue.
     FILTER(LANG(?countryLabelValue) = "en")
   }
-  OPTIONAL { ?item wdt:P1619 ?completedDate. }
-  OPTIONAL { ?item wdt:P571 ?inceptionDate. } # fallback date if there is no better one
-  BIND(COALESCE(?completedDate, ?inceptionDate) AS ?date) # take the first date that exists
-  FILTER(BOUND(?date)) # skip rows with no usable date
+  ?item wdt:P1619 ?date. # official opening date
   FILTER(LANG(?itemLabel) = "en")
   VALUES ?class { # allowed classes for this pack
     wd:Q11303 # "skyscraper"
