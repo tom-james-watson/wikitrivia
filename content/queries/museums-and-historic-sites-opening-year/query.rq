@@ -13,17 +13,7 @@ SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?locationName) AS ?lo
     ?location rdfs:label ?locationName.
     FILTER(LANG(?locationName) = "en")
   }
-  OPTIONAL {
-    ?item wdt:P571 ?inception.
-  }
-  OPTIONAL {
-    ?item wdt:P1619 ?openingDate.
-  }
-  OPTIONAL {
-    ?item wdt:P580 ?startTime.
-  }
-  BIND(COALESCE(?openingDate, ?startTime, ?inception) AS ?date) # take the first date that exists
-  FILTER(BOUND(?date)) # skip rows with no usable date
+  ?item wdt:P1619 ?date. # official opening date
   FILTER(YEAR(?date) > 1000)
   FILTER(?sitelinks >= 30) # cut off very obscure entries
   BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year

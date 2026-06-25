@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 603,
-    "normal": 967,
-    "hard": 1774
+    "easy": 606,
+    "normal": 971,
+    "hard": 1777
   },
   "id": "all",
   "minScore": 1000,
@@ -2008,8 +2008,8 @@
     },
     {
       "difficultyCounts": {
-        "easy": 65,
-        "normal": 201,
+        "easy": 69,
+        "normal": 207,
         "hard": 729
       },
       "id": "all-architecture",
@@ -2021,9 +2021,9 @@
       "children": [
         {
           "difficultyCounts": {
-            "easy": 14,
-            "normal": 32,
-            "hard": 76
+            "easy": 17,
+            "normal": 35,
+            "hard": 78
           },
           "id": "all-architecture-ancient",
           "minScore": 10,
@@ -2034,9 +2034,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 16,
-            "normal": 54,
-            "hard": 260
+            "easy": 17,
+            "normal": 56,
+            "hard": 258
           },
           "id": "all-architecture-medieval",
           "minScore": 10,
@@ -2061,7 +2061,7 @@
         {
           "difficultyCounts": {
             "easy": 28,
-            "normal": 81,
+            "normal": 82,
             "hard": 203
           },
           "id": "all-architecture-modern",

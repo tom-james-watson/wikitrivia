@@ -39,10 +39,7 @@ SELECT
     ?country rdfs:label ?countryLabelValue.
     FILTER(LANG(?countryLabelValue) = "en")
   }
-  OPTIONAL { ?item wdt:P1619 ?completedDate. }
-  OPTIONAL { ?item wdt:P571 ?inceptionDate. }
-  BIND(COALESCE(?completedDate, ?inceptionDate) AS ?date)
-  FILTER(BOUND(?date))
+  ?item wdt:P1619 ?date.
   BIND(YEAR(?date) AS ?yearValue)
   FILTER(?sitelinks >= 20)
   FILTER(?yearValue >= -3000)

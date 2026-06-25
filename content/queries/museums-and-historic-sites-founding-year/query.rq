@@ -1,0 +1,83 @@
+SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) (SAMPLE(?locationName) AS ?locationLabel) (SAMPLE(?descriptionText) AS ?description) ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q33506;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER NOT EXISTS { ?item wdt:P1619 ?openingDate. }
+  MINUS {
+    VALUES ?constructionClass {
+      wd:Q23413
+      wd:Q16560
+      wd:Q751876
+      wd:Q53536964
+      wd:Q1343246
+      wd:Q2087181
+      wd:Q16970
+      wd:Q2977
+      wd:Q56242215
+      wd:Q120560
+      wd:Q44613
+      wd:Q160742
+      wd:Q108325
+      wd:Q1088552
+      wd:Q32815
+      wd:Q57831
+      wd:Q57821
+      wd:Q1785071
+      wd:Q88291
+      wd:Q3390714
+      wd:Q1044204
+      wd:Q92026
+      wd:Q11482300
+      wd:Q81917
+      wd:Q12518
+      wd:Q53060
+      wd:Q41176
+      wd:Q856584
+      wd:Q24699794
+      wd:Q2651004
+      wd:Q15848826
+      wd:Q16823155
+      wd:Q1307276
+      wd:Q1686006
+      wd:Q481289
+      wd:Q1497364
+      wd:Q1497375
+      wd:Q12292478
+      wd:Q112132534
+      wd:Q112132542
+      wd:Q5003624
+      wd:Q473094
+      wd:Q575727
+      wd:Q130326199
+    }
+    ?item wdt:P31 ?constructionClass.
+  }
+  MINUS {
+    VALUES ?establishmentClass {
+      wd:Q152081 # concentration camp
+      wd:Q328468 # Nazi concentration camp
+      wd:Q40357 # prison
+      wd:Q188443 # micronation
+      wd:Q1959314 # protected area of Russia
+    }
+    ?item wdt:P31 ?establishmentClass.
+  }
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionText.
+    FILTER(LANG(?descriptionText) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P131 ?location.
+    ?location rdfs:label ?locationName.
+    FILTER(LANG(?locationName) = "en")
+  }
+  FILTER(YEAR(?date) > 1000)
+  FILTER(?sitelinks >= 30)
+  BIND(YEAR(?date) AS ?yearValue)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

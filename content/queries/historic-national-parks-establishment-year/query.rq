@@ -1,0 +1,38 @@
+SELECT
+  ?item
+  ?itemLabel
+  (SAMPLE(?descriptionValue) AS ?description)
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?countryLabelValue) AS ?countryLabel)
+  ?sitelinks WHERE {
+  VALUES ?parkClass {
+    wd:Q46169 # national park
+    wd:Q34918903 # National Park of the United States
+  }
+  VALUES ?historicClass {
+    wd:Q839954 # archaeological site
+    wd:Q1497375 # architectural ensemble
+  }
+  ?item
+    wdt:P31 ?parkClass;
+    wdt:P31 ?historicClass;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER NOT EXISTS { ?item wdt:P1619 ?openingDate. }
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionValue.
+    FILTER(LANG(?descriptionValue) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P17 ?country.
+    ?country rdfs:label ?countryLabelValue.
+    FILTER(LANG(?countryLabelValue) = "en")
+  }
+  BIND(YEAR(?date) AS ?yearValue)
+  FILTER(?sitelinks >= 40)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 500

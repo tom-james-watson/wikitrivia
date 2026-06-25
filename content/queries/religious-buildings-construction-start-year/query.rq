@@ -1,0 +1,37 @@
+SELECT
+  ?item
+  ?itemLabel
+  (SAMPLE(?descriptionValue) AS ?description)
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?countryLabelValue) AS ?countryLabel)
+  ?sitelinks WHERE {
+  VALUES ?class {
+    wd:Q2977 # cathedral
+    wd:Q16970 # church building
+    wd:Q32815 # mosque
+    wd:Q44539 # temple
+    wd:Q34627 # synagogue
+  }
+  ?item
+    wdt:P31 ?class;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER NOT EXISTS { ?item wdt:P1619 ?openingDate. }
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionValue.
+    FILTER(LANG(?descriptionValue) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P17 ?country.
+    ?country rdfs:label ?countryLabelValue.
+    FILTER(LANG(?countryLabelValue) = "en")
+  }
+  BIND(YEAR(?date) AS ?yearValue)
+  FILTER(?sitelinks >= 15)
+  FILTER(?yearValue >= -3000)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 1000

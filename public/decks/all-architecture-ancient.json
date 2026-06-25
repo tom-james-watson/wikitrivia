@@ -11,7 +11,7 @@
   },
   {
     "qid": "Q39671",
-    "title": "Stonehenge is completed",
+    "title": "Stonehenge is built",
     "subtitle": "Neolithic henge monument in Amesbury, Wiltshire, England, UK",
     "year": -3000,
     "fact": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury.",
@@ -20,8 +20,18 @@
     "pageViews": 115566
   },
   {
+    "qid": "Q214944",
+    "title": "Göbekli Tepe is founded",
+    "subtitle": "Neolithic archaeological site in Turkey",
+    "year": -9999,
+    "fact": "Göbekli Tepe is a Neolithic archaeological site in Upper Mesopotamia (al-Jazira) in modern-day Turkey.",
+    "wikipediaSlug": "G%C3%B6bekli_Tepe",
+    "image": "Göbekli_Tepe,_Urfa.jpg",
+    "pageViews": 103950
+  },
+  {
     "qid": "Q43332",
-    "title": "Pompeii is completed",
+    "title": "Pompeii is founded",
     "subtitle": "Ancient Roman city near modern Naples, Italy",
     "year": -600,
     "fact": "Pompeii was a city in what is now the municipality of Pompei, near Naples, in the Campania region of Italy.",
@@ -31,7 +41,7 @@
   },
   {
     "qid": "Q47672",
-    "title": "Terracotta Army is completed",
+    "title": "Terracotta Army is built",
     "subtitle": "Collection of ancient Chinese military statues",
     "year": -247,
     "fact": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China.",
@@ -41,7 +51,7 @@
   },
   {
     "qid": "Q5788",
-    "title": "Petra is completed",
+    "title": "Petra is founded",
     "subtitle": "Ancient rock-cut historical city in Jordan",
     "year": -799,
     "fact": "Petra, originally known to its inhabitants as Raqmu, is an ancient city and archaeological site in southern Jordan.",
@@ -50,8 +60,18 @@
     "pageViews": 96465
   },
   {
+    "qid": "Q129072",
+    "title": "Persepolis is founded",
+    "subtitle": "Ceremonial capital of the Achaemenid Empire, Iranian national heritage site",
+    "year": -510,
+    "fact": "Persepolis was the ceremonial capital of the Achaemenid Empire.",
+    "wikipediaSlug": "Persepolis",
+    "image": "Gate_of_All_Nations,_Persepolis.jpg",
+    "pageViews": 83742
+  },
+  {
     "qid": "Q134821",
-    "title": "Western Wall is completed",
+    "title": "Western Wall is built",
     "subtitle": "Holy site of Judaism in Jerusalem",
     "year": -18,
     "fact": "The Western Wall is an ancient retaining wall of the built-up hill known to Jews and Christians as the Temple Mount of Jerusalem.",
@@ -61,7 +81,7 @@
   },
   {
     "qid": "Q5859",
-    "title": "Chichen Itza is completed",
+    "title": "Chichen Itza is founded",
     "subtitle": "Pre-Columbian Maya city in Mexico",
     "year": 455,
     "fact": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period.",
@@ -71,7 +91,7 @@
   },
   {
     "qid": "Q130958",
-    "title": "The Great Sphinx is completed",
+    "title": "The Great Sphinx is built",
     "subtitle": "Ancient Egyptian monumental sculpture",
     "year": -2559,
     "fact": "The Great Sphinx of Giza is a limestone statue of a reclining sphinx, a mythical creature with the head of a human and the body of a lion.",
@@ -81,7 +101,7 @@
   },
   {
     "qid": "Q5699",
-    "title": "Ur is completed",
+    "title": "Ur is founded",
     "subtitle": "Ancient Mesopotamian city-state",
     "year": -3799,
     "fact": "Ur was a major Sumerian city-state in ancient Mesopotamia, located at the site of modern Tell el-Muqayyar in Dhi Qar Governorate, Iraq.",
@@ -91,7 +111,7 @@
   },
   {
     "qid": "Q43018",
-    "title": "Temple of Ephesian Artemis is completed",
+    "title": "Temple of Ephesian Artemis is built",
     "subtitle": "Temple in Ephesus, one of the Seven Wonders of the Ancient World",
     "year": -322,
     "fact": "The Temple of Artemis or Artemision, also known as the Temple of Diana, was a Greek temple dedicated to a localised form of the goddess Artemis.",
@@ -101,7 +121,7 @@
   },
   {
     "qid": "Q208379",
-    "title": "Tel Megiddo is completed",
+    "title": "Tel Megiddo is founded",
     "subtitle": "Site of an ancient city in northern Israel's Jezreel valley",
     "year": -6999,
     "fact": "Tel Megiddo, is the site of the ancient city of Megiddo, the remains of which form a tell or archaeological mound, situated in northern Israel at the western edge of the Jezreel Valley.",
@@ -111,7 +131,7 @@
   },
   {
     "qid": "Q2620036",
-    "title": "Nazca Lines is completed",
+    "title": "Nazca Lines is built",
     "subtitle": "Large geoglyphs made in the soil of the Nazca Desert in Peru",
     "year": -199,
     "fact": "The Nazca lines are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru.",
@@ -121,7 +141,7 @@
   },
   {
     "qid": "Q180773",
-    "title": "Susa is completed",
+    "title": "Susa is founded",
     "subtitle": "Ancient city in Iran, World Heritage site in Iran",
     "year": -4394,
     "fact": "Susa was an ancient city in the lower Zagros Mountains about 250 km (160 mi) east of the Tigris, between the Karkheh and Dez Rivers in Iran.",
@@ -131,7 +151,7 @@
   },
   {
     "qid": "Q192541",
-    "title": "Ctesiphon is completed",
+    "title": "Ctesiphon is founded",
     "subtitle": "Capital of the Iranian empire in the Parthian and Sasanian eras in present Iraq",
     "year": -120,
     "fact": "Ctesiphon was an ancient city in modern Iraq, on the eastern bank of the Tigris, about 35 kilometres (22 mi) southeast of Baghdad.",
@@ -140,8 +160,18 @@
     "pageViews": 29252
   },
   {
+    "qid": "Q192522",
+    "title": "Çatalhöyük is founded",
+    "subtitle": "Archaeological site in Konya Province, Turkey",
+    "year": -7499,
+    "fact": "Çatalhöyük is a tell of a very large Neolithic and Chalcolithic proto-city settlement in southern Anatolia, which existed from approximately 7500 BC to 5600 BC and flourished around 7000 BC.",
+    "wikipediaSlug": "%C3%87atalh%C3%B6y%C3%BCk",
+    "image": "Çatalhöyük,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg",
+    "pageViews": 26114
+  },
+  {
     "qid": "Q180212",
-    "title": "Roman Forum is completed",
+    "title": "Roman Forum is built",
     "subtitle": "Ancient Roman center of the city, a landmark of Rome, Italy",
     "year": -800,
     "fact": "The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings at the centre of the city of Rome.",
@@ -151,7 +181,7 @@
   },
   {
     "qid": "Q134140",
-    "title": "Abu Simbel is completed",
+    "title": "Abu Simbel is built",
     "subtitle": "UNESCO World Heritage Site in southern Egypt",
     "year": -1273,
     "fact": "Abu Simbel is a historic site comprising two massive rock-cut temples in the village of Abu Simbel, Aswan Governorate, Upper Egypt, near the border with Sudan.",
@@ -161,7 +191,7 @@
   },
   {
     "qid": "Q207808",
-    "title": "Circus Maximus is completed",
+    "title": "Circus Maximus is built",
     "subtitle": "Ancient Roman circus in Rome",
     "year": -550,
     "fact": "The Circus Maximus is an ancient Roman chariot-racing stadium and mass entertainment venue in Rome, Italy.",
@@ -171,7 +201,7 @@
   },
   {
     "qid": "Q101583",
-    "title": "Thebes is completed",
+    "title": "Thebes is founded",
     "subtitle": "Ancient Egyptian city",
     "year": -3199,
     "fact": "Thebes, known to the ancient Egyptians as Waset, was an ancient Egyptian city located along the Nile about 800 kilometers (500 mi) south of the Mediterranean.",
@@ -181,7 +211,7 @@
   },
   {
     "qid": "Q192418",
-    "title": "Pyramid of Djoser is completed",
+    "title": "Pyramid of Djoser is built",
     "subtitle": "Archeological site in Egypt",
     "year": -2639,
     "fact": "The Pyramid of Djoser, sometimes called the Step Pyramid of Djoser or Step Pyramid of Horus Netjerikhet, is an archaeological site in the Saqqara necropolis, Egypt, northwest of the ruins of Memphis.",
@@ -191,7 +221,7 @@
   },
   {
     "qid": "Q522862",
-    "title": "Karnak Temple Complex is completed",
+    "title": "Karnak Temple Complex is built",
     "subtitle": "Ancient Egyptian temple complex",
     "year": -1899,
     "fact": "The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt.",
@@ -201,7 +231,7 @@
   },
   {
     "qid": "Q723887",
-    "title": "Arch of Titus is completed",
+    "title": "Arch of Titus is built",
     "subtitle": "Triumphal arch in Rome",
     "year": 82,
     "fact": "The Arch of Titus is a 1st-century AD honorific arch, located on the Via Sacra, Rome, just to the south-east of the Roman Forum.",
@@ -211,7 +241,7 @@
   },
   {
     "qid": "Q816437",
-    "title": "Skara Brae is completed",
+    "title": "Skara Brae is founded",
     "subtitle": "Neolithic archaeological site in Scotland",
     "year": -3179,
     "fact": "Skara Brae is a stone-built Neolithic settlement, located on the Bay of Skaill in the parish of Sandwick, on the west coast of Mainland, the largest island in the Orkney archipelago of Scotland.",
@@ -221,7 +251,7 @@
   },
   {
     "qid": "Q44112",
-    "title": "Cyrene is completed",
+    "title": "Cyrene is founded",
     "subtitle": "Ancient Greek and Roman city near present-day Shahhat, Libya",
     "year": -629,
     "fact": "Cyrene, also sometimes anglicized as Kyrene, was an ancient Greek colony and Roman city near present-day Shahhat in northeastern Libya in North Africa.",
@@ -231,7 +261,7 @@
   },
   {
     "qid": "Q59174",
-    "title": "Capernaum is completed",
+    "title": "Capernaum is founded",
     "subtitle": "Village at Lake Tiberias in the north of historical Judea, associated with Jesus",
     "year": -200,
     "fact": "Capernaum was a fishing village established during the time of the Hasmoneans, located on the northern shore of the Sea of Galilee.",
@@ -241,7 +271,7 @@
   },
   {
     "qid": "Q192784",
-    "title": "Trajan's Column is completed",
+    "title": "Trajan's Column is built",
     "subtitle": "Ancient Roman victory column, a landmark of Rome, Italy",
     "year": 113,
     "fact": "Trajan's Column is a Roman triumphal column in Rome, Italy, that commemorates Roman emperor Trajan's victory in the Dacian Wars.",
@@ -251,7 +281,7 @@
   },
   {
     "qid": "Q770847",
-    "title": "Mausoleum of Augustus is completed",
+    "title": "Mausoleum of Augustus is built",
     "subtitle": "Building in Campo Marzio, Italy",
     "year": -27,
     "fact": "The Mausoleum of Augustus is a large tomb built by the Roman Emperor Augustus in 28 BC on the Campus Martius in Rome, Italy.",
@@ -271,7 +301,7 @@
   },
   {
     "qid": "Q169460",
-    "title": "Miletus is completed",
+    "title": "Miletus is founded",
     "subtitle": "Ancient city of Ionia, in modern-day Turkey",
     "year": -1100,
     "fact": "Miletus was an influential ancient Greek city on the western coast of Anatolia, near the mouth of the Maeander River in present day Turkey.",
@@ -281,7 +311,7 @@
   },
   {
     "qid": "Q242148",
-    "title": "Mehrgarh is completed",
+    "title": "Mehrgarh is built",
     "subtitle": "Neolithic archaeological site in Balochistan, Pakistan",
     "year": -6999,
     "fact": "Mehrgarh is a Neolithic archaeological site situated on the Kacchi Plain of Balochistan in Pakistan.",
@@ -291,7 +321,7 @@
   },
   {
     "qid": "Q1012797",
-    "title": "Ostia is completed",
+    "title": "Ostia is founded",
     "subtitle": "Ancient Roman city and colony",
     "year": -700,
     "fact": "Ostia Antica is the modern name given to the ancient Roman city of Ostia.",
@@ -301,7 +331,7 @@
   },
   {
     "qid": "Q502098",
-    "title": "Baths of Caracalla is completed",
+    "title": "Baths of Caracalla is built",
     "subtitle": "Public baths in ancient Rome",
     "year": 216,
     "fact": "The Baths of Caracalla in Rome, Italy, were the city's second largest Roman public baths, or thermae, after the Baths of Diocletian.",
@@ -311,7 +341,7 @@
   },
   {
     "qid": "Q622438",
-    "title": "Domus Aurea is completed",
+    "title": "Domus Aurea is built",
     "subtitle": "Domus, palace of Roman emperor Nero, \"Golden house\"",
     "year": 64,
     "fact": "The Domus Aurea was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city.",
@@ -321,7 +351,7 @@
   },
   {
     "qid": "Q1190403",
-    "title": "Edessa is completed",
+    "title": "Edessa is founded",
     "subtitle": "Ancient city in upper Mesopotamia, modern day Urfa, Southeast Turkey",
     "year": -301,
     "fact": "Edessa was an ancient city (polis) in Upper Mesopotamia, in what is now Urfa or Şanlıurfa, Turkey.",
@@ -331,7 +361,7 @@
   },
   {
     "qid": "Q753383",
-    "title": "Megalithic Temples of Malta is completed",
+    "title": "Megalithic Temples of Malta is built",
     "subtitle": "Several prehistoric temples on the Maltese Islands",
     "year": -3599,
     "fact": "The Megalithic Temples of Malta are several prehistoric temples, some of which are UNESCO World Heritage Sites, built during three distinct periods approximately between 3600 BC and 2500 BC on the island country of Malta.",
@@ -341,7 +371,7 @@
   },
   {
     "qid": "Q242741",
-    "title": "Erechtheion is completed",
+    "title": "Erechtheion is built",
     "subtitle": "Ancient Greek temple on the north side of the Acropolis of Athens",
     "year": -500,
     "fact": "The Erechtheion or Temple of Athena Polias is an ancient Greek Ionic temple, on the north side of the Acropolis, Athens, that was primarily dedicated to the goddess Athena.",
@@ -351,7 +381,7 @@
   },
   {
     "qid": "Q1294648",
-    "title": "Etchmiadzin Cathedral is completed",
+    "title": "Etchmiadzin Cathedral is built",
     "subtitle": "Cultural heritage monument of Armenia",
     "year": 303,
     "fact": "Etchmiadzin Cathedral is the mother church of the Armenian Apostolic Church, located in the city dually known as Etchmiadzin (Ejmiatsin) and Vagharshapat, Armenia.",
@@ -361,7 +391,7 @@
   },
   {
     "qid": "Q29317",
-    "title": "Bagan is completed",
+    "title": "Bagan is founded",
     "subtitle": "Ancient city in Myanmar",
     "year": 200,
     "fact": "Bagan is an ancient city and a UNESCO World Heritage Site in the Mandalay Region of Myanmar.",
@@ -371,7 +401,7 @@
   },
   {
     "qid": "Q5843680",
-    "title": "Halicarnassus is completed",
+    "title": "Halicarnassus is founded",
     "subtitle": "Ancient Greek city in Caria, present day Bodrum in Turkey",
     "year": -1099,
     "fact": "Halicarnassus was an ancient Greek city in Caria, in Anatolia.",
@@ -381,7 +411,7 @@
   },
   {
     "qid": "Q135332",
-    "title": "Red Pyramid is completed",
+    "title": "Red Pyramid is built",
     "subtitle": "Smooth-sided pyramid",
     "year": -2589,
     "fact": "The Red Pyramid, also called the North Pyramid, is the largest of the pyramids located at the Dahshur necropolis in Cairo, Egypt.",
@@ -391,7 +421,7 @@
   },
   {
     "qid": "Q245151",
-    "title": "Tower of Hercules is completed",
+    "title": "Tower of Hercules is built",
     "subtitle": "Ancient lighthouse in Spain",
     "year": 100,
     "fact": "The Tower of Hercules is the oldest known extant Roman lighthouse.",
@@ -401,7 +431,7 @@
   },
   {
     "qid": "Q625149",
-    "title": "Aurelian Walls is completed",
+    "title": "Aurelian Walls is built",
     "subtitle": "Historic line of walls built around the city of Rome, Italy",
     "year": 271,
     "fact": "The Aurelian Walls are a line of city walls built between 271 AD and 275 AD in Rome, Italy, during the reign of the Roman Emperor Aurelian.",
@@ -411,7 +441,7 @@
   },
   {
     "qid": "Q329967",
-    "title": "Paestum is completed",
+    "title": "Paestum is founded",
     "subtitle": "Ancient Greek city in present-day village Paestum, Italy",
     "year": -599,
     "fact": "Paestum was a major ancient Greek city on the coast of the Tyrrhenian Sea, in Magna Graecia.",
@@ -421,7 +451,7 @@
   },
   {
     "qid": "Q223399",
-    "title": "Qumran is completed",
+    "title": "Qumran is founded",
     "subtitle": "Archaeological site in the Palestinian Authority, West Bank",
     "year": -103,
     "fact": "Qumran is an archaeological site in the West Bank managed by Israel's Qumran National Park.",
@@ -431,7 +461,7 @@
   },
   {
     "qid": "Q244762",
-    "title": "Mari is completed",
+    "title": "Mari is founded",
     "subtitle": "Ancient Sumerian and Amorite city",
     "year": -2900,
     "fact": "Mari was an ancient Semitic city-state in modern-day Syria.",
@@ -441,7 +471,7 @@
   },
   {
     "qid": "Q5736",
-    "title": "Amarna is completed",
+    "title": "Amarna is founded",
     "subtitle": "Egyptian archaeological site",
     "year": -1352,
     "fact": "Amarna is an extensive ancient Egyptian archaeological site containing the ruins of Akhetaten, the capital city during the late Eighteenth Dynasty.",
@@ -451,7 +481,7 @@
   },
   {
     "qid": "Q191504",
-    "title": "Leptis Magna is completed",
+    "title": "Leptis Magna is founded",
     "subtitle": "Ancient city in modern Libya",
     "year": -700,
     "fact": "Leptis or Lepcis Magna, also known by other names in antiquity, was a prominent city of the Carthaginian Empire and Roman Libya at the mouth of the Wadi Lebda in the Mediterranean.",
@@ -461,7 +491,7 @@
   },
   {
     "qid": "Q319841",
-    "title": "Luxor Temple is completed",
+    "title": "Luxor Temple is built",
     "subtitle": "Ancient Egyptian tem",
     "year": -1399,
     "fact": "The Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor and was constructed approximately 1400 BCE.",
@@ -471,7 +501,7 @@
   },
   {
     "qid": "Q459608",
-    "title": "Bent Pyramid is completed",
+    "title": "Bent Pyramid is built",
     "subtitle": "Ancient tomb in Egypt",
     "year": -2699,
     "fact": "The Bent Pyramid is an ancient Egyptian pyramid located at the royal necropolis of Dahshur, approximately 40 kilometres (25 mi) south of Cairo, built under the Old Kingdom Pharaoh Sneferu.",
@@ -481,7 +511,7 @@
   },
   {
     "qid": "Q238623",
-    "title": "Pyramid of Menkaure is completed",
+    "title": "Pyramid of Menkaure is built",
     "subtitle": "Smallest of the three main Pyramids of Giza, Egypt",
     "year": -2510,
     "fact": "The pyramid of Menkaure is the smallest of the three main pyramids of the Giza pyramid complex, located on the Giza Plateau in the southwestern outskirts of Cairo, Egypt.",
@@ -491,7 +521,7 @@
   },
   {
     "qid": "Q209349",
-    "title": "Nicomedia is completed",
+    "title": "Nicomedia is founded",
     "subtitle": "Ancient city of Bithynia in modern-day Turkey",
     "year": -263,
     "fact": "Nicomedia was an ancient Greek city located in what is now Turkey.",
@@ -501,7 +531,7 @@
   },
   {
     "qid": "Q216862",
-    "title": "Ġgantija is completed",
+    "title": "Ġgantija is built",
     "subtitle": "Megalithic temple complex from the Neolithic on the Mediterranean island of Gozo",
     "year": -3599,
     "fact": "Ġgantija is a megalithic temple complex from the Neolithic era, on the Mediterranean island of Gozo in Malta.",
@@ -511,7 +541,7 @@
   },
   {
     "qid": "Q1136681",
-    "title": "Seleucia is completed",
+    "title": "Seleucia is founded",
     "subtitle": "Capital of the Seleucid Empire",
     "year": -304,
     "fact": "Seleucia, also known as Seleucia-on-Tigris or Seleucia on the Tigris or Seleucia ad Tigrim, was a major Mesopotamian city, located on the west bank of the Tigris River within the present-day Baghdad Governorate in Iraq.",
@@ -521,7 +551,7 @@
   },
   {
     "qid": "Q586468",
-    "title": "Temple of Jupiter Optimus Maximus is completed",
+    "title": "Temple of Jupiter Optimus Maximus is built",
     "subtitle": "The poliadic temple of the ancient city of Rome",
     "year": -508,
     "fact": "The Temple of Jupiter Optimus Maximus, also known as the Temple of Jupiter Capitolinus, was the most important temple in Ancient Rome, located on the Capitoline Hill.",
@@ -531,7 +561,7 @@
   },
   {
     "qid": "Q464266",
-    "title": "Dura-Europos is completed",
+    "title": "Dura-Europos is founded",
     "subtitle": "Ancient Syrian city",
     "year": -299,
     "fact": "Dura-Europos was a Hellenistic, Parthian, and Roman border city built on an escarpment 90 metres above the southwestern bank of the Euphrates river.",
@@ -541,7 +571,7 @@
   },
   {
     "qid": "Q9443",
-    "title": "Lothal is completed",
+    "title": "Lothal is founded",
     "subtitle": "Prominent city of the ancient Indus valley civilization",
     "year": -2399,
     "fact": "Lothal was one of the southernmost sites of the ancient Indus Valley civilisation, located in the Bhal region of the Indian state of Gujarat.",
@@ -561,7 +591,7 @@
   },
   {
     "qid": "Q569107",
-    "title": "Anshan Persia is completed",
+    "title": "Anshan Persia is founded",
     "subtitle": "Ancient city of Elam",
     "year": -3999,
     "fact": "Anshan modern Tall-e Malyan, also Tall-i Malyan, was an Elamite and ancient Persian city.",
@@ -571,7 +601,7 @@
   },
   {
     "qid": "Q739415",
-    "title": "Great Mosque of Gaza is completed",
+    "title": "Great Mosque of Gaza is built",
     "subtitle": "Mosque in Gaza City, Palestine",
     "year": 401,
     "fact": "The Great Mosque of Gaza, also known as the Great Omari Mosque, is a mosque in a ruinous state, located in Gaza City, in the State of Palestine.",
@@ -581,7 +611,7 @@
   },
   {
     "qid": "Q1133288",
-    "title": "Temple of Caesar is completed",
+    "title": "Temple of Caesar is built",
     "subtitle": "Building in Roman Forum, Italy",
     "year": -28,
     "fact": "The Temple of Caesar or Temple of Divus Iulius, also known as Temple of the Deified Julius Caesar, delubrum, heroon or Temple of the Comet Star, was an ancient structure in the Roman Forum of Rome, Italy, located near the Regia and the Temple of Vesta.",
@@ -591,7 +621,7 @@
   },
   {
     "qid": "Q736676",
-    "title": "Hagia Irene is completed",
+    "title": "Hagia Irene is built",
     "subtitle": "Byzantine church building in Istanbul, Turkey now a hall and museum",
     "year": 350,
     "fact": "Hagia Irene or Hagia Eirene, sometimes known also as Saint Irene, is a former Eastern Orthodox church located in the outer courtyard of Topkapı Palace in Istanbul.",
@@ -601,7 +631,7 @@
   },
   {
     "qid": "Q684072",
-    "title": "Garni Temple is completed",
+    "title": "Garni Temple is built",
     "subtitle": "Sacred architecture",
     "year": 50,
     "fact": "The Garni Temple is a classical colonnaded structure in the village of Garni, in central Armenia, around 30 km (19 mi) east of Yerevan.",
@@ -611,7 +641,7 @@
   },
   {
     "qid": "Q570515",
-    "title": "Antonia Fortress is completed",
+    "title": "Antonia Fortress is built",
     "subtitle": "Military barracks in Jerusalem",
     "year": -36,
     "fact": "The Antonia Fortress was a citadel built by Herod the Great and named for Herod's patron Mark Antony, as a fortress whose chief function was to protect the Second Temple.",
@@ -621,7 +651,7 @@
   },
   {
     "qid": "Q29962",
-    "title": "Asyut is completed",
+    "title": "Asyut is founded",
     "subtitle": "City in Egypt",
     "year": -3099,
     "fact": "Asyut is a city in Upper Egypt and the capital of the modern Asyut Governorate in Egypt.",
@@ -631,7 +661,7 @@
   },
   {
     "qid": "Q1160664",
-    "title": "Lyceum is completed",
+    "title": "Lyceum is founded",
     "subtitle": "Public meeting place in Classical Athens",
     "year": -334,
     "fact": "The Lyceum was a temple in Athens dedicated to Apollo Lyceus.",
@@ -651,7 +681,7 @@
   },
   {
     "qid": "Q542070",
-    "title": "San Pietro in Vincoli is completed",
+    "title": "San Pietro in Vincoli is built",
     "subtitle": "Church in Rome",
     "year": 401,
     "fact": "San Pietro in Vincoli is a Roman Catholic titular church and minor basilica in Rome, Italy.",
@@ -661,7 +691,7 @@
   },
   {
     "qid": "Q339489",
-    "title": "Brú na Bóinne is completed",
+    "title": "Brú na Bóinne is built",
     "subtitle": "Archaeological site",
     "year": -3499,
     "fact": "Brú na Bóinne, also called the Boyne Valley tombs, is an ancient monument complex and ritual landscape in County Meath, Ireland, located in a bend of the River Boyne.",
@@ -671,7 +701,7 @@
   },
   {
     "qid": "Q283680",
-    "title": "Carchemish is completed",
+    "title": "Carchemish is founded",
     "subtitle": "Ancient city in Turkey / Syria",
     "year": -1900,
     "fact": "Carchemish, also spelled Karkemish, was an important ancient capital in the northern part of the region of Syria.",
@@ -691,7 +721,7 @@
   },
   {
     "qid": "Q521646",
-    "title": "Serapeum of Alexandria is completed",
+    "title": "Serapeum of Alexandria is built",
     "subtitle": "Temple in Alexandria",
     "year": -286,
     "fact": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis, made the protector of Alexandria, Egypt.",
@@ -701,7 +731,7 @@
   },
   {
     "qid": "Q1479873",
-    "title": "Santa Cecilia in Trastevere is completed",
+    "title": "Santa Cecilia in Trastevere is built",
     "subtitle": "Church in Rome",
     "year": 401,
     "fact": "Santa Cecilia in Trastevere is a titular church and minor basilica located in Trastevere, Rome.",
@@ -721,7 +751,7 @@
   },
   {
     "qid": "Q253208",
-    "title": "Dur-Sharrukin is completed",
+    "title": "Dur-Sharrukin is founded",
     "subtitle": "Assyrian capital in the time of Sargon II",
     "year": -705,
     "fact": "Dur-Sharrukin, present day Khorsabad, was the Assyrian capital in the time of Sargon II of Assyria.",
@@ -731,7 +761,7 @@
   },
   {
     "qid": "Q420810",
-    "title": "Acrocorinth is completed",
+    "title": "Acrocorinth is built",
     "subtitle": "Fortified rocky hill, the acropolis of the ancient city of Corinth, Greece",
     "year": -700,
     "fact": "Acrocorinth is a monolithic rock overlooking the ancient city of Corinth, Greece.",
@@ -741,7 +771,7 @@
   },
   {
     "qid": "Q685414",
-    "title": "Dahshur is completed",
+    "title": "Dahshur is founded",
     "subtitle": "Village in Giza Governorate, Egypt",
     "year": -2588,
     "fact": "Dahshur is an ancient Egyptian pyramid complex and necropolis and shares the name of the nearby village of Manshiyyat Dahshur in markaz Badrashin, Giza.",
@@ -751,7 +781,7 @@
   },
   {
     "qid": "Q596988",
-    "title": "Temple of Aphaea is completed",
+    "title": "Temple of Aphaea is built",
     "subtitle": "Ancient Greek temple on Aigina",
     "year": -499,
     "fact": "The Temple of Aphaia is an Ancient Greek temple located within a sanctuary complex dedicated to the goddess Aphaia on the island of Aegina, which lies in the Saronic Gulf.",
@@ -761,7 +791,7 @@
   },
   {
     "qid": "Q617550",
-    "title": "Apamea is completed",
+    "title": "Apamea is founded",
     "subtitle": "Ancient city in Al-Suqaylabiyah, Syria",
     "year": -299,
     "fact": "Apamea, on the right bank of the Orontes River, was an ancient Greek and Roman city.",
@@ -771,7 +801,7 @@
   },
   {
     "qid": "Q368628",
-    "title": "Sicyon is completed",
+    "title": "Sicyon is founded",
     "subtitle": "Ancient Greek city state Sicyon situated in the northern Peloponnesus",
     "year": -2000,
     "fact": "Sicyon or Sikyōn was an ancient Greek city state situated in the northern Peloponnesus between Corinth and Achaea on the territory of the present-day regional unit of Corinthia.",
@@ -781,7 +811,7 @@
   },
   {
     "qid": "Q633572",
-    "title": "Temple of Hera, Olympia is completed",
+    "title": "Temple of Hera, Olympia is built",
     "subtitle": "Temple in Greece",
     "year": -600,
     "fact": "The Temple of Hera, or Heraion, is an ancient Archaic Greek temple at Olympia, Greece, that was dedicated to Hera, queen of the Greek gods.",
@@ -801,7 +831,7 @@
   },
   {
     "qid": "Q385086",
-    "title": "Khirokitia is completed",
+    "title": "Khirokitia is built",
     "subtitle": "Archaeological site in Cyprus",
     "year": -7000,
     "fact": "Khirokitia is an archaeological site on the island of Cyprus dating from the Neolithic age.",
@@ -811,7 +841,7 @@
   },
   {
     "qid": "Q1112125",
-    "title": "Church of Saint Simeon Stylites is completed",
+    "title": "Church of Saint Simeon Stylites is built",
     "subtitle": "Historical church building located to the northwest of Aleppo, Syria",
     "year": 401,
     "fact": "The Church of Saint Simeon Stylites is one of the oldest surviving church complexes, founded in the 5th century.",
@@ -821,7 +851,7 @@
   },
   {
     "qid": "Q1456939",
-    "title": "Temple of Peace is completed",
+    "title": "Temple of Peace is built",
     "subtitle": "Temple dedicated to the goddess Pax in ancient Rome",
     "year": 71,
     "fact": "The Temple of Peace, also known as the Forum of Vespasian, was built in Rome in 71 AD under Emperor Vespasian in honour to Pax, the Roman goddess of peace.",
@@ -831,7 +861,7 @@
   },
   {
     "qid": "Q683988",
-    "title": "Old Temple of Athena is completed",
+    "title": "Old Temple of Athena is built",
     "subtitle": "Ancient temple on the Athenian Acropolis",
     "year": -499,
     "fact": "The Old Temple of Athena or the Archaios Neos was an archaic Greek limestone Doric temple on the Acropolis of Athens probably built in the second half of the sixth-century BCE, and which housed the xoanon of Athena Polias.",
@@ -841,7 +871,7 @@
   },
   {
     "qid": "Q810080",
-    "title": "Basilica of San Lorenzo is completed",
+    "title": "Basilica of San Lorenzo is built",
     "subtitle": "Church building in Milan, Italy",
     "year": 372,
     "fact": "The Basilica of San Lorenzo Maggiore is a Roman Catholic church in Milan, Northern Italy.",
@@ -851,7 +881,7 @@
   },
   {
     "qid": "Q3671440",
-    "title": "St. Nicholas Church, Demre is completed",
+    "title": "St. Nicholas Church, Demre is built",
     "subtitle": "Ancient East Roman basilica church",
     "year": 301,
     "fact": "St.",
@@ -861,7 +891,7 @@
   },
   {
     "qid": "Q2459870",
-    "title": "Temple of Venus Genetrix is completed",
+    "title": "Temple of Venus Genetrix is built",
     "subtitle": "The main temple in the Forum of Julius Caesar at Rome",
     "year": -45,
     "fact": "The Temple of Venus Genetrix is a ruined temple in the Forum of Caesar, Rome, dedicated to the Roman goddess Venus Genetrix, the founding goddess of the Julian gens.",
@@ -881,7 +911,7 @@
   },
   {
     "qid": "Q1584774",
-    "title": "Church of the Acheiropoietos is completed",
+    "title": "Church of the Acheiropoietos is built",
     "subtitle": "Church in Thessaloniki, Greece",
     "year": 401,
     "fact": "The Church of the Acheiropoietos is a 5th-century Byzantine-era Greek Orthodox church, located in the city of Thessaloniki, Central Macedonia, in northern Greece.",
@@ -891,7 +921,7 @@
   },
   {
     "qid": "Q1787112",
-    "title": "Monastery of the Holy Cross is completed",
+    "title": "Monastery of the Holy Cross is built",
     "subtitle": "Monastery in Jerusalem, Israel",
     "year": 400,
     "fact": "The Monastery of the Cross is an Eastern Orthodox monastery near the Nayot neighborhood of Jerusalem.",

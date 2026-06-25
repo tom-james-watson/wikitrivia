@@ -23,6 +23,7 @@ import brandsAndCompaniesFoundingYear from "./queries/brands-and-companies-found
 import brazilianPresidentsTakingOffice from "./queries/brazilian-presidents-taking-office/query";
 import breakfastCerealsLaunchYear from "./queries/breakfast-cereals-launch-year/query";
 import bridgesTowersAndSkyscrapersCompletionYear from "./queries/bridges-towers-and-skyscrapers-completion-year/query";
+import bridgesTowersAndSkyscrapersConstructionStartYear from "./queries/bridges-towers-and-skyscrapers-construction-start-year/query";
 import britishMonarchsTakingOffice from "./queries/british-monarchs-taking-office/query";
 import burgundyDukesTakingOffice from "./queries/burgundy-dukes-taking-office/query";
 import byzantineEmperorsTakingOffice from "./queries/byzantine-emperors-taking-office/query";
@@ -30,6 +31,7 @@ import canadianPrimeMinistersTakingOffice from "./queries/canadian-prime-ministe
 import candyAndSweetsFoundingYear from "./queries/candy-and-sweets-founding-year/query";
 import castilianMonarchsTakingOffice from "./queries/castilian-monarchs-taking-office/query";
 import castlesAndPalacesCompletionYear from "./queries/castles-and-palaces-completion-year/query";
+import castlesAndPalacesConstructionStartYear from "./queries/castles-and-palaces-construction-start-year/query";
 import cellPhoneModelsReleaseYear from "./queries/cell-phone-models-release-year/query";
 import chineseEmperorsTakingOffice from "./queries/chinese-emperors-taking-office/query";
 import colonialEmpiresCreationYear from "./queries/colonial-empires-creation-year/query";
@@ -80,6 +82,9 @@ import germanChancellorsTakingOffice from "./queries/german-chancellors-taking-o
 import graphicNovelsPublicationYear from "./queries/graphic-novels-publication-year/query";
 import guptaEmperorsTakingOffice from "./queries/gupta-emperors-taking-office/query";
 import historicLandmarksCompletionYear from "./queries/historic-landmarks-completion-year/query";
+import historicLandmarksConstructionStartYear from "./queries/historic-landmarks-construction-start-year/query";
+import historicNationalParksEstablishmentYear from "./queries/historic-national-parks-establishment-year/query";
+import historicSitesFoundingYear from "./queries/historic-sites-founding-year/query";
 import historicalChildrenSongsAndNurseryRhymes from "./queries/historical-children-songs-and-nursery-rhymes/query";
 import historicalCountriesCreationYear from "./queries/historical-countries-creation-year/query";
 import historicalErasStartYear from "./queries/historical-eras-start-year/query";
@@ -113,6 +118,9 @@ import mlbFranchisesFoundingYear from "./queries/mlb-franchises-founding-year/qu
 import mobileAppsLaunchYear from "./queries/mobile-apps-launch-year/query";
 import moroccanSultansTakingOffice from "./queries/moroccan-sultans-taking-office/query";
 import mughalEmperorsTakingOffice from "./queries/mughal-emperors-taking-office/query";
+import museumsAndHistoricSitesConstructionStartYear from "./queries/museums-and-historic-sites-construction-start-year/query";
+import museumsAndHistoricSitesEstablishmentYear from "./queries/museums-and-historic-sites-establishment-year/query";
+import museumsAndHistoricSitesFoundingYear from "./queries/museums-and-historic-sites-founding-year/query";
 import museumsAndHistoricSitesOpeningYear from "./queries/museums-and-historic-sites-opening-year/query";
 import musicalsPremiereYear from "./queries/musicals-premiere-year/query";
 import navarreSovereignsTakingOffice from "./queries/navarre-sovereigns-taking-office/query";
@@ -125,6 +133,7 @@ import nobelLaureatesAwardYear from "./queries/nobel-laureates-award-year/query"
 import northumbriaKingsTakingOffice from "./queries/northumbria-kings-taking-office/query";
 import norwegianMonarchsTakingOffice from "./queries/norwegian-monarchs-taking-office/query";
 import notableBuildingsAndStructuresCompletionYear from "./queries/notable-buildings-and-structures-completion-year/query";
+import notableBuildingsAndStructuresConstructionStartYear from "./queries/notable-buildings-and-structures-construction-start-year/query";
 import onlineCommunitiesLaunchYear from "./queries/online-communities-launch-year/query";
 import operatingSystemsReleaseYear from "./queries/operating-systems-release-year/query";
 import ottomanSultansTakingOffice from "./queries/ottoman-sultans-taking-office/query";
@@ -141,6 +150,7 @@ import radioProgramsStartYear from "./queries/radio-programs-start-year/query";
 import radioStationsLaunchYear from "./queries/radio-stations-launch-year/query";
 import railLinesOpeningYear from "./queries/rail-lines-opening-year/query";
 import religiousBuildingsCompletionYear from "./queries/religious-buildings-completion-year/query";
+import religiousBuildingsConstructionStartYear from "./queries/religious-buildings-construction-start-year/query";
 import restaurantChainsFoundingYear from "./queries/restaurant-chains-founding-year/query";
 import revolutionsStartYear from "./queries/revolutions-start-year/query";
 import romanEmperorsTakingOffice from "./queries/roman-emperors-taking-office/query";
@@ -241,6 +251,25 @@ const PEOPLE_SOURCES = [
   famousFootballPlayersDeathYear,
   famousBasketballPlayersDeathYear,
   famousBoxersDeathYear,
+] as const;
+
+const LANDMARK_SOURCES = [
+  notableBuildingsAndStructuresCompletionYear,
+  notableBuildingsAndStructuresConstructionStartYear,
+  historicLandmarksCompletionYear,
+  historicLandmarksConstructionStartYear,
+  historicSitesFoundingYear,
+  historicNationalParksEstablishmentYear,
+  museumsAndHistoricSitesOpeningYear,
+  museumsAndHistoricSitesConstructionStartYear,
+  museumsAndHistoricSitesFoundingYear,
+  museumsAndHistoricSitesEstablishmentYear,
+  castlesAndPalacesCompletionYear,
+  castlesAndPalacesConstructionStartYear,
+  bridgesTowersAndSkyscrapersCompletionYear,
+  bridgesTowersAndSkyscrapersConstructionStartYear,
+  religiousBuildingsCompletionYear,
+  religiousBuildingsConstructionStartYear,
 ] as const;
 
 function rowHasNobelPrize(
@@ -1296,14 +1325,7 @@ const rootDeckDefinition: DeckDefinition = {
           title: "Ancient",
           frequency: 0.7,
           maxYear: 499,
-          sources: [
-            notableBuildingsAndStructuresCompletionYear,
-            historicLandmarksCompletionYear,
-            museumsAndHistoricSitesOpeningYear,
-            castlesAndPalacesCompletionYear,
-            bridgesTowersAndSkyscrapersCompletionYear,
-            religiousBuildingsCompletionYear,
-          ],
+          sources: LANDMARK_SOURCES,
         },
         {
           slug: "medieval",
@@ -1311,14 +1333,7 @@ const rootDeckDefinition: DeckDefinition = {
           frequency: 0.9,
           minYear: 500,
           maxYear: 1499,
-          sources: [
-            notableBuildingsAndStructuresCompletionYear,
-            historicLandmarksCompletionYear,
-            museumsAndHistoricSitesOpeningYear,
-            castlesAndPalacesCompletionYear,
-            bridgesTowersAndSkyscrapersCompletionYear,
-            religiousBuildingsCompletionYear,
-          ],
+          sources: LANDMARK_SOURCES,
         },
         {
           slug: "early-modern",
@@ -1326,28 +1341,14 @@ const rootDeckDefinition: DeckDefinition = {
           frequency: 0.85,
           minYear: 1500,
           maxYear: 1799,
-          sources: [
-            notableBuildingsAndStructuresCompletionYear,
-            historicLandmarksCompletionYear,
-            museumsAndHistoricSitesOpeningYear,
-            castlesAndPalacesCompletionYear,
-            bridgesTowersAndSkyscrapersCompletionYear,
-            religiousBuildingsCompletionYear,
-          ],
+          sources: LANDMARK_SOURCES,
         },
         {
           slug: "modern",
           title: "Modern",
           frequency: 1.1,
           minYear: 1800,
-          sources: [
-            notableBuildingsAndStructuresCompletionYear,
-            historicLandmarksCompletionYear,
-            museumsAndHistoricSitesOpeningYear,
-            castlesAndPalacesCompletionYear,
-            bridgesTowersAndSkyscrapersCompletionYear,
-            religiousBuildingsCompletionYear,
-          ],
+          sources: LANDMARK_SOURCES,
         },
       ],
     },

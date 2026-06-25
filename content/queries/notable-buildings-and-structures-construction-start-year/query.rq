@@ -1,0 +1,50 @@
+SELECT
+  ?item
+  ?itemLabel
+  (SAMPLE(?descriptionValue) AS ?description)
+  (MIN(?yearValue) AS ?year)
+  (SAMPLE(?countryLabelValue) AS ?countryLabel)
+  ?sitelinks WHERE {
+  VALUES ?class {
+    wd:Q11303 # skyscraper
+    wd:Q12518 # tower
+    wd:Q12280 # bridge
+    wd:Q39715 # lighthouse
+    wd:Q23413 # castle
+    wd:Q751876 # château
+    wd:Q16560 # palace
+    wd:Q2977 # cathedral
+    wd:Q16970 # church building
+    wd:Q32815 # mosque
+    wd:Q44539 # temple
+    wd:Q34627 # synagogue
+    wd:Q153562 # opera house
+    wd:Q856584 # library building
+    wd:Q25550691 # city hall
+    wd:Q3284499 # capitol building
+    wd:Q1339195 # station building
+    wd:Q849706 # airport terminal
+  }
+  ?item
+    wdt:P31 ?class;
+    wdt:P571 ?date;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  FILTER NOT EXISTS { ?item wdt:P1619 ?openingDate. }
+  FILTER(LANG(?itemLabel) = "en")
+  OPTIONAL {
+    ?item schema:description ?descriptionValue.
+    FILTER(LANG(?descriptionValue) = "en")
+  }
+  OPTIONAL {
+    ?item wdt:P17 ?country.
+    ?country rdfs:label ?countryLabelValue.
+    FILTER(LANG(?countryLabelValue) = "en")
+  }
+  BIND(YEAR(?date) AS ?yearValue)
+  FILTER(?sitelinks >= 20)
+  FILTER(?yearValue >= -3000)
+}
+GROUP BY ?item ?itemLabel ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 1000
