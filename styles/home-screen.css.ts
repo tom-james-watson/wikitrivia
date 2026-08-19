@@ -45,6 +45,40 @@ export const actions = style({
   width: "100%",
 });
 
+export const pinstinctLink = style({
+  alignItems: "center",
+  alignSelf: "center",
+  background: vars.color.medalGoldFill,
+  border: `${vars.size.borderWidth} solid ${vars.color.medalGoldBorder}`,
+  borderRadius: vars.radius.lg,
+  color: vars.color.medalGoldText,
+  display: "inline-flex",
+  fontSize: vars.fontSize.base,
+  fontWeight: vars.fontWeight.medium,
+  gap: vars.space.sm,
+  lineHeight: vars.lineHeight.body,
+  minHeight: vars.size.chipHeight,
+  padding: `${vars.space.xs} ${vars.space.lg}`,
+  selectors: {
+    "&:hover": {
+      background: vars.color.medalGoldFill,
+      borderColor: vars.color.medalGoldBorder,
+      color: vars.color.medalGoldText,
+    },
+    "&:focus-visible": {
+      boxShadow: vars.shadow.focus,
+    },
+  },
+  textAlign: "center",
+  textDecoration: "none",
+});
+
+export const pinstinctIcon = style({
+  flex: "0 0 auto",
+  height: vars.space.xl,
+  width: vars.space.xl,
+});
+
 export const about = style({});
 export const footer = style({
   bottom: 0,

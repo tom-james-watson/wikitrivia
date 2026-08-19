@@ -1,3 +1,4 @@
+import Image from "next/image";
 import ButtonLink from "./button-link";
 import PageShell from "./page-shell";
 import SiteFooter from "./site-footer";
@@ -15,6 +16,22 @@ export default function HomeScreen() {
               <ButtonLink fullWidth href="/daily" text="Daily" />
               <ButtonLink fullWidth href="/play" minimal text="Free play" />
             </div>
+            <a
+              className={styles.pinstinctLink}
+              href="https://pinstinct.tomjwatson.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <Image
+                alt=""
+                aria-hidden="true"
+                className={styles.pinstinctIcon}
+                height={20}
+                src="/pinstinct-favicon.svg"
+                width={20}
+              />
+              <span>Try Pinstinct, my new daily map game.</span>
+            </a>
           </div>
           <SiteFooter className={styles.footer} />
         </div>
