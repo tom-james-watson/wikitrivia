@@ -16,15 +16,15 @@ test("top-level categories stay in the intended order", () => {
     getCategoryDefinitions().map((category) => category.slug),
     [
       "history",
-      "leaders",
       "entertainment",
+      "leaders",
       "people",
-      "technology",
       "art",
-      "engineering",
-      "sport",
       "architecture",
       "business",
+      "technology",
+      "engineering",
+      "sport",
     ],
   );
 });
