@@ -5,6 +5,9 @@ const { createVanillaExtractPlugin } = require("@vanilla-extract/next-plugin");
  */
 const nextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
+  images: {
+    unoptimized: true,
+  },
   output: "export",
 
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
