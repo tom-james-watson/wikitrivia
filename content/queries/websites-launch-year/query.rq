@@ -1,22 +1,28 @@
 SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
   ?item
-    wdt:P31/wdt:P279* wd:Q35127; # instance of or subclass of "website"
+    wdt:P31 wd:Q35127; # direct instance of "website"; avoid unrelated entities with a website subtype
+    wdt:P577 ?publicationDate; # use an actual website launch date, never a publisher or organization's founding date
     wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
     rdfs:label ?itemLabel.
   FILTER(LANG(?itemLabel) = "en")
 
-  OPTIONAL {
-    ?item wdt:P577 ?publicationDate.
-  }
-  OPTIONAL {
-    ?item wdt:P571 ?inception.
-  }
-
-  BIND(COALESCE(?publicationDate, ?inception) AS ?date) # prefer release date, then fall back to inception
-  FILTER(BOUND(?date))
-  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+  BIND(YEAR(?publicationDate) AS ?yearValue) # turn the website launch date into a timeline year
+  FILTER(?yearValue >= 1990) # the World Wide Web began in 1991; earlier dates describe a different work or organization
 
   FILTER(?sitelinks >= 10) # websites are especially broad, so keep a slightly higher floor
+
+  # A publication or document can also have a website statement, but its launch
+  # date is not a website launch suitable for this deck. Keep this as direct
+  # classifications: it is predictable and much cheaper than broad subclass paths.
+  FILTER NOT EXISTS {
+    ?item wdt:P31 ?excludedClass.
+    VALUES ?excludedClass {
+      wd:Q41298    # magazine
+      wd:Q1684600  # news magazine
+      wd:Q69662460 # video game magazine
+      wd:Q49848    # document
+    }
+  }
 }
 GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
 ORDER BY DESC(?sitelinks) # keep the most recognisable rows first

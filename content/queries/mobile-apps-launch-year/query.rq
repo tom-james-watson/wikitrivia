@@ -1,22 +1,28 @@
 SELECT ?item ?itemLabel (MIN(?yearValue) AS ?year) ?sitelinks WHERE {
+  VALUES ?operatingSystem {
+    wd:Q94    # Android
+    wd:Q48493 # iOS
+  }
+
   ?item
     wdt:P31/wdt:P279* wd:Q620615; # instance of or subclass of "mobile app"
+    wdt:P577 ?publicationDate; # use an actual app release date, never a company's founding date
+    wdt:P400 ?operatingSystem; # require a supported mobile operating system
     wikibase:sitelinks ?sitelinks; # use sitelinks as a rough popularity signal
     rdfs:label ?itemLabel.
   FILTER(LANG(?itemLabel) = "en")
 
-  OPTIONAL {
-    ?item wdt:P577 ?publicationDate.
-  }
-  OPTIONAL {
-    ?item wdt:P571 ?inception.
-  }
-
-  BIND(COALESCE(?publicationDate, ?inception) AS ?date) # prefer release date, then fall back to inception
-  FILTER(BOUND(?date))
-  BIND(YEAR(?date) AS ?yearValue) # turn the chosen date into a timeline year
+  BIND(YEAR(?publicationDate) AS ?yearValue) # turn the app release date into a timeline year
+  FILTER(?yearValue >= 2008) # the modern app-store era; earlier dates are usually an unrelated desktop/service launch
 
   FILTER(?sitelinks >= 5) # keep the broad source set while cutting the weakest entries
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q10929058. } # product model, e.g. hardware with a companion app
+
+  # These currently resolve to a list article or a title-only English-Wikipedia
+  # extract, so they cannot produce a useful fact card.
+  FILTER(?item != wd:Q93807404)  # Pokémon Home
+  FILTER(?item != wd:Q18010871)  # Show by Rock!!
+  FILTER(?item != wd:Q133734414) # Nintendo Today!
 }
 GROUP BY ?item ?itemLabel ?sitelinks # collapse duplicates caused by optional joins or multiple dates
 ORDER BY DESC(?sitelinks) # keep the most recognisable rows first

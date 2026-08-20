@@ -1,7 +1,7 @@
 {
   "difficultyCounts": {
-    "easy": 612,
-    "normal": 981,
+    "easy": 609,
+    "normal": 980,
     "hard": 1813
   },
   "id": "all",
@@ -1706,9 +1706,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 72,
-        "normal": 98,
-        "hard": 116
+        "easy": 47,
+        "normal": 58,
+        "hard": 71
       },
       "id": "all-technology",
       "minScore": 1000,
@@ -1831,9 +1831,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 55,
-            "normal": 83,
-            "hard": 96
+            "easy": 18,
+            "normal": 23,
+            "hard": 31
           },
           "id": "all-technology-websites",
           "minScore": 0,
@@ -1844,9 +1844,9 @@
         },
         {
           "difficultyCounts": {
-            "easy": 13,
-            "normal": 22,
-            "hard": 29
+            "easy": 5,
+            "normal": 8,
+            "hard": 12
           },
           "id": "all-technology-mobile-apps",
           "minScore": 0,
