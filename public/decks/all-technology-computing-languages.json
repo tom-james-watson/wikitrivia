@@ -30,6 +30,16 @@
     "pageViews": 102056
   },
   {
+    "qid": "Q2005",
+    "title": "JavaScript is created",
+    "subtitle": "Programming or computer language",
+    "year": 1995,
+    "fact": "JavaScript (JS) is a programming language and core technology of the Web, alongside HTML and CSS.",
+    "wikipediaSlug": "JavaScript",
+    "image": "Logo_of_TC39.svg",
+    "pageViews": 96765
+  },
+  {
     "qid": "Q206904",
     "title": "R is created",
     "subtitle": "Programming or computer language",
@@ -220,18 +230,8 @@
     "pageViews": 13321
   },
   {
-    "qid": "Q134471",
-    "title": "AJAX is created",
-    "subtitle": "Programming or computer language",
-    "year": 2005,
-    "fact": "The Asynchronous JavaScript and XML, usually referred as Ajax is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications.",
-    "wikipediaSlug": "Ajax_(programming)",
-    "image": "AJAX_logo_by_gengns.svg",
-    "pageViews": 11820
-  },
-  {
     "qid": "Q50077",
-    "title": "Visual Basic is created",
+    "title": "Visual Basic.NET is created",
     "subtitle": "Programming or computer language",
     "year": 2001,
     "fact": "Visual Basic (VB), originally called Visual Basic.NET (VB.NET), is a multi-paradigm, object-oriented programming language developed by Microsoft and implemented on.NET, Mono, and the.NET Framework.",
@@ -281,7 +281,7 @@
   },
   {
     "qid": "Q2378",
-    "title": "Visual Basic is created",
+    "title": "Classic Visual Basic is created",
     "subtitle": "Programming or computer language",
     "year": 1991,
     "fact": "Visual Basic (VB), sometimes referred to as Classic Visual Basic, is a third-generation programming language based on BASIC, as well as an associated integrated development environment (IDE).",
@@ -488,6 +488,16 @@
     "wikipediaSlug": "Rexx",
     "image": "Rexx-img-lg.png",
     "pageViews": 2439
+  },
+  {
+    "qid": "Q286196",
+    "title": "Altair BASIC is created",
+    "subtitle": "Programming or computer language",
+    "year": 1975,
+    "fact": "Altair BASIC is a discontinued interpreter for the BASIC programming language that ran on the MITS Altair 8800 and subsequent S-100 bus computers.",
+    "wikipediaSlug": "Altair_BASIC",
+    "image": "Altair_Basic_Sign.jpg",
+    "pageViews": 2284
   },
   {
     "qid": "Q784845",

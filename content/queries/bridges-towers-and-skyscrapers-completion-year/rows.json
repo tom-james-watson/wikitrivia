@@ -13,12 +13,12 @@
     "description": "skyscraper located in Midtown Manhattan, New York City, USA",
     "year": "1931",
     "countryLabel": "United States",
-    "sitelinks": "123"
+    "sitelinks": "124"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29294",
     "itemLabel": "Willis Tower",
-    "description": "skyscraper in Chicago, Illinois",
+    "description": "skyscraper in Chicago, Illinois, USA",
     "year": "1973",
     "countryLabel": "United States",
     "sitelinks": "97"
@@ -53,7 +53,7 @@
     "description": "building in New York City",
     "year": "1931",
     "countryLabel": "United States",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11245",
@@ -88,6 +88,14 @@
     "sitelinks": "61"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q18536",
+    "itemLabel": "The Shard",
+    "description": "skyscraper in London, England",
+    "year": "2012",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "60"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q80852",
     "itemLabel": "Shanghai World Financial Center",
     "description": "skyscraper in Shanghai",
@@ -101,14 +109,6 @@
     "description": "building complex in Mecca, Saudi Arabia",
     "year": "2011",
     "countryLabel": "Saudi Arabia",
-    "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18536",
-    "itemLabel": "The Shard",
-    "description": "skyscraper in London, England",
-    "year": "2012",
-    "countryLabel": "United Kingdom",
     "sitelinks": "59"
   },
   {
@@ -141,7 +141,7 @@
     "description": "monument and building in Paris's La Défense",
     "year": "1989",
     "countryLabel": "France",
-    "sitelinks": "50"
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q169420",
@@ -160,6 +160,14 @@
     "sitelinks": "49"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q323767",
+    "itemLabel": "Montparnasse Tower",
+    "description": "skyscraper in Paris",
+    "year": "1973",
+    "countryLabel": "France",
+    "sitelinks": "48"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q170610",
     "itemLabel": "Edifício Itália",
     "description": "skyscraper in São Paulo, Brazil",
@@ -176,11 +184,11 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q323767",
-    "itemLabel": "Montparnasse Tower",
-    "description": "skyscraper in Paris",
-    "year": "1973",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q1140026",
+    "itemLabel": "Azadi Tower",
+    "description": "tower in Tehran, Iranian national heritage site",
+    "year": "1971",
+    "countryLabel": "Iran",
     "sitelinks": "47"
   },
   {
@@ -197,14 +205,6 @@
     "description": "skyscraper in West Kowloon, Hong Kong",
     "year": "2010",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1140026",
-    "itemLabel": "Azadi Tower",
-    "description": "tower in Tehran, Iranian national heritage site",
-    "year": "1971",
-    "countryLabel": "Iran",
     "sitelinks": "46"
   },
   {
@@ -328,19 +328,19 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7969454",
-    "itemLabel": "Merdeka 118",
-    "description": "skyscraper in Kuala Lumpur, Malaysia",
-    "year": "2023",
-    "countryLabel": "Malaysia",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q838780",
     "itemLabel": "Almas Tower",
     "description": "high-rise in Dubai, United Arab Emirates",
     "year": "2009",
     "countryLabel": "United Arab Emirates",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7969454",
+    "itemLabel": "Merdeka 118",
+    "description": "skyscraper in Kuala Lumpur, Malaysia",
+    "year": "2023",
+    "countryLabel": "Malaysia",
     "sitelinks": "39"
   },
   {
@@ -432,6 +432,14 @@
     "sitelinks": "35"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q941908",
+    "itemLabel": "3 World Trade Center",
+    "description": "Skyscraper within New York City",
+    "year": "2018",
+    "countryLabel": "United States",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q201902",
     "itemLabel": "Mole Antonelliana",
     "description": "major landmark building in Turin, Italy",
@@ -456,27 +464,19 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q391243",
-    "itemLabel": "Citigroup Center",
-    "description": "office skyscraper in Manhattan, New York",
-    "year": "1977",
-    "countryLabel": "United States",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q941908",
-    "itemLabel": "3 World Trade Center",
-    "description": "Skyscraper within New York City",
-    "year": "2018",
-    "countryLabel": "United States",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q19492",
     "itemLabel": "Princess Tower",
     "description": "residential skyscraper",
     "year": "2012",
     "countryLabel": "United Arab Emirates",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q391243",
+    "itemLabel": "Citigroup Center",
+    "description": "office skyscraper in Manhattan, New York",
+    "year": "1977",
+    "countryLabel": "United States",
     "sitelinks": "34"
   },
   {
@@ -552,6 +552,14 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1351208",
+    "itemLabel": "4 World Trade Center",
+    "description": "skyscraper in Manhattan, New York City",
+    "year": "2013",
+    "countryLabel": "United States",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q687413",
     "itemLabel": "4 Times Square",
     "description": "Office skyscraper in Manhattan, New York",
@@ -568,14 +576,6 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1033099",
-    "itemLabel": "Grand Lisboa",
-    "description": "building in Macau, China",
-    "year": "2008",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q321789",
     "itemLabel": "Einstein Tower",
     "description": "astrophysical observatory in Potsdam, Germany",
@@ -589,6 +589,14 @@
     "description": "office skyscraper in La Défense's Courbevoie",
     "year": "1974",
     "countryLabel": "France",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1033099",
+    "itemLabel": "Grand Lisboa",
+    "description": "building in Macau, China",
+    "year": "2008",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "31"
   },
   {
@@ -624,14 +632,6 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1351208",
-    "itemLabel": "4 World Trade Center",
-    "description": "skyscraper in Manhattan, New York City",
-    "year": "2013",
-    "countryLabel": "United States",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3603782",
     "itemLabel": "Gamla bron",
     "description": "bridge in Umeå, Sweden",
@@ -656,6 +656,14 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1138183",
+    "itemLabel": "Philadelphia City Hall",
+    "description": "historic building housing Philadelphia's municipal government",
+    "year": "1901",
+    "countryLabel": "United States",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q953610",
     "itemLabel": "Torre de Cristal",
     "description": "skyscraper in Madrid, Spain",
@@ -668,14 +676,6 @@
     "itemLabel": "731 Lexington Avenue",
     "description": "skyscraper in New York City",
     "year": "2004",
-    "countryLabel": "United States",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1138183",
-    "itemLabel": "Philadelphia City Hall",
-    "description": "historic building housing Philadelphia's municipal government",
-    "year": "1901",
     "countryLabel": "United States",
     "sitelinks": "29"
   },
@@ -744,6 +744,14 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1368043",
+    "itemLabel": "Mandalay Bay",
+    "description": "casino resort in Las Vegas, Nevada",
+    "year": "1999",
+    "countryLabel": "United States",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q713960",
     "itemLabel": "MGM Grand Las Vegas",
     "description": "casino resort in Las Vegas, Nevada, USA",
@@ -768,11 +776,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1368043",
-    "itemLabel": "Mandalay Bay",
-    "description": "casino resort in Las Vegas, Nevada",
-    "year": "1999",
-    "countryLabel": "United States",
+    "item": "http://www.wikidata.org/entity/Q2349903",
+    "itemLabel": "Cœur Défense",
+    "description": "office towers located in the business district of La Défense, Courbevoie, France",
+    "year": "2003",
+    "countryLabel": "France",
     "sitelinks": "27"
   },
   {
@@ -784,11 +792,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2349903",
-    "itemLabel": "Cœur Défense",
-    "description": "office towers located in the business district of La Défense, Courbevoie, France",
-    "year": "2003",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q321291",
+    "itemLabel": "Main Tower",
+    "description": "skyscraper in Frankfurt, Germany",
+    "year": "2000",
+    "countryLabel": "Germany",
     "sitelinks": "27"
   },
   {
@@ -796,6 +804,14 @@
     "itemLabel": "Tower 42",
     "description": "skyscraper in the City of London",
     "year": "1980",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1850537",
+    "itemLabel": "Severn Bridge",
+    "description": "suspension bridge in Gloucestershire, England",
+    "year": "1966",
     "countryLabel": "United Kingdom",
     "sitelinks": "27"
   },
@@ -840,35 +856,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q321291",
-    "itemLabel": "Main Tower",
-    "description": "skyscraper in Frankfurt, Germany",
-    "year": "2000",
-    "countryLabel": "Germany",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1850537",
-    "itemLabel": "Severn Bridge",
-    "description": "suspension bridge in Gloucestershire, England",
-    "year": "1966",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q511612",
     "itemLabel": "Bahrain World Trade Center",
     "description": "skyscraper",
     "year": "2008",
     "countryLabel": "Bahrain",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q609140",
-    "itemLabel": "AON Hanoi Landmark Tower",
-    "description": "Skyscraper in Hanoi, Vietnam",
-    "year": "2011",
-    "countryLabel": "Vietnam",
     "sitelinks": "26"
   },
   {
@@ -880,19 +872,19 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q609140",
+    "itemLabel": "AON Hanoi Landmark Tower",
+    "description": "Skyscraper in Hanoi, Vietnam",
+    "year": "2011",
+    "countryLabel": "Vietnam",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q143235",
     "itemLabel": "Wuhan Greenland Center",
     "description": "building in Wuhan Greenland Center, China",
     "year": "2023",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2319878",
-    "itemLabel": "Barbican Estate",
-    "description": "publicly-owned district in the City of London",
-    "year": "1969",
-    "countryLabel": "United Kingdom",
     "sitelinks": "25"
   },
   {
@@ -904,11 +896,11 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q702322",
-    "itemLabel": "Koryo Hotel",
-    "description": "hotel in Pyongyang, North Korea",
-    "year": "1985",
-    "countryLabel": "North Korea",
+    "item": "http://www.wikidata.org/entity/Q2319878",
+    "itemLabel": "Barbican Estate",
+    "description": "publicly-owned district in the City of London",
+    "year": "1969",
+    "countryLabel": "United Kingdom",
     "sitelinks": "25"
   },
   {
@@ -920,12 +912,36 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q702322",
+    "itemLabel": "Koryo Hotel",
+    "description": "hotel in Pyongyang, North Korea",
+    "year": "1985",
+    "countryLabel": "North Korea",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2681107",
+    "itemLabel": "The Helix Bridge",
+    "description": "bridge in Singapore",
+    "year": "2010",
+    "countryLabel": "Singapore",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1808317",
     "itemLabel": "The Marina Torch",
     "description": "skyscraper in Dubai",
     "year": "2011",
     "countryLabel": "United Arab Emirates",
     "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11550847",
+    "itemLabel": "Eshima Ohashi Bridge",
+    "description": "Japanese rigid-frame bridge",
+    "year": "2004",
+    "countryLabel": "Japan",
+    "sitelinks": "24"
   },
   {
     "item": "http://www.wikidata.org/entity/Q368489",
@@ -952,6 +968,14 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5959602",
+    "itemLabel": "Ferdowsi Mausoleum",
+    "description": "mausoleum in Tus, Iranian national heritage site",
+    "year": "1934",
+    "countryLabel": "Iran",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2493262",
     "itemLabel": "Imperia Tower",
     "description": "Skyscraper",
@@ -965,22 +989,6 @@
     "description": "bridge in Ukraine",
     "year": "1965",
     "countryLabel": "Ukraine",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2681107",
-    "itemLabel": "The Helix Bridge",
-    "description": "bridge in Singapore",
-    "year": "2010",
-    "countryLabel": "Singapore",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5959602",
-    "itemLabel": "Ferdowsi Mausoleum",
-    "description": "mausoleum in Tus, Iranian national heritage site",
-    "year": "1934",
-    "countryLabel": "Iran",
     "sitelinks": "24"
   },
   {
@@ -1000,18 +1008,10 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11550847",
-    "itemLabel": "Eshima Ohashi Bridge",
-    "description": "Japanese rigid-frame bridge",
-    "year": "2004",
-    "countryLabel": "Japan",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q684027",
-    "itemLabel": "Key Tower",
-    "description": "skyscraper in Cleveland, Ohio",
-    "year": "1992",
+    "item": "http://www.wikidata.org/entity/Q2074091",
+    "itemLabel": "200 Vesey Street",
+    "description": "skyscraper in New York City",
+    "year": "1986",
     "countryLabel": "United States",
     "sitelinks": "23"
   },
@@ -1020,6 +1020,14 @@
     "itemLabel": "One Liberty Plaza",
     "description": "skyscraper in Lower Manhattan, New York City, USA",
     "year": "1973",
+    "countryLabel": "United States",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q684027",
+    "itemLabel": "Key Tower",
+    "description": "skyscraper in Cleveland, Ohio",
+    "year": "1992",
     "countryLabel": "United States",
     "sitelinks": "23"
   },
@@ -1064,6 +1072,14 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q708060",
+    "itemLabel": "Tower 185",
+    "description": "skyscraper in Frankfurt, Germany",
+    "year": "2011",
+    "countryLabel": "Germany",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2673535",
     "itemLabel": "SiS Rinku Tower",
     "description": "building in Izumisano, Osaka Prefecture, Japan",
@@ -1076,14 +1092,6 @@
     "itemLabel": "555 California Street",
     "description": "skyscraper",
     "year": "1969",
-    "countryLabel": "United States",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2074091",
-    "itemLabel": "200 Vesey Street",
-    "description": "skyscraper in New York City",
-    "year": "1986",
     "countryLabel": "United States",
     "sitelinks": "22"
   },
@@ -1152,14 +1160,6 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q708060",
-    "itemLabel": "Tower 185",
-    "description": "skyscraper in Frankfurt, Germany",
-    "year": "2011",
-    "countryLabel": "Germany",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1495771",
     "itemLabel": "Gate to the East",
     "description": "building in Suzhou, Jiangsu, China",
@@ -1224,19 +1224,27 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1201344",
-    "itemLabel": "Osaka Prefectural Government Sakishima Building",
-    "description": "skyscraper",
-    "year": "1995",
-    "countryLabel": "Japan",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q15264266",
     "itemLabel": "30 Hudson Yards",
     "description": "Supertall skyscraper in New York City",
     "year": "2020",
     "countryLabel": "United States",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18398409",
+    "itemLabel": "One Vanderbilt",
+    "description": "office skyscraper in Manhattan, New York",
+    "year": "2020",
+    "countryLabel": "United States",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1201344",
+    "itemLabel": "Osaka Prefectural Government Sakishima Building",
+    "description": "skyscraper",
+    "year": "1995",
+    "countryLabel": "Japan",
     "sitelinks": "21"
   },
   {
@@ -1280,14 +1288,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2471370",
-    "itemLabel": "Haghtanak bridge",
-    "description": "cultural heritage monument of Armenia",
-    "year": "1945",
-    "countryLabel": "Armenia",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q657979",
     "itemLabel": "Westendstrasse 1",
     "description": "skyscraper in Frankfurt, Germany",
@@ -1296,11 +1296,11 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3437688",
-    "itemLabel": "Tughrul Tower",
-    "description": "mausoleum tower in Ray, Iranian national heritage site",
-    "year": "1140",
-    "countryLabel": "Iran",
+    "item": "http://www.wikidata.org/entity/Q2471370",
+    "itemLabel": "Haghtanak bridge",
+    "description": "cultural heritage monument of Armenia",
+    "year": "1945",
+    "countryLabel": "Armenia",
     "sitelinks": "21"
   },
   {
@@ -1312,6 +1312,14 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3437688",
+    "itemLabel": "Tughrul Tower",
+    "description": "mausoleum tower in Ray, Iranian national heritage site",
+    "year": "1140",
+    "countryLabel": "Iran",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5440278",
     "itemLabel": "Grand Hyatt Manila",
     "description": "tallest skyscraper in the Philippines",
@@ -1320,11 +1328,11 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3535524",
-    "itemLabel": "Les Mercuriales",
-    "description": "twin towers in Bagnolet",
-    "year": "1975",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q4635219",
+    "itemLabel": "33 Thomas Street",
+    "description": "building in New York City, notable for having no windows",
+    "year": "1974",
+    "countryLabel": "United States",
     "sitelinks": "20"
   },
   {
@@ -1352,19 +1360,19 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4635219",
-    "itemLabel": "33 Thomas Street",
-    "description": "building in New York City, notable for having no windows",
-    "year": "1974",
-    "countryLabel": "United States",
+    "item": "http://www.wikidata.org/entity/Q3533127",
+    "itemLabel": "Tour Majunga",
+    "description": "skyscraper near Paris, France",
+    "year": "2014",
+    "countryLabel": "France",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18398409",
-    "itemLabel": "One Vanderbilt",
-    "description": "office skyscraper in Manhattan, New York",
-    "year": "2020",
-    "countryLabel": "United States",
+    "item": "http://www.wikidata.org/entity/Q3535524",
+    "itemLabel": "Les Mercuriales",
+    "description": "twin towers in Bagnolet",
+    "year": "1975",
+    "countryLabel": "France",
     "sitelinks": "20"
   },
   {
@@ -1380,14 +1388,6 @@
     "itemLabel": "Tour T1",
     "description": "skyscraper in Paris, France",
     "year": "2008",
-    "countryLabel": "France",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3533127",
-    "itemLabel": "Tour Majunga",
-    "description": "skyscraper near Paris, France",
-    "year": "2014",
     "countryLabel": "France",
     "sitelinks": "20"
   },
@@ -1408,6 +1408,14 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q587586",
+    "itemLabel": "Republic Plaza",
+    "description": "skyscraper in Singapore",
+    "year": "1995",
+    "countryLabel": "Singapore",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2458142",
     "itemLabel": "Dyavolski most",
     "description": "bridge in Bulgaria",
@@ -1416,19 +1424,19 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1812844",
+    "itemLabel": "Ponte City Apartments",
+    "description": "skyscraper in South Africa",
+    "year": "1975",
+    "countryLabel": "South Africa",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3107472",
     "itemLabel": "Red Bridge",
     "description": "cultural heritage monument of Armenia",
     "year": "1679",
     "countryLabel": "Armenia",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q587586",
-    "itemLabel": "Republic Plaza",
-    "description": "skyscraper in Singapore",
-    "year": "1995",
-    "countryLabel": "Singapore",
     "sitelinks": "20"
   },
   {
@@ -1448,27 +1456,19 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3533060",
+    "itemLabel": "Tour Duo",
+    "description": "Two skyscrapers in Paris",
+    "year": "2022",
+    "countryLabel": "France",
+    "sitelinks": "19"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1150357",
     "itemLabel": "Midtown Tower",
     "description": "building in Tokyo, Japan",
     "year": "2007",
     "countryLabel": "Japan",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q806676",
-    "itemLabel": "Miami Tower",
-    "description": "skyscraper in Miami, Florida, United States",
-    "year": "1987",
-    "countryLabel": "United States",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q827638",
-    "itemLabel": "Bertelsmann Building",
-    "description": "office tower in Times Square in Manhattan, New York City",
-    "year": "1990",
-    "countryLabel": "United States",
     "sitelinks": "19"
   },
   {
@@ -1496,6 +1496,22 @@
     "sitelinks": "19"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q806676",
+    "itemLabel": "Miami Tower",
+    "description": "skyscraper in Miami, Florida, United States",
+    "year": "1987",
+    "countryLabel": "United States",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q827638",
+    "itemLabel": "Bertelsmann Building",
+    "description": "office tower in Times Square in Manhattan, New York City",
+    "year": "1990",
+    "countryLabel": "United States",
+    "sitelinks": "19"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5270",
     "itemLabel": "Tour Part-Dieu",
     "description": "skyscraper in Lyon, France",
@@ -1509,6 +1525,14 @@
     "description": "skyscraper in London, England",
     "year": "2005",
     "countryLabel": "United Kingdom",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q139815",
+    "itemLabel": "Grand International Mansion",
+    "description": "360-meter skyscraper located in Guangdong",
+    "year": "2012",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "19"
   },
   {
@@ -1528,22 +1552,6 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3533060",
-    "itemLabel": "Tour Duo",
-    "description": "Two skyscrapers in Paris",
-    "year": "2022",
-    "countryLabel": "France",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q139815",
-    "itemLabel": "Grand International Mansion",
-    "description": "360-meter skyscraper located in Guangdong",
-    "year": "2012",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1429748",
     "itemLabel": "Munttoren",
     "description": "tower in Amsterdam, the Netherlands",
@@ -1560,14 +1568,6 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2915137",
-    "itemLabel": "Shalom Meir Tower",
-    "description": "government, Commercial, Residential in Tel Aviv, Israel",
-    "year": "1965",
-    "countryLabel": "Israel",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q15790479",
     "itemLabel": "Burj Rafal",
     "description": "Hotel in Riyadh, Saudi Arabia",
@@ -1581,6 +1581,14 @@
     "description": "bridge in Vietnam",
     "year": "2013",
     "countryLabel": "Vietnam",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2915137",
+    "itemLabel": "Shalom Meir Tower",
+    "description": "government, Commercial, Residential in Tel Aviv, Israel",
+    "year": "1965",
+    "countryLabel": "Israel",
     "sitelinks": "19"
   },
   {
@@ -1616,10 +1624,10 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1821821",
-    "itemLabel": "Lever House",
-    "description": "Office building in Manhattan, New York",
-    "year": "1952",
+    "item": "http://www.wikidata.org/entity/Q19817578",
+    "itemLabel": "St. Regis Chicago",
+    "description": "supertall skyscraper in Chicago, Illinois, U.S.",
+    "year": "2020",
     "countryLabel": "United States",
     "sitelinks": "18"
   },
@@ -1656,6 +1664,14 @@
     "sitelinks": "18"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1821821",
+    "itemLabel": "Lever House",
+    "description": "Office building in Manhattan, New York",
+    "year": "1952",
+    "countryLabel": "United States",
+    "sitelinks": "18"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q249053",
     "itemLabel": "Złota 44",
     "description": "skyscraper",
@@ -1672,14 +1688,6 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1076144",
-    "itemLabel": "Chongqing World Financial Center",
-    "description": "skyscraper in Chongqing, China",
-    "year": "2014",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "18"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2041005",
     "itemLabel": "Tour Carpe Diem",
     "description": "skyscraper in Paris",
@@ -1688,19 +1696,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2724307",
-    "itemLabel": "Mahatma Gandhi Setu",
-    "description": "bridge in India Mahatma Gandhi setu patna",
-    "year": "1982",
-    "countryLabel": "India",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q380270",
-    "itemLabel": "Stanislav-Adziogol Lighthouse",
-    "description": "lighthouse in Ukraine",
-    "year": "1911",
-    "countryLabel": "Ukraine",
+    "item": "http://www.wikidata.org/entity/Q1076144",
+    "itemLabel": "Chongqing World Financial Center",
+    "description": "skyscraper in Chongqing, China",
+    "year": "2014",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "18"
   },
   {
@@ -1712,11 +1712,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q10413351",
-    "itemLabel": "Doha Tower",
-    "description": "high rise tower located in West Bay, Doha, Qatar",
-    "year": "2008",
-    "countryLabel": "Qatar",
+    "item": "http://www.wikidata.org/entity/Q380270",
+    "itemLabel": "Stanislav-Adziogol Lighthouse",
+    "description": "lighthouse in Ukraine",
+    "year": "1911",
+    "countryLabel": "Ukraine",
     "sitelinks": "18"
   },
   {
@@ -1728,6 +1728,38 @@
     "sitelinks": "18"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1735111",
+    "itemLabel": "The Landmark",
+    "description": "mixed-use in Abu Dhabi, United Arab Emirates",
+    "year": "2013",
+    "countryLabel": "United Arab Emirates",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q369338",
+    "itemLabel": "Dubai World Trade Centre",
+    "description": "architectural structure",
+    "year": "1979",
+    "countryLabel": "United Arab Emirates",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10413351",
+    "itemLabel": "Doha Tower",
+    "description": "high rise tower located in West Bay, Doha, Qatar",
+    "year": "2008",
+    "countryLabel": "Qatar",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2724307",
+    "itemLabel": "Mahatma Gandhi Setu",
+    "description": "bridge in India Mahatma Gandhi setu patna",
+    "year": "1982",
+    "countryLabel": "India",
+    "sitelinks": "18"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q498235",
     "itemLabel": "Yi Sun-sin Bridge",
     "description": "bridge in South Korea",
@@ -1736,11 +1768,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1735111",
-    "itemLabel": "The Landmark",
-    "description": "mixed-use in Abu Dhabi, United Arab Emirates",
-    "year": "2013",
-    "countryLabel": "United Arab Emirates",
+    "item": "http://www.wikidata.org/entity/Q10729282",
+    "itemLabel": "Jamuna Bridge",
+    "description": "bridge in Bangladesh",
+    "year": "1998",
+    "countryLabel": "Bangladesh",
     "sitelinks": "18"
   },
   {
@@ -1784,30 +1816,6 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19817578",
-    "itemLabel": "St. Regis Chicago",
-    "description": "supertall skyscraper in Chicago, Illinois, U.S.",
-    "year": "2020",
-    "countryLabel": "United States",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q606823",
-    "itemLabel": "Prudential Tower",
-    "description": "skyscraper in Boston, Massachusetts, United States",
-    "year": "1964",
-    "countryLabel": "United States",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1937376",
-    "itemLabel": "777 Tower",
-    "description": "skyscraper in Los Angeles, California",
-    "year": "1991",
-    "countryLabel": "United States",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1147483",
     "itemLabel": "Sahara Las Vegas",
     "description": "casino hotel in Las Vegas, Nevada",
@@ -1840,19 +1848,27 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1937376",
+    "itemLabel": "777 Tower",
+    "description": "skyscraper in Los Angeles, California",
+    "year": "1991",
+    "countryLabel": "United States",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q606823",
+    "itemLabel": "Prudential Tower",
+    "description": "skyscraper in Boston, Massachusetts, United States",
+    "year": "1964",
+    "countryLabel": "United States",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3052184",
     "itemLabel": "Tours Société Générale",
     "description": "two office skyscrapers located in La Défense",
     "year": "1995",
     "countryLabel": "France",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2742547",
-    "itemLabel": "122 Leadenhall Street",
-    "description": "address on Leadenhall Street in London, UK",
-    "year": "2014",
-    "countryLabel": "United Kingdom",
     "sitelinks": "17"
   },
   {
@@ -1864,11 +1880,11 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3114751",
-    "itemLabel": "Great Bridge of Hrazdan",
-    "description": "cultural heritage monument of Armenia",
-    "year": "1956",
-    "countryLabel": "Armenia",
+    "item": "http://www.wikidata.org/entity/Q2742547",
+    "itemLabel": "122 Leadenhall Street",
+    "description": "address on Leadenhall Street in London, UK",
+    "year": "2014",
+    "countryLabel": "United Kingdom",
     "sitelinks": "17"
   },
   {
@@ -1881,26 +1897,18 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q375910",
-    "itemLabel": "Argentine",
+    "itemLabel": "Kavanagh building",
     "description": "residential skyscraper in Retiro, Buenos Aires",
     "year": "1936",
     "countryLabel": "Argentina",
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q369338",
-    "itemLabel": "Dubai World Trade Centre",
-    "description": "architectural structure",
-    "year": "1979",
-    "countryLabel": "United Arab Emirates",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10729282",
-    "itemLabel": "Jamuna Bridge",
-    "description": "bridge in Bangladesh",
-    "year": "1998",
-    "countryLabel": "Bangladesh",
+    "item": "http://www.wikidata.org/entity/Q3114751",
+    "itemLabel": "Great Bridge of Hrazdan",
+    "description": "cultural heritage monument of Armenia",
+    "year": "1956",
+    "countryLabel": "Armenia",
     "sitelinks": "17"
   },
   {
@@ -1936,26 +1944,10 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q598604",
-    "itemLabel": "Terminal Tower",
-    "description": "landmark skyscraper in Downtown Cleveland, Ohio, United States",
-    "year": "1930",
-    "countryLabel": "United States",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q654279",
-    "itemLabel": "Aria Resort and Casino",
-    "description": "resort and casino in Las Vegas, Nevada",
-    "year": "2009",
-    "countryLabel": "United States",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1854509",
-    "itemLabel": "Park MGM",
-    "description": "casino resort in Las Vegas",
-    "year": "1996",
+    "item": "http://www.wikidata.org/entity/Q2446907",
+    "itemLabel": "53W53",
+    "description": "residential skyscraper in Manhattan, New York",
+    "year": "2020",
     "countryLabel": "United States",
     "sitelinks": "16"
   },
@@ -2008,19 +2000,27 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2340139",
-    "itemLabel": "Poniatowski Bridge",
-    "description": "bridge in Poland",
-    "year": "1914",
-    "countryLabel": "Poland",
+    "item": "http://www.wikidata.org/entity/Q1854509",
+    "itemLabel": "Park MGM",
+    "description": "casino resort in Las Vegas",
+    "year": "1996",
+    "countryLabel": "United States",
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2472396",
-    "itemLabel": "Torre del Mangia",
-    "description": "tower and museum in Siena",
-    "year": "1348",
-    "countryLabel": "Italy",
+    "item": "http://www.wikidata.org/entity/Q598604",
+    "itemLabel": "Terminal Tower",
+    "description": "landmark skyscraper in Downtown Cleveland, Ohio, United States",
+    "year": "1930",
+    "countryLabel": "United States",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q654279",
+    "itemLabel": "Aria Resort and Casino",
+    "description": "resort and casino in Las Vegas, Nevada",
+    "year": "2009",
+    "countryLabel": "United States",
     "sitelinks": "16"
   },
   {
@@ -2040,11 +2040,19 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2307670",
-    "itemLabel": "pont de Tolbiac",
-    "description": "bridge in Paris, France",
-    "year": "1882",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q2472396",
+    "itemLabel": "Torre del Mangia",
+    "description": "tower and museum in Siena",
+    "year": "1348",
+    "countryLabel": "Italy",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2340139",
+    "itemLabel": "Poniatowski Bridge",
+    "description": "bridge in Poland",
+    "year": "1914",
+    "countryLabel": "Poland",
     "sitelinks": "16"
   },
   {
@@ -2056,6 +2064,14 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2307670",
+    "itemLabel": "pont de Tolbiac",
+    "description": "bridge in Paris, France",
+    "year": "1882",
+    "countryLabel": "France",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2040985",
     "itemLabel": "Tour D2",
     "description": "skyscraper in the La Défense business district",
@@ -2064,18 +2080,18 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1069161",
-    "itemLabel": "Chelsea Tower",
-    "description": "skyscraper in Dubai, United Arab Emirates",
-    "year": "2005",
-    "countryLabel": "United Arab Emirates",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1641386",
     "itemLabel": "Sulafa Tower",
     "description": "residential in Dubai, United Arab Emirates",
     "year": "2011",
+    "countryLabel": "United Arab Emirates",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1069161",
+    "itemLabel": "Chelsea Tower",
+    "description": "skyscraper in Dubai, United Arab Emirates",
+    "year": "2005",
     "countryLabel": "United Arab Emirates",
     "sitelinks": "16"
   },
@@ -2093,14 +2109,6 @@
     "description": "skyscraper in Downtown Vancouver, British Columbia, Canada",
     "year": "2009",
     "countryLabel": "Canada",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1096141",
-    "itemLabel": "Act Tower",
-    "description": "skyscraper in Hamamatsu, Japan",
-    "year": "1994",
-    "countryLabel": "Japan",
     "sitelinks": "15"
   },
   {
@@ -2132,6 +2140,14 @@
     "itemLabel": "CenterPoint Energy Plaza",
     "description": "skyscraper in the United States",
     "year": "1974",
+    "countryLabel": "United States",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15264622",
+    "itemLabel": "35 Hudson Yards",
+    "description": "residential skyscraper in Manhattan, New York",
+    "year": "2019",
     "countryLabel": "United States",
     "sitelinks": "15"
   },
@@ -2176,14 +2192,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2446907",
-    "itemLabel": "53W53",
-    "description": "residential skyscraper in Manhattan, New York",
-    "year": "2020",
-    "countryLabel": "United States",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2687492",
     "itemLabel": "1 New York Plaza",
     "description": "office building in New York City",
@@ -2205,30 +2213,6 @@
     "description": "residential skyscraper in Downtown Austin, Texas",
     "year": "2010",
     "countryLabel": "United States",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15264622",
-    "itemLabel": "35 Hudson Yards",
-    "description": "residential skyscraper in Manhattan, New York",
-    "year": "2019",
-    "countryLabel": "United States",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q807955",
-    "itemLabel": "Barclay Tower",
-    "description": "skyscraper in New York City",
-    "year": "2007",
-    "countryLabel": "United States",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1190267",
-    "itemLabel": "Chipiona Lighthouse",
-    "description": "lighthouse in Chipiona, Province of Cádiz, Spain",
-    "year": "1867",
-    "countryLabel": "Spain",
     "sitelinks": "15"
   },
   {
@@ -2264,19 +2248,35 @@
     "sitelinks": "15"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1190267",
+    "itemLabel": "Chipiona Lighthouse",
+    "description": "lighthouse in Chipiona, Province of Cádiz, Spain",
+    "year": "1867",
+    "countryLabel": "Spain",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q806671",
+    "itemLabel": "Bank of America Plaza",
+    "description": "55-story class-A office skyscraper on Bunker Hill, Los Angeles",
+    "year": "1975",
+    "countryLabel": "United States",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q807955",
+    "itemLabel": "Barclay Tower",
+    "description": "skyscraper in New York City",
+    "year": "2007",
+    "countryLabel": "United States",
+    "sitelinks": "15"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q58208336",
     "itemLabel": "Tour La Marseillaise",
     "description": "Skyscraper in Marseille, France",
     "year": "2018",
     "countryLabel": "France",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2143957",
-    "itemLabel": "Maastoren",
-    "description": "skyscraper in Rotterdam",
-    "year": "2010",
-    "countryLabel": "Netherlands",
     "sitelinks": "15"
   },
   {
@@ -2293,6 +2293,14 @@
     "description": "complex of buildings in Milan, Italy",
     "year": "2011",
     "countryLabel": "Italy",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2143957",
+    "itemLabel": "Maastoren",
+    "description": "skyscraper in Rotterdam",
+    "year": "2010",
+    "countryLabel": "Netherlands",
     "sitelinks": "15"
   },
   {
@@ -2320,22 +2328,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2467654",
-    "itemLabel": "Pivnichnyi Bridge",
-    "description": "bridge in Ukraine",
-    "year": "1976",
-    "countryLabel": "Ukraine",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3396957",
-    "itemLabel": "Davtashen Bridge",
-    "description": "bridge in Armenia",
-    "year": "2000",
-    "countryLabel": "Armenia",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5952145",
     "itemLabel": "Avicenna Mausoleum",
     "description": "mausoleum tower in Hamadan, Iranian national heritage site",
@@ -2352,11 +2344,19 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15120372",
-    "itemLabel": "Yyldyz Hotel",
-    "description": "five stars hotel at Ashgabat, Turkmenistan",
-    "year": "2013",
-    "countryLabel": "Turkmenistan",
+    "item": "http://www.wikidata.org/entity/Q2467654",
+    "itemLabel": "Pivnichnyi Bridge",
+    "description": "bridge in Ukraine",
+    "year": "1976",
+    "countryLabel": "Ukraine",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3396957",
+    "itemLabel": "Davtashen Bridge",
+    "description": "bridge in Armenia",
+    "year": "2000",
+    "countryLabel": "Armenia",
     "sitelinks": "15"
   },
   {
@@ -2365,6 +2365,22 @@
     "description": "tower located in central Baghdad",
     "year": "1994",
     "countryLabel": "Iraq",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15120372",
+    "itemLabel": "Yyldyz Hotel",
+    "description": "five stars hotel at Ashgabat, Turkmenistan",
+    "year": "2013",
+    "countryLabel": "Turkmenistan",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1096141",
+    "itemLabel": "Act Tower",
+    "description": "skyscraper in Hamamatsu, Japan",
+    "year": "1994",
+    "countryLabel": "Japan",
     "sitelinks": "15"
   },
   {
@@ -2388,6 +2404,22 @@
     "itemLabel": "Americas Tower",
     "description": "skyscraper in New York City",
     "year": "1993",
+    "countryLabel": "United States",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15264301",
+    "itemLabel": "15 Hudson Yards",
+    "description": "residential skyscraper in Manhattan, New York",
+    "year": "2019",
+    "countryLabel": "United States",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15781036",
+    "itemLabel": "220 Central Park South",
+    "description": "New York City skyscraper",
+    "year": "2019",
     "countryLabel": "United States",
     "sitelinks": "14"
   },
@@ -2416,6 +2448,14 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2632341",
+    "itemLabel": "New York Hilton Midtown",
+    "description": "hotel in Manhattan, USA",
+    "year": "1963",
+    "countryLabel": "United States",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2944433",
     "itemLabel": "Central Park Place",
     "description": "residential skyscraper in Manhattan, New York",
@@ -2428,54 +2468,6 @@
     "itemLabel": "1095 Avenue of the Americas",
     "description": "Office skyscraper in Manhattan, New York",
     "year": "1974",
-    "countryLabel": "United States",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15264301",
-    "itemLabel": "15 Hudson Yards",
-    "description": "residential skyscraper in Manhattan, New York",
-    "year": "2019",
-    "countryLabel": "United States",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15781036",
-    "itemLabel": "220 Central Park South",
-    "description": "New York City skyscraper",
-    "year": "2019",
-    "countryLabel": "United States",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q680905",
-    "itemLabel": "345 California Center",
-    "description": "skyscraper",
-    "year": "1986",
-    "countryLabel": "United States",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q806671",
-    "itemLabel": "Bank of America Plaza",
-    "description": "55-story class-A office skyscraper on Bunker Hill, Los Angeles",
-    "year": "1975",
-    "countryLabel": "United States",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q806742",
-    "itemLabel": "14 Wall Street",
-    "description": "skyscraper in New York City",
-    "year": "1912",
-    "countryLabel": "United States",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q992616",
-    "itemLabel": "Four Seasons Hotel New York",
-    "description": "skyscraper in Manhattan, New York",
-    "year": "1993",
     "countryLabel": "United States",
     "sitelinks": "14"
   },
@@ -2512,18 +2504,34 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q680905",
+    "itemLabel": "345 California Center",
+    "description": "skyscraper",
+    "year": "1986",
+    "countryLabel": "United States",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q806742",
+    "itemLabel": "14 Wall Street",
+    "description": "skyscraper in New York City",
+    "year": "1912",
+    "countryLabel": "United States",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q992616",
+    "itemLabel": "Four Seasons Hotel New York",
+    "description": "skyscraper in Manhattan, New York",
+    "year": "1993",
+    "countryLabel": "United States",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3995200",
     "itemLabel": "Allianz Tower",
     "description": "building in Milan, Italy",
     "year": "2015",
-    "countryLabel": "Italy",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2792530",
-    "itemLabel": "Ponte Cavour",
-    "description": "bridge in Italy",
-    "year": "1901",
     "countryLabel": "Italy",
     "sitelinks": "14"
   },
@@ -2552,6 +2560,14 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2792530",
+    "itemLabel": "Ponte Cavour",
+    "description": "bridge in Italy",
+    "year": "1901",
+    "countryLabel": "Italy",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q432494",
     "itemLabel": "COSCO Tower",
     "description": "tower in Hong Kong",
@@ -2560,35 +2576,11 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2284719",
-    "itemLabel": "Strata SE1",
-    "description": "building at Elephant and Castle in the London Borough of Southwark",
-    "year": "2010",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "14"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q666483",
     "itemLabel": "Tour Granite",
     "description": "skyscraper in La Défense, France",
     "year": "2008",
     "countryLabel": "France",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6541959",
-    "itemLabel": "Zunda Towers",
-    "description": "skyscraper in Riga, Latvia",
-    "year": "2017",
-    "countryLabel": "Latvia",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2166585",
-    "itemLabel": "Lee Garden One",
-    "description": "office building and shopping mall in Hong Kong",
-    "year": "1997",
-    "countryLabel": "People's Republic of China",
     "sitelinks": "14"
   },
   {
@@ -2608,19 +2600,19 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q24906291",
-    "itemLabel": "Dr. Bhupen Hazarika Bridge",
-    "description": "bridge of Assam, India",
+    "item": "http://www.wikidata.org/entity/Q6541959",
+    "itemLabel": "Zunda Towers",
+    "description": "skyscraper in Riga, Latvia",
     "year": "2017",
-    "countryLabel": "India",
+    "countryLabel": "Latvia",
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3397334",
-    "itemLabel": "Pupin Bridge",
-    "description": "bridge in Serbia",
-    "year": "2014",
-    "countryLabel": "Serbia",
+    "item": "http://www.wikidata.org/entity/Q2284719",
+    "itemLabel": "Strata SE1",
+    "description": "building at Elephant and Castle in the London Borough of Southwark",
+    "year": "2010",
+    "countryLabel": "United Kingdom",
     "sitelinks": "14"
   },
   {
@@ -2637,6 +2629,30 @@
     "description": "skyscraper",
     "year": "2002",
     "countryLabel": "People's Republic of China",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q707379",
+    "itemLabel": "Hotel Kazakhstan",
+    "description": "skyscraper in Almaty, Kazakhstan",
+    "year": "1977",
+    "countryLabel": "Kazakhstan",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2166585",
+    "itemLabel": "Lee Garden One",
+    "description": "office building and shopping mall in Hong Kong",
+    "year": "1997",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24906291",
+    "itemLabel": "Dr. Bhupen Hazarika Bridge",
+    "description": "bridge of Assam, India",
+    "year": "2017",
+    "countryLabel": "India",
     "sitelinks": "14"
   },
   {
@@ -2664,20 +2680,12 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q683915",
-    "itemLabel": "One Wall Centre",
-    "description": "Skyscraper hotel in Vancouver, British Columbia",
-    "year": "2001",
-    "countryLabel": "Canada",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1134395",
-    "itemLabel": "Shinjuku Center Building",
-    "description": "skyscraper in Tokyo, Japan",
-    "year": "1979",
-    "countryLabel": "Japan",
-    "sitelinks": "13"
+    "item": "http://www.wikidata.org/entity/Q3397334",
+    "itemLabel": "Pupin Bridge",
+    "description": "bridge in Serbia",
+    "year": "2014",
+    "countryLabel": "Serbia",
+    "sitelinks": "14"
   },
   {
     "item": "http://www.wikidata.org/entity/Q164877",
@@ -2692,6 +2700,22 @@
     "itemLabel": "1250 René-Lévesque",
     "description": "skyscraper in Montreal, Quebec, Canada",
     "year": "1992",
+    "countryLabel": "Canada",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3533119",
+    "itemLabel": "Tour Les Poissons",
+    "description": "42-storey, 129.5 m (425 ft) skyscraper completed in 1970 in Courbevoie",
+    "year": "1970",
+    "countryLabel": "France",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q683915",
+    "itemLabel": "One Wall Centre",
+    "description": "Skyscraper hotel in Vancouver, British Columbia",
+    "year": "2001",
     "countryLabel": "Canada",
     "sitelinks": "13"
   },
@@ -2728,14 +2752,6 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2632341",
-    "itemLabel": "Hilton New York",
-    "description": "hotel in Manhattan, USA",
-    "year": "1963",
-    "countryLabel": "United States",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2781067",
     "itemLabel": "425 Fifth Avenue",
     "description": "residential skyscraper in Manhattan, New York",
@@ -2756,22 +2772,6 @@
     "itemLabel": "Chanin Building",
     "description": "office skyscraper in Manhattan, New York City, USA",
     "year": "1929",
-    "countryLabel": "United States",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q643334",
-    "itemLabel": "One Prudential Plaza",
-    "description": "architectural structure",
-    "year": "1955",
-    "countryLabel": "United States",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1816401",
-    "itemLabel": "140 Broadway",
-    "description": "Office skyscraper in Manhattan, New York",
-    "year": "1967",
     "countryLabel": "United States",
     "sitelinks": "13"
   },
@@ -2800,10 +2800,34 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1642787",
+    "itemLabel": "590 Madison Avenue",
+    "description": "skyscraper in New York City",
+    "year": "1983",
+    "countryLabel": "United States",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1749785",
     "itemLabel": "Southeast Financial Center",
     "description": "Real estate development in Miami, Florida",
     "year": "1984",
+    "countryLabel": "United States",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1816401",
+    "itemLabel": "140 Broadway",
+    "description": "Office skyscraper in Manhattan, New York",
+    "year": "1967",
+    "countryLabel": "United States",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q643334",
+    "itemLabel": "One Prudential Plaza",
+    "description": "architectural structure",
+    "year": "1955",
     "countryLabel": "United States",
     "sitelinks": "13"
   },
@@ -2832,19 +2856,27 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3533119",
-    "itemLabel": "Tour Les Poissons",
-    "description": "42-storey, 129.5 m (425 ft) skyscraper completed in 1970 in Courbevoie",
-    "year": "1970",
-    "countryLabel": "France",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q572970",
     "itemLabel": "Shenzhen Special Zone Press Tower",
     "description": "building in Futian, Shenzhen, Guangdong, China",
     "year": "1998",
     "countryLabel": "People's Republic of China",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q520281",
+    "itemLabel": "Bierpinsel",
+    "description": "restaurant tower in Berlin-Steglitz, Germany",
+    "year": "1976",
+    "countryLabel": "Germany",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1469829",
+    "itemLabel": "St George Wharf Tower",
+    "description": "skyscraper in Vauxhall, London",
+    "year": "2013",
+    "countryLabel": "United Kingdom",
     "sitelinks": "13"
   },
   {
@@ -2856,43 +2888,11 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2385650",
-    "itemLabel": "Rosario-Victoria Bridge",
-    "description": "bridge in Argentina",
-    "year": "2003",
-    "countryLabel": "Argentina",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3396600",
-    "itemLabel": "Kizuna bridge",
-    "description": "bridge in Cambodia",
-    "year": "2001",
-    "countryLabel": "Cambodia",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q707379",
-    "itemLabel": "Hotel Kazakhstan",
-    "description": "skyscraper in Almaty, Kazakhstan",
-    "year": "1977",
-    "countryLabel": "Kazakhstan",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q960951",
     "itemLabel": "Nauru House",
     "description": "office building in Melbourne, Australia",
     "year": "1977",
     "countryLabel": "Australia",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2684873",
-    "itemLabel": "Rạch Miễu Bridge",
-    "description": "bridge in Vietnam",
-    "year": "2009",
-    "countryLabel": "Vietnam",
     "sitelinks": "13"
   },
   {
@@ -2904,6 +2904,14 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2385650",
+    "itemLabel": "Rosario-Victoria Bridge",
+    "description": "bridge in Argentina",
+    "year": "2003",
+    "countryLabel": "Argentina",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7712376",
     "itemLabel": "Address Boulevard",
     "description": "hotel in Dubai",
@@ -2912,11 +2920,35 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1134566",
-    "itemLabel": "Shiodome City Center",
-    "description": "skyscraper",
-    "year": "2003",
+    "item": "http://www.wikidata.org/entity/Q3396600",
+    "itemLabel": "Kizuna bridge",
+    "description": "bridge in Cambodia",
+    "year": "2001",
+    "countryLabel": "Cambodia",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1134395",
+    "itemLabel": "Shinjuku Center Building",
+    "description": "skyscraper in Tokyo, Japan",
+    "year": "1979",
     "countryLabel": "Japan",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2684873",
+    "itemLabel": "Rạch Miễu Bridge",
+    "description": "bridge in Vietnam",
+    "year": "2009",
+    "countryLabel": "Vietnam",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1344856",
+    "itemLabel": "Place Ville Marie",
+    "description": "building complex",
+    "year": "1962",
+    "countryLabel": "Canada",
     "sitelinks": "12"
   },
   {
@@ -2941,6 +2973,46 @@
     "description": "skyscraper in Madrid",
     "year": "1976",
     "countryLabel": "Spain",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3749929",
+    "itemLabel": "Hotel Sky",
+    "description": "skyscraper in Barcelona, Spain",
+    "year": "2008",
+    "countryLabel": "Spain",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6464357",
+    "itemLabel": "La Constitución de 1812 Bridge",
+    "description": "Cable-stayed bridge in Spain",
+    "year": "2015",
+    "countryLabel": "Spain",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19833930",
+    "itemLabel": "One Manhattan Square",
+    "description": "skyscaper in New York City",
+    "year": "2019",
+    "countryLabel": "United States",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20445370",
+    "itemLabel": "1 World Trade Center",
+    "description": "north tower of the former New York World Trade Center, destroyed in 2001",
+    "year": "1972",
+    "countryLabel": "United States",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1134566",
+    "itemLabel": "Shiodome City Center",
+    "description": "skyscraper",
+    "year": "2003",
+    "countryLabel": "Japan",
     "sitelinks": "12"
   },
   {
@@ -2978,32 +3050,8 @@
   {
     "item": "http://www.wikidata.org/entity/Q3489200",
     "itemLabel": "345 Park Avenue",
-    "description": "skyscraper in the Midtown neighborhood of Manhattan, New York City, USA",
+    "description": "44-story office skyscraper on Park Avenue in Midtown Manhattan, developed and owned by Rudin",
     "year": "1969",
-    "countryLabel": "United States",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3749929",
-    "itemLabel": "Hotel Sky",
-    "description": "skyscraper in Barcelona, Spain",
-    "year": "2008",
-    "countryLabel": "Spain",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6464357",
-    "itemLabel": "La Constitución de 1812 Bridge",
-    "description": "Cable-stayed bridge in Spain",
-    "year": "2015",
-    "countryLabel": "Spain",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19833930",
-    "itemLabel": "One Manhattan Square",
-    "description": "skyscaper in New York City",
-    "year": "2019",
     "countryLabel": "United States",
     "sitelinks": "12"
   },
@@ -3020,14 +3068,6 @@
     "itemLabel": "888 7th Avenue",
     "description": "skyscraper in Manhattan, New York City, United States",
     "year": "1971",
-    "countryLabel": "United States",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1642787",
-    "itemLabel": "590 Madison Avenue",
-    "description": "skyscraper in New York City",
-    "year": "1983",
     "countryLabel": "United States",
     "sitelinks": "12"
   },
@@ -3056,11 +3096,11 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3433389",
-    "itemLabel": "Torre Reforma",
-    "description": "Mexico City building",
-    "year": "2016",
-    "countryLabel": "Mexico",
+    "item": "http://www.wikidata.org/entity/Q745733",
+    "itemLabel": "Grunwald Bridge",
+    "description": "bridge in Wroclaw",
+    "year": "1910",
+    "countryLabel": "Poland",
     "sitelinks": "12"
   },
   {
@@ -3088,6 +3128,30 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q241648",
+    "itemLabel": "Victoria Towers",
+    "description": "skyscraper and housing estate in Kwun Chung",
+    "year": "2003",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q640094",
+    "itemLabel": "Tour CBX",
+    "description": "skyscraper",
+    "year": "2005",
+    "countryLabel": "France",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3433389",
+    "itemLabel": "Torre Reforma",
+    "description": "Mexico City building",
+    "year": "2016",
+    "countryLabel": "Mexico",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3533014",
     "itemLabel": "Tour Adria",
     "description": "office skyscraper located in La Défense",
@@ -3104,19 +3168,27 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q745733",
-    "itemLabel": "Grunwald Bridge",
-    "description": "bridge in Wroclaw",
-    "year": "1910",
-    "countryLabel": "Poland",
+    "item": "http://www.wikidata.org/entity/Q4126008",
+    "itemLabel": "Voroshilovsky Bridge",
+    "description": "bridge in Rostov-on-Don, Russia",
+    "year": "1965",
+    "countryLabel": "Russia",
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q241648",
-    "itemLabel": "Victoria Towers",
-    "description": "skyscraper and housing estate in Kwun Chung",
-    "year": "2003",
-    "countryLabel": "People's Republic of China",
+    "item": "http://www.wikidata.org/entity/Q12367783",
+    "itemLabel": "Kuradisild",
+    "description": "bridge in Tartu, Estonia",
+    "year": "1913",
+    "countryLabel": "Estonia",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q555142",
+    "itemLabel": "Cologne Tower",
+    "description": "office building in Germany, designed by Jean Nouvel (1998-2001)",
+    "year": "2001",
+    "countryLabel": "Germany",
     "sitelinks": "12"
   },
   {
@@ -3128,27 +3200,27 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4126008",
-    "itemLabel": "Voroshilovsky Bridge",
-    "description": "bridge in Rostov-on-Don, Russia",
-    "year": "1965",
-    "countryLabel": "Russia",
+    "item": "http://www.wikidata.org/entity/Q849373",
+    "itemLabel": "Sun Hung Kai Centre",
+    "description": "skyscraper and office building in Hong Kong",
+    "year": "1981",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q640094",
-    "itemLabel": "Tour CBX",
-    "description": "skyscraper",
-    "year": "2005",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q1195796",
+    "itemLabel": "Yueyang Tower",
+    "description": "tower in Yueyang, Hunan Province, China",
+    "year": "1950",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12367783",
-    "itemLabel": "Kuradisild",
-    "description": "bridge in Tartu, Estonia",
-    "year": "1913",
-    "countryLabel": "Estonia",
+    "item": "http://www.wikidata.org/entity/Q5808483",
+    "itemLabel": "Aladdin Tower",
+    "description": "mausoleum tower in Varamin, Iranian national heritage site",
+    "year": "1289",
+    "countryLabel": "Iran",
     "sitelinks": "12"
   },
   {
@@ -3168,59 +3240,11 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q849373",
-    "itemLabel": "Sun Hung Kai Centre",
-    "description": "skyscraper and office building in Hong Kong",
-    "year": "1981",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q520281",
-    "itemLabel": "Bierpinsel",
-    "description": "restaurant tower in Berlin-Steglitz, Germany",
-    "year": "1976",
-    "countryLabel": "Germany",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q555142",
-    "itemLabel": "Cologne Tower",
-    "description": "office building in Germany, designed by Jean Nouvel (1998-2001)",
-    "year": "2001",
-    "countryLabel": "Germany",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5808483",
-    "itemLabel": "Aladdin Tower",
-    "description": "mausoleum tower in Varamin, Iranian national heritage site",
-    "year": "1289",
-    "countryLabel": "Iran",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1469829",
-    "itemLabel": "St George Wharf Tower",
-    "description": "skyscraper in Vauxhall, London",
-    "year": "2013",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1195796",
-    "itemLabel": "Yueyang Tower",
-    "description": "tower in Yueyang, Hunan Province, China",
-    "year": "1950",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2459733",
-    "itemLabel": "Tun Mustapha Tower",
-    "description": "skyscraper in Kota Kinabalu, Sabah, Malaysia",
-    "year": "1977",
-    "countryLabel": "Malaysia",
+    "item": "http://www.wikidata.org/entity/Q1500721",
+    "itemLabel": "Hercilio Luz Bridge",
+    "description": "oldest bridge between the island of Florianópolis and the Brazilian mainland",
+    "year": "1926",
+    "countryLabel": "Brazil",
     "sitelinks": "12"
   },
   {
@@ -3248,12 +3272,12 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1344856",
-    "itemLabel": "Place Ville Marie",
-    "description": "building complex",
-    "year": "1962",
-    "countryLabel": "Canada",
-    "sitelinks": "11"
+    "item": "http://www.wikidata.org/entity/Q2459733",
+    "itemLabel": "Tun Mustapha Tower",
+    "description": "skyscraper in Kota Kinabalu, Sabah, Malaysia",
+    "year": "1977",
+    "countryLabel": "Malaysia",
+    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1702873",
@@ -3296,6 +3320,14 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q24514224",
+    "itemLabel": "Green's Bridge",
+    "description": "Green's Bridge is a bridge over the River Nore in Kilkenny, Ireland.",
+    "year": "1766",
+    "countryLabel": "Ireland",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2648632",
     "itemLabel": "W Barcelona",
     "description": "hotel in Barcelona, Spain",
@@ -3304,11 +3336,11 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3533638",
-    "itemLabel": "Finance Tower",
-    "description": "building in Brussels, Belgium",
-    "year": "1983",
-    "countryLabel": "Belgium",
+    "item": "http://www.wikidata.org/entity/Q3756931",
+    "itemLabel": "10 East 40th Street",
+    "description": "skyscraper in New York City",
+    "year": "1929",
+    "countryLabel": "United States",
     "sitelinks": "11"
   },
   {
@@ -3344,34 +3376,18 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q24514224",
-    "itemLabel": "Green's Bridge",
-    "description": "Green's Bridge is a bridge over the River Nore in Kilkenny, Ireland.",
-    "year": "1766",
-    "countryLabel": "Ireland",
+    "item": "http://www.wikidata.org/entity/Q1364295",
+    "itemLabel": "The Ansonia",
+    "description": "building in New York City",
+    "year": "1904",
+    "countryLabel": "United States",
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3756931",
-    "itemLabel": "10 East 40th Street",
+    "item": "http://www.wikidata.org/entity/Q1551686",
+    "itemLabel": "Tower 49",
     "description": "skyscraper in New York City",
-    "year": "1929",
-    "countryLabel": "United States",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20445370",
-    "itemLabel": "1 World Trade Center",
-    "description": "north tower of the former New York World Trade Center, destroyed in 2001",
-    "year": "1972",
-    "countryLabel": "United States",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q634258",
-    "itemLabel": "Veer Towers",
-    "description": "condominium apartment complex in Las Vegas, Nevada",
-    "year": "2010",
+    "year": "1985",
     "countryLabel": "United States",
     "sitelinks": "11"
   },
@@ -3384,10 +3400,10 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1364295",
-    "itemLabel": "The Ansonia",
-    "description": "building in New York City",
-    "year": "1904",
+    "item": "http://www.wikidata.org/entity/Q634258",
+    "itemLabel": "Veer Towers",
+    "description": "condominium apartment complex in Las Vegas, Nevada",
+    "year": "2010",
     "countryLabel": "United States",
     "sitelinks": "11"
   },
@@ -3397,6 +3413,14 @@
     "description": "former truss tower in central Stockholm, Sweden",
     "year": "1887",
     "countryLabel": "Sweden",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3533638",
+    "itemLabel": "Finance Tower",
+    "description": "building in Brussels, Belgium",
+    "year": "1983",
+    "countryLabel": "Belgium",
     "sitelinks": "11"
   },
   {
@@ -3416,6 +3440,14 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q12256124",
+    "itemLabel": "Deji Plaza Phase 2",
+    "description": "building in Jiangsu, China",
+    "year": "2006",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2741526",
     "itemLabel": "De Rotterdam",
     "description": "skyscraper in Rotterdam, the Netherlands",
@@ -3424,11 +3456,11 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12256124",
-    "itemLabel": "Deji Plaza Phase 2",
-    "description": "building in Jiangsu, China",
-    "year": "2006",
-    "countryLabel": "People's Republic of China",
+    "item": "http://www.wikidata.org/entity/Q6777115",
+    "itemLabel": "Martinelli Building",
+    "description": "skyscraper in São Paulo, Brazil",
+    "year": "1929",
+    "countryLabel": "Brazil",
     "sitelinks": "11"
   },
   {
@@ -3445,22 +3477,6 @@
     "description": "skyscraper of mixed use, both residential and commercial",
     "year": "1973",
     "countryLabel": "France",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6777115",
-    "itemLabel": "Martinelli Building",
-    "description": "skyscraper in São Paulo, Brazil",
-    "year": "1929",
-    "countryLabel": "Brazil",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2915930",
-    "itemLabel": "Millbank Tower",
-    "description": "skyscraper in the City of Westminster in London",
-    "year": "1963",
-    "countryLabel": "United Kingdom",
     "sitelinks": "11"
   },
   {
@@ -3488,19 +3504,27 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2627718",
-    "itemLabel": "Malo-Kalinkin Bridge",
-    "description": "bridge in Russia",
-    "year": "1789",
-    "countryLabel": "Russia",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5565306",
     "itemLabel": "Giurgeni – Vadu Oii Bridge",
     "description": "bridge in Romania",
     "year": "1970",
     "countryLabel": "Romania",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2915930",
+    "itemLabel": "Millbank Tower",
+    "description": "skyscraper in the City of Westminster in London",
+    "year": "1963",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3555796",
+    "itemLabel": "Old Bridge",
+    "description": "bridge in Svilengrad, Bulgaria",
+    "year": "1529",
+    "countryLabel": "Bulgaria",
     "sitelinks": "11"
   },
   {
@@ -3520,27 +3544,19 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3555796",
-    "itemLabel": "Old Bridge",
-    "description": "bridge in Svilengrad, Bulgaria",
-    "year": "1529",
-    "countryLabel": "Bulgaria",
+    "item": "http://www.wikidata.org/entity/Q2627718",
+    "itemLabel": "Malo-Kalinkin Bridge",
+    "description": "bridge in Russia",
+    "year": "1789",
+    "countryLabel": "Russia",
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2559756",
-    "itemLabel": "Wadi Araba Crossing",
-    "description": "international border crossings between Jordan and Israel",
-    "year": "1994",
-    "countryLabel": "Israel",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2877453",
-    "itemLabel": "Sail Tower",
-    "description": "government offices in Haifa, Israel",
-    "year": "2002",
-    "countryLabel": "Israel",
+    "item": "http://www.wikidata.org/entity/Q905079",
+    "itemLabel": "Chongnyon Hotel",
+    "description": "hotel in Pyongyang, North Korea",
+    "year": "1989",
+    "countryLabel": "North Korea",
     "sitelinks": "11"
   },
   {
@@ -3560,6 +3576,30 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2559756",
+    "itemLabel": "Wadi Araba Crossing",
+    "description": "international border crossings between Jordan and Israel",
+    "year": "1994",
+    "countryLabel": "Israel",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2877453",
+    "itemLabel": "Sail Tower",
+    "description": "government offices in Haifa, Israel",
+    "year": "2002",
+    "countryLabel": "Israel",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q996209",
+    "itemLabel": "Wadi el Kuf Bridge",
+    "description": "bridge in Libya",
+    "year": "1971",
+    "countryLabel": "Libya",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3032279",
     "itemLabel": "Mỹ Thuận Bridge",
     "description": "bridge in Vietnam",
@@ -3568,12 +3608,12 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q905079",
-    "itemLabel": "Chongnyon Hotel",
-    "description": "hotel in Pyongyang, North Korea",
-    "year": "1989",
-    "countryLabel": "North Korea",
-    "sitelinks": "11"
+    "item": "http://www.wikidata.org/entity/Q1229086",
+    "itemLabel": "The Bow",
+    "description": "1,700,000 sq ft office building in downtown Calgary, Alberta, Canada",
+    "year": "2012",
+    "countryLabel": "Canada",
+    "sitelinks": "10"
   },
   {
     "item": "http://www.wikidata.org/entity/Q774178",
@@ -3584,11 +3624,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1229086",
-    "itemLabel": "The Bow",
-    "description": "1,700,000 sq ft office building in downtown Calgary, Alberta, Canada",
-    "year": "2012",
-    "countryLabel": "Canada",
+    "item": "http://www.wikidata.org/entity/Q555225",
+    "itemLabel": "Grand Prince Hotel Akasaka",
+    "description": "skyscraper in Japan",
+    "year": "1983",
+    "countryLabel": "Japan",
     "sitelinks": "10"
   },
   {
@@ -3604,30 +3644,6 @@
     "itemLabel": "Aloha Tower",
     "description": "observation tower at Honolulu Harbor, Hawaii, United States",
     "year": "1926",
-    "countryLabel": "United States",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2414200",
-    "itemLabel": "The Sherry-Netherland",
-    "description": "hotel in Manhattan, New York City, United States",
-    "year": "1927",
-    "countryLabel": "United States",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3133340",
-    "itemLabel": "Trump Palace Condominiums",
-    "description": "residential skyscraper in Manhattan, New York",
-    "year": "1991",
-    "countryLabel": "United States",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3487098",
-    "itemLabel": "U.S. Bank Center",
-    "description": "skyscraper in Milwaukee, Wisconsin, United States",
-    "year": "1973",
     "countryLabel": "United States",
     "sitelinks": "10"
   },
@@ -3656,9 +3672,33 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q961346",
-    "itemLabel": "333 South Wabash",
-    "description": "skyscraper in Chicago, Illinois, USA",
+    "item": "http://www.wikidata.org/entity/Q2414200",
+    "itemLabel": "The Sherry-Netherland",
+    "description": "hotel in Manhattan, New York City, United States",
+    "year": "1927",
+    "countryLabel": "United States",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2943880",
+    "itemLabel": "1211 Avenue of the Americas",
+    "description": "skyscraper in Midtown Manhattan, New York City",
+    "year": "1973",
+    "countryLabel": "United States",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3133340",
+    "itemLabel": "Trump Palace Condominiums",
+    "description": "residential skyscraper in Manhattan, New York",
+    "year": "1991",
+    "countryLabel": "United States",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3487098",
+    "itemLabel": "U.S. Bank Center",
+    "description": "skyscraper in Milwaukee, Wisconsin, United States",
     "year": "1973",
     "countryLabel": "United States",
     "sitelinks": "10"
@@ -3672,10 +3712,10 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1551686",
-    "itemLabel": "Tower 49",
-    "description": "skyscraper in New York City",
-    "year": "1985",
+    "item": "http://www.wikidata.org/entity/Q961346",
+    "itemLabel": "333 South Wabash",
+    "description": "skyscraper in Chicago, Illinois, USA",
+    "year": "1973",
     "countryLabel": "United States",
     "sitelinks": "10"
   },
@@ -3688,51 +3728,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2517000",
-    "itemLabel": "Ponte alle Grazie",
-    "description": "bridge in Italy",
-    "year": "1957",
-    "countryLabel": "Italy",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3397701",
-    "itemLabel": "Ponte Amerigo Vespucci",
-    "description": "bridge in Italy",
-    "year": "1957",
-    "countryLabel": "Italy",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3739779",
     "itemLabel": "Europa Point Lighthouse",
     "description": "lighthouse in Gibraltar",
     "year": "1841",
     "countryLabel": "United Kingdom",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3756298",
-    "itemLabel": "China Online Centre",
-    "description": "building in Hong Kong, China",
-    "year": "2000",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7598197",
-    "itemLabel": "Standard Chartered Bank Building",
-    "description": "building in Central, Hong Kong",
-    "year": "1990",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3397237",
-    "itemLabel": "Pont de l'Iroise",
-    "description": "bridge in France",
-    "year": "1994",
-    "countryLabel": "France",
     "sitelinks": "10"
   },
   {
@@ -3752,19 +3752,43 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2251949",
-    "itemLabel": "Jiali Plaza",
-    "description": "building in Wuhan, China",
-    "year": "1997",
+    "item": "http://www.wikidata.org/entity/Q3756298",
+    "itemLabel": "China Online Centre",
+    "description": "building in Hong Kong, China",
+    "year": "2000",
     "countryLabel": "People's Republic of China",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2595525",
-    "itemLabel": "Wuxi Suning Plaza 1",
-    "description": "building in Wuxi Suning Plaza 1, China",
-    "year": "2014",
+    "item": "http://www.wikidata.org/entity/Q7598197",
+    "itemLabel": "Standard Chartered Bank Building",
+    "description": "building in Central, Hong Kong",
+    "year": "1990",
     "countryLabel": "People's Republic of China",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2517000",
+    "itemLabel": "Ponte alle Grazie",
+    "description": "bridge in Italy",
+    "year": "1957",
+    "countryLabel": "Italy",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3397701",
+    "itemLabel": "Ponte Amerigo Vespucci",
+    "description": "bridge in Italy",
+    "year": "1957",
+    "countryLabel": "Italy",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3397237",
+    "itemLabel": "Pont de l'Iroise",
+    "description": "bridge in France",
+    "year": "1994",
+    "countryLabel": "France",
     "sitelinks": "10"
   },
   {
@@ -3784,22 +3808,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4250563",
-    "itemLabel": "Titanium La Portada",
-    "description": "skyscraper in Santiago, Chile",
-    "year": "2010",
-    "countryLabel": "Chile",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10862504",
-    "itemLabel": "Alvear Tower",
-    "description": "residential and hotel skyscraper in Buenos Aires",
-    "year": "2019",
-    "countryLabel": "Argentina",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1460090",
     "itemLabel": "Pont-Neuf",
     "description": "bridge in Toulouse, France",
@@ -3813,6 +3821,30 @@
     "description": "office skyscraper located in the business district of La Défense",
     "year": "1971",
     "countryLabel": "France",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4250563",
+    "itemLabel": "Titanium La Portada",
+    "description": "skyscraper in Santiago, Chile",
+    "year": "2010",
+    "countryLabel": "Chile",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1558596",
+    "itemLabel": "Wuxi IFS",
+    "description": "skyscraper",
+    "year": "2014",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10862504",
+    "itemLabel": "Alvear Tower",
+    "description": "residential and hotel skyscraper in Buenos Aires",
+    "year": "2019",
+    "countryLabel": "Argentina",
     "sitelinks": "10"
   },
   {
@@ -3864,6 +3896,62 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2251949",
+    "itemLabel": "Jiali Plaza",
+    "description": "building in Wuhan, China",
+    "year": "1997",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2595525",
+    "itemLabel": "Wuxi Suning Plaza 1",
+    "description": "building in Wuxi Suning Plaza 1, China",
+    "year": "2014",
+    "countryLabel": "People's Republic of China",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q535993",
+    "itemLabel": "Aliabad Tower",
+    "description": "mausoleum tower in Bardaskan County, Iranian national heritage site",
+    "year": "1400",
+    "countryLabel": "Iran",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28221159",
+    "itemLabel": "Sheikh Jaber al-Ahmad al-Sabah Causeway",
+    "description": "bridge in Kuwait",
+    "year": "2019",
+    "countryLabel": "Kuwait",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2037099",
+    "itemLabel": "Tehran International Tower",
+    "description": "residential skyscraper in Tehran, Iran",
+    "year": "2007",
+    "countryLabel": "Iran",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1813551",
+    "itemLabel": "Phra Pin-klao Bridge",
+    "description": "bridge in Thailand",
+    "year": "1973",
+    "countryLabel": "Thailand",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q120546",
+    "itemLabel": "Empire Tower",
+    "description": "Bangkok skyscraper",
+    "year": "1999",
+    "countryLabel": "Thailand",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3396551",
     "itemLabel": "General Belgrano Bridge",
     "description": "road bridge in Argentina",
@@ -3880,54 +3968,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2671245",
-    "itemLabel": "Jordan River Crossing",
-    "description": "international border crossings between Jordan and Palestine",
-    "year": "1994",
-    "countryLabel": "Israel",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1558596",
-    "itemLabel": "Wuxi IFS",
-    "description": "skyscraper",
-    "year": "2014",
-    "countryLabel": "People's Republic of China",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q535993",
-    "itemLabel": "Aliabad Tower",
-    "description": "mausoleum tower in Bardaskan County, Iranian national heritage site",
-    "year": "1400",
-    "countryLabel": "Iran",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1500721",
-    "itemLabel": "Hercilio Luz Bridge",
-    "description": "oldest bridge between the island of Florianópolis and the Brazilian mainland",
-    "year": "1926",
-    "countryLabel": "Brazil",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q120546",
-    "itemLabel": "Empire Tower",
-    "description": "Bangkok skyscraper",
-    "year": "1999",
-    "countryLabel": "Thailand",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2037099",
-    "itemLabel": "Tehran International Tower",
-    "description": "residential skyscraper in Tehran, Iran",
-    "year": "2007",
-    "countryLabel": "Iran",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4346741",
     "itemLabel": "Thanh Hoa Bridge",
     "description": "bridge in Thanh Hoa, Vietnam",
@@ -3936,19 +3976,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q996209",
-    "itemLabel": "Wadi el Kuf Bridge",
-    "description": "bridge in Libya",
-    "year": "1971",
-    "countryLabel": "Libya",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1813551",
-    "itemLabel": "Phra Pin-klao Bridge",
-    "description": "bridge in Thailand",
-    "year": "1973",
-    "countryLabel": "Thailand",
+    "item": "http://www.wikidata.org/entity/Q2671245",
+    "itemLabel": "Jordan River Crossing",
+    "description": "international border crossings between Jordan and Palestine",
+    "year": "1994",
+    "countryLabel": "Israel",
     "sitelinks": "10"
   }
 ]

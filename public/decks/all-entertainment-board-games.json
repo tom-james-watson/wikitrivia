@@ -42,7 +42,7 @@
   {
     "qid": "Q170436",
     "title": "‘Scrabble’ is released",
-    "subtitle": "Board game by Hasbro",
+    "subtitle": "Board game by Mattel",
     "year": 1938,
     "fact": "Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares.",
     "wikipediaSlug": "Scrabble",
@@ -92,7 +92,7 @@
   {
     "qid": "Q1319521",
     "title": "‘The Game of Life’ is released",
-    "subtitle": "Board game by Hasbro",
+    "subtitle": "Board game by Winning Moves",
     "year": 1960,
     "fact": "The Game of Life, also known simply as Life, is a board game originally created in 1860 by Milton Bradley as The Checkered Game of Life, the first ever board game for his own company, the Milton Bradley Company.",
     "wikipediaSlug": "The_Game_of_Life",
@@ -122,7 +122,7 @@
   {
     "qid": "Q25203543",
     "title": "‘Codenames’ is released",
-    "subtitle": "Board game by Iello",
+    "subtitle": "Board game by White Goblin Games",
     "year": 2015,
     "fact": "Codenames is a 2015 party board game designed by Vlaada Chvátil and published by Czech Games Edition (CGE).",
     "wikipediaSlug": "Codenames_(board_game)",
@@ -192,7 +192,7 @@
   {
     "qid": "Q611991",
     "title": "‘Twister’ is released",
-    "subtitle": "Board game by Milton Bradley Company",
+    "subtitle": "Board game by Winning Moves",
     "year": 1966,
     "fact": "Twister is a game of physical skill produced by Milton Bradley Company and Winning Moves Games USA.",
     "wikipediaSlug": "Twister_(game)",
@@ -222,7 +222,7 @@
   {
     "qid": "Q36719002",
     "title": "‘Scythe’ is released",
-    "subtitle": "Board game by Matagot",
+    "subtitle": "Board game by Stonemaier Games",
     "year": 2016,
     "fact": "Scythe is a board game for one to five players designed by Jamey Stegmaier and published by Stonemaier Games in 2016.",
     "wikipediaSlug": "Scythe_(board_game)",
@@ -252,7 +252,7 @@
   {
     "qid": "Q17276",
     "title": "‘7 Wonders’ is released",
-    "subtitle": "Board game by Repos Production",
+    "subtitle": "Board game by Korea Boardgames",
     "year": 2010,
     "fact": "7 Wonders is a board game created by Antoine Bauza in 2010 and originally published by Repos Production.",
     "wikipediaSlug": "7_Wonders_(board_game)",
@@ -332,7 +332,7 @@
   {
     "qid": "Q17247",
     "title": "‘Abalone’ is released",
-    "subtitle": "Board game by Asmodee",
+    "subtitle": "Board game by",
     "year": 1990,
     "fact": "Abalone is a two-player abstract strategy board game designed by Michel Lalet and Laurent Lévi in 1987.",
     "wikipediaSlug": "Abalone_(board_game)",
@@ -352,7 +352,7 @@
   {
     "qid": "Q1457040",
     "title": "‘Puerto Rico’ is released",
-    "subtitle": "Board game by Tilsit Éditions",
+    "subtitle": "Board game by Rio Grande Games",
     "year": 2002,
     "fact": "Puerto Rico is a Euro-style board game designed by German designer Andreas Seyfarth and published in 2002 in a German-language edition by Alea.",
     "wikipediaSlug": "Puerto_Rico_(board_game)",
@@ -372,12 +372,22 @@
   {
     "qid": "Q1571026",
     "title": "‘Small World’ is released",
-    "subtitle": "Board game by Asmodee",
+    "subtitle": "Board game by",
     "year": 2009,
     "fact": "Small World is a board game designed by Philippe Keyaerts, Illustrated by Miguel Coimbra and Cyrille Daujean as graphic designer, and published by Days of Wonder in 2009.",
     "wikipediaSlug": "Small_World_(board_game)",
     "image": "Small_World_in_Fiskars.jpg",
     "pageViews": 1419
+  },
+  {
+    "qid": "Q1474394",
+    "title": "‘Power Grid’ is released",
+    "subtitle": "Board game by Rio Grande Games",
+    "year": 2004,
+    "fact": "Power Grid is the English-language version of the second edition of the multiplayer German-style board game Funkenschlag, designed by Friedemann Friese and first released in 2004.",
+    "wikipediaSlug": "Power_Grid",
+    "image": "PGbox_cover_cropped.jpg",
+    "pageViews": 1389
   },
   {
     "qid": "Q494713",

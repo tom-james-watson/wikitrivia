@@ -40,36 +40,6 @@
     "pageViews": 52006
   },
   {
-    "qid": "Q85764357",
-    "title": "GrapheneOS is released",
-    "subtitle": "Operating System",
-    "year": 2019,
-    "fact": "GrapheneOS is a free and open-source, privacy- and security-focused, Android-based operating system for Google Pixel and future Motorola devices.",
-    "wikipediaSlug": "GrapheneOS",
-    "image": "GrapheneOS_Home_Screen.png",
-    "pageViews": 46690
-  },
-  {
-    "qid": "Q126392721",
-    "title": "IOS 18 is released",
-    "subtitle": "Operating System",
-    "year": 2024,
-    "fact": "iOS 18 is the eighteenth major release of Apple's iOS operating system for the iPhone.",
-    "wikipediaSlug": "IOS_18",
-    "image": "IOS_18_Home_Screen_iPhone_12.png",
-    "pageViews": 42827
-  },
-  {
-    "qid": "Q2027",
-    "title": "Linux Mint is released",
-    "subtitle": "Operating System",
-    "year": 2006,
-    "fact": "Linux Mint is a community-developed Linux distribution based on Ubuntu.",
-    "wikipediaSlug": "Linux_Mint",
-    "image": "LinuxMint22-Wilma-English.png",
-    "pageViews": 36857
-  },
-  {
     "qid": "Q48267",
     "title": "Fedora Linux is released",
     "subtitle": "Operating System",
@@ -200,16 +170,6 @@
     "pageViews": 15128
   },
   {
-    "qid": "Q64350339",
-    "title": "IPadOS is released",
-    "subtitle": "Operating System",
-    "year": 2019,
-    "fact": "iPadOS is a mobile operating system developed by Apple for its iPad line of tablet computers.",
-    "wikipediaSlug": "IPadOS",
-    "image": "IPadOS_wordmark.svg",
-    "pageViews": 15051
-  },
-  {
     "qid": "Q17298682",
     "title": "Android TV is released",
     "subtitle": "Operating System",
@@ -238,16 +198,6 @@
     "wikipediaSlug": "Oracle_Solaris",
     "image": "Oracle_Solaris_11,_running_with_GNOME_3.png",
     "pageViews": 13494
-  },
-  {
-    "qid": "Q207542",
-    "title": "CentOS is released",
-    "subtitle": "Operating System",
-    "year": 2004,
-    "fact": "CentOS is a discontinued Linux distribution that provided a free and open-source community-supported computing platform, functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL).",
-    "wikipediaSlug": "CentOS",
-    "image": "CentOS_8.5_screenshot.png",
-    "pageViews": 12742
   },
   {
     "qid": "Q54807273",
@@ -480,16 +430,6 @@
     "pageViews": 8021
   },
   {
-    "qid": "Q50364330",
-    "title": "Android Pie is released",
-    "subtitle": "Operating System",
-    "year": 2018,
-    "fact": "Android 9 Pie is the ninth major release and the 16th version of the Android mobile operating system.",
-    "wikipediaSlug": "Android_Pie",
-    "image": "Android_Pie.png",
-    "pageViews": 7866
-  },
-  {
     "qid": "Q476915",
     "title": "Mac OS X Lion is released",
     "subtitle": "Operating System",
@@ -508,6 +448,16 @@
     "wikipediaSlug": "Oracle_Linux",
     "image": "Oracle_Linux_9_screenshot.png",
     "pageViews": 7272
+  },
+  {
+    "qid": "Q220182",
+    "title": "Red Hat Linux is released",
+    "subtitle": "Operating System",
+    "year": 1994,
+    "fact": "Red Hat Linux was a widely used commercial open-source Linux distribution created by Red Hat until its discontinuation in 2004.",
+    "wikipediaSlug": "Red_Hat_Linux",
+    "image": "GNOME_2.2_on_Red_Hat_Linux_9_--_2003-02.png",
+    "pageViews": 6776
   },
   {
     "qid": "Q739186",

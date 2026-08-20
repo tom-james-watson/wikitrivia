@@ -24,20 +24,20 @@
     "sitelinks": "104"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q691402",
+    "itemLabel": "Philip IV of Spain",
+    "positionLabel": "Monarch of Castile and Leon",
+    "sexLabel": "male",
+    "year": "1621",
+    "sitelinks": "83"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q36174",
     "itemLabel": "Charles II of Spain",
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1665",
     "sitelinks": "82"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q691402",
-    "itemLabel": "Philip IV of Spain",
-    "positionLabel": "Monarch of Castile and Leon",
-    "sexLabel": "male",
-    "year": "1621",
-    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170467",
@@ -53,7 +53,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1598",
-    "sitelinks": "76"
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47595",
@@ -77,7 +77,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1230",
-    "sitelinks": "52"
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q310918",
@@ -85,7 +85,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1454",
-    "sitelinks": "48"
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q297278",
@@ -93,7 +93,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1407",
-    "sitelinks": "47"
+    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q298808",
@@ -101,7 +101,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1312",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312104",
@@ -109,7 +109,15 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1390",
-    "sitelinks": "44"
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q262363",
+    "itemLabel": "Henry II of Castile",
+    "positionLabel": "Monarch of Castile and Leon",
+    "sexLabel": "male",
+    "year": "1369",
+    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q310963",
@@ -120,20 +128,12 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q262363",
-    "itemLabel": "Henry II of Castile",
-    "positionLabel": "Monarch of Castile and Leon",
-    "sexLabel": "male",
-    "year": "1369",
-    "sitelinks": "42"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q310421",
     "itemLabel": "John I of Castile and Leon",
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1379",
-    "sitelinks": "41"
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312110",
@@ -141,7 +141,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1284",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q316859",
@@ -149,7 +149,7 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1295",
-    "sitelinks": "33"
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q559279",
@@ -157,6 +157,6 @@
     "positionLabel": "Monarch of Castile and Leon",
     "sexLabel": "male",
     "year": "1465",
-    "sitelinks": "28"
+    "sitelinks": "29"
   }
 ]

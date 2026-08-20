@@ -12,7 +12,7 @@
   {
     "qid": "Q23",
     "title": "George Washington dies",
-    "subtitle": "Founding Father and first U.S. president; soldier and slave owner",
+    "subtitle": "Founding Father and first U.S. president",
     "year": 1799,
     "fact": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797.",
     "wikipediaSlug": "George_Washington",
@@ -41,7 +41,7 @@
   },
   {
     "qid": "Q80823",
-    "title": "Anne Boleyn dies",
+    "title": "Ana Bolena dies",
     "subtitle": "Second wife of Henry VIII of England",
     "year": 1536,
     "fact": "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII.",
@@ -62,7 +62,7 @@
   {
     "qid": "Q36450",
     "title": "Catherine II of Russia dies",
-    "subtitle": "The eighth and greatest Emperor of Russia",
+    "subtitle": null,
     "year": 1796,
     "fact": "Catherine II, commonly known as Catherine the Great, was the Empress of Russia from 1762 to 1796.",
     "wikipediaSlug": "Catherine_the_Great",
@@ -142,7 +142,7 @@
   {
     "qid": "Q122553",
     "title": "Charles II of England dies",
-    "subtitle": null,
+    "subtitle": "King of England, Scotland, and Ireland",
     "year": 1685,
     "fact": "Charles II was King of Scotland from 1649 until 1651 and King of England, Scotland, and Ireland from the 1660 Restoration of the monarchy until his death in 1685.",
     "wikipediaSlug": "Charles_II_of_England",
@@ -611,7 +611,7 @@
   },
   {
     "qid": "Q47674",
-    "title": "Américo Vespucio dies",
+    "title": "Amerigo Vespucci dies",
     "subtitle": "Florentine explorer, financier, navigator and cartographer",
     "year": 1512,
     "fact": "Amerigo Vespucci was an Italian explorer and navigator from the Republic of Florence after whom America is named.",
@@ -782,7 +782,7 @@
   {
     "qid": "Q130752",
     "title": "Elizabeth I of Russia dies",
-    "subtitle": "The sixth Emperor of Russia",
+    "subtitle": null,
     "year": 1762,
     "fact": "Elizabeth or Elizaveta Petrovna was Empress of Russia from 1741 until her death in 1762.",
     "wikipediaSlug": "Elizabeth_of_Russia",
@@ -891,7 +891,7 @@
   },
   {
     "qid": "Q165983",
-    "title": "Bayezid II dies",
+    "title": "Selim i dies",
     "subtitle": "The eighth Sultan of the Ottoman Empire",
     "year": 1512,
     "fact": "Bayezid II was the sultan of the Ottoman Empire from 1481 to 1512.",
@@ -1160,16 +1160,6 @@
     "pageViews": 17372
   },
   {
-    "qid": "Q152428",
-    "title": "Eugene of Savoy dies",
-    "subtitle": null,
-    "year": 1736,
-    "fact": "Prince Eugene Francis of Savoy-Carignano, better known as Prince Eugene, was a distinguished feldmarschall in the Army of the Holy Roman Empire and of the Austrian Habsburg dynasty during the 17th and 18th centuries.",
-    "wikipediaSlug": "Prince_Eugene_of_Savoy",
-    "image": "Prinz_Eugene_of_Savoy.PNG",
-    "pageViews": 17313
-  },
-  {
     "qid": "Q448",
     "title": "Denis Diderot dies",
     "subtitle": "French Enlightenment philosopher writer and encyclopædist",
@@ -1410,6 +1400,16 @@
     "pageViews": 8836
   },
   {
+    "qid": "Q708525",
+    "title": "Jacob Frank dies",
+    "subtitle": "Polish-Jewish religious leader",
+    "year": 1791,
+    "fact": "Jacob Joseph Frank was a Polish-Jewish religious leader who claimed to be the reincarnation of the self-proclaimed messiah Sabbatai Zevi (1626–1676) and also of the biblical patriarch Jacob.",
+    "wikipediaSlug": "Jacob_Frank",
+    "image": "Jakub_Frank.jpg",
+    "pageViews": 8768
+  },
+  {
     "qid": "Q317149",
     "title": "John Fisher dies",
     "subtitle": "English Roman Catholic cardinal and saint",
@@ -1428,6 +1428,16 @@
     "wikipediaSlug": "Tintoretto",
     "image": "Tintoretto-selfport.jpg",
     "pageViews": 8569
+  },
+  {
+    "qid": "Q5676",
+    "title": "Matsuo Bashō dies",
+    "subtitle": "Japanese poet",
+    "year": 1694,
+    "fact": "Matsuo Bashō ; born Matsuo Kinsaku, later known as Matsuo Chūemon Munefusa was the most famous Japanese poet of the Edo period.",
+    "wikipediaSlug": "Matsuo_Bash%C5%8D",
+    "image": "Basho_by_Morikawa_Kyoriku_(1656-1715).jpg",
+    "pageViews": 8516
   },
   {
     "qid": "Q81130",
@@ -1511,8 +1521,8 @@
   },
   {
     "qid": "Q332790",
-    "title": "Leo Africanus dies",
-    "subtitle": "Andalusian author",
+    "title": "Liyūn al-Ifrīqī dies",
+    "subtitle": null,
     "year": 1600,
     "fact": "Johannes Leo Africanus was an Andalusi diplomat and author who is best known for his 1526 book Cosmographia et geographia de Affrica, later published by Giovanni Battista Ramusio as Descrittione dell'Africa in 1550, centered on the geography of the Maghreb and Nile Valley.",
     "wikipediaSlug": "Leo_Africanus",
@@ -1731,8 +1741,8 @@
   },
   {
     "qid": "Q311187",
-    "title": "Frančesco Redi dies",
-    "subtitle": "Italian entomologist and poets",
+    "title": "Francesco Redi dies",
+    "subtitle": "Italian entomologist and poet",
     "year": 1697,
     "fact": "Francesco Redi was an Italian physician, naturalist, biologist, and poet.",
     "wikipediaSlug": "Francesco_Redi",

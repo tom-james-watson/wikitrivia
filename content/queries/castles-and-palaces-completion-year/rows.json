@@ -5,7 +5,7 @@
     "description": "Chinese imperial palace in Beijing",
     "year": "1923",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "103"
+    "sitelinks": "104"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182147",
@@ -13,7 +13,7 @@
     "description": "former imperial palace in Saint Petersburg, Russia",
     "year": "1762",
     "countryLabel": "Russia",
-    "sitelinks": "75"
+    "sitelinks": "76"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51252",
@@ -37,7 +37,7 @@
     "description": "palace near St. Petersburg",
     "year": "1756",
     "countryLabel": "Russia",
-    "sitelinks": "55"
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46242",
@@ -45,7 +45,7 @@
     "description": "palace located in Vienna, Austria",
     "year": "1913",
     "countryLabel": "Austria",
-    "sitelinks": "54"
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q274141",
@@ -72,19 +72,19 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q167566",
-    "itemLabel": "Palace of Culture and Science",
-    "description": "high-rise building and house of culture in Warsaw, Poland",
-    "year": "1955",
-    "countryLabel": "Poland",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q202902",
     "itemLabel": "The Crystal Palace",
     "description": "former building originally in Hyde Park, London, 1854 relocated to Bromley, South London",
     "year": "1851",
     "countryLabel": "United Kingdom",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q167566",
+    "itemLabel": "Palace of Culture and Science",
+    "description": "high-rise building and house of culture in Warsaw, Poland",
+    "year": "1955",
+    "countryLabel": "Poland",
     "sitelinks": "51"
   },
   {
@@ -98,10 +98,18 @@
   {
     "item": "http://www.wikidata.org/entity/Q115253",
     "itemLabel": "Takht-e Soleyman",
-    "description": "archaeological site in West Azarbaijan, Iranian national heritage site",
+    "description": "archaeological site in Takab County, Iranian national heritage site",
     "year": "-500",
     "countryLabel": "Iran",
-    "sitelinks": "49"
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4706020",
+    "itemLabel": "Alamut Castle",
+    "description": "castle in Qazvin County, Iranian national heritage site and World heritage site",
+    "year": "860",
+    "countryLabel": "Iran",
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q164150",
@@ -109,14 +117,6 @@
     "description": "multi-purpose building in Romania",
     "year": "1994",
     "countryLabel": "Romania",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4706020",
-    "itemLabel": "Alamut Castle",
-    "description": "castle in Qazvin County, Iranian national heritage site",
-    "year": "860",
-    "countryLabel": "Iran",
     "sitelinks": "45"
   },
   {
@@ -128,11 +128,27 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1353643",
+    "itemLabel": "Swallow's Nest",
+    "description": "decorative castle located between Yalta and Alupka on the Crimean peninsula",
+    "year": "1912",
+    "countryLabel": "Russia",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q317091",
     "itemLabel": "Bellevue Palace",
     "description": "official residence in Berlin for the President of the Federal Republic of Germany",
     "year": "1786",
     "countryLabel": "Germany",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1740560",
+    "itemLabel": "Palace of Shaki Khans",
+    "description": "Palace in Azerbaijan",
+    "year": "1797",
+    "countryLabel": "Azerbaijan",
     "sitelinks": "36"
   },
   {
@@ -141,15 +157,7 @@
     "description": "Neo-Renaissance royal castle in Sinaia, Romania",
     "year": "1883",
     "countryLabel": "Romania",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1740560",
-    "itemLabel": "Palace of Shaki Khans",
-    "description": "Palace in Azerbaijan",
-    "year": "1797",
-    "countryLabel": "Azerbaijan",
-    "sitelinks": "35"
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q496950",
@@ -158,6 +166,14 @@
     "year": "1960",
     "countryLabel": "Brazil",
     "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16566",
+    "itemLabel": "Chehel Sotun",
+    "description": "palace in Isfahan, Iranian national heritage site",
+    "year": "1647",
+    "countryLabel": "Iran",
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2047548",
@@ -174,14 +190,6 @@
     "year": "1849",
     "countryLabel": "Russia",
     "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16566",
-    "itemLabel": "Chehel Sotun",
-    "description": "palace in Isfahan, Iranian national heritage site",
-    "year": "1647",
-    "countryLabel": "Iran",
-    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q766938",
@@ -240,6 +248,14 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q677383",
+    "itemLabel": "New Palace",
+    "description": "Palace in Sanssouci, Potsdam, Brandenburg, Germany",
+    "year": "1769",
+    "countryLabel": "Germany",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1314130",
     "itemLabel": "Hasht Behesht Palace",
     "description": "palace in Isfahan, Iranian national heritage site",
@@ -256,28 +272,12 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q677383",
-    "itemLabel": "New Palace",
-    "description": "Palace in Sanssouci, Potsdam, Brandenburg, Germany",
-    "year": "1769",
-    "countryLabel": "Germany",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2187746",
     "itemLabel": "Lake Palace",
     "description": "former palace, today hotel on the Jag Niwas island in Lake Pichola, Udaipur, India",
     "year": "1965",
     "countryLabel": "India",
     "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2034331",
-    "itemLabel": "Palazzo Rosso",
-    "description": "historical palace in Genoa, Italy",
-    "year": "1677",
-    "countryLabel": "Italy",
-    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32434",
@@ -288,12 +288,20 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7084890",
-    "itemLabel": "Old Royal Palace",
-    "description": "building of the Hellenic Parliament, formerly a royal palace",
-    "year": "1843",
-    "countryLabel": "Greece",
-    "sitelinks": "22"
+    "item": "http://www.wikidata.org/entity/Q2034331",
+    "itemLabel": "Palazzo Rosso",
+    "description": "historical palace in Genoa, Italy",
+    "year": "1677",
+    "countryLabel": "Italy",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1508013",
+    "itemLabel": "Jelgava Palace",
+    "description": "château",
+    "year": "1772",
+    "countryLabel": "Latvia",
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2033910",
@@ -304,11 +312,11 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1508013",
-    "itemLabel": "Jelgava Palace",
-    "description": "château",
-    "year": "1772",
-    "countryLabel": "Latvia",
+    "item": "http://www.wikidata.org/entity/Q7084890",
+    "itemLabel": "Old Royal Palace",
+    "description": "building of the Hellenic Parliament, formerly a royal palace",
+    "year": "1843",
+    "countryLabel": "Greece",
     "sitelinks": "22"
   },
   {
@@ -328,19 +336,19 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q509638",
-    "itemLabel": "National Palace",
-    "description": "former official residence of the President of Haiti",
-    "year": "1918",
-    "countryLabel": "Haiti",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q15075626",
     "itemLabel": "Marble Palace",
     "description": "palace in Tehran, Iranian national heritage site",
     "year": "1934",
     "countryLabel": "Iran",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q509638",
+    "itemLabel": "National Palace",
+    "description": "former official residence of the President of Haiti",
+    "year": "1918",
+    "countryLabel": "Haiti",
     "sitelinks": "21"
   },
   {
@@ -352,19 +360,19 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2629065",
-    "itemLabel": "Presidential Mansion",
-    "description": "building in Athens and official residence of the president of Greece",
-    "year": "1897",
-    "countryLabel": "Greece",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1158530",
     "itemLabel": "Daming Palace",
     "description": "archaeological site and history museum in Xi'an, China",
     "year": "2010",
     "countryLabel": "People's Republic of China",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2629065",
+    "itemLabel": "Presidential Mansion",
+    "description": "building in Athens and official residence of the president of Greece",
+    "year": "1897",
+    "countryLabel": "Greece",
     "sitelinks": "20"
   },
   {
@@ -400,14 +408,6 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q808618",
-    "itemLabel": "Baron Empain Palace",
-    "description": "architectural structure in Heliopolis, a suburb near Cairo, Egypt",
-    "year": "1911",
-    "countryLabel": "Egypt",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1817122",
     "itemLabel": "Château d'Écouen",
     "description": "castle in Écouen, France",
@@ -421,6 +421,22 @@
     "description": "castle in France",
     "year": "1879",
     "countryLabel": "France",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q808618",
+    "itemLabel": "Baron Empain Palace",
+    "description": "architectural structure in Heliopolis, a suburb near Cairo, Egypt",
+    "year": "1911",
+    "countryLabel": "Egypt",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5868468",
+    "itemLabel": "People's Palace, Damascus",
+    "description": "Official residence of the president of Syria",
+    "year": "1990",
+    "countryLabel": "Syria",
     "sitelinks": "17"
   },
   {
@@ -440,6 +456,14 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q20949683",
+    "itemLabel": "Palazzo Ferreria",
+    "description": "palace in Valletta, Malta",
+    "year": "1876",
+    "countryLabel": "Malta",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1576016",
     "itemLabel": "Potocki Palace",
     "description": "former presidential residence in Lviv, Ukraine",
@@ -453,14 +477,6 @@
     "description": "palace in Bratislava, Slovakia",
     "year": "1781",
     "countryLabel": "Slovakia",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20949683",
-    "itemLabel": "Palazzo Ferreria",
-    "description": "palace in Valletta, Malta",
-    "year": "1876",
-    "countryLabel": "Malta",
     "sitelinks": "16"
   },
   {
@@ -552,6 +568,14 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3497343",
+    "itemLabel": "Falak-ol-Aflak",
+    "description": "castle in Khorramabad, Iranian national heritage site",
+    "year": "300",
+    "countryLabel": "Iran",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3694520",
     "itemLabel": "North Carolina State Capitol",
     "description": "state capitol building of the U.S. state of North Carolina",
@@ -624,6 +648,14 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1077215",
+    "itemLabel": "Kangavar Palace",
+    "description": "palace in Kangavar, Iranian national heritage site",
+    "year": "700",
+    "countryLabel": "Iran",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3330322",
     "itemLabel": "Dar Batha",
     "description": "Moroccan cultural heritage site",
@@ -632,11 +664,11 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1808872",
-    "itemLabel": "Palazzo Bianco",
-    "description": "palace in Genoa, Italy",
-    "year": "1540",
-    "countryLabel": "Italy",
+    "item": "http://www.wikidata.org/entity/Q15078644",
+    "itemLabel": "Marble Palace",
+    "description": "palace in Ramsar, Iranian national heritage site",
+    "year": "1937",
+    "countryLabel": "Iran",
     "sitelinks": "11"
   },
   {
@@ -648,11 +680,27 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1808872",
+    "itemLabel": "Palazzo Bianco",
+    "description": "palace in Genoa, Italy",
+    "year": "1540",
+    "countryLabel": "Italy",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3132953",
     "itemLabel": "Heliopolis Palace",
     "description": "one of the Egyptian presidential palaces and residences",
     "year": "1910",
     "countryLabel": "Egypt",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2670942",
+    "itemLabel": "Summer Palace",
+    "description": "two former palaces in St. Petersburg, Russia",
+    "year": "1744",
+    "countryLabel": "Russia",
     "sitelinks": "11"
   },
   {
@@ -672,26 +720,18 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2577338",
-    "itemLabel": "Sharaf Caravanserai",
-    "description": "caravanserai in Sarakhs County, Iranian national heritage site and World heritage site",
-    "year": "1114",
-    "countryLabel": "Iran",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15078644",
-    "itemLabel": "Marble Palace",
-    "description": "palace in Ramsar, Iranian national heritage site",
-    "year": "1937",
-    "countryLabel": "Iran",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2088795",
     "itemLabel": "Gerdkuh",
     "description": "castle in Damghan County, Iranian national heritage site",
     "year": "1000",
+    "countryLabel": "Iran",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2577338",
+    "itemLabel": "Sharaf Caravanserai",
+    "description": "caravanserai in Sarakhs County, Iranian national heritage site and World heritage site",
+    "year": "1114",
     "countryLabel": "Iran",
     "sitelinks": "11"
   },
@@ -720,14 +760,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q875756",
-    "itemLabel": "Tratzberg Castle",
-    "description": "château",
-    "year": "1500",
-    "countryLabel": "Austria",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q197482",
     "itemLabel": "Château des Rochers-Sévigné",
     "description": "château",
@@ -744,11 +776,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2670942",
-    "itemLabel": "Summer Palace",
-    "description": "two former palaces in St. Petersburg, Russia",
-    "year": "1744",
-    "countryLabel": "Russia",
+    "item": "http://www.wikidata.org/entity/Q875756",
+    "itemLabel": "Tratzberg Castle",
+    "description": "château",
+    "year": "1500",
+    "countryLabel": "Austria",
     "sitelinks": "10"
   },
   {
@@ -776,6 +808,14 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q6481581",
+    "itemLabel": "Lambsar Castle",
+    "description": "castle in Qazvin County, Iranian national heritage site and World heritage site",
+    "year": "700",
+    "countryLabel": "Iran",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2742927",
     "itemLabel": "Carthage Palace",
     "description": "presidential palace in Tunisia",
@@ -784,19 +824,19 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3360852",
-    "itemLabel": "Dar Jamaï palace",
-    "description": "Moroccan cultural heritage site",
-    "year": "1920",
-    "countryLabel": "Morocco",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1181803",
     "itemLabel": "Dechencholing Palace",
     "description": "building",
     "year": "1953",
     "countryLabel": "Bhutan",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3360852",
+    "itemLabel": "Dar Jamaï palace",
+    "description": "Moroccan cultural heritage site",
+    "year": "1920",
+    "countryLabel": "Morocco",
     "sitelinks": "10"
   }
 ]

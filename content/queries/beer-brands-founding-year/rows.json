@@ -35,24 +35,10 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q153075",
-    "itemLabel": "Grolsch",
-    "description": "brewery in the Netherlands",
-    "year": "1615",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q854383",
     "itemLabel": "Heineken",
     "description": "pale lager beer by the Dutch brewing company Heineken International",
     "year": "1874",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q478119",
-    "itemLabel": "Amstel Brewery",
-    "description": "Dutch Brewery brand",
-    "year": "1870",
     "sitelinks": "28"
   },
   {
@@ -105,18 +91,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1378288",
-    "itemLabel": "Free Beer",
-    "description": "open source beer",
-    "year": "2004",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1862698",
     "itemLabel": "Tiger Beer",
     "description": "Singaporean brand of beer",
     "year": "1932",
-    "sitelinks": "17"
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2140520",
@@ -140,6 +119,13 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1378288",
+    "itemLabel": "Free Beer",
+    "description": "Open-source and copyleft beer movement",
+    "year": "2004",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2417742",
     "itemLabel": "Red Stripe",
     "description": "beer brand produced by Desnoes & Geddes",
@@ -155,8 +141,8 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q1423785",
-    "itemLabel": "Foster's Lager",
-    "description": "beer brand from Australia",
+    "itemLabel": "Foster's",
+    "description": "beer brand produced by Carlton & United Breweries",
     "year": "1888",
     "sitelinks": "14"
   },
@@ -196,25 +182,11 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q903559",
-    "itemLabel": "Delirium Tremens",
-    "description": "beer",
-    "year": "1989",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3394030",
     "itemLabel": "Estrella Galicia",
     "description": "Spanish beer",
     "year": "1906",
     "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1295815",
-    "itemLabel": "Efes Pilsen",
-    "description": "Produced by the Efes Beverage Group",
-    "year": "1969",
-    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2646636",
@@ -224,11 +196,18 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q798067",
-    "itemLabel": "Karhu",
-    "description": "Finnish beer brand",
-    "year": "1920",
-    "sitelinks": "10"
+    "item": "http://www.wikidata.org/entity/Q1295815",
+    "itemLabel": "Efes Pilsen",
+    "description": "Produced by the Efes Beverage Group",
+    "year": "1969",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1073087",
+    "itemLabel": "Smithwick's",
+    "description": "Irish beer brand",
+    "year": "1710",
+    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1546845",
@@ -238,17 +217,10 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q971751",
-    "itemLabel": "Bintang Beer",
-    "description": "Indonesia beer brand",
-    "year": "1929",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1073087",
-    "itemLabel": "Smithwick's",
-    "description": "Irish beer brand",
-    "year": "1710",
+    "item": "http://www.wikidata.org/entity/Q798067",
+    "itemLabel": "Karhu",
+    "description": "Finnish beer brand",
+    "year": "1920",
     "sitelinks": "10"
   },
   {
@@ -259,18 +231,18 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q971751",
+    "itemLabel": "Bintang Beer",
+    "description": "Indonesia beer brand",
+    "year": "1929",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5507019",
     "itemLabel": "Fucking Hell",
     "description": "type of beer",
     "year": "2011",
     "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1871906",
-    "itemLabel": "Lav pivo",
-    "description": "Serbian beer brand",
-    "year": "1892",
-    "sitelinks": "9"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2388771",
@@ -298,6 +270,13 @@
     "itemLabel": "Bucanero Brewery S.A.",
     "description": "brewery in Cuba",
     "year": "1997",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1871906",
+    "itemLabel": "Lav pivo",
+    "description": "Serbian beer brand",
+    "year": "1892",
     "sitelinks": "9"
   },
   {
@@ -336,17 +315,17 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1035257",
-    "itemLabel": "Cara Pils",
-    "description": "store brand pilsner from Colruyt Group",
-    "year": "1985",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1129508",
     "itemLabel": "Fix",
     "description": "Greek beer brand",
     "year": "1864",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1035257",
+    "itemLabel": "Cara Pils",
+    "description": "store brand pilsner from Colruyt Group",
+    "year": "1985",
     "sitelinks": "8"
   },
   {
@@ -357,17 +336,24 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2027249",
-    "itemLabel": "Yebisu Beer",
-    "description": "beer brand of Sapporo Breweries",
-    "year": "1890",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q317402",
     "itemLabel": "Berliner Kindl",
     "description": "German beer brand",
     "year": "1872",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q797517",
+    "itemLabel": "Koff",
+    "description": "Finnish beer brand",
+    "year": "1821",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2061096",
+    "itemLabel": "Edelweiss",
+    "description": "witbier",
+    "year": "1475",
     "sitelinks": "7"
   },
   {
@@ -378,10 +364,10 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q797517",
-    "itemLabel": "Koff",
-    "description": "Finnish beer brand",
-    "year": "1821",
+    "item": "http://www.wikidata.org/entity/Q2027249",
+    "itemLabel": "Yebisu Beer",
+    "description": "beer brand of Sapporo Breweries",
+    "year": "1890",
     "sitelinks": "7"
   },
   {
@@ -406,13 +392,6 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7856799",
-    "itemLabel": "Tusker",
-    "description": "Kenyan beer brand owned by East African Breweries",
-    "year": "1922",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q18161195",
     "itemLabel": "London Pride",
     "description": "beer",
@@ -420,16 +399,16 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2045297",
-    "itemLabel": "Pabst Blue Ribbon",
-    "description": "American lager beer",
-    "year": "1844",
-    "sitelinks": "6"
+    "item": "http://www.wikidata.org/entity/Q7856799",
+    "itemLabel": "Tusker",
+    "description": "Kenyan beer brand owned by East African Breweries",
+    "year": "1922",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2239073",
     "itemLabel": "Hertog Jan",
-    "description": "Dutch brewery",
+    "description": "brewery in the Netherlands",
     "year": "1915",
     "sitelinks": "6"
   },
@@ -441,17 +420,17 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q263980",
-    "itemLabel": "Soproni",
-    "description": "Hungarian beer mark",
-    "year": "1895",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1567552",
     "itemLabel": "Palm Breweries",
     "description": "Belgian company",
     "year": "1597",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q263980",
+    "itemLabel": "Soproni",
+    "description": "Hungarian beer mark",
+    "year": "1895",
     "sitelinks": "6"
   },
   {
@@ -466,6 +445,13 @@
     "itemLabel": "Calanda Bräu",
     "description": "trademark",
     "year": "1780",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2045297",
+    "itemLabel": "Pabst Blue Ribbon",
+    "description": "American lager beer",
+    "year": "1844",
     "sitelinks": "6"
   },
   {
@@ -511,13 +497,6 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5763622",
-    "itemLabel": "Cusqueña",
-    "description": "Peruvian beer brand",
-    "year": "1908",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q87193814",
     "itemLabel": "Peroni Beer",
     "description": "Italian beer brand",
@@ -525,10 +504,31 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1828277",
-    "itemLabel": "Brouwerij De Molen",
-    "description": "brewery in Bodegraven, Netherlands",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q5763622",
+    "itemLabel": "Cusqueña",
+    "description": "Peruvian beer brand",
+    "year": "1908",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q479003",
+    "itemLabel": "Oranjeboom",
+    "description": "brewery in the Netherlands",
+    "year": "1671",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q795663",
+    "itemLabel": "Kronenbourg",
+    "description": "beer brand produced by Brasseries Kronenbourg",
+    "year": "1947",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q900342",
+    "itemLabel": "Ariana Brewery",
+    "description": "former Bulgarian brewery",
+    "year": "1884",
     "sitelinks": "5"
   },
   {
@@ -553,13 +553,6 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q479003",
-    "itemLabel": "Oranjeboom",
-    "description": "brewery in the Netherlands",
-    "year": "1671",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3500299",
     "itemLabel": "Strela",
     "description": "beer from Cape Verde",
@@ -574,17 +567,10 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5431739",
-    "itemLabel": "Falcon Brewery",
-    "description": "Swedish brewery company",
-    "year": "1896",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8843322",
-    "itemLabel": "Estrella de Levante",
-    "description": "Spanish brewery",
-    "year": "1963",
+    "item": "http://www.wikidata.org/entity/Q1828277",
+    "itemLabel": "Brouwerij De Molen",
+    "description": "brewery in Bodegraven, Netherlands",
+    "year": "2004",
     "sitelinks": "5"
   },
   {
@@ -606,6 +592,20 @@
     "itemLabel": "Maccabee Beer",
     "description": "Israeli beer brand",
     "year": "1968",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5431739",
+    "itemLabel": "Falcon Brewery",
+    "description": "Swedish brewery company",
+    "year": "1896",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8843322",
+    "itemLabel": "Estrella de Levante",
+    "description": "Spanish brewery",
+    "year": "1963",
     "sitelinks": "5"
   }
 ]

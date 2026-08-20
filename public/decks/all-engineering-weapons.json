@@ -730,16 +730,6 @@
     "pageViews": 32955
   },
   {
-    "qid": "Q328272",
-    "title": "T-54/55 enters service",
-    "subtitle": "Soviet main battle tank",
-    "year": 1946,
-    "fact": "The T-54 and T-55 tanks are a series of Soviet medium tanks introduced in the years following the Second World War.",
-    "wikipediaSlug": "T-54/T-55",
-    "image": "T-55_4.jpg",
-    "pageViews": 32593
-  },
-  {
     "qid": "Q163186",
     "title": "S-75 Dvina enters service",
     "subtitle": "Surface-to-air missile system",
@@ -1388,6 +1378,16 @@
     "wikipediaSlug": "T-64",
     "image": "T-64BV_mod_2017,_Kyiv_2021,_16.jpg",
     "pageViews": 21246
+  },
+  {
+    "qid": "Q158715",
+    "title": ".22 Long rifle enters service",
+    "subtitle": "Cartridge type for rifles, pistols and revolvers",
+    "year": 1887,
+    "fact": "The.22 long rifle (.22LR), also known as the 5.7×15mmR, is a long-established variety of.22 caliber rimfire ammunition originating from the United States.",
+    "wikipediaSlug": ".22_long_rifle",
+    "image": ".22_LR.jpg",
+    "pageViews": 21196
   },
   {
     "qid": "Q603977",
@@ -2360,6 +2360,16 @@
     "pageViews": 11459
   },
   {
+    "qid": "Q158700",
+    "title": ".22 Winchester Magnum Rimfire enters service",
+    "subtitle": "Rimfire cartridge",
+    "year": 1959,
+    "fact": "The.22 Winchester Magnum Rimfire, also known as the.22 WMR,.22 Magnum,.22 WMRF,.22 MRF, or.22 Mag, is a rimfire cartridge.",
+    "wikipediaSlug": ".22_Winchester_Magnum_Rimfire",
+    "image": "22WMR.jpg",
+    "pageViews": 11371
+  },
+  {
     "qid": "Q1815362",
     "title": "9K52 Luna-M enters service",
     "subtitle": "Rocket artillery system",
@@ -2500,6 +2510,16 @@
     "pageViews": 10220
   },
   {
+    "qid": "Q1523354",
+    "title": "Heckler & Koch P7 enters service",
+    "subtitle": "Semi-automatic pistol",
+    "year": 1976,
+    "fact": "The Heckler & Koch P7 is a German 9×19mm semi-automatic pistol designed by Helmut Weldle and produced from 1979 to 2008 by Heckler & Koch GmbH (H&K).",
+    "wikipediaSlug": "Heckler_%26_Koch_P7",
+    "image": "H&K_P7_(6825671856).jpg",
+    "pageViews": 10167
+  },
+  {
     "qid": "Q1854416",
     "title": "TOS-1 enters service",
     "subtitle": "Russian multiple thermobaric rocket launcher",
@@ -2580,6 +2600,16 @@
     "pageViews": 9770
   },
   {
+    "qid": "Q245476",
+    "title": ".25 ACP enters service",
+    "subtitle": "Centerfire pistol cartridge",
+    "year": 1906,
+    "fact": "The.25 ACP, also known as the.25 Auto,.25 Automatic, 6.35mm Browning, or 6.35×16mmSR is a semi-rimmed, straight-walled centerfire pistol cartridge introduced by John Moses Browning in 1905 alongside the Fabrique Nationale M1905 pistol.",
+    "wikipediaSlug": ".25_ACP",
+    "image": ".25_ACP.jpg",
+    "pageViews": 9710
+  },
+  {
     "qid": "Q477059",
     "title": "RT-2PM2 Topol-M enters service",
     "subtitle": "Intercontinental ballistic missile",
@@ -2648,6 +2678,16 @@
     "wikipediaSlug": "R-60_(missile)",
     "image": "Sukhoi_SU-15TM_2008_G4.jpg",
     "pageViews": 9063
+  },
+  {
+    "qid": "Q158698",
+    "title": ".22 Hornet enters service",
+    "subtitle": "Centerfire rifle cartridge",
+    "year": 1930,
+    "fact": "The.22 Hornet or 5.6×36mmR Hornet is a varminting, small-game hunting, survival and competition centerfire rifle cartridge commercially introduced in 1930.",
+    "wikipediaSlug": ".22_Hornet",
+    "image": "22_short_22_long_rifle_22_magnum_22_hornet.JPG",
+    "pageViews": 9000
   },
   {
     "qid": "Q1463375",
@@ -3160,6 +3200,16 @@
     "pageViews": 6750
   },
   {
+    "qid": "Q819138",
+    "title": "Beretta AR70/90 enters service",
+    "subtitle": "Assault rifle",
+    "year": 1972,
+    "fact": "The Beretta AR70/90 is a gas operated assault rifle chambered for the 5.56×45 mm NATO cartridge, and is the standard issue service rifle of the Italian Armed Forces.",
+    "wikipediaSlug": "Beretta_AR70/90",
+    "image": "Beretta_AR70_noBG.png",
+    "pageViews": 6697
+  },
+  {
     "qid": "Q136367",
     "title": "ZPU enters service",
     "subtitle": "Anti-aircraft gun family",
@@ -3650,6 +3700,16 @@
     "pageViews": 4880
   },
   {
+    "qid": "Q2461245",
+    "title": "Franchi SPAS-15 enters service",
+    "subtitle": "Firearm",
+    "year": 1984,
+    "fact": "The Franchi SPAS-15 is a dual-mode 12 gauge combat shotgun manufactured by the Italian company Luigi Franchi S.P.A.",
+    "wikipediaSlug": "Franchi_SPAS-15",
+    "image": "SPAS15.jpg",
+    "pageViews": 4869
+  },
+  {
     "qid": "Q389052",
     "title": "AHS Krab enters service",
     "subtitle": "Polish gun-howitzer",
@@ -3688,6 +3748,16 @@
     "wikipediaSlug": "OT-64_SKOT",
     "image": "OT-64_SKOT.jpg",
     "pageViews": 4702
+  },
+  {
+    "qid": "Q4112522",
+    "title": "S-350E Vityaz 50R6 enters service",
+    "subtitle": "Russian medium-range surface-to-air missile system",
+    "year": 2019,
+    "fact": "The S-350 Vityaz is a Russian medium-range surface-to-air missile system developed by GSKB Almaz-Antey.",
+    "wikipediaSlug": "S-350_missile_system",
+    "image": "MAKS2013firstpix02.jpg",
+    "pageViews": 4693
   },
   {
     "qid": "Q696792",
@@ -3980,16 +4050,6 @@
     "pageViews": 4014
   },
   {
-    "qid": "Q11306930",
-    "title": "Zastava M84 enters service",
-    "subtitle": "Type of general-purpose machine gun",
-    "year": 1984,
-    "fact": "The Zastava M84 is a general-purpose machine gun designed and manufactured by Zastava Arms.",
-    "wikipediaSlug": "Zastava_M84",
-    "image": "ZastavaM84gpmg.jpg",
-    "pageViews": 4003
-  },
-  {
     "qid": "Q298607",
     "title": "9K115-2 Metis-M enters service",
     "subtitle": "Man-portable anti-tank missile system",
@@ -4058,16 +4118,6 @@
     "wikipediaSlug": "Type_26_revolver",
     "image": "Type_26_Revolver.jpg",
     "pageViews": 3789
-  },
-  {
-    "qid": "Q11540244",
-    "title": "Agni-III enters service",
-    "subtitle": "Indian IRBM",
-    "year": 2012,
-    "fact": "The Agni-III is an Indian intermediate-range ballistic missile inducted into service in 2011 as the successor of the Agni-II.",
-    "wikipediaSlug": "Agni-III",
-    "image": "Agni-III_Republic_day.jpg",
-    "pageViews": 3774
   },
   {
     "qid": "Q367545",
@@ -4380,16 +4430,6 @@
     "pageViews": 2770
   },
   {
-    "qid": "Q697585",
-    "title": "Lahti-Saloranta M/26 enters service",
-    "subtitle": "Light machine gun",
-    "year": 1930,
-    "fact": "The Lahti-Saloranta M/26 is a light machine gun which was designed by Aimo Lahti and Arvo Saloranta in 1926.",
-    "wikipediaSlug": "Lahti-Saloranta_M/26",
-    "image": "Lahti-Saloranta_M-26_in_position.jpg",
-    "pageViews": 2753
-  },
-  {
     "qid": "Q2551173",
     "title": "MP35 enters service",
     "subtitle": "Blowback submachine gun used by Nazi Germany through WWII",
@@ -4560,16 +4600,6 @@
     "pageViews": 2152
   },
   {
-    "qid": "Q787016",
-    "title": "A-91 enters service",
-    "subtitle": "Assault rifle",
-    "year": 1990,
-    "fact": "The A-91 is a Russian bullpup assault rifle developed by the KBP Instrument Design Bureau during the 1990s.",
-    "wikipediaSlug": "A-91",
-    "image": "KBP_A_91_noBG.png",
-    "pageViews": 2143
-  },
-  {
     "qid": "Q2118209",
     "title": "Puma enters service",
     "subtitle": "Wheeled armored personnel carrier family",
@@ -4578,6 +4608,16 @@
     "wikipediaSlug": "Puma_(Italian_armoured_fighting_vehicle)",
     "image": "Italian_Army_-_Regiment_\"Lancieri_di_Novara\"_(5th)_Puma_6x6_armored_vehicle_during_exercise_Artemide_2025.jpg",
     "pageViews": 2063
+  },
+  {
+    "qid": "Q259234",
+    "title": "7.65×25Mm Borchardt enters service",
+    "subtitle": "Pistol cartridge designed by Hugo Borchardt",
+    "year": 1893,
+    "fact": "The 7.65×25mm Borchardt cartridge was designed by Georg Johann Luger for use in Hugo Borchardt's Borchardt C-93 pistol.",
+    "wikipediaSlug": "7.65%C3%9725mm_Borchardt",
+    "image": "7.65mm_Borchardt_&_7.63mm_Mauser.JPG",
+    "pageViews": 1936
   },
   {
     "qid": "Q3841193",

@@ -1,16 +1,16 @@
 [
   {
-    "item": "http://www.wikidata.org/entity/Q53268",
-    "itemLabel": "Toyota",
-    "year": "1937",
-    "description": "Japanese multinational automotive manufacturer",
-    "sitelinks": "151"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2813",
     "itemLabel": "Coca-Cola",
     "year": "1886",
     "description": "carbonated brown-colored soft drink",
+    "sitelinks": "150"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53268",
+    "itemLabel": "Toyota",
+    "year": "1937",
+    "description": "Japanese multinational automotive manufacturer",
     "sitelinks": "149"
   },
   {
@@ -18,7 +18,7 @@
     "itemLabel": "McDonald's",
     "year": "1940",
     "description": "American fast food restaurant chain",
-    "sitelinks": "137"
+    "sitelinks": "136"
   },
   {
     "item": "http://www.wikidata.org/entity/Q246",
@@ -32,21 +32,14 @@
     "itemLabel": "Mercedes-Benz",
     "year": "1926",
     "description": "German automobile brand owned by Mercedes-Benz AG",
-    "sitelinks": "120"
+    "sitelinks": "121"
   },
   {
     "item": "http://www.wikidata.org/entity/Q584601",
     "itemLabel": "Baskin-Robbins",
     "year": "1945",
     "description": "American multinational ice cream parlor chain",
-    "sitelinks": "117"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q177054",
-    "itemLabel": "Burger King",
-    "year": "1954",
-    "description": "global chain of hamburger fast food restaurants headquartered in Florida, United States",
-    "sitelinks": "113"
+    "sitelinks": "116"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47043",
@@ -56,18 +49,25 @@
     "sitelinks": "113"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q177054",
+    "itemLabel": "Burger King",
+    "year": "1954",
+    "description": "global chain of hamburger fast food restaurants headquartered in Florida, United States",
+    "sitelinks": "112"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q689141",
     "itemLabel": "Spotify",
     "year": "2006",
     "description": "Swedish audio streaming service",
-    "sitelinks": "103"
+    "sitelinks": "104"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47719",
     "itemLabel": "Pepsi",
     "year": "1893",
     "description": "soft drink owned and manufactured by PepsiCo",
-    "sitelinks": "102"
+    "sitelinks": "103"
   },
   {
     "item": "http://www.wikidata.org/entity/Q54078",
@@ -102,14 +102,14 @@
     "itemLabel": "Google Play",
     "year": "2008",
     "description": "digital software distribution platform from Google",
-    "sitelinks": "90"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167447",
     "itemLabel": "Barbie",
     "year": "1959",
     "description": "fashion doll brand and media franchise",
-    "sitelinks": "90"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q20165",
@@ -144,7 +144,7 @@
     "itemLabel": "Kia",
     "year": "1944",
     "description": "South Korean automobile manufacturer",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6746",
@@ -172,14 +172,7 @@
     "itemLabel": "Fanta",
     "year": "1940",
     "description": "carbonated beverages",
-    "sitelinks": "74"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q170484",
-    "itemLabel": "Lego",
-    "year": "1949",
-    "description": "construction toy",
-    "sitelinks": "71"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156238",
@@ -189,17 +182,24 @@
     "sitelinks": "71"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q183275",
-    "itemLabel": "Mitsubishi",
-    "year": "1870",
-    "description": "group of autonomous, Japanese multinational companies",
-    "sitelinks": "70"
+    "item": "http://www.wikidata.org/entity/Q170484",
+    "itemLabel": "Lego",
+    "year": "1949",
+    "description": "construction toy",
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188326",
     "itemLabel": "H&M",
     "year": "1947",
     "description": "Swedish multinational clothing-retail company",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183275",
+    "itemLabel": "Mitsubishi",
+    "year": "1870",
+    "description": "group of autonomous, Japanese multinational companies",
     "sitelinks": "70"
   },
   {
@@ -214,7 +214,7 @@
     "itemLabel": "Vogue",
     "year": "1892",
     "description": "American fashion and lifestyle magazine",
-    "sitelinks": "68"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189021",
@@ -267,23 +267,16 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q26070",
-    "itemLabel": "UNIQLO",
-    "year": "1949",
+    "itemLabel": "Uniqlo",
+    "year": "1984",
     "description": "Japanese casual wear designer, manufacturer and retailer",
     "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q56760250",
-    "itemLabel": "Sony Music",
-    "year": "2009",
-    "description": "American multinational music recording company",
-    "sitelinks": "62"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q234803",
-    "itemLabel": "Rolls-Royce Motor Cars",
-    "year": "1998",
-    "description": "English car company (1998-present)",
+    "item": "http://www.wikidata.org/entity/Q147662",
+    "itemLabel": "Zara",
+    "year": "1975",
+    "description": "retailer for clothing, headquartered in Spain",
     "sitelinks": "62"
   },
   {
@@ -294,11 +287,18 @@
     "sitelinks": "62"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q147662",
-    "itemLabel": "Zara",
-    "year": "1975",
-    "description": "retailer for clothing, headquartered in Spain",
-    "sitelinks": "61"
+    "item": "http://www.wikidata.org/entity/Q234803",
+    "itemLabel": "Rolls-Royce Motor Cars",
+    "year": "1998",
+    "description": "English car company (1998-present)",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56760250",
+    "itemLabel": "Sony Music",
+    "year": "2009",
+    "description": "American multinational music recording company",
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q194297",
@@ -329,6 +329,13 @@
     "sitelinks": "60"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q309031",
+    "itemLabel": "Lacoste",
+    "year": "1933",
+    "description": "French clothing and footwear company",
+    "sitelinks": "59"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q332477",
     "itemLabel": "Victoria’s Secret",
     "year": "1977",
@@ -336,24 +343,17 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q309031",
-    "itemLabel": "Lacoste S.A.",
-    "year": "1933",
-    "description": "French clothing and footwear company",
-    "sitelinks": "58"
+    "item": "http://www.wikidata.org/entity/Q35919",
+    "itemLabel": "Lexus",
+    "year": "1989",
+    "description": "Japanese brand of luxury vehicle owned by Toyota Motor Corporation",
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188217",
     "itemLabel": "SEAT",
     "year": "1950",
     "description": "Spanish automotive company based in Martorell, subsidiary of Volkswagen Group",
-    "sitelinks": "58"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9401",
-    "itemLabel": "BASF",
-    "year": "1865",
-    "description": "German chemical company with worldwide reach",
     "sitelinks": "58"
   },
   {
@@ -364,10 +364,17 @@
     "sitelinks": "58"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q35919",
-    "itemLabel": "Lexus",
-    "year": "1989",
-    "description": "Japanese brand of luxury vehicle owned by Toyota Motor Corporation",
+    "item": "http://www.wikidata.org/entity/Q131324035",
+    "itemLabel": "Labubu",
+    "year": "2015",
+    "description": "brand of collectible plush toys",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9401",
+    "itemLabel": "BASF",
+    "year": "1865",
+    "description": "German chemical company with worldwide reach",
     "sitelinks": "58"
   },
   {
@@ -378,17 +385,10 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131324035",
-    "itemLabel": "Labubu",
-    "year": "2015",
-    "description": "brand of collectible plush toys",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q487494",
-    "itemLabel": "Tesco",
-    "year": "1919",
-    "description": "British multinational retailer",
+    "item": "http://www.wikidata.org/entity/Q125054",
+    "itemLabel": "Aldi",
+    "year": "1946",
+    "description": "brand name of two global discount supermarket chains",
     "sitelinks": "56"
   },
   {
@@ -396,6 +396,13 @@
     "itemLabel": "Domino's Pizza",
     "year": "1960",
     "description": "American pizza restaurant chain",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q487494",
+    "itemLabel": "Tesco",
+    "year": "1919",
+    "description": "British multinational retailer",
     "sitelinks": "56"
   },
   {
@@ -413,38 +420,17 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27564",
-    "itemLabel": "Dodge",
-    "year": "1900",
-    "description": "US automotive company",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q125054",
-    "itemLabel": "Aldi",
-    "year": "1946",
-    "description": "brand name of two global discount supermarket chains",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q183387",
-    "itemLabel": "Columbia Records",
-    "year": "1889",
-    "description": "American record label owned by Sony",
-    "sitelinks": "54"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q847743",
     "itemLabel": "Dunkin'",
     "year": "1950",
     "description": "American global donut company and coffeehouse",
-    "sitelinks": "54"
+    "sitelinks": "55"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q29803",
-    "itemLabel": "Isuzu",
-    "year": "1934",
-    "description": "Japanese company manufacturing motor vehicles",
+    "item": "http://www.wikidata.org/entity/Q27564",
+    "itemLabel": "Dodge",
+    "year": "1900",
+    "description": "US automotive company",
     "sitelinks": "54"
   },
   {
@@ -452,6 +438,13 @@
     "itemLabel": "Volvo Cars",
     "year": "1927",
     "description": "automotive brand manufacturing subsidiary of Geely",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183387",
+    "itemLabel": "Columbia Records",
+    "year": "1889",
+    "description": "American record label owned by Sony",
     "sitelinks": "54"
   },
   {
@@ -469,18 +462,25 @@
     "sitelinks": "53"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q27415",
+    "itemLabel": "Buick",
+    "year": "1899",
+    "description": "luxury car brand of General Motors",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29803",
+    "itemLabel": "Isuzu",
+    "year": "1934",
+    "description": "Japanese company manufacturing motor vehicles",
+    "sitelinks": "53"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q35676",
     "itemLabel": "Lada",
     "year": "1966",
     "description": "Russian automobile brand",
     "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q503191",
-    "itemLabel": "Nescafé",
-    "year": "1938",
-    "description": "instant coffee brand",
-    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q329347",
@@ -490,10 +490,10 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27415",
-    "itemLabel": "Buick",
-    "year": "1899",
-    "description": "luxury car brand of General Motors",
+    "item": "http://www.wikidata.org/entity/Q503191",
+    "itemLabel": "Nescafé",
+    "year": "1938",
+    "description": "instant coffee brand",
     "sitelinks": "52"
   },
   {
@@ -518,13 +518,6 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q193023",
-    "itemLabel": "Capitol Records",
-    "year": "1942",
-    "description": "American record label",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q190585",
     "itemLabel": "Island Records",
     "year": "1959",
@@ -532,10 +525,10 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43327",
-    "itemLabel": "Motown",
-    "year": "1959",
-    "description": "American record label",
+    "item": "http://www.wikidata.org/entity/Q259340",
+    "itemLabel": "7-Eleven",
+    "year": "1927",
+    "description": "American convenience store chain",
     "sitelinks": "51"
   },
   {
@@ -543,6 +536,13 @@
     "itemLabel": "Petrobras",
     "year": "1953",
     "description": "Brazilian multinational oil and gas corporation",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43327",
+    "itemLabel": "Motown",
+    "year": "1959",
+    "description": "American record label",
     "sitelinks": "51"
   },
   {
@@ -563,14 +563,14 @@
     "item": "http://www.wikidata.org/entity/Q156013",
     "itemLabel": "Eurostar",
     "year": "1994",
-    "description": "high-speed railway services in England, France, Belgium, The Netherlands and Germany",
+    "description": "Train company operating high-speed passenger services through the Channel Tunnel from England to France, Belgium, the Netherlands, and Germany.",
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q259340",
-    "itemLabel": "7-Eleven",
-    "year": "1927",
-    "description": "American convenience store chain",
+    "item": "http://www.wikidata.org/entity/Q193023",
+    "itemLabel": "Capitol Records",
+    "year": "1942",
+    "description": "American record label",
     "sitelinks": "50"
   },
   {
@@ -588,10 +588,10 @@
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156490",
-    "itemLabel": "Smart",
-    "year": "1994",
-    "description": "automotive marque",
+    "item": "http://www.wikidata.org/entity/Q752941",
+    "itemLabel": "Taco Bell",
+    "year": "1962",
+    "description": "American fast-food chain",
     "sitelinks": "49"
   },
   {
@@ -599,6 +599,20 @@
     "itemLabel": "Warner Music Group",
     "year": "1958",
     "description": "American multinational entertainment and record label conglomerate",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156490",
+    "itemLabel": "Smart",
+    "year": "1994",
+    "description": "automotive marque",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q223127",
+    "itemLabel": "Logitech",
+    "year": "1981",
+    "description": "Swiss global provider of peripherals",
     "sitelinks": "49"
   },
   {
@@ -616,10 +630,10 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q752941",
-    "itemLabel": "Taco Bell",
-    "year": "1962",
-    "description": "American fast-food chain",
+    "item": "http://www.wikidata.org/entity/Q203059",
+    "itemLabel": "Virgin Records",
+    "year": "1972",
+    "description": "British record label",
     "sitelinks": "48"
   },
   {
@@ -627,13 +641,6 @@
     "itemLabel": "Wendy's",
     "year": "1969",
     "description": "American international fast food chain restaurant",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q203059",
-    "itemLabel": "Virgin Records",
-    "year": "1972",
-    "description": "British record label",
     "sitelinks": "48"
   },
   {
@@ -651,31 +658,10 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q223127",
-    "itemLabel": "Logitech",
-    "year": "1981",
-    "description": "Swiss global provider of peripherals",
-    "sitelinks": "48"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q483938",
-    "itemLabel": "SM Entertainment",
-    "year": "1995",
-    "description": "South Korean entertainment company",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q319515",
     "itemLabel": "Converse",
     "year": "1910",
     "description": "American shoe company and brand",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q568384",
-    "itemLabel": "Mirinda",
-    "year": "1960",
-    "description": "brand of soft drink",
     "sitelinks": "47"
   },
   {
@@ -686,10 +672,10 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27511",
-    "itemLabel": "Daihatsu",
-    "year": "1907",
-    "description": "Japanese automobile manufacturer",
+    "item": "http://www.wikidata.org/entity/Q483938",
+    "itemLabel": "SM Entertainment",
+    "year": "1995",
+    "description": "South Korean entertainment company",
     "sitelinks": "47"
   },
   {
@@ -697,6 +683,20 @@
     "itemLabel": "KTM",
     "year": "1934",
     "description": "Austrian motorcycle and sports car brand",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27511",
+    "itemLabel": "Daihatsu",
+    "year": "1907",
+    "description": "Japanese automobile manufacturer",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q568384",
+    "itemLabel": "Mirinda",
+    "year": "1960",
+    "description": "brand of soft drink",
     "sitelinks": "47"
   },
   {
@@ -714,10 +714,10 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q335016",
-    "itemLabel": "Tabasco sauce",
-    "year": "1868",
-    "description": "American hot sauce brand",
+    "item": "http://www.wikidata.org/entity/Q367251",
+    "itemLabel": "Kit Kat",
+    "year": "1935",
+    "description": "brand of chocolate products",
     "sitelinks": "46"
   },
   {
@@ -728,24 +728,10 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q337408",
-    "itemLabel": "Nivea",
-    "year": "1911",
-    "description": "German personal care brand that specializes in skin and body care",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q367251",
-    "itemLabel": "Kit Kat",
-    "year": "1935",
-    "description": "brand of chocolate products",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q213487",
-    "itemLabel": "Hummer",
-    "year": "1992",
-    "description": "American car brand",
+    "item": "http://www.wikidata.org/entity/Q335016",
+    "itemLabel": "Tabasco sauce",
+    "year": "1868",
+    "description": "American hot sauce brand",
     "sitelinks": "46"
   },
   {
@@ -753,6 +739,20 @@
     "itemLabel": "Parlophone",
     "year": "1896",
     "description": "German–British record label",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q896",
+    "itemLabel": "Mountain Dew",
+    "year": "1940",
+    "description": "carbonated soft drink brand",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213487",
+    "itemLabel": "Hummer",
+    "year": "1992",
+    "description": "American car brand",
     "sitelinks": "46"
   },
   {
@@ -777,10 +777,10 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q896",
-    "itemLabel": "Mountain Dew",
-    "year": "1940",
-    "description": "carbonated soft drink brand",
+    "item": "http://www.wikidata.org/entity/Q337408",
+    "itemLabel": "Nivea",
+    "year": "1911",
+    "description": "German personal care brand that specializes in skin and body care",
     "sitelinks": "45"
   },
   {
@@ -791,17 +791,10 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27207017",
-    "itemLabel": "Bear Brand",
-    "year": "1976",
-    "description": "Milk brand of Nestle",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27423",
-    "itemLabel": "BYD Auto",
-    "year": "2003",
-    "description": "Chinese automobile manufacturer",
+    "item": "http://www.wikidata.org/entity/Q207786",
+    "itemLabel": "Tamagotchi",
+    "year": "1996",
+    "description": "handheld digital pet",
     "sitelinks": "45"
   },
   {
@@ -812,6 +805,20 @@
     "sitelinks": "45"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q215707",
+    "itemLabel": "Toblerone",
+    "year": "1908",
+    "description": "brand of chocolate confection",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27423",
+    "itemLabel": "BYD Auto",
+    "year": "2003",
+    "description": "Chinese automobile manufacturer",
+    "sitelinks": "45"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q40990",
     "itemLabel": "Pontiac",
     "year": "1926",
@@ -819,10 +826,17 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q207786",
-    "itemLabel": "Tamagotchi",
-    "year": "1996",
-    "description": "handheld digital pet",
+    "item": "http://www.wikidata.org/entity/Q221692",
+    "itemLabel": "Petronas",
+    "year": "1974",
+    "description": "Malaysian state-owned oil and gas company",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27207017",
+    "itemLabel": "Bear Brand",
+    "year": "1976",
+    "description": "Milk brand of Nestle",
     "sitelinks": "45"
   },
   {
@@ -833,24 +847,10 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q215707",
-    "itemLabel": "Toblerone",
-    "year": "1908",
-    "description": "Brand of chocolate confection",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q221692",
-    "itemLabel": "Petronas Gas Berhad",
-    "year": "1974",
-    "description": "Malaysian state-owned oil and gas company",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q714179",
-    "itemLabel": "Snickers",
-    "year": "1930",
-    "description": "brand name chocolate bar made by Mars, Incorporated",
+    "item": "http://www.wikidata.org/entity/Q838651",
+    "itemLabel": "Schweppes",
+    "year": "1792",
+    "description": "brand of beverages: carbonated waters and ginger ales",
     "sitelinks": "44"
   },
   {
@@ -861,31 +861,10 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q838651",
-    "itemLabel": "Schweppes",
-    "year": "1792",
-    "description": "brand of beverages: carbonated waters and ginger ales",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q528187",
-    "itemLabel": "Pringles",
-    "year": "1968",
-    "description": "brand of potato-based chips",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37614",
-    "itemLabel": "Jollibee",
-    "year": "1975",
-    "description": "Filipino multinational chain of fast food restaurants",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q234707",
-    "itemLabel": "Sofia Metro",
-    "year": "1998",
-    "description": "rapid underground transit system of Sofia, Bulgaria",
+    "item": "http://www.wikidata.org/entity/Q714179",
+    "itemLabel": "Snickers",
+    "year": "1930",
+    "description": "brand name chocolate bar made by Mars, Incorporated",
     "sitelinks": "44"
   },
   {
@@ -903,8 +882,29 @@
     "sitelinks": "44"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q234707",
+    "itemLabel": "Sofia Metro",
+    "year": "1998",
+    "description": "rapid underground transit system of Sofia, Bulgaria",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q528187",
+    "itemLabel": "Pringles",
+    "year": "1968",
+    "description": "brand of potato-based chips",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37614",
+    "itemLabel": "Jollibee",
+    "year": "1975",
+    "description": "Filipino multinational chain of fast food restaurants",
+    "sitelinks": "44"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q155152",
-    "itemLabel": "Polydor",
+    "itemLabel": "Polydor Records",
     "year": "1913",
     "description": "German-British record label",
     "sitelinks": "43"
@@ -931,17 +931,17 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q565594",
-    "itemLabel": "Eni",
-    "year": "1953",
-    "description": "multinational oil and gas company based in Italy",
-    "sitelinks": "42"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q538587",
     "itemLabel": "Cartier",
     "year": "1847",
     "description": "French jeweler",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q565594",
+    "itemLabel": "Eni",
+    "year": "1953",
+    "description": "multinational oil and gas company based in Italy",
     "sitelinks": "42"
   },
   {
@@ -959,13 +959,6 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q653941",
-    "itemLabel": "Ray-Ban",
-    "year": "1937",
-    "description": "brand of luxury sunglasses and eyeglasses",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q726251",
     "itemLabel": "Elektra",
     "year": "1950",
@@ -973,10 +966,17 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q483238",
-    "itemLabel": "JYP Entertainment",
-    "year": "1996",
-    "description": "music label in South Korea",
+    "item": "http://www.wikidata.org/entity/Q653941",
+    "itemLabel": "Ray-Ban",
+    "year": "1937",
+    "description": "brand of luxury sunglasses and eyeglasses",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4413456",
+    "itemLabel": "Republic Records",
+    "year": "1995",
+    "description": "American record label, division of Universal Music Group (UMG)",
     "sitelinks": "41"
   },
   {
@@ -994,17 +994,52 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4413456",
-    "itemLabel": "Republic Records",
-    "year": "1995",
-    "description": "American record label, division of Universal Music Group (UMG)",
-    "sitelinks": "41"
+    "item": "http://www.wikidata.org/entity/Q757388",
+    "itemLabel": "Milka",
+    "year": "1943",
+    "description": "chocolate brand",
+    "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q332378",
-    "itemLabel": "Absolut Vodka",
-    "year": "1879",
-    "description": "Swedish brand of vodka",
+    "item": "http://www.wikidata.org/entity/Q817139",
+    "itemLabel": "Benetton Group",
+    "year": "1965",
+    "description": "Italian multinational clothing retailer",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q688424",
+    "itemLabel": "Maggi",
+    "year": "1886",
+    "description": "International food brand",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q831445",
+    "itemLabel": "Sinopec",
+    "year": "2000",
+    "description": "Chinese oil and gas company",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q816412",
+    "itemLabel": "Ben & Jerry's",
+    "year": "1978",
+    "description": "American ice cream company",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2282172",
+    "itemLabel": "Yves Saint Laurent",
+    "year": "1961",
+    "description": "French luxury fashion house",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165745",
+    "itemLabel": "Mercury Records",
+    "year": "1945",
+    "description": "American record label",
     "sitelinks": "40"
   },
   {
@@ -1022,24 +1057,17 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q165745",
-    "itemLabel": "Mercury Records",
-    "year": "1945",
-    "description": "American record label",
+    "item": "http://www.wikidata.org/entity/Q483238",
+    "itemLabel": "JYP Entertainment",
+    "year": "1996",
+    "description": "music label in South Korea",
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q757388",
-    "itemLabel": "Milka",
-    "year": "1943",
-    "description": "chocolate brand",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q831445",
-    "itemLabel": "Sinopec",
-    "year": "2000",
-    "description": "Chinese oil and gas company",
+    "item": "http://www.wikidata.org/entity/Q332378",
+    "itemLabel": "Absolut Vodka",
+    "year": "1879",
+    "description": "Swedish brand of vodka",
     "sitelinks": "40"
   },
   {
@@ -1050,66 +1078,10 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q817139",
-    "itemLabel": "Benetton Group",
-    "year": "1965",
-    "description": "Italian multinational clothing retailer",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2282172",
-    "itemLabel": "Yves Saint Laurent",
-    "year": "1961",
-    "description": "French luxury fashion house",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q864987",
-    "itemLabel": "Corona",
-    "year": "1925",
-    "description": "branded beverage from Mexico",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q116232",
     "itemLabel": "Mini",
     "year": "1969",
     "description": "British automotive marque",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1046951",
-    "itemLabel": "Target Corporation",
-    "year": "1902",
-    "description": "American retailer and supermarket chain",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q714491",
-    "itemLabel": "Marks & Spencer",
-    "year": "1884",
-    "description": "British retailer",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q324679",
-    "itemLabel": "Wienerschnitzel",
-    "year": "1961",
-    "description": "American fast food restaurant chain",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q544293",
-    "itemLabel": "Monster Energy",
-    "year": "2002",
-    "description": "American energy drink",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q526516",
-    "itemLabel": "Ferrero Rocher",
-    "year": "1982",
-    "description": "Italian confectionery",
     "sitelinks": "39"
   },
   {
@@ -1120,10 +1092,38 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q688424",
-    "itemLabel": "Maggi",
-    "year": "1886",
-    "description": "International food brand",
+    "item": "http://www.wikidata.org/entity/Q324679",
+    "itemLabel": "Wienerschnitzel",
+    "year": "1961",
+    "description": "American fast food restaurant chain",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1046951",
+    "itemLabel": "Target Corporation",
+    "year": "1902",
+    "description": "American retailer and supermarket chain",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q864987",
+    "itemLabel": "Corona",
+    "year": "1925",
+    "description": "branded beverage from Mexico",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q714491",
+    "itemLabel": "Marks & Spencer",
+    "year": "1884",
+    "description": "British retailer",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q544293",
+    "itemLabel": "Monster Energy",
+    "year": "2002",
+    "description": "American energy drink",
     "sitelinks": "39"
   },
   {
@@ -1134,10 +1134,17 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q331630",
-    "itemLabel": "Pilsner Urquell",
-    "year": "1842",
-    "description": "beer trademark",
+    "item": "http://www.wikidata.org/entity/Q526516",
+    "itemLabel": "Ferrero Rocher",
+    "year": "1982",
+    "description": "Italian confectionery",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q610672",
+    "itemLabel": "Budweiser",
+    "year": "1876",
+    "description": "American-style pale lager, a brand of Belgian company AB InBev",
     "sitelinks": "38"
   },
   {
@@ -1148,31 +1155,10 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q610672",
-    "itemLabel": "Budweiser",
-    "year": "1876",
-    "description": "American-style pale lager, a brand of Belgian company AB InBev",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q421253",
-    "itemLabel": "Apple Store",
-    "year": "2001",
-    "description": "retail store chain for Apple products",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q503592",
-    "itemLabel": "Gillette",
-    "year": "1901",
-    "description": "American brand of men's safety razors and other personal care products",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q557632",
-    "itemLabel": "Decca",
-    "year": "1929",
-    "description": "British record label",
+    "item": "http://www.wikidata.org/entity/Q825762",
+    "itemLabel": "GeForce",
+    "year": "1999",
+    "description": "brand of graphics processing units by NVIDIA",
     "sitelinks": "38"
   },
   {
@@ -1190,24 +1176,31 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q816412",
-    "itemLabel": "Ben & Jerry's",
-    "year": "1978",
-    "description": "American ice cream company",
+    "item": "http://www.wikidata.org/entity/Q421253",
+    "itemLabel": "Apple Store",
+    "year": "2001",
+    "description": "retail store chain for Apple products",
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q825762",
-    "itemLabel": "GeForce",
-    "year": "1999",
-    "description": "brand of graphics processing units by NVIDIA",
+    "item": "http://www.wikidata.org/entity/Q654283",
+    "itemLabel": "Def Jam Recordings",
+    "year": "1984",
+    "description": "American record label",
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1141173",
-    "itemLabel": "Marriott International",
-    "year": "1993",
-    "description": "international hospitality company in Bethesda, Maryland, United States",
+    "item": "http://www.wikidata.org/entity/Q331630",
+    "itemLabel": "Pilsner Urquell",
+    "year": "1842",
+    "description": "beer trademark",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q503592",
+    "itemLabel": "Gillette",
+    "year": "1901",
+    "description": "American brand of men's safety razors and other personal care products",
     "sitelinks": "38"
   },
   {
@@ -1218,31 +1211,24 @@
     "sitelinks": "38"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1141173",
+    "itemLabel": "Marriott International",
+    "year": "1993",
+    "description": "international hospitality company in Bethesda, Maryland, United States",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q557632",
+    "itemLabel": "Decca",
+    "year": "1929",
+    "description": "British record label",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q610492",
     "itemLabel": "Spar",
     "year": "1932",
     "description": "Dutch multinational retail chain and franchise brand",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q654283",
-    "itemLabel": "Def Jam Recordings",
-    "year": "1984",
-    "description": "American record label",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q387539",
-    "itemLabel": "Hollywood Records",
-    "year": "1989",
-    "description": "American record label",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q168407",
-    "itemLabel": "Deutsche Grammophon",
-    "year": "1898",
-    "description": "German classical music record label",
     "sitelinks": "37"
   },
   {
@@ -1260,10 +1246,24 @@
     "sitelinks": "37"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1544011",
+    "itemLabel": "Pathé",
+    "year": "1896",
+    "description": "French media production and theater businesses",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q753556",
     "itemLabel": "Lucky Strike",
     "year": "1871",
     "description": "American cigarette brand",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168407",
+    "itemLabel": "Deutsche Grammophon",
+    "year": "1898",
+    "description": "German classical music record label",
     "sitelinks": "37"
   },
   {
@@ -1274,10 +1274,10 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q588786",
-    "itemLabel": "China National Petroleum Corporation",
-    "year": "1988",
-    "description": "Chinese state-owned oil and gas corporation",
+    "item": "http://www.wikidata.org/entity/Q387539",
+    "itemLabel": "Hollywood Records",
+    "year": "1989",
+    "description": "American record label",
     "sitelinks": "37"
   },
   {
@@ -1288,11 +1288,11 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q645889",
-    "itemLabel": "Reprise Records",
-    "year": "1960",
-    "description": "American record label",
-    "sitelinks": "36"
+    "item": "http://www.wikidata.org/entity/Q588786",
+    "itemLabel": "China National Petroleum Corporation",
+    "year": "1988",
+    "description": "Chinese state-owned oil and gas corporation",
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q137023",
@@ -1302,31 +1302,17 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1330910",
-    "itemLabel": "Popeyes",
-    "year": "1972",
-    "description": "American multinational chain of fried chicken fast food restaurants",
+    "item": "http://www.wikidata.org/entity/Q827258",
+    "itemLabel": "Bershka",
+    "year": "1998",
+    "description": "Spanish clothing retailer",
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1544011",
-    "itemLabel": "Pathé",
-    "year": "1896",
-    "description": "French media production and theater businesses",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q878241",
-    "itemLabel": "Camel",
-    "year": "1913",
-    "description": "cigarette brand",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q493556",
-    "itemLabel": "Alipay",
-    "year": "2004",
-    "description": "third-party online payment platform in China",
+    "item": "http://www.wikidata.org/entity/Q775060",
+    "itemLabel": "Texaco",
+    "year": "1901",
+    "description": "oil subsidiary of Chevron Corporation",
     "sitelinks": "36"
   },
   {
@@ -1337,6 +1323,34 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q645889",
+    "itemLabel": "Reprise Records",
+    "year": "1960",
+    "description": "American record label",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q751281",
+    "itemLabel": "SOLIDWORKS",
+    "year": "1995",
+    "description": "3D CAD design and engineering software, brand of Dassault Systèmes.",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1330910",
+    "itemLabel": "Popeyes",
+    "year": "1972",
+    "description": "American multinational chain of fried chicken fast food restaurants",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q878241",
+    "itemLabel": "Camel",
+    "year": "1913",
+    "description": "cigarette brand",
+    "sitelinks": "36"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q28993",
     "itemLabel": "GMC",
     "year": "1911",
@@ -1344,24 +1358,10 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q175106",
-    "itemLabel": "Tim Hortons",
-    "year": "1964",
-    "description": "Canadian multinational quick-service restaurant chain",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q827258",
-    "itemLabel": "Bershka",
-    "year": "1998",
-    "description": "clothing retailer, part of the Spanish Inditex group",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1143333",
-    "itemLabel": "Häagen-Dazs",
-    "year": "1961",
-    "description": "American ice cream company",
+    "item": "http://www.wikidata.org/entity/Q493556",
+    "itemLabel": "Alipay",
+    "year": "2004",
+    "description": "third-party online payment platform in China",
     "sitelinks": "36"
   },
   {
@@ -1372,18 +1372,18 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q855479",
-    "itemLabel": "TDK",
-    "year": "1935",
-    "description": "Japanese multinational electronics company",
-    "sitelinks": "35"
+    "item": "http://www.wikidata.org/entity/Q175106",
+    "itemLabel": "Tim Hortons",
+    "year": "1964",
+    "description": "Canadian multinational quick-service restaurant chain",
+    "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q718194",
-    "itemLabel": "PDVSA",
-    "year": "1975",
-    "description": "Venezuelan government-owned oil company",
-    "sitelinks": "35"
+    "item": "http://www.wikidata.org/entity/Q1143333",
+    "itemLabel": "Häagen-Dazs",
+    "year": "1961",
+    "description": "American ice cream company",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q285480",
@@ -1393,24 +1393,24 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q474334",
-    "itemLabel": "Kinect",
-    "year": "2010",
-    "description": "motion sensing input device for the Xbox 360 and Xbox One",
+    "item": "http://www.wikidata.org/entity/Q827306",
+    "itemLabel": "Proton",
+    "year": "1983",
+    "description": "Automobile manufacturer",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152096",
-    "itemLabel": "Sainsbury's",
-    "year": "1869",
-    "description": "chain of supermarkets in the United Kingdom",
+    "item": "http://www.wikidata.org/entity/Q855479",
+    "itemLabel": "TDK",
+    "year": "1935",
+    "description": "Japanese multinational electronics company",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q158886",
-    "itemLabel": "Nuclear Blast",
-    "year": "1987",
-    "description": "German independent record label, specialised in metal and related music styles",
+    "item": "http://www.wikidata.org/entity/Q778673",
+    "itemLabel": "Sub Pop",
+    "year": "1986",
+    "description": "American record label",
     "sitelinks": "35"
   },
   {
@@ -1421,10 +1421,24 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q775060",
-    "itemLabel": "Texaco",
-    "year": "1901",
-    "description": "oil subsidiary of Chevron Corporation",
+    "item": "http://www.wikidata.org/entity/Q152096",
+    "itemLabel": "Sainsbury's",
+    "year": "1869",
+    "description": "chain of supermarkets in the United Kingdom",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q718194",
+    "itemLabel": "PDVSA",
+    "year": "1975",
+    "description": "Venezuelan government-owned oil company",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q474334",
+    "itemLabel": "Kinect",
+    "year": "2010",
+    "description": "motion sensing input device for the Xbox 360 and Xbox One",
     "sitelinks": "35"
   },
   {
@@ -1432,6 +1446,34 @@
     "itemLabel": "Tetra Pak",
     "year": "1943",
     "description": "multinational food packaging and processing company",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158886",
+    "itemLabel": "Nuclear Blast",
+    "year": "1987",
+    "description": "German independent record label, specialised in metal and related music styles",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q260833",
+    "itemLabel": "SanDisk",
+    "year": "1988",
+    "description": "American semiconductor company - memory and storage technologies",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202210",
+    "itemLabel": "GameStop",
+    "year": "1980",
+    "description": "American video game retailer",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17061332",
+    "itemLabel": "Smashburger",
+    "year": "2007",
+    "description": "American fast-food chain",
     "sitelinks": "35"
   },
   {
@@ -1449,25 +1491,11 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17061332",
-    "itemLabel": "Smashburger",
-    "year": "2007",
-    "description": "American fast-food chain",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q202210",
-    "itemLabel": "GameStop",
-    "year": "1980",
-    "description": "American video game retailer",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q260833",
-    "itemLabel": "SanDisk",
-    "year": "1988",
-    "description": "American semiconductor company - memory and storage technologies",
-    "sitelinks": "35"
+    "item": "http://www.wikidata.org/entity/Q138913",
+    "itemLabel": "Jysk",
+    "year": "1989",
+    "description": "Danish multinational furniture company",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q466985",
@@ -1477,24 +1505,10 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q138913",
-    "itemLabel": "Jysk",
-    "year": "1979",
-    "description": "Danish multinational furniture company",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q778673",
-    "itemLabel": "Sub Pop",
-    "year": "1986",
-    "description": "American record label",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q827306",
-    "itemLabel": "Proton",
-    "year": "1983",
-    "description": "Automobile manufacturer",
+    "item": "http://www.wikidata.org/entity/Q467731",
+    "itemLabel": "CATIA",
+    "year": "1977",
+    "description": "Advanced 3D design and engineering software, brand of Dassault Systèmes",
     "sitelinks": "34"
   },
   {
@@ -1505,10 +1519,38 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q631220",
-    "itemLabel": "Braun",
-    "year": "1921",
-    "description": "German consumer products company based in Kronberg",
+    "item": "http://www.wikidata.org/entity/Q13882231",
+    "itemLabel": "Alexander McQueen",
+    "year": "1992",
+    "description": "British luxury fashion house",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q899356",
+    "itemLabel": "Husqvarna Group",
+    "year": "1689",
+    "description": "producer of outdoor power products",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q680019",
+    "itemLabel": "Grundig",
+    "year": "1930",
+    "description": "German consumer electronics and personal care company",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q841470",
+    "itemLabel": "Vegemite",
+    "year": "1922",
+    "description": "savoury food spread",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q788231",
+    "itemLabel": "Massimo Dutti",
+    "year": "1985",
+    "description": "multinational clothing retailer from Spain",
     "sitelinks": "33"
   },
   {
@@ -1526,24 +1568,10 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q895167",
-    "itemLabel": "Bounty",
-    "year": "1951",
-    "description": "chocolate bar manufactured by Mars, Incorporated",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q899356",
-    "itemLabel": "Husqvarna Group",
-    "year": "1689",
-    "description": "producer of outdoor power products",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q680019",
-    "itemLabel": "Grundig",
-    "year": "1930",
-    "description": "German consumer electronics and personal care company",
+    "item": "http://www.wikidata.org/entity/Q631220",
+    "itemLabel": "Braun",
+    "year": "1921",
+    "description": "German consumer products company based in Kronberg",
     "sitelinks": "33"
   },
   {
@@ -1561,6 +1589,13 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q895167",
+    "itemLabel": "Bounty",
+    "year": "1951",
+    "description": "chocolate bar manufactured by Mars, Incorporated",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1123947",
     "itemLabel": "XL Recordings",
     "year": "1989",
@@ -1568,17 +1603,24 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1340204",
+    "itemLabel": "Sky Sports",
+    "year": "1991",
+    "description": "British television channels focusing on sports broadcasting",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16040593",
+    "itemLabel": "DS Automobiles",
+    "year": "2009",
+    "description": "French premium car marque of Stellantis",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q27543",
     "itemLabel": "Datsun",
     "year": "1931",
     "description": "automobile brand of Nissan",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13882231",
-    "itemLabel": "Alexander McQueen",
-    "year": "1992",
-    "description": "British luxury fashion house",
     "sitelinks": "33"
   },
   {
@@ -1596,27 +1638,6 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1204628",
-    "itemLabel": "Milo",
-    "year": "1934",
-    "description": "Australian brand of chocolate-based products",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q634831",
-    "itemLabel": "Sheraton Hotels and Resorts",
-    "year": "1937",
-    "description": "international hotel chain",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q649646",
-    "itemLabel": "Valentino",
-    "year": "1960",
-    "description": "Italian clothing company founded in 1960 by Valentino Garavani",
-    "sitelinks": "32"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q136503",
     "itemLabel": "Mango",
     "year": "1984",
@@ -1624,87 +1645,10 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1340204",
-    "itemLabel": "Sky Sports",
-    "year": "1991",
-    "description": "British television channels focusing on sports broadcasting",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1541268",
-    "itemLabel": "Lancôme",
-    "year": "1935",
-    "description": "French luxury perfumes and cosmetics house",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q720479",
-    "itemLabel": "Asahi Breweries",
-    "year": "1889",
-    "description": "Japanese food and beverage company",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q389284",
-    "itemLabel": "Aftermath Entertainment",
-    "year": "1996",
-    "description": "American record label",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q788231",
-    "itemLabel": "Massimo Dutti",
-    "year": "1985",
-    "description": "multinational clothing retailer from Spain",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q160719",
-    "itemLabel": "Playmobil",
-    "year": "1974",
-    "description": "toy line by Brandstätter Group",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q168241",
-    "itemLabel": "Dunlop Tyres",
-    "year": "1985",
-    "description": "International tyre brand",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q841470",
-    "itemLabel": "Vegemite",
-    "year": "1922",
-    "description": "savoury food spread",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q568246",
-    "itemLabel": "Shady Records",
-    "year": "1999",
-    "description": "American record label",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q929276",
-    "itemLabel": "Stella Artois",
-    "year": "1926",
-    "description": "trademark",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q664167",
-    "itemLabel": "Arista Records",
-    "year": "1974",
-    "description": "American record label; imprint of Arista Records, Inc.",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26823",
-    "itemLabel": "Abarth",
-    "year": "1949",
-    "description": "Italian automotive company",
+    "item": "http://www.wikidata.org/entity/Q1204628",
+    "itemLabel": "Milo",
+    "year": "1934",
+    "description": "Australian brand of chocolate-based products",
     "sitelinks": "32"
   },
   {
@@ -1722,10 +1666,87 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q693194",
+    "itemLabel": "Napalm Records",
+    "year": "1992",
+    "description": "Austrian record label",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q720479",
+    "itemLabel": "Asahi Breweries",
+    "year": "1889",
+    "description": "Japanese food and beverage company",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168241",
+    "itemLabel": "Dunlop Tyres",
+    "year": "1985",
+    "description": "International tyre brand",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q929276",
+    "itemLabel": "Stella Artois",
+    "year": "1926",
+    "description": "trademark",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1541268",
+    "itemLabel": "Lancôme",
+    "year": "1935",
+    "description": "French luxury perfumes and cosmetics house",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q634831",
+    "itemLabel": "Sheraton Hotels and Resorts",
+    "year": "1937",
+    "description": "international hotel chain",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q649646",
+    "itemLabel": "Valentino",
+    "year": "1960",
+    "description": "Italian clothing company founded in 1960 by Valentino Garavani",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1071312",
     "itemLabel": "My Little Pony",
     "year": "1983",
-    "description": "entertainment franchise developed by Hasbro",
+    "description": "Entertainment franchise developed by Hasbro",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160719",
+    "itemLabel": "Playmobil",
+    "year": "1974",
+    "description": "toy line by Brandstätter Group",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26823",
+    "itemLabel": "Abarth",
+    "year": "1949",
+    "description": "Italian automotive company",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q389284",
+    "itemLabel": "Aftermath Entertainment",
+    "year": "1996",
+    "description": "American record label",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q664167",
+    "itemLabel": "Arista Records",
+    "year": "1974",
+    "description": "American record label; imprint of Arista Records, Inc.",
     "sitelinks": "32"
   },
   {
@@ -1736,10 +1757,10 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q533415",
-    "itemLabel": "Best Buy",
-    "year": "1966",
-    "description": "American multinational consumer electronics retailer",
+    "item": "http://www.wikidata.org/entity/Q568246",
+    "itemLabel": "Shady Records",
+    "year": "1999",
+    "description": "American record label",
     "sitelinks": "32"
   },
   {
@@ -1750,39 +1771,11 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16040593",
-    "itemLabel": "DS Automobiles",
-    "year": "2009",
-    "description": "French premium car marque of Stellantis",
+    "item": "http://www.wikidata.org/entity/Q533415",
+    "itemLabel": "Best Buy",
+    "year": "1966",
+    "description": "American multinational consumer electronics retailer",
     "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1251215",
-    "itemLabel": "Minsk Automobile Plant",
-    "year": "1944",
-    "description": "Belarusian automotive industry manufacturer of commercial vehicles",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1331998",
-    "itemLabel": "Marmite",
-    "year": "1902",
-    "description": "brand of condiment made from yeast extract",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1345267",
-    "itemLabel": "Suntory",
-    "year": "1899",
-    "description": "Japanese beverage company",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q704756",
-    "itemLabel": "Claas",
-    "year": "1913",
-    "description": "international agricultural machinery company from Harsewinkel, Germany",
-    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1778984",
@@ -1792,10 +1785,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q420953",
-    "itemLabel": "Air Jordan",
-    "year": "1984",
-    "description": "brand of shoes and athletic clothing designed, owned, and produced for Michael Jordan by Nike",
+    "item": "http://www.wikidata.org/entity/Q938615",
+    "itemLabel": "Setra",
+    "year": "1951",
+    "description": "German bus and coach brand built by Daimer Buses, formerly by Kässbohrer Fahrzeugwerke",
     "sitelinks": "31"
   },
   {
@@ -1806,17 +1799,24 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q503487",
-    "itemLabel": "Scion",
-    "year": "2003",
-    "description": "discontinued marque of Toyota",
+    "item": "http://www.wikidata.org/entity/Q795454",
+    "itemLabel": "Barnes & Noble",
+    "year": "1873",
+    "description": "American book retailer",
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q158867",
-    "itemLabel": "Century Media Records",
-    "year": "1988",
-    "description": "German record label",
+    "item": "http://www.wikidata.org/entity/Q18628",
+    "itemLabel": "Roadrunner Records",
+    "year": "1980",
+    "description": "US record label based in New York City, a division of Warner Music Group",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1993628",
+    "itemLabel": "Nestea",
+    "year": "1948",
+    "description": "Iced tea brand",
     "sitelinks": "31"
   },
   {
@@ -1834,10 +1834,24 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18628",
-    "itemLabel": "Roadrunner Records",
-    "year": "1980",
-    "description": "US record label based in New York City, a division of Warner Music Group",
+    "item": "http://www.wikidata.org/entity/Q704756",
+    "itemLabel": "Claas",
+    "year": "1913",
+    "description": "international agricultural machinery company from Harsewinkel, Germany",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1251215",
+    "itemLabel": "Minsk Automobile Plant",
+    "year": "1944",
+    "description": "Belarusian automotive industry manufacturer of commercial vehicles",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q420953",
+    "itemLabel": "Air Jordan",
+    "year": "1984",
+    "description": "brand of shoes and athletic clothing designed, owned, and produced for Michael Jordan by Nike",
     "sitelinks": "31"
   },
   {
@@ -1848,10 +1862,24 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q938615",
-    "itemLabel": "Setra",
-    "year": "1951",
-    "description": "German bus and coach brand built by Daimer Buses, formerly by Kässbohrer Fahrzeugwerke",
+    "item": "http://www.wikidata.org/entity/Q158867",
+    "itemLabel": "Century Media Records",
+    "year": "1988",
+    "description": "German record label",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1331998",
+    "itemLabel": "Marmite",
+    "year": "1902",
+    "description": "brand of condiment made from yeast extract",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1345267",
+    "itemLabel": "Suntory",
+    "year": "1899",
+    "description": "Japanese beverage company",
     "sitelinks": "31"
   },
   {
@@ -1862,24 +1890,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3001888",
-    "itemLabel": "Sony BMG Music Entertainment, Inc.",
-    "year": "2004",
-    "description": "former American record company",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q795454",
-    "itemLabel": "Barnes & Noble",
-    "year": "1873",
-    "description": "American book retailer",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1993628",
-    "itemLabel": "Nestea",
-    "year": "1948",
-    "description": "Iced tea brand",
+    "item": "http://www.wikidata.org/entity/Q503487",
+    "itemLabel": "Scion",
+    "year": "2003",
+    "description": "discontinued marque of Toyota",
     "sitelinks": "31"
   },
   {
@@ -1890,18 +1904,67 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1192805",
-    "itemLabel": "Krispy Kreme",
-    "year": "1937",
-    "description": "American global doughnut company and coffeehouse chain",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2717882",
     "itemLabel": "Holiday Inn",
     "year": "1952",
     "description": "upper-midscale hotel chain run by IHG",
     "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3001888",
+    "itemLabel": "Sony BMG Music Entertainment, Inc.",
+    "year": "2004",
+    "description": "American record company (2004–2008)",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q756320",
+    "itemLabel": "Metal Blade Records",
+    "year": "1982",
+    "description": "American independent record label",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q938806",
+    "itemLabel": "Irn-Bru",
+    "year": "1901",
+    "description": "Scottish carbonated soft drink",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q326013",
+    "itemLabel": "Neoplan",
+    "year": "1935",
+    "description": "bus and coach brand",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q777721",
+    "itemLabel": "Smirnoff",
+    "year": "1860",
+    "description": "Vodka brand founded in Russia",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q837851",
+    "itemLabel": "The Body Shop",
+    "year": "1976",
+    "description": "international cosmetics company",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q301301",
+    "itemLabel": "Nespresso",
+    "year": "1986",
+    "description": "coffee brand owned by Nestlé S.A.",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q867072",
+    "itemLabel": "Fundació Joan Miró",
+    "year": "1975",
+    "description": "museum of modern art about Joan Miró located in Barcelona (Spain)",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q629269",
@@ -1932,31 +1995,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q867072",
-    "itemLabel": "Fundació Joan Miró",
-    "year": "1975",
-    "description": "museum of modern art about Joan Miró located in Barcelona (Spain)",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q301301",
-    "itemLabel": "Nespresso",
-    "year": "1986",
-    "description": "coffee brand owned by Nestlé S.A.",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q777721",
-    "itemLabel": "Smirnoff",
-    "year": "1860",
-    "description": "Vodka brand founded in Russia",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q326013",
-    "itemLabel": "Neoplan",
-    "year": "1935",
-    "description": "bus and coach brand",
+    "item": "http://www.wikidata.org/entity/Q537781",
+    "itemLabel": "Billa",
+    "year": "1953",
+    "description": "Austrian supermarket chain that operates throughout Central, Eastern and Southeastern Europe",
     "sitelinks": "30"
   },
   {
@@ -1967,45 +2009,17 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q756320",
-    "itemLabel": "Metal Blade Records",
-    "year": "1982",
-    "description": "American independent record label",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q555900",
-    "itemLabel": "Head & Shoulders",
-    "year": "1946",
-    "description": "brand of anti-dandruff shampoo produced by Procter & Gamble",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q938806",
-    "itemLabel": "Irn-Bru",
-    "year": "1901",
-    "description": "Scottish carbonated soft drink",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q837851",
-    "itemLabel": "The Body Shop",
-    "year": "1976",
-    "description": "international cosmetics company",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q693194",
-    "itemLabel": "Napalm Records",
-    "year": "1992",
-    "description": "Austrian record label",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1124849",
     "itemLabel": "Verve Records",
     "year": "1956",
     "description": "American record label",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1131810",
+    "itemLabel": "Five Guys",
+    "year": "1986",
+    "description": "burger and fries chain, based in the United States",
     "sitelinks": "30"
   },
   {
@@ -2019,14 +2033,21 @@
     "item": "http://www.wikidata.org/entity/Q16161254",
     "itemLabel": "HYBE",
     "year": "2005",
-    "description": "South Korean entertainment company",
+    "description": "South Korean multinational corporation",
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q36120",
-    "itemLabel": "Monster High",
-    "year": "2010",
-    "description": "American fashion doll franchise",
+    "item": "http://www.wikidata.org/entity/Q555900",
+    "itemLabel": "Head & Shoulders",
+    "year": "1946",
+    "description": "brand of anti-dandruff shampoo produced by Procter & Gamble",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1192805",
+    "itemLabel": "Krispy Kreme",
+    "year": "1937",
+    "description": "American global doughnut company and coffeehouse chain",
     "sitelinks": "30"
   },
   {
@@ -2037,6 +2058,20 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q36120",
+    "itemLabel": "Monster High",
+    "year": "2010",
+    "description": "American fashion doll franchise",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q115146",
+    "itemLabel": "Tokyo MX",
+    "year": "1993",
+    "description": "independent TV station in Tokyo, Japan",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q608845",
     "itemLabel": "Costa Coffee",
     "year": "1971",
@@ -2044,38 +2079,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1046066",
-    "itemLabel": "Fueled by Ramen",
-    "year": "1996",
-    "description": "American record label",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q898618",
-    "itemLabel": "Sun Records",
-    "year": "1952",
-    "description": "American independent record label in Memphis, Tennessee",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1659229",
-    "itemLabel": "Supreme",
-    "year": "1994",
-    "description": "American clothing brand and skateboarding shop",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1514221",
-    "itemLabel": "Kubota",
-    "year": "1890",
-    "description": "Japanese multinational manufacturing company",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q884711",
-    "itemLabel": "Blockbuster LLC",
-    "year": "1985",
-    "description": "defunct American-based provider of home movie and video game rental services; now a franchise brand name",
+    "item": "http://www.wikidata.org/entity/Q772494",
+    "itemLabel": "Chess Records",
+    "year": "1950",
+    "description": "American record company, founded in 1950 in Chicago",
     "sitelinks": "29"
   },
   {
@@ -2093,17 +2100,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1475656",
-    "itemLabel": "Selfridges",
-    "year": "1909",
-    "description": "chain of department stores",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q847018",
-    "itemLabel": "Death Row Records",
-    "year": "1991",
-    "description": "American record label",
+    "item": "http://www.wikidata.org/entity/Q898618",
+    "itemLabel": "Sun Records",
+    "year": "1952",
+    "description": "American independent record label in Memphis, Tennessee",
     "sitelinks": "29"
   },
   {
@@ -2114,6 +2114,41 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1475656",
+    "itemLabel": "Selfridges",
+    "year": "1909",
+    "description": "chain of department stores",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1780501",
+    "itemLabel": "Raffaello",
+    "year": "1990",
+    "description": "Italian brand of confection",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q847018",
+    "itemLabel": "Death Row Records",
+    "year": "1991",
+    "description": "American record label",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1046066",
+    "itemLabel": "Fueled by Ramen",
+    "year": "1996",
+    "description": "American record label",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1514221",
+    "itemLabel": "Kubota",
+    "year": "1890",
+    "description": "Japanese multinational manufacturing company",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q744618",
     "itemLabel": "Steadicam",
     "year": "1975",
@@ -2121,17 +2156,24 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q772494",
-    "itemLabel": "Chess Records",
-    "year": "1950",
-    "description": "American record company, founded in 1950 in Chicago",
+    "item": "http://www.wikidata.org/entity/Q1659229",
+    "itemLabel": "Supreme",
+    "year": "1994",
+    "description": "American clothing brand and skateboarding shop",
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q585537",
-    "itemLabel": "Hot Wheels",
-    "year": "1968",
-    "description": "brand of scale model cars",
+    "item": "http://www.wikidata.org/entity/Q884711",
+    "itemLabel": "Blockbuster LLC",
+    "year": "1985",
+    "description": "defunct American-based provider of home movie and video game rental services; now a franchise brand name",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q666948",
+    "itemLabel": "Fendt",
+    "year": "1930",
+    "description": "company",
     "sitelinks": "29"
   },
   {
@@ -2142,10 +2184,24 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q537781",
-    "itemLabel": "Billa",
-    "year": "1953",
-    "description": "Austrian supermarket chain that operates throughout Central, Eastern and Southeastern Europe",
+    "item": "http://www.wikidata.org/entity/Q2759586",
+    "itemLabel": "Papa John's",
+    "year": "1984",
+    "description": "pizza restaurant chain",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112406961",
+    "itemLabel": "Vkusno i tochka",
+    "year": "2022",
+    "description": "Russian fast food company",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q585537",
+    "itemLabel": "Hot Wheels",
+    "year": "1968",
+    "description": "brand of scale model cars",
     "sitelinks": "29"
   },
   {
@@ -2156,122 +2212,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1131810",
-    "itemLabel": "Five Guys",
-    "year": "1986",
-    "description": "burger and fries chain, based in the United States",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2759586",
-    "itemLabel": "Papa John's",
-    "year": "1984",
-    "description": "pizza restaurant chain",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q630866",
-    "itemLabel": "Arby's",
-    "year": "1964",
-    "description": "American fast food restaurant chain",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q115146",
-    "itemLabel": "TOKYO MX",
-    "year": "1993",
-    "description": "independent TV station in Tokyo, Japan",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q666948",
-    "itemLabel": "Fendt",
-    "year": "1930",
-    "description": "company",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1780501",
-    "itemLabel": "Raffaello",
-    "year": "1990",
-    "description": "Italian brand of confection",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q478119",
-    "itemLabel": "Amstel Brewery",
-    "year": "1870",
-    "description": "Dutch Brewery brand",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q455290",
-    "itemLabel": "Amarula",
-    "year": "1989",
-    "description": "liqueur",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1424786",
-    "itemLabel": "Four Seasons Hotels and Resorts",
-    "year": "1960",
-    "description": "Canadian luxury hotel and resort company",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q390562",
-    "itemLabel": "Athlon",
-    "year": "1999",
-    "description": "brand of microprocessors by AMD",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q848521",
-    "itemLabel": "Gorenje",
-    "year": "1950",
-    "description": "Slovenian company, subsidiary of Hisense",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q513712",
-    "itemLabel": "Pony Canyon",
-    "year": "1966",
-    "description": "Japanese publishing company",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q753863",
     "itemLabel": "Epiphone",
     "year": "1873",
     "description": "musical instrument brand",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q173151",
-    "itemLabel": "Talbot",
-    "year": "1903",
-    "description": "automotive brand of various corporations",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q185120",
-    "itemLabel": "vaseline",
-    "year": "1872",
-    "description": "trademark of petroleum jelly",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q27184",
-    "itemLabel": "Jive Records",
-    "year": "1977",
-    "description": "American record label",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1591889",
-    "itemLabel": "Walgreens",
-    "year": "1901",
-    "description": "American pharmacy and convenience store chain",
     "sitelinks": "28"
   },
   {
@@ -2282,31 +2226,17 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q26334",
-    "itemLabel": "National Rail",
-    "year": "1999",
-    "description": "brand name for the passenger rail services operated in Great Britain",
+    "item": "http://www.wikidata.org/entity/Q1591889",
+    "itemLabel": "Walgreens",
+    "year": "1901",
+    "description": "American pharmacy and convenience store chain",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4047174",
-    "itemLabel": "Polestar",
-    "year": "1996",
-    "description": "Swedish automotive brand",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153075",
-    "itemLabel": "Grolsch",
-    "year": "1615",
-    "description": "brewery in the Netherlands",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153417",
-    "itemLabel": "Kroger",
-    "year": "1882",
-    "description": "American multinational retailing company",
+    "item": "http://www.wikidata.org/entity/Q848521",
+    "itemLabel": "Gorenje",
+    "year": "1950",
+    "description": "Slovenian company, subsidiary of Hisense",
     "sitelinks": "28"
   },
   {
@@ -2317,24 +2247,38 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1124153",
-    "itemLabel": "Spinefarm Records",
-    "year": "1990",
-    "description": "Finnish record label",
+    "item": "http://www.wikidata.org/entity/Q1424786",
+    "itemLabel": "Four Seasons Hotels and Resorts",
+    "year": "1960",
+    "description": "Canadian luxury hotel and resort company",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q533617",
-    "itemLabel": "Deutz AG",
-    "year": "1864",
-    "description": "German motor manufacturer",
+    "item": "http://www.wikidata.org/entity/Q153417",
+    "itemLabel": "Kroger",
+    "year": "1882",
+    "description": "American multinational retailing company",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1142456",
-    "itemLabel": "GOOD Music",
-    "year": "2004",
-    "description": "American record label",
+    "item": "http://www.wikidata.org/entity/Q630866",
+    "itemLabel": "Arby's",
+    "year": "1964",
+    "description": "American fast food restaurant chain",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q390562",
+    "itemLabel": "Athlon",
+    "year": "1999",
+    "description": "brand of microprocessors by AMD",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q455290",
+    "itemLabel": "Amarula",
+    "year": "1989",
+    "description": "liqueur",
     "sitelinks": "28"
   },
   {
@@ -2352,38 +2296,38 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q21006848",
-    "itemLabel": "NoCopyrightSounds",
-    "year": "2011",
-    "description": "British electronic music record label",
+    "item": "http://www.wikidata.org/entity/Q173151",
+    "itemLabel": "Talbot",
+    "year": "1903",
+    "description": "automotive brand of various corporations",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q42895452",
-    "itemLabel": "Adidas Telstar 18",
-    "year": "2017",
-    "description": "official match ball of the 2018 FIFA World Cup",
+    "item": "http://www.wikidata.org/entity/Q1124153",
+    "itemLabel": "Spinefarm Records",
+    "year": "1990",
+    "description": "Finnish record label",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1200840",
-    "itemLabel": "Energizer Holdings, Inc.",
-    "year": "2000",
-    "description": "American manufacturer of batteries",
+    "item": "http://www.wikidata.org/entity/Q26334",
+    "itemLabel": "National Rail",
+    "year": "1999",
+    "description": "brand name for the passenger rail services operated in Great Britain",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q112406961",
-    "itemLabel": "Vkusno i tochka",
-    "year": "2022",
-    "description": "Russian fast food company",
+    "item": "http://www.wikidata.org/entity/Q27184",
+    "itemLabel": "Jive Records",
+    "year": "1977",
+    "description": "American record label",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1150326",
-    "itemLabel": "Nesquik",
-    "year": "1948",
-    "description": "brand of products by Nestlé",
+    "item": "http://www.wikidata.org/entity/Q513712",
+    "itemLabel": "Pony Canyon",
+    "year": "1966",
+    "description": "Japanese publishing company",
     "sitelinks": "28"
   },
   {
@@ -2394,6 +2338,48 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1142456",
+    "itemLabel": "GOOD Music",
+    "year": "2004",
+    "description": "American record label",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1150326",
+    "itemLabel": "Nesquik",
+    "year": "1948",
+    "description": "brand of products by Nestlé",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q533617",
+    "itemLabel": "Deutz AG",
+    "year": "1864",
+    "description": "German motor manufacturer",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21006848",
+    "itemLabel": "NoCopyrightSounds",
+    "year": "2011",
+    "description": "British electronic music record label",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4047174",
+    "itemLabel": "Polestar",
+    "year": "1996",
+    "description": "Swedish automotive brand",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42895452",
+    "itemLabel": "Adidas Telstar 18",
+    "year": "2017",
+    "description": "official match ball of the 2018 FIFA World Cup",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q613883",
     "itemLabel": "Mercury",
     "year": "1938",
@@ -2401,59 +2387,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1276832",
-    "itemLabel": "Hesburger",
-    "year": "1980",
-    "description": "Finnish fast food restaurant chain",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1342742",
-    "itemLabel": "RC Cola",
-    "year": "1905",
-    "description": "cola-flavored soft drink",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q867068",
-    "itemLabel": "Gore-Tex",
-    "year": "1969",
-    "description": "trademark for a waterproof, breathable fabric",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1809448",
-    "itemLabel": "Whole Foods Market",
-    "year": "1980",
-    "description": "American supermarket chain specializing in natural and organic foods",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q726153",
-    "itemLabel": "Epitaph Records",
-    "year": "1980",
-    "description": "American independent record label",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q728185",
-    "itemLabel": "Shiseido",
-    "year": "1872",
-    "description": "Japanese multinational personal care company",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q304992",
-    "itemLabel": "Gatorade",
-    "year": "1965",
-    "description": "manufacturer of sports-themed beverage and food products",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q493145",
-    "itemLabel": "SK Telecom",
-    "year": "1984",
-    "description": "South Korean telecommunications company",
+    "item": "http://www.wikidata.org/entity/Q1200840",
+    "itemLabel": "Energizer Holdings, Inc.",
+    "year": "2000",
+    "description": "American manufacturer of batteries",
     "sitelinks": "27"
   },
   {
@@ -2471,10 +2408,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1068307",
-    "itemLabel": "Pocky",
-    "year": "1966",
-    "description": "Japanese snack food",
+    "item": "http://www.wikidata.org/entity/Q1809448",
+    "itemLabel": "Whole Foods Market",
+    "year": "1980",
+    "description": "American supermarket chain specializing in natural and organic foods",
     "sitelinks": "27"
   },
   {
@@ -2485,24 +2422,38 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q165708",
-    "itemLabel": "Ram Trucks",
-    "year": "2010",
-    "description": "American brand of light to mid-weight commercial vehicles",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q549181",
-    "itemLabel": "MOL Group",
-    "year": "1991",
-    "description": "Hungarian oil industry corporation",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q838544",
     "itemLabel": "Earache Records",
     "year": "1985",
     "description": "British record label",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q304992",
+    "itemLabel": "Gatorade",
+    "year": "1965",
+    "description": "manufacturer of sports-themed beverage and food products",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q867068",
+    "itemLabel": "Gore-Tex",
+    "year": "1969",
+    "description": "trademark for a waterproof, breathable fabric",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q726153",
+    "itemLabel": "Epitaph Records",
+    "year": "1980",
+    "description": "American independent record label",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165708",
+    "itemLabel": "Ram Trucks",
+    "year": "2010",
+    "description": "American brand of light to mid-weight commercial vehicles",
     "sitelinks": "27"
   },
   {
@@ -2513,10 +2464,38 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1068307",
+    "itemLabel": "Pocky",
+    "year": "1966",
+    "description": "Japanese snack food",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1276832",
+    "itemLabel": "Hesburger",
+    "year": "1980",
+    "description": "Finnish fast food restaurant chain",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q728185",
+    "itemLabel": "Shiseido",
+    "year": "1872",
+    "description": "Japanese multinational personal care company",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1057464",
     "itemLabel": "Hilton Worldwide",
     "year": "1919",
     "description": "American multinational hospitality company",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1342742",
+    "itemLabel": "RC Cola",
+    "year": "1905",
+    "description": "cola-flavored soft drink",
     "sitelinks": "27"
   },
   {
@@ -2531,6 +2510,41 @@
     "itemLabel": "Hooters",
     "year": "1983",
     "description": "American restaurant chain",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q493145",
+    "itemLabel": "SK Telecom",
+    "year": "1984",
+    "description": "South Korean telecommunications company",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53",
+    "itemLabel": "Club-Mate",
+    "year": "1924",
+    "description": "caffeinated and carbonated non-alcoholic refreshment drink based on maté",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q549181",
+    "itemLabel": "MOL Group",
+    "year": "1991",
+    "description": "Hungarian oil industry corporation",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185120",
+    "itemLabel": "vaseline",
+    "year": "1872",
+    "description": "trademark of petroleum jelly",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134304762",
+    "itemLabel": "Adidas Trionda",
+    "year": "2025",
+    "description": "Official ball of 2026 FIFA World Cup",
     "sitelinks": "27"
   },
   {
@@ -2555,17 +2569,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q333040",
-    "itemLabel": "Sony Music Publishing",
-    "year": "1995",
-    "description": "American music publishing company",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q885833",
-    "itemLabel": "Blue Note",
-    "year": "1939",
-    "description": "American record label; main imprint of Blue Note Records, Inc.",
+    "item": "http://www.wikidata.org/entity/Q1206045",
+    "itemLabel": "ramune",
+    "year": "1884",
+    "description": "carbonated soft drink",
     "sitelinks": "26"
   },
   {
@@ -2573,6 +2580,76 @@
     "itemLabel": "McFlurry",
     "year": "1997",
     "description": "frozen dessert sold at McDonald's",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1611731",
+    "itemLabel": "Hongqi",
+    "year": "1958",
+    "description": "Chinese luxury car brand",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1798652",
+    "itemLabel": "Tuborg Brewery",
+    "year": "1873",
+    "description": "Danish brewing company",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q685005",
+    "itemLabel": "Ovaltine",
+    "year": "1904",
+    "description": "Ovomaltine drink",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q798658",
+    "itemLabel": "Bad Boy Records",
+    "year": "1993",
+    "description": "American hip hop record label",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312371",
+    "itemLabel": "Kent",
+    "year": "1952",
+    "description": "brand of tobacco product",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152532",
+    "itemLabel": "Skol",
+    "year": "1959",
+    "description": "Scottish beer brand",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q333040",
+    "itemLabel": "Sony Music Publishing",
+    "year": "1995",
+    "description": "American music publishing company",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q484544",
+    "itemLabel": "Cheetos",
+    "year": "1948",
+    "description": "brand of snack food",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1324712",
+    "itemLabel": "Harvest",
+    "year": "1969",
+    "description": "UK record label owned by EMI Records, Ltd.",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1329463",
+    "itemLabel": "Quiksilver",
+    "year": "1969",
+    "description": "manufacturer of surfwear swimwear, ski and snowboard wear and equipment",
     "sitelinks": "26"
   },
   {
@@ -2590,10 +2667,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1798652",
-    "itemLabel": "Tuborg Brewery",
-    "year": "1873",
-    "description": "Danish brewing company",
+    "item": "http://www.wikidata.org/entity/Q885833",
+    "itemLabel": "Blue Note",
+    "year": "1939",
+    "description": "American record label; main imprint of Blue Note Records, Inc.",
     "sitelinks": "26"
   },
   {
@@ -2604,17 +2681,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q312371",
-    "itemLabel": "Kent",
-    "year": "1952",
-    "description": "brand of tobacco product",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q484544",
-    "itemLabel": "Cheetos",
-    "year": "1948",
-    "description": "brand of snack food",
+    "item": "http://www.wikidata.org/entity/Q2297653",
+    "itemLabel": "Kinder Bueno",
+    "year": "1990",
+    "description": "chocolate bar made by Ferrero",
     "sitelinks": "26"
   },
   {
@@ -2632,48 +2702,6 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2297653",
-    "itemLabel": "Kinder Bueno",
-    "year": "1990",
-    "description": "chocolate bar made by Ferrero",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3268010",
-    "itemLabel": "Circle K",
-    "year": "1951",
-    "description": "international convenience store chain owned by Alimentation Couche-Tard",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1611731",
-    "itemLabel": "Hongqi",
-    "year": "1958",
-    "description": "Chinese luxury car brand",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q152532",
-    "itemLabel": "Skol",
-    "year": "1959",
-    "description": "Scottish beer brand",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q798658",
-    "itemLabel": "Bad Boy Records",
-    "year": "1993",
-    "description": "American hip hop record label",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q599755",
-    "itemLabel": "Garnier",
-    "year": "1904",
-    "description": "mass market cosmetics brand of French cosmetics company L'Oréal",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q106621124",
     "itemLabel": "Zeekr",
     "year": "2021",
@@ -2681,10 +2709,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q53",
-    "itemLabel": "Club-Mate",
-    "year": "1924",
-    "description": "caffeinated and carbonated non-alcoholic refreshment drink based on maté",
+    "item": "http://www.wikidata.org/entity/Q111432258",
+    "itemLabel": "Adidas Al Rihla",
+    "year": "2022",
+    "description": "FIFA World Cup Official Ball",
     "sitelinks": "26"
   },
   {
@@ -2702,11 +2730,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1206045",
-    "itemLabel": "ramune",
-    "year": "1884",
-    "description": "carbonated soft drink",
-    "sitelinks": "25"
+    "item": "http://www.wikidata.org/entity/Q599755",
+    "itemLabel": "Garnier",
+    "year": "1904",
+    "description": "mass market cosmetics brand of French cosmetics company L'Oréal",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93894",
@@ -2716,45 +2744,31 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1034035",
-    "itemLabel": "Finlandia Vodka",
-    "year": "1970",
-    "description": "Finnish brand of vodka",
+    "item": "http://www.wikidata.org/entity/Q1194456",
+    "itemLabel": "Roc Nation",
+    "year": "2008",
+    "description": "American entertainment company",
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1324712",
-    "itemLabel": "Harvest",
-    "year": "1969",
-    "description": "UK record label owned by EMI Records, Ltd.",
+    "item": "http://www.wikidata.org/entity/Q770103",
+    "itemLabel": "Bertelsmann Music Group",
+    "year": "1983",
+    "description": "American record label",
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1329463",
-    "itemLabel": "Quiksilver",
-    "year": "1969",
-    "description": "manufacturer of surfwear swimwear, ski and snowboard wear and equipment",
+    "item": "http://www.wikidata.org/entity/Q770328",
+    "itemLabel": "Aniplex",
+    "year": "1995",
+    "description": "Japanese entertainment company",
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q685005",
-    "itemLabel": "Ovaltine",
-    "year": "1904",
-    "description": "Ovomaltine drink",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q867662",
-    "itemLabel": "Esso",
-    "year": "1911",
-    "description": "American oil and gas station brand",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1913796",
-    "itemLabel": "Maxell",
-    "year": "1960",
-    "description": "Japanese electronics company",
+    "item": "http://www.wikidata.org/entity/Q821969",
+    "itemLabel": "Berluti",
+    "year": "1895",
+    "description": "luxury brand",
     "sitelinks": "25"
   },
   {
@@ -2772,31 +2786,17 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1060537",
-    "itemLabel": "Forever 21",
-    "year": "1984",
-    "description": "Canadian clothing store chain owned by YM Inc and former American fast fashion retailer",
+    "item": "http://www.wikidata.org/entity/Q935317",
+    "itemLabel": "Staropramen",
+    "year": "1869",
+    "description": "Czech beer trademark",
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q793081",
-    "itemLabel": "Benson & Hedges",
-    "year": "1873",
-    "description": "cigarette brand",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1477881",
-    "itemLabel": "Pegaso",
-    "year": "1946",
-    "description": "Spanish make of trucks, buses, tractors, armored vehicles and sports cars",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q163355",
-    "itemLabel": "Whiskas",
-    "year": "1936",
-    "description": "Cat food brand",
+    "item": "http://www.wikidata.org/entity/Q377705",
+    "itemLabel": "Mercadona",
+    "year": "1977",
+    "description": "Spanish supermarket chain",
     "sitelinks": "25"
   }
 ]

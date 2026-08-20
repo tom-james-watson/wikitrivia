@@ -5,7 +5,7 @@
     "year": "1870",
     "locationLabel": "Manhattan",
     "description": "art museum in New York City, United States",
-    "sitelinks": "84"
+    "sitelinks": "87"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131626",
@@ -13,7 +13,7 @@
     "year": "1846",
     "locationLabel": "",
     "description": "group of museums and research centers administered by the United States government",
-    "sitelinks": "69"
+    "sitelinks": "70"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9219",
@@ -24,12 +24,12 @@
     "sitelinks": "61"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8012",
-    "itemLabel": "Derby Museum and Art Gallery",
-    "year": "1879",
-    "locationLabel": "City of Derby",
-    "description": "museum and art gallery in Derby, England, United Kingdom",
-    "sitelinks": "59"
+    "item": "http://www.wikidata.org/entity/Q192988",
+    "itemLabel": "Royal Observatory",
+    "year": "1675",
+    "locationLabel": "Royal Borough of Greenwich",
+    "description": "observatory in Greenwich, London, UK",
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q623578",
@@ -37,6 +37,14 @@
     "year": "1961",
     "locationLabel": "Canberra Central",
     "description": "national reference library in Canberra, Australia",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8012",
+    "itemLabel": "Derby Museum and Art Gallery",
+    "year": "1879",
+    "locationLabel": "City of Derby",
+    "description": "museum and art gallery in Derby, England, United Kingdom",
     "sitelinks": "59"
   },
   {
@@ -48,12 +56,12 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154828",
-    "itemLabel": "Berlin Zoological Garden",
-    "year": "1844",
-    "locationLabel": "Bezirk Mitte",
-    "description": "zoo in Germany",
-    "sitelinks": "52"
+    "item": "http://www.wikidata.org/entity/Q154568",
+    "itemLabel": "Alte Pinakothek",
+    "year": "1836",
+    "locationLabel": "Munich",
+    "description": "art museum in Munich, Germany",
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q371908",
@@ -64,12 +72,12 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154568",
-    "itemLabel": "Alte Pinakothek",
-    "year": "1836",
-    "locationLabel": "Munich",
-    "description": "art museum in Munich, Germany",
-    "sitelinks": "47"
+    "item": "http://www.wikidata.org/entity/Q263655",
+    "itemLabel": "Newgrounds",
+    "year": "1995",
+    "locationLabel": "",
+    "description": "American entertainment and social media website",
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q456800",
@@ -80,28 +88,12 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q263655",
-    "itemLabel": "Newgrounds",
-    "year": "1995",
-    "locationLabel": "",
-    "description": "American entertainment and social media website",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q270263",
-    "itemLabel": "London Zoo",
-    "year": "1828",
-    "locationLabel": "City of Westminster",
-    "description": "world's oldest scientific zoo, in London, England",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q11993457",
     "itemLabel": "Royal Spanish Academy",
     "year": "1713",
     "locationLabel": "",
     "description": "official regulator for the Spanish language",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q304037",
@@ -112,6 +104,14 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q254156",
+    "itemLabel": "Egyptian Museum of Berlin",
+    "year": "1828",
+    "locationLabel": "Bezirk Mitte",
+    "description": "part of the Neues Museum, collection of Ancient Egyptian artifacts",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q273593",
     "itemLabel": "Beaux-Arts de Paris",
     "year": "1648",
@@ -120,27 +120,11 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q254156",
-    "itemLabel": "Egyptian Museum of Berlin",
-    "year": "1828",
-    "locationLabel": "Bezirk Mitte",
-    "description": "part of the Neues Museum, collection of Ancient Egyptian artifacts",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q739792",
-    "itemLabel": "Bronx Zoo",
-    "year": "1899",
-    "locationLabel": "The Bronx",
-    "description": "metropolitan zoo in the Bronx, New York City, New York, USA",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q595802",
     "itemLabel": "Museum Plantin-Moretus",
     "year": "1877",
     "locationLabel": "Antwerp",
-    "description": "museum in Antwerp",
+    "description": "museum in Antwerp, Belgium",
     "sitelinks": "39"
   },
   {
@@ -152,14 +136,6 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4890",
-    "itemLabel": "Gemäldegalerie Alte Meister",
-    "year": "1855",
-    "locationLabel": "Dresden",
-    "description": "art gallery in Dresden, Germany",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1232180",
     "itemLabel": "University of Granada",
     "year": "1531",
@@ -168,27 +144,19 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q752283",
-    "itemLabel": "Schönbrunn Zoo",
-    "year": "1752",
-    "locationLabel": "Hietzing",
-    "description": "zoo in Vienna",
-    "sitelinks": "37"
+    "item": "http://www.wikidata.org/entity/Q4890",
+    "itemLabel": "Gemäldegalerie Alte Meister",
+    "year": "1560",
+    "locationLabel": "Dresden",
+    "description": "art gallery in Dresden, Germany",
+    "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q613676",
-    "itemLabel": "Moscow Zoo",
-    "year": "1864",
-    "locationLabel": "Tverskoy District",
-    "description": "zoo in Moscow, Russia",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q818395",
-    "itemLabel": "San Diego Zoo",
-    "year": "1916",
-    "locationLabel": "San Diego",
-    "description": "zoo in Balboa Park, San Diego, California, United States",
+    "item": "http://www.wikidata.org/entity/Q1277585",
+    "itemLabel": "Kunstkamera",
+    "year": "1714",
+    "locationLabel": "Vasileostrovsky District",
+    "description": "museum in Saint Petersburg, Russia",
     "sitelinks": "36"
   },
   {
@@ -200,28 +168,20 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2452280",
-    "itemLabel": "Baku Zoo",
-    "year": "1928",
-    "locationLabel": "Baku",
-    "description": "zoo in Baku, Azerbaijan",
+    "item": "http://www.wikidata.org/entity/Q631733",
+    "itemLabel": "Ytterby mine",
+    "year": "1756",
+    "locationLabel": "Vaxholm Municipality",
+    "description": "mine on Resarö, Vaxholm municipality, Stockholm archipelago, Sweden",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15503298",
-    "itemLabel": "Pombia Safari Park",
-    "year": "1976",
-    "locationLabel": "Pombia",
-    "description": "Attraction in Northern Italy",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1277585",
-    "itemLabel": "Kunstkamera",
-    "year": "1714",
-    "locationLabel": "Vasileostrovsky District",
-    "description": "museum in Saint Petersburg, Russia",
-    "sitelinks": "35"
+    "item": "http://www.wikidata.org/entity/Q1672830",
+    "itemLabel": "National Library of Ireland",
+    "year": "1877",
+    "locationLabel": "Dublin",
+    "description": "heritage institution",
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q666063",
@@ -232,11 +192,11 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1672830",
-    "itemLabel": "National Library of Ireland",
-    "year": "1877",
-    "locationLabel": "Dublin",
-    "description": "heritage institution",
+    "item": "http://www.wikidata.org/entity/Q888825",
+    "itemLabel": "Boboli Gardens",
+    "year": "1766",
+    "locationLabel": "Florence",
+    "description": "park in Florence, Italy",
     "sitelinks": "33"
   },
   {
@@ -256,6 +216,14 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q195311",
+    "itemLabel": "National Museum in Kraków",
+    "year": "1879",
+    "locationLabel": "Kraków",
+    "description": "museum in Krakow, Poland",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1041737",
     "itemLabel": "Carleton University",
     "year": "1943",
@@ -272,19 +240,19 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q713124",
+    "itemLabel": "Natura Artis Magistra",
+    "year": "1838",
+    "locationLabel": "Amsterdam",
+    "description": "zoo in Amsterdam, the Netherlands",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q860166",
     "itemLabel": "Arab World Institute",
     "year": "1987",
     "locationLabel": "5th arrondissement of Paris",
     "description": "French cultural institute dedicated to the Arab world",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q195311",
-    "itemLabel": "National Museum in Kraków",
-    "year": "1879",
-    "locationLabel": "Kraków",
-    "description": "museum in Krakow, Poland",
     "sitelinks": "30"
   }
 ]

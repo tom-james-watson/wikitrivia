@@ -223,7 +223,7 @@
     "qid": "Q203233",
     "title": "Battle of Plassey takes place",
     "subtitle": "Battle",
-    "year": 2019,
+    "year": 1757,
     "fact": "The Battle of Plassey was a decisive victory of the British East India Company, under the leadership of Robert Clive, over the Nawab of Bengal and his French allies on 23 June 1757.",
     "wikipediaSlug": "Battle_of_Plassey",
     "image": "Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg",
@@ -452,7 +452,7 @@
   {
     "qid": "Q212220",
     "title": "Battle of Nicopolis takes place",
-    "subtitle": "Battle in Ottoman Wars in Europe",
+    "subtitle": "Battle in Hungarian–Ottoman War",
     "year": 1396,
     "fact": "The Battle of Nicopolis took place on 25 September 1396 and resulted in the rout of an allied Crusader army, assisted by the Venetian navy, at the hands of an Ottoman force, raising the siege of the Danubian fortress of Nicopolis and leading to the end of the Second Bulgarian Empire.",
     "wikipediaSlug": "Battle_of_Nicopolis",
@@ -542,7 +542,7 @@
   {
     "qid": "Q1639459",
     "title": "Battle of Mu'tah takes place",
-    "subtitle": "Battle in Arab–Byzantine Wars",
+    "subtitle": "Battle in Arab–Byzantine wars",
     "year": 629,
     "fact": "The Battle of Mu'tah took place in September 629, between the forces of Muhammad and the army of the Byzantine Empire and their Ghassanid vassals.",
     "wikipediaSlug": "Battle_of_Mu%27tah",
@@ -958,6 +958,16 @@
     "wikipediaSlug": "Battle_of_Varna",
     "image": "Battle_of_Varna_1444.PNG",
     "pageViews": 10484
+  },
+  {
+    "qid": "Q219697",
+    "title": "Battle of Las Navas de Tolosa takes place",
+    "subtitle": "Battle in Almohad wars in the Iberian Peninsula",
+    "year": 1212,
+    "fact": "The Battle of Las Navas de Tolosa, known in Islamic history as the Battle of Al-Uqab, took place on 16 July 1212 and was an important turning point in the Reconquista and the history of medieval Spain.",
+    "wikipediaSlug": "Battle_of_Las_Navas_de_Tolosa",
+    "image": "Batalla_de_las_Navas_de_Tolosa,_por_Francisco_van_Halen.jpg",
+    "pageViews": 10224
   },
   {
     "qid": "Q40144",
@@ -1880,6 +1890,16 @@
     "pageViews": 3140
   },
   {
+    "qid": "Q403416",
+    "title": "Battle of Pliska takes place",
+    "subtitle": "Battle in Byzantine–Bulgarian Wars",
+    "year": 811,
+    "fact": "The Battle of Pliska or Battle of Vărbitsa Pass was a series of battles between the forces of the Byzantine Empire under Emperor Nicephorus I, and the First Bulgarian Empire under Khan Krum in July 811.",
+    "wikipediaSlug": "Battle_of_Pliska",
+    "image": "52-manasses-chronicle.jpg",
+    "pageViews": 3139
+  },
+  {
     "qid": "Q392538",
     "title": "Battle of Sagrajas takes place",
     "subtitle": "Battle in Almoravid conquest of al-Andalus",
@@ -1952,7 +1972,7 @@
   {
     "qid": "Q111078529",
     "title": "Battle of Sievierodonetsk takes place",
-    "subtitle": "Battle in Russo-Ukrainian War",
+    "subtitle": "Battle in Russo-Ukrainian war",
     "year": 2022,
     "fact": "The Battle of Sievierodonetsk was a military engagement in the wider battle of Donbas of the eastern Ukraine campaign during the Russian invasion of Ukraine.",
     "wikipediaSlug": "Battle_of_Sievierodonetsk_(2022)",
@@ -2018,5 +2038,15 @@
     "wikipediaSlug": "Battle_of_Gangut",
     "image": "Battle_of_Gangut-Bakua.jpg",
     "pageViews": 1324
+  },
+  {
+    "qid": "Q166015",
+    "title": "Battle of Lesnaya takes place",
+    "subtitle": "Battle in Great Northern War",
+    "year": 1708,
+    "fact": "The Battle of Lesnaya was fought on 9 October during the Swedish invasion of Russia in the Great Northern War.",
+    "wikipediaSlug": "Battle_of_Lesnaya",
+    "image": "Battle_of_Lesnaya.png",
+    "pageViews": 1139
   }
 ]

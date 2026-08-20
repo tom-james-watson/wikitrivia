@@ -70,6 +70,16 @@
     "pageViews": 65725
   },
   {
+    "qid": "Q47719",
+    "title": "Pepsi launches",
+    "subtitle": "Soft drink owned and manufactured by PepsiCo",
+    "year": 1893,
+    "fact": "Pepsi is a carbonated soft drink with a cola flavor, manufactured by PepsiCo which serves as its flagship product.",
+    "wikipediaSlug": "Pepsi",
+    "image": "Pepsi_2023.svg",
+    "pageViews": 60633
+  },
+  {
     "qid": "Q277641",
     "title": "A&W Restaurants is founded",
     "subtitle": "American fast food chain",
@@ -588,16 +598,6 @@
     "wikipediaSlug": "Reese%27s_Peanut_Butter_Cups",
     "image": "Reese's_logo.svg",
     "pageViews": 20462
-  },
-  {
-    "qid": "Q3472452",
-    "title": "No Name launches",
-    "subtitle": "Canadian line of generic brand grocery and household products",
-    "year": 1978,
-    "fact": "No Name is a line of generic brand grocery and household products sold by Loblaw Companies Limited, Canada's largest food retailer.",
-    "wikipediaSlug": "No_Name_(brand)",
-    "image": "No_name_cheese_rice_crackers_2012_(cropped).jpg",
-    "pageViews": 19415
   },
   {
     "qid": "Q757388",
@@ -1221,8 +1221,8 @@
   },
   {
     "qid": "Q1423785",
-    "title": "Foster's Lager launches",
-    "subtitle": "Beer brand from Australia",
+    "title": "Foster's launches",
+    "subtitle": "Beer brand produced by Carlton & United Breweries",
     "year": 1888,
     "fact": "Foster's Lager is an internationally distributed brand of Australian lager.",
     "wikipediaSlug": "Foster%27s_Lager",
@@ -1292,7 +1292,7 @@
   {
     "qid": "Q7605233",
     "title": "Steak 'n Shake is founded",
-    "subtitle": "Restaurant chain",
+    "subtitle": "American restaurant chain",
     "year": 1934,
     "fact": "Steak 'n Shake Operations, Inc., doing business as Steak 'n Shake, is an American fast food chain concentrated primarily in the Midwestern United States along with locations in the rest of the country plus locations in Western Europe.",
     "wikipediaSlug": "Steak_%27n_Shake",
@@ -1668,6 +1668,16 @@
     "wikipediaSlug": "Cap%27n_Crunch",
     "image": "Capcrunch_textlogo.png",
     "pageViews": 8670
+  },
+  {
+    "qid": "Q934273",
+    "title": "Powerade launches",
+    "subtitle": "Sports drink manufactured and marketed by The Coca-Cola Company",
+    "year": 1988,
+    "fact": "Powerade is a sports drink created and distributed by the Coca-Cola Company since 1988.",
+    "wikipediaSlug": "Powerade",
+    "image": "Powerade_logo.png",
+    "pageViews": 8618
   },
   {
     "qid": "Q895167",
@@ -2850,16 +2860,6 @@
     "pageViews": 4292
   },
   {
-    "qid": "Q478119",
-    "title": "Amstel Brewery launches",
-    "subtitle": "Dutch Brewery brand",
-    "year": 1870,
-    "fact": "Amstel Brewery is a Dutch brewery founded in 1870 on the Mauritskade in Amsterdam.",
-    "wikipediaSlug": "Amstel_Brewery",
-    "image": "Amstel_Premium_Lager.JPG",
-    "pageViews": 4283
-  },
-  {
     "qid": "Q1204169",
     "title": "MOS Burger is founded",
     "subtitle": "Company",
@@ -3220,16 +3220,6 @@
     "pageViews": 3626
   },
   {
-    "qid": "Q153075",
-    "title": "Grolsch launches",
-    "subtitle": "Brewery in the Netherlands",
-    "year": 1615,
-    "fact": "Koninklijke Grolsch N.V., known simply as Grolsch, is a Dutch brewery founded in 1615 by Willem Neerfeldt in Groenlo.",
-    "wikipediaSlug": "Grolsch_Brewery",
-    "image": "Grolsch_premium_lager_bottle_unopened.jpg",
-    "pageViews": 3567
-  },
-  {
     "qid": "Q1032091",
     "title": "Canadian Club launches",
     "subtitle": "Brand of whisky from Canada",
@@ -3348,6 +3338,16 @@
     "wikipediaSlug": "Honey_Monster_Puffs",
     "image": "Sugar-puffs_Box.jpg",
     "pageViews": 3296
+  },
+  {
+    "qid": "Q3493770",
+    "title": "Pepsi Max launches",
+    "subtitle": "Sugar free cola",
+    "year": 1993,
+    "fact": "Pepsi Zero Sugar, also known as Pepsi Max and Pepsi Black, is a low-calorie, sugar-free cola, marketed by PepsiCo.",
+    "wikipediaSlug": "Pepsi_Max",
+    "image": "Pepsi_Zero_Sugar_2023.svg",
+    "pageViews": 3265
   },
   {
     "qid": "Q600407",
@@ -3490,6 +3490,16 @@
     "pageViews": 2930
   },
   {
+    "qid": "Q5750772",
+    "title": "Hibiki launches",
+    "subtitle": "Japanese blended whisky",
+    "year": 1899,
+    "fact": "Hibiki is a premium blended whisky produced in Japan by Suntory Global Spirits, a subsidiary of Suntory Beverage & Food Ltd, which itself is a subsidiary of Suntory Holdings of Osaka, Japan.",
+    "wikipediaSlug": "Hibiki_(whisky)",
+    "image": "Hibiki_the_premium_blended_whisky_from_Japanese_distiller_Suntory.jpg",
+    "pageViews": 2906
+  },
+  {
     "qid": "Q5506553",
     "title": "Fry's Turkish Delight launches",
     "subtitle": "Chocolate bar",
@@ -3628,6 +3638,16 @@
     "wikipediaSlug": "Baja_Fresh",
     "image": "2010-12-29_12.33.30,_Baja_Fresh,_San_Carlos,_CA_(5335997143).jpg",
     "pageViews": 2553
+  },
+  {
+    "qid": "Q3998215",
+    "title": "Treets launches",
+    "subtitle": "Brand of confectionery",
+    "year": 1960,
+    "fact": "Treets were a brand of confectionery sold by Mars Limited in the United Kingdom, Italy, France, Germany, Belgium and the Netherlands.",
+    "wikipediaSlug": "Treets",
+    "image": "Project_365_-249_060909_Rennaissance_Sweet_(3894308802).jpg",
+    "pageViews": 2549
   },
   {
     "qid": "Q7673969",
@@ -4072,7 +4092,7 @@
   {
     "qid": "Q1378288",
     "title": "Free Beer launches",
-    "subtitle": "Open source beer",
+    "subtitle": "Open-source and copyleft beer movement",
     "year": 2004,
     "fact": "Free Beer is a beer brand collaboration between students of IT University of Copenhagen and the artist collective Superflex initiated in 2004.",
     "wikipediaSlug": "Free_Beer",
@@ -4083,7 +4103,7 @@
     "qid": "Q2699863",
     "title": "Telepizza is founded",
     "subtitle": "Pizza restaurant chain",
-    "year": 1986,
+    "year": 1987,
     "fact": "Telepizza is a Spanish multinational pizza restaurant chain.",
     "wikipediaSlug": "Telepizza",
     "image": "Stągiewna_Gdańsk_Telepizza.jpg",
@@ -4292,7 +4312,7 @@
   {
     "qid": "Q2239073",
     "title": "Hertog Jan launches",
-    "subtitle": "Dutch brewery",
+    "subtitle": "Brewery in the Netherlands",
     "year": 1915,
     "fact": "Hertog Jan is a brewery in the Netherlands.",
     "wikipediaSlug": "Hertog_Jan",

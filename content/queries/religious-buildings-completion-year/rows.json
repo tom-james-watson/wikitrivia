@@ -5,7 +5,7 @@
     "description": "mosque, museum, and former church in Istanbul, Turkey",
     "year": "537",
     "countryLabel": "Turkey",
-    "sitelinks": "151"
+    "sitelinks": "152"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80541",
@@ -21,7 +21,7 @@
     "description": "Roman-Catholic cathedral in Cologne, Germany",
     "year": "1880",
     "countryLabel": "Germany",
-    "sitelinks": "84"
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q184534",
@@ -45,6 +45,14 @@
     "description": "mosque in Djenné, Mali",
     "year": "1907",
     "countryLabel": "Mali",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q940843",
+    "itemLabel": "Lotus Temple",
+    "description": "Bahá'í House of Worship in Delhi, India",
+    "year": "1986",
+    "countryLabel": "India",
     "sitelinks": "56"
   },
   {
@@ -53,15 +61,7 @@
     "description": "grand mosque in Abu Dhabi",
     "year": "2007",
     "countryLabel": "United Arab Emirates",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q940843",
-    "itemLabel": "Lotus Temple",
-    "description": "Bahá'í House of Worship in Delhi, India",
-    "year": "1986",
-    "countryLabel": "India",
-    "sitelinks": "54"
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1256501",
@@ -72,19 +72,19 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q738015",
-    "itemLabel": "Helsinki Cathedral",
-    "description": "cathedral in Helsinki, Church of Finland",
-    "year": "1852",
-    "countryLabel": "Finland",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q43282",
     "itemLabel": "Alexander Nevsky Cathedral",
     "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
     "year": "1924",
     "countryLabel": "Bulgaria",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q738015",
+    "itemLabel": "Helsinki Cathedral",
+    "description": "cathedral in Helsinki, Church of Finland",
+    "year": "1852",
+    "countryLabel": "Finland",
     "sitelinks": "51"
   },
   {
@@ -248,6 +248,14 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1291612",
+    "itemLabel": "Friday Mosque of Herat",
+    "description": "mosque in Afghanistan",
+    "year": "1446",
+    "countryLabel": "Afghanistan",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q866896",
     "itemLabel": "Trinity Church",
     "description": "Episcopal parish church in Manhattan, New York, United States",
@@ -272,14 +280,6 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1291612",
-    "itemLabel": "Friday Mosque of Herat",
-    "description": "mosque in Afghanistan",
-    "year": "1446",
-    "countryLabel": "Afghanistan",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q650849",
     "itemLabel": "Grundtvig's Church",
     "description": "church in Copenhagen",
@@ -294,6 +294,14 @@
     "year": "1870",
     "countryLabel": "France",
     "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1710283",
+    "itemLabel": "Tokyo Mosque",
+    "description": "mosque in Japan",
+    "year": "2000",
+    "countryLabel": "Japan",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q713558",
@@ -336,14 +344,6 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1710283",
-    "itemLabel": "Tokyo Mosque",
-    "description": "mosque in Japan",
-    "year": "2000",
-    "countryLabel": "Japan",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q18341384",
     "itemLabel": "Çamlıca Mosque",
     "description": "mosque in İstanbul, Turkey",
@@ -358,6 +358,14 @@
     "year": "1995",
     "countryLabel": "Germany",
     "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q990003",
+    "itemLabel": "Spanish Synagogue",
+    "description": "synagogue in Prague",
+    "year": "1868",
+    "countryLabel": "Czech Republic",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2942349",
@@ -376,14 +384,6 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1321231",
-    "itemLabel": "Frederik's Church",
-    "description": "church in Copenhagen",
-    "year": "1749",
-    "countryLabel": "Denmark",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1631593",
     "itemLabel": "Sant'Andrea della Valle",
     "description": "church dedicated to Saint Andrew in Rome",
@@ -392,19 +392,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q990003",
-    "itemLabel": "Spanish Synagogue",
-    "description": "synagogue in Prague",
-    "year": "1868",
-    "countryLabel": "Czech Republic",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q630922",
-    "itemLabel": "Beit Al Quran",
-    "description": "library",
-    "year": "1990",
-    "countryLabel": "Bahrain",
+    "item": "http://www.wikidata.org/entity/Q1321231",
+    "itemLabel": "Frederik's Church",
+    "description": "church in Copenhagen",
+    "year": "1749",
+    "countryLabel": "Denmark",
     "sitelinks": "26"
   },
   {
@@ -413,6 +405,14 @@
     "description": "Hindu temple in West Bengal, India",
     "year": "1855",
     "countryLabel": "India",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q630922",
+    "itemLabel": "Beit Al Quran",
+    "description": "library",
+    "year": "1990",
+    "countryLabel": "Bahrain",
     "sitelinks": "26"
   },
   {
@@ -744,19 +744,19 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12318161",
-    "itemLabel": "Imam Ali Mosque",
-    "description": "Danish mosque",
-    "year": "2015",
-    "countryLabel": "Denmark",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q513023",
     "itemLabel": "Trani Cathedral",
     "description": "church building in Trani, Italy",
     "year": "1099",
     "countryLabel": "Italy",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12318161",
+    "itemLabel": "Imam Ali Mosque",
+    "description": "Danish mosque",
+    "year": "2015",
+    "countryLabel": "Denmark",
     "sitelinks": "15"
   },
   {

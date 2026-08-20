@@ -70,16 +70,6 @@
     "pageViews": 385848
   },
   {
-    "qid": "Q48796994",
-    "title": "‘The Boys’ airs for the first time",
-    "subtitle": "American television series",
-    "year": 2019,
-    "fact": "The Boys is an American satirical superhero television series developed by Eric Kripke for Amazon Prime Video.",
-    "wikipediaSlug": "The_Boys_(TV_series)",
-    "image": "The_Boys_TV_series_logo.svg",
-    "pageViews": 339224
-  },
-  {
     "qid": "Q1079",
     "title": "‘Breaking Bad’ airs for the first time",
     "subtitle": "American crime drama television series",
@@ -320,6 +310,16 @@
     "pageViews": 140234
   },
   {
+    "qid": "Q15072906",
+    "title": "‘Outlander’ airs for the first time",
+    "subtitle": "British-American television drama series",
+    "year": 2014,
+    "fact": "Outlander is a historical fantasy television series based on the book series of the same name by Diana Gabaldon.",
+    "wikipediaSlug": "Outlander_(TV_series)",
+    "image": "Outlander_title_card.jpg",
+    "pageViews": 138380
+  },
+  {
     "qid": "Q83071",
     "title": "‘Downton Abbey’ airs for the first time",
     "subtitle": "British historical drama television series",
@@ -540,16 +540,6 @@
     "pageViews": 89875
   },
   {
-    "qid": "Q836393",
-    "title": "‘Teen Wolf’ airs for the first time",
-    "subtitle": "American supernatural teen drama television series",
-    "year": 2011,
-    "fact": "Teen Wolf is an American supernatural teen drama television series developed by Jeff Davis for MTV.",
-    "wikipediaSlug": "Teen_Wolf_(2011_TV_series)",
-    "image": "Teen_Wolf_Intertitle.png",
-    "pageViews": 89747
-  },
-  {
     "qid": "Q494244",
     "title": "‘M*A*S*H’ airs for the first time",
     "subtitle": "American television series",
@@ -641,7 +631,7 @@
   },
   {
     "qid": "Q484020",
-    "title": "‘Mr Bean’ airs for the first time",
+    "title": "‘Mr. Bean’ airs for the first time",
     "subtitle": "British comedy television series",
     "year": 1990,
     "fact": "Mr.",
@@ -732,7 +722,7 @@
   {
     "qid": "Q155629",
     "title": "‘Sesame Street’ airs for the first time",
-    "subtitle": "American children's television program, sometimes to teach ESL.",
+    "subtitle": "American children's television program",
     "year": 1969,
     "fact": "Sesame Street is an American educational children's television series that combines live-action, sketch comedy, animation, and puppetry.",
     "wikipediaSlug": "Sesame_Street",
@@ -1108,6 +1098,16 @@
     "wikipediaSlug": "Riverdale_(American_TV_series)",
     "image": "Riverdale.png",
     "pageViews": 50458
+  },
+  {
+    "qid": "Q210146",
+    "title": "‘Babylon 5’ airs for the first time",
+    "subtitle": "American television series",
+    "year": 1993,
+    "fact": "Babylon 5 is an American space opera television series created by writer and producer J.",
+    "wikipediaSlug": "Babylon_5",
+    "image": "Babylon_5_1994_logo_(2).svg",
+    "pageViews": 50417
   },
   {
     "qid": "Q209878",
@@ -1758,6 +1758,16 @@
     "wikipediaSlug": "That%27s_So_Raven",
     "image": "That's_So_Raven_logo.svg",
     "pageViews": 29681
+  },
+  {
+    "qid": "Q218524",
+    "title": "‘Totally Spies!’ airs for the first time",
+    "subtitle": "Teen animated television series",
+    "year": 2001,
+    "fact": "Totally Spies!",
+    "wikipediaSlug": "Totally_Spies!",
+    "image": "Totally_Spies!_logo.png",
+    "pageViews": 29161
   },
   {
     "qid": "Q256527",

@@ -4,16 +4,8 @@
     "itemLabel": "T-34",
     "description": "Soviet medium tank",
     "year": "1940",
-    "manufacturerLabel": "Krasnoye Sormovo Factory No. 112",
-    "sitelinks": "71"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155658",
-    "itemLabel": "T-72",
-    "description": "Soviet main battle tank",
-    "year": "1973",
-    "manufacturerLabel": "Uralvagonzavod",
-    "sitelinks": "63"
+    "manufacturerLabel": "Chelyabinsk Tractor Plant",
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q173684",
@@ -21,23 +13,23 @@
     "description": "main battle tank family",
     "year": "1980",
     "manufacturerLabel": "Joint Systems Manufacturing Center",
-    "sitelinks": "63"
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155658",
+    "itemLabel": "T-72",
+    "description": "Soviet main battle tank",
+    "year": "1973",
+    "manufacturerLabel": "Uralvagonzavod",
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151968",
     "itemLabel": "Leopard 2",
     "description": "German main battle tank",
     "year": "1979",
-    "manufacturerLabel": "Maschinenbau Kiel",
+    "manufacturerLabel": "KNDS Deutschland",
     "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q328272",
-    "itemLabel": "T-54/55",
-    "description": "Soviet main battle tank",
-    "year": "1946",
-    "manufacturerLabel": "Malyshev Factory",
-    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191643",
@@ -52,7 +44,7 @@
     "itemLabel": "T-80",
     "description": "Soviet main battle tank",
     "year": "1976",
-    "manufacturerLabel": "Kirov Plant",
+    "manufacturerLabel": "Omsktransmash",
     "sitelinks": "55"
   },
   {
@@ -69,7 +61,7 @@
     "description": "German WWII medium tank",
     "year": "1939",
     "manufacturerLabel": "Friedrich Krupp AG",
-    "sitelinks": "52"
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151960",
@@ -132,7 +124,7 @@
     "itemLabel": "Panzer III",
     "description": "German medium tank",
     "year": "1939",
-    "manufacturerLabel": "Friedrich Krupp AG",
+    "manufacturerLabel": "MAN SE",
     "sitelinks": "44"
   },
   {
@@ -148,7 +140,7 @@
     "itemLabel": "Challenger 2",
     "description": "British main battle tank",
     "year": "1998",
-    "manufacturerLabel": "Alvis Car and Engineering Company Ltd",
+    "manufacturerLabel": "Alvis plc",
     "sitelinks": "43"
   },
   {
@@ -164,7 +156,7 @@
     "itemLabel": "M113",
     "description": "US armored personnel carrier",
     "year": "1960",
-    "manufacturerLabel": "Firestone Tire and Rubber Company",
+    "manufacturerLabel": "General Motors",
     "sitelinks": "41"
   },
   {
@@ -172,15 +164,15 @@
     "itemLabel": "Centurion",
     "description": "British main battle tank",
     "year": "1946",
-    "manufacturerLabel": "Vickers",
+    "manufacturerLabel": "Leyland Motors",
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q796368",
-    "itemLabel": "BMP-3",
-    "description": "Soviet infantry fighting vehicle family",
-    "year": "1987",
-    "manufacturerLabel": "Kurganmashzavod",
+    "item": "http://www.wikidata.org/entity/Q160327",
+    "itemLabel": "M48 Patton",
+    "description": "main battle tank family",
+    "year": "1953",
+    "manufacturerLabel": "Stellantis North America",
     "sitelinks": "39"
   },
   {
@@ -192,11 +184,11 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160327",
-    "itemLabel": "M48 Patton",
-    "description": "main battle tank family",
-    "year": "1953",
-    "manufacturerLabel": "Stellantis North America",
+    "item": "http://www.wikidata.org/entity/Q796368",
+    "itemLabel": "BMP-3",
+    "description": "Soviet infantry fighting vehicle family",
+    "year": "1987",
+    "manufacturerLabel": "Kurganmashzavod",
     "sitelinks": "39"
   },
   {
@@ -216,6 +208,14 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q222786",
+    "itemLabel": "2S1 Gvozdika",
+    "description": "self-propelled 122 mm howitzer",
+    "year": "1972",
+    "manufacturerLabel": "",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q159927",
     "itemLabel": "BTR-70",
     "description": "armored personnel carrier",
@@ -224,20 +224,12 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222786",
-    "itemLabel": "2S1 Gvozdika",
-    "description": "self-propelled 122 mm howitzer",
-    "year": "1972",
-    "manufacturerLabel": "",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q167441",
     "itemLabel": "AMX-30",
     "description": "main battle tank",
     "year": "1966",
     "manufacturerLabel": "",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167968",
@@ -245,6 +237,14 @@
     "description": "amphibious armored reconnaissance vehicle family",
     "year": "1962",
     "manufacturerLabel": "Nizhny Novgorod",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q741609",
+    "itemLabel": "Chieftain",
+    "description": "main battle tank family",
+    "year": "1966",
+    "manufacturerLabel": "Leyland Motors",
     "sitelinks": "35"
   },
   {
@@ -256,11 +256,11 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q741609",
-    "itemLabel": "Chieftain",
-    "description": "main battle tank family",
-    "year": "1966",
-    "manufacturerLabel": "Leyland Motors",
+    "item": "http://www.wikidata.org/entity/Q222807",
+    "itemLabel": "2S3 Akatsiya",
+    "description": "self-propelled 152 mm gun",
+    "year": "1971",
+    "manufacturerLabel": "Uraltransmash",
     "sitelinks": "34"
   },
   {
@@ -280,14 +280,6 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222807",
-    "itemLabel": "2S3 Akatsiya",
-    "description": "self-propelled 152 mm gun",
-    "year": "1971",
-    "manufacturerLabel": "Uraltransmash",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q326658",
     "itemLabel": "2K12 Kub",
     "description": "1960s self-propelled surface-to-air missile system",
@@ -302,6 +294,14 @@
     "year": "1939",
     "manufacturerLabel": "Hanomag",
     "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q622299",
+    "itemLabel": "Kliment Voroshilov tank",
+    "description": "family of Soviet heavy tanks",
+    "year": "1939",
+    "manufacturerLabel": "Kirov Plant",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q696083",
@@ -320,19 +320,27 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q796336",
+    "itemLabel": "BMD-1",
+    "description": "infantry fighting vehicle",
+    "year": "1969",
+    "manufacturerLabel": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3632274",
+    "itemLabel": "BTR-40",
+    "description": "1950s armored personnel carrier family of Soviet origin",
+    "year": "1950",
+    "manufacturerLabel": "GAZ",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q844065",
     "itemLabel": "Comet",
     "description": "medium (cruiser) tank",
     "year": "1944",
     "manufacturerLabel": "Leyland Motors",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q622299",
-    "itemLabel": "Kliment Voroshilov tank",
-    "description": "family of Soviet heavy tanks",
-    "year": "1939",
-    "manufacturerLabel": "Kirov Plant",
     "sitelinks": "29"
   },
   {
@@ -344,27 +352,11 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q796336",
-    "itemLabel": "BMD-1",
-    "description": "infantry fighting vehicle",
-    "year": "1969",
-    "manufacturerLabel": "",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q635453",
     "itemLabel": "M41 Walker Bulldog",
     "description": "1951 light tank family",
     "year": "1953",
     "manufacturerLabel": "Cadillac",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3632274",
-    "itemLabel": "BTR-40",
-    "description": "1950s armored personnel carrier family of Soviet origin",
-    "year": "1950",
-    "manufacturerLabel": "GAZ",
     "sitelinks": "28"
   },
   {
@@ -400,6 +392,14 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q136463",
+    "itemLabel": "ZSU-57-2",
+    "description": "self-propelled anti-aircraft weapon",
+    "year": "1957",
+    "manufacturerLabel": "Omsk",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q899078",
     "itemLabel": "Valentine",
     "description": "1940 infantry tank",
@@ -414,14 +414,6 @@
     "year": "1975",
     "manufacturerLabel": "Mitsubishi Heavy Industries",
     "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q136463",
-    "itemLabel": "ZSU-57-2",
-    "description": "self-propelled anti-aircraft weapon",
-    "year": "1957",
-    "manufacturerLabel": "Omsk",
-    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1994971",
@@ -440,19 +432,19 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q312465",
+    "itemLabel": "BTR-152",
+    "description": "1950s armored personnel carrier of Soviet origin",
+    "year": "1950",
+    "manufacturerLabel": "ZiL",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q618603",
     "itemLabel": "BA-64",
     "description": "1940s armored car family of Soviet origin",
     "year": "1942",
     "manufacturerLabel": "GAZ",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q312465",
-    "itemLabel": "BTR-152",
-    "description": "1950s armored personnel carrier of Soviet origin",
-    "year": "1950",
-    "manufacturerLabel": "Bryansk Automobile Plant",
     "sitelinks": "24"
   },
   {
@@ -620,7 +612,7 @@
     "itemLabel": "Puma",
     "description": "wheeled armored personnel carrier family",
     "year": "2001",
-    "manufacturerLabel": "IVECO S.p.a.",
+    "manufacturerLabel": "Iveco",
     "sitelinks": "14"
   },
   {
@@ -640,11 +632,11 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2720752",
-    "itemLabel": "T-34/85",
-    "description": "1944 medium tank",
+    "item": "http://www.wikidata.org/entity/Q610067",
+    "itemLabel": "Sexton",
+    "description": "1943 self-propelled 25 pounder gun-howitzer family",
     "year": "1943",
-    "manufacturerLabel": "Gliwice",
+    "manufacturerLabel": "Montreal Locomotive Works",
     "sitelinks": "13"
   },
   {
@@ -656,20 +648,12 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q610067",
-    "itemLabel": "Sexton",
-    "description": "1943 self-propelled 25 pounder gun-howitzer family",
+    "item": "http://www.wikidata.org/entity/Q2720752",
+    "itemLabel": "T-34/85",
+    "description": "1944 medium tank",
     "year": "1943",
-    "manufacturerLabel": "Montreal Locomotive Works",
+    "manufacturerLabel": "Krasnoye Sormovo Factory No. 112",
     "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1789390",
-    "itemLabel": "M59",
-    "description": "1950s armored personnel carrier of American origin",
-    "year": "1953",
-    "manufacturerLabel": "FMC Corporation",
-    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2360866",
@@ -680,11 +664,19 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1880843",
-    "itemLabel": "M114 Command and Reconnaissance Carrier",
-    "description": "1960s tracked reconnaissance vehicle by Cadillac",
-    "year": "1962",
-    "manufacturerLabel": "General Motors",
+    "item": "http://www.wikidata.org/entity/Q1789390",
+    "itemLabel": "M59",
+    "description": "1950s armored personnel carrier of American origin",
+    "year": "1953",
+    "manufacturerLabel": "FMC Corporation",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q485649",
+    "itemLabel": "Korea Infantry Fighting Vehicle",
+    "description": "1986 armored combat vehicle family by Hanwha Defense",
+    "year": "1986",
+    "manufacturerLabel": "Daewoo",
     "sitelinks": "11"
   },
   {
@@ -696,11 +688,11 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q485649",
-    "itemLabel": "Korea Infantry Fighting Vehicle",
-    "description": "1986 armored combat vehicle family by Hanwha Defense",
-    "year": "1986",
-    "manufacturerLabel": "Daewoo",
+    "item": "http://www.wikidata.org/entity/Q1880843",
+    "itemLabel": "M114 Command and Reconnaissance Carrier",
+    "description": "1960s tracked reconnaissance vehicle by Cadillac",
+    "year": "1962",
+    "manufacturerLabel": "General Motors",
     "sitelinks": "11"
   },
   {

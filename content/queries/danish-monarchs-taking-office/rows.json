@@ -32,6 +32,14 @@
     "sitelinks": "66"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q156617",
+    "itemLabel": "Christian X of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "year": "1912",
+    "sitelinks": "66"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q151305",
     "itemLabel": "Christian IX of Denmark",
     "positionLabel": "monarch of Denmark",
@@ -40,20 +48,12 @@
     "sitelinks": "65"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156617",
-    "itemLabel": "Christian X of Denmark",
-    "positionLabel": "monarch of Denmark",
-    "sexLabel": "male",
-    "year": "1912",
-    "sitelinks": "65"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q151312",
     "itemLabel": "Frederik IX of Denmark",
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
     "year": "1947",
-    "sitelinks": "64"
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q202266",
@@ -96,6 +96,14 @@
     "sitelinks": "58"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q156187",
+    "itemLabel": "Frederick V of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "year": "1746",
+    "sitelinks": "57"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q201041",
     "itemLabel": "Harald Bluetooth",
     "positionLabel": "monarch of Denmark",
@@ -104,11 +112,19 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156187",
-    "itemLabel": "Frederick V of Denmark",
+    "item": "http://www.wikidata.org/entity/Q156572",
+    "itemLabel": "Christian VII of Denmark",
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
-    "year": "1746",
+    "year": "1766",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157781",
+    "itemLabel": "Christian VIII of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "year": "1839",
     "sitelinks": "56"
   },
   {
@@ -120,19 +136,11 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156572",
-    "itemLabel": "Christian VII of Denmark",
+    "item": "http://www.wikidata.org/entity/Q94941",
+    "itemLabel": "Frederick VII of Denmark",
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
-    "year": "1766",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q157781",
-    "itemLabel": "Christian VIII of Denmark",
-    "positionLabel": "monarch of Denmark",
-    "sexLabel": "male",
-    "year": "1839",
+    "year": "1848",
     "sitelinks": "55"
   },
   {
@@ -144,11 +152,11 @@
     "sitelinks": "55"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q94941",
-    "itemLabel": "Frederick VII of Denmark",
+    "item": "http://www.wikidata.org/entity/Q155002",
+    "itemLabel": "Frederick VI of Denmark",
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
-    "year": "1848",
+    "year": "1808",
     "sitelinks": "54"
   },
   {
@@ -157,14 +165,6 @@
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
     "year": "1559",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155002",
-    "itemLabel": "Frederick VI of Denmark",
-    "positionLabel": "monarch of Denmark",
-    "sexLabel": "male",
-    "year": "1808",
     "sitelinks": "53"
   },
   {
@@ -181,7 +181,15 @@
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
     "year": "1699",
-    "sitelinks": "50"
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154993",
+    "itemLabel": "Christian VI of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "year": "1730",
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157776",
@@ -190,14 +198,6 @@
     "sexLabel": "male",
     "year": "1481",
     "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154993",
-    "itemLabel": "Christian VI of Denmark",
-    "positionLabel": "monarch of Denmark",
-    "sexLabel": "male",
-    "year": "1730",
-    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157789",
@@ -213,7 +213,7 @@
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
     "year": "1396",
-    "sitelinks": "47"
+    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157793",
@@ -221,7 +221,7 @@
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
     "year": "1670",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q297194",
@@ -461,7 +461,7 @@
     "positionLabel": "monarch of Denmark",
     "sexLabel": "male",
     "year": "1215",
-    "sitelinks": "22"
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q714874",

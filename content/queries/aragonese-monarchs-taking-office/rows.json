@@ -24,6 +24,14 @@
     "sitelinks": "90"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q691402",
+    "itemLabel": "Philip IV of Spain",
+    "positionLabel": "monarch of the Crown of Aragon",
+    "sexLabel": "male",
+    "year": "1621",
+    "sitelinks": "83"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q36174",
     "itemLabel": "Charles II of Spain",
     "positionLabel": "monarch of the Crown of Aragon",
@@ -32,12 +40,12 @@
     "sitelinks": "82"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q691402",
-    "itemLabel": "Philip IV of Spain",
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
-    "year": "1621",
-    "sitelinks": "81"
+    "year": "1706",
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170467",
@@ -48,20 +56,12 @@
     "sitelinks": "79"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150665",
-    "itemLabel": "Charles VI, Holy Roman Emperor",
-    "positionLabel": "monarch of the Crown of Aragon",
-    "sexLabel": "male",
-    "year": "1706",
-    "sitelinks": "77"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q34464",
     "itemLabel": "Philip III of Spain",
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1598",
-    "sitelinks": "76"
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q212052",
@@ -69,7 +69,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1213",
-    "sitelinks": "55"
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312304",
@@ -77,7 +77,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1416",
-    "sitelinks": "53"
+    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q299156",
@@ -85,7 +85,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1164",
-    "sitelinks": "45"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312328",
@@ -93,7 +93,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1458",
-    "sitelinks": "45"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312735",
@@ -101,7 +101,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1291",
-    "sitelinks": "45"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47412",
@@ -109,15 +109,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1412",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q332681",
-    "itemLabel": "Martin of Aragon",
-    "positionLabel": "monarch of the Crown of Aragon",
-    "sexLabel": "male",
-    "year": "1396",
-    "sitelinks": "40"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q315058",
@@ -125,7 +117,15 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1196",
-    "sitelinks": "39"
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q332681",
+    "itemLabel": "Martin of Aragon",
+    "positionLabel": "monarch of the Crown of Aragon",
+    "sexLabel": "male",
+    "year": "1396",
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q336823",
@@ -133,7 +133,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1336",
-    "sitelinks": "39"
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q336855",
@@ -141,7 +141,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1285",
-    "sitelinks": "39"
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q358374",
@@ -149,7 +149,7 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1387",
-    "sitelinks": "36"
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q380088",
@@ -157,6 +157,6 @@
     "positionLabel": "monarch of the Crown of Aragon",
     "sexLabel": "male",
     "year": "1327",
-    "sitelinks": "35"
+    "sitelinks": "36"
   }
 ]

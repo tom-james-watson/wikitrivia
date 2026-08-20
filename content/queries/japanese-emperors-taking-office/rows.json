@@ -29,7 +29,7 @@
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1867",
-    "sitelinks": "94"
+    "sitelinks": "95"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157052",
@@ -64,19 +64,19 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q232026",
-    "itemLabel": "Jitō",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "female",
-    "year": "686",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q312351",
     "itemLabel": "Emperor Ninkō",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1817",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q232026",
+    "itemLabel": "Jitō",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "female",
+    "year": "686",
     "sitelinks": "44"
   },
   {
@@ -86,14 +86,6 @@
     "sexLabel": "female",
     "year": "593",
     "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q120564",
-    "itemLabel": "Empress Meishō",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "female",
-    "year": "1629",
-    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313119",
@@ -112,6 +104,30 @@
     "sitelinks": "42"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q120564",
+    "itemLabel": "Empress Meishō",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "female",
+    "year": "1629",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q314846",
+    "itemLabel": "Emperor Kanmu",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "781",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q335181",
+    "itemLabel": "Tenmu",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "672",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q313942",
     "itemLabel": "Go-Daigo",
     "positionLabel": "Emperor of Japan",
@@ -128,27 +144,11 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q314846",
-    "itemLabel": "Emperor Kanmu",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "781",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q334644",
     "itemLabel": "Buretsu",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "499",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q335181",
-    "itemLabel": "Tenmu",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "672",
     "sitelinks": "39"
   },
   {
@@ -158,14 +158,6 @@
     "sexLabel": "male",
     "year": "887",
     "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q230525",
-    "itemLabel": "Go-Sakuramachi",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "female",
-    "year": "1762",
-    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313801",
@@ -216,6 +208,30 @@
     "sitelinks": "38"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q230525",
+    "itemLabel": "Go-Sakuramachi",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "female",
+    "year": "1762",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q374015",
+    "itemLabel": "Murakami",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "946",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q440518",
+    "itemLabel": "Kōkō",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "884",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q313808",
     "itemLabel": "Emperor Reigen",
     "positionLabel": "Emperor of Japan",
@@ -256,22 +272,6 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q374015",
-    "itemLabel": "Murakami",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "946",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q440518",
-    "itemLabel": "Kōkō",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "884",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q241765",
     "itemLabel": "Ankan",
     "positionLabel": "Emperor of Japan",
@@ -281,7 +281,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q317984",
-    "itemLabel": "Go-Shirakawa",
+    "itemLabel": "Emperor Go-Shirakawa",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1155",
@@ -512,6 +512,38 @@
     "sitelinks": "34"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q360972",
+    "itemLabel": "Emperor Kameyama",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1260",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q361019",
+    "itemLabel": "Suzaku",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "930",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q374125",
+    "itemLabel": "Emperor Reizei",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "967",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q374136",
+    "itemLabel": "Emperor Junna",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "823",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q316651",
     "itemLabel": "Antoku",
     "positionLabel": "Emperor of Japan",
@@ -552,43 +584,19 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q360972",
-    "itemLabel": "Emperor Kameyama",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1260",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q361019",
-    "itemLabel": "Suzaku",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "930",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q374125",
-    "itemLabel": "Emperor Reizei",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "967",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q374136",
-    "itemLabel": "Emperor Junna",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "823",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q451926",
     "itemLabel": "Go-Hanazono",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1428",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q440454",
+    "itemLabel": "Go-Fushimi",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1298",
     "sitelinks": "32"
   },
   {
@@ -617,7 +625,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q349284",
-    "itemLabel": "Toba",
+    "itemLabel": "Emperor Toba",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1107",
@@ -648,67 +656,11 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q440454",
-    "itemLabel": "Go-Fushimi",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1298",
-    "sitelinks": "32"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q60949",
     "itemLabel": "Emperor Shirakawa",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1073",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q349452",
-    "itemLabel": "Go-Kashiwabara",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1500",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q356060",
-    "itemLabel": "Go-Reizei",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1045",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q357246",
-    "itemLabel": "Monmu",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "697",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q357249",
-    "itemLabel": "Juntoku",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1210",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q357253",
-    "itemLabel": "Emperor Chūkyō",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1221",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q361000",
-    "itemLabel": "Emperor Kazan",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "984",
     "sitelinks": "31"
   },
   {
@@ -760,6 +712,54 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q349452",
+    "itemLabel": "Go-Kashiwabara",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1500",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q356060",
+    "itemLabel": "Go-Reizei",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1045",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q357246",
+    "itemLabel": "Monmu",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "697",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q357249",
+    "itemLabel": "Juntoku",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1210",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q357253",
+    "itemLabel": "Emperor Chūkyō",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1221",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q361000",
+    "itemLabel": "Emperor Kazan",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "984",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q464267",
     "itemLabel": "Emperor Horikawa",
     "positionLabel": "Emperor of Japan",
@@ -773,22 +773,6 @@
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1068",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q329713",
-    "itemLabel": "Junnin",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "758",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q357221",
-    "itemLabel": "Go-Horikawa",
-    "positionLabel": "Emperor of Japan",
-    "sexLabel": "male",
-    "year": "1221",
     "sitelinks": "30"
   },
   {
@@ -829,6 +813,22 @@
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "year": "1158",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q329713",
+    "itemLabel": "Junnin",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "758",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q357221",
+    "itemLabel": "Go-Horikawa",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "year": "1221",
     "sitelinks": "30"
   },
   {

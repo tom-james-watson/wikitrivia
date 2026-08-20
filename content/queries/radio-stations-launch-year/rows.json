@@ -114,9 +114,9 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1478920",
-    "itemLabel": "Radio Maryja",
-    "year": "1991",
+    "item": "http://www.wikidata.org/entity/Q761627",
+    "itemLabel": "KEXP",
+    "year": "1972",
     "sitelinks": "14"
   },
   {
@@ -126,9 +126,9 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q761627",
-    "itemLabel": "KEXP",
-    "year": "1972",
+    "item": "http://www.wikidata.org/entity/Q1478920",
+    "itemLabel": "Radio Maryja",
+    "year": "1991",
     "sitelinks": "14"
   },
   {
@@ -138,9 +138,9 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1225076",
-    "itemLabel": "DI.FM",
-    "year": "1999",
+    "item": "http://www.wikidata.org/entity/Q795596",
+    "itemLabel": "BBC Radio 5 Sports Extra",
+    "year": "2002",
     "sitelinks": "13"
   },
   {
@@ -150,9 +150,9 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q795596",
-    "itemLabel": "BBC Radio 5 Sports Extra",
-    "year": "2002",
+    "item": "http://www.wikidata.org/entity/Q1225076",
+    "itemLabel": "DI.FM",
+    "year": "1999",
     "sitelinks": "13"
   },
   {
@@ -198,15 +198,9 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q675403",
-    "itemLabel": "Radio Berlin International",
-    "year": "1959",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2245880",
-    "itemLabel": "Rai Radio 2",
-    "year": "1924",
+    "item": "http://www.wikidata.org/entity/Q3050542",
+    "itemLabel": "BBC Radio Cymru",
+    "year": "1977",
     "sitelinks": "12"
   },
   {
@@ -216,9 +210,15 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3050542",
-    "itemLabel": "BBC Radio Cymru",
-    "year": "1977",
+    "item": "http://www.wikidata.org/entity/Q675403",
+    "itemLabel": "Radio Berlin International",
+    "year": "1959",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2245880",
+    "itemLabel": "Rai Radio 2",
+    "year": "1924",
     "sitelinks": "12"
   },
   {
@@ -240,12 +240,6 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q164921",
-    "itemLabel": "Radio Australia",
-    "year": "1939",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q841151",
     "itemLabel": "Radio Belgrade",
     "year": "1924",
@@ -258,21 +252,45 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q164921",
+    "itemLabel": "Radio Australia",
+    "year": "1939",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q588294",
     "itemLabel": "KCRW",
     "year": "1945",
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q686375",
-    "itemLabel": "RMC",
-    "year": "1943",
+    "item": "http://www.wikidata.org/entity/Q2815509",
+    "itemLabel": "NRK P3",
+    "year": "1993",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2815524",
+    "itemLabel": "NRK P1",
+    "year": "1933",
     "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q314407",
     "itemLabel": "Europe 1",
     "year": "1955",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q977633",
+    "itemLabel": "Radio Farda",
+    "year": "2002",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q686375",
+    "itemLabel": "RMC",
+    "year": "1943",
     "sitelinks": "11"
   },
   {
@@ -288,21 +306,9 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2815524",
-    "itemLabel": "NRK P1",
-    "year": "1933",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2815509",
-    "itemLabel": "NRK P3",
-    "year": "1993",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q977633",
-    "itemLabel": "Radio Farda",
-    "year": "2002",
+    "item": "http://www.wikidata.org/entity/Q15402082",
+    "itemLabel": "The Squeaky Wheel",
+    "year": "2000",
     "sitelinks": "11"
   },
   {
@@ -312,10 +318,10 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15402082",
-    "itemLabel": "The Squeaky Wheel",
-    "year": "2000",
-    "sitelinks": "11"
+    "item": "http://www.wikidata.org/entity/Q2876772",
+    "itemLabel": "BBC Radio nan Gàidheal",
+    "year": "1985",
+    "sitelinks": "10"
   },
   {
     "item": "http://www.wikidata.org/entity/Q250923",
@@ -324,51 +330,9 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q564949",
-    "itemLabel": "Deutschlandradio Kultur",
-    "year": "1994",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1191043",
-    "itemLabel": "KROQ-FM",
-    "year": "1962",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q585226",
     "itemLabel": "Chuvash national radio",
     "year": "2009",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2876772",
-    "itemLabel": "BBC Radio nan Gàidheal",
-    "year": "1985",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2126332",
-    "itemLabel": "Radio Sawa",
-    "year": "2002",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2178491",
-    "itemLabel": "Rádio Nacional de Angola",
-    "year": "1951",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q627096",
-    "itemLabel": "radio 100,7",
-    "year": "1991",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1737474",
-    "itemLabel": "Kazakh radio",
-    "year": "1921",
     "sitelinks": "10"
   },
   {
@@ -384,6 +348,42 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1191043",
+    "itemLabel": "KROQ-FM",
+    "year": "1962",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1737474",
+    "itemLabel": "Kazakh radio",
+    "year": "1921",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q627096",
+    "itemLabel": "radio 100,7",
+    "year": "1991",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q564949",
+    "itemLabel": "Deutschlandradio Kultur",
+    "year": "1994",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2178491",
+    "itemLabel": "Rádio Nacional de Angola",
+    "year": "1951",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2126332",
+    "itemLabel": "Radio Sawa",
+    "year": "2002",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2363611",
     "itemLabel": "Nashe Radio",
     "year": "1998",
@@ -396,21 +396,9 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q82939",
-    "itemLabel": "Radio 538",
-    "year": "1992",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q826265",
     "itemLabel": "Radio Londres",
     "year": "1940",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q910304",
-    "itemLabel": "Kan Reka",
-    "year": "2017",
     "sitelinks": "9"
   },
   {
@@ -420,27 +408,15 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1582014",
-    "itemLabel": "KIIS-FM",
-    "year": "1948",
+    "item": "http://www.wikidata.org/entity/Q82939",
+    "itemLabel": "Radio 538",
+    "year": "1992",
     "sitelinks": "9"
   },
   {
     "item": "http://www.wikidata.org/entity/Q577689",
     "itemLabel": "Radio SRF 1",
     "year": "1931",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1446488",
-    "itemLabel": "Radio Station Belarus",
-    "year": "1962",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q659696",
-    "itemLabel": "Sveriges Radio P3",
-    "year": "1964",
     "sitelinks": "9"
   },
   {
@@ -462,27 +438,15 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2611481",
-    "itemLabel": "Sveriges Radio P4",
-    "year": "1987",
+    "item": "http://www.wikidata.org/entity/Q910304",
+    "itemLabel": "Kan Reka",
+    "year": "2017",
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3042083",
-    "itemLabel": "Shade 45",
-    "year": "2004",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1944285",
-    "itemLabel": "Radio-Paris",
-    "year": "1924",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2003205",
-    "itemLabel": "Wonderful Radio London",
-    "year": "1964",
+    "item": "http://www.wikidata.org/entity/Q3416766",
+    "itemLabel": "Radio Nacional de la R.A.S.D.",
+    "year": "1975",
     "sitelinks": "9"
   },
   {
@@ -492,9 +456,21 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3416766",
-    "itemLabel": "Radio Nacional de la R.A.S.D.",
-    "year": "1975",
+    "item": "http://www.wikidata.org/entity/Q1582014",
+    "itemLabel": "KIIS-FM",
+    "year": "1948",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1446488",
+    "itemLabel": "Radio Station Belarus",
+    "year": "1962",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3042083",
+    "itemLabel": "Shade 45",
+    "year": "2004",
     "sitelinks": "9"
   },
   {
@@ -516,22 +492,46 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1944285",
+    "itemLabel": "Radio-Paris",
+    "year": "1924",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2611481",
+    "itemLabel": "Sveriges Radio P4",
+    "year": "1987",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q659696",
+    "itemLabel": "Sveriges Radio P3",
+    "year": "1964",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4590187",
+    "itemLabel": "Absolute Radio",
+    "year": "1993",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2003205",
+    "itemLabel": "Wonderful Radio London",
+    "year": "1964",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2126156",
+    "itemLabel": "Radio Liechtenstein",
+    "year": "1938",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6457273",
     "itemLabel": "LBC",
     "year": "1973",
     "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1322074",
-    "itemLabel": "WABC",
-    "year": "1921",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q264091",
-    "itemLabel": "Radio Wolga",
-    "year": "1945",
-    "sitelinks": "8"
   },
   {
     "item": "http://www.wikidata.org/entity/Q841191",
@@ -546,27 +546,9 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q912092",
-    "itemLabel": "P4 Radio Hele Norge",
-    "year": "1993",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q483404",
-    "itemLabel": "Free North Korea Radio",
-    "year": "2004",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1566948",
-    "itemLabel": "Radio Bulgaria",
-    "year": "1930",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1639954",
-    "itemLabel": "Radio Umut",
-    "year": "1995",
+    "item": "http://www.wikidata.org/entity/Q264091",
+    "itemLabel": "Radio Wolga",
+    "year": "1945",
     "sitelinks": "8"
   },
   {
@@ -582,6 +564,18 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q912092",
+    "itemLabel": "P4 Radio Hele Norge",
+    "year": "1993",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1322074",
+    "itemLabel": "WABC",
+    "year": "1921",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1382659",
     "itemLabel": "Evropa 2",
     "year": "1990",
@@ -591,6 +585,24 @@
     "item": "http://www.wikidata.org/entity/Q1431841",
     "itemLabel": "Rádio FM – Slovak Radio 4",
     "year": "2004",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3564690",
+    "itemLabel": "WINS",
+    "year": "1924",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1566948",
+    "itemLabel": "Radio Bulgaria",
+    "year": "1930",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1639954",
+    "itemLabel": "Radio Umut",
+    "year": "1995",
     "sitelinks": "8"
   },
   {
@@ -606,51 +618,27 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q663416",
-    "itemLabel": "RTS Première",
-    "year": "1922",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2126156",
-    "itemLabel": "Radio Liechtenstein",
-    "year": "1938",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4590187",
-    "itemLabel": "Absolute Radio",
-    "year": "1993",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2678835",
-    "itemLabel": "Radio Belgique",
-    "year": "1940",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3182024",
-    "itemLabel": "Mosaïque FM",
-    "year": "2003",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1756850",
-    "itemLabel": "FG DJ Radio",
-    "year": "1990",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3562506",
     "itemLabel": "Voice of the Arabs",
     "year": "1953",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3564690",
-    "itemLabel": "WINS",
-    "year": "1924",
+    "item": "http://www.wikidata.org/entity/Q4056422",
+    "itemLabel": "Autoradio",
+    "year": "1992",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q483404",
+    "itemLabel": "Free North Korea Radio",
+    "year": "2004",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1756850",
+    "itemLabel": "FG DJ Radio",
+    "year": "1990",
     "sitelinks": "8"
   },
   {
@@ -666,9 +654,15 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3124708",
-    "itemLabel": "Radio Galega",
-    "year": "1985",
+    "item": "http://www.wikidata.org/entity/Q2678835",
+    "itemLabel": "Radio Belgique",
+    "year": "1940",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q663416",
+    "itemLabel": "RTS Première",
+    "year": "1922",
     "sitelinks": "8"
   },
   {
@@ -678,9 +672,15 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4056422",
-    "itemLabel": "Autoradio",
-    "year": "1992",
+    "item": "http://www.wikidata.org/entity/Q3124708",
+    "itemLabel": "Radio Galega",
+    "year": "1985",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3182024",
+    "itemLabel": "Mosaïque FM",
+    "year": "2003",
     "sitelinks": "8"
   },
   {
@@ -714,6 +714,24 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1157782",
+    "itemLabel": "Radio SRF 3",
+    "year": "1983",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1157784",
+    "itemLabel": "Radio SRF Virus",
+    "year": "1999",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1157793",
+    "itemLabel": "Radio SRF Musikwelle",
+    "year": "1996",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q909032",
     "itemLabel": "Nippon Broadcasting System",
     "year": "2006",
@@ -729,24 +747,6 @@
     "item": "http://www.wikidata.org/entity/Q1067857",
     "itemLabel": "J-Wave",
     "year": "1987",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q571820",
-    "itemLabel": "RTP Antena 3",
-    "year": "1994",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1551068",
-    "itemLabel": "WNYC",
-    "year": "1922",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1567359",
-    "itemLabel": "Radio Deejay",
-    "year": "1982",
     "sitelinks": "7"
   },
   {
@@ -768,15 +768,15 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q679426",
-    "itemLabel": "Rádio Slovensko",
-    "year": "1993",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q321620",
     "itemLabel": "WDR 2",
     "year": "1950",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q931475",
+    "itemLabel": "DR P4",
+    "year": "1960",
     "sitelinks": "7"
   },
   {
@@ -792,9 +792,33 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1450606",
-    "itemLabel": "WHSQ",
-    "year": "1924",
+    "item": "http://www.wikidata.org/entity/Q1700228",
+    "itemLabel": "Cadena Dial",
+    "year": "1990",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3595108",
+    "itemLabel": "Vividh Bharati",
+    "year": "1957",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q679426",
+    "itemLabel": "Rádio Slovensko",
+    "year": "1993",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1551068",
+    "itemLabel": "WNYC",
+    "year": "1922",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1567359",
+    "itemLabel": "Radio Deejay",
+    "year": "1982",
     "sitelinks": "7"
   },
   {
@@ -804,9 +828,99 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q632658",
+    "itemLabel": "RTÉ Radio 1",
+    "year": "1926",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q639658",
+    "itemLabel": "Radio Kuku",
+    "year": "1992",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1450606",
+    "itemLabel": "WHSQ",
+    "year": "1924",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3544839",
     "itemLabel": "DZMM-AM",
     "year": "1953",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3928795",
+    "itemLabel": "Radio Radicale",
+    "year": "1976",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4109601",
+    "itemLabel": "Vesti FM",
+    "year": "2008",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4382447",
+    "itemLabel": "Caracol Radio",
+    "year": "1948",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3046168",
+    "itemLabel": "ESPN Radio",
+    "year": "1992",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3068822",
+    "itemLabel": "Rás 1",
+    "year": "1930",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1796582",
+    "itemLabel": "DR P1",
+    "year": "1925",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1818363",
+    "itemLabel": "Classic 21",
+    "year": "1983",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1965527",
+    "itemLabel": "Yle Radio Suomi",
+    "year": "1990",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q571820",
+    "itemLabel": "RTP Antena 3",
+    "year": "1994",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2601407",
+    "itemLabel": "Máxima FM",
+    "year": "2002",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2664282",
+    "itemLabel": "MNM",
+    "year": "2009",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2748387",
+    "itemLabel": "Galgalatz",
+    "year": "1993",
     "sitelinks": "7"
   },
   {
@@ -840,69 +954,9 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2125940",
-    "itemLabel": "NPO Radio 5",
-    "year": "1983",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2126309",
-    "itemLabel": "Radio Swiss Classic",
-    "year": "1998",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2313870",
-    "itemLabel": "Springbok Radio",
-    "year": "1950",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4382447",
-    "itemLabel": "Caracol Radio",
-    "year": "1948",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2601407",
-    "itemLabel": "Máxima FM",
-    "year": "2002",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2664282",
-    "itemLabel": "MNM",
-    "year": "2009",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2748387",
-    "itemLabel": "Galgalatz",
-    "year": "1993",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3046168",
-    "itemLabel": "ESPN Radio",
-    "year": "1992",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3068822",
-    "itemLabel": "Rás 1",
-    "year": "1930",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1818363",
-    "itemLabel": "Classic 21",
-    "year": "1983",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1965527",
-    "itemLabel": "Yle Radio Suomi",
-    "year": "1990",
+    "item": "http://www.wikidata.org/entity/Q5521286",
+    "itemLabel": "Gangwon No.1 Broadcasting",
+    "year": "2001",
     "sitelinks": "7"
   },
   {
@@ -912,15 +966,21 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q632658",
-    "itemLabel": "RTÉ Radio 1",
-    "year": "1926",
+    "item": "http://www.wikidata.org/entity/Q2313870",
+    "itemLabel": "Springbok Radio",
+    "year": "1950",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q639658",
-    "itemLabel": "Radio Kuku",
-    "year": "1992",
+    "item": "http://www.wikidata.org/entity/Q3100760",
+    "itemLabel": "Radio Euskadi",
+    "year": "1983",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3351781",
+    "itemLabel": "Yle X3M",
+    "year": "1997",
     "sitelinks": "7"
   },
   {
@@ -936,48 +996,6 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1700228",
-    "itemLabel": "Cadena Dial",
-    "year": "1990",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q931475",
-    "itemLabel": "DR P4",
-    "year": "1960",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3595108",
-    "itemLabel": "Vividh Bharati",
-    "year": "1957",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1796582",
-    "itemLabel": "DR P1",
-    "year": "1925",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3100760",
-    "itemLabel": "Radio Euskadi",
-    "year": "1983",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3101582",
-    "itemLabel": "Radio 3",
-    "year": "1979",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3351781",
-    "itemLabel": "Yle X3M",
-    "year": "1997",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2072562",
     "itemLabel": "Radio X",
     "year": "2015",
@@ -990,21 +1008,15 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5521286",
-    "itemLabel": "Gangwon No.1 Broadcasting",
-    "year": "2001",
+    "item": "http://www.wikidata.org/entity/Q2125940",
+    "itemLabel": "NPO Radio 5",
+    "year": "1983",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3928795",
-    "itemLabel": "Radio Radicale",
-    "year": "1976",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4109601",
-    "itemLabel": "Vesti FM",
-    "year": "2008",
+    "item": "http://www.wikidata.org/entity/Q2126309",
+    "itemLabel": "Radio Swiss Classic",
+    "year": "1998",
     "sitelinks": "7"
   },
   {
@@ -1032,33 +1044,9 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1286098",
-    "itemLabel": "K-LOVE",
-    "year": "1982",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q222029",
-    "itemLabel": "2GB",
-    "year": "1926",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1157782",
-    "itemLabel": "Radio SRF 3",
-    "year": "1983",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1157784",
-    "itemLabel": "Radio SRF Virus",
-    "year": "1999",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1157793",
-    "itemLabel": "Radio SRF Musikwelle",
-    "year": "1996",
+    "item": "http://www.wikidata.org/entity/Q869815",
+    "itemLabel": "Rete Due",
+    "year": "1985",
     "sitelinks": "6"
   },
   {
@@ -1068,15 +1056,9 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1165718",
-    "itemLabel": "Radio Târgu Mureș",
-    "year": "1958",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q869815",
-    "itemLabel": "Rete Due",
-    "year": "1985",
+    "item": "http://www.wikidata.org/entity/Q1157798",
+    "itemLabel": "Radio SRF 2 Kultur",
+    "year": "1956",
     "sitelinks": "6"
   },
   {
@@ -1110,75 +1092,9 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q413841",
-    "itemLabel": "Akademickie Radio Kampus",
-    "year": "2005",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q441101",
-    "itemLabel": "RTL Radio",
-    "year": "1933",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q550300",
-    "itemLabel": "WYFR",
-    "year": "1973",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q571818",
-    "itemLabel": "RTP Antena 1",
-    "year": "1935",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1632263",
-    "itemLabel": "hr1",
-    "year": "1948",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q677766",
-    "itemLabel": "Radio Dimensione Suono",
-    "year": "1978",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1424685",
-    "itemLabel": "Kalundborg Transmitter",
-    "year": "1927",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3416920",
-    "itemLabel": "Radio Vitoria",
-    "year": "1934",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3417658",
-    "itemLabel": "Raidió Fáilte",
-    "year": "2006",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3454138",
-    "itemLabel": "Rádio Expres",
-    "year": "2000",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3551630",
-    "itemLabel": "DWFM",
-    "year": "1973",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q664094",
-    "itemLabel": "RTS Espace 2",
-    "year": "1956",
+    "item": "http://www.wikidata.org/entity/Q222029",
+    "itemLabel": "2GB",
+    "year": "1926",
     "sitelinks": "6"
   },
   {
@@ -1194,27 +1110,99 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2201536",
-    "itemLabel": "Medi 1 radio",
+    "item": "http://www.wikidata.org/entity/Q917203",
+    "itemLabel": "Nippon Cultural Broadcasting",
+    "year": "1956",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1165718",
+    "itemLabel": "Radio Târgu Mureș",
+    "year": "1958",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1286098",
+    "itemLabel": "K-LOVE",
+    "year": "1982",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1424685",
+    "itemLabel": "Kalundborg Transmitter",
+    "year": "1927",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3416744",
+    "itemLabel": "Radio Mitre",
+    "year": "1925",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3416780",
+    "itemLabel": "Radio Occitania",
+    "year": "1981",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1718482",
+    "itemLabel": "KDKA",
+    "year": "1920",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3417658",
+    "itemLabel": "Raidió Fáilte",
+    "year": "2006",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3454138",
+    "itemLabel": "Rádio Expres",
+    "year": "2000",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3564763",
+    "itemLabel": "WOR",
+    "year": "1922",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q677766",
+    "itemLabel": "Radio Dimensione Suono",
+    "year": "1978",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1632263",
+    "itemLabel": "hr1",
+    "year": "1948",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q624773",
+    "itemLabel": "KBS Cool FM",
     "year": "1980",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3551630",
+    "itemLabel": "DWFM",
+    "year": "1973",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3928756",
+    "itemLabel": "Yuldash Radio",
+    "year": "2000",
     "sitelinks": "6"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4337226",
     "itemLabel": "Radio Orfey",
     "year": "1960",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2537026",
-    "itemLabel": "WDR 4",
-    "year": "1984",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2718119",
-    "itemLabel": "RTP Antena 2",
-    "year": "1948",
     "sitelinks": "6"
   },
   {
@@ -1236,6 +1224,30 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q413841",
+    "itemLabel": "Akademickie Radio Kampus",
+    "year": "2005",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q441101",
+    "itemLabel": "RTL Radio",
+    "year": "1933",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q550300",
+    "itemLabel": "WYFR",
+    "year": "1973",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1747704",
+    "itemLabel": "WDR 3",
+    "year": "1964",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1814994",
     "itemLabel": "Rádio Comercial",
     "year": "1979",
@@ -1251,6 +1263,36 @@
     "item": "http://www.wikidata.org/entity/Q1959976",
     "itemLabel": "NDR 1 Niedersachsen",
     "year": "1981",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q571818",
+    "itemLabel": "RTP Antena 1",
+    "year": "1935",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2537026",
+    "itemLabel": "WDR 4",
+    "year": "1984",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2718119",
+    "itemLabel": "RTP Antena 2",
+    "year": "1948",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q664094",
+    "itemLabel": "RTS Espace 2",
+    "year": "1956",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5836016",
+    "itemLabel": "Antena 3 Radio",
+    "year": "1982",
     "sitelinks": "6"
   },
   {
@@ -1272,45 +1314,21 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q624773",
-    "itemLabel": "KBS Cool FM",
+    "item": "http://www.wikidata.org/entity/Q3416920",
+    "itemLabel": "Radio Vitoria",
+    "year": "1934",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2201536",
+    "itemLabel": "Medi 1 radio",
     "year": "1980",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1718482",
-    "itemLabel": "KDKA",
-    "year": "1920",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1747704",
-    "itemLabel": "WDR 3",
-    "year": "1964",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q917203",
-    "itemLabel": "Nippon Cultural Broadcasting",
-    "year": "1956",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3564763",
-    "itemLabel": "WOR",
-    "year": "1922",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3416744",
-    "itemLabel": "Radio Mitre",
-    "year": "1925",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3416780",
-    "itemLabel": "Radio Occitania",
-    "year": "1981",
+    "item": "http://www.wikidata.org/entity/Q4650210",
+    "itemLabel": "ABC News Radio",
+    "year": "1968",
     "sitelinks": "6"
   },
   {
@@ -1338,6 +1356,12 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q6426942",
+    "itemLabel": "Jerusalem Calling",
+    "year": "1936",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2378219",
     "itemLabel": "BBC Radio Jersey",
     "year": "1982",
@@ -1350,27 +1374,15 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4650210",
-    "itemLabel": "ABC News Radio",
-    "year": "1968",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5477294",
     "itemLabel": "Radio Carve",
     "year": "1928",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3928756",
-    "itemLabel": "Yuldash Radio",
-    "year": "2000",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5836016",
-    "itemLabel": "Antena 3 Radio",
-    "year": "1982",
+    "item": "http://www.wikidata.org/entity/Q6824570",
+    "itemLabel": "Metro FM",
+    "year": "1992",
     "sitelinks": "6"
   },
   {
@@ -1380,15 +1392,15 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6426942",
-    "itemLabel": "Jerusalem Calling",
-    "year": "1936",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7790569",
     "itemLabel": "YleX",
     "year": "2003",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9302326",
+    "itemLabel": "Radio Wnet",
+    "year": "2009",
     "sitelinks": "6"
   },
   {
@@ -1404,9 +1416,9 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9302326",
-    "itemLabel": "Radio Wnet",
-    "year": "2009",
+    "item": "http://www.wikidata.org/entity/Q18377288",
+    "itemLabel": "DR P8 Jazz",
+    "year": "2011",
     "sitelinks": "6"
   },
   {
@@ -1422,38 +1434,14 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18377288",
-    "itemLabel": "DR P8 Jazz",
-    "year": "2011",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q19910",
     "itemLabel": "Mouv'",
     "year": "1997",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1258800",
-    "itemLabel": "Radio Donna",
-    "year": "1992",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1261513",
-    "itemLabel": "Radio Niederösterreich",
-    "year": "1967",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q166266",
-    "itemLabel": "104.6 RTL",
-    "year": "1991",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q250955",
-    "itemLabel": "Radio Tirol",
+    "item": "http://www.wikidata.org/entity/Q795592",
+    "itemLabel": "BBC Radio Leicester",
     "year": "1967",
     "sitelinks": "5"
   },
@@ -1461,24 +1449,6 @@
     "item": "http://www.wikidata.org/entity/Q812479",
     "itemLabel": "Bayern 3",
     "year": "1971",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1136693",
-    "itemLabel": "European Hit Radio",
-    "year": "1992",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1137773",
-    "itemLabel": "Flaix FM",
-    "year": "1992",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1157798",
-    "itemLabel": "Radio SRF 2 Kultur",
-    "year": "1956",
     "sitelinks": "5"
   },
   {
@@ -1494,15 +1464,27 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q870824",
-    "itemLabel": "KiRaKa",
-    "year": "2006",
+    "item": "http://www.wikidata.org/entity/Q1136693",
+    "itemLabel": "European Hit Radio",
+    "year": "1992",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q873469",
-    "itemLabel": "Radio Wien",
-    "year": "1955",
+    "item": "http://www.wikidata.org/entity/Q1137773",
+    "itemLabel": "Flaix FM",
+    "year": "1992",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2891907",
+    "itemLabel": "IB3 Ràdio",
+    "year": "2004",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q870824",
+    "itemLabel": "KiRaKa",
+    "year": "2006",
     "sitelinks": "5"
   },
   {
@@ -1536,51 +1518,21 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4881182",
+    "itemLabel": "Radio Beijing Corporation",
+    "year": "1994",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1118627",
     "itemLabel": "WDIA",
     "year": "1947",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q383252",
-    "itemLabel": "Tilos Rádió",
+    "item": "http://www.wikidata.org/entity/Q166266",
+    "itemLabel": "104.6 RTL",
     "year": "1991",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q428735",
-    "itemLabel": "BBC Radio Guernsey",
-    "year": "1982",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q446928",
-    "itemLabel": "RTÉ 2fm",
-    "year": "1979",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q502613",
-    "itemLabel": "Kossuth Rádió",
-    "year": "1924",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1533289",
-    "itemLabel": "Nordwestradio",
-    "year": "2001",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1550662",
-    "itemLabel": "Radio Moldova Internaţional",
-    "year": "1992",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1630673",
-    "itemLabel": "WQHT",
-    "year": "1940",
     "sitelinks": "5"
   },
   {
@@ -1602,15 +1554,15 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q679446",
-    "itemLabel": "Rádio Devín",
-    "year": "1993",
+    "item": "http://www.wikidata.org/entity/Q2837466",
+    "itemLabel": "All for Peace",
+    "year": "2004",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q682118",
-    "itemLabel": "NPO Soul & Jazz",
-    "year": "2006",
+    "item": "http://www.wikidata.org/entity/Q2843225",
+    "itemLabel": "Radio España Independiente",
+    "year": "1941",
     "sitelinks": "5"
   },
   {
@@ -1632,87 +1584,39 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1474419",
-    "itemLabel": "COSMO",
-    "year": "1998",
+    "item": "http://www.wikidata.org/entity/Q950992",
+    "itemLabel": "Channel Africa",
+    "year": "1992",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2891907",
-    "itemLabel": "IB3 Ràdio",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q1258800",
+    "itemLabel": "Radio Donna",
+    "year": "1992",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q795592",
-    "itemLabel": "BBC Radio Leicester",
+    "item": "http://www.wikidata.org/entity/Q1261513",
+    "itemLabel": "Radio Niederösterreich",
     "year": "1967",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3454124",
-    "itemLabel": "Ràdio Arrels",
-    "year": "1981",
+    "item": "http://www.wikidata.org/entity/Q3402861",
+    "itemLabel": "BBC Radio Devon",
+    "year": "1983",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3545486",
-    "itemLabel": "BBC Radio Ulster",
-    "year": "1975",
+    "item": "http://www.wikidata.org/entity/Q3415174",
+    "itemLabel": "RFM",
+    "year": "1987",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3547785",
-    "itemLabel": "DWLS",
-    "year": "1955",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2126129",
-    "itemLabel": "radio horeb",
-    "year": "1996",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2126141",
-    "itemLabel": "Radio Kärnten",
-    "year": "1967",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2837466",
-    "itemLabel": "All for Peace",
-    "year": "2004",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2843225",
-    "itemLabel": "Radio España Independiente",
-    "year": "1941",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2126387",
-    "itemLabel": "Radio ffn",
-    "year": "1986",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2138082",
-    "itemLabel": "Pure",
-    "year": "2004",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2145193",
-    "itemLabel": "Radio Centraal",
-    "year": "1980",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2218771",
-    "itemLabel": "Radio Zamaneh",
-    "year": "2005",
+    "item": "http://www.wikidata.org/entity/Q3416717",
+    "itemLabel": "Radio Lebanon",
+    "year": "1938",
     "sitelinks": "5"
   },
   {
@@ -1728,57 +1632,75 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q795291",
-    "itemLabel": "BR24",
-    "year": "1991",
+    "item": "http://www.wikidata.org/entity/Q1691830",
+    "itemLabel": "Radio Burgenland",
+    "year": "1967",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4347264",
-    "itemLabel": "BBC Light Programme",
-    "year": "1945",
+    "item": "http://www.wikidata.org/entity/Q3454124",
+    "itemLabel": "Ràdio Arrels",
+    "year": "1981",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4387388",
-    "itemLabel": "Astana",
-    "year": "1999",
+    "item": "http://www.wikidata.org/entity/Q3564732",
+    "itemLabel": "WMVP",
+    "year": "1926",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2773131",
-    "itemLabel": "Ampie's Broadcasting Corporation",
-    "year": "1975",
+    "item": "http://www.wikidata.org/entity/Q3564859",
+    "itemLabel": "WWJ",
+    "year": "1920",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3030978",
-    "itemLabel": "Radio Moldova",
+    "item": "http://www.wikidata.org/entity/Q3631716",
+    "itemLabel": "BBC Home Service",
     "year": "1939",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3246974",
-    "itemLabel": "Radio Luxembourg",
-    "year": "2005",
+    "item": "http://www.wikidata.org/entity/Q3928122",
+    "itemLabel": "R101",
+    "year": "1975",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3299293",
-    "itemLabel": "Radio Gaalkacyo",
+    "item": "http://www.wikidata.org/entity/Q679446",
+    "itemLabel": "Rádio Devín",
     "year": "1993",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6096198",
-    "itemLabel": "Radio Bío-Bío",
-    "year": "1966",
+    "item": "http://www.wikidata.org/entity/Q682118",
+    "itemLabel": "NPO Soul & Jazz",
+    "year": "2006",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6096514",
-    "itemLabel": "CX 12 Radio Oriental",
-    "year": "1928",
+    "item": "http://www.wikidata.org/entity/Q1630673",
+    "itemLabel": "WQHT",
+    "year": "1940",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4834911",
+    "itemLabel": "BBC Radio Cumbria",
+    "year": "1973",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4834915",
+    "itemLabel": "BBC Radio Foyle",
+    "year": "1979",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q706040",
+    "itemLabel": "Voice of Free China",
+    "year": "1949",
     "sitelinks": "5"
   },
   {
@@ -1806,129 +1728,33 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1691830",
-    "itemLabel": "Radio Burgenland",
-    "year": "1967",
+    "item": "http://www.wikidata.org/entity/Q1474419",
+    "itemLabel": "COSMO",
+    "year": "1998",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q950992",
-    "itemLabel": "Channel Africa",
+    "item": "http://www.wikidata.org/entity/Q1533289",
+    "itemLabel": "Nordwestradio",
+    "year": "2001",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1550662",
+    "itemLabel": "Radio Moldova Internaţional",
     "year": "1992",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3564732",
-    "itemLabel": "WMVP",
-    "year": "1926",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3564859",
-    "itemLabel": "WWJ",
-    "year": "1920",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3631716",
-    "itemLabel": "BBC Home Service",
-    "year": "1939",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3402861",
-    "itemLabel": "BBC Radio Devon",
-    "year": "1983",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3415174",
-    "itemLabel": "RFM",
-    "year": "1987",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3416717",
-    "itemLabel": "Radio Lebanon",
-    "year": "1938",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1785044",
-    "itemLabel": "NRK Alltid Nyheter",
-    "year": "1997",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1801365",
-    "itemLabel": "BBC Radio Norfolk",
-    "year": "1980",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3070354",
-    "itemLabel": "Nou Ràdio",
-    "year": "1989",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3341868",
-    "itemLabel": "Nile FM",
-    "year": "2003",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3401225",
-    "itemLabel": "BBC Radio Cornwall",
-    "year": "1983",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2403303",
-    "itemLabel": "Jawhara FM",
-    "year": "2005",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6326267",
-    "itemLabel": "KBS Radio 2",
-    "year": "1981",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4834911",
-    "itemLabel": "BBC Radio Cumbria",
-    "year": "1973",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4834915",
-    "itemLabel": "BBC Radio Foyle",
-    "year": "1979",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4881182",
-    "itemLabel": "Radio Beijing Corporation",
-    "year": "1994",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5426616",
-    "itemLabel": "FM802",
-    "year": "1988",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5638365",
-    "itemLabel": "Rádio Gaúcha",
-    "year": "1927",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3928122",
-    "itemLabel": "R101",
+    "item": "http://www.wikidata.org/entity/Q3545486",
+    "itemLabel": "BBC Radio Ulster",
     "year": "1975",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3547785",
+    "itemLabel": "DWLS",
+    "year": "1976",
     "sitelinks": "5"
   },
   {
@@ -1950,33 +1776,177 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4347264",
+    "itemLabel": "BBC Light Programme",
+    "year": "1945",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4387388",
+    "itemLabel": "Astana",
+    "year": "1999",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3030978",
+    "itemLabel": "Radio Moldova",
+    "year": "1939",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q383252",
+    "itemLabel": "Tilos Rádió",
+    "year": "1991",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q428735",
+    "itemLabel": "BBC Radio Guernsey",
+    "year": "1982",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q446928",
+    "itemLabel": "RTÉ 2fm",
+    "year": "1979",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q502613",
+    "itemLabel": "Kossuth Rádió",
+    "year": "1924",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1785044",
+    "itemLabel": "NRK Alltid Nyheter",
+    "year": "1997",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1801365",
+    "itemLabel": "BBC Radio Norfolk",
+    "year": "1980",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2773131",
+    "itemLabel": "Ampie's Broadcasting Corporation",
+    "year": "1975",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5871347",
     "itemLabel": "Hit Fm Taiwan",
     "year": "1994",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6867948",
-    "itemLabel": "Minnal FM",
+    "item": "http://www.wikidata.org/entity/Q6096198",
+    "itemLabel": "Radio Bío-Bío",
+    "year": "1966",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6096514",
+    "itemLabel": "CX 12 Radio Oriental",
+    "year": "1928",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5638365",
+    "itemLabel": "Rádio Gaúcha",
+    "year": "1927",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3246974",
+    "itemLabel": "Radio Luxembourg",
     "year": "2005",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7281105",
-    "itemLabel": "Radio Veritas",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q3299293",
+    "itemLabel": "Radio Gaalkacyo",
+    "year": "1993",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7879923",
-    "itemLabel": "Ulsan Broadcasting Corporation",
-    "year": "2001",
+    "item": "http://www.wikidata.org/entity/Q2126387",
+    "itemLabel": "Radio ffn",
+    "year": "1986",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6824570",
-    "itemLabel": "Metro FM",
-    "year": "1992",
+    "item": "http://www.wikidata.org/entity/Q2138082",
+    "itemLabel": "Pure",
+    "year": "2004",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2145193",
+    "itemLabel": "Radio Centraal",
+    "year": "1980",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2218771",
+    "itemLabel": "Radio Zamaneh",
+    "year": "2005",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3070354",
+    "itemLabel": "Nou Ràdio",
+    "year": "1989",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3341868",
+    "itemLabel": "Nile FM",
+    "year": "2003",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3401225",
+    "itemLabel": "BBC Radio Cornwall",
+    "year": "1983",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2125955",
+    "itemLabel": "Africa Nº1",
+    "year": "1981",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2126129",
+    "itemLabel": "radio horeb",
+    "year": "1996",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2126141",
+    "itemLabel": "Radio Kärnten",
+    "year": "1967",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2403303",
+    "itemLabel": "Jawhara FM",
+    "year": "2005",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6326267",
+    "itemLabel": "KBS Radio 2",
+    "year": "1981",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6867948",
+    "itemLabel": "Minnal FM",
+    "year": "2005",
     "sitelinks": "5"
   },
   {
@@ -1989,6 +1959,24 @@
     "item": "http://www.wikidata.org/entity/Q7280705",
     "itemLabel": "Radio Caracas Radio",
     "year": "1930",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5426616",
+    "itemLabel": "FM802",
+    "year": "1988",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7281076",
+    "itemLabel": "Radio Taíno",
+    "year": "1994",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7281105",
+    "itemLabel": "Radio Veritas",
+    "year": "1969",
     "sitelinks": "5"
   },
   {
@@ -2010,27 +1998,9 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11990725",
-    "itemLabel": "NRK Folkemusikk",
-    "year": "2004",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13202891",
-    "itemLabel": "Radio Tatarstan",
-    "year": "1927",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9070115",
-    "itemLabel": "Rock & Pop",
-    "year": "1992",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9071533",
-    "itemLabel": "Flaixbac",
-    "year": "1994",
+    "item": "http://www.wikidata.org/entity/Q7879923",
+    "itemLabel": "Ulsan Broadcasting Corporation",
+    "year": "2001",
     "sitelinks": "5"
   },
   {
@@ -2046,15 +2016,9 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12332727",
-    "itemLabel": "Radio24syv",
-    "year": "2011",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8041936",
-    "itemLabel": "XEW-AM",
-    "year": "1930",
+    "item": "http://www.wikidata.org/entity/Q11990725",
+    "itemLabel": "NRK Folkemusikk",
+    "year": "2004",
     "sitelinks": "5"
   },
   {
@@ -2064,33 +2028,45 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q21908935",
-    "itemLabel": "Brila FM",
-    "year": "2002",
+    "item": "http://www.wikidata.org/entity/Q9070115",
+    "itemLabel": "Rock & Pop",
+    "year": "1992",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q25001538",
-    "itemLabel": "Radio Lagos",
-    "year": "1977",
+    "item": "http://www.wikidata.org/entity/Q9071533",
+    "itemLabel": "Flaixbac",
+    "year": "1994",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q66314469",
-    "itemLabel": "CX30 Radio Nacional",
-    "year": "1925",
+    "item": "http://www.wikidata.org/entity/Q8041936",
+    "itemLabel": "XEW-AM",
+    "year": "1930",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q30621917",
-    "itemLabel": "WFM 91.7",
-    "year": "2015",
+    "item": "http://www.wikidata.org/entity/Q13202891",
+    "itemLabel": "Radio Tatarstan",
+    "year": "1927",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12332727",
+    "itemLabel": "Radio24syv",
+    "year": "2011",
     "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35590765",
     "itemLabel": "Bremen Zwei",
     "year": "2017",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25001538",
+    "itemLabel": "Radio Lagos",
+    "year": "1977",
     "sitelinks": "5"
   },
   {
@@ -2103,6 +2079,24 @@
     "item": "http://www.wikidata.org/entity/Q39046315",
     "itemLabel": "Faaji FM",
     "year": "2012",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21908935",
+    "itemLabel": "Brila FM",
+    "year": "2002",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30621917",
+    "itemLabel": "WFM 91.7",
+    "year": "2015",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66314469",
+    "itemLabel": "CX30 Radio Nacional",
+    "year": "1925",
     "sitelinks": "5"
   }
 ]

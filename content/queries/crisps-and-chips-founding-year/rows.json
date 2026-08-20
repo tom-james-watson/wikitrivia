@@ -4,7 +4,14 @@
     "itemLabel": "Coca-Cola",
     "description": "carbonated brown-colored soft drink",
     "year": "1886",
-    "sitelinks": "149"
+    "sitelinks": "150"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47719",
+    "itemLabel": "Pepsi",
+    "description": "soft drink owned and manufactured by PepsiCo",
+    "year": "1893",
+    "sitelinks": "103"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51482",
@@ -42,17 +49,17 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q215707",
-    "itemLabel": "Toblerone",
-    "description": "Brand of chocolate confection",
-    "year": "1908",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q27207017",
     "itemLabel": "Bear Brand",
     "description": "Milk brand of Nestle",
     "year": "1976",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q215707",
+    "itemLabel": "Toblerone",
+    "description": "brand of chocolate confection",
+    "year": "1908",
     "sitelinks": "45"
   },
   {
@@ -70,13 +77,6 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q757388",
-    "itemLabel": "Milka",
-    "description": "chocolate brand",
-    "year": "1943",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q332378",
     "itemLabel": "Absolut Vodka",
     "description": "Swedish brand of vodka",
@@ -84,10 +84,31 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q526516",
-    "itemLabel": "Ferrero Rocher",
-    "description": "Italian confectionery",
-    "year": "1982",
+    "item": "http://www.wikidata.org/entity/Q688424",
+    "itemLabel": "Maggi",
+    "description": "International food brand",
+    "year": "1886",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q757388",
+    "itemLabel": "Milka",
+    "description": "chocolate brand",
+    "year": "1943",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q816412",
+    "itemLabel": "Ben & Jerry's",
+    "description": "American ice cream company",
+    "year": "1978",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q864987",
+    "itemLabel": "Corona",
+    "description": "branded beverage from Mexico",
+    "year": "1925",
     "sitelinks": "39"
   },
   {
@@ -98,24 +119,17 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q864987",
-    "itemLabel": "Corona",
-    "description": "branded beverage from Mexico",
-    "year": "1925",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q688424",
-    "itemLabel": "Maggi",
-    "description": "International food brand",
-    "year": "1886",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q685395",
     "itemLabel": "Bacardi",
     "description": "largest privately held, family-owned spirits company with Cuban origins",
     "year": "1862",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q526516",
+    "itemLabel": "Ferrero Rocher",
+    "description": "Italian confectionery",
+    "year": "1982",
     "sitelinks": "39"
   },
   {
@@ -130,13 +144,6 @@
     "itemLabel": "Budweiser",
     "description": "American-style pale lager, a brand of Belgian company AB InBev",
     "year": "1876",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q816412",
-    "itemLabel": "Ben & Jerry's",
-    "description": "American ice cream company",
-    "year": "1978",
     "sitelinks": "38"
   },
   {
@@ -161,10 +168,10 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q895167",
-    "itemLabel": "Bounty",
-    "description": "chocolate bar manufactured by Mars, Incorporated",
-    "year": "1951",
+    "item": "http://www.wikidata.org/entity/Q841470",
+    "itemLabel": "Vegemite",
+    "description": "savoury food spread",
+    "year": "1922",
     "sitelinks": "33"
   },
   {
@@ -172,6 +179,13 @@
     "itemLabel": "Twix",
     "description": "chocolate-coated cookie candy bar",
     "year": "1967",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q895167",
+    "itemLabel": "Bounty",
+    "description": "chocolate bar manufactured by Mars, Incorporated",
+    "year": "1951",
     "sitelinks": "33"
   },
   {
@@ -186,13 +200,6 @@
     "itemLabel": "Asahi Breweries",
     "description": "Japanese food and beverage company",
     "year": "1889",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q841470",
-    "itemLabel": "Vegemite",
-    "description": "savoury food spread",
-    "year": "1922",
     "sitelinks": "32"
   },
   {
@@ -224,18 +231,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q478119",
-    "itemLabel": "Amstel Brewery",
-    "description": "Dutch Brewery brand",
-    "year": "1870",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q153075",
-    "itemLabel": "Grolsch",
-    "description": "brewery in the Netherlands",
-    "year": "1615",
-    "sitelinks": "28"
+    "item": "http://www.wikidata.org/entity/Q1780501",
+    "itemLabel": "Raffaello",
+    "description": "Italian brand of confection",
+    "year": "1990",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q854383",
@@ -245,10 +245,10 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1780501",
-    "itemLabel": "Raffaello",
-    "description": "Italian brand of confection",
-    "year": "1990",
+    "item": "http://www.wikidata.org/entity/Q455290",
+    "itemLabel": "Amarula",
+    "description": "liqueur",
+    "year": "1989",
     "sitelinks": "28"
   },
   {
@@ -256,13 +256,6 @@
     "itemLabel": "Tic Tac",
     "description": "brand of small, hard candy mints",
     "year": "1969",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q455290",
-    "itemLabel": "Amarula",
-    "description": "liqueur",
-    "year": "1989",
     "sitelinks": "28"
   },
   {
@@ -280,6 +273,13 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q53",
+    "itemLabel": "Club-Mate",
+    "description": "caffeinated and carbonated non-alcoholic refreshment drink based on maté",
+    "year": "1924",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1068307",
     "itemLabel": "Pocky",
     "description": "Japanese snack food",
@@ -294,10 +294,24 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q906754",
-    "itemLabel": "McFlurry",
-    "description": "frozen dessert sold at McDonald's",
-    "year": "1997",
+    "item": "http://www.wikidata.org/entity/Q2297653",
+    "itemLabel": "Kinder Bueno",
+    "description": "chocolate bar made by Ferrero",
+    "year": "1990",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q685005",
+    "itemLabel": "Ovaltine",
+    "description": "Ovomaltine drink",
+    "year": "1904",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1206045",
+    "itemLabel": "ramune",
+    "description": "carbonated soft drink",
+    "year": "1884",
     "sitelinks": "26"
   },
   {
@@ -308,17 +322,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q53",
-    "itemLabel": "Club-Mate",
-    "description": "caffeinated and carbonated non-alcoholic refreshment drink based on maté",
-    "year": "1924",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2297653",
-    "itemLabel": "Kinder Bueno",
-    "description": "chocolate bar made by Ferrero",
-    "year": "1990",
+    "item": "http://www.wikidata.org/entity/Q906754",
+    "itemLabel": "McFlurry",
+    "description": "frozen dessert sold at McDonald's",
+    "year": "1997",
     "sitelinks": "26"
   },
   {
@@ -329,27 +336,6 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q685005",
-    "itemLabel": "Ovaltine",
-    "description": "Ovomaltine drink",
-    "year": "1904",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1206045",
-    "itemLabel": "ramune",
-    "description": "carbonated soft drink",
-    "year": "1884",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q222787",
-    "itemLabel": "Jim Beam",
-    "description": "American brand of bourbon whiskey",
-    "year": "1795",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1034035",
     "itemLabel": "Finlandia Vodka",
     "description": "Finnish brand of vodka",
@@ -357,17 +343,24 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q388973",
-    "itemLabel": "After Eight",
-    "description": "chocolate brand of Nestle",
-    "year": "1962",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q153960",
     "itemLabel": "Jupiler",
     "description": "Belgian beer brand",
     "year": "1966",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q222787",
+    "itemLabel": "Jim Beam",
+    "description": "American brand of bourbon whiskey",
+    "year": "1795",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q388973",
+    "itemLabel": "After Eight",
+    "description": "chocolate brand of Nestle",
+    "year": "1962",
     "sitelinks": "24"
   },
   {
@@ -392,6 +385,13 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1411852",
+    "itemLabel": "Havana Club",
+    "description": "brand of rum",
+    "year": "1993",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1071385",
     "itemLabel": "Velkopopovický Kozel",
     "description": "trademark",
@@ -410,13 +410,6 @@
     "itemLabel": "Chimay",
     "description": "trappist beer brand from Belgium",
     "year": "1862",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1411852",
-    "itemLabel": "Havana Club",
-    "description": "brand of rum",
-    "year": "1993",
     "sitelinks": "22"
   },
   {
@@ -441,10 +434,10 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27859",
-    "itemLabel": "Indomie",
-    "description": "instant noodles product line",
-    "year": "1972",
+    "item": "http://www.wikidata.org/entity/Q934273",
+    "itemLabel": "Powerade",
+    "description": "sports drink manufactured and marketed by The Coca-Cola Company",
+    "year": "1988",
     "sitelinks": "20"
   },
   {
@@ -452,13 +445,6 @@
     "itemLabel": "Kinder Joy",
     "description": "candy made by Italian confectionery company Ferrero",
     "year": "2001",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1500277",
-    "itemLabel": "Pez",
-    "description": "brand name of an Austrian candy and associated mechanical candy dispensers",
-    "year": "1927",
     "sitelinks": "20"
   },
   {
@@ -476,10 +462,45 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q27859",
+    "itemLabel": "Indomie",
+    "description": "instant noodles product line",
+    "year": "1972",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1500277",
+    "itemLabel": "Pez",
+    "description": "brand name of an Austrian candy and associated mechanical candy dispensers",
+    "year": "1927",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q707412",
+    "itemLabel": "Sinalco",
+    "description": "trademark",
+    "year": "1902",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1588515",
+    "itemLabel": "Mon Chéri",
+    "description": "trademark",
+    "year": "1956",
+    "sitelinks": "19"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1342581",
     "itemLabel": "Tim Tam",
     "description": "brand of chocolate biscuits",
     "year": "1964",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1531983",
+    "itemLabel": "Kool-Aid",
+    "description": "brand of flavored drink mix",
+    "year": "1927",
     "sitelinks": "19"
   },
   {
@@ -490,11 +511,11 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1588515",
-    "itemLabel": "Mon Chéri",
-    "description": "trademark",
-    "year": "1956",
-    "sitelinks": "19"
+    "item": "http://www.wikidata.org/entity/Q1862698",
+    "itemLabel": "Tiger Beer",
+    "description": "Singaporean brand of beer",
+    "year": "1932",
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1269232",
@@ -511,10 +532,10 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1899311",
-    "itemLabel": "Cornetto",
-    "description": "type of ice cream",
-    "year": "1959",
+    "item": "http://www.wikidata.org/entity/Q1538163",
+    "itemLabel": "Gordon's London Dry Gin",
+    "description": "alcohol brand",
+    "year": "1769",
     "sitelinks": "18"
   },
   {
@@ -525,13 +546,6 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q707412",
-    "itemLabel": "Sinalco",
-    "description": "trademark",
-    "year": "1902",
-    "sitelinks": "18"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2168523",
     "itemLabel": "The Famous Grouse",
     "description": "brand of Scotch whisky",
@@ -539,32 +553,18 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1531983",
-    "itemLabel": "Kool-Aid",
-    "description": "brand of flavored drink mix",
-    "year": "1927",
+    "item": "http://www.wikidata.org/entity/Q1899311",
+    "itemLabel": "Cornetto",
+    "description": "type of ice cream",
+    "year": "1959",
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1538163",
-    "itemLabel": "Gordon's London Dry Gin",
-    "description": "alcohol brand",
-    "year": "1769",
+    "item": "http://www.wikidata.org/entity/Q2085762",
+    "itemLabel": "Philadelphia Cream Cheese",
+    "description": "brand of cheese product",
+    "year": "1872",
     "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1862698",
-    "itemLabel": "Tiger Beer",
-    "description": "Singaporean brand of beer",
-    "year": "1932",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4119080",
-    "itemLabel": "Eggo",
-    "description": "brand of frozen waffles",
-    "year": "1953",
-    "sitelinks": "17"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2140520",
@@ -574,16 +574,9 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1370611",
-    "itemLabel": "Estrella Damm",
-    "description": "trademark",
-    "year": "1876",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1378288",
     "itemLabel": "Free Beer",
-    "description": "open source beer",
+    "description": "Open-source and copyleft beer movement",
     "year": "2004",
     "sitelinks": "17"
   },
@@ -595,31 +588,10 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2916558",
-    "itemLabel": "Orbit",
-    "description": "brand of chewing gum",
-    "year": "1899",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1059233",
-    "itemLabel": "Kinder Chocolate",
-    "description": "Brand of chocolate bars",
-    "year": "1968",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q187155",
-    "itemLabel": "Tanqueray",
+    "item": "http://www.wikidata.org/entity/Q1370611",
+    "itemLabel": "Estrella Damm",
     "description": "trademark",
-    "year": "1830",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2085762",
-    "itemLabel": "Philadelphia Cream Cheese",
-    "description": "brand of cheese product",
-    "year": "1872",
+    "year": "1876",
     "sitelinks": "17"
   },
   {
@@ -630,10 +602,38 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4119080",
+    "itemLabel": "Eggo",
+    "description": "brand of frozen waffles",
+    "year": "1953",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187155",
+    "itemLabel": "Tanqueray",
+    "description": "trademark",
+    "year": "1830",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2916558",
+    "itemLabel": "Orbit",
+    "description": "brand of chewing gum",
+    "year": "1899",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q585992",
     "itemLabel": "Southern Comfort",
     "description": "American liqueur made from neutral spirits with fruit, spice and whiskey flavorings.",
     "year": "1874",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1059233",
+    "itemLabel": "Kinder Chocolate",
+    "description": "Brand of chocolate bars",
+    "year": "1968",
     "sitelinks": "17"
   },
   {
@@ -644,17 +644,17 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2348879",
-    "itemLabel": "Viennetta",
-    "description": "brand of ice cream dessert",
-    "year": "1982",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1763924",
     "itemLabel": "Beefeater Gin",
     "description": "brand of gin",
     "year": "1876",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2348879",
+    "itemLabel": "Viennetta",
+    "description": "brand of ice cream dessert",
+    "year": "1982",
     "sitelinks": "16"
   },
   {
@@ -665,31 +665,10 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3310476",
-    "itemLabel": "Froot Loops",
-    "description": "breakfast cereal made by Kellogg's",
-    "year": "1962",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q897293",
     "itemLabel": "Brahma",
     "description": "trademark",
     "year": "1888",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2090221",
-    "itemLabel": "Heartbrand",
-    "description": "group of ice cream brands",
-    "year": "1920",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1632941",
-    "itemLabel": "Hubba Bubba",
-    "description": "brand of bubble gum",
-    "year": "1979",
     "sitelinks": "15"
   },
   {
@@ -700,66 +679,31 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q176740",
-    "itemLabel": "Activia",
-    "description": "Dairy brand",
-    "year": "1987",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q3310476",
+    "itemLabel": "Froot Loops",
+    "description": "breakfast cereal made by Kellogg's",
+    "year": "1962",
+    "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q557614",
-    "itemLabel": "McVitie's",
-    "description": "British snack food brand",
-    "year": "1830",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q1632941",
+    "itemLabel": "Hubba Bubba",
+    "description": "brand of bubble gum",
+    "year": "1979",
+    "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q134454567",
-    "itemLabel": "Sagres beer",
-    "description": "Portuguese beer brand",
-    "year": "1940",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q2090221",
+    "itemLabel": "Heartbrand",
+    "description": "group of ice cream brands",
+    "year": "1920",
+    "sitelinks": "15"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1423785",
-    "itemLabel": "Foster's Lager",
-    "description": "beer brand from Australia",
+    "itemLabel": "Foster's",
+    "description": "beer brand produced by Carlton & United Breweries",
     "year": "1888",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16726460",
-    "itemLabel": "Buldak Ramen",
-    "description": "instant dish",
-    "year": "2012",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1143401",
-    "itemLabel": "Cup Noodles",
-    "description": "instant ramen brand by Nissin",
-    "year": "1971",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1827229",
-    "itemLabel": "Lion Bar",
-    "description": "chocolate bar",
-    "year": "1976",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1018081",
-    "itemLabel": "Butterfinger",
-    "description": "candy bar",
-    "year": "1923",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1307165",
-    "itemLabel": "Quality Street",
-    "description": "British brand of confectionery",
-    "year": "1936",
     "sitelinks": "14"
   },
   {
@@ -777,18 +721,67 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q595750",
-    "itemLabel": "Cerveza Quilmes",
-    "description": "Argentine beer brand",
-    "year": "1890",
-    "sitelinks": "13"
+    "item": "http://www.wikidata.org/entity/Q16726460",
+    "itemLabel": "Buldak Ramen",
+    "description": "instant dish",
+    "year": "2012",
+    "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q566095",
-    "itemLabel": "Ben's Original",
-    "description": "brand name for parboiled rice and other related food products",
-    "year": "1943",
-    "sitelinks": "13"
+    "item": "http://www.wikidata.org/entity/Q3493770",
+    "itemLabel": "Pepsi Max",
+    "description": "sugar free cola",
+    "year": "1993",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q176740",
+    "itemLabel": "Activia",
+    "description": "Dairy brand",
+    "year": "1987",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q557614",
+    "itemLabel": "McVitie's",
+    "description": "British snack food brand",
+    "year": "1830",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1018081",
+    "itemLabel": "Butterfinger",
+    "description": "candy bar",
+    "year": "1923",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1143401",
+    "itemLabel": "Cup Noodles",
+    "description": "instant ramen brand by Nissin",
+    "year": "1971",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1827229",
+    "itemLabel": "Lion Bar",
+    "description": "chocolate bar",
+    "year": "1976",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134454567",
+    "itemLabel": "Sagres beer",
+    "description": "Portuguese beer brand",
+    "year": "1940",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1307165",
+    "itemLabel": "Quality Street",
+    "description": "British brand of confectionery",
+    "year": "1936",
+    "sitelinks": "14"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134899",
@@ -798,10 +791,10 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2986930",
-    "itemLabel": "Zlatý Bažant",
-    "description": "Slovak beer brand",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q595750",
+    "itemLabel": "Cerveza Quilmes",
+    "description": "Argentine beer brand",
+    "year": "1890",
     "sitelinks": "13"
   },
   {
@@ -812,10 +805,10 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15410057",
-    "itemLabel": "Kinder",
-    "description": "brand of chocolate products owned by Ferrero SpA",
-    "year": "1968",
+    "item": "http://www.wikidata.org/entity/Q2986930",
+    "itemLabel": "Zlatý Bažant",
+    "description": "Slovak beer brand",
+    "year": "1969",
     "sitelinks": "13"
   },
   {
@@ -826,10 +819,10 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4039669",
-    "itemLabel": "Grant's",
-    "description": "scotch whisky",
-    "year": "1887",
+    "item": "http://www.wikidata.org/entity/Q15410057",
+    "itemLabel": "Kinder",
+    "description": "brand of chocolate products owned by Ferrero SpA",
+    "year": "1968",
     "sitelinks": "13"
   },
   {
@@ -840,10 +833,31 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q455721",
-    "itemLabel": "Cracker Jack",
-    "description": "American brand of snack food",
-    "year": "1896",
+    "item": "http://www.wikidata.org/entity/Q4039669",
+    "itemLabel": "Grant's",
+    "description": "scotch whisky",
+    "year": "1887",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q566095",
+    "itemLabel": "Ben's Original",
+    "description": "brand name for parboiled rice and other related food products",
+    "year": "1943",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2136612",
+    "itemLabel": "Reese's Peanut Butter Cups",
+    "description": "brand of peanut butter cups",
+    "year": "1928",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2714217",
+    "itemLabel": "Catupiry",
+    "description": "requeijão brand",
+    "year": "1911",
     "sitelinks": "12"
   },
   {
@@ -854,10 +868,10 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q903559",
-    "itemLabel": "Delirium Tremens",
-    "description": "beer",
-    "year": "1989",
+    "item": "http://www.wikidata.org/entity/Q14554958",
+    "itemLabel": "Moon Pie",
+    "description": "confectionery item",
+    "year": "1917",
     "sitelinks": "12"
   },
   {
@@ -868,17 +882,10 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q14554958",
-    "itemLabel": "Moon Pie",
-    "description": "confectionery item",
-    "year": "1917",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1763170",
-    "itemLabel": "Ritz Crackers",
-    "description": "brand of snack cracker",
-    "year": "1934",
+    "item": "http://www.wikidata.org/entity/Q1399467",
+    "itemLabel": "Jose Cuervo",
+    "description": "brand of tequila that was founded in 1795 by Don Jose Antonio de Cuervo",
+    "year": "1795",
     "sitelinks": "12"
   },
   {
@@ -896,17 +903,17 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2136612",
-    "itemLabel": "Reese's Peanut Butter Cups",
-    "description": "brand of peanut butter cups",
-    "year": "1928",
+    "item": "http://www.wikidata.org/entity/Q455721",
+    "itemLabel": "Cracker Jack",
+    "description": "American brand of snack food",
+    "year": "1896",
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2714217",
-    "itemLabel": "Catupiry",
-    "description": "requeijão brand",
-    "year": "1911",
+    "item": "http://www.wikidata.org/entity/Q1763170",
+    "itemLabel": "Ritz Crackers",
+    "description": "brand of snack cracker",
+    "year": "1934",
     "sitelinks": "12"
   },
   {
@@ -917,10 +924,17 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q468828",
-    "itemLabel": "Balisto",
-    "description": "brand of biscuits",
-    "year": "1981",
+    "item": "http://www.wikidata.org/entity/Q1073087",
+    "itemLabel": "Smithwick's",
+    "description": "Irish beer brand",
+    "year": "1710",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3031783",
+    "itemLabel": "Odwalla",
+    "description": "company",
+    "year": "1980",
     "sitelinks": "11"
   },
   {
@@ -938,6 +952,41 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q251740",
+    "itemLabel": "Russian Standard",
+    "description": "Russian premium vodka brand",
+    "year": "1992",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3076217",
+    "itemLabel": "Dewar's",
+    "description": "Scotch whisky brand",
+    "year": "1846",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3495663",
+    "itemLabel": "Chopin Vodka",
+    "description": "single-ingredient vodka",
+    "year": "1992",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q468828",
+    "itemLabel": "Balisto",
+    "description": "brand of biscuits",
+    "year": "1981",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q828367",
+    "itemLabel": "Bertolli",
+    "description": "trademark",
+    "year": "1865",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q776034",
     "itemLabel": "Twizzlers",
     "description": "brand of candy produced by Hershey",
@@ -952,66 +1001,10 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3076217",
-    "itemLabel": "Dewar's",
-    "description": "Scotch whisky brand",
-    "year": "1846",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q828367",
-    "itemLabel": "Bertolli",
-    "description": "trademark",
-    "year": "1865",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3495663",
-    "itemLabel": "Chopin Vodka",
-    "description": "single-ingredient vodka",
-    "year": "1992",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q251740",
-    "itemLabel": "Russian Standard",
-    "description": "Russian premium vodka brand",
-    "year": "1992",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3031783",
-    "itemLabel": "Odwalla",
-    "description": "company",
-    "year": "1980",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1399467",
-    "itemLabel": "Jose Cuervo",
-    "description": "brand of tequila that was founded in 1795 by Don Jose Antonio de Cuervo",
-    "year": "1795",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3907640",
-    "itemLabel": "Polo mint",
-    "description": "British brand of confectionery",
-    "year": "1948",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q971751",
-    "itemLabel": "Bintang Beer",
-    "description": "Indonesia beer brand",
-    "year": "1929",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1073087",
-    "itemLabel": "Smithwick's",
-    "description": "Irish beer brand",
-    "year": "1710",
+    "item": "http://www.wikidata.org/entity/Q798067",
+    "itemLabel": "Karhu",
+    "description": "Finnish beer brand",
+    "year": "1920",
     "sitelinks": "10"
   },
   {
@@ -1022,10 +1015,10 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5507019",
-    "itemLabel": "Fucking Hell",
-    "description": "type of beer",
-    "year": "2011",
+    "item": "http://www.wikidata.org/entity/Q971751",
+    "itemLabel": "Bintang Beer",
+    "description": "Indonesia beer brand",
+    "year": "1929",
     "sitelinks": "10"
   },
   {
@@ -1036,10 +1029,17 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q798067",
-    "itemLabel": "Karhu",
-    "description": "Finnish beer brand",
-    "year": "1920",
+    "item": "http://www.wikidata.org/entity/Q2598611",
+    "itemLabel": "Celebrations",
+    "description": "confectionery brand",
+    "year": "1997",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3907640",
+    "itemLabel": "Polo mint",
+    "description": "British brand of confectionery",
+    "year": "1948",
     "sitelinks": "10"
   },
   {
@@ -1064,6 +1064,27 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5507019",
+    "itemLabel": "Fucking Hell",
+    "description": "type of beer",
+    "year": "2011",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1049501",
+    "itemLabel": "Extra",
+    "description": "brand of chewing gum",
+    "year": "1984",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1150860",
+    "itemLabel": "Cîroc",
+    "description": "brand of French alcoholic beverages",
+    "year": "2003",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1798985",
     "itemLabel": "Skyy Vodka",
     "description": "brand of vodka",
@@ -1078,34 +1099,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1049501",
-    "itemLabel": "Extra",
-    "description": "brand of chewing gum",
-    "year": "1984",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2598611",
-    "itemLabel": "Celebrations",
-    "description": "confectionery brand",
-    "year": "1997",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1150860",
-    "itemLabel": "Cîroc",
-    "description": "brand of French alcoholic beverages",
-    "year": "2003",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1871906",
-    "itemLabel": "Lav pivo",
-    "description": "Serbian beer brand",
-    "year": "1892",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2388771",
     "itemLabel": "Tripel Karmeliet",
     "description": "Belgian beer",
@@ -1113,31 +1106,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1056400",
-    "itemLabel": "Bucanero Brewery S.A.",
-    "description": "brewery in Cuba",
-    "year": "1997",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9397571",
-    "itemLabel": "Żubr",
-    "description": "beer from Poland",
-    "year": "1768",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4816890",
-    "itemLabel": "Cappy",
-    "description": "Coca-Cola Company soft drink brand",
-    "year": "1998",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4898793",
-    "itemLabel": "Betty Crocker",
-    "description": "brand",
-    "year": "1921",
+    "item": "http://www.wikidata.org/entity/Q1871906",
+    "itemLabel": "Lav pivo",
+    "description": "Serbian beer brand",
+    "year": "1892",
     "sitelinks": "9"
   },
   {
@@ -1155,94 +1127,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3503168",
-    "itemLabel": "Żywiec",
-    "description": "beer",
-    "year": "1856",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15267446",
-    "itemLabel": "A&W Root Beer",
-    "description": "root beer brand",
-    "year": "1919",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1817063",
-    "itemLabel": "Lemon & Paeroa",
-    "description": "New Zealand soft drink",
-    "year": "1907",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2975184",
-    "itemLabel": "Clamato",
-    "description": "drink made of reconstituted tomato juice concentrate flavored with spices and clam broth",
-    "year": "1969",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1900223",
-    "itemLabel": "Rolo",
-    "description": "chocolate-covered caramel candy",
-    "year": "1937",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5713678",
-    "itemLabel": "Hendrick's Gin",
-    "description": "Scottish gin brand",
-    "year": "1999",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8086165",
-    "itemLabel": "Juicy Fruit",
-    "description": "brand of chewing gum produced by the Wrigley Company",
-    "year": "1893",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1758887",
-    "itemLabel": "Maker's Mark",
-    "description": "small-batch bourbon whisky that is distilled in Loretto, Kentucky, by Beam Suntory",
-    "year": "1889",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1949371",
-    "itemLabel": "Moskovskaya vodka",
-    "description": "Brand of Russian vodka",
-    "year": "1894",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q17051519",
-    "itemLabel": "Maruchan",
-    "description": "Japanese brand of instant ramen noodles",
-    "year": "1972",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107071944",
-    "itemLabel": "Takis",
-    "description": "Mexican snack food",
-    "year": "1999",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q21286736",
-    "itemLabel": "Samuel Adams",
-    "description": "American brand of beer",
-    "year": "1984",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1748014",
-    "itemLabel": "Baby Ruth",
-    "description": "candy bar",
-    "year": "1921",
+    "item": "http://www.wikidata.org/entity/Q1056400",
+    "itemLabel": "Bucanero Brewery S.A.",
+    "description": "brewery in Cuba",
+    "year": "1997",
     "sitelinks": "9"
   },
   {
@@ -1267,10 +1155,136 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4816890",
+    "itemLabel": "Cappy",
+    "description": "Coca-Cola Company soft drink brand",
+    "year": "1998",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4898793",
+    "itemLabel": "Betty Crocker",
+    "description": "brand",
+    "year": "1921",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7919370",
+    "itemLabel": "Velveeta",
+    "description": "brand of soft cheese",
+    "year": "1918",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17051519",
+    "itemLabel": "Maruchan",
+    "description": "Japanese brand of instant ramen noodles",
+    "year": "1972",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3503168",
+    "itemLabel": "Żywiec",
+    "description": "beer",
+    "year": "1856",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1817063",
+    "itemLabel": "Lemon & Paeroa",
+    "description": "New Zealand soft drink",
+    "year": "1907",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2975184",
+    "itemLabel": "Clamato",
+    "description": "drink made of reconstituted tomato juice concentrate flavored with spices and clam broth",
+    "year": "1969",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9397571",
+    "itemLabel": "Żubr",
+    "description": "beer from Poland",
+    "year": "1768",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7841375",
+    "itemLabel": "Trident",
+    "description": "brand of bubble gum",
+    "year": "1978",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8086165",
+    "itemLabel": "Juicy Fruit",
+    "description": "brand of chewing gum produced by the Wrigley Company",
+    "year": "1893",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15267446",
+    "itemLabel": "A&W Root Beer",
+    "description": "root beer brand",
+    "year": "1919",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107071944",
+    "itemLabel": "Takis",
+    "description": "Mexican snack food",
+    "year": "1999",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1758887",
+    "itemLabel": "Maker's Mark",
+    "description": "small-batch bourbon whisky that is distilled in Loretto, Kentucky, by Beam Suntory",
+    "year": "1889",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1949371",
+    "itemLabel": "Moskovskaya vodka",
+    "description": "Brand of Russian vodka",
+    "year": "1894",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1439975",
     "itemLabel": "Four Roses",
     "description": "trademark",
     "year": "1910",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5713678",
+    "itemLabel": "Hendrick's Gin",
+    "description": "Scottish gin brand",
+    "year": "1999",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21286736",
+    "itemLabel": "Samuel Adams",
+    "description": "American brand of beer",
+    "year": "1984",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1748014",
+    "itemLabel": "Baby Ruth",
+    "description": "candy bar",
+    "year": "1921",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1900223",
+    "itemLabel": "Rolo",
+    "description": "chocolate-covered caramel candy",
+    "year": "1937",
     "sitelinks": "9"
   },
   {
@@ -1288,13 +1302,6 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1035257",
-    "itemLabel": "Cara Pils",
-    "description": "store brand pilsner from Colruyt Group",
-    "year": "1985",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1129508",
     "itemLabel": "Fix",
     "description": "Greek beer brand",
@@ -1302,87 +1309,10 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6409311",
-    "itemLabel": "Lech",
-    "description": "beer from Poland",
-    "year": "1980",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4793617",
-    "itemLabel": "Hershey bar",
-    "description": "Candy bar",
-    "year": "1894",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4922024",
-    "itemLabel": "Black Thunder",
-    "description": "Japanese chocolate bar",
-    "year": "1994",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q477334",
-    "itemLabel": "Edy's Pie",
-    "description": "ice cream bar",
-    "year": "1921",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7919370",
-    "itemLabel": "Velveeta",
-    "description": "brand of soft cheese",
-    "year": "1918",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2053178",
-    "itemLabel": "Mantecol",
-    "description": "Argentine brand of nougat",
-    "year": "1940",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7550050",
-    "itemLabel": "Sobieski Vodka",
-    "description": "Polish vodka brand",
-    "year": "1864",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7841375",
-    "itemLabel": "Trident",
-    "description": "brand of bubble gum",
-    "year": "1978",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8038329",
-    "itemLabel": "Wrigley's Spearmint",
-    "description": "brand of Wrigley's chewing gum",
-    "year": "1893",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1022438",
-    "itemLabel": "C.C. Lemon",
-    "description": "single",
-    "year": "1994",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1044125",
-    "itemLabel": "Caro",
-    "description": "trademark",
-    "year": "1954",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1032091",
-    "itemLabel": "Canadian Club",
-    "description": "brand of whisky from Canada",
-    "year": "1858",
+    "item": "http://www.wikidata.org/entity/Q1035257",
+    "itemLabel": "Cara Pils",
+    "description": "store brand pilsner from Colruyt Group",
+    "year": "1985",
     "sitelinks": "8"
   },
   {
@@ -1390,6 +1320,13 @@
     "itemLabel": "Altoids",
     "description": "brand of breath mints",
     "year": "1780",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4922024",
+    "itemLabel": "Black Thunder",
+    "description": "Japanese chocolate bar",
+    "year": "1994",
     "sitelinks": "8"
   },
   {
@@ -1407,6 +1344,76 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4793617",
+    "itemLabel": "Hershey bar",
+    "description": "Candy bar",
+    "year": "1894",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1022438",
+    "itemLabel": "C.C. Lemon",
+    "description": "single",
+    "year": "1994",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1044125",
+    "itemLabel": "Caro",
+    "description": "trademark",
+    "year": "1954",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6409311",
+    "itemLabel": "Lech",
+    "description": "beer from Poland",
+    "year": "1980",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8038329",
+    "itemLabel": "Wrigley's Spearmint",
+    "description": "brand of Wrigley's chewing gum",
+    "year": "1893",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1032091",
+    "itemLabel": "Canadian Club",
+    "description": "brand of whisky from Canada",
+    "year": "1858",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7550050",
+    "itemLabel": "Sobieski Vodka",
+    "description": "Polish vodka brand",
+    "year": "1864",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q477334",
+    "itemLabel": "Edy's Pie",
+    "description": "ice cream bar",
+    "year": "1921",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2053178",
+    "itemLabel": "Mantecol",
+    "description": "Argentine brand of nougat",
+    "year": "1940",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2061096",
+    "itemLabel": "Edelweiss",
+    "description": "witbier",
+    "year": "1475",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2027249",
     "itemLabel": "Yebisu Beer",
     "description": "beer brand of Sapporo Breweries",
@@ -1414,10 +1421,52 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126392",
-    "itemLabel": "Whoppers",
-    "description": "malted milk balls by Hershey",
-    "year": "1949",
+    "item": "http://www.wikidata.org/entity/Q317402",
+    "itemLabel": "Berliner Kindl",
+    "description": "German beer brand",
+    "year": "1872",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q797517",
+    "itemLabel": "Koff",
+    "description": "Finnish beer brand",
+    "year": "1821",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q760961",
+    "itemLabel": "Karjala",
+    "description": "Finnish lager type beer",
+    "year": "1932",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2270260",
+    "itemLabel": "Popsicle",
+    "description": "brand of ice pops",
+    "year": "1905",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2981339",
+    "itemLabel": "Cocoa Krispies",
+    "description": "cocoa flavored version of Rice Krispies",
+    "year": "1958",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3303481",
+    "itemLabel": "Cinnamon Toast Crunch",
+    "description": "breakfast cereal by General Mills",
+    "year": "1984",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5167367",
+    "itemLabel": "Cool Whip",
+    "description": "brand of imitation whipped cream",
+    "year": "1966",
     "sitelinks": "7"
   },
   {
@@ -1435,24 +1484,10 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3303481",
-    "itemLabel": "Cinnamon Toast Crunch",
-    "description": "breakfast cereal by General Mills",
-    "year": "1984",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7856799",
-    "itemLabel": "Tusker",
-    "description": "Kenyan beer brand owned by East African Breweries",
-    "year": "1922",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q317402",
-    "itemLabel": "Berliner Kindl",
-    "description": "German beer brand",
-    "year": "1872",
+    "item": "http://www.wikidata.org/entity/Q11172466",
+    "itemLabel": "Nissin Chikin Ramen",
+    "description": "Japanese instant noodle brand",
+    "year": "1958",
     "sitelinks": "7"
   },
   {
@@ -1477,24 +1512,17 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q760961",
-    "itemLabel": "Karjala",
-    "description": "Finnish lager type beer",
-    "year": "1932",
+    "item": "http://www.wikidata.org/entity/Q5580153",
+    "itemLabel": "Goldfish",
+    "description": "brand of snacks",
+    "year": "1958",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q797517",
-    "itemLabel": "Koff",
-    "description": "Finnish beer brand",
-    "year": "1821",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4115072",
-    "itemLabel": "Mövenpick Ice Cream",
-    "description": "Swiss brand of ice cream produced by Nestlé",
-    "year": "1948",
+    "item": "http://www.wikidata.org/entity/Q7160341",
+    "itemLabel": "Peeps",
+    "description": "marshmallow candy manufactured by Just Born",
+    "year": "1953",
     "sitelinks": "7"
   },
   {
@@ -1502,6 +1530,13 @@
     "itemLabel": "Newman's Own",
     "description": "American non-profit food company",
     "year": "1982",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7856799",
+    "itemLabel": "Tusker",
+    "description": "Kenyan beer brand owned by East African Breweries",
+    "year": "1922",
     "sitelinks": "7"
   },
   {
@@ -1526,59 +1561,10 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7160341",
-    "itemLabel": "Peeps",
-    "description": "marshmallow candy manufactured by Just Born",
-    "year": "1953",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7691183",
     "itemLabel": "Teacher's Highland Cream",
     "description": "brand of blended Scotch whisky",
     "year": "1884",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2915604",
-    "itemLabel": "Patrón",
-    "description": "brand of tequila products by the Patrón Spirits Company",
-    "year": "1989",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18161195",
-    "itemLabel": "London Pride",
-    "description": "beer",
-    "year": "1959",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2270260",
-    "itemLabel": "Popsicle",
-    "description": "brand of ice pops",
-    "year": "1905",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2981339",
-    "itemLabel": "Cocoa Krispies",
-    "description": "cocoa flavored version of Rice Krispies",
-    "year": "1958",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5167367",
-    "itemLabel": "Cool Whip",
-    "description": "brand of imitation whipped cream",
-    "year": "1966",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11172466",
-    "itemLabel": "Nissin Chikin Ramen",
-    "description": "Japanese instant noodle brand",
-    "year": "1958",
     "sitelinks": "7"
   },
   {
@@ -1589,9 +1575,37 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2915604",
+    "itemLabel": "Patrón",
+    "description": "brand of tequila products by the Patrón Spirits Company",
+    "year": "1989",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4115072",
+    "itemLabel": "Mövenpick Ice Cream",
+    "description": "Swiss brand of ice cream produced by Nestlé",
+    "year": "1948",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18161195",
+    "itemLabel": "London Pride",
+    "description": "beer",
+    "year": "1959",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126392",
+    "itemLabel": "Whoppers",
+    "description": "malted milk balls by Hershey",
+    "year": "1949",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2239073",
     "itemLabel": "Hertog Jan",
-    "description": "Dutch brewery",
+    "description": "brewery in the Netherlands",
     "year": "1915",
     "sitelinks": "6"
   },
@@ -1603,17 +1617,24 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q49853",
-    "itemLabel": "Funyuns",
-    "description": "brand-name onion-flavored corn snack",
-    "year": "1969",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2045297",
     "itemLabel": "Pabst Blue Ribbon",
     "description": "American lager beer",
     "year": "1844",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q263980",
+    "itemLabel": "Soproni",
+    "description": "Hungarian beer mark",
+    "year": "1895",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q503112",
+    "itemLabel": "Pilsen Callao",
+    "description": "trademark",
+    "year": "1863",
     "sitelinks": "6"
   },
   {
@@ -1624,10 +1645,24 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q503112",
-    "itemLabel": "Pilsen Callao",
-    "description": "trademark",
-    "year": "1863",
+    "item": "http://www.wikidata.org/entity/Q1567552",
+    "itemLabel": "Palm Breweries",
+    "description": "Belgian company",
+    "year": "1597",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2358537",
+    "itemLabel": "Reese's Pieces",
+    "description": "American peanut butter candy in shells",
+    "year": "1978",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2381598",
+    "itemLabel": "Shreddies",
+    "description": "breakfast cereal",
+    "year": "1939",
     "sitelinks": "6"
   },
   {
@@ -1645,38 +1680,17 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3640367",
-    "itemLabel": "Pedavena",
-    "description": "Italian beer",
-    "year": "1897",
+    "item": "http://www.wikidata.org/entity/Q2937863",
+    "itemLabel": "Caramilk",
+    "description": "Chocolate brand by Cadbury",
+    "year": "1968",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4570769",
-    "itemLabel": "Pacífico",
-    "description": "Mexican pilsner beer originally brewed in Mazatlán, Sinaloa",
-    "year": "1900",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4763317",
-    "itemLabel": "Angkor Beer",
-    "description": "Cambodian lager",
-    "year": "1963",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5168060",
-    "itemLabel": "Coors Light",
-    "description": "light beer brewed in Golden, Colorado and Milwaukee, Wisconsin",
-    "year": "1978",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5763622",
-    "itemLabel": "Cusqueña",
-    "description": "Peruvian beer brand",
-    "year": "1908",
+    "item": "http://www.wikidata.org/entity/Q3137793",
+    "itemLabel": "Honey Smacks",
+    "description": "breakfast cereals",
+    "year": "1953",
     "sitelinks": "6"
   },
   {
@@ -1694,17 +1708,31 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q600407",
-    "itemLabel": "Old El Paso",
-    "description": "American brand",
-    "year": "1938",
+    "item": "http://www.wikidata.org/entity/Q5089476",
+    "itemLabel": "Cheez-It",
+    "description": "baked cheese crackers",
+    "year": "1921",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q263980",
-    "itemLabel": "Soproni",
-    "description": "Hungarian beer mark",
-    "year": "1895",
+    "item": "http://www.wikidata.org/entity/Q5097475",
+    "itemLabel": "Chiko Roll",
+    "description": "Australian savoury snack",
+    "year": "1951",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8055639",
+    "itemLabel": "Yorkie chocolate bar",
+    "description": "brand of chocolate bar",
+    "year": "1976",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16242256",
+    "itemLabel": "Heath bar",
+    "description": "Candy bar made of Toffee",
+    "year": "1914",
     "sitelinks": "6"
   },
   {
@@ -1719,62 +1747,6 @@
     "itemLabel": "Voll-Damm",
     "description": "beer",
     "year": "1953",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10546701",
-    "itemLabel": "Knob Creek",
-    "description": "Kentucky straight bourbon whiskey produced by Beam Suntory at the Jim Beam distillery in Clermont, KY",
-    "year": "1992",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26236698",
-    "itemLabel": "Trump Vodka",
-    "description": "American brand of vodka produced by The Trump Organization",
-    "year": "2005",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1567552",
-    "itemLabel": "Palm Breweries",
-    "description": "Belgian company",
-    "year": "1597",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7314518",
-    "itemLabel": "Good Humor",
-    "description": "ice cream brand",
-    "year": "1920",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5203166",
-    "itemLabel": "D'Onofrio",
-    "description": "ice cream brand and business in Peru",
-    "year": "1924",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15197142",
-    "itemLabel": "Wispa",
-    "description": "brand of chocolate bar",
-    "year": "1981",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16242256",
-    "itemLabel": "Heath bar",
-    "description": "Candy bar made of Toffee",
-    "year": "1914",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q877072",
-    "itemLabel": "Demae Itcho",
-    "description": "instant noodle",
-    "year": "1968",
     "sitelinks": "6"
   },
   {
@@ -1796,20 +1768,6 @@
     "itemLabel": "Hot Pockets",
     "description": "American brand of microwaveable food",
     "year": "1983",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3306449",
-    "itemLabel": "Sierra Mist",
-    "description": "lemon-lime flavored soft drink",
-    "year": "1999",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4905956",
-    "itemLabel": "Big League Chew",
-    "description": "chewing gum brand",
-    "year": "1980",
     "sitelinks": "6"
   },
   {
@@ -1848,24 +1806,52 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8055639",
-    "itemLabel": "Yorkie chocolate bar",
+    "item": "http://www.wikidata.org/entity/Q15197142",
+    "itemLabel": "Wispa",
     "description": "brand of chocolate bar",
-    "year": "1976",
+    "year": "1981",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1142622",
-    "itemLabel": "Stabburet",
-    "description": "Norwegian food brand",
-    "year": "1943",
+    "item": "http://www.wikidata.org/entity/Q3640367",
+    "itemLabel": "Pedavena",
+    "description": "Italian beer",
+    "year": "1897",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5451712",
-    "itemLabel": "Fireball Cinnamon Whisky",
-    "description": "cinnamon-flavoured whisky-based liqueur",
-    "year": "1984",
+    "item": "http://www.wikidata.org/entity/Q4570769",
+    "itemLabel": "Pacífico",
+    "description": "Mexican pilsner beer originally brewed in Mazatlán, Sinaloa",
+    "year": "1900",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4763317",
+    "itemLabel": "Angkor Beer",
+    "description": "Cambodian lager",
+    "year": "1963",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5168060",
+    "itemLabel": "Coors Light",
+    "description": "light beer brewed in Golden, Colorado and Milwaukee, Wisconsin",
+    "year": "1978",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5763622",
+    "itemLabel": "Cusqueña",
+    "description": "Peruvian beer brand",
+    "year": "1908",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26236698",
+    "itemLabel": "Trump Vodka",
+    "description": "American brand of vodka produced by The Trump Organization",
+    "year": "2005",
     "sitelinks": "6"
   },
   {
@@ -1876,10 +1862,31 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4905956",
+    "itemLabel": "Big League Chew",
+    "description": "chewing gum brand",
+    "year": "1980",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q8032660",
     "itemLabel": "Woodford Reserve",
     "description": "premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation",
     "year": "1865",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10546701",
+    "itemLabel": "Knob Creek",
+    "description": "Kentucky straight bourbon whiskey produced by Beam Suntory at the Jim Beam distillery in Clermont, KY",
+    "year": "1992",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3306449",
+    "itemLabel": "Sierra Mist",
+    "description": "lemon-lime flavored soft drink",
+    "year": "1999",
     "sitelinks": "6"
   },
   {
@@ -1897,10 +1904,59 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5203166",
+    "itemLabel": "D'Onofrio",
+    "description": "ice cream brand and business in Peru",
+    "year": "1924",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5451712",
+    "itemLabel": "Fireball Cinnamon Whisky",
+    "description": "cinnamon-flavoured whisky-based liqueur",
+    "year": "1984",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7314518",
+    "itemLabel": "Good Humor",
+    "description": "ice cream brand",
+    "year": "1920",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q87193814",
     "itemLabel": "Peroni Beer",
     "description": "Italian beer brand",
     "year": "1846",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49853",
+    "itemLabel": "Funyuns",
+    "description": "brand-name onion-flavored corn snack",
+    "year": "1969",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q600407",
+    "itemLabel": "Old El Paso",
+    "description": "American brand",
+    "year": "1938",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q877072",
+    "itemLabel": "Demae Itcho",
+    "description": "instant noodle",
+    "year": "1968",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1142622",
+    "itemLabel": "Stabburet",
+    "description": "Norwegian food brand",
+    "year": "1943",
     "sitelinks": "6"
   },
   {
@@ -1911,94 +1967,10 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2358537",
-    "itemLabel": "Reese's Pieces",
-    "description": "American peanut butter candy in shells",
-    "year": "1978",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2381598",
-    "itemLabel": "Shreddies",
-    "description": "breakfast cereal",
-    "year": "1939",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2937863",
-    "itemLabel": "Caramilk",
-    "description": "Chocolate brand by Cadbury",
-    "year": "1968",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3137793",
-    "itemLabel": "Honey Smacks",
-    "description": "breakfast cereals",
-    "year": "1953",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5089476",
-    "itemLabel": "Cheez-It",
-    "description": "baked cheese crackers",
-    "year": "1921",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5097475",
-    "itemLabel": "Chiko Roll",
-    "description": "Australian savoury snack",
-    "year": "1951",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5580153",
-    "itemLabel": "Goldfish",
-    "description": "brand of snacks",
-    "year": "1958",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1828277",
     "itemLabel": "Brouwerij De Molen",
     "description": "brewery in Bodegraven, Netherlands",
     "year": "2004",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3472452",
-    "itemLabel": "No Name",
-    "description": "Canadian line of generic brand grocery and household products",
-    "year": "1978",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3532658",
-    "itemLabel": "Tostitos",
-    "description": "American brand of snacks",
-    "year": "1979",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3965203",
-    "itemLabel": "Kraft Singles",
-    "description": "Processed cheese product",
-    "year": "1949",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4041258",
-    "itemLabel": "Idaho Spud",
-    "description": "Candy bar",
-    "year": "1918",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4413006",
-    "itemLabel": "Tupla",
-    "description": "Finnish chocolate bar brand",
-    "year": "1960",
     "sitelinks": "5"
   },
   {
@@ -2009,45 +1981,17 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3625680",
-    "itemLabel": "Tecate",
-    "description": "Mexican beer brand",
-    "year": "1943",
+    "item": "http://www.wikidata.org/entity/Q795663",
+    "itemLabel": "Kronenbourg",
+    "description": "beer brand produced by Brasseries Kronenbourg",
+    "year": "1947",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5431739",
-    "itemLabel": "Falcon Brewery",
-    "description": "Swedish brewery company",
-    "year": "1896",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8843322",
-    "itemLabel": "Estrella de Levante",
-    "description": "Spanish brewery",
-    "year": "1963",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12794668",
-    "itemLabel": "Laško",
-    "description": "beer",
-    "year": "1825",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4781194",
-    "itemLabel": "Apple Jacks",
-    "description": "breakfast cereal by Kellogg's",
-    "year": "1965",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5084112",
-    "itemLabel": "Charleston Chew",
-    "description": "candy bar",
-    "year": "1925",
+    "item": "http://www.wikidata.org/entity/Q900342",
+    "itemLabel": "Ariana Brewery",
+    "description": "former Bulgarian brewery",
+    "year": "1884",
     "sitelinks": "5"
   },
   {
@@ -2072,59 +2016,101 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3500299",
-    "itemLabel": "Strela",
-    "description": "beer from Cape Verde",
-    "year": "1996",
+    "item": "http://www.wikidata.org/entity/Q3110068",
+    "itemLabel": "Golden Grahams",
+    "description": "breakfast cereal made by Cereal Partners",
+    "year": "1976",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q699080",
-    "itemLabel": "Peek Freans",
-    "description": "former biscuit company based in London, now a global brand",
-    "year": "1857",
+    "item": "http://www.wikidata.org/entity/Q5506553",
+    "itemLabel": "Fry's Turkish Delight",
+    "description": "Chocolate bar",
+    "year": "1914",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16323131",
-    "itemLabel": "100 Pipers",
-    "description": "blended Scotch whisky",
+    "item": "http://www.wikidata.org/entity/Q5084112",
+    "itemLabel": "Charleston Chew",
+    "description": "candy bar",
+    "year": "1925",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5496835",
+    "itemLabel": "Freddo",
+    "description": "Chocolate bar brand of Cadbury",
+    "year": "1930",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3532658",
+    "itemLabel": "Tostitos",
+    "description": "American brand of snacks",
+    "year": "1979",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3965203",
+    "itemLabel": "Kraft Singles",
+    "description": "Processed cheese product",
     "year": "1949",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16323691",
-    "itemLabel": "Cherry Heering",
-    "description": "Cherry liquer",
-    "year": "1818",
+    "item": "http://www.wikidata.org/entity/Q3998215",
+    "itemLabel": "Treets",
+    "description": "brand of confectionery",
+    "year": "1960",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5968519",
-    "itemLabel": "IBC Root Beer",
-    "description": "Sweet carbonated beverage",
-    "year": "1919",
+    "item": "http://www.wikidata.org/entity/Q4041258",
+    "itemLabel": "Idaho Spud",
+    "description": "Candy bar",
+    "year": "1918",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7907710",
-    "itemLabel": "V",
-    "description": "energy drink brand produced by Frucor Beverages",
-    "year": "1997",
+    "item": "http://www.wikidata.org/entity/Q4413006",
+    "itemLabel": "Tupla",
+    "description": "Finnish chocolate bar brand",
+    "year": "1960",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5769794",
-    "itemLabel": "Hires Root Beer",
-    "description": "root beer flavored soft drink",
-    "year": "1876",
+    "item": "http://www.wikidata.org/entity/Q4781194",
+    "itemLabel": "Apple Jacks",
+    "description": "breakfast cereal by Kellogg's",
+    "year": "1965",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q898848",
-    "itemLabel": "Branston",
-    "description": "British food brand",
-    "year": "1922",
+    "item": "http://www.wikidata.org/entity/Q7991676",
+    "itemLabel": "Whatchamacallit",
+    "description": "crisped rice candy bar",
+    "year": "1978",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8055510",
+    "itemLabel": "York Peppermint Pattie",
+    "description": "peppermint confection produced by Hershey",
+    "year": "1940",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16980826",
+    "itemLabel": "Jolly Rancher",
+    "description": "candy brand",
+    "year": "1949",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3500299",
+    "itemLabel": "Strela",
+    "description": "beer from Cape Verde",
+    "year": "1996",
     "sitelinks": "5"
   },
   {
@@ -2163,17 +2149,129 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7991676",
-    "itemLabel": "Whatchamacallit",
-    "description": "crisped rice candy bar",
-    "year": "1978",
+    "item": "http://www.wikidata.org/entity/Q11849588",
+    "itemLabel": "5th Avenue",
+    "description": "candy bar",
+    "year": "1936",
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8055510",
-    "itemLabel": "York Peppermint Pattie",
-    "description": "peppermint confection produced by Hershey",
-    "year": "1940",
+    "item": "http://www.wikidata.org/entity/Q12069294",
+    "itemLabel": "Smarties",
+    "description": "wafer candy sold in the United States and Canada",
+    "year": "1949",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3625680",
+    "itemLabel": "Tecate",
+    "description": "Mexican beer brand",
+    "year": "1943",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5431739",
+    "itemLabel": "Falcon Brewery",
+    "description": "Swedish brewery company",
+    "year": "1896",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8843322",
+    "itemLabel": "Estrella de Levante",
+    "description": "Spanish brewery",
+    "year": "1963",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12794668",
+    "itemLabel": "Laško",
+    "description": "beer",
+    "year": "1825",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5769794",
+    "itemLabel": "Hires Root Beer",
+    "description": "root beer flavored soft drink",
+    "year": "1876",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5968519",
+    "itemLabel": "IBC Root Beer",
+    "description": "Sweet carbonated beverage",
+    "year": "1919",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7907710",
+    "itemLabel": "V",
+    "description": "energy drink brand produced by Frucor Beverages",
+    "year": "1997",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8026452",
+    "itemLabel": "Winterfresh",
+    "description": "brand of chewing gum",
+    "year": "1994",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q116601648",
+    "itemLabel": "Kofila",
+    "description": "chocolate bar with coffee taste made by Orion in Czech Republic since 1923",
+    "year": "1923",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11334905",
+    "itemLabel": "Blue Seal",
+    "description": "Japanese ice cream chain",
+    "year": "1948",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16323131",
+    "itemLabel": "100 Pipers",
+    "description": "blended Scotch whisky",
+    "year": "1949",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16323691",
+    "itemLabel": "Cherry Heering",
+    "description": "Cherry liquer",
+    "year": "1818",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q519297",
+    "itemLabel": "Hpnotiq",
+    "description": "alcoholic beverage",
+    "year": "2001",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q699759",
+    "itemLabel": "Girolamo Luxardo S.p.A",
+    "description": "Italian liqueur factory; alcohol brand",
+    "year": "1821",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4354009",
+    "itemLabel": "Luksusowa vodka",
+    "description": "brand of Vodka from Poland",
+    "year": "1928",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5750772",
+    "itemLabel": "Hibiki",
+    "description": "Japanese blended whisky",
+    "year": "1899",
     "sitelinks": "5"
   },
   {
@@ -2191,48 +2289,6 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8026452",
-    "itemLabel": "Winterfresh",
-    "description": "brand of chewing gum",
-    "year": "1994",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16980826",
-    "itemLabel": "Jolly Rancher",
-    "description": "candy brand",
-    "year": "1949",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q116601648",
-    "itemLabel": "Kofila",
-    "description": "chocolate bar with coffee taste made by Orion in Czech Republic since 1923",
-    "year": "1923",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q906141",
-    "itemLabel": "Slim Fast",
-    "description": "dietary supplement manufacturer",
-    "year": "1977",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4354009",
-    "itemLabel": "Luksusowa vodka",
-    "description": "brand of Vodka from Poland",
-    "year": "1928",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q699759",
-    "itemLabel": "Girolamo Luxardo S.p.A",
-    "description": "Italian liqueur factory; alcohol brand",
-    "year": "1821",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q16108998",
     "itemLabel": "Zaječarsko pivo",
     "description": "beer",
@@ -2247,10 +2303,24 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1216141",
-    "itemLabel": "Negro",
-    "description": "hard candy",
-    "year": "1920",
+    "item": "http://www.wikidata.org/entity/Q699080",
+    "itemLabel": "Peek Freans",
+    "description": "former biscuit company based in London, now a global brand",
+    "year": "1857",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q898848",
+    "itemLabel": "Branston",
+    "description": "British food brand",
+    "year": "1922",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q906141",
+    "itemLabel": "Slim Fast",
+    "description": "dietary supplement manufacturer",
+    "year": "1977",
     "sitelinks": "5"
   },
   {
@@ -2261,52 +2331,10 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3110068",
-    "itemLabel": "Golden Grahams",
-    "description": "breakfast cereal made by Cereal Partners",
-    "year": "1976",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q519297",
-    "itemLabel": "Hpnotiq",
-    "description": "alcoholic beverage",
-    "year": "2001",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5496835",
-    "itemLabel": "Freddo",
-    "description": "Chocolate bar brand of Cadbury",
-    "year": "1930",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5506553",
-    "itemLabel": "Fry's Turkish Delight",
-    "description": "Chocolate bar",
-    "year": "1914",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11334905",
-    "itemLabel": "Blue Seal",
-    "description": "Japanese ice cream chain",
-    "year": "1948",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11849588",
-    "itemLabel": "5th Avenue",
-    "description": "candy bar",
-    "year": "1936",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12069294",
-    "itemLabel": "Smarties",
-    "description": "wafer candy sold in the United States and Canada",
-    "year": "1949",
+    "item": "http://www.wikidata.org/entity/Q1216141",
+    "itemLabel": "Negro",
+    "description": "hard candy",
+    "year": "1920",
     "sitelinks": "5"
   }
 ]

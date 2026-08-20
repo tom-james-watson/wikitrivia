@@ -5,7 +5,15 @@
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1991",
-    "sitelinks": "101"
+    "sitelinks": "102"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52927",
+    "itemLabel": "Charles XIV John of Sweden",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1818",
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134128",
@@ -16,20 +24,12 @@
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q52927",
-    "itemLabel": "Charles XIV John of Sweden",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1818",
-    "sitelinks": "78"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154927",
     "itemLabel": "Haakon VII of Norway",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1905",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q52925",
@@ -40,19 +40,19 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q153586",
-    "itemLabel": "Christian IV of Denmark",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1588",
-    "sitelinks": "66"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154912",
     "itemLabel": "Olav V of Norway",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1957",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153586",
+    "itemLabel": "Christian IV of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1588",
     "sitelinks": "66"
   },
   {
@@ -104,6 +104,14 @@
     "sitelinks": "58"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q156187",
+    "itemLabel": "Frederick V of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1746",
+    "sitelinks": "57"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q52928",
     "itemLabel": "Charles XIII of Sweden",
     "positionLabel": "Monarch of Norway",
@@ -112,11 +120,19 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156187",
-    "itemLabel": "Frederick V of Denmark",
+    "item": "http://www.wikidata.org/entity/Q156572",
+    "itemLabel": "Christian VII of Denmark",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
-    "year": "1746",
+    "year": "1766",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157781",
+    "itemLabel": "Christian VIII of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1814",
     "sitelinks": "56"
   },
   {
@@ -128,20 +144,12 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q156572",
-    "itemLabel": "Christian VII of Denmark",
+    "item": "http://www.wikidata.org/entity/Q155002",
+    "itemLabel": "Frederick VI of Denmark",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
-    "year": "1766",
-    "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q157781",
-    "itemLabel": "Christian VIII of Denmark",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1814",
-    "sitelinks": "55"
+    "year": "1808",
+    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154041",
@@ -149,14 +157,6 @@
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1559",
-    "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q155002",
-    "itemLabel": "Frederick VI of Denmark",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1808",
     "sitelinks": "53"
   },
   {
@@ -181,7 +181,15 @@
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1699",
-    "sitelinks": "50"
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154993",
+    "itemLabel": "Christian VI of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1730",
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157776",
@@ -192,19 +200,19 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154993",
-    "itemLabel": "Christian VI of Denmark",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1730",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q157789",
     "itemLabel": "Frederick I of Denmark",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1523",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161958",
+    "itemLabel": "Eric of Pomerania",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1389",
     "sitelinks": "48"
   },
   {
@@ -216,20 +224,12 @@
     "sitelinks": "48"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q161958",
-    "itemLabel": "Eric of Pomerania",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1389",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q310433",
     "itemLabel": "Karl Knutsson",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1449",
-    "sitelinks": "47"
+    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157793",
@@ -237,7 +237,7 @@
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1670",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213791",
@@ -272,19 +272,19 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q311996",
-    "itemLabel": "Magnus Barefoot",
-    "positionLabel": "Monarch of Norway",
-    "sexLabel": "male",
-    "year": "1093",
-    "sitelinks": "42"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q313005",
     "itemLabel": "Sigurd the Crusader",
     "positionLabel": "Monarch of Norway",
     "sexLabel": "male",
     "year": "1103",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q311996",
+    "itemLabel": "Magnus Barefoot",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "year": "1093",
     "sitelinks": "42"
   },
   {

@@ -32,20 +32,20 @@
     "sitelinks": "47"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q205355",
+    "itemLabel": "Central line",
+    "year": "1900",
+    "adminLabel": "London",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "47"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q216360",
     "itemLabel": "Docklands Light Railway",
     "year": "1987",
     "adminLabel": "Greater London",
     "countryLabel": "United Kingdom",
     "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q205355",
-    "itemLabel": "Central line",
-    "year": "1900",
-    "adminLabel": "London",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19891",
@@ -83,7 +83,7 @@
     "item": "http://www.wikidata.org/entity/Q377967",
     "itemLabel": "Baikal-Amur Mainline",
     "year": "1984",
-    "adminLabel": "Buryatia",
+    "adminLabel": "Irkutsk Oblast",
     "countryLabel": "Russia",
     "sitelinks": "44"
   },
@@ -104,6 +104,14 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q660895",
+    "itemLabel": "Tōkaidō Shinkansen",
+    "year": "1964",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q207689",
     "itemLabel": "Piccadilly line",
     "year": "1906",
@@ -118,14 +126,6 @@
     "adminLabel": "London Borough of Wandsworth",
     "countryLabel": "United Kingdom",
     "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q660895",
-    "itemLabel": "Tōkaidō Shinkansen",
-    "year": "1964",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
-    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q211265",
@@ -156,7 +156,7 @@
     "itemLabel": "Baghdad Railway",
     "year": "1903",
     "adminLabel": "",
-    "countryLabel": "Iraq",
+    "countryLabel": "Syria",
     "sitelinks": "39"
   },
   {
@@ -240,19 +240,19 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7171560",
-    "itemLabel": "Kalka–Shimla Railway",
-    "year": "1903",
-    "adminLabel": "Himachal Pradesh",
-    "countryLabel": "India",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q175271",
     "itemLabel": "Kaluzhsko-Rizhskaya Line",
     "year": "1958",
     "adminLabel": "Moscow",
     "countryLabel": "Russia",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7171560",
+    "itemLabel": "Kalka–Shimla Railway",
+    "year": "1903",
+    "adminLabel": "Himachal Pradesh",
+    "countryLabel": "India",
     "sitelinks": "33"
   },
   {
@@ -344,14 +344,6 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q693036",
-    "itemLabel": "Yamanote Line",
-    "year": "1885",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q806501",
     "itemLabel": "BTS Skytrain",
     "year": "1999",
@@ -368,10 +360,18 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q693036",
+    "itemLabel": "Yamanote Line",
+    "year": "1885",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q162835",
     "itemLabel": "Trans-Iranian Railway",
     "year": "1938",
-    "adminLabel": "Semnan Province",
+    "adminLabel": "Qom Province",
     "countryLabel": "Iran",
     "sitelinks": "31"
   },
@@ -416,6 +416,22 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q900665",
+    "itemLabel": "Tōhoku Shinkansen",
+    "year": "1982",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q843869",
+    "itemLabel": "High Line",
+    "year": "2009",
+    "adminLabel": "Manhattan",
+    "countryLabel": "United States",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q39158",
     "itemLabel": "Chinese Eastern Railway",
     "year": "1901",
@@ -424,10 +440,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q843869",
-    "itemLabel": "High Line",
-    "year": "2009",
-    "adminLabel": "Manhattan",
+    "item": "http://www.wikidata.org/entity/Q1753108",
+    "itemLabel": "First Transcontinental Railroad",
+    "year": "1869",
+    "adminLabel": "",
     "countryLabel": "United States",
     "sitelinks": "30"
   },
@@ -448,10 +464,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q900665",
-    "itemLabel": "Tōhoku Shinkansen",
-    "year": "1982",
-    "adminLabel": "Tokyo",
+    "item": "http://www.wikidata.org/entity/Q615964",
+    "itemLabel": "San'yō Shinkansen",
+    "year": "1972",
+    "adminLabel": "Osaka Prefecture",
     "countryLabel": "Japan",
     "sitelinks": "29"
   },
@@ -488,14 +504,6 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1753108",
-    "itemLabel": "First Transcontinental Railroad",
-    "year": "1869",
-    "adminLabel": "",
-    "countryLabel": "United States",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1853218",
     "itemLabel": "Moscow Monorail",
     "year": "2004",
@@ -525,14 +533,6 @@
     "year": "1959",
     "adminLabel": "Haifa",
     "countryLabel": "Israel",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q615964",
-    "itemLabel": "San'yō Shinkansen",
-    "year": "1972",
-    "adminLabel": "Yamaguchi Prefecture",
-    "countryLabel": "Japan",
     "sitelinks": "28"
   },
   {
@@ -576,14 +576,6 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q737791",
-    "itemLabel": "Haramain high-speed railway",
-    "year": "2018",
-    "adminLabel": "Saudi Arabia",
-    "countryLabel": "Saudi Arabia",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1073046",
     "itemLabel": "Ginza Line",
     "year": "1927",
@@ -592,11 +584,27 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q737791",
+    "itemLabel": "Haramain high-speed railway",
+    "year": "2018",
+    "adminLabel": "Saudi Arabia",
+    "countryLabel": "Saudi Arabia",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q277177",
     "itemLabel": "Bernina railway line",
     "year": "1908",
     "adminLabel": "Canton of the Grisons",
-    "countryLabel": "Switzerland",
+    "countryLabel": "Italy",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1341305",
+    "itemLabel": "Yokohama Municipal Subway",
+    "year": "1972",
+    "adminLabel": "Yokohama",
+    "countryLabel": "Japan",
     "sitelinks": "27"
   },
   {
@@ -624,14 +632,6 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1147028",
-    "itemLabel": "Marunouchi Line",
-    "year": "1954",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q519861",
     "itemLabel": "Line 1",
     "year": "1955",
@@ -640,10 +640,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1341305",
-    "itemLabel": "Yokohama Municipal Subway",
-    "year": "1972",
-    "adminLabel": "Yokohama",
+    "item": "http://www.wikidata.org/entity/Q11370254",
+    "itemLabel": "Kyushu Shinkansen",
+    "year": "2004",
+    "adminLabel": "Kagoshima Prefecture",
     "countryLabel": "Japan",
     "sitelinks": "26"
   },
@@ -656,12 +656,12 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1347825",
-    "itemLabel": "RER B",
-    "year": "1977",
-    "adminLabel": "Paris",
-    "countryLabel": "France",
-    "sitelinks": "25"
+    "item": "http://www.wikidata.org/entity/Q1147028",
+    "itemLabel": "Marunouchi Line",
+    "year": "1954",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q99708",
@@ -672,11 +672,19 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q856747",
-    "itemLabel": "Vatican Railway",
-    "year": "1934",
-    "adminLabel": "Vatican City",
-    "countryLabel": "Vatican City",
+    "item": "http://www.wikidata.org/entity/Q1347825",
+    "itemLabel": "RER B",
+    "year": "1977",
+    "adminLabel": "Paris",
+    "countryLabel": "France",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q759229",
+    "itemLabel": "North–South Line",
+    "year": "1987",
+    "adminLabel": "Singapore",
+    "countryLabel": "Singapore",
     "sitelinks": "25"
   },
   {
@@ -688,11 +696,11 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q11370254",
-    "itemLabel": "Kyushu Shinkansen",
-    "year": "2004",
-    "adminLabel": "Kagoshima Prefecture",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q856747",
+    "itemLabel": "Vatican Railway",
+    "year": "1934",
+    "adminLabel": "Vatican City",
+    "countryLabel": "Vatican City",
     "sitelinks": "25"
   },
   {
@@ -728,6 +736,14 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1895425",
+    "itemLabel": "East–West Line",
+    "year": "1989",
+    "adminLabel": "Singapore",
+    "countryLabel": "Singapore",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q741818",
     "itemLabel": "RER A",
     "year": "1977",
@@ -760,18 +776,18 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q831794",
-    "itemLabel": "East London Line",
-    "year": "2010",
-    "adminLabel": "London Borough of Croydon",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q375044",
     "itemLabel": "Stockton and Darlington Railway",
     "year": "1825",
     "adminLabel": "County Durham",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q831794",
+    "itemLabel": "East London Line",
+    "year": "2010",
+    "adminLabel": "London Borough of Croydon",
     "countryLabel": "United Kingdom",
     "sitelinks": "24"
   },
@@ -800,14 +816,6 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3289",
-    "itemLabel": "Bothnia Line",
-    "year": "2010",
-    "adminLabel": "Sweden",
-    "countryLabel": "Sweden",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q99720",
     "itemLabel": "U6",
     "year": "1923",
@@ -832,19 +840,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q759229",
-    "itemLabel": "North–South Line (Singapore)",
-    "year": "1987",
-    "adminLabel": "Singapore",
-    "countryLabel": "Singapore",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q585986",
-    "itemLabel": "Kalininsko-Solntsevskaya line",
-    "year": "1979",
-    "adminLabel": "Moscow",
-    "countryLabel": "Russia",
+    "item": "http://www.wikidata.org/entity/Q3289",
+    "itemLabel": "Bothnia Line",
+    "year": "2010",
+    "adminLabel": "Sweden",
+    "countryLabel": "Sweden",
     "sitelinks": "23"
   },
   {
@@ -856,11 +856,19 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1190152",
-    "itemLabel": "Tōkaidō Main Line",
-    "year": "1872",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q585986",
+    "itemLabel": "Kalininsko-Solntsevskaya line",
+    "year": "1979",
+    "adminLabel": "Moscow",
+    "countryLabel": "Russia",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q223656",
+    "itemLabel": "Gotthard railway",
+    "year": "1874",
+    "adminLabel": "Canton of Zug",
+    "countryLabel": "Switzerland",
     "sitelinks": "23"
   },
   {
@@ -872,11 +880,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q223656",
-    "itemLabel": "Gotthard railway",
-    "year": "1874",
-    "adminLabel": "Canton of Ticino",
-    "countryLabel": "Switzerland",
+    "item": "http://www.wikidata.org/entity/Q1190152",
+    "itemLabel": "Tōkaidō Main Line",
+    "year": "1872",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
     "sitelinks": "23"
   },
   {
@@ -896,19 +904,19 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1895425",
-    "itemLabel": "East–West Line (Singapore)",
-    "year": "1989",
-    "adminLabel": "Singapore",
-    "countryLabel": "Singapore",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q99729",
     "itemLabel": "U8",
     "year": "1927",
     "adminLabel": "Berlin",
     "countryLabel": "Germany",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1037409",
+    "itemLabel": "Hokuriku Shinkansen",
+    "year": "1997",
+    "adminLabel": "Fukui Prefecture",
+    "countryLabel": "Japan",
     "sitelinks": "22"
   },
   {
@@ -928,11 +936,19 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17501",
-    "itemLabel": "Seoul Subway Line 2",
-    "year": "1980",
-    "adminLabel": "Seoul",
-    "countryLabel": "South Korea",
+    "item": "http://www.wikidata.org/entity/Q509496",
+    "itemLabel": "Brenner Railway",
+    "year": "1859",
+    "adminLabel": "Trentino-South Tyrol",
+    "countryLabel": "Austria",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q481698",
+    "itemLabel": "Amur Yakutsk Mainline",
+    "year": "2013",
+    "adminLabel": "Sakha",
+    "countryLabel": "Russia",
     "sitelinks": "22"
   },
   {
@@ -944,19 +960,19 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q277604",
-    "itemLabel": "High Speed 1",
-    "year": "2003",
-    "adminLabel": "Essex",
-    "countryLabel": "United Kingdom",
+    "item": "http://www.wikidata.org/entity/Q17501",
+    "itemLabel": "Seoul Subway Line 2",
+    "year": "1980",
+    "adminLabel": "Seoul",
+    "countryLabel": "South Korea",
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q762347",
-    "itemLabel": "Karasuma Line",
-    "year": "1981",
-    "adminLabel": "Kyoto",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q277604",
+    "itemLabel": "High Speed 1",
+    "year": "2003",
+    "adminLabel": "Greater London",
+    "countryLabel": "United Kingdom",
     "sitelinks": "22"
   },
   {
@@ -968,11 +984,19 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1075089",
-    "itemLabel": "Chiyoda Line",
-    "year": "1969",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q525056",
+    "itemLabel": "Berlin Ringbahn",
+    "year": "1877",
+    "adminLabel": "Berlin",
+    "countryLabel": "Germany",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1725116",
+    "itemLabel": "North East Line",
+    "year": "2003",
+    "adminLabel": "Singapore",
+    "countryLabel": "Singapore",
     "sitelinks": "21"
   },
   {
@@ -981,6 +1005,14 @@
     "year": "1999",
     "adminLabel": "Paris",
     "countryLabel": "France",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1075089",
+    "itemLabel": "Chiyoda Line",
+    "year": "1969",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
     "sitelinks": "21"
   },
   {
@@ -1024,11 +1056,11 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q509496",
-    "itemLabel": "Brenner Railway",
-    "year": "1859",
-    "adminLabel": "Trentino-South Tyrol",
-    "countryLabel": "Italy",
+    "item": "http://www.wikidata.org/entity/Q1326478",
+    "itemLabel": "Line 1",
+    "year": "1993",
+    "adminLabel": "Xuhui District",
+    "countryLabel": "People's Republic of China",
     "sitelinks": "21"
   },
   {
@@ -1048,10 +1080,18 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1037409",
-    "itemLabel": "Hokuriku Shinkansen",
-    "year": "1997",
-    "adminLabel": "Ishikawa Prefecture",
+    "item": "http://www.wikidata.org/entity/Q762347",
+    "itemLabel": "Karasuma Line",
+    "year": "1981",
+    "adminLabel": "Kyoto",
+    "countryLabel": "Japan",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q912219",
+    "itemLabel": "Jōetsu Shinkansen",
+    "year": "1982",
+    "adminLabel": "Gunma Prefecture",
     "countryLabel": "Japan",
     "sitelinks": "21"
   },
@@ -1072,14 +1112,6 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q525056",
-    "itemLabel": "Berlin Ringbahn",
-    "year": "1877",
-    "adminLabel": "Berlin",
-    "countryLabel": "Germany",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1509576",
     "itemLabel": "Line 3",
     "year": "1967",
@@ -1092,7 +1124,7 @@
     "itemLabel": "Baku–Tbilisi–Kars railway",
     "year": "2017",
     "adminLabel": "Azerbaijan",
-    "countryLabel": "Georgia",
+    "countryLabel": "Azerbaijan",
     "sitelinks": "20"
   },
   {
@@ -1112,14 +1144,6 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200906",
-    "itemLabel": "RER C",
-    "year": "1980",
-    "adminLabel": "Paris",
-    "countryLabel": "France",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1332908",
     "itemLabel": "Fukutoshin Line",
     "year": "1994",
@@ -1128,19 +1152,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q20280",
-    "itemLabel": "Seoul Metropolitan Subway Line 1",
-    "year": "1974",
-    "adminLabel": "Seoul",
-    "countryLabel": "South Korea",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q787305",
-    "itemLabel": "Yūrakuchō Line",
-    "year": "1974",
-    "adminLabel": "Tokyo",
-    "countryLabel": "Japan",
+    "item": "http://www.wikidata.org/entity/Q200906",
+    "itemLabel": "RER C",
+    "year": "1980",
+    "adminLabel": "Paris",
+    "countryLabel": "France",
     "sitelinks": "20"
   },
   {
@@ -1152,11 +1168,19 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q481698",
-    "itemLabel": "Amur Yakutsk Mainline",
-    "year": "2013",
-    "adminLabel": "Sakha",
-    "countryLabel": "Russia",
+    "item": "http://www.wikidata.org/entity/Q787305",
+    "itemLabel": "Yūrakuchō Line",
+    "year": "1974",
+    "adminLabel": "Tokyo",
+    "countryLabel": "Japan",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20280",
+    "itemLabel": "Seoul Metropolitan Subway Line 1",
+    "year": "1974",
+    "adminLabel": "Seoul",
+    "countryLabel": "South Korea",
     "sitelinks": "20"
   },
   {
@@ -1173,14 +1197,6 @@
     "year": "1889",
     "adminLabel": "Alpnach",
     "countryLabel": "Switzerland",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q912219",
-    "itemLabel": "Jōetsu Shinkansen",
-    "year": "1982",
-    "adminLabel": "Gunma Prefecture",
-    "countryLabel": "Japan",
     "sitelinks": "20"
   },
   {

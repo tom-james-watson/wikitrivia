@@ -13,7 +13,7 @@
     "positionLabel": "King of Bohemia",
     "sexLabel": "male",
     "year": "1848",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130834",
@@ -40,6 +40,14 @@
     "sitelinks": "82"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "year": "1711",
+    "sitelinks": "79"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q150611",
     "itemLabel": "Ferdinand I, Holy Roman Emperor",
     "positionLabel": "King of Bohemia",
@@ -48,12 +56,12 @@
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150665",
-    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "item": "http://www.wikidata.org/entity/Q150494",
+    "itemLabel": "Leopold I, Holy Roman Emperor",
     "positionLabel": "King of Bohemia",
     "sexLabel": "male",
-    "year": "1711",
-    "sitelinks": "77"
+    "year": "1657",
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57124",
@@ -62,14 +70,6 @@
     "sexLabel": "male",
     "year": "1419",
     "sitelinks": "73"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q150494",
-    "itemLabel": "Leopold I, Holy Roman Emperor",
-    "positionLabel": "King of Bohemia",
-    "sexLabel": "male",
-    "year": "1657",
-    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51068",
@@ -189,7 +189,7 @@
     "positionLabel": "King of Bohemia",
     "sexLabel": "male",
     "year": "1253",
-    "sitelinks": "48"
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155581",
@@ -208,6 +208,14 @@
     "sitelinks": "48"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q57195",
+    "itemLabel": "Frederick V of the Palatinate",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "year": "1619",
+    "sitelinks": "46"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q116382",
     "itemLabel": "Ladislaus the Posthumous",
     "positionLabel": "King of Bohemia",
@@ -221,14 +229,6 @@
     "positionLabel": "King of Bohemia",
     "sexLabel": "male",
     "year": "1305",
-    "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57195",
-    "itemLabel": "Frederick V of the Palatinate",
-    "positionLabel": "King of Bohemia",
-    "sexLabel": "male",
-    "year": "1619",
     "sitelinks": "45"
   },
   {
@@ -264,19 +264,19 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q275408",
-    "itemLabel": "Henry of Bohemia",
-    "positionLabel": "King of Bohemia",
-    "sexLabel": "male",
-    "year": "1306",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q347013",
     "itemLabel": "Vratislaus II of Bohemia",
     "positionLabel": "King of Bohemia",
     "sexLabel": "male",
     "year": "1085",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q275408",
+    "itemLabel": "Henry of Bohemia",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "year": "1306",
     "sitelinks": "33"
   },
   {

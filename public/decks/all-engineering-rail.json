@@ -72,7 +72,7 @@
   {
     "qid": "Q277604",
     "title": "High Speed 1 opens",
-    "subtitle": "Rail line in Essex, United Kingdom",
+    "subtitle": "Rail line in Greater London, United Kingdom",
     "year": 2003,
     "fact": "High Speed 1 (HS1), officially the Channel Tunnel Rail Link (CTRL), is a 109.9-kilometre (68.3-mile) high-speed railway linking London with the Channel Tunnel.",
     "wikipediaSlug": "High_Speed_1",
@@ -302,7 +302,7 @@
   {
     "qid": "Q1037409",
     "title": "Hokuriku Shinkansen opens",
-    "subtitle": "Rail line in Ishikawa Prefecture, Japan",
+    "subtitle": "Rail line in Fukui Prefecture, Japan",
     "year": 1997,
     "fact": "The Hokuriku Shinkansen is a high-speed Shinkansen railway line connecting Tokyo with Tsuruga in the Hokuriku region of Japan.",
     "wikipediaSlug": "Hokuriku_Shinkansen",
@@ -312,7 +312,7 @@
   {
     "qid": "Q639128",
     "title": "Baghdad Railway opens",
-    "subtitle": "Rail line in Iraq",
+    "subtitle": "Rail line in Syria",
     "year": 1903,
     "fact": "The Baghdad railway, also known as the Berlin–Baghdad railway, was started in 1903 to connect Berlin with the then Ottoman city of Baghdad, from where the Germans wanted to establish a port on the Persian Gulf, with a 1,600-kilometre (1,000 mi) line through modern-day Turkey, Syria, and Iraq.",
     "wikipediaSlug": "Berlin%E2%80%93Baghdad_railway",
@@ -342,7 +342,7 @@
   {
     "qid": "Q615964",
     "title": "San'yō Shinkansen opens",
-    "subtitle": "Rail line in Yamaguchi Prefecture, Japan",
+    "subtitle": "Rail line in Osaka Prefecture, Japan",
     "year": 1972,
     "fact": "The San'yō Shinkansen is a line of the Japanese Shinkansen high-speed rail network, connecting Shin-Osaka in Osaka with Hakata Station in Fukuoka, the two largest cities in western Japan.",
     "wikipediaSlug": "San%27y%C5%8D_Shinkansen",
@@ -370,6 +370,16 @@
     "pageViews": 5030
   },
   {
+    "qid": "Q1725116",
+    "title": "North East Line opens",
+    "subtitle": "Rail line in Singapore",
+    "year": 2003,
+    "fact": "The North East Line (NEL) is a high-capacity Mass Rapid Transit (MRT) line in Singapore.",
+    "wikipediaSlug": "North_East_Line",
+    "image": "NE18_Punggol_Coast_MRT_Platform_A_20241213_161223.jpg",
+    "pageViews": 4934
+  },
+  {
     "qid": "Q211270",
     "title": "Hammersmith & City line opens",
     "subtitle": "Rail line in London Borough of Hammersmith and Fulham, United Kingdom",
@@ -391,7 +401,7 @@
   },
   {
     "qid": "Q1895425",
-    "title": "East–West Line (Singapore) opens",
+    "title": "East–West Line opens",
     "subtitle": "Rail line in Singapore",
     "year": 1989,
     "fact": "The East–West Line (EWL) is a high-capacity Mass Rapid Transit (MRT) line operated by SMRT in Singapore, running from Pasir Ris station in the east to Tuas Link station in the west, with an additional branch between Changi Airport and Tanah Merah stations.",
@@ -441,7 +451,7 @@
   },
   {
     "qid": "Q759229",
-    "title": "North–South Line (Singapore) opens",
+    "title": "North–South Line opens",
     "subtitle": "Rail line in Singapore",
     "year": 1987,
     "fact": "The North–South Line (NSL) is a high-capacity Mass Rapid Transit (MRT) line in Singapore.",
@@ -492,7 +502,7 @@
   {
     "qid": "Q162835",
     "title": "Trans-Iranian Railway opens",
-    "subtitle": "Rail line in Semnan Province, Iran",
+    "subtitle": "Rail line in Qom Province, Iran",
     "year": 1938,
     "fact": "The Trans-Iranian Railway was a major railway building project started in Pahlavi Iran in 1927 and completed in 1938, under the direction of the then-Iranian monarch Reza Shah.",
     "wikipediaSlug": "Trans-Iranian_Railway",
@@ -602,7 +612,7 @@
   {
     "qid": "Q377967",
     "title": "Baikal-Amur Mainline opens",
-    "subtitle": "Rail line in Buryatia, Russia",
+    "subtitle": "Rail line in Irkutsk Oblast, Russia",
     "year": 1984,
     "fact": "The Baikal–Amur Mainline is a 1,520 mm broad-gauge railway line in Russia.",
     "wikipediaSlug": "Baikal%E2%80%93Amur_Mainline",
@@ -842,7 +852,7 @@
   {
     "qid": "Q802523",
     "title": "Baku–Tbilisi–Kars railway opens",
-    "subtitle": "Rail line in Azerbaijan, Georgia",
+    "subtitle": "Rail line in Azerbaijan",
     "year": 2017,
     "fact": "The Baku–Tbilisi–Kars (BTK), or Baku–Tbilisi–Akhalkalaki–Kars railway (BTAK), is a railway connecting Azerbaijan, Georgia and Turkey, which became operational on 30 October 2017 following several years of delays.",
     "wikipediaSlug": "Baku%E2%80%93Tbilisi%E2%80%93Kars_railway",
@@ -888,6 +898,16 @@
     "wikipediaSlug": "Paris_M%C3%A9tro_Line_11",
     "image": "Station_Romainville_Carnot_Métro_Paris_Ligne_11_-_Romainville_(FR93)_-_2024-06-13_-_17.jpg",
     "pageViews": 1735
+  },
+  {
+    "qid": "Q1326478",
+    "title": "Line 1 opens",
+    "subtitle": "Rail line in Xuhui District, China",
+    "year": 1993,
+    "fact": "Line 1 is a north–south line of the Shanghai Metro.",
+    "wikipediaSlug": "Line_1_(Shanghai_Metro)",
+    "image": "Shanghai_Metro_Line1_AC06.JPG",
+    "pageViews": 1712
   },
   {
     "qid": "Q50754",
@@ -952,7 +972,7 @@
   {
     "qid": "Q223656",
     "title": "Gotthard railway opens",
-    "subtitle": "Rail line in Canton of Ticino, Switzerland",
+    "subtitle": "Rail line in Canton of Zug, Switzerland",
     "year": 1874,
     "fact": "The Gotthard railway is the Swiss trans-alpine railway line from northern Switzerland to the canton of Ticino.",
     "wikipediaSlug": "Gotthard_railway",
@@ -1002,7 +1022,7 @@
   {
     "qid": "Q277177",
     "title": "Bernina railway line opens",
-    "subtitle": "Rail line in Canton of the Grisons, Switzerland",
+    "subtitle": "Rail line in Canton of the Grisons, Italy",
     "year": 1908,
     "fact": "The Bernina railway line is a single-track 1,000 mm metre gauge railway line forming part of the Rhaetian Railway (RhB).",
     "wikipediaSlug": "Bernina_railway_line",

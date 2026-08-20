@@ -6,25 +6,25 @@
     "sitelinks": "205",
     "description": "French philosopher, author, and journalist (1913–1960)",
     "nationalityLabel": "French",
-    "occupationLabel": "actor||author||poet||playwright||association football player||journalist||philosopher||opinion journalist||novelist||French resistance fighter||essayist"
+    "occupationLabel": "actor||writer||poet||playwright||association football player||journalist||novelist||philosopher||opinion journalist||essayist||French resistance fighter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7085",
     "itemLabel": "Niels Bohr",
     "year": "1962",
-    "sitelinks": "185",
+    "sitelinks": "186",
     "description": "Danish physicist (1885–1962)",
     "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "chemist||university teacher||association football player||philosopher of science||nuclear physicist"
+    "occupationLabel": "chemist||association football player||university teacher||philosopher of science||nuclear physicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12897",
     "itemLabel": "Pelé",
     "year": "2022",
-    "sitelinks": "181",
+    "sitelinks": "182",
     "description": "Brazilian footballer (1940–2022)",
     "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "actor||composer||politician||musician||association football player||athlete||film actor"
+    "occupationLabel": "actor||composer||politician||association football player||musician||athlete||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q17515",
@@ -33,16 +33,16 @@
     "sitelinks": "174",
     "description": "Argentine football player and manager (1960–2020)",
     "nationalityLabel": "Argentine||Argentinian",
-    "occupationLabel": "actor||association football coach||association football player"
+    "occupationLabel": "actor||association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4573",
     "itemLabel": "Sean Connery",
     "year": "2020",
-    "sitelinks": "143",
+    "sitelinks": "144",
     "description": "Scottish actor (1930–2020)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||actor||author||character actor||milk deliverer||film producer||association football player||voice actor||film director||stage actor||television actor||film actor"
+    "occupationLabel": "screenwriter||actor||writer||milk deliverer||association football player||character actor||stage actor||film director||voice actor||television actor||film producer||film actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q17163",
@@ -51,7 +51,7 @@
     "sitelinks": "127",
     "description": "Dutch footballer and manager (1947–2016)",
     "nationalityLabel": "Dutch",
-    "occupationLabel": "coach||association football coach||association football player"
+    "occupationLabel": "coach||association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4457",
@@ -60,7 +60,7 @@
     "sitelinks": "115",
     "description": "German sports official and association football player (1945–2024)",
     "nationalityLabel": "West German||German",
-    "occupationLabel": "coach||musician||association football coach||functionary||association football player||sports journalist||sports executive||professional athlete"
+    "occupationLabel": "coach||association football player||functionary||musician||association football coach||sports journalist||sports executive||professional athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18391",
@@ -68,8 +68,8 @@
     "year": "2016",
     "sitelinks": "106",
     "description": "Romanian-born American writer, professor, political activist, Nobel laureate, and Holocaust survivor (1928-2016)",
-    "nationalityLabel": "Kingdom of Romania||statelessness||Kingdom of Hungary||Israeli||Israelis||American||Americans",
-    "occupationLabel": "author||architect||translator||playwright||correspondent||university teacher||association football player||journalist||Judaic scholar||philosopher||novelist||humanist||autobiographer||political activist"
+    "nationalityLabel": "Kingdom of Hungary||statelessness||Kingdom of Romania||Israeli||Israelis||American||Americans",
+    "occupationLabel": "writer||architect||playwright||translator||association football player||correspondent||journalist||university teacher||novelist||philosopher||humanist||political activist||Judaic scholar||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q162043",
@@ -87,16 +87,16 @@
     "sitelinks": "94",
     "description": "Hungarian association football player (1927–2006)",
     "nationalityLabel": "Spanish||Spaniard||Hungarian",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43744",
     "itemLabel": "Gerd Müller",
     "year": "2021",
     "sitelinks": "91",
-    "description": "German association football player (1945–2021)",
+    "description": "German footballer (1945–2021)",
     "nationalityLabel": "German",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q164546",
@@ -105,7 +105,7 @@
     "sitelinks": "90",
     "description": "Argentine-Spanish association football player (1926–2014)",
     "nationalityLabel": "Colombian||Argentine||Argentinian||Spanish||Spaniard",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167828",
@@ -123,7 +123,7 @@
     "sitelinks": "88",
     "description": "Northern Irish footballer (1946–2005)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "sports commentator||association football player||athlete"
+    "occupationLabel": "association football player||athlete||sports commentator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179908",
@@ -138,10 +138,10 @@
     "item": "http://www.wikidata.org/entity/Q171583",
     "itemLabel": "Bobby Charlton",
     "year": "2023",
-    "sitelinks": "81",
+    "sitelinks": "82",
     "description": "English association football player and manager (1937–2023)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "association football coach||animator||association football player||autobiographer"
+    "occupationLabel": "animator||association football player||association football coach||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180642",
@@ -153,13 +153,40 @@
     "occupationLabel": "association football player"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q152832",
+    "itemLabel": "Kevin Keegan",
+    "year": "2026",
+    "sitelinks": "72",
+    "description": "English association football player and manager (1951–2026)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "association football player||association football coach||autobiographer"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q152274",
     "itemLabel": "Edvard Beneš",
     "year": "1948",
     "sitelinks": "71",
     "description": "Czechoslovak politician (1884-1948)",
-    "nationalityLabel": "Austria–Hungary||Czechoslovak",
-    "occupationLabel": "politician||teacher||minister||author||diplomat||President of the Republic||lecturer||university teacher||sociologist||association football player||foreign minister||head of government"
+    "nationalityLabel": "Czechoslovak||Austria–Hungary",
+    "occupationLabel": "teacher||politician||minister||diplomat||author||association football player||head of government||lecturer||university teacher||sociologist||foreign minister"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19518278",
+    "itemLabel": "Diogo Jota",
+    "year": "2025",
+    "sitelinks": "71",
+    "description": "Portuguese  footballer (1996-2025)",
+    "nationalityLabel": "Portuguese",
+    "occupationLabel": "association football player"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178628",
+    "itemLabel": "Paolo Rossi",
+    "year": "2020",
+    "sitelinks": "70",
+    "description": "Italian footballer (1956–2020)",
+    "nationalityLabel": "Italian",
+    "occupationLabel": "politician||association football player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213504",
@@ -168,25 +195,25 @@
     "sitelinks": "69",
     "description": "English footballer, neurophysiologist and Nobel Prize recipient (1857–1952)",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "naturalist||physician||neurologist||university teacher||association football player||physiologist||pathologist"
+    "occupationLabel": "naturalist||physician||association football player||physiologist||neurologist||university teacher||pathologist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q178628",
-    "itemLabel": "Paolo Rossi",
-    "year": "2020",
-    "sitelinks": "69",
-    "description": "Italian footballer (1956–2020)",
+    "item": "http://www.wikidata.org/entity/Q192131",
+    "itemLabel": "Giuseppe Meazza",
+    "year": "1979",
+    "sitelinks": "67",
+    "description": "Italian association football player and manager (1910-1979)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "politician||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19518278",
-    "itemLabel": "Diogo Jota",
-    "year": "2025",
-    "sitelinks": "69",
-    "description": "Portuguese association football player (1996-2025)",
-    "nationalityLabel": "Portuguese",
-    "occupationLabel": "association football player"
+    "item": "http://www.wikidata.org/entity/Q237541",
+    "itemLabel": "Veronica Guerin",
+    "year": "1996",
+    "sitelinks": "67",
+    "description": "Irish crime reporter (1958-1996)",
+    "nationalityLabel": "Irish",
+    "occupationLabel": "writer||accountant||association football player||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q295307",
@@ -198,31 +225,13 @@
     "occupationLabel": "association football player"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q192131",
-    "itemLabel": "Giuseppe Meazza",
-    "year": "1979",
-    "sitelinks": "66",
-    "description": "Italian association football player and manager (1910-1979)",
-    "nationalityLabel": "Italian",
-    "occupationLabel": "association football coach||association football player"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q207457",
     "itemLabel": "Bill Shankly",
     "year": "1981",
     "sitelinks": "66",
     "description": "Scottish footballer and manager (1913-1981)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "association football coach||association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q237541",
-    "itemLabel": "Veronica Guerin",
-    "year": "1996",
-    "sitelinks": "66",
-    "description": "Irish crime reporter (1958-1996)",
-    "nationalityLabel": "Irish",
-    "occupationLabel": "author||accountant||association football player||journalist"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102331",
@@ -231,7 +240,16 @@
     "sitelinks": "63",
     "description": "Brazilian association football player (1954–2011)",
     "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "physician||association football coach||association football player||pediatrician"
+    "occupationLabel": "physician||pediatrician||association football player||association football coach"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q311511",
+    "itemLabel": "Mário Zagallo",
+    "year": "2024",
+    "sitelinks": "63",
+    "description": "Brazilian footballer (1931–2024)",
+    "nationalityLabel": "Brazilian||Brazilians",
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q380695",
@@ -240,25 +258,25 @@
     "sitelinks": "63",
     "description": "Japanese association football player and manager",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "politician||association football coach||association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q311511",
-    "itemLabel": "Mário Zagallo",
-    "year": "2024",
-    "sitelinks": "62",
-    "description": "Brazilian footballer (1931–2024)",
-    "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "politician||association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189587",
     "itemLabel": "Bobby Robson",
     "year": "2009",
-    "sitelinks": "61",
+    "sitelinks": "62",
     "description": "English association football player and manager (1933-2009)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "association football coach||association football player||autobiographer"
+    "occupationLabel": "association football player||association football coach||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192749",
+    "itemLabel": "Just Fontaine",
+    "year": "2023",
+    "sitelinks": "61",
+    "description": "French football player and manager (1933-2023)",
+    "nationalityLabel": "French",
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44473",
@@ -267,7 +285,25 @@
     "sitelinks": "61",
     "description": "American football player and actor (1947–2024)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||sports commentator||association football player||film actor||American football player||athletics competitor"
+    "occupationLabel": "actor||association football player||sports commentator||film actor||athletics competitor||American football player"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189984",
+    "itemLabel": "Franco Baresi",
+    "year": "2026",
+    "sitelinks": "61",
+    "description": "Italian association football player (1960–2026)",
+    "nationalityLabel": "Italian",
+    "occupationLabel": "association football player||association football coach"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213879",
+    "itemLabel": "Gordon Banks",
+    "year": "2019",
+    "sitelinks": "60",
+    "description": "English association football player (1937–2019)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "goalkeeper||association football player||association football coach||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159045",
@@ -276,7 +312,7 @@
     "sitelinks": "60",
     "description": "German association football player (1960–2024)",
     "nationalityLabel": "German",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76679",
@@ -285,7 +321,7 @@
     "sitelinks": "59",
     "description": "German educator",
     "nationalityLabel": "Schwarzburg-Rudolstadt",
-    "occupationLabel": "author||teacher||pedagogue||association football player||non-fiction writer"
+    "occupationLabel": "writer||teacher||association football player||pedagogue||non-fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q222924",
@@ -294,16 +330,7 @@
     "sitelinks": "59",
     "description": "Spanish footballer and manager (1968-2014)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "association football coach||association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q192749",
-    "itemLabel": "Just Fontaine",
-    "year": "2023",
-    "sitelinks": "59",
-    "description": "French football player and manager (1933-2023)",
-    "nationalityLabel": "French",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q576614",
@@ -312,16 +339,7 @@
     "sitelinks": "58",
     "description": "Spanish football player and manager (1938–2014)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "association football coach||association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q213879",
-    "itemLabel": "Gordon Banks",
-    "year": "2019",
-    "sitelinks": "58",
-    "description": "English association football player (1937–2019)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "goalkeeper||association football coach||association football player||autobiographer"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q276026",
@@ -330,7 +348,7 @@
     "sitelinks": "58",
     "description": "Italian association football player (1944–2024)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "screenwriter||sporting director||association football player||athlete"
+    "occupationLabel": "screenwriter||association football player||sporting director||athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q218369",
@@ -339,7 +357,7 @@
     "sitelinks": "58",
     "description": "Swedish football manager (1948–2024)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "association football coach||association football player||autobiographer"
+    "occupationLabel": "association football player||association football coach||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216140",
@@ -348,7 +366,16 @@
     "sitelinks": "57",
     "description": "English association football player (1915-2000)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "association football coach||association football player||autobiographer"
+    "occupationLabel": "association football player||association football coach||autobiographer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22717",
+    "itemLabel": "Fritz Walter",
+    "year": "2002",
+    "sitelinks": "57",
+    "description": "German association football player (1920–2002)",
+    "nationalityLabel": "German",
+    "occupationLabel": "association football player||association football coach||athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q359732",
@@ -369,22 +396,31 @@
     "occupationLabel": "association football player"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q223156",
+    "itemLabel": "Santiago Bernabéu Yeste",
+    "year": "1978",
+    "sitelinks": "56",
+    "description": "Spanish footballer (1895-1978)",
+    "nationalityLabel": "Spanish||Spaniard",
+    "occupationLabel": "lawyer||jurist||functionary||association football player||association football coach||sports executive"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q191492",
     "itemLabel": "Bobby Moore",
     "year": "1993",
     "sitelinks": "56",
     "description": "English association football player (1941–1993)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "association football coach||sports commentator||association football player"
+    "occupationLabel": "association football player||association football coach||sports commentator"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22717",
-    "itemLabel": "Fritz Walter",
-    "year": "2002",
+    "item": "http://www.wikidata.org/entity/Q220700",
+    "itemLabel": "Omar Sívori",
+    "year": "2005",
     "sitelinks": "56",
-    "description": "German association football player (1920–2002)",
-    "nationalityLabel": "German",
-    "occupationLabel": "association football coach||association football player||athlete"
+    "description": "Italian-Argentine footballer",
+    "nationalityLabel": "Argentine||Argentinian",
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q233565",
@@ -394,24 +430,6 @@
     "description": "Scottish footballer (1940–2025)",
     "nationalityLabel": "British||Briton",
     "occupationLabel": "association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q223156",
-    "itemLabel": "Santiago Bernabéu Yeste",
-    "year": "1978",
-    "sitelinks": "55",
-    "description": "Spanish footballer (1895-1978)",
-    "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "lawyer||jurist||association football coach||functionary||association football player||sports executive"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q220700",
-    "itemLabel": "Omar Sívori",
-    "year": "2005",
-    "sitelinks": "55",
-    "description": "Italian-Argentine footballer",
-    "nationalityLabel": "Argentine||Argentinian",
-    "occupationLabel": "association football coach||association football player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q276399",
@@ -429,7 +447,7 @@
     "sitelinks": "55",
     "description": "Bosnian association football player and manager (1941–2022)",
     "nationalityLabel": "Yugoslav||Herzegovinian||Bosnian",
-    "occupationLabel": "association football coach||association football player||sports official"
+    "occupationLabel": "association football player||association football coach||sports official"
   },
   {
     "item": "http://www.wikidata.org/entity/Q919924",
@@ -438,7 +456,7 @@
     "sitelinks": "54",
     "description": "Japanese association football player and manager (1914–1985)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player||journalist"
+    "occupationLabel": "association football player||association football coach||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2062337",
@@ -456,7 +474,7 @@
     "sitelinks": "54",
     "description": "Japanese association football player (1912–1998)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2535499",
@@ -465,7 +483,7 @@
     "sitelinks": "54",
     "description": "Japanese association football player (1913–2003)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "economist||association football coach||association football player||journalist"
+    "occupationLabel": "economist||association football player||association football coach||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q107089",
@@ -483,7 +501,7 @@
     "sitelinks": "54",
     "description": "Hungarian footballer (1941-2011)",
     "nationalityLabel": "Hungarian",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2023680",
@@ -492,7 +510,16 @@
     "sitelinks": "54",
     "description": "Japanese association football player and manager (1943-2011)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q295262",
+    "itemLabel": "Carlos Alberto Torres",
+    "year": "2016",
+    "sitelinks": "54",
+    "description": "Brazilian association football player and manager (1944-2016)",
+    "nationalityLabel": "Brazilian||Brazilians",
+    "occupationLabel": "association football player||association football coach||sports commentator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2360077",
@@ -519,14 +546,14 @@
     "sitelinks": "54",
     "description": "Italian association football player and manager",
     "nationalityLabel": "Italian",
-    "occupationLabel": "association football coach||association football player||journalist||sports executive"
+    "occupationLabel": "association football player||association football coach||journalist||sports executive"
   },
   {
     "item": "http://www.wikidata.org/entity/Q982127",
     "itemLabel": "Akira Matsunaga",
     "year": "1943",
     "sitelinks": "53",
-    "description": "Japanese association football player (born 1914)",
+    "description": "Japanese association football player (1914–1943)",
     "nationalityLabel": "Japanese",
     "occupationLabel": "association football player"
   },
@@ -564,7 +591,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player and manager (1902–1971)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q295265",
@@ -573,7 +600,7 @@
     "sitelinks": "53",
     "description": "Hungarian footballer",
     "nationalityLabel": "Hungarian",
-    "occupationLabel": "association football coach||association football player||athlete"
+    "occupationLabel": "association football player||association football coach||athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1817515",
@@ -591,7 +618,7 @@
     "sitelinks": "53",
     "description": "Japanese and South Korean association football player (1910-1985)",
     "nationalityLabel": "South Korean",
-    "occupationLabel": "association football coach||association football referee||association football player"
+    "occupationLabel": "association football player||association football coach||association football referee"
   },
   {
     "item": "http://www.wikidata.org/entity/Q110111",
@@ -600,7 +627,7 @@
     "sitelinks": "53",
     "description": "Swedish association football player (1921-1995)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "association football coach||association football player||athlete"
+    "occupationLabel": "association football player||association football coach||athlete"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2072697",
@@ -609,7 +636,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player and manager (1936–1995)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2522383",
@@ -618,7 +645,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player (1914-1996)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2313992",
@@ -636,7 +663,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player (1940-2000)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q614306",
@@ -654,7 +681,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player and manager (1938–2002)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2360124",
@@ -663,7 +690,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player (1945–2003)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2281403",
@@ -690,7 +717,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player and manager (1930–2008)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q513591",
@@ -699,7 +726,16 @@
     "sitelinks": "53",
     "description": "Japanese association football player (1933-2011)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q299693",
+    "itemLabel": "Djalma Santos",
+    "year": "2013",
+    "sitelinks": "53",
+    "description": "Brazilian association football player (1929-2013)",
+    "nationalityLabel": "Brazilian||Brazilians",
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q286250",
@@ -708,7 +744,7 @@
     "sitelinks": "53",
     "description": "Japanese association football player",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2464424",
@@ -720,13 +756,13 @@
     "occupationLabel": "association football player"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q295262",
-    "itemLabel": "Carlos Alberto Torres",
-    "year": "2016",
+    "item": "http://www.wikidata.org/entity/Q44470",
+    "itemLabel": "Uwe Seeler",
+    "year": "2022",
     "sitelinks": "53",
-    "description": "Brazilian association football player and manager (1944-2016)",
-    "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "association football coach||sports commentator||association football player"
+    "description": "German association football player (1936–2022)",
+    "nationalityLabel": "West German",
+    "occupationLabel": "actor||businessperson||association football player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1928712",
@@ -807,7 +843,7 @@
     "sitelinks": "52",
     "description": "Japanese association football player and manager (1906–1980)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "professor||association football coach||association football referee||association football player"
+    "occupationLabel": "professor||association football player||association football coach||association football referee"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2311168",
@@ -835,6 +871,15 @@
     "description": "Japanese association football player",
     "nationalityLabel": "Japanese",
     "occupationLabel": "association football player"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312486",
+    "itemLabel": "Didi",
+    "year": "2001",
+    "sitelinks": "52",
+    "description": "Brazilian footballer (1928-2001)",
+    "nationalityLabel": "Brazilian||Brazilians",
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q958959",
@@ -870,7 +915,7 @@
     "sitelinks": "52",
     "description": "Japanese association football player and manager (1931–2009)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2522294",
@@ -882,13 +927,13 @@
     "occupationLabel": "association football player"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q299693",
-    "itemLabel": "Djalma Santos",
+    "item": "http://www.wikidata.org/entity/Q83329",
+    "itemLabel": "Nílton Santos",
     "year": "2013",
     "sitelinks": "52",
-    "description": "Brazilian association football player (1929-2013)",
+    "description": "Brazilian association football player (1925-2013)",
     "nationalityLabel": "Brazilian||Brazilians",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2231813",
@@ -897,7 +942,7 @@
     "sitelinks": "52",
     "description": "Japanese association football player (1934–2016)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2360093",
@@ -906,7 +951,7 @@
     "sitelinks": "52",
     "description": "Japanese association football player and manager (1931–2017)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "businessperson||association football coach||association football player"
+    "occupationLabel": "businessperson||association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q31442",
@@ -924,7 +969,7 @@
     "sitelinks": "52",
     "description": "Japanese association football player (1931–2022)",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q294351",
@@ -933,16 +978,7 @@
     "sitelinks": "52",
     "description": "Serbian football player and manager (1969–2022)",
     "nationalityLabel": "Socialist Federal Republic of Yugoslavia||Serbo-Montenegrin||Serbian",
-    "occupationLabel": "association football coach||association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q44470",
-    "itemLabel": "Uwe Seeler",
-    "year": "2022",
-    "sitelinks": "52",
-    "description": "German association football player (1936–2022)",
-    "nationalityLabel": "West German",
-    "occupationLabel": "actor||businessperson||association football player"
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q233819",
@@ -951,7 +987,16 @@
     "sitelinks": "52",
     "description": "Dutch football manager and player (1951–2024)",
     "nationalityLabel": "Dutch",
-    "occupationLabel": "association football coach||association football player||sports executive"
+    "occupationLabel": "association football player||association football coach||sports executive"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1870823",
+    "itemLabel": "Yukio Shimomura",
+    "year": "2026",
+    "sitelinks": "52",
+    "description": "Japanese association football player and manager",
+    "nationalityLabel": "Japanese",
+    "occupationLabel": "association football player||association football coach"
   },
   {
     "item": "http://www.wikidata.org/entity/Q660722",
@@ -1033,50 +1078,5 @@
     "description": "Japanese association football player",
     "nationalityLabel": "Japanese",
     "occupationLabel": "association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2130952",
-    "itemLabel": "Takeo Wakabayashi",
-    "year": "1937",
-    "sitelinks": "51",
-    "description": "Japanese association football player (1907-1937)",
-    "nationalityLabel": "Japanese",
-    "occupationLabel": "association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2266256",
-    "itemLabel": "Hideo Shinojima",
-    "year": "1975",
-    "sitelinks": "51",
-    "description": "Japanese association football player (1910–1975)",
-    "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2535860",
-    "itemLabel": "Shiro Teshima",
-    "year": "1982",
-    "sitelinks": "51",
-    "description": "Japanese association football player (1907-1982)",
-    "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2535731",
-    "itemLabel": "Yasuo Haruyama",
-    "year": "1987",
-    "sitelinks": "51",
-    "description": "Japanese association football player (1906-1987)",
-    "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2522305",
-    "itemLabel": "Hiroaki Sato",
-    "year": "1988",
-    "sitelinks": "51",
-    "description": "Japanese association football player (born 1932)",
-    "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "association football coach||association football player"
   }
 ]

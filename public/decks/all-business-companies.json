@@ -291,9 +291,9 @@
   },
   {
     "qid": "Q26070",
-    "title": "UNIQLO is founded",
+    "title": "Uniqlo is founded",
     "subtitle": "Japanese casual wear designer, manufacturer and retailer",
-    "year": 1949,
+    "year": 1984,
     "fact": "Uniqlo Co., Ltd. is a Japanese designer and retailer specializing in fast fashion, with a focus on casual wear.",
     "wikipediaSlug": "Uniqlo",
     "image": "Uniqlo_Ginza_2018.jpg",
@@ -658,6 +658,16 @@
     "wikipediaSlug": "Tamagotchi",
     "image": "Tamagotchi_0124_ubt.jpeg",
     "pageViews": 34983
+  },
+  {
+    "qid": "Q1131810",
+    "title": "Five Guys is founded",
+    "subtitle": "Burger and fries chain, based in the United States",
+    "year": 1986,
+    "fact": "Five Guys Enterprises, LLC is an American multinational fast food chain focused on hamburgers, hot dogs, and french fries.",
+    "wikipediaSlug": "Five_Guys",
+    "image": "Five_Guys,_Merritt_Island.JPG",
+    "pageViews": 34881
   },
   {
     "qid": "Q40966",
@@ -1351,7 +1361,7 @@
   },
   {
     "qid": "Q221692",
-    "title": "Petronas Gas Berhad is founded",
+    "title": "Petronas is founded",
     "subtitle": "Malaysian state-owned oil and gas company",
     "year": 1974,
     "fact": "Petroliam Nasional Berhad, commonly known as PETRONAS, is a Malaysian multinational oil and gas company headquartered in Kuala Lumpur.",
@@ -1531,7 +1541,7 @@
   },
   {
     "qid": "Q309031",
-    "title": "Lacoste S.A. is founded",
+    "title": "Lacoste is founded",
     "subtitle": "French clothing and footwear company",
     "year": 1933,
     "fact": "Lacoste S.A. is a French designer sports fashion company, founded in 1933 by tennis player René Lacoste, and entrepreneur André Gillier.",
@@ -1781,7 +1791,7 @@
   },
   {
     "qid": "Q155152",
-    "title": "Polydor is founded",
+    "title": "Polydor Records is founded",
     "subtitle": "German-British record label",
     "year": 1913,
     "fact": "Polydor, also known as Polydor Records, is a British record label that operates as part of Universal Music Group.",
@@ -2010,6 +2020,16 @@
     "pageViews": 10771
   },
   {
+    "qid": "Q751281",
+    "title": "SOLIDWORKS is founded",
+    "subtitle": "3D CAD design and engineering software, brand of Dassault Systèmes.",
+    "year": 1995,
+    "fact": "SolidWorks is a brand of software used for solid modeling computer-aided design (CAD) and computer-aided engineering (CAE).",
+    "wikipediaSlug": "SolidWorks",
+    "image": "SolidWorks_2023_3D_Assembly.png",
+    "pageViews": 10712
+  },
+  {
     "qid": "Q718194",
     "title": "PDVSA is founded",
     "subtitle": "Venezuelan government-owned oil company",
@@ -2140,6 +2160,16 @@
     "pageViews": 8853
   },
   {
+    "qid": "Q467731",
+    "title": "CATIA is founded",
+    "subtitle": "Advanced 3D design and engineering software, brand of Dassault Systèmes",
+    "year": 1977,
+    "fact": "CATIA is a multi-platform software suite for computer-aided design (CAD), computer-aided manufacturing (CAM), computer-aided engineering (CAE), 3D modeling and product lifecycle management (PLM), developed by the French company Dassault Systèmes.",
+    "wikipediaSlug": "CATIA",
+    "image": "CATIA_cre.jpg",
+    "pageViews": 8841
+  },
+  {
     "qid": "Q13882231",
     "title": "Alexander McQueen is founded",
     "subtitle": "British luxury fashion house",
@@ -2233,7 +2263,7 @@
     "qid": "Q138913",
     "title": "Jysk is founded",
     "subtitle": "Danish multinational furniture company",
-    "year": 1979,
+    "year": 1989,
     "fact": "Jysk A/S is a Danish retail chain specializing in household goods, including mattresses, furniture, and interior décor.",
     "wikipediaSlug": "Jysk",
     "image": "JYSK_-_hovedkontor.jpg",

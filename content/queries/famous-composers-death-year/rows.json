@@ -1,12 +1,21 @@
 [
   {
+    "item": "http://www.wikidata.org/entity/Q2831",
+    "itemLabel": "Michael Jackson",
+    "year": "2009",
+    "sitelinks": "322",
+    "description": "American singer, songwriter, record producer, and dancer (1958–2009)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "singer||music executive||composer||video artist||dancer||musician||philanthropist||songwriter"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q762",
     "itemLabel": "Leonardo da Vinci",
     "year": "1519",
-    "sitelinks": "304",
+    "sitelinks": "306",
     "description": "Italian Renaissance polymath (1452−1519)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "botanist||engineer||scientist||astronomer||naturalist||mathematician||author||visual artist||diplomat||caricaturist||physicist||composer||architect||designer||inventor||polymath||artist||mechanic||chemist||zoologist||librettist||anatomist||natural philosopher||musician||painter||sculptor||master builder||graphic artist||physiologist||architectural drafter"
+    "occupationLabel": "engineer||scientist||astronomer||mathematician||botanist||writer||physicist||naturalist||composer||diplomat||architect||visual artist||caricaturist||polymath||designer||mechanic||librettist||inventor||chemist||zoologist||musician||natural philosopher||artist||anatomist||master builder||sculptor||architectural drafter||painter||graphic artist||physiologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5879",
@@ -15,7 +24,7 @@
     "sitelinks": "278",
     "description": "German writer, artist, natural scientist and politician (1749–1832)",
     "nationalityLabel": "Saxe-Weimar-Eisenach",
-    "occupationLabel": "botanist||politician||naturalist||jurist||author||librarian||visual artist||diplomat||playwright||physicist||composer||philosopher||aphorist||lawyer||travel writer||art critic||polymath||poet||novelist||statesperson||autobiographer||opinion journalist||zoologist||librettist||print collector||diarist||Theaterintendant||literary scholar||printmaker||painter||art collector||exlibrist||music critic||theologian||art historian||mineralogist||theatre manager||draftsperson||art theorist||watercolorist"
+    "occupationLabel": "botanist||politician||writer||physicist||naturalist||composer||aphorist||jurist||diplomat||visual artist||travel writer||librarian||art critic||philosopher||poet||playwright||polymath||lawyer||literary scholar||librettist||autobiographer||zoologist||novelist||opinion journalist||printmaker||print collector||diarist||statesperson||Theaterintendant||mineralogist||watercolorist||art collector||draftsperson||exlibrist||theologian||painter||music critic||art theorist||theatre manager||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q254",
@@ -24,7 +33,7 @@
     "sitelinks": "274",
     "description": "Austrian composer of the Classical period (1756-1791)",
     "nationalityLabel": "Prince-Archbishopric of Salzburg",
-    "occupationLabel": "composer||pianist||organist||musician||music educator||violinist"
+    "occupationLabel": "composer||musician||pianist||organist||violinist||music educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q255",
@@ -39,10 +48,19 @@
     "item": "http://www.wikidata.org/entity/Q882",
     "itemLabel": "Charlie Chaplin",
     "year": "1977",
-    "sitelinks": "259",
-    "description": "English comic actor and filmmaker (1889–1977)",
+    "sitelinks": "261",
+    "description": "English actor and filmmaker (1889–1977)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "film director||screenwriter||author||film producer||actor||director||composer||comedian||film editor||autobiographer||producer||film actor||film screenwriter||musician||film score composer||stage actor"
+    "occupationLabel": "stage actor||screenwriter||film director||film producer||writer||actor||composer||director||comedian||autobiographer||film actor||musician||film screenwriter||film editor||film score composer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9554",
+    "itemLabel": "Martin Luther",
+    "year": "1546",
+    "sitelinks": "259",
+    "description": "German priest and theologian (1483–1546)",
+    "nationalityLabel": "Electorate of Saxony||Roman",
+    "occupationLabel": "pastor||writer||composer||Catholic priest||philosopher||lawyer||translator||preacher||Bible translator||hymnwriter||friar||Protestant reformer||scribe||university teacher||reformer||theologian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1339",
@@ -51,25 +69,16 @@
     "sitelinks": "258",
     "description": "German composer (1685–1750)",
     "nationalityLabel": "Saxe-Eisenach||Roman",
-    "occupationLabel": "conductor||virtuoso||composer||harpsichordist||concertmaster||organist||choir director||musicologist||music educator||violinist||school teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9554",
-    "itemLabel": "Martin Luther",
-    "year": "1546",
-    "sitelinks": "257",
-    "description": "German priest and theologian (1483–1546)",
-    "nationalityLabel": "Electorate of Saxony||Roman",
-    "occupationLabel": "pastor||author||composer||philosopher||lawyer||Catholic priest||Bible translator||preacher||friar||translator||Protestant reformer||scribe||reformer||university teacher||theologian||hymnwriter"
+    "occupationLabel": "conductor||virtuoso||composer||harpsichordist||concertmaster||organist||choir director||musicologist||violinist||school teacher||music educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9358",
     "itemLabel": "Friedrich Nietzsche",
     "year": "1900",
-    "sitelinks": "254",
+    "sitelinks": "255",
     "description": "German philosopher (1844-1900)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "author||playwright||composer||philosopher||poet||music critic||classical philologist||pedagogue"
+    "occupationLabel": "writer||composer||philosopher||poet||playwright||classical philologist||pedagogue||music critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7241",
@@ -78,16 +87,16 @@
     "sitelinks": "244",
     "description": "Bengali poet, philosopher and polymath (1861–1941)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "film director||singer||author||actor||playwright||composer||philosopher||travel writer||artist||poet||novelist||librettist||songwriter||freedom fighter||lyricist||painter||Nobel Prize winner||essayist||social reformer||short story writer"
+    "occupationLabel": "film director||singer||writer||actor||composer||travel writer||philosopher||poet||playwright||librettist||novelist||essayist||freedom fighter||artist||lyricist||songwriter||short story writer||Nobel Prize winner||painter||social reformer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6527",
     "itemLabel": "Jean-Jacques Rousseau",
     "year": "1778",
-    "sitelinks": "229",
+    "sitelinks": "232",
     "description": "Genevan philosopher, writer, and composer (1712-1778)",
     "nationalityLabel": "Republic of Geneva",
-    "occupationLabel": "botanist||naturalist||author||playwright||composer||philosopher||correspondent||novelist||autobiographer||classical composer||encyclopédistes||music critic||musicologist||political scientist||essayist||pedagogue"
+    "occupationLabel": "botanist||writer||naturalist||composer||correspondent||philosopher||playwright||autobiographer||novelist||classical composer||essayist||encyclopédistes||musicologist||pedagogue||music critic||political scientist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1511",
@@ -96,7 +105,7 @@
     "sitelinks": "205",
     "description": "German composer (1813–1883)",
     "nationalityLabel": "Kingdom of Saxony",
-    "occupationLabel": "author||conductor||theatre director||composer||pianist||poet||autobiographer||librettist||diarist||music critic||essayist"
+    "occupationLabel": "writer||conductor||composer||theatre director||poet||librettist||autobiographer||essayist||diarist||pianist||music critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1268",
@@ -104,17 +113,17 @@
     "year": "1849",
     "sitelinks": "200",
     "description": "Polish composer and pianist (1810–1849)",
-    "nationalityLabel": "Congress Poland||Duchy of Warsaw||Russian||French",
-    "occupationLabel": "virtuoso||composer||pianist||musician||piano teacher||pedagogue"
+    "nationalityLabel": "Duchy of Warsaw||Russian||Congress Poland||French",
+    "occupationLabel": "virtuoso||composer||musician||pianist||pedagogue||piano teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7315",
     "itemLabel": "Pyotr Ilyich Tchaikovsky",
     "year": "1893",
-    "sitelinks": "193",
+    "sitelinks": "192",
     "description": "Russian composer (1840–1893)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "choreographer||conductor||composer||pianist||autobiographer||librettist||translator||diarist||music critic||university teacher||music educator"
+    "occupationLabel": "conductor||choreographer||composer||translator||librettist||autobiographer||diarist||pianist||university teacher||music critic||music educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1203",
@@ -123,13 +132,13 @@
     "sitelinks": "183",
     "description": "British musician (1940–1980)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "film director||singer||author||film producer||actor||composer||pianist||poet||singer-songwriter||recording artist||pop singer||film actor||songwriter||public figure||musician||performance artist||guitarist||prose writer||political activist||peace activist||draftsperson"
+    "occupationLabel": "film director||singer||film producer||writer||actor||composer||poet||performance artist||author||singer-songwriter||film actor||pop singer||recording artist||musician||guitarist||pianist||prose writer||songwriter||draftsperson||political activist||peace activist||public figure"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12897",
     "itemLabel": "Pelé",
     "year": "2022",
-    "sitelinks": "181",
+    "sitelinks": "182",
     "description": "Brazilian footballer (1940–2022)",
     "nationalityLabel": "Brazilian||Brazilians",
     "occupationLabel": "politician||actor||composer||film actor||musician||association football player||athlete"
@@ -141,22 +150,22 @@
     "sitelinks": "177",
     "description": "Italian opera composer (1813–1901)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "politician||author||conductor||composer"
+    "occupationLabel": "politician||writer||conductor||composer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15869",
     "itemLabel": "Freddie Mercury",
     "year": "1991",
-    "sitelinks": "177",
+    "sitelinks": "176",
     "description": "British singer, songwriter and musician, frontman of the rock band Queen (1946–1991)",
     "nationalityLabel": "Sultanate of Zanzibar||British||Briton",
-    "occupationLabel": "singer||record producer||composer||pianist||poet||singer-songwriter||graphic designer||guitarist||painter||rock musician||manufacturer"
+    "occupationLabel": "singer||composer||poet||record producer||singer-songwriter||graphic designer||guitarist||pianist||rock musician||manufacturer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7312",
     "itemLabel": "Franz Schubert",
     "year": "1828",
-    "sitelinks": "171",
+    "sitelinks": "172",
     "description": "Austrian composer (1797–1828)",
     "nationalityLabel": "Archduchy of Austria||Austrian",
     "occupationLabel": "composer||teacher||pianist"
@@ -168,16 +177,25 @@
     "sitelinks": "168",
     "description": "German poet, writer and literary critic (1797–1856)",
     "nationalityLabel": "Prussian||French",
-    "occupationLabel": "jurist||author||playwright||literary critic||composer||publicist||poet||merchant||opinion journalist||librettist||poet lawyer||essayist||journalist||theatre critic"
+    "occupationLabel": "writer||merchant||composer||jurist||poet||playwright||literary critic||librettist||opinion journalist||essayist||poet lawyer||theatre critic||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1340",
     "itemLabel": "Antonio Vivaldi",
     "year": "1741",
-    "sitelinks": "165",
-    "description": "Italian composer and violinist (1678-1741)",
+    "sitelinks": "167",
+    "description": "Italian composer and violinist (1678–1741)",
     "nationalityLabel": "Venetian",
     "occupationLabel": "composer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7314",
+    "itemLabel": "Igor Stravinsky",
+    "year": "1971",
+    "sitelinks": "164",
+    "description": "Russian, French, and American composer (1882–1971)",
+    "nationalityLabel": "Russian||French||Swiss||American||Americans",
+    "occupationLabel": "conductor||composer||librettist||pianist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q409",
@@ -189,22 +207,22 @@
     "occupationLabel": "singer||composer||singer-songwriter||guitarist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7314",
-    "itemLabel": "Igor Stravinsky",
-    "year": "1971",
-    "sitelinks": "163",
-    "description": "Russian, French, and American composer (1882–1971)",
-    "nationalityLabel": "Russian||French||Swiss||American||Americans",
-    "occupationLabel": "conductor||composer||pianist||librettist"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7294",
     "itemLabel": "Johannes Brahms",
     "year": "1897",
-    "sitelinks": "159",
+    "sitelinks": "160",
     "description": "German composer (1833–1897)",
-    "nationalityLabel": "Hamburger||German",
+    "nationalityLabel": "German||Hamburger",
     "occupationLabel": "conductor||composer||pianist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7302",
+    "itemLabel": "George Frideric Handel",
+    "year": "1759",
+    "sitelinks": "158",
+    "description": "German-British Baroque composer (1685–1759)",
+    "nationalityLabel": "Brandenburg-Prussia||British||Briton||Roman",
+    "occupationLabel": "composer||harpsichordist||opera composer||organist||impresario||university teacher||violinist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7349",
@@ -213,25 +231,7 @@
     "sitelinks": "158",
     "description": "Austrian composer (1732–1809)",
     "nationalityLabel": "Roman",
-    "occupationLabel": "conductor||composer||pianist||independent publisher||musicologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7302",
-    "itemLabel": "George Frideric Handel",
-    "year": "1759",
-    "sitelinks": "157",
-    "description": "German-British Baroque composer (1685–1759)",
-    "nationalityLabel": "British||Briton||Brandenburg-Prussia||Roman",
-    "occupationLabel": "composer||harpsichordist||opera composer||organist||impresario||university teacher||violinist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7298",
-    "itemLabel": "Antonín Dvořák",
-    "year": "1904",
-    "sitelinks": "150",
-    "description": "Czech composer (1841–1904)",
-    "nationalityLabel": "Austrian||Kingdom of Bohemia",
-    "occupationLabel": "conductor||professor||virtuoso||composer||teacher||pianist||classical composer||organist||violist||musicologist||music educator||violinist"
+    "occupationLabel": "conductor||composer||pianist||musicologist||independent publisher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7304",
@@ -240,16 +240,25 @@
     "sitelinks": "150",
     "description": "Austrian late-Romantic composer (1860–1911)",
     "nationalityLabel": "Austrian",
-    "occupationLabel": "opera director||conductor||chapelmaster||composer||classical composer||bandleader||theatre manager"
+    "occupationLabel": "conductor||opera director||composer||chapelmaster||classical composer||bandleader||theatre manager"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44301",
     "itemLabel": "Jim Morrison",
     "year": "1971",
-    "sitelinks": "149",
+    "sitelinks": "150",
     "description": "American singer and poet; lead vocalist of The Doors (1943–1971)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "speaker||vocalist||singer||actor||director||composer||poet||singer-songwriter||musician||lyricist||rock musician"
+    "occupationLabel": "vocalist||singer||actor||composer||poet||director||singer-songwriter||musician||lyricist||rock musician"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7298",
+    "itemLabel": "Antonín Dvořák",
+    "year": "1904",
+    "sitelinks": "149",
+    "description": "Czech composer (1841–1904)",
+    "nationalityLabel": "Kingdom of Bohemia||Austrian",
+    "occupationLabel": "professor||conductor||virtuoso||composer||teacher||classical composer||violist||pianist||organist||musicologist||violinist||music educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q17892",
@@ -258,52 +267,61 @@
     "sitelinks": "147",
     "description": "ancient Greek poet from Lesbos (c. 630-c. 570 BC)",
     "nationalityLabel": "Mytilene",
-    "occupationLabel": "author||composer||poet"
+    "occupationLabel": "writer||composer||poet||author"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7311",
     "itemLabel": "Giacomo Puccini",
     "year": "1924",
-    "sitelinks": "145",
+    "sitelinks": "146",
     "description": "Italian opera composer (1858–1924)",
-    "nationalityLabel": "Italian||Grand Duchy of Tuscany",
+    "nationalityLabel": "Grand Duchy of Tuscany||Italian",
     "occupationLabel": "politician||conductor||composer||opera composer||organist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41408",
     "itemLabel": "Federico García Lorca",
     "year": "1936",
-    "sitelinks": "142",
+    "sitelinks": "143",
     "description": "Spanish poet, dramatist and prose writer (1898–1936)",
     "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "author||theatre director||playwright||composer||poet||librettist||musician||lyricist||theatre manager||draftsperson"
+    "occupationLabel": "writer||composer||theatre director||poet||playwright||librettist||musician||lyricist||draftsperson||theatre manager"
   },
   {
     "item": "http://www.wikidata.org/entity/Q855252",
     "itemLabel": "Bhumibol Adulyadej",
     "year": "2016",
-    "sitelinks": "142",
+    "sitelinks": "143",
     "description": "former King of Thailand (1927–2016)",
     "nationalityLabel": "Thai",
-    "occupationLabel": "monarch||engineer||photographer||author||environmentalist||military officer||composer||teacher||statesperson||sailor||social worker||saxophonist||painter||jazz musician"
+    "occupationLabel": "engineer||monarch||photographer||writer||composer||teacher||military officer||sailor||environmentalist||social worker||statesperson||saxophonist||jazz musician||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8873",
     "itemLabel": "Satyajit Ray",
     "year": "1992",
-    "sitelinks": "140",
+    "sitelinks": "142",
     "description": "Indian filmmaker and writer (1921–1992)",
     "nationalityLabel": "Indian",
-    "occupationLabel": "film director||screenwriter||author||film producer||composer||children's writer||film editor||poet||cinematographer||film critic||songwriter||lyricist||painter||filmmaker||journalist"
+    "occupationLabel": "screenwriter||film director||film producer||writer||composer||cinematographer||children's writer||poet||film critic||film editor||lyricist||songwriter||painter||filmmaker||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41223",
     "itemLabel": "Boris Pasternak",
     "year": "1960",
-    "sitelinks": "139",
+    "sitelinks": "140",
     "description": "Russian writer (1890–1960)",
     "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "screenwriter||author||playwright||composer||pianist||poet||novelist||librettist||translator||translator of William Shakespeare||prose writer"
+    "occupationLabel": "screenwriter||writer||composer||poet||playwright||translator||librettist||novelist||pianist||prose writer||translator of William Shakespeare"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3816",
+    "itemLabel": "George Sand",
+    "year": "1876",
+    "sitelinks": "136",
+    "description": "French novelist and memoirist (1804–1876)",
+    "nationalityLabel": "French",
+    "occupationLabel": "writer||salonnière||composer||playwright||author||librettist||novelist||women's rights activist||diarist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5383",
@@ -312,16 +330,7 @@
     "sitelinks": "136",
     "description": "English musician and actor (1947–2016)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "music video director||vocalist||singer||record producer||film producer||actor||visual artist||composer||pianist||singer-songwriter||librettist||film actor||songwriter||musician||occultist||mime artist||guitarist||saxophonist||painter||art collector||bandleader||manufacturer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3816",
-    "itemLabel": "George Sand",
-    "year": "1876",
-    "sitelinks": "135",
-    "description": "French novelist and memoirist (1804–1876)",
-    "nationalityLabel": "French",
-    "occupationLabel": "salonnière||author||playwright||composer||novelist||librettist||diarist||women's rights activist||journalist"
+    "occupationLabel": "vocalist||music video director||singer||film producer||actor||composer||visual artist||record producer||librettist||singer-songwriter||mime artist||film actor||musician||art collector||guitarist||pianist||songwriter||occultist||saxophonist||manufacturer||bandleader||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1151",
@@ -330,25 +339,25 @@
     "sitelinks": "133",
     "description": "French composer and conductor (1803–1869)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||conductor||librarian||virtuoso||composer||autobiographer||librettist||musicographer||music critic"
+    "occupationLabel": "writer||conductor||composer||virtuoso||librarian||librettist||autobiographer||musicographer||music critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5928",
     "itemLabel": "Jimi Hendrix",
     "year": "1970",
-    "sitelinks": "132",
+    "sitelinks": "133",
     "description": "American guitarist (1942–1970)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "vocalist||singer||record producer||composer||singer-songwriter||rock guitarist||songwriter||guitarist||rock musician"
+    "occupationLabel": "vocalist||singer||composer||record producer||singer-songwriter||rock guitarist||guitarist||songwriter||rock musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6107",
     "itemLabel": "Tupac Shakur",
     "year": "1996",
-    "sitelinks": "132",
-    "description": "American rapper and actor (1971–1996)",
+    "sitelinks": "133",
+    "description": "American rapper (1971–1996)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||actor||composer||dancer||poet||television actor||film actor||songwriter||musician||lyricist||activist||rapper"
+    "occupationLabel": "actor||composer||poet||television actor||dancer||film actor||musician||activist||songwriter||rapper"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7351",
@@ -357,13 +366,13 @@
     "sitelinks": "130",
     "description": "German composer, pianist and critic (1810–1856)",
     "nationalityLabel": "Kingdom of Saxony",
-    "occupationLabel": "author||conductor||composer||art critic||pianist||music critic||musicologist||art historian||music educator"
+    "occupationLabel": "writer||conductor||composer||art critic||pianist||musicologist||music critic||music educator||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4700",
     "itemLabel": "Claude Debussy",
     "year": "1918",
-    "sitelinks": "129",
+    "sitelinks": "130",
     "description": "French classical composer (1862–1918)",
     "nationalityLabel": "French",
     "occupationLabel": "composer||pianist||music critic"
@@ -375,49 +384,49 @@
     "sitelinks": "129",
     "description": "British singer-songwriter (1983–2011)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "singer||composer||jazz guitarist||singer-songwriter||recording artist||songwriter||musician||guitarist||jazz musician"
+    "occupationLabel": "singer||composer||jazz guitarist||singer-songwriter||recording artist||musician||guitarist||songwriter||jazz musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8446",
     "itemLabel": "Kurt Cobain",
     "year": "1994",
-    "sitelinks": "127",
+    "sitelinks": "128",
     "description": "American rock musician (1967–1994)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||visual artist||composer||songwriter||rock singer||musician||guitarist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41309",
-    "itemLabel": "Franz Liszt",
-    "year": "1886",
-    "sitelinks": "126",
-    "description": "Hungarian romantic composer and virtuoso pianist (1811-1886)",
-    "nationalityLabel": "Austrian||Kingdom of Hungary||Austria–Hungary",
-    "occupationLabel": "author||conductor||virtuoso||composer||Catholic priest||pianist||classical composer||musician||music educator"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2643",
-    "itemLabel": "George Harrison",
-    "year": "2001",
-    "sitelinks": "126",
-    "description": "English musician and member of the Beatles (1943–2001)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "film director||singer||record producer||horticulturist||film producer||actor||composer||poet||autobiographer||television actor||singer-songwriter||recording artist||film actor||bass guitarist||songwriter||musician||guitarist||multi-instrumentalist||film score composer"
+    "occupationLabel": "singer||composer||visual artist||musician||rock singer||guitarist||songwriter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9397",
     "itemLabel": "Zhu Xi",
     "year": "1200",
-    "sitelinks": "125",
+    "sitelinks": "127",
     "description": "Chinese historian, neo-Confucian philosopher, poet, and politician during the Song dynasty (1130–1200)",
     "nationalityLabel": "Song dynasty",
-    "occupationLabel": "author||composer||historian||philosopher||poet"
+    "occupationLabel": "writer||historian||composer||philosopher||poet"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41309",
+    "itemLabel": "Franz Liszt",
+    "year": "1886",
+    "sitelinks": "127",
+    "description": "Hungarian romantic composer and virtuoso pianist (1811-1886)",
+    "nationalityLabel": "Austrian||Kingdom of Hungary||Austria–Hungary",
+    "occupationLabel": "writer||conductor||composer||virtuoso||Catholic priest||classical composer||musician||pianist||music educator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2643",
+    "itemLabel": "George Harrison",
+    "year": "2001",
+    "sitelinks": "125",
+    "description": "English musician and member of the Beatles (1943–2001)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "film director||singer||horticulturist||film producer||actor||composer||poet||record producer||television actor||autobiographer||singer-songwriter||film actor||recording artist||musician||guitarist||bass guitarist||songwriter||multi-instrumentalist||film score composer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33550",
     "itemLabel": "Frederick II of Prussia",
     "year": "1786",
-    "sitelinks": "123",
+    "sitelinks": "124",
     "description": "King of Prussia from 1740 to 1786 (1712-1786)",
     "nationalityLabel": "Prussian",
     "occupationLabel": "monarch||king||composer||librettist||art collector||ruler"
@@ -426,28 +435,28 @@
     "item": "http://www.wikidata.org/entity/Q46096",
     "itemLabel": "Felix Mendelssohn",
     "year": "1847",
-    "sitelinks": "122",
+    "sitelinks": "123",
     "description": "German composer, pianist, organist and conductor of Jewish descent (1809-1847)",
     "nationalityLabel": "Kingdom of Saxony||Hamburger",
-    "occupationLabel": "author||conductor||composer||pianist||organist||musician||painter||musicologist||university teacher||music educator"
+    "occupationLabel": "writer||conductor||composer||musician||pianist||organist||musicologist||university teacher||painter||music educator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q72984",
+    "itemLabel": "Bing Crosby",
+    "year": "1977",
+    "sitelinks": "122",
+    "description": "American singer and actor (1903–1977)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "stage actor||screenwriter||radio personality||singer||film producer||writer||voice actor||actor||composer||businessperson||comedian||television actor||film actor||television personality||producer||musician||film screenwriter||baseball player||jazz musician||television producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83158",
     "itemLabel": "Jean Cocteau",
     "year": "1963",
     "sitelinks": "121",
-    "description": "French writer and filmmaker (1889–1963)",
+    "description": "French writer and film director (1889–1963)",
     "nationalityLabel": "French",
-    "occupationLabel": "jewelry designer||film director||screenwriter||photographer||author||voice actor||actor||muralist||director||playwright||composer||designer||poet||cinematographer||novelist||pastellist||ceramicist||librettist||illustrator||painter||prose writer||exlibrist||lithographer||sculptor||filmmaker||draftsperson||postage stamp designer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q72984",
-    "itemLabel": "Bing Crosby",
-    "year": "1977",
-    "sitelinks": "121",
-    "description": "American singer and actor (1903–1977)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||singer||author||film producer||voice actor||radio personality||actor||composer||comedian||television actor||businessperson||producer||baseball player||film actor||television personality||film screenwriter||musician||television producer||jazz musician||stage actor"
+    "occupationLabel": "screenwriter||photographer||jewelry designer||film director||writer||voice actor||actor||composer||muralist||cinematographer||poet||director||playwright||designer||pastellist||author||librettist||ceramicist||novelist||prose writer||draftsperson||illustrator||exlibrist||sculptor||painter||filmmaker||lithographer||postage stamp designer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49325",
@@ -456,7 +465,7 @@
     "sitelinks": "120",
     "description": "French-German physician, theologian, musician, and philosopher (1875-1965)",
     "nationalityLabel": "German||French",
-    "occupationLabel": "composer||physician||missionary||philosopher||author||music historian||organist||musician||physician writer||musicologist||university teacher||pacifist||theologian"
+    "occupationLabel": "composer||physician||missionary||philosopher||music historian||author||musician||physician writer||organist||musicologist||pacifist||university teacher||theologian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38370",
@@ -474,7 +483,7 @@
     "sitelinks": "117",
     "description": "Soviet singer-songwriter and actor (1938–1980)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "screenwriter||singer||author||actor||composer||poet||singer-songwriter||film actor||songwriter||guitarist||lyricist||prose writer||stage actor"
+    "occupationLabel": "stage actor||screenwriter||singer||writer||actor||composer||poet||singer-songwriter||film actor||guitarist||lyricist||prose writer||songwriter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42775",
@@ -492,7 +501,16 @@
     "sitelinks": "116",
     "description": "Italian Renaissance composer (c. 1525–1594)",
     "nationalityLabel": "Papal",
-    "occupationLabel": "singer||conductor||chapelmaster||composer||organist||choir director||music educator"
+    "occupationLabel": "singer||conductor||composer||chapelmaster||organist||choir director||music educator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q125121",
+    "itemLabel": "Aretha Franklin",
+    "year": "2018",
+    "sitelinks": "115",
+    "description": "American singer, songwriter, and pianist (1942–2018)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "singer||composer||record producer||activist||pianist||songwriter||soul musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14277",
@@ -500,35 +518,44 @@
     "year": "1822",
     "sitelinks": "114",
     "description": "German-born British astronomer and composer (1738–1822)",
-    "nationalityLabel": "Kingdom of Hanover||British||Briton",
+    "nationalityLabel": "British||Briton||Kingdom of Hanover",
     "occupationLabel": "astronomer||physicist||composer||musician||oboist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q125121",
-    "itemLabel": "Aretha Franklin",
-    "year": "2018",
-    "sitelinks": "114",
-    "description": "American singer, songwriter, and pianist (1942–2018)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||record producer||composer||pianist||songwriter||soul musician||activist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q70991",
     "itemLabel": "Hildegard of Bingen",
     "year": "1179",
-    "sitelinks": "110",
+    "sitelinks": "112",
     "description": "German Benedictine abbess, polymath, mystic and Doctor of Church (1098–1179)",
     "nationalityLabel": "Roman",
-    "occupationLabel": "botanist||naturalist||sexologist||herbalist||author||playwright||composer||nun||physician||philosopher||polymath||artist||poet||mystic||illuminator||theologian||abbess"
+    "occupationLabel": "botanist||herbalist||writer||naturalist||composer||sexologist||physician||philosopher||poet||playwright||polymath||nun||artist||illuminator||mystic||theologian||abbess"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80621",
     "itemLabel": "Edvard Grieg",
     "year": "1907",
-    "sitelinks": "110",
+    "sitelinks": "111",
     "description": "Norwegian composer and pianist (1843–1907)",
     "nationalityLabel": "Norwegian",
     "occupationLabel": "composer||pianist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7542",
+    "itemLabel": "Prince",
+    "year": "2016",
+    "sitelinks": "111",
+    "description": "American musician (1958–2016)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||film director||singer||film producer||actor||composer||record producer||drummer||singer-songwriter||dancer||film actor||guitarist||pianist||multi-instrumentalist||film score composer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q163366",
+    "itemLabel": "Ezra Pound",
+    "year": "1972",
+    "sitelinks": "110",
+    "description": "American poet and critic (1885–1972)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "radio personality||writer||economist||composer||poet||literary critic||translator||autobiographer||literary historian||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127330",
@@ -537,25 +564,7 @@
     "sitelinks": "110",
     "description": "American musician (1940–1993)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "film director||screenwriter||singer||record producer||film producer||voice actor||actor||composer||rock guitarist||songwriter||musician||guitarist||rock musician||bandleader||journalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7542",
-    "itemLabel": "Prince",
-    "year": "2016",
-    "sitelinks": "110",
-    "description": "American musician (1958–2016)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "film director||screenwriter||singer||record producer||film producer||actor||composer||dancer||singer-songwriter||film actor||guitarist||multi-instrumentalist||film score composer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q163366",
-    "itemLabel": "Ezra Pound",
-    "year": "1972",
-    "sitelinks": "109",
-    "description": "American poet and critic (1885–1972)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "economist||author||radio personality||literary critic||composer||poet||autobiographer||translator||journalist||literary historian"
+    "occupationLabel": "screenwriter||film director||singer||film producer||voice actor||actor||composer||record producer||rock guitarist||musician||guitarist||songwriter||rock musician||bandleader||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q765",
@@ -564,34 +573,43 @@
     "sitelinks": "109",
     "description": "Italian actor, playwright, comedian, singer-songwriter, theater director, painter, and political activist (1926-2016)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "screenwriter||author||scenographer||actor||theatre director||director||visual artist||playwright||composer||satirist||poet||film actor||illustrator||Theaterintendant||painter||costume designer||Nobel Prize winner||stage actor"
+    "occupationLabel": "stage actor||screenwriter||writer||scenographer||actor||composer||theatre director||visual artist||poet||director||playwright||film actor||satirist||Theaterintendant||illustrator||Nobel Prize winner||painter||costume designer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9726",
     "itemLabel": "Gioachino Rossini",
     "year": "1868",
-    "sitelinks": "106",
+    "sitelinks": "107",
     "description": "Italian opera composer (1792–1868)",
     "nationalityLabel": "Italian||Papal",
     "occupationLabel": "composer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q133151",
-    "itemLabel": "Ozzy Osbourne",
-    "year": "2025",
-    "sitelinks": "106",
-    "description": "English musician and television personality (1948–2025)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "singer||composer||singer-songwriter||rock singer||musician"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q80823",
-    "itemLabel": "Anne Boleyn",
+    "itemLabel": "Ana Bolena",
     "year": "1536",
     "sitelinks": "105",
     "description": "second wife of Henry VIII of England (died 1536)",
     "nationalityLabel": "English",
     "occupationLabel": "aristocrat||composer||lady-in-waiting"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56158",
+    "itemLabel": "Georges Bizet",
+    "year": "1875",
+    "sitelinks": "105",
+    "description": "French composer (1838–1875)",
+    "nationalityLabel": "French",
+    "occupationLabel": "conductor||composer||classical composer||pianist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41555",
+    "itemLabel": "Jacques Offenbach",
+    "year": "1880",
+    "sitelinks": "105",
+    "description": "German-born French composer (1819–1880)",
+    "nationalityLabel": "Prussian||French",
+    "occupationLabel": "conductor||composer||chapelmaster||theatre entrepreneur||cellist||theatre manager"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1178",
@@ -609,7 +627,7 @@
     "sitelinks": "105",
     "description": "Soviet composer and pianist (1906-1975)",
     "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "politician||screenwriter||director||composer||pianist||librettist||classical composer||university teacher||music educator"
+    "occupationLabel": "screenwriter||politician||composer||director||librettist||classical composer||pianist||university teacher||music educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q544387",
@@ -618,34 +636,25 @@
     "sitelinks": "105",
     "description": "American singer, pianist and songwriter (1930–2004)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "vocalist||singer||composer||pianist||singer-songwriter||recording artist||musician||soul musician||bandleader||music arranger||jazz musician"
+    "occupationLabel": "vocalist||singer||composer||singer-songwriter||recording artist||musician||pianist||jazz musician||bandleader||soul musician||music arranger"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130311",
+    "itemLabel": "George Michael",
+    "year": "2016",
+    "sitelinks": "105",
+    "description": "English singer (1963–2016)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "film director||singer||composer||record producer||television actor||singer-songwriter||recording artist||musician||lyricist||songwriter||multi-instrumentalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2071",
     "itemLabel": "David Lynch",
     "year": "2025",
     "sitelinks": "105",
-    "description": "American filmmaker, visual artist, musician, and actor (1946–2025)",
+    "description": "American filmmaker (1946–2025)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "film director||singer||photographer||author||film producer||voice actor||actor||director||composer||animator||film editor||cinematographer||television actor||film actor||songwriter||film screenwriter||musician||lyricist||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q56158",
-    "itemLabel": "Georges Bizet",
-    "year": "1875",
-    "sitelinks": "104",
-    "description": "French composer (1838–1875)",
-    "nationalityLabel": "French",
-    "occupationLabel": "conductor||composer||pianist||classical composer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41555",
-    "itemLabel": "Jacques Offenbach",
-    "year": "1880",
-    "sitelinks": "104",
-    "description": "German-born French composer (1819–1880)",
-    "nationalityLabel": "Prussian||French",
-    "occupationLabel": "conductor||chapelmaster||composer||theatre entrepreneur||cellist||theatre manager"
+    "occupationLabel": "photographer||film director||singer||film producer||writer||voice actor||actor||composer||cinematographer||director||television actor||animator||film actor||musician||film screenwriter||film editor||lyricist||songwriter||painter||filmmaker"
   },
   {
     "item": "http://www.wikidata.org/entity/Q45682",
@@ -657,13 +666,31 @@
     "occupationLabel": "composer"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q152388",
+    "itemLabel": "Theodor W. Adorno",
+    "year": "1969",
+    "sitelinks": "104",
+    "description": "German philosopher, sociologist and theorist (1903–1969)",
+    "nationalityLabel": "German||Austrian||Swiss||American||Americans",
+    "occupationLabel": "sociologist||writer||composer||aphorist||philosopher||literary critic||aesthetician||pianist||musicologist||university teacher||music critic"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4295",
+    "itemLabel": "Peter Abelard",
+    "year": "1142",
+    "sitelinks": "103",
+    "description": "French scholastic philosopher, theologian and preeminent logician (c.1079-1142)",
+    "nationalityLabel": "French",
+    "occupationLabel": "writer||composer||teacher||philosopher||poet||autobiographer||linguist||monk||logician||theologian"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q66075",
     "itemLabel": "Niccolò Paganini",
     "year": "1840",
     "sitelinks": "103",
     "description": "Italian violinist and composer (1782–1840)",
     "nationalityLabel": "Republic of Genoa",
-    "occupationLabel": "chapelmaster||composer||classical composer||guitarist||violist||violin virtuoso||violinist"
+    "occupationLabel": "composer||chapelmaster||classical composer||violist||guitarist||violin virtuoso||violinist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83326",
@@ -672,34 +699,16 @@
     "sitelinks": "103",
     "description": "Hungarian composer and pianist (1881–1945)",
     "nationalityLabel": "American||Americans||Hungarian",
-    "occupationLabel": "choreographer||politician||composer||pianist||collector of folk music||musician||classical pianist||musicologist||university teacher||music educator||ethnomusicologist"
+    "occupationLabel": "politician||choreographer||composer||ethnomusicologist||collector of folk music||musician||pianist||classical pianist||musicologist||university teacher||music educator"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152388",
-    "itemLabel": "Theodor W. Adorno",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q150651",
+    "itemLabel": "George Carlin",
+    "year": "2008",
     "sitelinks": "103",
-    "description": "German philosopher, sociologist and theorist (1903–1969)",
-    "nationalityLabel": "German||Austrian||Swiss||American||Americans",
-    "occupationLabel": "author||literary critic||composer||philosopher||aphorist||pianist||aesthetician||music critic||musicologist||university teacher||sociologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q130311",
-    "itemLabel": "George Michael",
-    "year": "2016",
-    "sitelinks": "103",
-    "description": "English singer (1963–2016)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "film director||singer||record producer||composer||television actor||singer-songwriter||recording artist||songwriter||musician||lyricist||multi-instrumentalist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4295",
-    "itemLabel": "Peter Abelard",
-    "year": "1142",
-    "sitelinks": "102",
-    "description": "French scholastic philosopher, theologian and preeminent logician (c.1079-1142)",
-    "nationalityLabel": "French",
-    "occupationLabel": "author||composer||teacher||philosopher||poet||autobiographer||linguist||logician||monk||theologian"
+    "description": "American stand-up comedian (1937–2008)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "screenwriter||radio personality||writer||voice actor||actor||composer||comedian||television actor||stand-up comedian||film actor||humorist||television presenter||manufacturer||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12162960",
@@ -707,17 +716,17 @@
     "year": "1977",
     "sitelinks": "102",
     "description": "Ukrainian pianist, composer, and musicologist (1898-1977)",
-    "nationalityLabel": "West Ukrainian People's Republic||Ukrainian People's Republic||Austria–Hungary",
+    "nationalityLabel": "Austria–Hungary||West Ukrainian People's Republic||Ukrainian People's Republic",
     "occupationLabel": "composer||pianist||musicologist||pedagogue||music educator"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150651",
-    "itemLabel": "George Carlin",
-    "year": "2008",
-    "sitelinks": "101",
-    "description": "American stand-up comedian (1937–2008)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||author||voice actor||radio personality||actor||composer||comedian||stand-up comedian||television actor||film actor||humorist||journalist||manufacturer||television presenter"
+    "item": "http://www.wikidata.org/entity/Q123034",
+    "itemLabel": "Huldrych Zwingli",
+    "year": "1531",
+    "sitelinks": "100",
+    "description": "Protestant Reformation leader in Switzerland, Swiss Reformed Church founder (1484-1531)",
+    "nationalityLabel": "Old Swiss Confederacy",
+    "occupationLabel": "writer||composer||priest||translator||preacher||Protestant reformer||theologian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1768",
@@ -726,7 +735,7 @@
     "sitelinks": "100",
     "description": "American jazz singer (1917–1996)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||conductor||composer||singer-songwriter||recording artist||film actor||jazz singer||musician||bandleader||jazz musician"
+    "occupationLabel": "singer||conductor||composer||singer-songwriter||film actor||recording artist||jazz singer||musician||jazz musician||bandleader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5950",
@@ -735,16 +744,16 @@
     "sitelinks": "100",
     "description": "American musician (1933–2006)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||singer||record producer||sound designer||composer||dancer||pianist||singer-songwriter||musician||guitarist||soul musician||manufacturer"
+    "occupationLabel": "politician||singer||sound designer||composer||record producer||singer-songwriter||dancer||musician||guitarist||pianist||manufacturer||soul musician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123034",
-    "itemLabel": "Huldrych Zwingli",
-    "year": "1531",
+    "item": "http://www.wikidata.org/entity/Q178698",
+    "itemLabel": "W. H. Auden",
+    "year": "1973",
     "sitelinks": "99",
-    "description": "Protestant Reformation leader in Switzerland, Swiss Reformed Church founder (1484-1531)",
-    "nationalityLabel": "Old Swiss Confederacy",
-    "occupationLabel": "author||priest||composer||preacher||translator||Protestant reformer||theologian"
+    "description": "British-American poet (1907–1973)",
+    "nationalityLabel": "British||Briton||American||Americans",
+    "occupationLabel": "screenwriter||writer||composer||poet||playwright||literary critic||translator||librettist||essayist||literary historian||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93341",
@@ -753,7 +762,7 @@
     "sitelinks": "99",
     "description": "American jazz trumpeter, bandleader, and composer (1926–1991)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "conductor||actor||composer||autobiographer||television actor||recording artist||songwriter||musician||trumpeter||orchestra leader||bandleader||music arranger||film score composer||jazz musician"
+    "occupationLabel": "conductor||actor||composer||television actor||autobiographer||trumpeter||recording artist||musician||songwriter||jazz musician||bandleader||film score composer||music arranger||orchestra leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1785",
@@ -762,16 +771,16 @@
     "sitelinks": "98",
     "description": "Armenian-French singer and diplomat (1924-2018)",
     "nationalityLabel": "Armenian||French",
-    "occupationLabel": "film director||screenwriter||singer||author||actor||diplomat||composer||poet||recording artist||film actor||musician||lyricist||chansonnier"
+    "occupationLabel": "screenwriter||film director||singer||writer||actor||composer||diplomat||poet||film actor||chansonnier||recording artist||musician||lyricist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q178698",
-    "itemLabel": "W. H. Auden",
-    "year": "1973",
+    "item": "http://www.wikidata.org/entity/Q123386",
+    "itemLabel": "Isabelle de Charrière",
+    "year": "1805",
     "sitelinks": "97",
-    "description": "British-American poet (1907–1973)",
-    "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "screenwriter||author||playwright||literary critic||composer||poet||librettist||translator||university teacher||essayist||literary historian"
+    "description": "Dutch French-language writer and composer (1740-1805)",
+    "nationalityLabel": "Dutch||Swiss",
+    "occupationLabel": "writer||composer||philosopher||poet||playwright||translator||novelist||essayist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q146256",
@@ -779,7 +788,7 @@
     "year": "2008",
     "sitelinks": "97",
     "description": "South African singer and civil rights activist (1932–2008)",
-    "nationalityLabel": "South African||Algerian",
+    "nationalityLabel": "Algerian||South African",
     "occupationLabel": "singer||actor||composer||recording artist||musician"
   },
   {
@@ -789,7 +798,7 @@
     "sitelinks": "97",
     "description": "American blues guitarist, singer, and songwriter (1925–2015)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||record producer||composer||pianist||singer-songwriter||blues musician||musician||guitarist"
+    "occupationLabel": "singer||composer||record producer||singer-songwriter||blues musician||musician||guitarist||pianist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19198",
@@ -798,7 +807,16 @@
     "sitelinks": "97",
     "description": "American singer, songwriter and musician (1976–2017)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||actor||composer||songwriter||rock singer||musician"
+    "occupationLabel": "singer||actor||composer||musician||rock singer||songwriter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5921",
+    "itemLabel": "Chuck Berry",
+    "year": "2017",
+    "sitelinks": "97",
+    "description": "American musician (1926–2017)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "singer||composer||restaurateur||singer-songwriter||musician||guitarist||rock musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34580",
@@ -807,16 +825,7 @@
     "sitelinks": "97",
     "description": "Japanese singer, voice actor (1948-2022)",
     "nationalityLabel": "Japanese",
-    "occupationLabel": "singer||tarento||actor||composer||seiyū||singer-songwriter||lyricist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q123386",
-    "itemLabel": "Isabelle de Charrière",
-    "year": "1805",
-    "sitelinks": "96",
-    "description": "Dutch French-language writer and composer (1740-1805)",
-    "nationalityLabel": "Dutch||Swiss",
-    "occupationLabel": "author||playwright||composer||philosopher||poet||novelist||translator||essayist"
+    "occupationLabel": "singer||tarento||actor||composer||singer-songwriter||seiyū||lyricist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103774",
@@ -828,19 +837,10 @@
     "occupationLabel": "politician||film director||singer||conductor||composer||sitarist||musician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5921",
-    "itemLabel": "Chuck Berry",
-    "year": "2017",
-    "sitelinks": "96",
-    "description": "American musician (1926–2017)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "restaurateur||singer||composer||singer-songwriter||musician||guitarist||rock musician"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q49481",
     "itemLabel": "Sergei Prokofiev",
     "year": "1953",
-    "sitelinks": "94",
+    "sitelinks": "95",
     "description": "Russian and Soviet pianist, composer and conductor (1891–1953)",
     "nationalityLabel": "Russian||Soviet",
     "occupationLabel": "conductor||composer||pianist"
@@ -852,7 +852,7 @@
     "sitelinks": "94",
     "description": "Spanish-Mexican filmmaker (1900–1983)",
     "nationalityLabel": "Mexican||Mexicans||Spanish||Spaniard",
-    "occupationLabel": "film director||screenwriter||photographer||author||film producer||actor||director||composer||film editor||poet"
+    "occupationLabel": "screenwriter||photographer||film director||film producer||writer||actor||composer||poet||director||film editor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23848",
@@ -861,7 +861,16 @@
     "sitelinks": "94",
     "description": "Italian composer, orchestrator and conductor (1928–2020)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "record producer||conductor||orchestrator||composer||pianist||musician||trumpeter||orchestra leader||music arranger||film score composer"
+    "occupationLabel": "conductor||orchestrator||composer||record producer||trumpeter||musician||pianist||film score composer||music arranger||orchestra leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q93227",
+    "itemLabel": "Nikolai Rimsky-Korsakov",
+    "year": "1908",
+    "sitelinks": "93",
+    "description": "Russian composer (1844–1908)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "conductor||composer||military personnel||librettist||autobiographer||musicologist||editor||university teacher||music educator||music arranger||music theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q150471",
@@ -869,8 +878,8 @@
     "year": "1822",
     "sitelinks": "92",
     "description": "German Romantic author (1776–1822)",
-    "nationalityLabel": "Prussian",
-    "occupationLabel": "judge||screenwriter||jurist||author||conductor||director||chapelmaster||caricaturist||composer||fairy tales writer||children's writer||critic||poet||novelist||science fiction writer||diarist||painter||music critic||draftsperson"
+    "nationalityLabel": "Prussian||German",
+    "occupationLabel": "writer||conductor||judge||composer||jurist||chapelmaster||caricaturist||fairy tales writer||children's writer||poet||director||critic||novelist||science fiction writer||diarist||draftsperson||poet lawyer||painter||music critic||horror writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48173",
@@ -879,16 +888,16 @@
     "sitelinks": "92",
     "description": "Czech composer",
     "nationalityLabel": "Austrian||Austria–Hungary",
-    "occupationLabel": "conductor||composer||teacher||pianist||musician||music arranger||pedagogue||music educator"
+    "occupationLabel": "conductor||composer||teacher||musician||pianist||pedagogue||music educator||music arranger"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q93227",
-    "itemLabel": "Nikolai Rimsky-Korsakov",
-    "year": "1908",
+    "item": "http://www.wikidata.org/entity/Q164004",
+    "itemLabel": "Alexander Borodin",
+    "year": "1887",
     "sitelinks": "92",
-    "description": "Russian composer (1844–1908)",
+    "description": "Russian composer, doctor and chemist (1833–1887)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "conductor||military personnel||composer||autobiographer||librettist||musicologist||university teacher||music arranger||music educator||music theorist||editor"
+    "occupationLabel": "composer||physician||chemist||classical composer||opera composer||musician||pianist||cellist||flautist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131861",
@@ -898,15 +907,6 @@
     "description": "Russian composer, pianist and conductor (1873–1943)",
     "nationalityLabel": "Russian||American||Americans",
     "occupationLabel": "conductor||virtuoso||composer||pianist||musicologist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q164004",
-    "itemLabel": "Alexander Borodin",
-    "year": "1887",
-    "sitelinks": "91",
-    "description": "Russian composer, doctor and chemist (1833–1887)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "composer||physician||pianist||chemist||classical composer||opera composer||musician||flautist||cellist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q13894",
@@ -924,7 +924,7 @@
     "sitelinks": "91",
     "description": "Cambodian monarch and politician (1922–2012)",
     "nationalityLabel": "Cambodian",
-    "occupationLabel": "politician||film director||screenwriter||singer||actor||composer||musician||ruler"
+    "occupationLabel": "screenwriter||politician||film director||singer||actor||composer||musician||ruler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81752",
@@ -939,10 +939,19 @@
     "item": "http://www.wikidata.org/entity/Q83309",
     "itemLabel": "Johann Strauss II",
     "year": "1899",
-    "sitelinks": "89",
+    "sitelinks": "90",
     "description": "Austrian composer (1825-1899)",
     "nationalityLabel": "Austrian",
     "occupationLabel": "conductor||composer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132682",
+    "itemLabel": "Modest Petrovich Mussorgsky",
+    "year": "1881",
+    "sitelinks": "89",
+    "description": "Russian composer (1839–1881)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "composer||military personnel||librettist||musician||pianist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104358",
@@ -951,16 +960,25 @@
     "sitelinks": "89",
     "description": "American jazz singer (1915–1959)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "singer||actor||composer||author||autobiographer||singer-songwriter||jazz singer||songwriter||musician||bandleader||jazz musician"
+    "occupationLabel": "singer||actor||composer||author||autobiographer||singer-songwriter||jazz singer||musician||songwriter||jazz musician||bandleader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q132682",
-    "itemLabel": "Modest Petrovich Mussorgsky",
-    "year": "1881",
-    "sitelinks": "88",
-    "description": "Russian composer (1839–1881)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "military personnel||composer||pianist||librettist||musician"
+    "item": "http://www.wikidata.org/entity/Q164562",
+    "itemLabel": "Sergio Leone",
+    "year": "1989",
+    "sitelinks": "89",
+    "description": "Italian filmmaker (1929–1989)",
+    "nationalityLabel": "Italian",
+    "occupationLabel": "screenwriter||film director||film producer||writer||actor||composer||director||film actor||producer||film screenwriter||filmmaker"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q505476",
+    "itemLabel": "Avicii",
+    "year": "2018",
+    "sitelinks": "89",
+    "description": "Swedish electronic music producer (1989–2018)",
+    "nationalityLabel": "Swedish",
+    "occupationLabel": "disc jockey||fashion model||composer||record producer||remixer||musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4030",
@@ -969,25 +987,7 @@
     "sitelinks": "88",
     "description": "American jazz pianist and composer (1899–1974)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "record producer||conductor||composer||pianist||autobiographer||jazz arranger||musician||lyricist||orchestra leader||bandleader||music arranger||film score composer||jazz musician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q164562",
-    "itemLabel": "Sergio Leone",
-    "year": "1989",
-    "sitelinks": "88",
-    "description": "Italian filmmaker (1929–1989)",
-    "nationalityLabel": "Italian",
-    "occupationLabel": "film director||screenwriter||author||film producer||actor||director||composer||producer||film actor||film screenwriter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q505476",
-    "itemLabel": "Avicii",
-    "year": "2018",
-    "sitelinks": "88",
-    "description": "Swedish electronic music producer (1989–2018)",
-    "nationalityLabel": "Swedish",
-    "occupationLabel": "disc jockey||record producer||fashion model||composer||remixer||musician"
+    "occupationLabel": "conductor||composer||record producer||autobiographer||jazz arranger||musician||pianist||lyricist||jazz musician||bandleader||film score composer||music arranger||orchestra leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134085",
@@ -1002,28 +1002,37 @@
     "item": "http://www.wikidata.org/entity/Q244441",
     "itemLabel": "Pete Seeger",
     "year": "2014",
-    "sitelinks": "86",
+    "sitelinks": "87",
     "description": "American folk singer (1919–2014)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "guitar||singer||street artist||composer||mandolinist||singer-songwriter||recording artist||songwriter||folk musician||musician||guitarist||banjoist||musicologist||peace activist"
+    "occupationLabel": "guitar||singer||composer||street artist||mandolinist||singer-songwriter||banjoist||recording artist||musician||folk musician||guitarist||songwriter||peace activist||musicologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53068",
     "itemLabel": "Claudio Monteverdi",
     "year": "1643",
-    "sitelinks": "85",
+    "sitelinks": "86",
     "description": "Italian composer, string player, choirmaster, and priest (1567–1643)",
     "nationalityLabel": "Venetian",
-    "occupationLabel": "choreographer||singer||composer||viol player||Catholic priest||church musician||classical composer||opera composer||musicologist||court chapel master||music theorist"
+    "occupationLabel": "singer||choreographer||composer||Catholic priest||viol player||classical composer||opera composer||church musician||musicologist||court chapel master||music theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q162005",
     "itemLabel": "Paul Allen",
     "year": "2018",
-    "sitelinks": "85",
+    "sitelinks": "86",
     "description": "American businessman and philanthropist, co-founder of Microsoft (1953–2018)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "computer scientist||record producer||entrepreneur||film producer||composer||inventor||programmer||businessperson||co-founder||philanthropist||musician||investor||television producer||art collector"
+    "occupationLabel": "computer scientist||entrepreneur||film producer||composer||record producer||businessperson||inventor||programmer||co-founder||musician||art collector||investor||philanthropist||television producer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123829",
+    "itemLabel": "George Gershwin",
+    "year": "1937",
+    "sitelinks": "85",
+    "description": "American composer and pianist (1898–1937)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "conductor||composer||pianist||songwriter||jazz pianist||painter||film score composer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q187192",
@@ -1035,48 +1044,39 @@
     "occupationLabel": "composer||pianist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q123829",
-    "itemLabel": "George Gershwin",
-    "year": "1937",
-    "sitelinks": "84",
-    "description": "American composer and pianist (1898–1937)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "conductor||composer||pianist||songwriter||jazz pianist||painter||film score composer"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154770",
     "itemLabel": "Arnold Schoenberg",
     "year": "1951",
     "sitelinks": "84",
     "description": "Austrian-Jewish American composer (1874-1951)",
     "nationalityLabel": "Austria–Hungary||German||Austrian||American||Americans",
-    "occupationLabel": "music teacher||author||conductor||composer||artist||classical composer||painter||musicologist||music theorist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q154812",
-    "itemLabel": "Carl Maria von Weber",
-    "year": "1826",
-    "sitelinks": "82",
-    "description": "German Romantic composer (1786–1826)",
-    "nationalityLabel": "Prince-Bishopric of Lübeck",
-    "occupationLabel": "conductor||composer||pianist||classical guitarist||guitarist||music critic"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q939",
-    "itemLabel": "Pedro I of Brazil",
-    "year": "1834",
-    "sitelinks": "82",
-    "description": "Emperor of Brazil (1822–31) and King of Portugal (1826)",
-    "nationalityLabel": "Empire of Brazil||Kingdom of Portugal",
-    "occupationLabel": "monarch||politician||composer||poet"
+    "occupationLabel": "writer||music teacher||conductor||composer||classical composer||artist||musicologist||painter||music theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16409",
     "itemLabel": "Tristan Tzara",
     "year": "1963",
-    "sitelinks": "82",
+    "sitelinks": "84",
     "description": "Romanian-French poet (1896–1963)",
     "nationalityLabel": "Romanian||French",
-    "occupationLabel": "film director||photographer||author||diplomat||playwright||literary critic||composer||poet||French resistance fighter||translator||performance artist||painter||art collector||essayist||activist||draftsperson"
+    "occupationLabel": "photographer||film director||writer||composer||diplomat||poet||playwright||literary critic||performance artist||translator||essayist||French resistance fighter||art collector||activist||draftsperson||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q487125",
+    "itemLabel": "Viktor Tsoi",
+    "year": "1990",
+    "sitelinks": "84",
+    "description": "Soviet rock musician (1962-1990)",
+    "nationalityLabel": "Soviet",
+    "occupationLabel": "singer||actor||composer||poet||singer-songwriter||film actor||musician||guitarist||lyricist||songwriter||rock musician||fireman||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q939",
+    "itemLabel": "Pedro I of Brazil",
+    "year": "1834",
+    "sitelinks": "83",
+    "description": "Emperor of Brazil from 1822 to 1831 and King of Portugal in 1826 (1798-1834)",
+    "nationalityLabel": "Kingdom of Portugal||Empire of Brazil",
+    "occupationLabel": "monarch||politician||composer||poet"
   }
 ]

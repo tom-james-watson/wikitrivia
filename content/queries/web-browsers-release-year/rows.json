@@ -1,24 +1,17 @@
 [
   {
-    "item": "http://www.wikidata.org/entity/Q698",
-    "itemLabel": "Mozilla Firefox",
-    "year": "2002",
-    "developerLabel": "Mozilla Foundation",
-    "sitelinks": "159"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q777",
     "itemLabel": "Google Chrome",
     "year": "2008",
     "developerLabel": "Google",
-    "sitelinks": "125"
+    "sitelinks": "127"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1575",
     "itemLabel": "Internet Explorer",
     "year": "1995",
     "developerLabel": "Microsoft",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q235419",
@@ -32,7 +25,7 @@
     "itemLabel": "Konqueror",
     "year": "1996",
     "developerLabel": "",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q381047",
@@ -46,7 +39,7 @@
     "itemLabel": "Vivaldi",
     "year": "2015",
     "developerLabel": "Vivaldi Technologies",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q819079",
@@ -63,17 +56,17 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q30589050",
+    "itemLabel": "Samsung Browser",
+    "year": "2013",
+    "developerLabel": "Samsung Group",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1662015",
     "itemLabel": "Yandex Browser",
     "year": "2012",
     "developerLabel": "Yandex",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30589050",
-    "itemLabel": "Samsung Browser",
-    "year": "2013",
-    "developerLabel": "Samsung Electronics",
     "sitelinks": "29"
   },
   {

@@ -1,19 +1,19 @@
 [
   {
-    "item": "http://www.wikidata.org/entity/Q171349",
-    "itemLabel": "Abbas the Great",
-    "positionLabel": "Safavid shah",
-    "sexLabel": "male",
-    "year": "1588",
-    "sitelinks": "83"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q214559",
     "itemLabel": "Ismail I",
     "positionLabel": "Safavid shah",
     "sexLabel": "male",
     "year": "1502",
     "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171349",
+    "itemLabel": "Abbas the Great",
+    "positionLabel": "Safavid shah",
+    "sexLabel": "male",
+    "year": "1588",
+    "sitelinks": "82"
   },
   {
     "item": "http://www.wikidata.org/entity/Q298410",
@@ -77,6 +77,6 @@
     "positionLabel": "Safavid shah",
     "sexLabel": "male",
     "year": "1729",
-    "sitelinks": "36"
+    "sitelinks": "37"
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "qid": "Q226062",
-    "title": "Chevrolet Impala debuts",
-    "subtitle": "Car model by General Motors",
-    "year": 1959,
-    "fact": "The Chevrolet Impala is a full-size car that was built by Chevrolet for model years 1958 to 1985, 1994 to 1996, and 2000 to 2020.",
-    "wikipediaSlug": "Chevrolet_Impala",
-    "image": "Chevrolet_Impala_(14373209694)_(cropped).jpg",
-    "pageViews": 52736
-  },
-  {
     "qid": "Q182323",
     "title": "Ford Model T debuts",
     "subtitle": "Car model by Ford Motor Company",
@@ -32,22 +22,12 @@
   {
     "qid": "Q36024",
     "title": "Mini debuts",
-    "subtitle": "Car model by British Motor Corporation",
+    "subtitle": "Car model by Rover Group",
     "year": 1959,
     "fact": "The Mini is a two-door, four-seat small car produced for four decades over a single generation, with many names and variants, by the British Motor Corporation (BMC) and its successors British Leyland and the Rover Group, and finally (briefly) under BMW ownership.",
     "wikipediaSlug": "Mini",
     "image": "Morris_Mini-Minor_1959_(621_AOK).jpg",
     "pageViews": 38296
-  },
-  {
-    "qid": "Q19947779",
-    "title": "Bugatti Chiron debuts",
-    "subtitle": "Car model by",
-    "year": 2016,
-    "fact": "The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH.",
-    "wikipediaSlug": "Bugatti_Chiron",
-    "image": "Bugatti_Chiron_1.jpg",
-    "pageViews": 35783
   },
   {
     "qid": "Q207341",
@@ -62,7 +42,7 @@
   {
     "qid": "Q11781425",
     "title": "Mini Hatch debuts",
-    "subtitle": "Car model by",
+    "subtitle": "Car model by BMW",
     "year": 2001,
     "fact": "The Mini is a supermini car which has been made since April 2001.",
     "wikipediaSlug": "Mini_Hatch",
@@ -73,7 +53,7 @@
     "qid": "Q223696",
     "title": "Škoda Octavia debuts",
     "subtitle": "Car model by Škoda Auto",
-    "year": 1959,
+    "year": 1996,
     "fact": "The Škoda Octavia is a small family car (C-segment) produced by the Czech car manufacturer Škoda Auto since the end of 1996.",
     "wikipediaSlug": "%C5%A0koda_Octavia",
     "image": "2024_Skoda_Octavia_110TSI_Select_front.jpg",
@@ -230,6 +210,16 @@
     "pageViews": 18822
   },
   {
+    "qid": "Q136672133",
+    "title": "Ferrari Luce debuts",
+    "subtitle": "Car model by Ferrari",
+    "year": 2026,
+    "fact": "The Ferrari Luce is a battery electric executive car produced by Italian automobile manufacturer Ferrari.",
+    "wikipediaSlug": "Ferrari_Luce",
+    "image": "2027_Ferrari_Luce,_front_left.jpg",
+    "pageViews": 17709
+  },
+  {
     "qid": "Q1634161",
     "title": "Tesla Model X debuts",
     "subtitle": "Car model by Tesla",
@@ -310,6 +300,16 @@
     "pageViews": 15366
   },
   {
+    "qid": "Q1468221",
+    "title": "Dodge Dart debuts",
+    "subtitle": "Car model by Dodge",
+    "year": 1959,
+    "fact": "The Dodge Dart is a line of passenger cars produced by Dodge from the 1959 to 1976 model years in North America, with production extended to later years in various other markets.",
+    "wikipediaSlug": "Dodge_Dart",
+    "image": "1966_Dodge_Dart_GT_(35578852214)_(cropped).jpg",
+    "pageViews": 14689
+  },
+  {
     "qid": "Q2035537",
     "title": "Ferrari Daytona debuts",
     "subtitle": "Car model by Ferrari",
@@ -352,7 +352,7 @@
   {
     "qid": "Q796574",
     "title": "BMW M1 debuts",
-    "subtitle": "Car model by",
+    "subtitle": "Car model by BMW",
     "year": 1974,
     "fact": "The BMW M1 is a mid-engined sports car produced by German automotive manufacturer BMW from 1978 until 1981.",
     "wikipediaSlug": "BMW_M1",
@@ -462,7 +462,7 @@
   {
     "qid": "Q494481",
     "title": "Ford Granada Europe debuts",
-    "subtitle": "Car model by Ford of Britain",
+    "subtitle": "Car model by Ford Germany",
     "year": 1972,
     "fact": "The European Ford Granada is an executive car manufactured by Ford Europe from 1972 until 1994.",
     "wikipediaSlug": "Ford_Granada_(Europe)",
@@ -502,7 +502,7 @@
   {
     "qid": "Q1093694",
     "title": "Citroën SM debuts",
-    "subtitle": "Car model by Peugeot",
+    "subtitle": "Car model by Citroën",
     "year": 1970,
     "fact": "The Citroën SM is a high-performance coupé produced by the French manufacturer Citroën from 1970 to 1975.",
     "wikipediaSlug": "Citro%C3%ABn_SM",
@@ -572,7 +572,7 @@
   {
     "qid": "Q1130591",
     "title": "Rolls-Royce Phantom VII debuts",
-    "subtitle": "Car model by",
+    "subtitle": "Car model by BMW",
     "year": 2003,
     "fact": "The Rolls-Royce Phantom is a full-sized luxury saloon car made by Rolls-Royce Motor Cars.",
     "wikipediaSlug": "Rolls-Royce_Phantom_VII",

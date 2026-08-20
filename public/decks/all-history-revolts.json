@@ -32,12 +32,22 @@
   {
     "qid": "Q183421",
     "title": "My Lai Massacre takes place",
-    "subtitle": "List of massacres in Vietnam",
+    "subtitle": "Vietnam War",
     "year": 1968,
     "fact": "The Mỹ Lai Massacre was a United States war crime committed on 16 March 1968, involving the mass murder of unarmed civilians in Sơn Mỹ village, Quảng Ngãi province, South Vietnam, during the Vietnam War.",
     "wikipediaSlug": "My_Lai_massacre",
     "image": "My_Lai_massacre.jpg",
     "pageViews": 148816
+  },
+  {
+    "qid": "Q170334",
+    "title": "Srebrenica massacre takes place",
+    "subtitle": "War in Bosnia and Herzegovina",
+    "year": 1995,
+    "fact": "The Srebrenica massacre, also known as the Srebrenica genocide, was the July 1995 genocidal killing of more than 8,000 Bosniak men and boys in and around the town of Srebrenica during the Bosnian War.",
+    "wikipediaSlug": "Srebrenica_massacre",
+    "image": "Srebrenica_massacre_memorial_gravestones_2009_1.jpg",
+    "pageViews": 122090
   },
   {
     "qid": "Q33761",
@@ -222,7 +232,7 @@
   {
     "qid": "Q111467700",
     "title": "Bucha massacre takes place",
-    "subtitle": "Russian war crimes",
+    "subtitle": "Battle of Bucha",
     "year": 2022,
     "fact": "The Bucha massacre was the mass murder of Ukrainian civilians and prisoners of war by the Russian Armed Forces during the fight for and occupation of the city of Bucha as part of the Russian invasion of Ukraine.",
     "wikipediaSlug": "Bucha_massacre",
@@ -362,7 +372,7 @@
   {
     "qid": "Q579179",
     "title": "Halabja massacre takes place",
-    "subtitle": "Anfal campaign",
+    "subtitle": "Operation Zafar 7",
     "year": 1988,
     "fact": "The Halabja massacre took place in Iraqi Kurdistan on 16 March 1988, when thousands of Kurds were killed by a large-scale Iraqi chemical attack.",
     "wikipediaSlug": "Halabja_massacre",
@@ -722,7 +732,7 @@
   {
     "qid": "Q1327772",
     "title": "Dersim massacre takes place",
-    "subtitle": "Kurdish–Turkish conflict",
+    "subtitle": "Dersim Uprisings",
     "year": 1937,
     "fact": "The Dersim massacre, also known as Dersim genocide, was carried out by the Turkish military over the course of three operations in the Dersim Province against Kurdish rebels of Alevi faith, and civilians in 1937 and 1938.",
     "wikipediaSlug": "Dersim_massacre",
@@ -798,16 +808,6 @@
     "wikipediaSlug": "1944_Romanian_coup_d%27%C3%A9tat",
     "image": "Mihai.jpg",
     "pageViews": 5776
-  },
-  {
-    "qid": "Q1814324",
-    "title": "Vinnytsia massacre takes place",
-    "subtitle": "Great Purge",
-    "year": 1930,
-    "fact": "The Vinnytsia massacre was the mass execution of over 9,000 people in the Ukrainian town of Vinnytsia by the Soviet secret police NKVD during the Great Purge in 1937–1938, which Nazi Germany discovered during its occupation of Ukraine in 1943.",
-    "wikipediaSlug": "Vinnytsia_massacre",
-    "image": "Vinnycia16.jpg",
-    "pageViews": 5552
   },
   {
     "qid": "Q1540751",
@@ -952,7 +952,7 @@
   {
     "qid": "Q1482369",
     "title": "Markale massacres takes place",
-    "subtitle": "War in Bosnia and Herzegovina",
+    "subtitle": "Siege of Sarajevo",
     "year": 1994,
     "fact": "The Markale market shelling or Markale massacres were two separate bombardments, with at least one of them confirmed to have been carried out by the Army of Republika Srpska, targeting civilians during the siege of Sarajevo in the Bosnian War.",
     "wikipediaSlug": "Markale_massacres",
@@ -978,6 +978,16 @@
     "wikipediaSlug": "Jihad_of_Usman_dan_Fodio",
     "image": "Sokoto_Sultanate.png",
     "pageViews": 2290
+  },
+  {
+    "qid": "Q2302690",
+    "title": "Tobacco Protest begins",
+    "subtitle": "Revolution in Qajar Iran",
+    "year": 1890,
+    "fact": "The Persian Tobacco Protest was a Twelver Shia Muslim revolt in Qajar Iran against an 1890 tobacco concession granted by Naser al-Din Shah Qajar to the British Empire, granting control over growth, sale, and export of tobacco to an Englishman, Major G.",
+    "wikipediaSlug": "Tobacco_Protest",
+    "image": "Tobacco_Protest_Fatwa_issued_by_Mirza_Mohammed_Hassan_Husseini_Shirazi_-_1890.jpg",
+    "pageViews": 1907
   },
   {
     "qid": "Q248033",

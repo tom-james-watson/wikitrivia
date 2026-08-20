@@ -3,28 +3,28 @@
     "item": "http://www.wikidata.org/entity/Q9061",
     "itemLabel": "Karl Marx",
     "year": "1883",
-    "sitelinks": "310",
-    "description": "German-born philosopher (1818-1883)",
+    "sitelinks": "312",
+    "description": "German-born philosopher (1818–1883)",
     "nationalityLabel": "statelessness||Prussian",
-    "occupationLabel": "author||politician||economist||poet||historian||philosopher||journalist||sociologist||revolutionary"
+    "occupationLabel": "writer||politician||poet||economist||historian||philosopher||journalist||sociologist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1394",
     "itemLabel": "Vladimir Lenin",
     "year": "1924",
-    "sitelinks": "294",
+    "sitelinks": "293",
     "description": "founding leader of the Soviet Union (1870–1924)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Soviet||Russian",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Soviet",
     "occupationLabel": "politician||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1001",
     "itemLabel": "Mahatma Gandhi",
     "year": "1948",
-    "sitelinks": "283",
+    "sitelinks": "285",
     "description": "Indian independence activist (1869–1948)",
     "nationalityLabel": "Indian",
-    "occupationLabel": "author||politician||jurist||lawyer||civil rights advocate||philosopher||barrister||memoirist||essayist||newspaper editor||freedom fighter||journalist||autobiographer||humanitarian||pacifist||revolutionary||peace activist||political writer"
+    "occupationLabel": "writer||politician||lawyer||jurist||philosopher||author||political writer||civil rights advocate||barrister||pacifist||memoirist||essayist||journalist||autobiographer||peace activist||freedom fighter||newspaper editor||humanitarian||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q855",
@@ -32,17 +32,17 @@
     "year": "1953",
     "sitelinks": "278",
     "description": "leader of the Soviet Union from 1924 to 1953",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Soviet||Russian",
-    "occupationLabel": "politician||statesperson||opinion journalist||official||linguist||revolutionary"
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Soviet",
+    "occupationLabel": "politician||opinion journalist||statesperson||linguist||official||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23",
     "itemLabel": "George Washington",
     "year": "1799",
-    "sitelinks": "272",
-    "description": "founding Father and first U.S. president; soldier and slave owner (1732–1799)",
+    "sitelinks": "273",
+    "description": "Founding Father and first U.S. president (1732–1799)",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "engineer||farmer||author||politician||statesperson||commander-in-chief||geometer||revolutionary||army officer||cartographer"
+    "occupationLabel": "engineer||writer||politician||farmer||statesperson||commander-in-chief||cartographer||geometer||army officer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5152",
@@ -51,16 +51,16 @@
     "sitelinks": "253",
     "description": "founding father of the Republic of Turkey (c. 1881–1938)",
     "nationalityLabel": "Ottoman||Turkish",
-    "occupationLabel": "author||politician||statesperson||revolutionary||army officer"
+    "occupationLabel": "writer||politician||statesperson||army officer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5816",
     "itemLabel": "Mao Zedong",
     "year": "1976",
-    "sitelinks": "230",
+    "sitelinks": "231",
     "description": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China (1893–1976)",
-    "nationalityLabel": "Chinese Soviet Republic||Chinese||Qing dynasty",
-    "occupationLabel": "author||politician||librarian||poet||philosopher||strategist||military theorist||communist||political theorist||revolutionary||calligrapher"
+    "nationalityLabel": "Chinese||Chinese Soviet Republic||Qing dynasty",
+    "occupationLabel": "writer||politician||poet||librarian||strategist||philosopher||author||military theorist||political theorist||communist||revolutionary||calligrapher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5809",
@@ -75,82 +75,73 @@
     "item": "http://www.wikidata.org/entity/Q11256",
     "itemLabel": "Fidel Castro",
     "year": "2016",
-    "sitelinks": "205",
+    "sitelinks": "206",
     "description": "Cuban politician, author and revolutionary (1926–2016)",
     "nationalityLabel": "Cuban",
-    "occupationLabel": "politician||dictator||head of state||jurist||partisan||lawyer||statesperson||film actor||journalist||revolutionary"
+    "occupationLabel": "politician||lawyer||dictator||head of state||jurist||statesperson||partisan||film actor||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34787",
     "itemLabel": "Friedrich Engels",
     "year": "1895",
-    "sitelinks": "196",
+    "sitelinks": "199",
     "description": "German philosopher, sociologist and economist (1820–1895)",
     "nationalityLabel": "Prussian||British||Briton",
-    "occupationLabel": "author||entrepreneur||economist||historian||philosopher||women's rights activist||social scientist||journalist||sociologist||political theorist||revolutionary"
+    "occupationLabel": "writer||entrepreneur||economist||historian||philosopher||author||political theorist||journalist||sociologist||women's rights activist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7231",
     "itemLabel": "Rosa Luxemburg",
     "year": "1919",
-    "sitelinks": "187",
+    "sitelinks": "189",
     "description": "Polish-German Marxist revolutionary (1871–1919)",
     "nationalityLabel": "Russian||German",
-    "occupationLabel": "politician||economist||opinion journalist||docent||philosopher||editing staff||socialist||editor||political economist||political theorist||botanical collector||revolutionary"
+    "occupationLabel": "politician||economist||opinion journalist||philosopher||docent||editing staff||political theorist||political economist||editor||revolutionary||botanical collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33391",
     "itemLabel": "Leon Trotsky",
     "year": "1940",
-    "sitelinks": "182",
+    "sitelinks": "183",
     "description": "Russian Marxist revolutionary (1879–1940)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Ukrainian Soviet Socialist Republic||Soviet||Russian||Mexican||Mexicans",
-    "occupationLabel": "author||politician||diplomat||historian||military personnel||philosopher||journalist||autobiographer||communist||revolutionary"
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Ukrainian Soviet Socialist Republic||Soviet||Mexican||Mexicans",
+    "occupationLabel": "writer||politician||military personnel||diplomat||historian||philosopher||journalist||autobiographer||communist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35314",
     "itemLabel": "Nikita Khrushchev",
     "year": "1971",
-    "sitelinks": "169",
+    "sitelinks": "170",
     "description": "leader of the Soviet Union from 1953 to 1964",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Soviet||Russian",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Soviet",
     "occupationLabel": "politician||military personnel||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8573",
     "itemLabel": "Sun Yat-sen",
     "year": "1925",
-    "sitelinks": "151",
+    "sitelinks": "152",
     "description": "Chinese politician, physician, and revolutionary (1866–1925)",
     "nationalityLabel": "Chinese||Qing dynasty",
-    "occupationLabel": "politician||physician||author||philosopher||revolutionary"
+    "occupationLabel": "politician||physician||philosopher||author||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q231690",
     "itemLabel": "B. R. Ambedkar",
     "year": "1956",
-    "sitelinks": "148",
+    "sitelinks": "149",
     "description": "Indian polymath, philosopher, and social reformer (1891–1956)",
     "nationalityLabel": "British Raj||Indian",
-    "occupationLabel": "author||politician||economist||jurist||professor||historian||lawyer||anthropologist||civil rights advocate||philosopher||painter||barrister||bibliographer||theologian||political scientist||essayist||social reformer||newspaper editor||women's rights activist||freedom fighter||orator||pedagogue||journalist||human rights defender||sociologist||autobiographer||humanitarian||scholar||revolutionary||peace activist||educational theorist||spiritual leader||political writer||constitutionalist"
+    "occupationLabel": "politician||writer||professor||lawyer||jurist||anthropologist||economist||historian||philosopher||orator||political writer||civil rights advocate||bibliographer||barrister||pedagogue||painter||essayist||theologian||political scientist||social reformer||journalist||autobiographer||peace activist||sociologist||women's rights activist||freedom fighter||human rights defender||scholar||educational theorist||newspaper editor||humanitarian||revolutionary||spiritual leader||constitutionalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q27645",
     "itemLabel": "Mikhail Bakunin",
     "year": "1876",
-    "sitelinks": "137",
+    "sitelinks": "141",
     "description": "Russian revolutionary anarchist and philosopher (1814–1876)",
     "nationalityLabel": "Russian||French",
-    "occupationLabel": "author||politician||philosopher||anarchist||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q38823",
-    "itemLabel": "Ruhollah Khomeini",
-    "year": "1989",
-    "sitelinks": "135",
-    "description": "Supreme Leader of Iran from 1979 to 1989",
-    "nationalityLabel": "Iranian||Persian",
-    "occupationLabel": "marji'||politician||ulema||poet||preacher||philosopher||Islamic jurist||revolutionary"
+    "occupationLabel": "writer||politician||philosopher||anarchist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37060",
@@ -159,13 +150,22 @@
     "sitelinks": "135",
     "description": "Portuguese novelist (1922–2010)",
     "nationalityLabel": "Portuguese",
-    "occupationLabel": "screenwriter||author||poet||literary critic||dramaturge||novelist||playwright||translator||essayist||journalist||chronicler||diarist||revolutionary"
+    "occupationLabel": "screenwriter||writer||poet||chronicler||translator||playwright||novelist||literary critic||dramaturge||essayist||journalist||diarist||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38823",
+    "itemLabel": "Ruhollah Khomeini",
+    "year": "1989",
+    "sitelinks": "134",
+    "description": "Supreme Leader of Iran from 1979 to 1989",
+    "nationalityLabel": "Iranian||Persian",
+    "occupationLabel": "marji'||politician||poet||ulema||preacher||philosopher||Islamic jurist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44197",
     "itemLabel": "Maximilien Robespierre",
     "year": "1794",
-    "sitelinks": "132",
+    "sitelinks": "133",
     "description": "French revolutionary lawyer and politician (1758–1794)",
     "nationalityLabel": "French",
     "occupationLabel": "politician||lawyer||journalist||revolutionary"
@@ -174,25 +174,25 @@
     "item": "http://www.wikidata.org/entity/Q9161",
     "itemLabel": "Josip Broz Tito",
     "year": "1980",
-    "sitelinks": "129",
+    "sitelinks": "130",
     "description": "Yugoslav revolutionary and statesman (1892−1980)",
-    "nationalityLabel": "Kingdom of Serbs, Croats and Slovenes||Democratic Federal Yugoslavia||Socialist Federal Republic of Yugoslavia||Yugoslavia||Hungarian",
-    "occupationLabel": "politician||marshal||locksmith||machinist||statesperson||Esperantist||resistance fighter||revolutionary"
+    "nationalityLabel": "Kingdom of Serbs, Croats and Slovenes||Democratic Federal Yugoslavia||Yugoslavia||Socialist Federal Republic of Yugoslavia||Hungarian",
+    "occupationLabel": "marshal||politician||machinist||statesperson||locksmith||resistance fighter||Esperantist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39524",
-    "itemLabel": "Gamal Abdel Nasser",
+    "itemLabel": "Jamāl ʻAbd al-Nāṣir",
     "year": "1970",
-    "sitelinks": "127",
+    "sitelinks": "128",
     "description": "President of Egypt from 1956 to 1970",
-    "nationalityLabel": "Republic of Egypt||Sultanate of Egypt||Kingdom of Egypt||United Arab Republic",
-    "occupationLabel": "politician||president||military officer||military leader||revolutionary"
+    "nationalityLabel": "Sultanate of Egypt||Republic of Egypt||Kingdom of Egypt||United Arab Republic",
+    "occupationLabel": "president||politician||military officer||military leader||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q161672",
     "itemLabel": "Patrice Lumumba",
     "year": "1961",
-    "sitelinks": "113",
+    "sitelinks": "114",
     "description": "Congolese politician and independence leader (1925–1961)",
     "nationalityLabel": "Republic of the Congo (Léopoldville)",
     "occupationLabel": "politician||founder||revolutionary"
@@ -201,10 +201,10 @@
     "item": "http://www.wikidata.org/entity/Q5749",
     "itemLabel": "Pierre-Joseph Proudhon",
     "year": "1865",
-    "sitelinks": "104",
+    "sitelinks": "106",
     "description": "French politician, philosopher, anarchist and socialist (1809-1865)",
     "nationalityLabel": "French||Belgian",
-    "occupationLabel": "author||politician||printer||economist||philosopher||anarchist||political economist||journalist||sociologist||revolutionary"
+    "occupationLabel": "writer||politician||printer||economist||philosopher||anarchist||political economist||journalist||sociologist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57308",
@@ -213,7 +213,7 @@
     "sitelinks": "103",
     "description": "President of Algeria from 1999 to 2019",
     "nationalityLabel": "Algerian",
-    "occupationLabel": "politician||diplomat||President of the Republic||revolutionary"
+    "occupationLabel": "politician||diplomat||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q187336",
@@ -222,16 +222,25 @@
     "sitelinks": "99",
     "description": "Italian nationalist activist, politician, journalist and philosopher",
     "nationalityLabel": "Italian||French",
-    "occupationLabel": "author||politician||jurist||lawyer||literary critic||philosopher||freedom fighter||journalist||revolutionary"
+    "occupationLabel": "politician||writer||lawyer||jurist||philosopher||literary critic||journalist||freedom fighter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103285",
     "itemLabel": "José Martí",
     "year": "1895",
-    "sitelinks": "98",
+    "sitelinks": "99",
     "description": "Cuban poet, philosopher and nationalist (1853-1895)",
     "nationalityLabel": "Mexican||Mexicans||Spanish||Spaniard",
-    "occupationLabel": "author||politician||poet||military personnel||philosopher||painter||translator||linguist||essayist||journalist||revolutionary"
+    "occupationLabel": "politician||writer||military personnel||poet||translator||philosopher||linguist||painter||essayist||journalist||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192207",
+    "itemLabel": "Aurobindo Ghosh",
+    "year": "1950",
+    "sitelinks": "99",
+    "description": "Indian Bengali philosopher, yogi, maharishi, poet and nationalist (1872–1950)",
+    "nationalityLabel": "British Raj||Indian",
+    "occupationLabel": "politician||writer||professor||poet||translator||principal||civil servant||guru||philosopher||literary critic||editor||essayist||yogi||revolutionary||vice-principal"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80492",
@@ -243,20 +252,11 @@
     "occupationLabel": "revolutionary"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q192207",
-    "itemLabel": "Aurobindo Ghosh",
-    "year": "1950",
-    "sitelinks": "98",
-    "description": "Indian Bengali philosopher, yogi, maharishi, poet and nationalist (1872–1950)",
-    "nationalityLabel": "British Raj||Indian",
-    "occupationLabel": "author||politician||professor||civil servant||poet||literary critic||philosopher||principal||translator||guru||essayist||editor||revolutionary||yogi||vice-principal"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q41718",
     "itemLabel": "Emiliano Zapata",
     "year": "1919",
-    "sitelinks": "96",
-    "description": "Revolucionario Mexicano (1911-1919)",
+    "sitelinks": "97",
+    "description": "Mexican revolutionary (1879–1919)",
     "nationalityLabel": "Mexican||Mexicans",
     "occupationLabel": "farmer||partisan||revolutionary"
   },
@@ -267,7 +267,7 @@
     "sitelinks": "91",
     "description": "French revolutionary (1759–1794)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||jurist||lawyer||revolutionary"
+    "occupationLabel": "politician||lawyer||jurist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1500",
@@ -276,7 +276,7 @@
     "sitelinks": "89",
     "description": "Filipino nationalist, writer and polymath (1861–1896)",
     "nationalityLabel": "Captaincy General of the Philippines||Filipino||Filipina||Philippine",
-    "occupationLabel": "author||politician||physician||poet||literary translator||novelist||painter||translator||polymath||surgeon||linguist||political activist||patriot||ophthalmologist||revolutionary||satirical novelist"
+    "occupationLabel": "writer||politician||physician||poet||polymath||translator||novelist||ophthalmologist||linguist||political activist||literary translator||surgeon||painter||patriot||revolutionary||satirical novelist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179558",
@@ -284,8 +284,8 @@
     "year": "1952",
     "sitelinks": "86",
     "description": "Soviet diplomat (1872-1952)",
-    "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "author||politician||diplomat||People's Commissar||women's rights activist||sociologist||political theorist||feminist||revolutionary"
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "politician||writer||diplomat||political theorist||People's Commissar||sociologist||women's rights activist||feminist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q201221",
@@ -293,8 +293,17 @@
     "year": "1870",
     "sitelinks": "83",
     "description": "Russian author, philosopher, and revolutionary (1812–1870)",
-    "nationalityLabel": "Russian||Swiss||French",
-    "occupationLabel": "author||politician||teacher||literary critic||opinion journalist||philosopher||prose writer||pedagogue||journalist||autobiographer||revolutionary"
+    "nationalityLabel": "Russian||French||Swiss",
+    "occupationLabel": "politician||writer||teacher||opinion journalist||philosopher||literary critic||prose writer||pedagogue||journalist||autobiographer||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q48211",
+    "itemLabel": "Alexander Kerensky",
+    "year": "1970",
+    "sitelinks": "83",
+    "description": "Russian politician, prime minister in 1917 (1881–1970)",
+    "nationalityLabel": "Russian||Russian Republic",
+    "occupationLabel": "politician||lawyer||jurist||law firm||member of parliament||author||head of government||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q75886",
@@ -303,16 +312,7 @@
     "sitelinks": "82",
     "description": "German socialist, editor, and co-founder of the Spartacus League (1871-1919)",
     "nationalityLabel": "German",
-    "occupationLabel": "politician||jurist||lawyer||member of parliament||author||socialist||editor||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48211",
-    "itemLabel": "Alexander Kerensky",
-    "year": "1970",
-    "sitelinks": "82",
-    "description": "Russian politician, prime minister in 1917 (1881–1970)",
-    "nationalityLabel": "Russian Republic||Russian",
-    "occupationLabel": "politician||jurist||lawyer||member of parliament||author||law firm||head of government||revolutionary"
+    "occupationLabel": "politician||lawyer||jurist||member of parliament||author||socialist||editor||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188570",
@@ -320,17 +320,17 @@
     "year": "1926",
     "sitelinks": "80",
     "description": "Bolshevik revolutionary and founder of the first Soviet secret police organs (1877-1926)",
-    "nationalityLabel": "Soviet||Russian Soviet Federative Socialist Republic||Russian",
+    "nationalityLabel": "Russian||Russian Soviet Federative Socialist Republic||Soviet",
     "occupationLabel": "revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192278",
     "itemLabel": "Pancho Villa",
     "year": "1923",
-    "sitelinks": "77",
+    "sitelinks": "78",
     "description": "Mexican revolutionary (1878-1923)",
     "nationalityLabel": "Mexican||Mexicans",
-    "occupationLabel": "national hero||politician||partisan||revolutionary"
+    "occupationLabel": "politician||national hero||partisan||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47900",
@@ -339,7 +339,7 @@
     "sitelinks": "76",
     "description": "Ukrainian anarchist revolutionary (1888–1934)",
     "nationalityLabel": "Russian||French",
-    "occupationLabel": "author||farmer||politician||military personnel||painter||anarchist||revolutionary"
+    "occupationLabel": "writer||politician||farmer||military personnel||anarchist||painter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2153",
@@ -348,7 +348,7 @@
     "sitelinks": "76",
     "description": "Indian nationalist leader (1897-1945)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "author||politician||resistance fighter||freedom fighter||autobiographer||political leader||revolutionary"
+    "occupationLabel": "writer||politician||resistance fighter||autobiographer||freedom fighter||political leader||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154014",
@@ -357,24 +357,24 @@
     "sitelinks": "74",
     "description": "German dramatist and writer of poetry and prose (1813–1837)",
     "nationalityLabel": "Grand Duchy of Hesse",
-    "occupationLabel": "naturalist||author||physician||poet||physician writer||playwright||philosopher||translator||revolutionary"
+    "occupationLabel": "naturalist||writer||physician||poet||translator||playwright||philosopher||physician writer||medical author||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182905",
     "itemLabel": "Georgi Plekhanov",
     "year": "1918",
-    "sitelinks": "72",
+    "sitelinks": "73",
     "description": "Russian philosopher (1856–1918)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "author||politician||economist||historian||philosopher||art historian||journalist||sociologist||revolutionary"
+    "occupationLabel": "politician||writer||economist||historian||philosopher||journalist||sociologist||art historian||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q186185",
     "itemLabel": "Kliment Voroshilov",
     "year": "1969",
-    "sitelinks": "72",
+    "sitelinks": "73",
     "description": "Soviet marshal and politician",
-    "nationalityLabel": "Soviet||Russian",
+    "nationalityLabel": "Russian||Soviet",
     "occupationLabel": "politician||military officer||head of state||soldier||revolutionary"
   },
   {
@@ -393,7 +393,16 @@
     "sitelinks": "71",
     "description": "President of Romania (1990–1996; 2000–2004)",
     "nationalityLabel": "Romanian",
-    "occupationLabel": "engineer||author||politician||activist||non-fiction writer||design engineer||revolutionary||propagandist"
+    "occupationLabel": "engineer||politician||writer||non-fiction writer||activist||propagandist||design engineer||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q587697",
+    "itemLabel": "Afonso I of Portugal",
+    "year": "1185",
+    "sitelinks": "69",
+    "description": "king of Portugal from 1139 to 1185",
+    "nationalityLabel": "Galician||Kingdom of Portugal",
+    "occupationLabel": "writer||warrior||sovereign||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188939",
@@ -410,17 +419,8 @@
     "year": "1978",
     "sitelinks": "68",
     "description": "Soviet revolutionary and statesman (1895–1978)",
-    "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "author||politician||party organizer||statesperson||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q587697",
-    "itemLabel": "Afonso I of Portugal",
-    "year": "1185",
-    "sitelinks": "67",
-    "description": "king of Portugal from 1139 to 1185",
-    "nationalityLabel": "Galician||Kingdom of Portugal",
-    "occupationLabel": "author||warrior||sovereign||revolutionary"
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "politician||writer||statesperson||party organizer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207459",
@@ -428,8 +428,17 @@
     "year": "1936",
     "sitelinks": "67",
     "description": "Ukrainian revolutionary (1883-1936)",
-    "nationalityLabel": "Soviet||Russian",
+    "nationalityLabel": "Russian||Soviet",
     "occupationLabel": "politician||actor||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q205783",
+    "itemLabel": "Toussaint Louverture",
+    "year": "1803",
+    "sitelinks": "66",
+    "description": "Haitian national hero (1743–1803)",
+    "nationalityLabel": "Saint-Domingue||French",
+    "occupationLabel": "politician||governor||military personnel||freedom fighter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q27764",
@@ -438,7 +447,7 @@
     "sitelinks": "65",
     "description": "Philosopher, military and political leader (1767-1794)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||politician||poet||revolutionary"
+    "occupationLabel": "writer||politician||poet||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q294344",
@@ -447,7 +456,7 @@
     "sitelinks": "65",
     "description": "French priest and statesman (1748-1836)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||politician||diplomat||member of parliament||Latin Catholic priest||non-fiction writer||essayist||cleric||sociologist||political theorist||revolutionary"
+    "occupationLabel": "politician||writer||diplomat||member of parliament||non-fiction writer||political theorist||essayist||sociologist||cleric||Latin Catholic priest||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216092",
@@ -456,7 +465,7 @@
     "sitelinks": "65",
     "description": "French author and anarchist (1830-1905)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||politician||teacher||poet||woman of letters||social activist||anarchist||primary school teacher||communard||pedagogue||journalist||revolutionary"
+    "occupationLabel": "politician||writer||teacher||poet||woman of letters||primary school teacher||anarchist||social activist||pedagogue||journalist||communard||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q165854",
@@ -464,8 +473,8 @@
     "year": "1936",
     "sitelinks": "65",
     "description": "Russian revolutionary and Soviet politician (1883–1936)",
-    "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "author||politician||revolutionary"
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "politician||writer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q77004",
@@ -473,8 +482,8 @@
     "year": "1944",
     "sitelinks": "65",
     "description": "German communist politician, leader of Communist Party of Germany (1886–1944)",
-    "nationalityLabel": "German||Weimar Republic||Nazi Germany",
-    "occupationLabel": "politician||laborer||party leader||trade unionist||revolutionary"
+    "nationalityLabel": "German||Nazi Germany||Weimar Republic",
+    "occupationLabel": "politician||laborer||trade unionist||party leader||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216766",
@@ -483,7 +492,7 @@
     "sitelinks": "64",
     "description": "Mexican revolutionary leader and president (1873-1913)",
     "nationalityLabel": "Mexican||Mexicans",
-    "occupationLabel": "author||politician||businessperson||military personnel||musician||revolutionary"
+    "occupationLabel": "politician||writer||businessperson||military personnel||musician||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18809",
@@ -491,8 +500,8 @@
     "year": "1933",
     "sitelinks": "64",
     "description": "Russian Soviet revolutionary, politician and writer (1875–1933)",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Soviet||Russian",
-    "occupationLabel": "screenwriter||author||politician||actor||diplomat||literary critic||playwright||philosopher||art historian||journalist||revolutionary||cultural politician"
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Soviet",
+    "occupationLabel": "screenwriter||writer||politician||actor||diplomat||playwright||philosopher||literary critic||journalist||art historian||cultural policymaker||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q154240",
@@ -505,12 +514,12 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q211379",
-    "itemLabel": "Sayyid Qutb",
+    "itemLabel": "Sayyid Quṭb",
     "year": "1966",
-    "sitelinks": "62",
+    "sitelinks": "63",
     "description": "Egyptian political theorist and revolutionary (1906–1966)",
     "nationalityLabel": "Ottoman||Egyptian",
-    "occupationLabel": "author||politician||poet||philosopher||non-fiction writer||journalist||revolutionary"
+    "occupationLabel": "politician||writer||poet||academic||philosopher||non-fiction writer||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q233969",
@@ -519,16 +528,16 @@
     "sitelinks": "61",
     "description": "Vietnamese diplomat (1911–1990)",
     "nationalityLabel": "Vietnamese",
-    "occupationLabel": "politician||diplomat||military personnel||revolutionary"
+    "occupationLabel": "politician||military personnel||diplomat||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312555",
     "itemLabel": "Bal Gangadhar Tilak",
     "year": "1920",
     "sitelinks": "60",
-    "description": "Indian self-rule activist (1856–1920)",
+    "description": "Indian nationalist leader, writer and journalist (1856–1920)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "author||politician||philosopher||freedom fighter||revolutionary"
+    "occupationLabel": "politician||writer||philosopher||author||educator||editor||journalist||freedom fighter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151646",
@@ -546,16 +555,16 @@
     "sitelinks": "59",
     "description": "early Reformation-era German pastor who was a rebel leader during the German Peasants' War",
     "nationalityLabel": "Roman",
-    "occupationLabel": "printer||priest||parson||Protestant reformer||lyricist||theologian||revolutionary||Protestant theologian"
+    "occupationLabel": "priest||printer||Protestant reformer||parson||lyricist||theologian||revolutionary||Protestant theologian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213374",
     "itemLabel": "James Connolly",
     "year": "1916",
-    "sitelinks": "58",
+    "sitelinks": "59",
     "description": "Irish republican, trade unionist and socialist revolutionary",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||Esperantist||socialist||trade unionist||revolutionary||union member"
+    "occupationLabel": "politician||socialist||trade unionist||Esperantist||revolutionary||union member"
   },
   {
     "item": "http://www.wikidata.org/entity/Q215705",
@@ -564,7 +573,7 @@
     "sitelinks": "58",
     "description": "Soviet politician (1893–1991)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "cobbler||politician||statesperson||revolutionary"
+    "occupationLabel": "politician||cobbler||statesperson||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189714",
@@ -573,13 +582,13 @@
     "sitelinks": "57",
     "description": "French political agitator and journalist (1760-1797)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||politician||archivist||journalist||revolutionary"
+    "occupationLabel": "politician||writer||archivist||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213746",
     "itemLabel": "Augusto Nicolás Calderón Sandino",
     "year": "1934",
-    "sitelinks": "56",
+    "sitelinks": "57",
     "description": "Nicaraguan revolutionary (1895-1934)",
     "nationalityLabel": "Nicaraguan",
     "occupationLabel": "politician||soldier||military leader||artisan||revolutionary"
@@ -590,7 +599,7 @@
     "year": "1937",
     "sitelinks": "56",
     "description": "Soviet politician (1886-1937)",
-    "nationalityLabel": "Soviet||Russian",
+    "nationalityLabel": "Russian||Soviet",
     "occupationLabel": "politician||metallurgist||revolutionary"
   },
   {
@@ -615,10 +624,10 @@
     "item": "http://www.wikidata.org/entity/Q249313",
     "itemLabel": "Camille Desmoulins",
     "year": "1794",
-    "sitelinks": "52",
+    "sitelinks": "53",
     "description": "French journalist, politician and revolutionary (1760-1794)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||jurist||lawyer||journalist||revolutionary"
+    "occupationLabel": "politician||lawyer||jurist||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313623",
@@ -630,22 +639,31 @@
     "occupationLabel": "politician||diplomat||musicologist||revolutionary"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q315937",
-    "itemLabel": "Túpac Amaru II",
-    "year": "1781",
-    "sitelinks": "51",
-    "description": "leader of a large Andean uprising against the Spanish in Peru (1738-1781)",
-    "nationalityLabel": "Peruvian",
-    "occupationLabel": "politician||rebel||revolutionary||indigenous leader of the Americas"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q294832",
     "itemLabel": "Alexandru Ioan Cuza",
     "year": "1873",
     "sitelinks": "51",
     "description": "first ruler of the United Principalities of Moldavia and Wallachia",
     "nationalityLabel": "United Principalities of Moldavia and Wallachia||Principality of Wallachia||Moldavian",
-    "occupationLabel": "Fürst||politician||military officer||jurist||diplomat||revolutionary"
+    "occupationLabel": "Fürst||politician||military officer||diplomat||jurist||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q215673",
+    "itemLabel": "Errico Malatesta",
+    "year": "1932",
+    "sitelinks": "51",
+    "description": "anarchist (1853-1932)",
+    "nationalityLabel": "Italian",
+    "occupationLabel": "writer||anarchist||trade unionist||activist||editor||journalist||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q315937",
+    "itemLabel": "Túpac Amaru II",
+    "year": "1781",
+    "sitelinks": "50",
+    "description": "leader of a large Andean uprising against the Spanish in Peru (1738-1781)",
+    "nationalityLabel": "Peruvian",
+    "occupationLabel": "politician||rebel||indigenous leader of the Americas||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58062",
@@ -654,7 +672,16 @@
     "sitelinks": "50",
     "description": "German naturalist, ethnologist, travel writer, journalist, and revolutionary (1754-1794)",
     "nationalityLabel": "Republic of Mainz||Royal Prussia||Polish–Lithuanian Commonwealth||German||French||Polish||Lithuanian",
-    "occupationLabel": "naturalist||author||librarian||travel writer||anthropologist||translator||traveler||scientific explorer||ornithologist||geographer||ethnologist||art historian||pteridologist||explorer||university teacher||journalist||autobiographer||botanical collector||botanist||revolutionary||mycologist||entomologist||scientific collector"
+    "occupationLabel": "naturalist||writer||anthropologist||librarian||translator||scientific explorer||travel writer||geographer||traveler||pteridologist||explorer||university teacher||botanist||journalist||autobiographer||ornithologist||mycologist||ethnologist||art historian||entomologist||revolutionary||botanical collector||scientific collector"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q347118",
+    "itemLabel": "Hristo Botev",
+    "year": "1876",
+    "sitelinks": "50",
+    "description": "Bulgarian poet, journalist and revolutionary (1847–1876)",
+    "nationalityLabel": "Ottoman",
+    "occupationLabel": "writer||politician||teacher||poet||translator||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q274143",
@@ -663,16 +690,7 @@
     "sitelinks": "50",
     "description": "Irish revolutionary, shot by the British Army in 1916",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "author||politician||teacher||poet||military personnel||barrister||journalist||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q215673",
-    "itemLabel": "Errico Malatesta",
-    "year": "1932",
-    "sitelinks": "50",
-    "description": "anarchist (1853-1932)",
-    "nationalityLabel": "Italian",
-    "occupationLabel": "author||anarchist||activist||editor||trade unionist||journalist||revolutionary"
+    "occupationLabel": "politician||writer||teacher||military personnel||poet||barrister||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11730",
@@ -681,7 +699,7 @@
     "sitelinks": "50",
     "description": "Austrian Social Democrat (1881-1938)",
     "nationalityLabel": "Austrian",
-    "occupationLabel": "author||politician||jurist||diplomat||opinion journalist||member of parliament||philosopher||editing staff||socialist||revolutionary"
+    "occupationLabel": "writer||politician||diplomat||jurist||opinion journalist||philosopher||member of parliament||author||socialist||editing staff||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311447",
@@ -690,25 +708,16 @@
     "sitelinks": "49",
     "description": "Venezuelan military leader (1750–1816)",
     "nationalityLabel": "Venezuelan||Venezuelans||Spanish||Spaniard",
-    "occupationLabel": "author||politician||soldier||translator||revolutionary"
+    "occupationLabel": "politician||writer||translator||soldier||revolutionary"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q347118",
-    "itemLabel": "Hristo Botev",
-    "year": "1876",
-    "sitelinks": "49",
-    "description": "Bulgarian poet, journalist and revolutionary (1847–1876)",
-    "nationalityLabel": "Ottoman",
-    "occupationLabel": "author||teacher||politician||poet||translator||journalist||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26853",
-    "itemLabel": "Camilo Cienfuegos",
-    "year": "1959",
-    "sitelinks": "49",
-    "description": "Cuban revolutionary fighter and guerilla (1932–1959)",
-    "nationalityLabel": "Cuban||Spanish||Spaniard",
-    "occupationLabel": "politician||military officer||revolutionary"
+    "item": "http://www.wikidata.org/entity/Q76938",
+    "itemLabel": "August Heinrich Hoffmann von Fallersleben",
+    "year": "1874",
+    "sitelinks": "48",
+    "description": "German scholar and poet (1798–1874)",
+    "nationalityLabel": "Prussian",
+    "occupationLabel": "composer||writer||poet||librarian||children's writer||philologist||musicologist||librettist||curator||university teacher||Germanist||ethnomusicologist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q298384",
@@ -716,17 +725,17 @@
     "year": "1919",
     "sitelinks": "48",
     "description": "Soviet politician",
-    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian Republic||Russian",
+    "nationalityLabel": "Russian Socialist Federative Soviet Republic||Russian||Russian Republic",
     "occupationLabel": "politician||revolutionary"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q76938",
-    "itemLabel": "August Heinrich Hoffmann von Fallersleben",
-    "year": "1874",
-    "sitelinks": "47",
-    "description": "German scholar and poet (1798–1874)",
-    "nationalityLabel": "Prussian",
-    "occupationLabel": "composer||author||librarian||poet||children's writer||librettist||curator||musicologist||philologist||university teacher||ethnomusicologist||revolutionary||germanist"
+    "item": "http://www.wikidata.org/entity/Q26853",
+    "itemLabel": "Camilo Cienfuegos",
+    "year": "1959",
+    "sitelinks": "48",
+    "description": "Cuban revolutionary fighter and guerilla (1932–1959)",
+    "nationalityLabel": "Cuban||Spanish||Spaniard",
+    "occupationLabel": "politician||military officer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q315172",
@@ -735,7 +744,7 @@
     "sitelinks": "46",
     "description": "Serbian Revolutionary Leader",
     "nationalityLabel": "Ottoman",
-    "occupationLabel": "Fürst||merchant||military leader||resistance fighter||revolutionary"
+    "occupationLabel": "Fürst||merchant||resistance fighter||military leader||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313299",
@@ -744,7 +753,7 @@
     "sitelinks": "46",
     "description": "Indian political leader and social reformer (1866–1915)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "author||politician||economist||philosopher||translator||freedom fighter||revolutionary"
+    "occupationLabel": "politician||writer||economist||translator||philosopher||freedom fighter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46932",
@@ -753,7 +762,7 @@
     "sitelinks": "46",
     "description": "Prime Minister of Albania (1844-1919)",
     "nationalityLabel": "Ottoman||Albanian||Albanians",
-    "occupationLabel": "politician||head of state||diplomat||statesperson||translator||thinker||revolutionary"
+    "occupationLabel": "politician||head of state||diplomat||translator||statesperson||thinker||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q233514",
@@ -762,7 +771,7 @@
     "sitelinks": "46",
     "description": "French communist politician, editor",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||editor||communist||feminist||revolutionary"
+    "occupationLabel": "politician||editor||feminist||communist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q333241",
@@ -780,7 +789,7 @@
     "sitelinks": "45",
     "description": "Hungarian statesman (1823–1890)",
     "nationalityLabel": "Hungarian",
-    "occupationLabel": "politician||economist||diplomat||foreign minister||head of government||revolutionary"
+    "occupationLabel": "politician||diplomat||economist||foreign minister||head of government||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313604",
@@ -789,7 +798,7 @@
     "sitelinks": "45",
     "description": "Filipino nationalist and revolutionary hero (1863–1897)",
     "nationalityLabel": "Filipino||Filipina||Philippine",
-    "occupationLabel": "politician||president||military personnel||autobiographer||revolutionary"
+    "occupationLabel": "president||politician||military personnel||autobiographer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q311413",
@@ -810,13 +819,31 @@
     "occupationLabel": "military leader||warrior||revolutionary"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q465324",
+    "itemLabel": "Qiu Jin",
+    "year": "1907",
+    "sitelinks": "44",
+    "description": "Chinese revolutionary, feminist, and writer (1875-1907)",
+    "nationalityLabel": "Qing dynasty",
+    "occupationLabel": "writer||poet||journalist||women's rights activist||feminist||revolutionary"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q84266",
     "itemLabel": "Karl Radek",
     "year": "1939",
     "sitelinks": "44",
     "description": "Russian revolutionary (1885-1939)",
-    "nationalityLabel": "Soviet||Austria–Hungary||Polish",
+    "nationalityLabel": "Soviet||Polish",
     "occupationLabel": "politician||political prisoner||university teacher||journalist||communist||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q276510",
+    "itemLabel": "Ernesto Cardenal",
+    "year": "2020",
+    "sitelinks": "44",
+    "description": "Nicaraguan priest and politician (1925-2020)",
+    "nationalityLabel": "Nicaraguan",
+    "occupationLabel": "minister||politician||writer||priest||poet||visual artist||Catholic priest||translator||artist||painter||lyricist||theologian||sculptor||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q378450",
@@ -828,22 +855,13 @@
     "occupationLabel": "politician||entrepreneur||samurai||revolutionary"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q465324",
-    "itemLabel": "Qiu Jin",
-    "year": "1907",
-    "sitelinks": "43",
-    "description": "Chinese revolutionary, feminist, and writer (1875-1907)",
-    "nationalityLabel": "Qing dynasty",
-    "occupationLabel": "author||poet||women's rights activist||journalist||feminist||revolutionary"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q335142",
     "itemLabel": "Alexander Bogdanov",
     "year": "1928",
     "sitelinks": "43",
     "description": "Russian physician, philosopher and revolutionary (1873–1928)",
-    "nationalityLabel": "Soviet||Russian",
-    "occupationLabel": "author||politician||economist||physician||poet||philosopher||journalist||sociologist||science fiction writer||revolutionary"
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "writer||politician||physician||poet||economist||philosopher||journalist||sociologist||science fiction writer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q377935",
@@ -852,16 +870,7 @@
     "sitelinks": "43",
     "description": "4th President of the People's Republic of China (1907–1998)",
     "nationalityLabel": "Chinese",
-    "occupationLabel": "politician||President of the Republic||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q276510",
-    "itemLabel": "Ernesto Cardenal",
-    "year": "2020",
-    "sitelinks": "43",
-    "description": "Nicaraguan priest and politician (1925-2020)",
-    "nationalityLabel": "Nicaraguan",
-    "occupationLabel": "minister||author||politician||poet||visual artist||priest||Catholic priest||artist||painter||translator||sculptor||lyricist||theologian||revolutionary"
+    "occupationLabel": "politician||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q319684",
@@ -870,7 +879,7 @@
     "sitelinks": "42",
     "description": "Greek philosopher (1757-1798)",
     "nationalityLabel": "Ottoman",
-    "occupationLabel": "author||politician||diplomat||poet||philosopher||translator||journalist||revolutionary"
+    "occupationLabel": "writer||politician||diplomat||poet||translator||philosopher||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q299681",
@@ -887,17 +896,17 @@
     "year": "1927",
     "sitelinks": "42",
     "description": "Irish politician, first woman elected to the Westminster House of Commons and the Dáil Éireann, and first female Cabinet member in Europe",
-    "nationalityLabel": "Irish Republic||British||Briton||Irish",
-    "occupationLabel": "politician||painter||suffragette||stage actor||revolutionary"
+    "nationalityLabel": "British||Briton||Irish||Irish Republic",
+    "occupationLabel": "politician||suffragette||painter||revolutionary||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q471040",
     "itemLabel": "Vinayak Damodar Savarkar",
     "year": "1966",
     "sitelinks": "42",
-    "description": "Indian politician (1883-1966)",
+    "description": "Indian politician (1883–1966)",
     "nationalityLabel": "Dominion of India||British Raj||Indian",
-    "occupationLabel": "author||politician||poet||playwright||philosopher||prose writer||freedom fighter||revolutionary"
+    "occupationLabel": "writer||politician||poet||playwright||philosopher||prose writer||freedom fighter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q297557",
@@ -915,16 +924,7 @@
     "sitelinks": "40",
     "description": "poet and politician (1817–1875)",
     "nationalityLabel": "Württembergian||Swiss",
-    "occupationLabel": "author||politician||poet||translator||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q311820",
-    "itemLabel": "Wat Tyler",
-    "year": "1381",
-    "sitelinks": "39",
-    "description": "14th-century English rebel",
-    "nationalityLabel": "English",
-    "occupationLabel": "rebel||leader||revolutionary"
+    "occupationLabel": "writer||politician||poet||translator||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q289478",
@@ -933,7 +933,7 @@
     "sitelinks": "39",
     "description": "French philosopher (1788–1856)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||politician||jurist||lawyer||opinion journalist||philosopher||communist||revolutionary||utopian"
+    "occupationLabel": "politician||writer||lawyer||jurist||opinion journalist||philosopher||utopian||communist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q314022",
@@ -942,7 +942,7 @@
     "sitelinks": "39",
     "description": "11th Portuguese president (1926-1951)",
     "nationalityLabel": "Kingdom of Portugal||Portuguese",
-    "occupationLabel": "author||politician||military personnel||revolutionary"
+    "occupationLabel": "politician||writer||military personnel||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q379225",
@@ -960,7 +960,7 @@
     "sitelinks": "38",
     "description": "Irish diplomat, activist, nationalist and poet (1864–1916)",
     "nationalityLabel": "British||Briton||Irish",
-    "occupationLabel": "author||national hero||politician||diplomat||poet||consul||revolutionary||beamter"
+    "occupationLabel": "politician||writer||national hero||diplomat||poet||consul||beamter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234980",
@@ -968,8 +968,8 @@
     "year": "1919",
     "sitelinks": "38",
     "description": "Russian revolutionary, editor (1849-1919)",
-    "nationalityLabel": "Russian Soviet Federative Socialist Republic||Russian",
-    "occupationLabel": "author||politician||literary critic||opinion journalist||editor||journalist||revolutionary"
+    "nationalityLabel": "Russian||Russian Soviet Federative Socialist Republic",
+    "occupationLabel": "politician||writer||opinion journalist||literary critic||editor||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1395763",
@@ -978,7 +978,7 @@
     "sitelinks": "38",
     "description": "Indian author and politician (1865-1928)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "author||politician||freedom fighter||revolutionary"
+    "occupationLabel": "writer||politician||freedom fighter||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q336884",
@@ -987,7 +987,7 @@
     "sitelinks": "38",
     "description": "President of Portugal (1974)",
     "nationalityLabel": "Portuguese",
-    "occupationLabel": "author||politician||military officer||revolutionary"
+    "occupationLabel": "writer||politician||military officer||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q321322",
@@ -1005,7 +1005,25 @@
     "sitelinks": "37",
     "description": "Russian writer (1879-1925)",
     "nationalityLabel": "Russian||Polish",
-    "occupationLabel": "author||politician||murderer||terrorist||revolutionary"
+    "occupationLabel": "writer||politician||terrorist||murderer||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q250919",
+    "itemLabel": "Álvaro Cunhal",
+    "year": "2005",
+    "sitelinks": "37",
+    "description": "Portuguese politician and writer (1913-2005)",
+    "nationalityLabel": "Portuguese",
+    "occupationLabel": "politician||writer||lawyer||jurist||sculptor||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q465051",
+    "itemLabel": "Lakshmi Sahgal",
+    "year": "2012",
+    "sitelinks": "37",
+    "description": "officer in the Indian National Army (INA) and former presidential candidate of India",
+    "nationalityLabel": "Dominion of India||British Raj||Indian",
+    "occupationLabel": "politician||physician||military officer||freedom fighter||gynecologist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q337628",
@@ -1014,7 +1032,7 @@
     "sitelinks": "36",
     "description": "Russian academic (1823–1900)",
     "nationalityLabel": "Russian||French",
-    "occupationLabel": "mathematician||military officer||historian||anthropologist||opinion journalist||philosopher||communard||sociologist||revolutionary"
+    "occupationLabel": "military officer||mathematician||anthropologist||historian||opinion journalist||philosopher||sociologist||communard||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q318330",
@@ -1022,8 +1040,17 @@
     "year": "1927",
     "sitelinks": "36",
     "description": "Soviet diplomat (1883-1927)",
-    "nationalityLabel": "Soviet||Russian",
+    "nationalityLabel": "Russian||Soviet",
     "occupationLabel": "politician||diplomat||communist||revolutionary"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q266745",
+    "itemLabel": "Maria Spiridonova",
+    "year": "1941",
+    "sitelinks": "36",
+    "description": "Russian terrorist and politician (1884-1941)",
+    "nationalityLabel": "Russian||Soviet",
+    "occupationLabel": "politician||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q466946",
@@ -1032,7 +1059,7 @@
     "sitelinks": "36",
     "description": "Italian photographer, activist and actress (1896–1942)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "actor||photographer||model||artist||film actor||activist||stage actor||revolutionary"
+    "occupationLabel": "photographer||actor||artist||model||film actor||activist||revolutionary||stage actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q362009",
@@ -1041,42 +1068,15 @@
     "sitelinks": "36",
     "description": "Russian revolutionary and writer (1890-1947)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "author||politician||translator||anarchist||journalist||revolutionary"
+    "occupationLabel": "writer||politician||translator||anarchist||journalist||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q271492",
     "itemLabel": "Elena Stasova",
     "year": "1966",
     "sitelinks": "36",
-    "description": "Soviet politician (1873-1966)",
-    "nationalityLabel": "Soviet||Russian",
+    "description": "Russian revolutionary, soviet politician (1873–1966)",
+    "nationalityLabel": "Russian||Soviet",
     "occupationLabel": "politician||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q509860",
-    "itemLabel": "Stokely Carmichael",
-    "year": "1998",
-    "sitelinks": "36",
-    "description": "American activist (1941-1998)",
-    "nationalityLabel": "Guinean||Trinidadian||American||Americans",
-    "occupationLabel": "politician||activist||human rights defender||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q250919",
-    "itemLabel": "Álvaro Cunhal",
-    "year": "2005",
-    "sitelinks": "36",
-    "description": "Portuguese politician and writer (1913-2005)",
-    "nationalityLabel": "Portuguese",
-    "occupationLabel": "author||politician||jurist||lawyer||sculptor||revolutionary"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q141317",
-    "itemLabel": "Al-Mukhtar",
-    "year": "687",
-    "sitelinks": "35",
-    "description": "Pro-Alid Arab revolutionary (c.622–687)",
-    "nationalityLabel": "",
-    "occupationLabel": "rebel||wali||military leader||revolutionary"
   }
 ]

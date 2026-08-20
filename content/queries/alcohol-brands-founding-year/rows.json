@@ -35,17 +35,17 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q610672",
-    "itemLabel": "Budweiser",
-    "description": "American-style pale lager, a brand of Belgian company AB InBev",
-    "year": "1876",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q331630",
     "itemLabel": "Pilsner Urquell",
     "description": "beer trademark",
     "year": "1842",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q610672",
+    "itemLabel": "Budweiser",
+    "description": "American-style pale lager, a brand of Belgian company AB InBev",
+    "year": "1876",
     "sitelinks": "38"
   },
   {
@@ -77,20 +77,6 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q153075",
-    "itemLabel": "Grolsch",
-    "description": "brewery in the Netherlands",
-    "year": "1615",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q478119",
-    "itemLabel": "Amstel Brewery",
-    "description": "Dutch Brewery brand",
-    "year": "1870",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q455290",
     "itemLabel": "Amarula",
     "description": "liqueur",
@@ -119,13 +105,6 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222787",
-    "itemLabel": "Jim Beam",
-    "description": "American brand of bourbon whiskey",
-    "year": "1795",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1034035",
     "itemLabel": "Finlandia Vodka",
     "description": "Finnish brand of vodka",
@@ -140,6 +119,13 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q222787",
+    "itemLabel": "Jim Beam",
+    "description": "American brand of bourbon whiskey",
+    "year": "1795",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1035122",
     "itemLabel": "Captain Morgan",
     "description": "brand of rum",
@@ -147,11 +133,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q33105701",
-    "itemLabel": "Chimay",
-    "description": "trappist beer brand from Belgium",
-    "year": "1862",
-    "sitelinks": "22"
+    "item": "http://www.wikidata.org/entity/Q1411852",
+    "itemLabel": "Havana Club",
+    "description": "brand of rum",
+    "year": "1993",
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1071385",
@@ -161,17 +147,17 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q33105701",
+    "itemLabel": "Chimay",
+    "description": "trappist beer brand from Belgium",
+    "year": "1862",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q687397",
     "itemLabel": "Ballantine's",
     "description": "brand of blended Scotch whiskey produced by Pernod Ricard in Dumbarton, Scotland, UK",
     "year": "1827",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1411852",
-    "itemLabel": "Havana Club",
-    "description": "brand of rum",
-    "year": "1993",
     "sitelinks": "22"
   },
   {
@@ -201,6 +187,13 @@
     "description": "vodka brand",
     "year": "1938",
     "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1862698",
+    "itemLabel": "Tiger Beer",
+    "description": "Singaporean brand of beer",
+    "year": "1932",
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1269232",
@@ -233,22 +226,8 @@
   {
     "item": "http://www.wikidata.org/entity/Q1378288",
     "itemLabel": "Free Beer",
-    "description": "open source beer",
+    "description": "Open-source and copyleft beer movement",
     "year": "2004",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1862698",
-    "itemLabel": "Tiger Beer",
-    "description": "Singaporean brand of beer",
-    "year": "1932",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q610086",
-    "itemLabel": "Achel Brewery",
-    "description": "Belgian brewery",
-    "year": "1998",
     "sitelinks": "17"
   },
   {
@@ -256,6 +235,13 @@
     "itemLabel": "Singha",
     "description": "beer brand",
     "year": "1933",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q610086",
+    "itemLabel": "Achel Brewery",
+    "description": "Belgian brewery",
+    "year": "1998",
     "sitelinks": "17"
   },
   {
@@ -302,8 +288,8 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q1423785",
-    "itemLabel": "Foster's Lager",
-    "description": "beer brand from Australia",
+    "itemLabel": "Foster's",
+    "description": "beer brand produced by Carlton & United Breweries",
     "year": "1888",
     "sitelinks": "14"
   },
@@ -313,13 +299,6 @@
     "description": "Portuguese beer brand",
     "year": "1940",
     "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2986930",
-    "itemLabel": "Zlatý Bažant",
-    "description": "Slovak beer brand",
-    "year": "1969",
-    "sitelinks": "13"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134899",
@@ -343,6 +322,13 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2986930",
+    "itemLabel": "Zlatý Bažant",
+    "description": "Slovak beer brand",
+    "year": "1969",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q816263",
     "itemLabel": "Belvedere",
     "description": "luxury brand of Polish vodka",
@@ -357,6 +343,13 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1789361",
+    "itemLabel": "Magners Irish Cider",
+    "description": "brand of cider produced in County Tipperary in Ireland by the C&C Group",
+    "year": "1935",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3394030",
     "itemLabel": "Estrella Galicia",
     "description": "Spanish beer",
@@ -364,10 +357,10 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q903559",
-    "itemLabel": "Delirium Tremens",
-    "description": "beer",
-    "year": "1989",
+    "item": "http://www.wikidata.org/entity/Q1399467",
+    "itemLabel": "Jose Cuervo",
+    "description": "brand of tequila that was founded in 1795 by Don Jose Antonio de Cuervo",
+    "year": "1795",
     "sitelinks": "12"
   },
   {
@@ -385,11 +378,18 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1789361",
-    "itemLabel": "Magners Irish Cider",
-    "description": "brand of cider produced in County Tipperary in Ireland by the C&C Group",
-    "year": "1935",
-    "sitelinks": "12"
+    "item": "http://www.wikidata.org/entity/Q1295815",
+    "itemLabel": "Efes Pilsen",
+    "description": "Produced by the Efes Beverage Group",
+    "year": "1969",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1073087",
+    "itemLabel": "Smithwick's",
+    "description": "Irish beer brand",
+    "year": "1710",
+    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2646636",
@@ -399,24 +399,10 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1295815",
-    "itemLabel": "Efes Pilsen",
-    "description": "Produced by the Efes Beverage Group",
-    "year": "1969",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q251740",
     "itemLabel": "Russian Standard",
     "description": "Russian premium vodka brand",
     "year": "1992",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1399467",
-    "itemLabel": "Jose Cuervo",
-    "description": "brand of tequila that was founded in 1795 by Don Jose Antonio de Cuervo",
-    "year": "1795",
     "sitelinks": "11"
   },
   {
@@ -434,31 +420,10 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5507019",
-    "itemLabel": "Fucking Hell",
-    "description": "type of beer",
-    "year": "2011",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q798067",
     "itemLabel": "Karhu",
     "description": "Finnish beer brand",
     "year": "1920",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q971751",
-    "itemLabel": "Bintang Beer",
-    "description": "Indonesia beer brand",
-    "year": "1929",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1073087",
-    "itemLabel": "Smithwick's",
-    "description": "Irish beer brand",
-    "year": "1710",
     "sitelinks": "10"
   },
   {
@@ -469,6 +434,13 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q971751",
+    "itemLabel": "Bintang Beer",
+    "description": "Indonesia beer brand",
+    "year": "1929",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1546845",
     "itemLabel": "Grimbergen",
     "description": "brand name of a variety of Belgian abbey beers",
@@ -476,16 +448,16 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1150860",
-    "itemLabel": "Cîroc",
-    "description": "brand of French alcoholic beverages",
-    "year": "2003",
+    "item": "http://www.wikidata.org/entity/Q5507019",
+    "itemLabel": "Fucking Hell",
+    "description": "type of beer",
+    "year": "2011",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2453497",
-    "itemLabel": "Putinka",
-    "description": "Russian brand of vodka",
+    "item": "http://www.wikidata.org/entity/Q1150860",
+    "itemLabel": "Cîroc",
+    "description": "brand of French alcoholic beverages",
     "year": "2003",
     "sitelinks": "10"
   },
@@ -497,18 +469,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2388771",
-    "itemLabel": "Tripel Karmeliet",
-    "description": "Belgian beer",
-    "year": "1996",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9397571",
-    "itemLabel": "Żubr",
-    "description": "beer from Poland",
-    "year": "1768",
-    "sitelinks": "9"
+    "item": "http://www.wikidata.org/entity/Q2453497",
+    "itemLabel": "Putinka",
+    "description": "Russian brand of vodka",
+    "year": "2003",
+    "sitelinks": "10"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1871906",
@@ -518,10 +483,10 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q21286736",
-    "itemLabel": "Samuel Adams",
-    "description": "American brand of beer",
-    "year": "1984",
+    "item": "http://www.wikidata.org/entity/Q2388771",
+    "itemLabel": "Tripel Karmeliet",
+    "description": "Belgian beer",
+    "year": "1996",
     "sitelinks": "9"
   },
   {
@@ -529,6 +494,20 @@
     "itemLabel": "Kamenitza",
     "description": "Bulgarian beer",
     "year": "1881",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1142160",
+    "itemLabel": "Cruzcampo",
+    "description": "Spanish beer brand",
+    "year": "1904",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5713678",
+    "itemLabel": "Hendrick's Gin",
+    "description": "Scottish gin brand",
+    "year": "1999",
     "sitelinks": "9"
   },
   {
@@ -546,10 +525,17 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1142160",
-    "itemLabel": "Cruzcampo",
-    "description": "Spanish beer brand",
-    "year": "1904",
+    "item": "http://www.wikidata.org/entity/Q9397571",
+    "itemLabel": "Żubr",
+    "description": "beer from Poland",
+    "year": "1768",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21286736",
+    "itemLabel": "Samuel Adams",
+    "description": "American brand of beer",
+    "year": "1984",
     "sitelinks": "9"
   },
   {
@@ -557,13 +543,6 @@
     "itemLabel": "Four Roses",
     "description": "trademark",
     "year": "1910",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5713678",
-    "itemLabel": "Hendrick's Gin",
-    "description": "Scottish gin brand",
-    "year": "1999",
     "sitelinks": "9"
   },
   {
@@ -581,20 +560,6 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2354423",
-    "itemLabel": "Zagorka",
-    "description": "Bulgarian Beer",
-    "year": "1902",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6409311",
-    "itemLabel": "Lech",
-    "description": "beer from Poland",
-    "year": "1980",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1813698",
     "itemLabel": "Imperial",
     "description": "Costa Rican beer brand",
@@ -602,10 +567,10 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1035257",
-    "itemLabel": "Cara Pils",
-    "description": "store brand pilsner from Colruyt Group",
-    "year": "1985",
+    "item": "http://www.wikidata.org/entity/Q2354423",
+    "itemLabel": "Zagorka",
+    "description": "Bulgarian Beer",
+    "year": "1902",
     "sitelinks": "8"
   },
   {
@@ -616,13 +581,6 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1032091",
-    "itemLabel": "Canadian Club",
-    "description": "brand of whisky from Canada",
-    "year": "1858",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7550050",
     "itemLabel": "Sobieski Vodka",
     "description": "Polish vodka brand",
@@ -630,11 +588,25 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7856799",
-    "itemLabel": "Tusker",
-    "description": "Kenyan beer brand owned by East African Breweries",
-    "year": "1922",
-    "sitelinks": "7"
+    "item": "http://www.wikidata.org/entity/Q1035257",
+    "itemLabel": "Cara Pils",
+    "description": "store brand pilsner from Colruyt Group",
+    "year": "1985",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6409311",
+    "itemLabel": "Lech",
+    "description": "beer from Poland",
+    "year": "1980",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1032091",
+    "itemLabel": "Canadian Club",
+    "description": "brand of whisky from Canada",
+    "year": "1858",
+    "sitelinks": "8"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2027249",
@@ -644,17 +616,17 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3246988",
-    "itemLabel": "Albani Brewery",
-    "description": "brewery in Odense, Denmark",
-    "year": "1859",
+    "item": "http://www.wikidata.org/entity/Q2061096",
+    "itemLabel": "Edelweiss",
+    "description": "witbier",
+    "year": "1475",
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3362172",
-    "itemLabel": "Belikin",
-    "description": "Belizean beer brand",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q317402",
+    "itemLabel": "Berliner Kindl",
+    "description": "German beer brand",
+    "year": "1872",
     "sitelinks": "7"
   },
   {
@@ -672,10 +644,24 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q317402",
-    "itemLabel": "Berliner Kindl",
-    "description": "German beer brand",
-    "year": "1872",
+    "item": "http://www.wikidata.org/entity/Q7691183",
+    "itemLabel": "Teacher's Highland Cream",
+    "description": "brand of blended Scotch whisky",
+    "year": "1884",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3246988",
+    "itemLabel": "Albani Brewery",
+    "description": "brewery in Odense, Denmark",
+    "year": "1859",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3362172",
+    "itemLabel": "Belikin",
+    "description": "Belizean beer brand",
+    "year": "1969",
     "sitelinks": "7"
   },
   {
@@ -683,6 +669,20 @@
     "itemLabel": "Brouwerij 't IJ",
     "description": "Dutch brewery",
     "year": "1985",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7856799",
+    "itemLabel": "Tusker",
+    "description": "Kenyan beer brand owned by East African Breweries",
+    "year": "1922",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18161195",
+    "itemLabel": "London Pride",
+    "description": "beer",
+    "year": "1959",
     "sitelinks": "7"
   },
   {
@@ -700,38 +700,17 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7691183",
-    "itemLabel": "Teacher's Highland Cream",
-    "description": "brand of blended Scotch whisky",
-    "year": "1884",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18161195",
-    "itemLabel": "London Pride",
-    "description": "beer",
-    "year": "1959",
-    "sitelinks": "7"
+    "item": "http://www.wikidata.org/entity/Q2045297",
+    "itemLabel": "Pabst Blue Ribbon",
+    "description": "American lager beer",
+    "year": "1844",
+    "sitelinks": "6"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2239073",
     "itemLabel": "Hertog Jan",
-    "description": "Dutch brewery",
+    "description": "brewery in the Netherlands",
     "year": "1915",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5168060",
-    "itemLabel": "Coors Light",
-    "description": "light beer brewed in Golden, Colorado and Milwaukee, Wisconsin",
-    "year": "1978",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5763622",
-    "itemLabel": "Cusqueña",
-    "description": "Peruvian beer brand",
-    "year": "1908",
     "sitelinks": "6"
   },
   {
@@ -739,6 +718,62 @@
     "itemLabel": "Bernard",
     "description": "brand of beer",
     "year": "1991",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q263980",
+    "itemLabel": "Soproni",
+    "description": "Hungarian beer mark",
+    "year": "1895",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q503112",
+    "itemLabel": "Pilsen Callao",
+    "description": "trademark",
+    "year": "1863",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5451712",
+    "itemLabel": "Fireball Cinnamon Whisky",
+    "description": "cinnamon-flavoured whisky-based liqueur",
+    "year": "1984",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8032660",
+    "itemLabel": "Woodford Reserve",
+    "description": "premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation",
+    "year": "1865",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10546701",
+    "itemLabel": "Knob Creek",
+    "description": "Kentucky straight bourbon whiskey produced by Beam Suntory at the Jim Beam distillery in Clermont, KY",
+    "year": "1992",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26236698",
+    "itemLabel": "Trump Vodka",
+    "description": "American brand of vodka produced by The Trump Organization",
+    "year": "2005",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1026242",
+    "itemLabel": "Calanda Bräu",
+    "description": "trademark",
+    "year": "1780",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1567552",
+    "itemLabel": "Palm Breweries",
+    "description": "Belgian company",
+    "year": "1597",
     "sitelinks": "6"
   },
   {
@@ -756,27 +791,6 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1026242",
-    "itemLabel": "Calanda Bräu",
-    "description": "trademark",
-    "year": "1780",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q263980",
-    "itemLabel": "Soproni",
-    "description": "Hungarian beer mark",
-    "year": "1895",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4763317",
-    "itemLabel": "Angkor Beer",
-    "description": "Cambodian lager",
-    "year": "1963",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3640367",
     "itemLabel": "Pedavena",
     "description": "Italian beer",
@@ -791,38 +805,24 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q503112",
-    "itemLabel": "Pilsen Callao",
-    "description": "trademark",
-    "year": "1863",
+    "item": "http://www.wikidata.org/entity/Q4763317",
+    "itemLabel": "Angkor Beer",
+    "description": "Cambodian lager",
+    "year": "1963",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1567552",
-    "itemLabel": "Palm Breweries",
-    "description": "Belgian company",
-    "year": "1597",
+    "item": "http://www.wikidata.org/entity/Q5168060",
+    "itemLabel": "Coors Light",
+    "description": "light beer brewed in Golden, Colorado and Milwaukee, Wisconsin",
+    "year": "1978",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2045297",
-    "itemLabel": "Pabst Blue Ribbon",
-    "description": "American lager beer",
-    "year": "1844",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26236698",
-    "itemLabel": "Trump Vodka",
-    "description": "American brand of vodka produced by The Trump Organization",
-    "year": "2005",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5451712",
-    "itemLabel": "Fireball Cinnamon Whisky",
-    "description": "cinnamon-flavoured whisky-based liqueur",
-    "year": "1984",
+    "item": "http://www.wikidata.org/entity/Q5763622",
+    "itemLabel": "Cusqueña",
+    "description": "Peruvian beer brand",
+    "year": "1908",
     "sitelinks": "6"
   },
   {
@@ -847,34 +847,6 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8032660",
-    "itemLabel": "Woodford Reserve",
-    "description": "premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation",
-    "year": "1865",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10546701",
-    "itemLabel": "Knob Creek",
-    "description": "Kentucky straight bourbon whiskey produced by Beam Suntory at the Jim Beam distillery in Clermont, KY",
-    "year": "1992",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5431739",
-    "itemLabel": "Falcon Brewery",
-    "description": "Swedish brewery company",
-    "year": "1896",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q8843322",
-    "itemLabel": "Estrella de Levante",
-    "description": "Spanish brewery",
-    "year": "1963",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1828277",
     "itemLabel": "Brouwerij De Molen",
     "description": "brewery in Bodegraven, Netherlands",
@@ -882,24 +854,24 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3500299",
-    "itemLabel": "Strela",
-    "description": "beer from Cape Verde",
-    "year": "1996",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3625680",
-    "itemLabel": "Tecate",
-    "description": "Mexican beer brand",
-    "year": "1943",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q479003",
     "itemLabel": "Oranjeboom",
     "description": "brewery in the Netherlands",
     "year": "1671",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q795663",
+    "itemLabel": "Kronenbourg",
+    "description": "beer brand produced by Brasseries Kronenbourg",
+    "year": "1947",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q900342",
+    "itemLabel": "Ariana Brewery",
+    "description": "former Bulgarian brewery",
+    "year": "1884",
     "sitelinks": "5"
   },
   {
@@ -924,6 +896,27 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5750772",
+    "itemLabel": "Hibiki",
+    "description": "Japanese blended whisky",
+    "year": "1899",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6106663",
+    "itemLabel": "J. P. Chenet",
+    "description": "French brand of wine",
+    "year": "1984",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7374788",
+    "itemLabel": "Royal Salute whisky",
+    "description": "brand of scotch whisky",
+    "year": "1953",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q16323131",
     "itemLabel": "100 Pipers",
     "description": "blended Scotch whisky",
@@ -935,6 +928,55 @@
     "itemLabel": "Cherry Heering",
     "description": "Cherry liquer",
     "year": "1818",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3500299",
+    "itemLabel": "Strela",
+    "description": "beer from Cape Verde",
+    "year": "1996",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3625680",
+    "itemLabel": "Tecate",
+    "description": "Mexican beer brand",
+    "year": "1943",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5431739",
+    "itemLabel": "Falcon Brewery",
+    "description": "Swedish brewery company",
+    "year": "1896",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8843322",
+    "itemLabel": "Estrella de Levante",
+    "description": "Spanish brewery",
+    "year": "1963",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12794668",
+    "itemLabel": "Laško",
+    "description": "beer",
+    "year": "1825",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16108998",
+    "itemLabel": "Zaječarsko pivo",
+    "description": "beer",
+    "year": "1875",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18191397",
+    "itemLabel": "Maccabee Beer",
+    "description": "Israeli beer brand",
+    "year": "1968",
     "sitelinks": "5"
   },
   {
@@ -956,41 +998,6 @@
     "itemLabel": "Luksusowa vodka",
     "description": "brand of Vodka from Poland",
     "year": "1928",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6106663",
-    "itemLabel": "J. P. Chenet",
-    "description": "French brand of wine",
-    "year": "1984",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12794668",
-    "itemLabel": "Laško",
-    "description": "beer",
-    "year": "1825",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7374788",
-    "itemLabel": "Royal Salute whisky",
-    "description": "brand of scotch whisky",
-    "year": "1953",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16108998",
-    "itemLabel": "Zaječarsko pivo",
-    "description": "beer",
-    "year": "1875",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18191397",
-    "itemLabel": "Maccabee Beer",
-    "description": "Israeli beer brand",
-    "year": "1968",
     "sitelinks": "5"
   }
 ]

@@ -15,7 +15,7 @@
     "item": "http://www.wikidata.org/entity/Q7313",
     "itemLabel": "Yuan dynasty",
     "year": "1271",
-    "sitelinks": "100"
+    "sitelinks": "102"
   },
   {
     "item": "http://www.wikidata.org/entity/Q65968",
@@ -27,7 +27,7 @@
     "item": "http://www.wikidata.org/entity/Q7462",
     "itemLabel": "Song dynasty",
     "year": "960",
-    "sitelinks": "93"
+    "sitelinks": "95"
   },
   {
     "item": "http://www.wikidata.org/entity/Q128938",
@@ -75,7 +75,7 @@
     "item": "http://www.wikidata.org/entity/Q112707",
     "itemLabel": "House of Romanov",
     "year": "1613",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180114",
@@ -84,16 +84,16 @@
     "sitelinks": "74"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q101978",
+    "itemLabel": "House of Tudor",
+    "year": "1485",
+    "sitelinks": "72"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q161205",
     "itemLabel": "Safavid dynasty",
     "year": "1501",
     "sitelinks": "72"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q101978",
-    "itemLabel": "House of Tudor",
-    "year": "1485",
-    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81589",
@@ -120,16 +120,22 @@
     "sitelinks": "67"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q106151",
+    "itemLabel": "House of Plantagenet",
+    "year": "1126",
+    "sitelinks": "67"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q179840",
     "itemLabel": "House of Stuart",
     "year": "1371",
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106151",
-    "itemLabel": "House of Plantagenet",
-    "year": "1126",
-    "sitelinks": "66"
+    "item": "http://www.wikidata.org/entity/Q207991",
+    "itemLabel": "Pahlavi dynasty",
+    "year": "1925",
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182135",
@@ -138,33 +144,33 @@
     "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q207991",
-    "itemLabel": "Pahlavi dynasty",
-    "year": "1925",
-    "sitelinks": "63"
+    "item": "http://www.wikidata.org/entity/Q242115",
+    "itemLabel": "Five Dynasties and Ten Kingdoms Period",
+    "year": "907",
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28208",
     "itemLabel": "Goryeo",
     "year": "918",
-    "sitelinks": "62"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q242115",
-    "itemLabel": "Five Dynasties and Ten Kingdoms Period",
-    "year": "907",
     "sitelinks": "61"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q243312",
-    "itemLabel": "Kassites",
-    "year": "-1530",
-    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q203859",
     "itemLabel": "First Dynasty of Egypt",
     "year": "-3149",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193383",
+    "itemLabel": "Ottoman dynasty",
+    "year": "1299",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q243312",
+    "itemLabel": "Kassites",
+    "year": "-1530",
     "sitelinks": "60"
   },
   {
@@ -180,16 +186,10 @@
     "sitelinks": "59"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q193383",
-    "itemLabel": "Ottoman dynasty",
-    "year": "1299",
-    "sitelinks": "59"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4958",
     "itemLabel": "Liao dynasty",
     "year": "916",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q146055",
@@ -258,6 +258,12 @@
     "sitelinks": "53"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q199443",
+    "itemLabel": "Ghurid dynasty",
+    "year": "1011",
+    "sitelinks": "53"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q207778",
     "itemLabel": "Second Dynasty of Egypt",
     "year": "-2889",
@@ -268,12 +274,6 @@
     "itemLabel": "Fifth Dynasty of Egypt",
     "year": "-2497",
     "sitelinks": "53"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q199443",
-    "itemLabel": "Ghurid dynasty",
-    "year": "1011",
-    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q273874",
@@ -300,9 +300,9 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q373981",
-    "itemLabel": "Tahirid dynasty",
-    "year": "821",
+    "item": "http://www.wikidata.org/entity/Q45310",
+    "itemLabel": "Saffarid dynasty",
+    "year": "861",
     "sitelinks": "51"
   },
   {
@@ -312,9 +312,9 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q45310",
-    "itemLabel": "Saffarid dynasty",
-    "year": "861",
+    "item": "http://www.wikidata.org/entity/Q373981",
+    "itemLabel": "Tahirid dynasty",
+    "year": "821",
     "sitelinks": "50"
   },
   {
@@ -322,6 +322,12 @@
     "itemLabel": "Twentieth Dynasty of Egypt",
     "year": "-1188",
     "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q496922",
+    "itemLabel": "Hasmonean dynasty",
+    "year": "-166",
+    "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q723587",
@@ -334,12 +340,6 @@
     "itemLabel": "Zand Iran",
     "year": "1751",
     "sitelinks": "49"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q496922",
-    "itemLabel": "Hasmonean dynasty",
-    "year": "-166",
-    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q752662",
@@ -363,6 +363,12 @@
     "item": "http://www.wikidata.org/entity/Q466803",
     "itemLabel": "Pallava dynasty",
     "year": "275",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q847420",
+    "itemLabel": "Mamluk Sultanate",
+    "year": "1206",
     "sitelinks": "47"
   },
   {
@@ -396,21 +402,15 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q486181",
-    "itemLabel": "Samanid dynasty",
-    "year": "819",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q691928",
     "itemLabel": "Chakri dynasty",
     "year": "1782",
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q847420",
-    "itemLabel": "Mamluk Sultanate",
-    "year": "1206",
+    "item": "http://www.wikidata.org/entity/Q847837",
+    "itemLabel": "Nasrid dynasty",
+    "year": "1230",
     "sitelinks": "45"
   },
   {
@@ -420,9 +420,9 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12844800",
-    "itemLabel": "Ghaznavids",
-    "year": "962",
+    "item": "http://www.wikidata.org/entity/Q662410",
+    "itemLabel": "Twenty-sixth Dynasty of Egypt",
+    "year": "-663",
     "sitelinks": "45"
   },
   {
@@ -432,21 +432,21 @@
     "sitelinks": "45"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q486181",
+    "itemLabel": "Samanid dynasty",
+    "year": "819",
+    "sitelinks": "44"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q844910",
     "itemLabel": "Pandya dynasty",
     "year": "-299",
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q847837",
-    "itemLabel": "Nasrid dynasty",
-    "year": "1230",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q662410",
-    "itemLabel": "Twenty-sixth Dynasty of Egypt",
-    "year": "-663",
+    "item": "http://www.wikidata.org/entity/Q12844800",
+    "itemLabel": "Ghaznavids",
+    "year": "962",
     "sitelinks": "44"
   },
   {
@@ -468,9 +468,33 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q919071",
+    "itemLabel": "Khalji dynasty",
+    "year": "1290",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11709",
+    "itemLabel": "Lodi dynasty",
+    "year": "1451",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q269876",
     "itemLabel": "Q269876",
     "year": "1369",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q374521",
+    "itemLabel": "Bahmani Sultanate",
+    "year": "1347",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1124402",
+    "itemLabel": "Tughlaq dynasty",
+    "year": "1320",
     "sitelinks": "43"
   },
   {
@@ -498,27 +522,39 @@
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q721807",
+    "itemLabel": "Thirteenth Dynasty of Egypt",
+    "year": "-1800",
+    "sitelinks": "43"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q737648",
     "itemLabel": "Twenty-fifth Dynasty of Egypt",
     "year": "-714",
     "sitelinks": "43"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q853342",
+    "itemLabel": "House of Braganza",
+    "year": "1442",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q287652",
+    "itemLabel": "Přemyslid dynasty",
+    "year": "872",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1129036",
+    "itemLabel": "'Alawi dynasty",
+    "year": "1666",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1136188",
     "itemLabel": "Saadi dynasty",
     "year": "1549",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q374521",
-    "itemLabel": "Bahmani Sultanate",
-    "year": "1347",
-    "sitelinks": "42"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q721807",
-    "itemLabel": "Thirteenth Dynasty of Egypt",
-    "year": "-1800",
     "sitelinks": "42"
   },
   {
@@ -534,12 +570,6 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1129036",
-    "itemLabel": "'Alawi dynasty",
-    "year": "1666",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q486918",
     "itemLabel": "Anushtegin dynasty",
     "year": "1077",
@@ -552,21 +582,15 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q853342",
-    "itemLabel": "House of Braganza",
-    "year": "1442",
+    "item": "http://www.wikidata.org/entity/Q828665",
+    "itemLabel": "Ikhshidid dynasty",
+    "year": "935",
     "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q909452",
     "itemLabel": "Imperial House of Japan",
     "year": "-659",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q287652",
-    "itemLabel": "Přemyslid dynasty",
-    "year": "872",
     "sitelinks": "41"
   },
   {
@@ -582,27 +606,27 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q13527812",
+    "itemLabel": "Achaemenid dynasty",
+    "year": "-800",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q726798",
     "itemLabel": "Tulunids",
     "year": "868",
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q828665",
-    "itemLabel": "Egyptian Ikhshidid Emirate",
-    "year": "935",
+    "item": "http://www.wikidata.org/entity/Q187525",
+    "itemLabel": "Bagrationi dynasty",
+    "year": "813",
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q919071",
-    "itemLabel": "Khalji dynasty",
-    "year": "1290",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13527812",
-    "itemLabel": "Achaemenid dynasty",
-    "year": "-800",
+    "item": "http://www.wikidata.org/entity/Q321029",
+    "itemLabel": "Attalid dynasty",
+    "year": "-281",
     "sitelinks": "40"
   },
   {
@@ -630,39 +654,9 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1124402",
-    "itemLabel": "Tughlaq dynasty",
-    "year": "1320",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11709",
-    "itemLabel": "Lodi dynasty",
-    "year": "1451",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q187525",
-    "itemLabel": "Bagrationi dynasty",
-    "year": "813",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q321029",
-    "itemLabel": "Attalid dynasty",
-    "year": "-281",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q20737645",
     "itemLabel": "Timurid dynasty",
     "year": "1370",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q511257",
-    "itemLabel": "Twenty-ninth Dynasty of Egypt",
-    "year": "-397",
     "sitelinks": "39"
   },
   {
@@ -684,6 +678,12 @@
     "sitelinks": "38"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q511257",
+    "itemLabel": "Twenty-ninth Dynasty of Egypt",
+    "year": "-397",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q650945",
     "itemLabel": "Fourteenth Dynasty of Egypt",
     "year": "-1785",
@@ -696,21 +696,27 @@
     "sitelinks": "37"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1331421",
+    "itemLabel": "Sayyid dynasty",
+    "year": "1414",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q926624",
     "itemLabel": "Twenty-seventh Dynasty of Egypt",
     "year": "-524",
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q940123",
-    "itemLabel": "Rustamid dynasty",
-    "year": "767",
-    "sitelinks": "36"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q519718",
     "itemLabel": "Taungoo dynasty",
     "year": "1485",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q940123",
+    "itemLabel": "Rustamid dynasty",
+    "year": "767",
     "sitelinks": "36"
   },
   {
@@ -738,22 +744,16 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1400616",
-    "itemLabel": "Eighth Dynasty of Egypt",
-    "year": "-2170",
-    "sitelinks": "35"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q62456",
     "itemLabel": "Southern Qi",
     "year": "479",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1331421",
-    "itemLabel": "Sayyid dynasty",
-    "year": "1414",
-    "sitelinks": "34"
+    "item": "http://www.wikidata.org/entity/Q1400616",
+    "itemLabel": "Eighth Dynasty of Egypt",
+    "year": "-2170",
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q784974",
@@ -780,15 +780,21 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1133431",
-    "itemLabel": "Artuqids",
-    "year": "1102",
-    "sitelinks": "33"
+    "item": "http://www.wikidata.org/entity/Q1143126",
+    "itemLabel": "Later Tang",
+    "year": "923",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q588672",
     "itemLabel": "Hammadid dynasty",
     "year": "1014",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q704151",
+    "itemLabel": "Arsacid dynasty of Armenia",
+    "year": "66",
     "sitelinks": "33"
   },
   {
@@ -798,21 +804,27 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1133431",
+    "itemLabel": "Artuqids",
+    "year": "1102",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q737685",
     "itemLabel": "Chabad Lubavitch",
     "year": "1772",
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1069868",
-    "itemLabel": "Liang dynasty",
-    "year": "502",
+    "item": "http://www.wikidata.org/entity/Q783489",
+    "itemLabel": "Later Liang dynasty",
+    "year": "907",
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1143126",
-    "itemLabel": "Later Tang",
-    "year": "923",
+    "item": "http://www.wikidata.org/entity/Q1069868",
+    "itemLabel": "Liang dynasty",
+    "year": "502",
     "sitelinks": "33"
   },
   {
@@ -828,12 +840,6 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q704151",
-    "itemLabel": "Arsacid dynasty of Armenia",
-    "year": "66",
-    "sitelinks": "32"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q856361",
     "itemLabel": "Shaybanids",
     "year": "1500",
@@ -846,16 +852,28 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q8959",
+    "itemLabel": "Northern Yuan dynasty",
+    "year": "1368",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q978071",
     "itemLabel": "Thirty-first Dynasty of Egypt",
     "year": "-342",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q783489",
-    "itemLabel": "Later Liang dynasty",
-    "year": "907",
+    "item": "http://www.wikidata.org/entity/Q1154556",
+    "itemLabel": "Later Zhou dynasty",
+    "year": "951",
     "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q877155",
+    "itemLabel": "Chera dynasty",
+    "year": "800",
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2353443",
@@ -870,21 +888,9 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8959",
-    "itemLabel": "Northern Yuan dynasty",
-    "year": "1368",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q307066",
     "itemLabel": "Eastern Zhou",
     "year": "-770",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1154556",
-    "itemLabel": "Later Zhou dynasty",
-    "year": "951",
     "sitelinks": "31"
   },
   {
@@ -906,10 +912,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q877155",
-    "itemLabel": "Chera dynasty",
-    "year": "800",
-    "sitelinks": "29"
+    "item": "http://www.wikidata.org/entity/Q1069829",
+    "itemLabel": "Later Han dynasty",
+    "year": "947",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3432153",
@@ -918,28 +924,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1069829",
-    "itemLabel": "Later Han dynasty",
-    "year": "947",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1154540",
     "itemLabel": "Later Jin dynasty",
     "year": "936",
     "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1471995",
-    "itemLabel": "Former Qin",
-    "year": "350",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2018662",
-    "itemLabel": "Western Ganga dynasty",
-    "year": "350",
-    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q705904",
@@ -954,21 +942,33 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1471995",
+    "itemLabel": "Former Qin",
+    "year": "350",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2018662",
+    "itemLabel": "Western Ganga dynasty",
+    "year": "350",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q12818551",
     "itemLabel": "Arsacid dynasty of Parthia",
     "year": "-246",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1133400",
-    "itemLabel": "Justinian dynasty",
-    "year": "518",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q428400",
     "itemLabel": "Eldiguzids",
     "year": "1136",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q169949",
+    "itemLabel": "Al Rashid",
+    "year": "1834",
     "sitelinks": "27"
   },
   {
@@ -978,10 +978,22 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q169949",
-    "itemLabel": "Al Rashid",
-    "year": "1834",
+    "item": "http://www.wikidata.org/entity/Q1133400",
+    "itemLabel": "Justinian dynasty",
+    "year": "518",
     "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q249934",
+    "itemLabel": "Burji dynasty",
+    "year": "1382",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q291639",
+    "itemLabel": "House of Al Sabah",
+    "year": "1756",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2039087",
@@ -1002,28 +1014,16 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q249934",
-    "itemLabel": "Burji dynasty",
-    "year": "1382",
+    "item": "http://www.wikidata.org/entity/Q3431885",
+    "itemLabel": "Sallarid dynasty",
+    "year": "941",
     "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q291639",
-    "itemLabel": "House of Al Sabah",
-    "year": "1756",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q960395",
-    "itemLabel": "Shaddadids",
-    "year": "951",
-    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q972165",
     "itemLabel": "Shishunaga dynasty",
     "year": "-412",
-    "sitelinks": "25"
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q878309",
@@ -1032,9 +1032,15 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3431885",
-    "itemLabel": "Sallarid dynasty",
-    "year": "941",
+    "item": "http://www.wikidata.org/entity/Q895180",
+    "itemLabel": "Spanish House of Bourbon",
+    "year": "1701",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q960395",
+    "itemLabel": "Shaddadids",
+    "year": "951",
     "sitelinks": "25"
   },
   {
@@ -1042,6 +1048,24 @@
     "itemLabel": "Southern Ming dynasty",
     "year": "1644",
     "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q697685",
+    "itemLabel": "House of Nassau-Weilburg",
+    "year": "1344",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26996",
+    "itemLabel": "Kidarites",
+    "year": "301",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2370784",
+    "itemLabel": "Shun dynasty",
+    "year": "1644",
+    "sitelinks": "24"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1034173",
@@ -1053,30 +1077,6 @@
     "item": "http://www.wikidata.org/entity/Q1479952",
     "itemLabel": "Kadamba dynasty",
     "year": "345",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q697685",
-    "itemLabel": "House of Nassau-Weilburg",
-    "year": "1344",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q895180",
-    "itemLabel": "Spanish House of Bourbon",
-    "year": "1701",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2370784",
-    "itemLabel": "Shun dynasty",
-    "year": "1644",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26996",
-    "itemLabel": "Kidarites",
-    "year": "301",
     "sitelinks": "24"
   },
   {
@@ -1098,10 +1098,28 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3100718",
+    "itemLabel": "Genghisid",
+    "year": "1206",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q835435",
     "itemLabel": "Zhou dynasty (690–705)",
     "year": "690",
     "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q466433",
+    "itemLabel": "Karkota dynasty",
+    "year": "625",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3274200",
+    "itemLabel": "Shah dynasty",
+    "year": "1768",
+    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1077960",
@@ -1116,28 +1134,34 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q466433",
-    "itemLabel": "Karkota dynasty",
-    "year": "625",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3100718",
-    "itemLabel": "Genghisid",
-    "year": "1206",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3274200",
-    "itemLabel": "Shah dynasty",
-    "year": "1768",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1072949",
     "itemLabel": "Western Han",
     "year": "-201",
     "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q626937",
+    "itemLabel": "House of Yi",
+    "year": "1392",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q646434",
+    "itemLabel": "Marwanids",
+    "year": "983",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q254219",
+    "itemLabel": "Somoza family",
+    "year": "1936",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4955540",
+    "itemLabel": "Hindu Shahis",
+    "year": "850",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q928936",
@@ -1158,10 +1182,22 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q646434",
-    "itemLabel": "Marwanids",
-    "year": "983",
+    "item": "http://www.wikidata.org/entity/Q18211496",
+    "itemLabel": "Chaulukya dynasty",
+    "year": "940",
     "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q250515",
+    "itemLabel": "Eastern Ganga dynasty",
+    "year": "1078",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2816439",
+    "itemLabel": "Dabuyid dynasty",
+    "year": "642",
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1033421",
@@ -1176,40 +1212,10 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q250515",
-    "itemLabel": "Eastern Ganga dynasty",
-    "year": "1078",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4955540",
-    "itemLabel": "Hindu Shahis",
-    "year": "850",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q6745731",
     "itemLabel": "Mamluk rule in Iraq",
     "year": "1704",
     "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18211496",
-    "itemLabel": "Chaulukya dynasty",
-    "year": "940",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1990528",
-    "itemLabel": "Alids of Tabaristan, Daylam and Gilan",
-    "year": "864",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q626937",
-    "itemLabel": "House of Yi",
-    "year": "1392",
-    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q703919",
@@ -1224,12 +1230,6 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2816439",
-    "itemLabel": "Dabuyid dynasty",
-    "year": "642",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3242360",
     "itemLabel": "Licchavi",
     "year": "400",
@@ -1240,6 +1240,30 @@
     "itemLabel": "Eastern Chalukyas",
     "year": "624",
     "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1990528",
+    "itemLabel": "Alid dynasties of northern Iran",
+    "year": "864",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15631010",
+    "itemLabel": "Abydos Dynasty",
+    "year": "-1649",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q33058",
+    "itemLabel": "Banu Hud",
+    "year": "1039",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79655",
+    "itemLabel": "Gajapati Empire",
+    "year": "1434",
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1209047",
@@ -1260,22 +1284,10 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q79655",
-    "itemLabel": "Gajapati Empire",
-    "year": "1434",
+    "item": "http://www.wikidata.org/entity/Q15242416",
+    "itemLabel": "Mughal dynasty",
+    "year": "1526",
     "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15631010",
-    "itemLabel": "Abydos Dynasty",
-    "year": "-1649",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1317884",
-    "itemLabel": "Early Lê dynasty",
-    "year": "980",
-    "sitelinks": "17"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2301908",
@@ -1296,9 +1308,15 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q33058",
-    "itemLabel": "Banu Hud",
-    "year": "1039",
+    "item": "http://www.wikidata.org/entity/Q1273603",
+    "itemLabel": "Moymirids",
+    "year": "630",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1317884",
+    "itemLabel": "Early Lê dynasty",
+    "year": "980",
     "sitelinks": "17"
   },
   {
@@ -1314,9 +1332,9 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15242416",
-    "itemLabel": "Mughal dynasty",
-    "year": "1526",
+    "item": "http://www.wikidata.org/entity/Q12459974",
+    "itemLabel": "Haryanka dynasty",
+    "year": "-543",
     "sitelinks": "17"
   },
   {
@@ -1332,27 +1350,9 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1273603",
-    "itemLabel": "Moymirids",
-    "year": "630",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1590628",
-    "itemLabel": "Terter dynasty",
-    "year": "1280",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q402382",
     "itemLabel": "Ahom dynasty",
     "year": "1228",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2441129",
-    "itemLabel": "Early Lý dynasty",
-    "year": "544",
     "sitelinks": "16"
   },
   {
@@ -1362,9 +1362,21 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12459974",
-    "itemLabel": "Haryanka dynasty",
-    "year": "-543",
+    "item": "http://www.wikidata.org/entity/Q2441129",
+    "itemLabel": "Early Lý dynasty",
+    "year": "544",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2572901",
+    "itemLabel": "Kalabhra",
+    "year": "250",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1590628",
+    "itemLabel": "Terter dynasty",
+    "year": "1280",
     "sitelinks": "16"
   },
   {
@@ -1374,21 +1386,15 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1920525",
-    "itemLabel": "Mengujekids",
-    "year": "1072",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2261321",
     "itemLabel": "Beylik of Adana",
     "year": "1352",
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2572901",
-    "itemLabel": "Kalabhra",
-    "year": "250",
+    "item": "http://www.wikidata.org/entity/Q1920525",
+    "itemLabel": "Mengujekids",
+    "year": "1072",
     "sitelinks": "15"
   },
   {
@@ -1428,15 +1434,9 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1109008",
-    "itemLabel": "Varman dynasty",
-    "year": "350",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1147823",
-    "itemLabel": "Gahadavala",
-    "year": "1089",
+    "item": "http://www.wikidata.org/entity/Q126416",
+    "itemLabel": "Phagmodrupa dynasty",
+    "year": "1354",
     "sitelinks": "14"
   },
   {
@@ -1452,9 +1452,21 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126416",
-    "itemLabel": "Phagmodrupa dynasty",
-    "year": "1354",
+    "item": "http://www.wikidata.org/entity/Q2623902",
+    "itemLabel": "Gaekwad dynasty",
+    "year": "1721",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1109008",
+    "itemLabel": "Varman dynasty",
+    "year": "350",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1147823",
+    "itemLabel": "Gahadavala",
+    "year": "1089",
     "sitelinks": "14"
   },
   {
@@ -1470,15 +1482,9 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1315339",
-    "itemLabel": "Lohara Dynasty",
-    "year": "1003",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1587991",
-    "itemLabel": "Keladi Nayaka",
-    "year": "1499",
+    "item": "http://www.wikidata.org/entity/Q727118",
+    "itemLabel": "Muzaffarid dynasty of Gujarat",
+    "year": "1391",
     "sitelinks": "13"
   },
   {
@@ -1488,21 +1494,15 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2122499",
-    "itemLabel": "Surakarta Sunanate",
-    "year": "1745",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2623902",
-    "itemLabel": "Gaekwad dynasty",
-    "year": "1721",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q27260",
     "itemLabel": "Samma dynasty",
     "year": "1335",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2122499",
+    "itemLabel": "Surakarta Sunanate",
+    "year": "1745",
     "sitelinks": "13"
   },
   {
@@ -1518,10 +1518,28 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q727118",
-    "itemLabel": "Muzaffarid dynasty of Gujarat",
-    "year": "1391",
-    "sitelinks": "12"
+    "item": "http://www.wikidata.org/entity/Q1315339",
+    "itemLabel": "Lohara Dynasty",
+    "year": "1003",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1587991",
+    "itemLabel": "Keladi Nayaka",
+    "year": "1499",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6395203",
+    "itemLabel": "Paduspanids",
+    "year": "665",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16630263",
+    "itemLabel": "Kassite dynasty",
+    "year": "-1594",
+    "sitelinks": "13"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3272890",
@@ -1536,9 +1554,15 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16630263",
-    "itemLabel": "Kassite dynasty",
-    "year": "-1594",
+    "item": "http://www.wikidata.org/entity/Q5436526",
+    "itemLabel": "Faruqi Dynasty",
+    "year": "1370",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1435679",
+    "itemLabel": "House of Saxe-Coburg and Gotha-Koháry",
+    "year": "1826",
     "sitelinks": "12"
   },
   {
@@ -1552,12 +1576,6 @@
     "itemLabel": "Western Liang dynasty",
     "year": "555",
     "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1588434",
-    "itemLabel": "Thanjavur Nayak kingdom",
-    "year": "1532",
-    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2342941",
@@ -1578,9 +1596,9 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5436526",
-    "itemLabel": "Faruqi Dynasty",
-    "year": "1370",
+    "item": "http://www.wikidata.org/entity/Q1588434",
+    "itemLabel": "Thanjavur Nayak kingdom",
+    "year": "1532",
     "sitelinks": "11"
   },
   {
@@ -1590,15 +1608,15 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7374312",
-    "itemLabel": "Dogra dynasty",
-    "year": "1846",
+    "item": "http://www.wikidata.org/entity/Q6424771",
+    "itemLabel": "Koch dynasty",
+    "year": "1515",
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1435679",
-    "itemLabel": "House of Saxe-Coburg and Gotha-Koháry",
-    "year": "1826",
+    "item": "http://www.wikidata.org/entity/Q7374312",
+    "itemLabel": "Dogra dynasty",
+    "year": "1846",
     "sitelinks": "11"
   },
   {
@@ -1623,12 +1641,6 @@
     "item": "http://www.wikidata.org/entity/Q1617123",
     "itemLabel": "Utpala dynasty",
     "year": "855",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6424771",
-    "itemLabel": "Koch dynasty",
-    "year": "1515",
     "sitelinks": "10"
   },
   {
@@ -1669,8 +1681,14 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q10854753",
-    "itemLabel": "Royal house of Aragon",
+    "itemLabel": "royal house of Aragon",
     "year": "1035",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12839171",
+    "itemLabel": "Ilkhanids",
+    "year": "1261",
     "sitelinks": "9"
   },
   {
@@ -1686,21 +1704,15 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1096374",
-    "itemLabel": "Banu Ilyas",
-    "year": "932",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4090536",
     "itemLabel": "House of Bokassa",
     "year": "1976",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12839171",
-    "itemLabel": "Ilkhanids",
-    "year": "1261",
+    "item": "http://www.wikidata.org/entity/Q1096374",
+    "itemLabel": "Banu Ilyas",
+    "year": "932",
     "sitelinks": "8"
   },
   {
@@ -1728,6 +1740,18 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q855541",
+    "itemLabel": "Chaghatayid dynasty",
+    "year": "1224",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4784143",
+    "itemLabel": "Aranshahik",
+    "year": "100",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1108420",
     "itemLabel": "Pala dynasty (Kamarupa)",
     "year": "900",
@@ -1743,12 +1767,6 @@
     "item": "http://www.wikidata.org/entity/Q1723023",
     "itemLabel": "Raj Darbhanga",
     "year": "1557",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q855541",
-    "itemLabel": "Chaghatayid dynasty",
-    "year": "1224",
     "sitelinks": "7"
   },
   {
@@ -1788,6 +1806,18 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q12443072",
+    "itemLabel": "Brihadrath Dynasty",
+    "year": "-1699",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21644691",
+    "itemLabel": "Tore",
+    "year": "1465",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q58399542",
     "itemLabel": "Oiniwar Dynasty",
     "year": "1325",
@@ -1824,6 +1854,12 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4781804",
+    "itemLabel": "Apraca",
+    "year": "-14",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7071852",
     "itemLabel": "O'Kennedy",
     "year": "1118",
@@ -1842,12 +1878,6 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12443072",
-    "itemLabel": "Brihadrath Dynasty",
-    "year": "-1699",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q17150787",
     "itemLabel": "Bharshiva dynasty",
     "year": "170",
@@ -1857,12 +1887,6 @@
     "item": "http://www.wikidata.org/entity/Q19998279",
     "itemLabel": "Arabshahids",
     "year": "1515",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q21644691",
-    "itemLabel": "Tore",
-    "year": "1465",
     "sitelinks": "5"
   },
   {
@@ -1902,12 +1926,6 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1448688",
-    "itemLabel": "Uyunid dynasty",
-    "year": "1076",
-    "sitelinks": "4"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q878276",
     "itemLabel": "Later Lê dynasty",
     "year": "1428",
@@ -1926,9 +1944,9 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4781804",
-    "itemLabel": "Apraca",
-    "year": "-14",
+    "item": "http://www.wikidata.org/entity/Q1448688",
+    "itemLabel": "Uyunid dynasty",
+    "year": "1076",
     "sitelinks": "4"
   },
   {
@@ -2221,7 +2239,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q10948084",
-    "itemLabel": "House of Aisin-Gioro",
+    "itemLabel": "House of Aisin Gioro",
     "year": "1559",
     "sitelinks": "2"
   },
@@ -2485,7 +2503,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q6810173",
-    "itemLabel": "Q6810173",
+    "itemLabel": "Tsanz–Żmigród (hasidic dynasty)",
     "year": "1899",
     "sitelinks": "1"
   },

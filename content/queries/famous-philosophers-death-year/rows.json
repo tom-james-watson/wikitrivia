@@ -3,73 +3,73 @@
     "item": "http://www.wikidata.org/entity/Q937",
     "itemLabel": "Albert Einstein",
     "year": "1955",
-    "sitelinks": "320",
+    "sitelinks": "321",
     "description": "German-born theoretical physicist (1879–1955)",
-    "nationalityLabel": "Austrian||statelessness||Württembergian||Weimar Republic||Swiss||German||American||Americans",
-    "occupationLabel": "scientist||professor||patent examiner||physicist||mathematician||author||science writer||philosopher||theoretical physicist||philosopher of science||inventor||pacifist||pedagogue||university teacher"
+    "nationalityLabel": "Austrian||statelessness||Württembergian||Weimar Republic||German||Swiss||American||Americans",
+    "occupationLabel": "scientist||professor||patent examiner||mathematician||physicist||writer||inventor||philosopher||theoretical physicist||science writer||pacifist||pedagogue||philosopher of science||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q868",
     "itemLabel": "Aristotle",
     "year": "-321",
-    "sitelinks": "316",
+    "sitelinks": "318",
     "description": "4th-century BCE Classical Greek philosopher and polymath",
     "nationalityLabel": "",
     "occupationLabel": "philosopher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q9061",
-    "itemLabel": "Karl Marx",
-    "year": "1883",
-    "sitelinks": "310",
-    "description": "German-born philosopher (1818-1883)",
-    "nationalityLabel": "statelessness||Prussian",
-    "occupationLabel": "sociologist||politician||revolutionary||author||poet||economist||philosopher||historian||journalist"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q4604",
     "itemLabel": "Confucius",
     "year": "-478",
-    "sitelinks": "309",
+    "sitelinks": "313",
     "description": "5th-century BCE Chinese philosopher and politician",
     "nationalityLabel": "Lu",
-    "occupationLabel": "teacher||author||philosopher"
+    "occupationLabel": "teacher||writer||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9061",
+    "itemLabel": "Karl Marx",
+    "year": "1883",
+    "sitelinks": "312",
+    "description": "German-born philosopher (1818–1883)",
+    "nationalityLabel": "statelessness||Prussian",
+    "occupationLabel": "sociologist||politician||revolutionary||writer||historian||poet||philosopher||economist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q935",
     "itemLabel": "Isaac Newton",
     "year": "1727",
-    "sitelinks": "302",
+    "sitelinks": "303",
     "description": "English mathematician and physicist (1642–1727)",
-    "nationalityLabel": "British||Briton||English",
+    "nationalityLabel": "English||British||Briton",
     "occupationLabel": "mathematician||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q859",
     "itemLabel": "Plato",
     "year": "-348",
-    "sitelinks": "300",
+    "sitelinks": "302",
     "description": "4th-century BCE Greek philosopher",
     "nationalityLabel": "Athenians",
-    "occupationLabel": "author||poet||philosopher||philosopher of law||epigrammatist"
+    "occupationLabel": "writer||poet||philosopher||epigrammatist||philosopher of law"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1001",
     "itemLabel": "Mahatma Gandhi",
     "year": "1948",
-    "sitelinks": "283",
+    "sitelinks": "285",
     "description": "Indian independence activist (1869–1948)",
     "nationalityLabel": "Indian",
-    "occupationLabel": "politician||revolutionary||lawyer||author||newspaper editor||autobiographer||philosopher||freedom fighter||humanitarian||jurist||memoirist||essayist||peace activist||political writer||pacifist||barrister||journalist||civil rights advocate"
+    "occupationLabel": "politician||revolutionary||writer||lawyer||philosopher||jurist||newspaper editor||autobiographer||author||freedom fighter||essayist||memoirist||political writer||humanitarian||barrister||pacifist||journalist||civil rights advocate||peace activist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7243",
     "itemLabel": "Leo Tolstoy",
     "year": "1910",
-    "sitelinks": "279",
+    "sitelinks": "280",
     "description": "Russian author (1828–1910)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "author||poet||diarist||opinion journalist||children's writer||philosopher||prose writer||novelist||essayist||short story writer||playwright||Esperantist||pacifist||pedagogue"
+    "occupationLabel": "writer||poet||philosopher||children's writer||diarist||opinion journalist||novelist||playwright||essayist||prose writer||Esperantist||short story writer||pacifist||pedagogue"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5879",
@@ -78,43 +78,43 @@
     "sitelinks": "278",
     "description": "German writer, artist, natural scientist and politician (1749–1832)",
     "nationalityLabel": "Saxe-Weimar-Eisenach",
-    "occupationLabel": "politician||naturalist||botanist||physicist||composer||lawyer||author||poet||travel writer||art theorist||diarist||librarian||visual artist||aphorist||opinion journalist||watercolorist||autobiographer||art critic||philosopher||art collector||librettist||literary scholar||novelist||jurist||diplomat||printmaker||mineralogist||draftsperson||zoologist||Theaterintendant||print collector||statesperson||polymath||playwright||theologian||art historian||theatre manager||exlibrist||music critic||painter"
+    "occupationLabel": "politician||naturalist||botanist||physicist||writer||librarian||lawyer||art critic||visual artist||aphorist||travel writer||composer||poet||philosopher||jurist||art theorist||statesperson||autobiographer||art collector||watercolorist||diarist||literary scholar||opinion journalist||novelist||polymath||diplomat||playwright||librettist||printmaker||draftsperson||print collector||zoologist||exlibrist||Theaterintendant||mineralogist||theologian||painter||music critic||theatre manager||art historian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1035",
     "itemLabel": "Charles Darwin",
     "year": "1882",
-    "sitelinks": "277",
+    "sitelinks": "278",
     "description": "English naturalist and biologist (1809–1882)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "naturalist||botanist||author||travel writer||philosopher||explorer||ethologist||geologist||scientific collector||biologist||botanical collector"
+    "occupationLabel": "naturalist||botanist||writer||travel writer||philosopher||geologist||explorer||biologist||scientific collector||botanical collector||ethologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q913",
     "itemLabel": "Socrates",
     "year": "-398",
-    "sitelinks": "275",
+    "sitelinks": "276",
     "description": "5th-century BCE Greek philosopher",
     "nationalityLabel": "Athenians",
-    "occupationLabel": "teacher||author||ethicist||philosopher"
+    "occupationLabel": "teacher||writer||philosopher||ethicist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9441",
     "itemLabel": "The Buddha",
     "year": "-500",
-    "sitelinks": "272",
+    "sitelinks": "274",
     "description": "Indian philosopher and the founder of Buddhism (623 or 563 BCE – 543 or 483 BCE)",
     "nationalityLabel": "",
-    "occupationLabel": "founder of religion||author||philosopher||spiritual teacher||psychiatrist||preacher||psychologist||social reformer||Buddhist monk||religious leader"
+    "occupationLabel": "writer||philosopher||psychiatrist||psychologist||preacher||spiritual teacher||Buddhist monk||social reformer||religious leader||founder of religion"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1067",
     "itemLabel": "Dante Alighieri",
     "year": "1321",
-    "sitelinks": "269",
+    "sitelinks": "271",
     "description": "Florentine poet, writer, and philosopher (c. 1265–1321)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "politician||author||poet||intellectual||philosopher||prose writer||political theorist||linguist"
+    "occupationLabel": "politician||writer||poet||philosopher||intellectual||prose writer||linguist||political theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q307",
@@ -123,70 +123,70 @@
     "sitelinks": "269",
     "description": "Italian polymath (1564–1642)",
     "nationalityLabel": "Duchy of Florence||Grand Duchy of Tuscany",
-    "occupationLabel": "scientist||politician||engineer||astronomer||physicist||mathematician||astrologer||philosopher||inventor||university teacher"
+    "occupationLabel": "engineer||scientist||politician||astronomer||mathematician||astrologer||physicist||inventor||philosopher||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9554",
     "itemLabel": "Martin Luther",
     "year": "1546",
-    "sitelinks": "257",
+    "sitelinks": "259",
     "description": "German priest and theologian (1483–1546)",
     "nationalityLabel": "Electorate of Saxony||Roman",
-    "occupationLabel": "composer||pastor||lawyer||author||philosopher||Bible translator||preacher||friar||Catholic priest||hymnwriter||scribe||theologian||university teacher||translator||reformer||Protestant reformer"
+    "occupationLabel": "pastor||writer||lawyer||composer||philosopher||Bible translator||preacher||Catholic priest||translator||friar||hymnwriter||reformer||theologian||scribe||Protestant reformer||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9068",
     "itemLabel": "Voltaire",
     "year": "1778",
-    "sitelinks": "254",
+    "sitelinks": "256",
     "description": "French writer, historian and philosopher (1694–1778)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||poet||correspondent||diarist||autobiographer||science fiction writer||philosopher||essayist||historian||playwright||encyclopédistes||political scientist||poet lawyer"
+    "occupationLabel": "writer||correspondent||historian||poet||philosopher||autobiographer||diarist||science fiction writer||playwright||essayist||encyclopédistes||poet lawyer||political scientist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9358",
     "itemLabel": "Friedrich Nietzsche",
     "year": "1900",
-    "sitelinks": "254",
+    "sitelinks": "255",
     "description": "German philosopher (1844-1900)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "composer||author||poet||philosopher||classical philologist||playwright||pedagogue||music critic"
+    "occupationLabel": "writer||composer||poet||philosopher||playwright||classical philologist||pedagogue||music critic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q991",
     "itemLabel": "Fyodor Dostoyevsky",
     "year": "1881",
-    "sitelinks": "253",
+    "sitelinks": "254",
     "description": "Russian novelist (1821–1881)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "author||opinion journalist||philosopher||prose writer||novelist||essayist||short story writer||film screenwriter||translator||biographer"
+    "occupationLabel": "writer||philosopher||opinion journalist||novelist||translator||essayist||prose writer||biographer||film screenwriter||short story writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9312",
     "itemLabel": "Immanuel Kant",
     "year": "1804",
-    "sitelinks": "251",
+    "sitelinks": "253",
     "description": "German philosopher (1724-1804)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "naturalist||physicist||mathematician||author||librarian||anthropologist||philosopher||philosopher of law||in-home tutor||pedagogue||university teacher"
+    "occupationLabel": "naturalist||mathematician||physicist||writer||anthropologist||librarian||philosopher||author||in-home tutor||philosopher of law||pedagogue||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9191",
     "itemLabel": "René Descartes",
     "year": "1650",
-    "sitelinks": "249",
+    "sitelinks": "252",
     "description": "French philosopher, mathematician, and scientist (1596–1650)",
     "nationalityLabel": "French",
-    "occupationLabel": "astronomer||naturalist||physicist||mathematician||author||correspondent||military personnel||philosopher||mechanical automaton engineer||musicologist||music theorist||polymath"
+    "occupationLabel": "astronomer||naturalist||mathematician||physicist||writer||military personnel||correspondent||philosopher||polymath||mechanical automaton engineer||music theorist||musicologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8739",
     "itemLabel": "Archimedes",
     "year": "-211",
-    "sitelinks": "244",
+    "sitelinks": "245",
     "description": "Greek mathematician and physicist (c. 287 – c. 212 BC)",
     "nationalityLabel": "Syracuse",
-    "occupationLabel": "engineer||astronomer||physicist||military engineer||mathematician||philosopher||inventor"
+    "occupationLabel": "engineer||military engineer||astronomer||mathematician||physicist||inventor||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7241",
@@ -195,124 +195,133 @@
     "sitelinks": "244",
     "description": "Bengali poet, philosopher and polymath (1861–1941)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "actor||composer||film director||author||poet||travel writer||singer||philosopher||freedom fighter||librettist||novelist||essayist||short story writer||artist||playwright||lyricist||social reformer||songwriter||Nobel Prize winner||painter"
+    "occupationLabel": "film director||actor||writer||travel writer||composer||poet||philosopher||singer||novelist||freedom fighter||playwright||librettist||essayist||short story writer||songwriter||lyricist||artist||Nobel Prize winner||social reformer||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q450675",
     "itemLabel": "Pope Francis",
     "year": "2025",
-    "sitelinks": "235",
+    "sitelinks": "236",
     "description": "266th pope of the Catholic Church from 2013 to 2025 (1936–2025)",
     "nationalityLabel": "Argentine||Argentinian",
-    "occupationLabel": "politician||bishop||author||chemical technologist||autobiographer||philosopher||film actor||preacher||Catholic theologian||Latin Catholic bishop||university teacher||Latin Catholic priest"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5816",
-    "itemLabel": "Mao Zedong",
-    "year": "1976",
-    "sitelinks": "230",
-    "description": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China (1893–1976)",
-    "nationalityLabel": "Chinese Soviet Republic||Chinese||Qing dynasty",
-    "occupationLabel": "politician||calligrapher||revolutionary||author||poet||librarian||communist||philosopher||military theorist||strategist||political theorist"
+    "occupationLabel": "politician||bishop||writer||philosopher||autobiographer||chemical technologist||film actor||preacher||Latin Catholic bishop||Catholic theologian||Latin Catholic priest||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6527",
     "itemLabel": "Jean-Jacques Rousseau",
     "year": "1778",
-    "sitelinks": "229",
+    "sitelinks": "232",
     "description": "Genevan philosopher, writer, and composer (1712-1778)",
     "nationalityLabel": "Republic of Geneva",
-    "occupationLabel": "naturalist||botanist||composer||author||correspondent||autobiographer||philosopher||classical composer||novelist||essayist||musicologist||playwright||encyclopédistes||pedagogue||political scientist||music critic"
+    "occupationLabel": "naturalist||botanist||writer||correspondent||composer||philosopher||autobiographer||classical composer||novelist||playwright||essayist||encyclopédistes||musicologist||pedagogue||political scientist||music critic"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5816",
+    "itemLabel": "Mao Zedong",
+    "year": "1976",
+    "sitelinks": "231",
+    "description": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China (1893–1976)",
+    "nationalityLabel": "Chinese Soviet Republic||Chinese||Qing dynasty",
+    "occupationLabel": "politician||revolutionary||calligrapher||writer||librarian||poet||strategist||philosopher||author||communist||military theorist||political theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8018",
     "itemLabel": "Augustine of Hippo",
     "year": "430",
-    "sitelinks": "226",
+    "sitelinks": "227",
     "description": "Christian theologian, philosopher, and saint (354–430)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "cleric||bishop||author||poet||autobiographer||philosopher||Church Fathers||Doctor of the Church||historian||music theorist||preacher||Catholic priest||Catholic bishop||theologian||titular bishop"
+    "occupationLabel": "cleric||bishop||writer||Church Fathers||historian||poet||philosopher||autobiographer||preacher||Catholic priest||Doctor of the Church||Catholic bishop||music theorist||theologian||titular bishop"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1399",
     "itemLabel": "Niccolò Machiavelli",
     "year": "1527",
-    "sitelinks": "225",
+    "sitelinks": "227",
     "description": "Italian diplomat and political and military theorist (1469–1527)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "politician||author||poet||philosopher||diplomat||military theorist||historian||political theorist||playwright||translator"
+    "occupationLabel": "politician||writer||historian||poet||philosopher||diplomat||playwright||translator||military theorist||political theorist||political scientist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11812",
     "itemLabel": "Thomas Jefferson",
     "year": "1826",
-    "sitelinks": "222",
-    "description": "president of the United States from 1801 to 1809 (1743–1826)",
+    "sitelinks": "224",
+    "description": "Founding Father, U.S. president from 1801 to 1809 (1743–1826)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||governor||teacher||lawyer||architect||author||archaeologist||philosopher||foreign minister||jurist||diplomat||President of the Republic||draftsperson||planter class||inventor||statesperson||cryptographer||paleontologist"
+    "occupationLabel": "politician||governor||teacher||writer||architect||lawyer||archaeologist||inventor||philosopher||jurist||statesperson||foreign minister||diplomat||draftsperson||cryptographer||planter class||paleontologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9381",
     "itemLabel": "Adam Smith",
     "year": "1790",
-    "sitelinks": "219",
+    "sitelinks": "221",
     "description": "Scottish moral philosopher and political economist (1723–1790)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "publisher||author||economist||philosopher||non-fiction writer||university teacher||political economist||French moralist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7235",
-    "itemLabel": "Sophocles",
-    "year": "-405",
-    "sitelinks": "213",
-    "description": "ancient Greek playwright",
-    "nationalityLabel": "Athenians",
-    "occupationLabel": "politician||author||priest||philosopher||tragedy writer||playwright"
+    "occupationLabel": "publisher||writer||philosopher||economist||non-fiction writer||political economist||French moralist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q619",
     "itemLabel": "Nicolaus Copernicus",
     "year": "1543",
-    "sitelinks": "212",
+    "sitelinks": "214",
     "description": "Polish mathematician and astronomer (1473-1543)",
     "nationalityLabel": "Kingdom of Poland",
-    "occupationLabel": "astronomer||physicist||physician||mathematician||author||economist||philosopher||jurist||diplomat||legal scholar||translator||canon"
+    "occupationLabel": "astronomer||mathematician||physicist||physician||writer||philosopher||jurist||economist||diplomat||translator||canon||legal scholar"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9333",
     "itemLabel": "Laozi",
     "year": "-500",
-    "sitelinks": "211",
+    "sitelinks": "213",
     "description": "6th-century BC semi-legendary Chinese philosopher, founder of Taoism",
     "nationalityLabel": "Zhou dynasty",
-    "occupationLabel": "author||philosopher||archivist||Taoist"
+    "occupationLabel": "writer||philosopher||archivist||Taoist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7235",
+    "itemLabel": "Sophocles",
+    "year": "-405",
+    "sitelinks": "212",
+    "description": "ancient Greek playwright",
+    "nationalityLabel": "Athenians",
+    "occupationLabel": "politician||priest||writer||philosopher||tragedy writer||playwright"
   },
   {
     "item": "http://www.wikidata.org/entity/Q10261",
     "itemLabel": "Pythagoras",
     "year": "-490",
-    "sitelinks": "207",
+    "sitelinks": "208",
     "description": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
     "nationalityLabel": "Samos",
-    "occupationLabel": "politician||mathematician||author||philosopher||musicologist||music theorist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9438",
-    "itemLabel": "Thomas Aquinas",
-    "year": "1274",
-    "sitelinks": "207",
-    "description": "Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church (1225–1274)",
-    "nationalityLabel": "",
-    "occupationLabel": "author||professor of philosophy||philosopher||friar||Catholic theologian||monk||theologian||university teacher||Latin Catholic priest||theology teacher"
+    "occupationLabel": "politician||mathematician||writer||philosopher||music theorist||musicologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9353",
     "itemLabel": "John Locke",
     "year": "1704",
-    "sitelinks": "206",
+    "sitelinks": "207",
     "description": "English philosopher and physician (1632-1704)",
     "nationalityLabel": "English",
-    "occupationLabel": "scientist||politician||physician||author||philosopher||philosopher of law"
+    "occupationLabel": "scientist||politician||physician||writer||philosopher||philosopher of law"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q989",
+    "itemLabel": "John Paul II",
+    "year": "2005",
+    "sitelinks": "207",
+    "description": "264th pope of the Catholic Church (1978–2005)",
+    "nationalityLabel": "Polish",
+    "occupationLabel": "politician||professor||archbishop||poet||transitional deacon||philosopher||autobiographer||author||latin catholic deacon||Catholic bishop||human rights defender||Latin Catholic priest"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9438",
+    "itemLabel": "Thomas Aquinas",
+    "year": "1274",
+    "sitelinks": "206",
+    "description": "Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church (1225–1274)",
+    "nationalityLabel": "",
+    "occupationLabel": "writer||philosopher||friar||professor of philosophy||monk||Catholic theologian||theology teacher||theologian||Latin Catholic priest||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34670",
@@ -321,7 +330,7 @@
     "sitelinks": "205",
     "description": "French philosopher, author, and journalist (1913–1960)",
     "nationalityLabel": "French",
-    "occupationLabel": "actor||author||poet||opinion journalist||philosopher||novelist||French resistance fighter||essayist||playwright||association football player||journalist"
+    "occupationLabel": "actor||writer||poet||philosopher||opinion journalist||novelist||French resistance fighter||playwright||essayist||journalist||association football player"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9047",
@@ -330,16 +339,7 @@
     "sitelinks": "204",
     "description": "German mathematician and philosopher (1646–1716)",
     "nationalityLabel": "Electorate of Saxony",
-    "occupationLabel": "engineer||physicist||mathematician||author||poet||librarian||philosopher||jurist||diplomat||philosopher of law||historian||logician||musicologist||music theorist||policy advisor||zoologist||diplomatician||geologist||polymath||archivist||translator"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q989",
-    "itemLabel": "John Paul II",
-    "year": "2005",
-    "sitelinks": "203",
-    "description": "264th pope of the Catholic Church (1978–2005)",
-    "nationalityLabel": "Polish",
-    "occupationLabel": "politician||professor||poet||autobiographer||archbishop||philosopher||transitional deacon||author||Catholic bishop||latin catholic deacon||human rights defender||Latin Catholic priest"
+    "occupationLabel": "engineer||mathematician||physicist||writer||librarian||historian||poet||philosopher||jurist||geologist||polymath||diplomat||translator||archivist||logician||zoologist||philosopher of law||diplomatician||music theorist||policy advisor||musicologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1541",
@@ -348,16 +348,34 @@
     "sitelinks": "202",
     "description": "Roman statesman, lawyer, orator, and philosopher (106–43 BC)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "politician||lawyer||author||poet||ancient Roman priest||military personnel||philosopher||jurist||orator||political theorist"
+    "occupationLabel": "politician||ancient Roman priest||writer||military personnel||lawyer||poet||philosopher||jurist||orator||political theorist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9364",
+    "itemLabel": "Jean-Paul Sartre",
+    "year": "1980",
+    "sitelinks": "200",
+    "description": "French existentialist philosopher (1905–1980)",
+    "nationalityLabel": "French",
+    "occupationLabel": "screenwriter||writer||philosopher||literary critic||opinion journalist||novelist||playwright||essayist||intellectual||epistemologist||biographer||political writer||lyricist||peace activist||resistance fighter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2494",
     "itemLabel": "Benedict XVI",
     "year": "2022",
-    "sitelinks": "201",
+    "sitelinks": "200",
     "description": "265 th pope of the Catholic Church (2005–2013)",
     "nationalityLabel": "Vatican||German||Italian",
-    "occupationLabel": "archbishop||philosopher||transitional deacon||religious writer||Catholic theologian||Latin Catholic bishop||theologian||university teacher||Latin Catholic priest"
+    "occupationLabel": "archbishop||transitional deacon||philosopher||religious writer||Latin Catholic bishop||Catholic theologian||theologian||Latin Catholic priest||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34787",
+    "itemLabel": "Friedrich Engels",
+    "year": "1895",
+    "sitelinks": "199",
+    "description": "German philosopher, sociologist and economist (1820–1895)",
+    "nationalityLabel": "Prussian||British||Briton",
+    "occupationLabel": "sociologist||entrepreneur||revolutionary||writer||historian||philosopher||economist||author||women's rights activist||political theorist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7071",
@@ -366,25 +384,7 @@
     "sitelinks": "198",
     "description": "Classical Chinese poet of the Tang dynasty (701–762)",
     "nationalityLabel": "Tang dynasty",
-    "occupationLabel": "calligrapher||author||poet||philosopher||lyricist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9364",
-    "itemLabel": "Jean-Paul Sartre",
-    "year": "1980",
-    "sitelinks": "198",
-    "description": "French existentialist philosopher (1905–1980)",
-    "nationalityLabel": "French",
-    "occupationLabel": "screenwriter||author||intellectual||literary critic||opinion journalist||philosopher||novelist||essayist||peace activist||political writer||playwright||lyricist||epistemologist||resistance fighter||biographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q34787",
-    "itemLabel": "Friedrich Engels",
-    "year": "1895",
-    "sitelinks": "196",
-    "description": "German philosopher, sociologist and economist (1820–1895)",
-    "nationalityLabel": "Prussian||British||Briton",
-    "occupationLabel": "sociologist||entrepreneur||revolutionary||author||economist||philosopher||women's rights activist||historian||social scientist||political theorist||journalist"
+    "occupationLabel": "calligrapher||writer||poet||philosopher||lyricist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1290",
@@ -393,7 +393,7 @@
     "sitelinks": "194",
     "description": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623-1662)",
     "nationalityLabel": "French",
-    "occupationLabel": "statistician||physicist||mathematician||author||philosopher||theologian||French moralist"
+    "occupationLabel": "mathematician||physicist||statistician||writer||philosopher||theologian||French moralist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8011",
@@ -402,7 +402,7 @@
     "sitelinks": "193",
     "description": "Persian polymath, physician and philosopher (c. 980–1037)",
     "nationalityLabel": "",
-    "occupationLabel": "astronomer||physicist||physician||mathematician||author||poet||ethicist||philosopher||music theorist||polymath||chemist||Islamic jurist"
+    "occupationLabel": "astronomer||mathematician||physicist||physician||writer||poet||philosopher||ethicist||polymath||chemist||music theorist||Islamic jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9235",
@@ -411,43 +411,52 @@
     "sitelinks": "192",
     "description": "German philosopher and theologian (1770–1831)",
     "nationalityLabel": "Württembergian",
-    "occupationLabel": "author||philosopher||philosopher of law||philosophy historian||logician||university teacher"
+    "occupationLabel": "writer||philosopher||philosophy historian||logician||philosopher of law||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7231",
     "itemLabel": "Rosa Luxemburg",
     "year": "1919",
-    "sitelinks": "187",
+    "sitelinks": "189",
     "description": "Polish-German Marxist revolutionary (1871–1919)",
     "nationalityLabel": "Russian||German",
-    "occupationLabel": "politician||revolutionary||economist||opinion journalist||philosopher||socialist||docent||political theorist||editing staff||botanical collector||editor||political economist"
+    "occupationLabel": "politician||revolutionary||philosopher||economist||opinion journalist||docent||editing staff||political economist||editor||botanical collector||political theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37388",
     "itemLabel": "Francis Bacon",
     "year": "1626",
-    "sitelinks": "186",
+    "sitelinks": "188",
     "description": "English philosopher and statesman (1561–1626)",
     "nationalityLabel": "English",
-    "occupationLabel": "scientist||politician||judge||lawyer||astrologer||author||philosopher||jurist||historian"
+    "occupationLabel": "judge||scientist||politician||astrologer||writer||lawyer||historian||philosopher||jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9317",
     "itemLabel": "John Maynard Keynes",
     "year": "1946",
-    "sitelinks": "184",
+    "sitelinks": "185",
     "description": "British economist (1883–1946)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||professor||mathematician||businessperson||economist||opinion journalist||philosopher||diplomat||author||non-fiction writer"
+    "occupationLabel": "politician||professor||mathematician||philosopher||economist||opinion journalist||businessperson||author||diplomat||non-fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33760",
     "itemLabel": "Bertrand Russell",
     "year": "1970",
-    "sitelinks": "184",
+    "sitelinks": "185",
     "description": "British philosopher and logician (1872–1970)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||mathematician||author||philosopher of language||analytic philosopher||autobiographer||science fiction writer||philosopher||essayist||peace activist||philosopher of science||logician||social critic||metaphysician||pacifist||epistemologist||pedagogue||university teacher||journalist"
+    "occupationLabel": "politician||mathematician||writer||philosopher||autobiographer||analytic philosopher||philosopher of language||science fiction writer||essayist||epistemologist||logician||social critic||pacifist||metaphysician||pedagogue||journalist||peace activist||philosopher of science||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7197",
+    "itemLabel": "Simone de Beauvoir",
+    "year": "1986",
+    "sitelinks": "184",
+    "description": "French philosopher, social theorist and activist (1908–1986)",
+    "nationalityLabel": "French",
+    "occupationLabel": "writer||women letter writer||philosopher||literary critic||autobiographer||film actor||diarist||novelist||political philosopher||author||essayist||political activist||philosophy teacher||feminist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8963",
@@ -456,52 +465,43 @@
     "sitelinks": "183",
     "description": "German mathematician and astronomer (1571–1630)",
     "nationalityLabel": "Württembergian||Roman",
-    "occupationLabel": "astronomer||naturalist||physicist||mathematician||cosmologist||teacher||astrologer||author||philosopher||musicologist||music theorist||inventor||Protestant theologian"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7197",
-    "itemLabel": "Simone de Beauvoir",
-    "year": "1986",
-    "sitelinks": "183",
-    "description": "French philosopher, social theorist and activist (1908–1986)",
-    "nationalityLabel": "French",
-    "occupationLabel": "author||women letter writer||diarist||political philosopher||literary critic||autobiographer||philosopher||film actor||novelist||political activist||feminist||essayist||philosophy teacher||journalist"
+    "occupationLabel": "astronomer||cosmologist||naturalist||mathematician||astrologer||physicist||teacher||writer||inventor||philosopher||Protestant theologian||music theorist||musicologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q22670",
     "itemLabel": "Friedrich Schiller",
     "year": "1805",
-    "sitelinks": "182",
+    "sitelinks": "183",
     "description": "German playwright, poet, philosopher and historian (1759–1805)",
-    "nationalityLabel": "Saxe-Weimar||Württembergian",
-    "occupationLabel": "physician||author||poet||librarian||philosopher||military physician||librettist||aesthetician||novelist||historian||physician writer||playwright||university teacher||translator||journalist||narrator"
+    "nationalityLabel": "Württembergian||Saxe-Weimar",
+    "occupationLabel": "physician||writer||librarian||military physician||historian||poet||philosopher||aesthetician||novelist||playwright||translator||librettist||physician writer||narrator||journalist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33391",
     "itemLabel": "Leon Trotsky",
     "year": "1940",
-    "sitelinks": "182",
+    "sitelinks": "183",
     "description": "Russian Marxist revolutionary (1879–1940)",
     "nationalityLabel": "Russian Socialist Federative Soviet Republic||Ukrainian Soviet Socialist Republic||Russian||Soviet||Mexican||Mexicans",
-    "occupationLabel": "politician||revolutionary||author||military personnel||autobiographer||philosopher||communist||diplomat||historian||journalist"
+    "occupationLabel": "politician||revolutionary||writer||military personnel||historian||philosopher||autobiographer||diplomat||communist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9021",
-    "itemLabel": "Max Karl Ernst Ludwig Planck",
+    "itemLabel": "Max Planck",
     "year": "1947",
-    "sitelinks": "182",
+    "sitelinks": "181",
     "description": "German theoretical physicist (1858–1947)",
     "nationalityLabel": "German",
     "occupationLabel": "physicist||philosopher||theoretical physicist||university teacher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5683",
-    "itemLabel": "Geoffrey Chaucer",
-    "year": "1400",
+    "item": "http://www.wikidata.org/entity/Q35802",
+    "itemLabel": "Benedictus de Spinoza",
+    "year": "1677",
     "sitelinks": "177",
-    "description": "14th century English poet and author (1343–1400)",
-    "nationalityLabel": "English",
-    "occupationLabel": "politician||astrologer||author||poet||philosopher||lyricist||linguist||translator"
+    "description": "Dutch philosopher (1632-1677)",
+    "nationalityLabel": "Dutch",
+    "occupationLabel": "philosopher||Bible translator||grinder of lenses||theologian||grammarian||political scientist||optician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1430",
@@ -510,61 +510,70 @@
     "sitelinks": "176",
     "description": "16th Roman Emperor from 161 to 180 and Stoic philosopher",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "monarch||politician||author||philosopher"
+    "occupationLabel": "monarch||politician||writer||philosopher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q35802",
-    "itemLabel": "Benedictus de Spinoza",
-    "year": "1677",
+    "item": "http://www.wikidata.org/entity/Q5683",
+    "itemLabel": "Geoffrey Chaucer",
+    "year": "1400",
     "sitelinks": "176",
-    "description": "Dutch philosopher (1632-1677)",
-    "nationalityLabel": "Dutch",
-    "occupationLabel": "philosopher||Bible translator||grinder of lenses||grammarian||optician||theologian||political scientist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5264",
-    "itemLabel": "Hippocrates",
-    "year": "-369",
-    "sitelinks": "173",
-    "description": "Greek physician (c. 460 – c. 370 BC)",
-    "nationalityLabel": "",
-    "occupationLabel": "physician||philosopher"
+    "description": "14th century English poet and author (1343–1400)",
+    "nationalityLabel": "English",
+    "occupationLabel": "politician||astrologer||writer||poet||philosopher||translator||linguist||lyricist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11813",
     "itemLabel": "James Madison",
     "year": "1836",
-    "sitelinks": "173",
+    "sitelinks": "175",
     "description": "President of the United States from 1809 to 1817 (1751–1836)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||lawyer||author||philosopher||diplomat||plantation owner||statesperson"
+    "occupationLabel": "politician||writer||lawyer||philosopher||statesperson||diplomat||plantation owner"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5264",
+    "itemLabel": "Hippocrates",
+    "year": "-369",
+    "sitelinks": "174",
+    "description": "Greek physician (c. 460 – c. 370 BC)",
+    "nationalityLabel": "",
+    "occupationLabel": "physician||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38193",
     "itemLabel": "Arthur Schopenhauer",
     "year": "1860",
-    "sitelinks": "173",
+    "sitelinks": "174",
     "description": "German philosopher (1788-1860)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "author||philosopher||musicologist||university teacher||translator"
+    "occupationLabel": "writer||philosopher||translator||musicologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9387",
     "itemLabel": "Max Weber",
     "year": "1920",
-    "sitelinks": "171",
+    "sitelinks": "172",
     "description": "German sociologist, philosopher, and political economist (1864–1920)",
-    "nationalityLabel": "North German Confederation||Weimar Republic||German||Prussian",
-    "occupationLabel": "sociologist||politician||lawyer||anthropologist||economist||philosopher||economic historian||jurist||historian||musicologist||university teacher||political economist"
+    "nationalityLabel": "North German Confederation||German||Weimar Republic||Prussian",
+    "occupationLabel": "sociologist||politician||anthropologist||lawyer||economic historian||historian||philosopher||jurist||economist||political economist||musicologist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9391",
     "itemLabel": "Ludwig Wittgenstein",
     "year": "1951",
-    "sitelinks": "171",
+    "sitelinks": "172",
     "description": "Austrian philosopher and logician (1889–1951)",
-    "nationalityLabel": "Austrian||British||Briton",
-    "occupationLabel": "mathematician||teacher||architect||philosopher of language||aphorist||philosopher||architectural theoretician||logician||epistemologist||pedagogue||university teacher"
+    "nationalityLabel": "British||Briton||Austrian",
+    "occupationLabel": "mathematician||teacher||architect||architectural theoretician||aphorist||philosopher||philosopher of language||epistemologist||logician||pedagogue||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2908",
+    "itemLabel": "Antoine de Saint-Exupéry",
+    "year": "1944",
+    "sitelinks": "170",
+    "description": "French writer and aviator (1900–1944)",
+    "nationalityLabel": "French",
+    "occupationLabel": "writer||inventor||poet||philosopher||children's writer||novelist||illustrator||aircraft pilot||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6512",
@@ -572,17 +581,8 @@
     "year": "1855",
     "sitelinks": "169",
     "description": "Danish theologian, philosopher, poet and social critic (1813–1855)",
-    "nationalityLabel": "Danish||dane||danes",
-    "occupationLabel": "author||poet||literary critic||philosopher||novelist||theologian"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2908",
-    "itemLabel": "Antoine de Saint-Exupéry",
-    "year": "1944",
-    "sitelinks": "169",
-    "description": "French writer and aviator (1900–1944)",
-    "nationalityLabel": "French",
-    "occupationLabel": "author||poet||children's writer||philosopher||novelist||inventor||illustrator||journalist||aircraft pilot"
+    "nationalityLabel": "dane||danes||Danish",
+    "occupationLabel": "writer||poet||philosopher||literary critic||novelist||theologian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43423",
@@ -591,7 +591,7 @@
     "sitelinks": "166",
     "description": "ancient Greek storyteller (619 BC–563 BC)",
     "nationalityLabel": "",
-    "occupationLabel": "fabulist||author||philosopher||mythographer"
+    "occupationLabel": "fabulist||writer||philosopher||mythographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6197",
@@ -600,16 +600,25 @@
     "sitelinks": "166",
     "description": "Roman lyric poet (65 BC – 8 BC)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "author||poet||philosopher"
+    "occupationLabel": "writer||poet||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35900",
     "itemLabel": "Omar Khayyám",
     "year": "1131",
-    "sitelinks": "165",
+    "sitelinks": "166",
     "description": "Persian mathematician and poet (1048–1131)",
     "nationalityLabel": "Seljuk Empire",
-    "occupationLabel": "astronomer||physicist||mathematician||astrologer||author||poet||philosopher||musician||lyricist"
+    "occupationLabel": "astronomer||mathematician||astrologer||physicist||writer||poet||philosopher||musician||lyricist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9294",
+    "itemLabel": "Ibn Khaldūn",
+    "year": "1406",
+    "sitelinks": "165",
+    "description": "historiographer and historian",
+    "nationalityLabel": "",
+    "occupationLabel": "judge||sociologist||politician||writer||anthropologist||historian||poet||philosopher||autobiographer||economist||social scientist||legal scholar||theologian"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9038",
@@ -618,58 +627,31 @@
     "sitelinks": "164",
     "description": "9th-century Persian mathematician and astronomer",
     "nationalityLabel": "",
-    "occupationLabel": "astronomer||mathematician||philosopher||historian||geographer||translator"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9294",
-    "itemLabel": "Ibn Khaldun",
-    "year": "1406",
-    "sitelinks": "164",
-    "description": "Arab historiographer and historian",
-    "nationalityLabel": "",
-    "occupationLabel": "sociologist||politician||judge||author||poet||anthropologist||economist||autobiographer||philosopher||historian||legal scholar||theologian"
+    "occupationLabel": "astronomer||mathematician||historian||philosopher||translator||geographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41585",
     "itemLabel": "David Hilbert",
     "year": "1943",
-    "sitelinks": "163",
+    "sitelinks": "164",
     "description": "German mathematician (1862–1943)",
-    "nationalityLabel": "Weimar Republic||German||Prussian||Nazi Germany",
-    "occupationLabel": "physicist||mathematician||philosopher||logician||philosopher of mathematics||university teacher"
+    "nationalityLabel": "German||Weimar Republic||Prussian||Nazi Germany",
+    "occupationLabel": "mathematician||physicist||philosopher||logician||philosopher of mathematics||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37151",
     "itemLabel": "Sun Tzu",
     "year": "-495",
-    "sitelinks": "162",
+    "sitelinks": "163",
     "description": "6th century BCE Chinese general and military strategist",
     "nationalityLabel": "Wu||Qi",
-    "occupationLabel": "author||military personnel||philosopher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41166",
-    "itemLabel": "Jonathan Swift",
-    "year": "1745",
-    "sitelinks": "162",
-    "description": "Anglo-Irish satirist and essayist (1667–1745)",
-    "nationalityLabel": "Kingdom of Ireland",
-    "occupationLabel": "author||poet||Anglican priest||opinion journalist||science fiction writer||children's writer||philosopher||prose writer||satirist||novelist||essayist||pamphleteer||public figure||human rights defender||satirical novelist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41513",
-    "itemLabel": "William Blake",
-    "year": "1827",
-    "sitelinks": "162",
-    "description": "English poet and artist (1757–1827)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "collector||author||poet||printer||watercolorist||philosopher||miniature painter||librettist||printmaker||lithographer||copper engraver||draftsperson||artist||engraver||illustrator||theologian||sculptor||exlibrist||painter"
+    "occupationLabel": "writer||military personnel||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36303",
     "itemLabel": "Thales",
     "year": "-545",
-    "sitelinks": "161",
+    "sitelinks": "162",
     "description": "ancient Greek philosopher and mathematician",
     "nationalityLabel": "",
     "occupationLabel": "philosopher"
@@ -678,19 +660,55 @@
     "item": "http://www.wikidata.org/entity/Q1401",
     "itemLabel": "Petrarch",
     "year": "1374",
-    "sitelinks": "161",
+    "sitelinks": "162",
     "description": "Italian scholar and poet (1304-1374)",
     "nationalityLabel": "Republic of Florence",
-    "occupationLabel": "author||poet||autobiographer||philosopher||librettist||mountaineer||humanist||philologist||lyricist||Catholic clergyman||translator"
+    "occupationLabel": "writer||poet||philosopher||autobiographer||humanist||translator||librettist||mountaineer||Catholic clergyman||philologist||lyricist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41166",
+    "itemLabel": "Jonathan Swift",
+    "year": "1745",
+    "sitelinks": "162",
+    "description": "Anglo-Irish satirist and essayist (1667–1745)",
+    "nationalityLabel": "Kingdom of Ireland",
+    "occupationLabel": "Anglican priest||writer||poet||philosopher||children's writer||opinion journalist||novelist||science fiction writer||essayist||satirist||prose writer||public figure||pamphleteer||human rights defender||satirical novelist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41513",
+    "itemLabel": "William Blake",
+    "year": "1827",
+    "sitelinks": "162",
+    "description": "English poet and artist (1757–1827)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "collector||writer||printer||poet||philosopher||watercolorist||engraver||librettist||printmaker||draftsperson||exlibrist||artist||miniature painter||illustrator||sculptor||copper engraver||theologian||painter||lithographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q25973",
     "itemLabel": "Hermann Hesse",
     "year": "1962",
-    "sitelinks": "160",
+    "sitelinks": "161",
     "description": "Nobel Prize winning German-Swiss poet, novelist and painter (1877–1962)",
     "nationalityLabel": "German||Swiss",
-    "occupationLabel": "author||poet||philosopher||librettist||literary scholar||novelist||illustrator||pacifist||bookseller||resistance fighter||Nobel Prize winner||painter"
+    "occupationLabel": "writer||poet||philosopher||literary scholar||novelist||librettist||illustrator||Nobel Prize winner||pacifist||bookseller||painter||resistance fighter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81731",
+    "itemLabel": "Murasaki Shikibu",
+    "year": "1100",
+    "sitelinks": "160",
+    "description": "Japanese novelist and poet (c.973–c.1014)",
+    "nationalityLabel": "Japanese",
+    "occupationLabel": "writer||poet||philosopher||diarist||novelist||film screenwriter||lady-in-waiting"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37621",
+    "itemLabel": "Thomas Hobbes",
+    "year": "1679",
+    "sitelinks": "160",
+    "description": "English philosopher (1588–1679)",
+    "nationalityLabel": "English",
+    "occupationLabel": "politician||mathematician||writer||historian||philosopher||economist||translator||in-home tutor||philosopher of law||political scientist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41523",
@@ -699,7 +717,7 @@
     "sitelinks": "159",
     "description": "Greek philosopher and historian (c. AD 46 – after AD 119)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "author||magistrate||priest||philosopher||essayist||historian||biographer"
+    "occupationLabel": "priest||writer||historian||magistrate||philosopher||essayist||biographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43347",
@@ -708,70 +726,61 @@
     "sitelinks": "159",
     "description": "Iranian poet",
     "nationalityLabel": "",
-    "occupationLabel": "author||poet||philosopher||literary scholar||mystic||ulema||Islamic jurist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81731",
-    "itemLabel": "Murasaki Shikibu",
-    "year": "1100",
-    "sitelinks": "158",
-    "description": "Japanese novelist and poet (c.973–c.1014)",
-    "nationalityLabel": "Japanese",
-    "occupationLabel": "author||poet||diarist||philosopher||novelist||film screenwriter||lady-in-waiting"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37621",
-    "itemLabel": "Thomas Hobbes",
-    "year": "1679",
-    "sitelinks": "158",
-    "description": "English philosopher (1588–1679)",
-    "nationalityLabel": "English",
-    "occupationLabel": "politician||mathematician||author||economist||philosopher||philosopher of law||historian||in-home tutor||translator||political scientist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q37160",
-    "itemLabel": "David Hume",
-    "year": "1776",
-    "sitelinks": "158",
-    "description": "Scottish philosopher, economist, and historian (1711-1776)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "author||librarian||economist||philosopher||essayist||historian"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47737",
-    "itemLabel": "Kahlil Gibran",
-    "year": "1931",
-    "sitelinks": "158",
-    "description": "Lebanese-American writer, poet, and painter (1883–1931)",
-    "nationalityLabel": "State of Greater Lebanon||Lebanese Republic under French mandate||Ottoman",
-    "occupationLabel": "author||poet||philosopher||short story writer||painter"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2054",
-    "itemLabel": "Seneca",
-    "year": "65",
-    "sitelinks": "157",
-    "description": "Roman Stoic philosopher, statesman and dramatist (c. 4 BCE–65 CE)",
-    "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "politician||naturalist||author||poet||aphorist||philosopher||consul||statesperson||playwright"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48305",
-    "itemLabel": "Euripides",
-    "year": "-406",
-    "sitelinks": "156",
-    "description": "Classical Athenian playwright",
-    "nationalityLabel": "Athenians",
-    "occupationLabel": "author||poet||philosopher||tragedy writer||playwright"
+    "occupationLabel": "writer||ulema||poet||philosopher||literary scholar||mystic||Islamic jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15975",
     "itemLabel": "Montesquieu",
     "year": "1755",
-    "sitelinks": "156",
+    "sitelinks": "159",
     "description": "French philosopher (1689–1755)",
     "nationalityLabel": "French",
-    "occupationLabel": "sociologist||politician||judge||lawyer||author||philosopher||novelist||jurist||historian||encyclopédistes||lord of the manor"
+    "occupationLabel": "judge||sociologist||politician||writer||lawyer||historian||philosopher||jurist||novelist||author||encyclopédistes||lord of the manor"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37160",
+    "itemLabel": "David Hume",
+    "year": "1776",
+    "sitelinks": "159",
+    "description": "Scottish philosopher, economist, and historian (1711-1776)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "writer||librarian||historian||philosopher||economist||essayist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2054",
+    "itemLabel": "Seneca",
+    "year": "65",
+    "sitelinks": "158",
+    "description": "Roman Stoic philosopher, statesman and dramatist (c. 4 BCE–65 CE)",
+    "nationalityLabel": "Roman||Romans",
+    "occupationLabel": "politician||naturalist||writer||aphorist||poet||consul||philosopher||statesperson||playwright"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47737",
+    "itemLabel": "Jubrān Khalīl Jubrān",
+    "year": "1931",
+    "sitelinks": "158",
+    "description": "Lebanese-American writer, poet, and painter (1883–1931)",
+    "nationalityLabel": "State of Greater Lebanon||Lebanese Republic under French mandate||Ottoman",
+    "occupationLabel": "writer||visual artist||poet||philosopher||short story writer||painter"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q48305",
+    "itemLabel": "Euripides",
+    "year": "-406",
+    "sitelinks": "157",
+    "description": "Classical Athenian playwright",
+    "nationalityLabel": "Athenians",
+    "occupationLabel": "writer||poet||philosopher||tragedy writer||playwright"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43499",
+    "itemLabel": "Erasmus",
+    "year": "1536",
+    "sitelinks": "155",
+    "description": "Dutch Renaissance humanist, Catholic priest, and theologian (1466-1536)",
+    "nationalityLabel": "Seventeen Provinces",
+    "occupationLabel": "priest||writer||Lady Margaret's Professor of Divinity||philosopher||latinist||humanist||Bible translator||translator||essayist||philologist||theologian||pedagogue||Latin Catholic priest||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48226",
@@ -780,34 +789,25 @@
     "sitelinks": "155",
     "description": "American philosopher (1803–1882)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||poet||diarist||philosopher||librettist||abolitionist||orator||essayist||Unitarian pastor||parson||Christian minister||biographer"
+    "occupationLabel": "writer||poet||philosopher||diarist||librettist||essayist||orator||biographer||Unitarian pastor||abolitionist||parson||Christian minister"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38082",
     "itemLabel": "Lewis Carroll",
     "year": "1898",
-    "sitelinks": "154",
+    "sitelinks": "155",
     "description": "British author and scholar (1832–1898)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "photographer||mathematician||deacon||author||poet||diarist||autobiographer||children's writer||philosopher||librettist||novelist||logician"
+    "occupationLabel": "mathematician||photographer||deacon||writer||poet||philosopher||children's writer||autobiographer||diarist||novelist||librettist||logician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8620",
     "itemLabel": "Kwame Nkrumah",
     "year": "1972",
-    "sitelinks": "154",
+    "sitelinks": "155",
     "description": "Ghanaian politician (1909–1972)",
     "nationalityLabel": "Gold Coast Colony||Ghanaian",
-    "occupationLabel": "politician||author||economist||philosopher||diplomat||theologian||pedagogue||university teacher||lecturer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q43499",
-    "itemLabel": "Erasmus",
-    "year": "1536",
-    "sitelinks": "153",
-    "description": "Dutch Renaissance humanist, Catholic priest, and theologian (1466-1536)",
-    "nationalityLabel": "Seventeen Provinces",
-    "occupationLabel": "author||Lady Margaret's Professor of Divinity||priest||latinist||philosopher||humanist||Bible translator||philologist||essayist||theologian||pedagogue||university teacher||translator||Latin Catholic priest"
+    "occupationLabel": "politician||writer||philosopher||economist||diplomat||theologian||lecturer||pedagogue||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41980",
@@ -822,10 +822,28 @@
     "item": "http://www.wikidata.org/entity/Q8573",
     "itemLabel": "Sun Yat-sen",
     "year": "1925",
-    "sitelinks": "151",
+    "sitelinks": "152",
     "description": "Chinese politician, physician, and revolutionary (1866–1925)",
     "nationalityLabel": "Chinese||Qing dynasty",
     "occupationLabel": "politician||physician||revolutionary||philosopher||author"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36330",
+    "itemLabel": "Giordano Bruno",
+    "year": "1600",
+    "sitelinks": "151",
+    "description": "Italian Dominican friar, philosopher and mathematician (1548–1600)",
+    "nationalityLabel": "Kingdom of Naples",
+    "occupationLabel": "astronomer||mathematician||astrologer||writer||poet||philosopher||Latin Catholic priest||university teacher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q448",
+    "itemLabel": "Denis Diderot",
+    "year": "1784",
+    "sitelinks": "151",
+    "description": "French Enlightenment philosopher writer and encyclopædist (1713–1784)",
+    "nationalityLabel": "French",
+    "occupationLabel": "writer||art critic||correspondent||historian||poet||philosopher||literary critic||art theorist||novelist||playwright||translator||essayist||encyclopédistes||literary theorist||lexicographer||political scientist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12807",
@@ -834,7 +852,7 @@
     "sitelinks": "151",
     "description": "Italian semiotician, essayist, philosopher, literary critic, and novelist (1932–2016)",
     "nationalityLabel": "Italian",
-    "occupationLabel": "screenwriter||medievalist||author||literary scholar||literary critic||philosopher||novelist||semiologist||essayist||historian||pedagogue||university teacher||translator"
+    "occupationLabel": "screenwriter||writer||medievalist||historian||philosopher||literary critic||semiologist||novelist||literary scholar||translator||essayist||pedagogue||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43216",
@@ -843,25 +861,7 @@
     "sitelinks": "150",
     "description": "ancient Greek philosopher",
     "nationalityLabel": "Athenians",
-    "occupationLabel": "author||philosopher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q36330",
-    "itemLabel": "Giordano Bruno",
-    "year": "1600",
-    "sitelinks": "150",
-    "description": "Italian Dominican friar, philosopher and mathematician (1548–1600)",
-    "nationalityLabel": "Kingdom of Naples",
-    "occupationLabel": "astronomer||mathematician||astrologer||author||poet||philosopher||university teacher||Latin Catholic priest"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q448",
-    "itemLabel": "Denis Diderot",
-    "year": "1784",
-    "sitelinks": "150",
-    "description": "French Enlightenment philosopher writer and encyclopædist (1713–1784)",
-    "nationalityLabel": "French",
-    "occupationLabel": "author||poet||correspondent||art theorist||literary critic||philosopher||art critic||novelist||essayist||historian||literary theorist||lexicographer||playwright||encyclopédistes||translator||political scientist"
+    "occupationLabel": "writer||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q50020",
@@ -870,22 +870,22 @@
     "sitelinks": "149",
     "description": "British philosopher and political economist (1806–1873)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||author||economist||autobiographer||suffragist||philosopher||egalitarianism||social reformer||botanical collector||clerk||political economist"
+    "occupationLabel": "politician||writer||egalitarianism||philosopher||autobiographer||economist||suffragist||clerk||political economist||social reformer||botanical collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q231690",
     "itemLabel": "B. R. Ambedkar",
     "year": "1956",
-    "sitelinks": "148",
+    "sitelinks": "149",
     "description": "Indian polymath, philosopher, and social reformer (1891–1956)",
     "nationalityLabel": "British Raj||Indian",
-    "occupationLabel": "sociologist||politician||professor||revolutionary||lawyer||author||newspaper editor||anthropologist||economist||autobiographer||women's rights activist||philosopher||freedom fighter||scholar||bibliographer||humanitarian||jurist||orator||essayist||peace activist||historian||political writer||educational theorist||spiritual leader||constitutionalist||social reformer||theologian||pedagogue||human rights defender||barrister||political scientist||journalist||civil rights advocate||painter"
+    "occupationLabel": "sociologist||politician||professor||revolutionary||writer||anthropologist||lawyer||historian||philosopher||jurist||newspaper editor||autobiographer||economist||scholar||bibliographer||freedom fighter||essayist||orator||educational theorist||spiritual leader||constitutionalist||political writer||humanitarian||barrister||women's rights activist||theologian||social reformer||human rights defender||pedagogue||journalist||civil rights advocate||painter||political scientist||peace activist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48301",
     "itemLabel": "Martin Heidegger",
     "year": "1976",
-    "sitelinks": "147",
+    "sitelinks": "148",
     "description": "German philosopher (1889–1976)",
     "nationalityLabel": "West German||Weimar Republic||Nazi Germany||German",
     "occupationLabel": "scientist||poet||philosopher||university teacher"
@@ -897,7 +897,25 @@
     "sitelinks": "146",
     "description": "Greek philosopher (late 6th/early 5th-century BC)",
     "nationalityLabel": "Ephesus",
-    "occupationLabel": "physicist||author||philosopher"
+    "occupationLabel": "physicist||writer||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131149",
+    "itemLabel": "Henry David Thoreau",
+    "year": "1862",
+    "sitelinks": "145",
+    "description": "American essayist, poet, and philosopher (1817–1862)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "naturalist||writer||environmentalist||poet||philosopher||autobiographer||diarist||translator||essayist||ecologist||abolitionist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81447",
+    "itemLabel": "Aldous Huxley",
+    "year": "1963",
+    "sitelinks": "144",
+    "description": "English writer and philosopher (1894–1963)",
+    "nationalityLabel": "British||Briton",
+    "occupationLabel": "screenwriter||writer||art critic||poet||philosopher||novelist||science fiction writer||prose writer||journalist||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36233",
@@ -906,52 +924,43 @@
     "sitelinks": "144",
     "description": "Czech statesman, playwright, and former dissident, the last president of Czechoslovakia and the first president of the Czech Republic (1936–2011)",
     "nationalityLabel": "Czechoslovak||Czech",
-    "occupationLabel": "politician||film director||author||poet||director||opinion journalist||dissident||philosopher||essayist||dramaturge||political prisoner||playwright||human rights defender"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q131149",
-    "itemLabel": "Henry David Thoreau",
-    "year": "1862",
-    "sitelinks": "143",
-    "description": "American essayist, poet, and philosopher (1817–1862)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "naturalist||author||poet||environmentalist||diarist||autobiographer||philosopher||abolitionist||essayist||ecologist||translator"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q81447",
-    "itemLabel": "Aldous Huxley",
-    "year": "1963",
-    "sitelinks": "143",
-    "description": "English writer and philosopher (1894–1963)",
-    "nationalityLabel": "British||Briton",
-    "occupationLabel": "screenwriter||author||poet||science fiction writer||art critic||philosopher||prose writer||novelist||university teacher||journalist"
+    "occupationLabel": "politician||film director||director||dissident||writer||poet||philosopher||dramaturge||opinion journalist||playwright||political prisoner||essayist||human rights defender"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9372",
     "itemLabel": "Sima Qian",
     "year": "-85",
-    "sitelinks": "142",
+    "sitelinks": "143",
     "description": "2nd-century BCE Chinese historian and writer",
     "nationalityLabel": "Western Han",
-    "occupationLabel": "astronomer||mathematician||astrologer||author||poet||philosopher||historian"
+    "occupationLabel": "astronomer||mathematician||astrologer||writer||historian||poet||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9546",
     "itemLabel": "Al-Ghazali",
     "year": "1111",
-    "sitelinks": "142",
+    "sitelinks": "143",
     "description": "Persian Sunni Muslim scholar and mystic (c.1058–1111)",
     "nationalityLabel": "Seljuk Empire",
-    "occupationLabel": "Sufi||poet||autobiographer||philosopher||mutakallim||Islamic jurist||theologian||journalist||journal editor"
+    "occupationLabel": "Sufi||poet||philosopher||autobiographer||mutakallim||journal editor||theologian||journalist||Islamic jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9045",
-    "itemLabel": "Chanakya",
+    "itemLabel": "Chanakya Kautilya",
     "year": "-282",
-    "sitelinks": "140",
-    "description": "4th-century BCE Indian statesman and philosopher",
+    "sitelinks": "141",
+    "description": "Ancient Indian teacher and strategist who authored the foundational manual on political economy.",
     "nationalityLabel": "",
-    "occupationLabel": "politician||adviser||teacher||astrologer||author||economist||philosopher"
+    "occupationLabel": "politician||adviser||astrologer||teacher||writer||philosopher||economist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27645",
+    "itemLabel": "Mikhail Bakunin",
+    "year": "1876",
+    "sitelinks": "141",
+    "description": "Russian revolutionary anarchist and philosopher (1814–1876)",
+    "nationalityLabel": "Russian||French",
+    "occupationLabel": "politician||revolutionary||writer||philosopher||anarchist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41568",
@@ -960,7 +969,7 @@
     "sitelinks": "140",
     "description": "French author, philosopher, and statesman (1533–1592)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||author||poet||autobiographer||philosopher||prose writer||jurist||essayist||translator||poet lawyer||French moralist"
+    "occupationLabel": "politician||writer||poet||philosopher||jurist||autobiographer||translator||essayist||prose writer||poet lawyer||French moralist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34943",
@@ -969,25 +978,25 @@
     "sitelinks": "138",
     "description": "2nd-century Roman mathematician, astronomer, geographer",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "astronomer||naturalist||mathematician||astrologer||author||philosopher||epigrammatist||musicologist||music theorist||geographer"
+    "occupationLabel": "astronomer||naturalist||mathematician||astrologer||writer||philosopher||epigrammatist||geographer||music theorist||musicologist"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27645",
-    "itemLabel": "Mikhail Bakunin",
-    "year": "1876",
-    "sitelinks": "137",
-    "description": "Russian revolutionary anarchist and philosopher (1814–1876)",
-    "nationalityLabel": "Russian||French",
-    "occupationLabel": "politician||revolutionary||author||philosopher||anarchist"
+    "item": "http://www.wikidata.org/entity/Q134958",
+    "itemLabel": "Taras Shevchenko",
+    "year": "1861",
+    "sitelinks": "138",
+    "description": "Ukrainian poet and artist (1814–1861)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "writer||anthropologist||poet||philosopher||playwright||prose writer||ethnographer||film screenwriter||artist||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131333",
     "itemLabel": "George Eliot",
     "year": "1880",
-    "sitelinks": "137",
+    "sitelinks": "138",
     "description": "English novelist, essayist, poet and journalist (1819–1880)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "author||poet||philosopher||novelist||essayist||translator||editor||journalist"
+    "occupationLabel": "writer||poet||philosopher||novelist||translator||essayist||editor||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42156",
@@ -996,16 +1005,7 @@
     "sitelinks": "137",
     "description": "French philosopher (1859–1941)",
     "nationalityLabel": "French",
-    "occupationLabel": "sociologist||professor||author||philosopher||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134958",
-    "itemLabel": "Taras Shevchenko",
-    "year": "1861",
-    "sitelinks": "136",
-    "description": "Ukrainian poet and artist (1814–1861)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "author||poet||anthropologist||philosopher||prose writer||ethnographer||artist||film screenwriter||playwright||painter"
+    "occupationLabel": "sociologist||professor||writer||philosopher||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47478",
@@ -1014,34 +1014,34 @@
     "sitelinks": "136",
     "description": "Indian Hindu monk and philosopher (1863–1902)",
     "nationalityLabel": "British Raj",
-    "occupationLabel": "teacher||author||poet||travel writer||singer||philosopher||orator||essayist||spiritual leader||monk||biographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q38823",
-    "itemLabel": "Ruhollah Khomeini",
-    "year": "1989",
-    "sitelinks": "135",
-    "description": "Supreme Leader of Iran from 1979 to 1989",
-    "nationalityLabel": "Iranian||Persian",
-    "occupationLabel": "politician||marji'||revolutionary||poet||philosopher||ulema||preacher||Islamic jurist"
+    "occupationLabel": "teacher||writer||travel writer||poet||philosopher||singer||essayist||orator||spiritual leader||biographer||monk"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8778",
     "itemLabel": "Galen",
     "year": "300",
-    "sitelinks": "134",
+    "sitelinks": "135",
     "description": "2nd-century Greek physician, surgeon and philosopher",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "physician||neuroscientist||philosopher||physician writer||surgeon"
+    "occupationLabel": "physician||philosopher||neuroscientist||physician writer||surgeon"
   },
   {
     "item": "http://www.wikidata.org/entity/Q126462",
     "itemLabel": "Thomas Paine",
     "year": "1809",
-    "sitelinks": "134",
+    "sitelinks": "135",
     "description": "American Founding Father, philosopher, and political activist (1737–1809)",
     "nationalityLabel": "British||Briton||French||American||Americans",
-    "occupationLabel": "politician||entrepreneur||author||opinion journalist||philosopher||prose writer||journalist"
+    "occupationLabel": "politician||entrepreneur||writer||philosopher||opinion journalist||prose writer||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38823",
+    "itemLabel": "Ruhollah Khomeini",
+    "year": "1989",
+    "sitelinks": "134",
+    "description": "Supreme Leader of Iran from 1979 to 1989",
+    "nationalityLabel": "Iranian||Persian",
+    "occupationLabel": "politician||marji'||revolutionary||ulema||poet||philosopher||preacher||Islamic jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42544",
@@ -1050,7 +1050,7 @@
     "sitelinks": "133",
     "description": "English statesman, lawyer and philosopher (1478–1535)",
     "nationalityLabel": "English",
-    "occupationLabel": "politician||judge||author||poet||philosopher||novelist||jurist||diplomat||historian||statesperson||theologian||poet lawyer"
+    "occupationLabel": "judge||politician||writer||historian||poet||philosopher||jurist||statesperson||novelist||diplomat||theologian||poet lawyer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12718",
@@ -1059,7 +1059,16 @@
     "sitelinks": "133",
     "description": "French philosopher, mathematician and sociologist (1798–1857)",
     "nationalityLabel": "French",
-    "occupationLabel": "repetitor||sociologist||mathematician||author||philosopher"
+    "occupationLabel": "repetitor||sociologist||mathematician||writer||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39837",
+    "itemLabel": "Ibn Rushd",
+    "year": "1198",
+    "sitelinks": "131",
+    "description": "Arab Andalusian Muslim writer and philosopher (1126–1198)",
+    "nationalityLabel": "",
+    "occupationLabel": "judge||astronomer||physician||teacher||writer||philosopher||interpreter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49747",
@@ -1068,15 +1077,6 @@
     "sitelinks": "131",
     "description": "Belgian playwright and essayist (1862–1949)",
     "nationalityLabel": "Belgian",
-    "occupationLabel": "author||poet||philosopher||librettist||jurist||essayist||natural philosopher||playwright||translator"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q39837",
-    "itemLabel": "Averroes",
-    "year": "1198",
-    "sitelinks": "130",
-    "description": "Arab Andalusian Muslim writer and philosopher (1126–1198)",
-    "nationalityLabel": "",
-    "occupationLabel": "astronomer||judge||physician||teacher||author||philosopher"
+    "occupationLabel": "writer||poet||philosopher||jurist||playwright||translator||librettist||essayist||natural philosopher"
   }
 ]

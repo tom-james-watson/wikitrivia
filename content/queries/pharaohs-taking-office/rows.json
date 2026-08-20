@@ -5,7 +5,7 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-329",
-    "sitelinks": "261"
+    "sitelinks": "262"
   },
   {
     "item": "http://www.wikidata.org/entity/Q635",
@@ -13,11 +13,11 @@
     "positionLabel": "pharaoh",
     "sexLabel": "female",
     "year": "-50",
-    "sitelinks": "170"
+    "sitelinks": "171"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12154",
-    "itemLabel": "TutanKhamun",
+    "itemLabel": "Tutankhamun",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-1332",
@@ -29,14 +29,14 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-521",
-    "sitelinks": "108"
+    "sitelinks": "111"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81794",
     "itemLabel": "Akhenaten",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1351",
+    "year": "-1348",
     "sitelinks": "106"
   },
   {
@@ -61,7 +61,7 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-304",
-    "sitelinks": "81"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102865",
@@ -72,14 +72,6 @@
     "sitelinks": "77"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q157899",
-    "itemLabel": "Thutmose III",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-1478",
-    "sitelinks": "76"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q182483",
     "itemLabel": "Cambyses II",
     "positionLabel": "pharaoh",
@@ -88,20 +80,28 @@
     "sitelinks": "69"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q157918",
-    "itemLabel": "Seti I",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-1293",
-    "sitelinks": "66"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q199861",
     "itemLabel": "Khafra",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-2569",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157918",
+    "itemLabel": "Seti I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1288",
     "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42606",
+    "itemLabel": "Amenhotep III",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1388",
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189574",
@@ -110,6 +110,14 @@
     "sexLabel": "male",
     "year": "-3199",
     "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7222",
+    "itemLabel": "Ahmose I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1544",
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39589",
@@ -125,6 +133,14 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-1185",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157966",
+    "itemLabel": "Amenhotep I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1519",
     "sitelinks": "57"
   },
   {
@@ -132,15 +148,7 @@
     "itemLabel": "Thutmose I",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1517",
-    "sitelinks": "56"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q157966",
-    "itemLabel": "Amenhotep I",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-1525",
+    "year": "-1498",
     "sitelinks": "56"
   },
   {
@@ -148,7 +156,7 @@
     "itemLabel": "Ramesses I",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1294",
+    "year": "-1290",
     "sitelinks": "55"
   },
   {
@@ -160,11 +168,19 @@
     "sitelinks": "54"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q146029",
+    "itemLabel": "Ay",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1323",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q158025",
     "itemLabel": "Thutmose II",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1481",
+    "year": "-1488",
     "sitelinks": "52"
   },
   {
@@ -172,7 +188,7 @@
     "itemLabel": "Merneptah",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1212",
+    "year": "-1211",
     "sitelinks": "52"
   },
   {
@@ -188,7 +204,7 @@
     "itemLabel": "Horemheb",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1318",
+    "year": "-1319",
     "sitelinks": "50"
   },
   {
@@ -196,7 +212,23 @@
     "itemLabel": "Anedjib",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-3000",
+    "year": "-2929",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157985",
+    "itemLabel": "Thutmose IV",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1398",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158052",
+    "itemLabel": "Amenhotep II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1424",
     "sitelinks": "49"
   },
   {
@@ -224,6 +256,14 @@
     "sitelinks": "48"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q158003",
+    "itemLabel": "Smenkhkare",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1336",
+    "sitelinks": "48"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q328763",
     "itemLabel": "Psamtik I",
     "positionLabel": "pharaoh",
@@ -237,14 +277,6 @@
     "positionLabel": "pharaoh",
     "sexLabel": "female",
     "year": "-1797",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q312045",
-    "itemLabel": "Amasis II",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-569",
     "sitelinks": "47"
   },
   {
@@ -277,7 +309,15 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-2054",
-    "sitelinks": "46"
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312045",
+    "itemLabel": "Amasis II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-569",
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18763",
@@ -285,7 +325,7 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-1946",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q19244",
@@ -293,6 +333,14 @@
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-1852",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q125102",
+    "itemLabel": "Necho II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-609",
     "sitelinks": "46"
   },
   {
@@ -325,6 +373,14 @@
     "positionLabel": "pharaoh",
     "sexLabel": "female",
     "year": "-215",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q268614",
+    "itemLabel": "Userkaf",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-2499",
     "sitelinks": "43"
   },
   {
@@ -336,19 +392,11 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q268614",
-    "itemLabel": "Userkaf",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-2499",
-    "sitelinks": "43"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1532",
     "itemLabel": "Ramesses IV",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1154",
+    "year": "-1153",
     "sitelinks": "43"
   },
   {
@@ -356,8 +404,16 @@
     "itemLabel": "Ramesses VI",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1144",
+    "year": "-1142",
     "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19327",
+    "itemLabel": "Kamose",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "",
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q314809",
@@ -368,27 +424,19 @@
     "sitelinks": "42"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q349291",
+    "itemLabel": "Apries",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-588",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q158012",
     "itemLabel": "Twosret",
     "positionLabel": "pharaoh",
     "sexLabel": "female",
-    "year": "-1190",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313121",
-    "itemLabel": "Ramesses XI",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-1106",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q318000",
-    "itemLabel": "Amyrtaeus",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-403",
+    "year": "-1189",
     "sitelinks": "41"
   },
   {
@@ -416,11 +464,27 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q313121",
+    "itemLabel": "Ramesses XI",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1102",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q318000",
+    "itemLabel": "Amyrtaeus",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-403",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4064",
     "itemLabel": "Ramesses V",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1148",
+    "year": "-1147",
     "sitelinks": "41"
   },
   {
@@ -440,20 +504,28 @@
     "sitelinks": "40"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q269271",
+    "itemLabel": "Neferefre",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-2459",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q373521",
+    "itemLabel": "Psamtik II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-594",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q18722",
     "itemLabel": "Senusret II",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
     "year": "-1878",
     "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q269271",
-    "itemLabel": "Neferefre",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-2459",
-    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q310278",
@@ -468,7 +540,7 @@
     "itemLabel": "Ramesses VIII",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1129",
+    "year": "-1127",
     "sitelinks": "39"
   },
   {
@@ -480,14 +552,6 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q312402",
-    "itemLabel": "Setnakhte",
-    "positionLabel": "pharaoh",
-    "sexLabel": "male",
-    "year": "-1188",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q269209",
     "itemLabel": "Merenre Nemtyemsaf I",
     "positionLabel": "pharaoh",
@@ -496,11 +560,19 @@
     "sitelinks": "38"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q312402",
+    "itemLabel": "Setnakhte",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "year": "-1189",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4026",
     "itemLabel": "Ramesses X",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1110",
+    "year": "-1106",
     "sitelinks": "38"
   },
   {
@@ -508,7 +580,7 @@
     "itemLabel": "Ramesses VII",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1135",
+    "year": "-1134",
     "sitelinks": "38"
   },
   {
@@ -516,7 +588,7 @@
     "itemLabel": "Siptah",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1196",
+    "year": "-1195",
     "sitelinks": "37"
   },
   {
@@ -548,7 +620,7 @@
     "itemLabel": "Ramesses IX",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1128",
+    "year": "-1126",
     "sitelinks": "35"
   },
   {
@@ -556,8 +628,16 @@
     "itemLabel": "Amenmesse",
     "positionLabel": "pharaoh",
     "sexLabel": "male",
-    "year": "-1200",
+    "year": "-1201",
     "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157958",
+    "itemLabel": "Neferneferuaten",
+    "positionLabel": "pharaoh",
+    "sexLabel": "female",
+    "year": "-1335",
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q510515",

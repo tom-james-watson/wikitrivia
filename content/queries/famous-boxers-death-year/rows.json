@@ -3,10 +3,19 @@
     "item": "http://www.wikidata.org/entity/Q36107",
     "itemLabel": "Muhammad Ali",
     "year": "2016",
-    "sitelinks": "182",
+    "sitelinks": "183",
     "description": "American boxer (1942–2016)",
     "nationalityLabel": "American||Americans",
     "occupationLabel": "boxer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q215359",
+    "itemLabel": "Dean Martin",
+    "year": "1995",
+    "sitelinks": "81",
+    "description": "American singer, actor, comedian and film producer (1917–1995)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "actor||military personnel||writer||singer||military officer||musician||film producer||television presenter||comedian||boxer||film actor||jazz musician||television personality||television actor||producer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q94081",
@@ -15,16 +24,7 @@
     "sitelinks": "81",
     "description": "American entertainer (1903–2003)",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "screenwriter||actor||singer||comedian||musician||stage actor||television presenter||voice actor||radio personality||television actor||film actor||dancer||boxer||activist||producer||vaudeville performer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q215359",
-    "itemLabel": "Dean Martin",
-    "year": "1995",
-    "sitelinks": "80",
-    "description": "American singer, actor, comedian and film producer (1917–1995)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||actor||military personnel||military officer||singer||comedian||television presenter||film producer||television actor||film actor||boxer||jazz musician||television personality||producer"
+    "occupationLabel": "screenwriter||actor||writer||entertainer||singer||musician||stage actor||radio personality||voice actor||television presenter||comedian||dancer||boxer||film actor||activist||television actor||producer||vaudeville performer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102301",
@@ -42,7 +42,7 @@
     "sitelinks": "71",
     "description": "Austrian skydiver, daredevil and BASE jumper (1969–2025)",
     "nationalityLabel": "Austrian",
-    "occupationLabel": "military personnel||stunt performer||athlete||skydiver||racing automobile driver||boxer"
+    "occupationLabel": "military personnel||stunt performer||athlete||boxer||skydiver||racing automobile driver"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213919",
@@ -60,7 +60,7 @@
     "sitelinks": "63",
     "description": "American boxer (1914-1981)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||referee||athlete||boxer||professional wrestler"
+    "occupationLabel": "actor||athlete||referee||boxer||professional wrestler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193653",
@@ -69,7 +69,7 @@
     "sitelinks": "60",
     "description": "American actor (1919–2006)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||military personnel||military officer||assistant director||stage actor||model||television actor||film actor||boxer"
+    "occupationLabel": "actor||military personnel||assistant director||military officer||stage actor||model||boxer||film actor||television actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188362",
@@ -87,6 +87,6 @@
     "sitelinks": "55",
     "description": "American actor (1932–2008)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||voice actor||television actor||film actor||boxer"
+    "occupationLabel": "actor||voice actor||boxer||film actor||television actor"
   }
 ]

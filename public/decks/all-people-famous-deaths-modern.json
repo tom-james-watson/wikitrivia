@@ -461,7 +461,7 @@
   },
   {
     "qid": "Q170596",
-    "title": "T. E. Lawrence dies",
+    "title": "Lūrans dies",
     "subtitle": "British archaeologist, army officer and diplomat",
     "year": 1935,
     "fact": "Thomas Edward Lawrence was a British Army officer, archaeologist, diplomat and writer known for his role during the Arab Revolt and Sinai and Palestine campaign against the Ottoman Empire in the First World War.",
@@ -1270,16 +1270,6 @@
     "pageViews": 50726
   },
   {
-    "qid": "Q183167",
-    "title": "G. K. Chesterton dies",
-    "subtitle": "English author and Christian apologist",
-    "year": 1936,
-    "fact": "Gilbert Keith Chesterton was an English Christian apologist writer.",
-    "wikipediaSlug": "G._K._Chesterton",
-    "image": "Gilbert_Chesterton.jpg",
-    "pageViews": 50571
-  },
-  {
     "qid": "Q4985",
     "title": "Herman Melville dies",
     "subtitle": "American writer and poet",
@@ -1502,7 +1492,7 @@
   {
     "qid": "Q41718",
     "title": "Emiliano Zapata dies",
-    "subtitle": "Revolucionario Mexicano",
+    "subtitle": "Mexican revolutionary",
     "year": 1919,
     "fact": "Emiliano Zapata Salazar was a Mexican revolutionary and guerrilla leader.",
     "wikipediaSlug": "Emiliano_Zapata",
@@ -1582,7 +1572,7 @@
   {
     "qid": "Q105180",
     "title": "Sojourner Truth dies",
-    "subtitle": "African-American abolitionist and women's rights activist",
+    "subtitle": "Abolitionist and African-American activist for women's rights",
     "year": 1883,
     "fact": "Sojourner Truth was an American abolitionist and activist for African-American civil rights, women's rights, and alcohol temperance.",
     "wikipediaSlug": "Sojourner_Truth",
@@ -1661,7 +1651,7 @@
   },
   {
     "qid": "Q101054",
-    "title": "Baháʼu'lláh dies",
+    "title": "Al-Bahāʼ dies",
     "subtitle": "Founder of the Bahá'í Faith",
     "year": 1892,
     "fact": "Baháʼu'lláh was an Iranian religious leader who founded the Baháʼí Faith.",
@@ -1732,7 +1722,7 @@
   {
     "qid": "Q58579",
     "title": "Erich Ludendorff dies",
-    "subtitle": "German Army officer",
+    "subtitle": "German general and politician (DVFP, NSFP), MdR",
     "year": 1937,
     "fact": "Erich Friedrich Wilhelm Ludendorff was a Prussian-born German general and politician.",
     "wikipediaSlug": "Erich_Ludendorff",
@@ -1741,7 +1731,7 @@
   },
   {
     "qid": "Q47737",
-    "title": "Kahlil Gibran dies",
+    "title": "Jubrān Khalīl Jubrān dies",
     "subtitle": "Lebanese-American writer, poet, and painter",
     "year": 1931,
     "fact": "Jubrān Khalīl Jubrān, usually referred to in English as Kahlil Gibran, was a Lebanese-American writer, poet and visual artist.",
@@ -1771,7 +1761,7 @@
   },
   {
     "qid": "Q9021",
-    "title": "Max Karl Ernst Ludwig Planck dies",
+    "title": "Max Planck dies",
     "subtitle": "German theoretical physicist",
     "year": 1947,
     "fact": "Max Karl Ernst Ludwig Planck was a German theoretical physicist.",
@@ -1818,6 +1808,16 @@
     "wikipediaSlug": "Robert_H._Goddard",
     "image": "Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg",
     "pageViews": 33812
+  },
+  {
+    "qid": "Q205783",
+    "title": "Toussaint Louverture dies",
+    "subtitle": "Haitian national hero",
+    "year": 1803,
+    "fact": "François-Dominique Toussaint Louverture, also known as Toussaint L'Ouverture or Toussaint Bréda, was a Haitian general and the most prominent leader of the Haitian Revolution.",
+    "wikipediaSlug": "Toussaint_Louverture",
+    "image": "Toussaint_Louverture_-_Girardin.jpg",
+    "pageViews": 33141
   },
   {
     "qid": "Q48373",
@@ -2340,16 +2340,6 @@
     "pageViews": 22424
   },
   {
-    "qid": "Q192615",
-    "title": "Ferdinand Foch dies",
-    "subtitle": "French marchal and military theorist",
-    "year": 1929,
-    "fact": "Ferdinand Foch was a French general, Marshal of France and a member of the Académie Française and Académie des Sciences.",
-    "wikipediaSlug": "Ferdinand_Foch",
-    "image": "Maarschalk_Ferdinand_Foch_(1851-1929),_Bestanddeelnr_158-1095_(cropped).jpg",
-    "pageViews": 22308
-  },
-  {
     "qid": "Q311966",
     "title": "Roger Casement dies",
     "subtitle": "Irish diplomat, activist, nationalist and poet",
@@ -2361,7 +2351,7 @@
   },
   {
     "qid": "Q104273",
-    "title": "Báb dies",
+    "title": "Al-Bāb dies",
     "subtitle": "Founder of Bábism and, according to the Baháʼís, predecessor of Baháʼu'lláh",
     "year": 1850,
     "fact": "The Báb was an Iranian religious leader who founded Bábism, and is also one of the central figures of the Baháʼí Faith.",
@@ -2512,7 +2502,7 @@
   {
     "qid": "Q158148",
     "title": "Grand Duchess Tatiana Nikolaevna of Russia dies",
-    "subtitle": "Grand Duchess of Russia",
+    "subtitle": null,
     "year": 1918,
     "fact": "Grand Duchess Tatiana Nikolaevna of Russia was the second daughter of Tsar Nicholas II, the last monarch of Russia, and Tsarina Alexandra Feodorovna.",
     "wikipediaSlug": "Grand_Duchess_Tatiana_Nikolaevna_of_Russia",
@@ -2522,7 +2512,7 @@
   {
     "qid": "Q312555",
     "title": "Bal Gangadhar Tilak dies",
-    "subtitle": "Indian self-rule activist",
+    "subtitle": "Indian nationalist leader, writer and journalist",
     "year": 1920,
     "fact": "Bal Gangadhar Tilak, was an Indian nationalist and self-rule activist in the Indian independence movement.",
     "wikipediaSlug": "Bal_Gangadhar_Tilak",
@@ -2611,7 +2601,7 @@
   },
   {
     "qid": "Q231360",
-    "title": "Gertrude Bell dies",
+    "title": "Mass bal dies",
     "subtitle": "British traveller, writer, mountaineer, politician, archaeologist and spy",
     "year": 1926,
     "fact": "Gertrude Margaret Lowthian Bell was an English writer, traveller, political officer, administrator, and archaeologist.",
@@ -2748,6 +2738,16 @@
     "wikipediaSlug": "Edvard_Grieg",
     "image": "Edvard_Grieg_portrait_(cropped).jpg",
     "pageViews": 17661
+  },
+  {
+    "qid": "Q312952",
+    "title": "Mirza Ghulam Ahmad dies",
+    "subtitle": "Indian religious leader",
+    "year": 1908,
+    "fact": "Mirza Ghulam Ahmad was an Indian religious leader and the founder of the Ahmadiyya movement in Islam.",
+    "wikipediaSlug": "Mirza_Ghulam_Ahmad",
+    "image": "Mirza_Ghulam_Ahmad_(c._1897).jpg",
+    "pageViews": 17634
   },
   {
     "qid": "Q165854",
@@ -3280,6 +3280,16 @@
     "pageViews": 10172
   },
   {
+    "qid": "Q353547",
+    "title": "Bogd Khan dies",
+    "subtitle": "Great Khan of Outer Mongolia",
+    "year": 1924,
+    "fact": "Bogd Khan was the khan of the Bogd Khanate of Mongolia from 1911 to 1924, following the state's de facto independence from the Qing dynasty of China after the Xinhai Revolution.",
+    "wikipediaSlug": "Bogd_Khan",
+    "image": "Bogd_Khan_(1).jpg",
+    "pageViews": 10151
+  },
+  {
     "qid": "Q150471",
     "title": "E. T. A. Hoffmann dies",
     "subtitle": "German Romantic author",
@@ -3351,7 +3361,7 @@
   },
   {
     "qid": "Q216954",
-    "title": "ʻAbdu'l-Bahá dies",
+    "title": "ʻAbbās al-Bahāʼī dies",
     "subtitle": "Son of Bahá'u'lláh and leader of the Bahá'í Faith",
     "year": 1921,
     "fact": "ʻAbdu'l-Bahá, born ʻAbbás, was the eldest son of Baháʼu'lláh, founder of the Bahá’í Faith, who designated him to be his successor and head of the Baháʼí Faith from 1892 until 1921.",
@@ -3388,6 +3398,16 @@
     "wikipediaSlug": "Gottlieb_Daimler",
     "image": "Gottlieb_Daimler_1890s2.jpg",
     "pageViews": 9478
+  },
+  {
+    "qid": "Q230291",
+    "title": "Hassan al-Banna dies",
+    "subtitle": "Egyptian Islamist leader and politician",
+    "year": 1949,
+    "fact": "Hassan Ahmed Abd al-Rahman Muhammed al-Banna, known as Hassan al-Banna, was an Egyptian schoolteacher and imam, best known for founding the Muslim Brotherhood, one of the largest and most influential global Islamist movements, and for his death at the hands of the Egyptian government.",
+    "wikipediaSlug": "Hassan_al-Banna",
+    "image": "Hassan_al-Banna.jpg",
+    "pageViews": 8988
   },
   {
     "qid": "Q213746",
@@ -3432,7 +3452,7 @@
   {
     "qid": "Q1403",
     "title": "Luigi Pirandello dies",
-    "subtitle": null,
+    "subtitle": "Italian dramatist, novelist, short story writer and poet",
     "year": 1936,
     "fact": "Luigi Pirandello was an Italian dramatist, novelist, poet, and short story writer most noted for his plays.",
     "wikipediaSlug": "Luigi_Pirandello",
@@ -3468,6 +3488,16 @@
     "wikipediaSlug": "Gopal_Krishna_Gokhale",
     "image": "GKGokhale.jpg",
     "pageViews": 8576
+  },
+  {
+    "qid": "Q244742",
+    "title": "Shamil dies",
+    "subtitle": "North Caucasian imam and warrior",
+    "year": 1871,
+    "fact": "Imam Shamil was the third Imam of the Caucasian Imamate (1840–1859), and a Muslim sheikh of the Naqshbandi Sufi order.",
+    "wikipediaSlug": "Imam_Shamil",
+    "image": "Shamil_by_Denier_(cropped).jpg",
+    "pageViews": 8518
   },
   {
     "qid": "Q51880",
@@ -3528,26 +3558,6 @@
     "wikipediaSlug": "Patrice_de_MacMahon",
     "image": "Patrice_de_MacMahon_Photograph.jpg",
     "pageViews": 8083
-  },
-  {
-    "qid": "Q154812",
-    "title": "Carl Maria von Weber dies",
-    "subtitle": "German Romantic composer",
-    "year": 1826,
-    "fact": "Carl Maria Friedrich Ernst von Weber was a German composer, conductor, virtuoso pianist, guitarist, and critic in the late Classical and early Romantic eras.",
-    "wikipediaSlug": "Carl_Maria_von_Weber",
-    "image": "Caroline_Bardua_-_Bildnis_des_Komponisten_Carl_Maria_von_Weber.jpg",
-    "pageViews": 7943
-  },
-  {
-    "qid": "Q131405",
-    "title": "Louis Daguerre dies",
-    "subtitle": "French scientist, artist and photographer",
-    "year": 1851,
-    "fact": "Louis-Jacques-Mandé Daguerre was a French scientist, artist and photographer recognized for his invention of the eponymous daguerreotype process of photography.",
-    "wikipediaSlug": "Louis_Daguerre",
-    "image": "Louis_Daguerre_2.jpg",
-    "pageViews": 7775
   },
   {
     "qid": "Q84266",
@@ -3740,16 +3750,6 @@
     "pageViews": 6344
   },
   {
-    "qid": "Q297032",
-    "title": "Georgy Lvov dies",
-    "subtitle": "Russian statesman and the first post-imperial prime minister of Russia",
-    "year": 1925,
-    "fact": "Prince Georgy Yevgenyevich Lvov was a Russian aristocrat, statesman and the first prime minister of the Russian Republic from 15 March to 20 July 1917.",
-    "wikipediaSlug": "Georgy_Lvov",
-    "image": "Georgy_Lvov_1917.jpg",
-    "pageViews": 6288
-  },
-  {
     "qid": "Q81716",
     "title": "Charles-Augustin de Coulomb dies",
     "subtitle": "French physicist",
@@ -3910,6 +3910,16 @@
     "pageViews": 5682
   },
   {
+    "qid": "Q2717210",
+    "title": "Aga Khan I dies",
+    "subtitle": "Politician",
+    "year": 1881,
+    "fact": "Prince Hasan Ali Shah, known as Aga Khan I, was the 46th hereditary imam of the Nizari Isma'ilis.",
+    "wikipediaSlug": "Aga_Khan_I",
+    "image": "Aga_Khan_I.jpg",
+    "pageViews": 5599
+  },
+  {
     "qid": "Q60113",
     "title": "Bernhard von Bülow dies",
     "subtitle": "German and Prussian politician",
@@ -4068,6 +4078,16 @@
     "wikipediaSlug": "Alexander_Herzen",
     "image": "Herzen_ge.png",
     "pageViews": 4365
+  },
+  {
+    "qid": "Q266745",
+    "title": "Maria Spiridonova dies",
+    "subtitle": "Russian terrorist and politician",
+    "year": 1941,
+    "fact": "Maria Alexandrovna Spiridonova was a Narodnik-inspired Russian revolutionary.",
+    "wikipediaSlug": "Maria_Spiridonova",
+    "image": "Maria_Spiridonova_Portrait.jpg",
+    "pageViews": 4224
   },
   {
     "qid": "Q362009",
@@ -4391,7 +4411,7 @@
   },
   {
     "qid": "Q207660",
-    "title": "Claude Joseph Rouget de Lisle dies",
+    "title": "Rouget de Lisle dies",
     "subtitle": "French army officer",
     "year": 1836,
     "fact": "Claude Joseph Rouget de Lisle was a French army officer of the French Revolutionary Wars.",
@@ -4490,16 +4510,6 @@
     "pageViews": 2087
   },
   {
-    "qid": "Q77124",
-    "title": "Johann Philipp Reis dies",
-    "subtitle": "German scientist and inventor",
-    "year": 1874,
-    "fact": "Johann Philipp Reis was a self-taught German scientist and inventor.",
-    "wikipediaSlug": "Johann_Philipp_Reis",
-    "image": "JPReis.jpg",
-    "pageViews": 2009
-  },
-  {
     "qid": "Q311033",
     "title": "Nikolay Gumilev dies",
     "subtitle": "Russian poet",
@@ -4552,7 +4562,7 @@
   {
     "qid": "Q57077",
     "title": "Karl Ferdinand Braun dies",
-    "subtitle": "German inventor and physicist",
+    "subtitle": "German physicist",
     "year": 1918,
     "fact": "Karl Ferdinand Braun was a German applied physicist who shared the 1909 Nobel Prize in Physics with Guglielmo Marconi for their contributions to the development of radio.",
     "wikipediaSlug": "K._Ferdinand_Braun",
@@ -4568,16 +4578,6 @@
     "wikipediaSlug": "Jean_Perrin",
     "image": "Jean_Perrin_1926.jpg",
     "pageViews": 1562
-  },
-  {
-    "qid": "Q357154",
-    "title": "Gösta Mittag-Leffler dies",
-    "subtitle": "Swedish mathematician",
-    "year": 1927,
-    "fact": "Magnus Gustaf \"Gösta\" Mittag-Leffler was a Swedish mathematician.",
-    "wikipediaSlug": "G%C3%B6sta_Mittag-Leffler",
-    "image": "Magnus_Goesta_Mittag-Leffler_1.jpg",
-    "pageViews": 1486
   },
   {
     "qid": "Q154782",
@@ -4638,16 +4638,6 @@
     "wikipediaSlug": "Gustaf_Dal%C3%A9n",
     "image": "Nils_Gustaf_Dalén.jpg",
     "pageViews": 1381
-  },
-  {
-    "qid": "Q58828",
-    "title": "Otto von Kotzebue dies",
-    "subtitle": "Baltic German explorer",
-    "year": 1846,
-    "fact": "Otto von Kotzebue was a Baltic German naval officer in the Imperial Russian Navy.",
-    "wikipediaSlug": "Otto_von_Kotzebue",
-    "image": "Otto_von_Kotzebue_-_Forschungsreisender.jpg",
-    "pageViews": 1326
   },
   {
     "qid": "Q313210",

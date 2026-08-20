@@ -6,16 +6,16 @@
     "sitelinks": "304",
     "description": "president of the United States from 1981 to 1989 and actor (1911–2004)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "actor||politician||screenwriter||military officer||art collector||television actor||lifeguard||film actor||statesperson||character actor||trade unionist||game show host||announcer||diarist||voice actor||anti-communist"
+    "occupationLabel": "politician||screenwriter||military officer||actor||lifeguard||statesperson||character actor||television actor||film actor||art collector||trade unionist||diarist||announcer||game show host||anti-communist||voice actor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q91",
     "itemLabel": "Abraham Lincoln",
     "year": "1865",
-    "sitelinks": "292",
+    "sitelinks": "295",
     "description": "president of the United States from 1861 to 1865 (1809-1865)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||farmer||lawyer||politician||military officer||statesperson||postmaster"
+    "occupationLabel": "politician||farmer||military officer||lawyer||writer||statesperson||postmaster"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5879",
@@ -24,7 +24,7 @@
     "sitelinks": "278",
     "description": "German writer, artist, natural scientist and politician (1749–1832)",
     "nationalityLabel": "Saxe-Weimar-Eisenach",
-    "occupationLabel": "author||naturalist||lawyer||composer||politician||poet||novelist||librettist||literary scholar||art collector||physicist||opinion journalist||zoologist||jurist||playwright||librarian||diplomat||statesperson||printmaker||polymath||music critic||draftsperson||watercolorist||autobiographer||painter||theatre manager||art theorist||theologian||mineralogist||Theaterintendant||print collector||art historian||exlibrist||diarist||botanist||visual artist||travel writer||aphorist||art critic||philosopher"
+    "occupationLabel": "politician||physicist||librarian||naturalist||composer||lawyer||writer||diplomat||poet||jurist||polymath||opinion journalist||zoologist||printmaker||literary scholar||librettist||statesperson||novelist||painter||watercolorist||playwright||mineralogist||art collector||draftsperson||art theorist||theologian||autobiographer||botanist||theatre manager||diarist||music critic||Theaterintendant||art historian||art critic||print collector||exlibrist||visual artist||philosopher||travel writer||aphorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q855",
@@ -39,10 +39,10 @@
     "item": "http://www.wikidata.org/entity/Q23",
     "itemLabel": "George Washington",
     "year": "1799",
-    "sitelinks": "272",
-    "description": "founding Father and first U.S. president; soldier and slave owner (1732–1799)",
+    "sitelinks": "273",
+    "description": "Founding Father and first U.S. president (1732–1799)",
     "nationalityLabel": "British||Briton||American||Americans",
-    "occupationLabel": "author||farmer||engineer||politician||statesperson||commander-in-chief||cartographer||geometer||army officer||revolutionary"
+    "occupationLabel": "politician||engineer||farmer||writer||statesperson||commander-in-chief||cartographer||geometer||revolutionary||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5152",
@@ -51,22 +51,22 @@
     "sitelinks": "253",
     "description": "founding father of the Republic of Turkey (c. 1881–1938)",
     "nationalityLabel": "Ottoman||Turkish",
-    "occupationLabel": "author||politician||statesperson||army officer||revolutionary"
+    "occupationLabel": "politician||writer||statesperson||revolutionary||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9696",
     "itemLabel": "John F. Kennedy",
     "year": "1963",
-    "sitelinks": "250",
+    "sitelinks": "249",
     "description": "president of the United States from 1961 to 1963 (1917–1963)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||politician||naval officer||President of the Republic||statesperson||journalist||anti-communist"
+    "occupationLabel": "politician||writer||statesperson||naval officer||anti-communist||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8007",
     "itemLabel": "Franklin Delano Roosevelt",
     "year": "1945",
-    "sitelinks": "244",
+    "sitelinks": "245",
     "description": "president of the United States from 1933 to 1945 (1882–1945)",
     "nationalityLabel": "American||Americans",
     "occupationLabel": "statesperson"
@@ -75,19 +75,19 @@
     "item": "http://www.wikidata.org/entity/Q11812",
     "itemLabel": "Thomas Jefferson",
     "year": "1826",
-    "sitelinks": "222",
-    "description": "president of the United States from 1801 to 1809 (1743–1826)",
+    "sitelinks": "224",
+    "description": "Founding Father, U.S. president from 1801 to 1809 (1743–1826)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||teacher||lawyer||politician||governor||architect||inventor||jurist||foreign minister||President of the Republic||diplomat||statesperson||draftsperson||cryptographer||paleontologist||planter class||archaeologist||philosopher"
+    "occupationLabel": "politician||governor||lawyer||writer||diplomat||architect||jurist||teacher||statesperson||inventor||foreign minister||cryptographer||draftsperson||paleontologist||archaeologist||planter class||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2042",
     "itemLabel": "Charles de Gaulle",
     "year": "1970",
-    "sitelinks": "217",
+    "sitelinks": "220",
     "description": "French general and statesman (1890–1970)",
     "nationalityLabel": "French",
-    "occupationLabel": "politician||military officer||statesperson||memoirist||author||military theorist"
+    "occupationLabel": "politician||military officer||memoirist||statesperson||author||military theorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7416",
@@ -96,43 +96,61 @@
     "sitelinks": "207",
     "description": "British stateswoman and prime minister (1925–2013)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||chemist||statesperson||barrister||autobiographer||business executive||research scientist"
+    "occupationLabel": "politician||statesperson||chemist||barrister||business executive||autobiographer||research scientist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11256",
     "itemLabel": "Fidel Castro",
     "year": "2016",
-    "sitelinks": "205",
+    "sitelinks": "206",
     "description": "Cuban politician, author and revolutionary (1926–2016)",
     "nationalityLabel": "Cuban",
-    "occupationLabel": "lawyer||head of state||politician||dictator||partisan||jurist||film actor||statesperson||journalist||revolutionary"
+    "occupationLabel": "politician||lawyer||dictator||jurist||head of state||statesperson||partisan||film actor||revolutionary||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23685",
     "itemLabel": "Jimmy Carter",
     "year": "2024",
-    "sitelinks": "198",
+    "sitelinks": "200",
     "description": "president of the United States from 1977 to 1981 (1924–2024)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||farmer||engineer||politician||novelist||businessperson||naval officer||diplomat||statesperson||human rights defender||peace activist||autobiographer||humanitarian||submariner||environmentalist"
+    "occupationLabel": "politician||engineer||farmer||writer||diplomat||statesperson||businessperson||novelist||naval officer||human rights defender||peace activist||autobiographer||humanitarian||submariner||environmentalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23505",
     "itemLabel": "George H. W. Bush",
     "year": "2018",
-    "sitelinks": "194",
+    "sitelinks": "195",
     "description": "president of the United States from 1989 to 1993 (1924-2018)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "entrepreneur||politician||naval officer||diplomat||baseball player||statesperson||autobiographer||aircraft pilot"
+    "occupationLabel": "politician||entrepreneur||diplomat||statesperson||naval officer||baseball player||autobiographer||aircraft pilot"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33866",
     "itemLabel": "Theodore Roosevelt",
     "year": "1919",
-    "sitelinks": "191",
+    "sitelinks": "192",
     "description": "26th President of the United States from 1901 to 1909 (1858–1919)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||naturalist||politician||governor||historian||jurist||statesperson||essayist||explorer||ornithologist||conservationist||autobiographer||rancher||scientific collector||diarist"
+    "occupationLabel": "politician||governor||naturalist||writer||historian||jurist||statesperson||essayist||explorer||ornithologist||conservationist||rancher||autobiographer||diarist||scientific collector"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34296",
+    "itemLabel": "Woodrow Wilson",
+    "year": "1924",
+    "sitelinks": "190",
+    "description": "president of the United States from 1913 to 1921 (1856–1924)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||governor||lawyer||writer||historian||jurist||teacher||statesperson||university teacher||political scientist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9916",
+    "itemLabel": "Dwight D. Eisenhower",
+    "year": "1969",
+    "sitelinks": "190",
+    "description": "president of the United States from 1953 to 1961 (1890–1969)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||military officer||writer||statesperson||military personnel||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9588",
@@ -141,52 +159,43 @@
     "sitelinks": "189",
     "description": "president of the United States from 1969 to 1974 (1913–1994)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||military officer||jurist||statesperson||autobiographer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q34296",
-    "itemLabel": "Woodrow Wilson",
-    "year": "1924",
-    "sitelinks": "188",
-    "description": "president of the United States from 1913 to 1921 (1856–1924)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||teacher||lawyer||politician||governor||historian||jurist||statesperson||university teacher||political scientist"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9916",
-    "itemLabel": "Dwight D. Eisenhower",
-    "year": "1969",
-    "sitelinks": "188",
-    "description": "president of the United States from 1953 to 1961 (1890–1969)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||politician||military officer||military personnel||statesperson||army officer"
+    "occupationLabel": "politician||military officer||lawyer||jurist||statesperson||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11806",
     "itemLabel": "John Adams",
     "year": "1826",
-    "sitelinks": "187",
-    "description": "Founding Father, U.S. president from 1797 to 1801",
+    "sitelinks": "186",
+    "description": "Founding Father, U.S. president from 1797 to 1801 (1735–1826)",
     "nationalityLabel": "Thirteen Colonies||American||Americans",
-    "occupationLabel": "ambassador||author||lawyer||politician||President of the Republic||diplomat||statesperson||political philosopher"
+    "occupationLabel": "politician||ambassador||lawyer||writer||diplomat||statesperson||political philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7742",
     "itemLabel": "Louis XIV of France",
     "year": "1715",
-    "sitelinks": "184",
-    "description": "King of France and of Navarre from 1643 to 1715 (1638-1715)",
+    "sitelinks": "183",
+    "description": "King of France and Navarre from 1643 to 1715 (1638-1715)",
     "nationalityLabel": "French",
-    "occupationLabel": "monarch||actor||politician||art collector||statesperson"
+    "occupationLabel": "monarch||politician||actor||statesperson||art collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8479",
     "itemLabel": "Peter the Great",
     "year": "1725",
-    "sitelinks": "180",
+    "sitelinks": "181",
     "description": "Tsar/Emperor of Russia from 1682 to 1725",
     "nationalityLabel": "Tsardom of Russia||Russian",
     "occupationLabel": "carpenter||statesperson||ruler"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11813",
+    "itemLabel": "James Madison",
+    "year": "1836",
+    "sitelinks": "175",
+    "description": "President of the United States from 1809 to 1817 (1751–1836)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||lawyer||writer||diplomat||statesperson||plantation owner||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9640",
@@ -195,25 +204,16 @@
     "sitelinks": "175",
     "description": "president of the United States from 1963 to 1969 (1908–1973)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "teacher||politician||President of the Republic||statesperson||rancher"
+    "occupationLabel": "politician||teacher||statesperson||rancher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9582",
     "itemLabel": "Gerald Ford",
     "year": "2006",
-    "sitelinks": "174",
+    "sitelinks": "175",
     "description": "president of the United States from 1974 to 1977 (1913–2006)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||vice president||naval officer||President of the Republic||statesperson||autobiographer||gridiron football player||American football player"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11813",
-    "itemLabel": "James Madison",
-    "year": "1836",
-    "sitelinks": "173",
-    "description": "President of the United States from 1809 to 1817 (1751–1836)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||lawyer||politician||plantation owner||diplomat||statesperson||philosopher"
+    "occupationLabel": "politician||lawyer||vice president||statesperson||naval officer||gridiron football player||American football player||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11816",
@@ -222,7 +222,7 @@
     "sitelinks": "165",
     "description": "President of the United States from 1825 to 1829",
     "nationalityLabel": "British America||American||Americans",
-    "occupationLabel": "ambassador||author||lawyer||politician||jurist||President of the Republic||diplomat||statesperson||diarist"
+    "occupationLabel": "politician||ambassador||lawyer||writer||diplomat||jurist||statesperson||diarist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11817",
@@ -231,79 +231,88 @@
     "sitelinks": "163",
     "description": "president of the United States from 1829 to 1837",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "judge||lawyer||politician||governor||President of the Republic||statesperson||army officer"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q36023",
-    "itemLabel": "Calvin Coolidge",
-    "year": "1933",
-    "sitelinks": "160",
-    "description": "president of the United States from 1923 to 1929",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||jurist||statesperson||autobiographer"
+    "occupationLabel": "politician||judge||governor||lawyer||statesperson||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35236",
     "itemLabel": "Herbert Hoover",
     "year": "1964",
-    "sitelinks": "159",
+    "sitelinks": "162",
     "description": "president of the United States from 1929 to 1933 (1874–1964)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||minister||engineer||politician||businessperson||statesperson||mining engineer||geologist"
+    "occupationLabel": "politician||engineer||minister||writer||businessperson||statesperson||author||geologist||mining engineer"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36023",
+    "itemLabel": "Calvin Coolidge",
+    "year": "1933",
+    "sitelinks": "161",
+    "description": "president of the United States from 1923 to 1929",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||lawyer||jurist||statesperson||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2054",
     "itemLabel": "Seneca",
     "year": "65",
-    "sitelinks": "157",
+    "sitelinks": "158",
     "description": "Roman Stoic philosopher, statesman and dramatist (c. 4 BCE–65 CE)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "author||naturalist||politician||poet||consul||playwright||statesperson||aphorist||philosopher"
+    "occupationLabel": "politician||naturalist||writer||consul||poet||statesperson||playwright||philosopher||aphorist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34836",
     "itemLabel": "Ulysses S. Grant",
     "year": "1885",
-    "sitelinks": "157",
+    "sitelinks": "158",
     "description": "president of the United States from 1869 to 1877",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||politician||military personnel||statesperson||explorer||army officer"
+    "occupationLabel": "politician||writer||statesperson||military personnel||explorer||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11815",
     "itemLabel": "James Monroe",
     "year": "1831",
-    "sitelinks": "156",
+    "sitelinks": "157",
     "description": "president of the United States from 1817 to 1825 (1758–1831)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||farmer||lawyer||politician||governor||President of the Republic||diplomat||statesperson"
+    "occupationLabel": "politician||governor||farmer||lawyer||writer||diplomat||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8467",
-    "itemLabel": "Umar ibn Al-Khattāb",
+    "itemLabel": "ʻUmar ibn al-khiṭāb",
     "year": "644",
     "sitelinks": "151",
     "description": "2nd Rashidun Caliph from 634 to 644",
     "nationalityLabel": "Rashidun Caliphate",
-    "occupationLabel": "caliph||imam||companions of the Prophet||statesperson||religious leader"
+    "occupationLabel": "politician||caliph||Amir||imam||companions of the Prophet||statesperson||military personnel||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39619",
-    "itemLabel": "Alī ibn Abī Ṭālib",
+    "itemLabel": "ʻAlī ibn Abī Ṭālib",
     "year": "661",
     "sitelinks": "151",
     "description": "4th Rashidun Caliph (r. 656–661) and first Shia Imam",
     "nationalityLabel": "Rashidun Caliphate",
-    "occupationLabel": "caliph||judge||poet||qadi||statesperson||muhaddith||mufassir||Islamic jurist"
+    "occupationLabel": "caliph||judge||poet||qadi||statesperson||Qur'anic exegete||muhaddith||Islamic jurist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34597",
     "itemLabel": "James A. Garfield",
     "year": "1881",
-    "sitelinks": "146",
+    "sitelinks": "147",
     "description": "president of the United States in 1881",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||lawyer||major general||politician||jurist||military personnel||President of the Republic||statesperson"
+    "occupationLabel": "politician||major general||lawyer||writer||jurist||statesperson||military personnel"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35648",
+    "itemLabel": "William Howard Taft",
+    "year": "1930",
+    "sitelinks": "147",
+    "description": "27th President of the United States from 1909 to 1913 (1857–1930)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||judge||lawyer||writer||jurist||statesperson||prosecutor||pedagogue||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35171",
@@ -312,16 +321,7 @@
     "sitelinks": "146",
     "description": "President of the United States (1885–89; 1893–97)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||lawyer||politician||governor||mayor||executioner||statesperson||sheriff"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35648",
-    "itemLabel": "William Howard Taft",
-    "year": "1930",
-    "sitelinks": "146",
-    "description": "27th President of the United States from 1909 to 1913 (1857–1930)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "judge||author||lawyer||politician||jurist||statesperson||prosecutor||pedagogue||university teacher"
+    "occupationLabel": "politician||governor||mayor||lawyer||writer||executioner||statesperson||sheriff"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11820",
@@ -330,7 +330,16 @@
     "sitelinks": "145",
     "description": "president of the United States from 1837 to 1841",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "ambassador||author||lawyer||politician||governor||jurist||foreign minister||President of the Republic||diplomat||statesperson"
+    "occupationLabel": "politician||governor||ambassador||lawyer||writer||diplomat||jurist||statesperson||foreign minister"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12325",
+    "itemLabel": "James Buchanan",
+    "year": "1868",
+    "sitelinks": "144",
+    "description": "president of the United States from 1857 to 1861",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||ambassador||lawyer||diplomat||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8612",
@@ -339,7 +348,7 @@
     "sitelinks": "144",
     "description": "President of the United States from 1865 to 1869",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||governor||mayor||military officer||President of the Republic||statesperson||tailor"
+    "occupationLabel": "politician||governor||military officer||mayor||tailor||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11891",
@@ -348,7 +357,7 @@
     "sitelinks": "143",
     "description": "President of the United States from 1845 to 1849 (1795–1849)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||governor||jurist||statesperson||planter class"
+    "occupationLabel": "politician||governor||lawyer||jurist||statesperson||planter class"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11896",
@@ -360,13 +369,13 @@
     "occupationLabel": "politician||military officer||statesperson||army officer"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q12325",
-    "itemLabel": "James Buchanan",
-    "year": "1868",
+    "item": "http://www.wikidata.org/entity/Q855252",
+    "itemLabel": "Bhumibol Adulyadej",
+    "year": "2016",
     "sitelinks": "143",
-    "description": "president of the United States from 1857 to 1861",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "ambassador||lawyer||politician||diplomat||statesperson"
+    "description": "former King of Thailand (1927–2016)",
+    "nationalityLabel": "Thai",
+    "occupationLabel": "monarch||engineer||military officer||composer||writer||photographer||teacher||statesperson||painter||saxophonist||social worker||sailor||jazz musician||environmentalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11881",
@@ -375,25 +384,25 @@
     "sitelinks": "142",
     "description": "president of the United States from 1841 to 1845",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||governor||President of the Republic||statesperson"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q855252",
-    "itemLabel": "Bhumibol Adulyadej",
-    "year": "2016",
-    "sitelinks": "142",
-    "description": "former King of Thailand (1927–2016)",
-    "nationalityLabel": "Thai",
-    "occupationLabel": "monarch||photographer||author||teacher||engineer||composer||social worker||military officer||statesperson||sailor||saxophonist||painter||jazz musician||environmentalist"
+    "occupationLabel": "politician||governor||lawyer||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35041",
     "itemLabel": "William McKinley",
     "year": "1901",
-    "sitelinks": "141",
-    "description": "president of the United States from 1897 to 1901",
+    "sitelinks": "142",
+    "description": "president of the United States from 1897 to 1901 (1843-1901)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||governor||President of the Republic||statesperson"
+    "occupationLabel": "politician||governor||lawyer||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35286",
+    "itemLabel": "Warren G. Harding",
+    "year": "1923",
+    "sitelinks": "141",
+    "description": "president of the United States from 1921 to 1923",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "politician||businessperson||statesperson||newspaper editor"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12306",
@@ -402,52 +411,43 @@
     "sitelinks": "140",
     "description": "president of the United States from 1850 to 1853",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||jurist||President of the Republic||statesperson"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35286",
-    "itemLabel": "Warren G. Harding",
-    "year": "1923",
-    "sitelinks": "140",
-    "description": "president of the United States from 1921 to 1923",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||businessperson||statesperson||newspaper editor"
+    "occupationLabel": "politician||lawyer||jurist||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11869",
     "itemLabel": "William Henry Harrison",
     "year": "1841",
     "sitelinks": "139",
-    "description": "president of the United States in 1841",
+    "description": "president of the United States in 1841 (1773-1841)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||governor||military officer||President of the Republic||diplomat||statesperson"
+    "occupationLabel": "politician||governor||military officer||diplomat||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12312",
     "itemLabel": "Franklin Pierce",
     "year": "1869",
-    "sitelinks": "138",
+    "sitelinks": "139",
     "description": "president of the United States from 1853 to 1857",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||military officer||jurist||statesperson"
+    "occupationLabel": "politician||military officer||lawyer||jurist||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35686",
     "itemLabel": "Rutherford B. Hayes",
     "year": "1893",
-    "sitelinks": "138",
-    "description": "president of the United States from 1877 to 1881",
+    "sitelinks": "139",
+    "description": "president of the United States from 1877 to 1881 (1822-1893)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||major general||politician||governor||military officer||President of the Republic||statesperson"
+    "occupationLabel": "politician||governor||major general||military officer||lawyer||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35678",
     "itemLabel": "Benjamin Harrison",
     "year": "1901",
-    "sitelinks": "135",
+    "sitelinks": "136",
     "description": "President of the United States, 1889-1893 (1833–1901)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||lawyer||politician||military officer||jurist||President of the Republic||statesperson||Brigadegeneral"
+    "occupationLabel": "politician||military officer||lawyer||writer||jurist||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42544",
@@ -456,34 +456,43 @@
     "sitelinks": "133",
     "description": "English statesman, lawyer and philosopher (1478–1535)",
     "nationalityLabel": "English",
-    "occupationLabel": "judge||author||politician||poet||historian||novelist||jurist||diplomat||statesperson||poet lawyer||theologian||philosopher"
+    "occupationLabel": "politician||judge||writer||diplomat||historian||poet||jurist||statesperson||novelist||poet lawyer||theologian||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35498",
     "itemLabel": "Chester A. Arthur",
     "year": "1886",
-    "sitelinks": "131",
+    "sitelinks": "132",
     "description": "president of the United States from 1881 to 1885",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||politician||military officer||statesperson||educator"
+    "occupationLabel": "politician||military officer||lawyer||statesperson||educator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9161",
     "itemLabel": "Josip Broz Tito",
     "year": "1980",
-    "sitelinks": "129",
+    "sitelinks": "130",
     "description": "Yugoslav revolutionary and statesman (1892−1980)",
-    "nationalityLabel": "Kingdom of Serbs, Croats and Slovenes||Yugoslavia||Democratic Federal Yugoslavia||Socialist Federal Republic of Yugoslavia||Hungarian",
-    "occupationLabel": "marshal||politician||machinist||statesperson||Esperantist||revolutionary||resistance fighter||locksmith"
+    "nationalityLabel": "Democratic Federal Yugoslavia||Kingdom of Serbs, Croats and Slovenes||Yugoslavia||Socialist Federal Republic of Yugoslavia||Hungarian",
+    "occupationLabel": "politician||marshal||machinist||statesperson||Esperantist||revolutionary||resistance fighter||locksmith"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42013",
     "itemLabel": "Anwar Sadat",
     "year": "1981",
-    "sitelinks": "125",
+    "sitelinks": "126",
     "description": "President of Egypt from 1970 to 1981",
-    "nationalityLabel": "United Arab Republic||Kingdom of Egypt||Republic of Egypt||Sultanate of Egypt||Egyptian",
-    "occupationLabel": "president||politician||vice president||military officer||opinion journalist||President of the Republic||diplomat||statesperson||military leader"
+    "nationalityLabel": "Republic of Egypt||Sultanate of Egypt||United Arab Republic||Kingdom of Egypt||Egyptian",
+    "occupationLabel": "politician||president||military officer||diplomat||vice president||opinion journalist||statesperson||military leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80398",
+    "itemLabel": "Pericles",
+    "year": "-428",
+    "sitelinks": "119",
+    "description": "Athenian statesman, orator and general (c. 495 – 429 BC)",
+    "nationalityLabel": "Athenians",
+    "occupationLabel": "politician||statesperson||military personnel||orator||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131248",
@@ -492,16 +501,7 @@
     "sitelinks": "119",
     "description": "1st Prime Minister of the Republic of Singapore (1923–2015)",
     "nationalityLabel": "Singaporean",
-    "occupationLabel": "lawyer||politician||statesperson||autobiographer||philosopher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80398",
-    "itemLabel": "Pericles",
-    "year": "-428",
-    "sitelinks": "118",
-    "description": "Athenian statesman, orator and general (c. 495 – 429 BC)",
-    "nationalityLabel": "Athenians",
-    "occupationLabel": "politician||military personnel||statesperson||orator||army officer"
+    "occupationLabel": "politician||lawyer||statesperson||autobiographer||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2124",
@@ -522,22 +522,22 @@
     "occupationLabel": "politician||military officer||statesperson"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q44387",
+    "itemLabel": "Darius I",
+    "year": "-485",
+    "sitelinks": "111",
+    "description": "The fourth and greatest Achaemenid emperor (522–486 BC)",
+    "nationalityLabel": "Persian||Achaemenid||Achaemenian",
+    "occupationLabel": "monarch||statesperson||military leader"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2516",
     "itemLabel": "Helmut Schmidt",
     "year": "2015",
     "sitelinks": "111",
     "description": "Chancellor of West Germany (1974–1982)",
     "nationalityLabel": "German",
-    "occupationLabel": "author||minister||politician||economist||civil servant||statesperson||musician||political economist||non-fiction writer||publisher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q44387",
-    "itemLabel": "Darius I",
-    "year": "-485",
-    "sitelinks": "108",
-    "description": "The fourth and greatest Achaemenid emperor (522–486 BC)",
-    "nationalityLabel": "Persian||Achaemenid||Achaemenian",
-    "occupationLabel": "monarch||statesperson||military leader"
+    "occupationLabel": "politician||minister||economist||writer||civil servant||statesperson||political economist||publisher||musician||non-fiction writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83171",
@@ -573,7 +573,7 @@
     "sitelinks": "97",
     "description": "Polish politician, First Marshall, and Prime Minister (1867–1935)",
     "nationalityLabel": "Polish||Russian",
-    "occupationLabel": "politician||military officer||military personnel||statesperson||military leader"
+    "occupationLabel": "politician||military officer||statesperson||military personnel||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q202155",
@@ -582,16 +582,16 @@
     "sitelinks": "96",
     "description": "President of Burkina Faso from 1983 to 1987",
     "nationalityLabel": "Upper Voltans||Upper Voltan||Burkinabé||Burkinabè||Burkinabe",
-    "occupationLabel": "minister||politician||military officer||statesperson||soldier"
+    "occupationLabel": "politician||minister||military officer||statesperson||soldier"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151509",
-    "itemLabel": "Ibn Saud",
+    "itemLabel": "Ibn Saʻūd",
     "year": "1953",
     "sitelinks": "95",
     "description": "King of Saudi Arabia from 1932 to 1953",
     "nationalityLabel": "Saudi Arabia",
-    "occupationLabel": "monarch||politician||military personnel||statesperson"
+    "occupationLabel": "monarch||politician||king||statesperson||military personnel"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57558",
@@ -599,8 +599,17 @@
     "year": "2016",
     "sitelinks": "95",
     "description": "1st President of the Republic of Uzbekistan (1938–2016)",
-    "nationalityLabel": "Soviet||Uzbek||Uzbekistani",
+    "nationalityLabel": "Soviet||Uzbekistani||Uzbek",
     "occupationLabel": "politician||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129165",
+    "itemLabel": "Xerxes I",
+    "year": "-464",
+    "sitelinks": "94",
+    "description": "fifth Achaemenid emperor (486–465 BC)",
+    "nationalityLabel": "Persian||Achaemenid||Achaemenian",
+    "occupationLabel": "statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q119702",
@@ -609,25 +618,16 @@
     "sitelinks": "94",
     "description": "Queen of Great Britain and Ireland from 1702 to 1714 (1665–1714)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "monarch||queen regnant||politician||statesperson||ruler||aristocrat"
+    "occupationLabel": "monarch||politician||queen regnant||statesperson||ruler||aristocrat"
   },
   {
     "item": "http://www.wikidata.org/entity/Q93330",
     "itemLabel": "Juan Perón",
     "year": "1974",
-    "sitelinks": "91",
+    "sitelinks": "92",
     "description": "president of Argentina (1946–55, 1973–74)",
-    "nationalityLabel": "Argentinian||Argentine",
-    "occupationLabel": "politician||military officer||President of the Republic||statesperson"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q129165",
-    "itemLabel": "Xerxes I",
-    "year": "-464",
-    "sitelinks": "90",
-    "description": "The fifth Achaemenid emperor (486–465 BC)",
-    "nationalityLabel": "Persian||Achaemenid||Achaemenian",
-    "occupationLabel": "statesperson"
+    "nationalityLabel": "Argentine||Argentinian",
+    "occupationLabel": "politician||military officer||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q363846",
@@ -654,7 +654,25 @@
     "sitelinks": "84",
     "description": "Vietnamese general and communist politician (1911–2013)",
     "nationalityLabel": "Vietnamese",
-    "occupationLabel": "author||politician||military personnel||statesperson||journalist"
+    "occupationLabel": "military officer||writer||statesperson||journalist"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161904",
+    "itemLabel": "Khufu",
+    "year": "-2565",
+    "sitelinks": "83",
+    "description": "Fourth Dynasty ancient Egyptian pharaoh",
+    "nationalityLabel": "Old Kingdom of Egypt||Ancient Egypt",
+    "occupationLabel": "statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172353",
+    "itemLabel": "Pyrrhus",
+    "year": "-271",
+    "sitelinks": "83",
+    "description": "king of Epirus from 307 to 302 and 297 to 272 BC",
+    "nationalityLabel": "Epirus",
+    "occupationLabel": "monarch||politician||statesperson||military personnel"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160614",
@@ -662,17 +680,8 @@
     "year": "1468",
     "sitelinks": "83",
     "description": "Albanian noble and military commander (1405–1468)",
-    "nationalityLabel": "Venetian||Ottoman",
-    "occupationLabel": "national hero||statesperson||military commander||military leader||aristocrat"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q172353",
-    "itemLabel": "Pyrrhus",
-    "year": "-271",
-    "sitelinks": "82",
-    "description": "king of Epirus from 307 to 302 and 297 to 272 BC",
-    "nationalityLabel": "Epirus",
-    "occupationLabel": "monarch||politician||military personnel||statesperson"
+    "nationalityLabel": "Ottoman||Venetian",
+    "occupationLabel": "national hero||statesperson||aristocrat||military leader||military commander"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217167",
@@ -681,16 +690,16 @@
     "sitelinks": "82",
     "description": "King of Saudi Arabia from 1964 to 1975",
     "nationalityLabel": "Saudi Arabia",
-    "occupationLabel": "monarch||politician||military personnel||statesperson"
+    "occupationLabel": "monarch||politician||statesperson||military personnel"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q161904",
-    "itemLabel": "Khufu",
-    "year": "-2565",
-    "sitelinks": "81",
-    "description": "Fourth Dynasty ancient Egyptian pharaoh",
-    "nationalityLabel": "Old Kingdom of Egypt||Ancient Egypt",
-    "occupationLabel": "statesperson"
+    "item": "http://www.wikidata.org/entity/Q182914",
+    "itemLabel": "Hasan ibn Ali",
+    "year": "669",
+    "sitelinks": "80",
+    "description": "5th Rashidun Caliph (r. 661) and second Shia Imam",
+    "nationalityLabel": "Rashidun Caliphate||Umayyad Caliphate",
+    "occupationLabel": "caliph||statesperson||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156774",
@@ -702,13 +711,13 @@
     "occupationLabel": "monarch||politician||statesperson"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182914",
-    "itemLabel": "Hasan ibn Ali",
-    "year": "669",
-    "sitelinks": "79",
-    "description": "5th Rashidun Caliph (r. 661) and second Shia Imam",
-    "nationalityLabel": "Rashidun Caliphate||Umayyad Caliphate",
-    "occupationLabel": "caliph||statesperson||military leader"
+    "item": "http://www.wikidata.org/entity/Q174367",
+    "itemLabel": "Djoser",
+    "year": "-2700",
+    "sitelinks": "76",
+    "description": "ancient Egyptian pharaoh of the 3rd dynasty",
+    "nationalityLabel": "Ancient Egypt",
+    "occupationLabel": "statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157899",
@@ -720,22 +729,13 @@
     "occupationLabel": "pharaoh||statesperson"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q174367",
-    "itemLabel": "Djoser",
-    "year": "-2700",
-    "sitelinks": "75",
-    "description": "ancient Egyptian pharaoh of the 3rd dynasty",
-    "nationalityLabel": "Ancient Egypt",
-    "occupationLabel": "statesperson"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q69103",
     "itemLabel": "Hassan II",
     "year": "1999",
     "sitelinks": "75",
     "description": "King of Morocco from 1961 to 1999",
     "nationalityLabel": "Moroccan",
-    "occupationLabel": "monarch||entrepreneur||politician||diplomat||statesperson||chancellor||military leader"
+    "occupationLabel": "monarch||politician||entrepreneur||diplomat||statesperson||chancellor||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q184462",
@@ -747,31 +747,31 @@
     "occupationLabel": "statesperson"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q185801",
+    "itemLabel": "Mikhail Kutuzov",
+    "year": "1813",
+    "sitelinks": "74",
+    "description": "Field Marshal of the Russian Empire (1745–1813)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "military officer||diplomat||statesperson||general field marshal"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q182781",
     "itemLabel": "Muhammad Ali",
     "year": "1849",
     "sitelinks": "74",
     "description": "Wali of Egypt and Sudan (1769–1849)",
     "nationalityLabel": "Ottoman",
-    "occupationLabel": "politician||governor||statesperson||viceroy||military leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q185801",
-    "itemLabel": "Mikhail Kutuzov",
-    "year": "1813",
-    "sitelinks": "73",
-    "description": "Field Marshal of the Russian Empire (1745–1813)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "general field marshal||military officer||diplomat||statesperson"
+    "occupationLabel": "politician||governor||viceroy||statesperson||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q179888",
     "itemLabel": "Aristide Briand",
     "year": "1932",
-    "sitelinks": "73",
+    "sitelinks": "74",
     "description": "politician, statesman, and Nobel Peace Prize laureate from France (1862-1932)",
     "nationalityLabel": "French",
-    "occupationLabel": "author||minister||lawyer||politician||jurist||socialist||diplomat||statesperson||journalist||head of government"
+    "occupationLabel": "politician||minister||lawyer||writer||diplomat||jurist||statesperson||author||socialist||head of government||journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216983",
@@ -780,7 +780,7 @@
     "sitelinks": "73",
     "description": "President of Turkey (1917–2015)",
     "nationalityLabel": "Ottoman||Turkish",
-    "occupationLabel": "politician||military personnel||statesperson"
+    "occupationLabel": "politician||statesperson||military personnel"
   },
   {
     "item": "http://www.wikidata.org/entity/Q171185",
@@ -795,7 +795,7 @@
     "item": "http://www.wikidata.org/entity/Q173196",
     "itemLabel": "Michael Collins",
     "year": "1922",
-    "sitelinks": "71",
+    "sitelinks": "72",
     "description": "Irish revolutionary and politician (1890–1922)",
     "nationalityLabel": "Irish Republic||British||Briton",
     "occupationLabel": "politician||military officer||statesperson"
@@ -806,16 +806,16 @@
     "year": "1910",
     "sitelinks": "70",
     "description": "King of Siam (1853-1910)",
-    "nationalityLabel": "Siamese",
-    "occupationLabel": "monarch||author||politician||military officer||diplomat||statesperson"
+    "nationalityLabel": "Siamese||Thai",
+    "occupationLabel": "monarch||politician||military officer||writer||diplomat||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28517",
     "itemLabel": "Todor Zhivkov",
     "year": "1998",
-    "sitelinks": "69",
+    "sitelinks": "70",
     "description": "former General Secretary of the Bulgarian Communist Party",
-    "nationalityLabel": "Kingdom of Bulgaria||People's Republic of Bulgaria||Bulgarian",
+    "nationalityLabel": "People's Republic of Bulgaria||Kingdom of Bulgaria||Bulgarian",
     "occupationLabel": "politician||statesperson||resistance fighter"
   },
   {
@@ -834,7 +834,7 @@
     "sitelinks": "68",
     "description": "King of Saudi Arabia from 1953 to 1964",
     "nationalityLabel": "Saudi Arabia",
-    "occupationLabel": "monarch||politician||military personnel||diplomat||statesperson||heir apparent"
+    "occupationLabel": "monarch||politician||diplomat||statesperson||military personnel||heir apparent"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152738",
@@ -843,7 +843,7 @@
     "sitelinks": "68",
     "description": "Soviet revolutionary and statesman (1895–1978)",
     "nationalityLabel": "Russian||Soviet",
-    "occupationLabel": "author||politician||statesperson||revolutionary||party organizer"
+    "occupationLabel": "politician||writer||statesperson||revolutionary||party organizer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188999",
@@ -852,7 +852,7 @@
     "sitelinks": "67",
     "description": "British politician (1863-1937)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "politician||foreign minister||statesperson"
+    "occupationLabel": "politician||statesperson||foreign minister"
   },
   {
     "item": "http://www.wikidata.org/entity/Q714934",
@@ -861,14 +861,14 @@
     "sitelinks": "67",
     "description": "Thai prime minister (1900-1983)",
     "nationalityLabel": "Thai",
-    "occupationLabel": "lawyer||politician||screenwriter||jurist||statesperson||head of government"
+    "occupationLabel": "politician||screenwriter||lawyer||jurist||statesperson||head of government"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157918",
     "itemLabel": "Seti I",
     "year": "-1278",
     "sitelinks": "66",
-    "description": "The second pharaoh of Ancient Egypt's 19th dynasty",
+    "description": "second pharaoh of Ancient Egypt's 19th dynasty",
     "nationalityLabel": "Ancient Egypt",
     "occupationLabel": "statesperson"
   },
@@ -888,16 +888,16 @@
     "sitelinks": "66",
     "description": "King of Saudi Arabia (1911-1982)",
     "nationalityLabel": "Saudi Arabia",
-    "occupationLabel": "monarch||politician||military personnel||statesperson"
+    "occupationLabel": "monarch||politician||statesperson||military personnel"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156379",
     "itemLabel": "Yury Luzhkov",
     "year": "2019",
-    "sitelinks": "65",
+    "sitelinks": "66",
     "description": "Russian politician (1936–2019)",
     "nationalityLabel": "Russian",
-    "occupationLabel": "scientist||engineer||politician||mayor||statesperson"
+    "occupationLabel": "scientist||politician||engineer||mayor||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188995",
@@ -918,6 +918,15 @@
     "occupationLabel": "statesperson"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q315509",
+    "itemLabel": "Philip Sidney",
+    "year": "1586",
+    "sitelinks": "61",
+    "description": "English poet, courtier, diplomat (1554-1586)",
+    "nationalityLabel": "English||British||Briton",
+    "occupationLabel": "politician||writer||diplomat||poet||statesperson||military personnel||novelist"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q12680",
     "itemLabel": "Paul Doumer",
     "year": "1932",
@@ -933,7 +942,7 @@
     "sitelinks": "61",
     "description": "politician (1933-2015)",
     "nationalityLabel": "Beninese",
-    "occupationLabel": "politician||military personnel||statesperson"
+    "occupationLabel": "politician||statesperson||military personnel"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189371",
@@ -946,7 +955,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q293599",
-    "itemLabel": "Abbas ibn Abd al-Muttalib",
+    "itemLabel": "al-ʻAbbās",
     "year": "653",
     "sitelinks": "60",
     "description": "Paternal uncle of Muhammad (c.565–c.653)",
@@ -963,13 +972,13 @@
     "occupationLabel": "statesperson||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q315509",
-    "itemLabel": "Philip Sidney",
-    "year": "1586",
+    "item": "http://www.wikidata.org/entity/Q296083",
+    "itemLabel": "Jules Grévy",
+    "year": "1891",
     "sitelinks": "60",
-    "description": "English poet, courtier, diplomat (1554-1586)",
-    "nationalityLabel": "English||British||Briton",
-    "occupationLabel": "author||politician||poet||novelist||military personnel||diplomat||statesperson"
+    "description": "French statesman and lawyer (1807–1891)",
+    "nationalityLabel": "French",
+    "occupationLabel": "politician||lawyer||statesperson||official"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11239",
@@ -978,7 +987,7 @@
     "sitelinks": "60",
     "description": "American banker and philanthropist (1915–2017)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "author||entrepreneur||businessperson||art collector||philanthropist||statesperson||banker||autobiographer||commissioned armed forces officers||entomologist||soldier||financier"
+    "occupationLabel": "entrepreneur||writer||statesperson||businessperson||banker||philanthropist||art collector||financier||autobiographer||soldier||entomologist||commissioned armed forces officers"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152335",
@@ -987,16 +996,7 @@
     "sitelinks": "60",
     "description": "politician and former President of Hungary (1942–2023)",
     "nationalityLabel": "Hungarian",
-    "occupationLabel": "politician||jurist||librarian||statesperson||university teacher"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q296083",
-    "itemLabel": "Jules Grévy",
-    "year": "1891",
-    "sitelinks": "59",
-    "description": "French statesman and lawyer (1807–1891)",
-    "nationalityLabel": "French",
-    "occupationLabel": "lawyer||politician||statesperson||official"
+    "occupationLabel": "politician||librarian||jurist||statesperson||university teacher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q60113",
@@ -1005,7 +1005,7 @@
     "sitelinks": "59",
     "description": "German and Prussian politician (1849–1929)",
     "nationalityLabel": "German",
-    "occupationLabel": "ambassador||minister||politician||jurist||diplomat||statesperson||author"
+    "occupationLabel": "politician||minister||ambassador||diplomat||jurist||statesperson||author"
   },
   {
     "item": "http://www.wikidata.org/entity/Q215705",
@@ -1014,7 +1014,7 @@
     "sitelinks": "58",
     "description": "Soviet politician (1893–1991)",
     "nationalityLabel": "Soviet",
-    "occupationLabel": "cobbler||politician||statesperson||revolutionary"
+    "occupationLabel": "politician||cobbler||statesperson||revolutionary"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223771",
@@ -1024,6 +1024,15 @@
     "description": "Emperor of Vietnam from 1926 to 1945",
     "nationalityLabel": "French Annam||French",
     "occupationLabel": "monarch||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18285",
+    "itemLabel": "Zhu Rongji",
+    "year": "2026",
+    "sitelinks": "58",
+    "description": "5th Premier of the People's Republic of China from 1998 to 2003 (1928–2026)",
+    "nationalityLabel": "Chinese",
+    "occupationLabel": "politician||engineer||statesperson||businessperson||head of government"
   },
   {
     "item": "http://www.wikidata.org/entity/Q200986",
@@ -1041,7 +1050,7 @@
     "sitelinks": "57",
     "description": "Theban general and statesman (419/411–362 BC)",
     "nationalityLabel": "Thebes",
-    "occupationLabel": "politician||military personnel||statesperson||army officer||military leader"
+    "occupationLabel": "politician||statesperson||military personnel||military leader||army officer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157812",
@@ -1050,7 +1059,7 @@
     "sitelinks": "56",
     "description": "King of Denmark and Norway from 1648 to 1670",
     "nationalityLabel": "Denmark–Norway",
-    "occupationLabel": "king||politician||statesperson||cleric"
+    "occupationLabel": "politician||king||statesperson||cleric"
   },
   {
     "item": "http://www.wikidata.org/entity/Q641805",
@@ -1069,14 +1078,5 @@
     "description": "King of Poland and Grand Duke of Lithuania",
     "nationalityLabel": "Kingdom of Poland||Grand Duchy of Lithuania",
     "occupationLabel": "statesperson"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q297032",
-    "itemLabel": "Georgy Lvov",
-    "year": "1925",
-    "sitelinks": "55",
-    "description": "Russian statesman and the first post-imperial prime minister of Russia (1861-1925)",
-    "nationalityLabel": "Russian Republic||Russian",
-    "occupationLabel": "politician||statesperson"
   }
 ]

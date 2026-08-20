@@ -150,6 +150,16 @@
     "pageViews": 18698
   },
   {
+    "qid": "Q125577807",
+    "title": "Soyuz MS-29 launches",
+    "subtitle": "Mission by Roscosmos State Corporation",
+    "year": 2026,
+    "fact": "Soyuz MS-29, identified by NASA as Soyuz 75S, is a Russian crewed Soyuz spaceflight launched from Site 31/6 at the Baikonur Cosmodrome on 14 July 2026 to the International Space Station, where it docked to the nadir port of the Prichal module, delivering three members of the Expedition 74/75 crew.",
+    "wikipediaSlug": "Soyuz_MS-29",
+    "image": "Expedition_75_Launch_(NHQ202607140002).jpg",
+    "pageViews": 18078
+  },
+  {
     "qid": "Q178871",
     "title": "Apollo 14 launches",
     "subtitle": "Mission by National Aeronautics and Space Administration",
@@ -202,7 +212,7 @@
   {
     "qid": "Q47482008",
     "title": "Double Asteroid Redirection Test launches",
-    "subtitle": "Mission by The Johns Hopkins University Applied Physics Laboratory LLC",
+    "subtitle": "Mission by Applied Physics Laboratory",
     "year": 2021,
     "fact": "The Double Asteroid Redirection Test (DART) was a NASA space mission to test a method of planetary defense against near-Earth objects (NEOs).",
     "wikipediaSlug": "Double_Asteroid_Redirection_Test",
@@ -242,7 +252,7 @@
   {
     "qid": "Q113169",
     "title": "BepiColombo launches",
-    "subtitle": "Mission by Japan Aerospace Exploration Agency",
+    "subtitle": "Mission by European Space Operations Centre",
     "year": 2018,
     "fact": "BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to the planet Mercury.",
     "wikipediaSlug": "BepiColombo",
@@ -312,7 +322,7 @@
   {
     "qid": "Q19266",
     "title": "Van Allen Probes launches",
-    "subtitle": "Mission by The Johns Hopkins University Applied Physics Laboratory LLC",
+    "subtitle": "Mission by Applied Physics Laboratory",
     "year": 2012,
     "fact": "The Van Allen Probes, formerly known as the Radiation Belt Storm Probes (RBSP), are two robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth.",
     "wikipediaSlug": "Van_Allen_Probes",
@@ -368,16 +378,6 @@
     "wikipediaSlug": "Axiom_Mission_4",
     "image": "The_SpaceX_Dragon_spacecraft_carrying_Axiom_Mission_4_approaches_the_International_Space_Station_(iss073e0249606).jpg",
     "pageViews": 5887
-  },
-  {
-    "qid": "Q182008",
-    "title": "Galileo mission launches",
-    "subtitle": "Mission by Ames Research Center",
-    "year": 1989,
-    "fact": "Galileo was an American robotic space program that studied the planet Jupiter and its moons, as well as several other Solar System bodies.",
-    "wikipediaSlug": "Galileo_project",
-    "image": "Artwork_Galileo-Io-Jupiter.JPG",
-    "pageViews": 5815
   },
   {
     "qid": "Q242528",

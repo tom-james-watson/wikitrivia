@@ -4,14 +4,14 @@
     "itemLabel": "French Revolution",
     "year": "1789",
     "countryLabel": "France",
-    "sitelinks": "189"
+    "sitelinks": "193"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8690",
     "itemLabel": "Cultural Revolution",
     "year": "1966",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "121"
+    "sitelinks": "122"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42976",
@@ -46,14 +46,14 @@
     "itemLabel": "Libyan Civil War",
     "year": "2011",
     "countryLabel": "Libya",
-    "sitelinks": "90"
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11264",
     "itemLabel": "Cuban Revolution",
     "year": "1953",
     "countryLabel": "Cuba",
-    "sitelinks": "89"
+    "sitelinks": "88"
   },
   {
     "item": "http://www.wikidata.org/entity/Q101534",
@@ -81,7 +81,7 @@
     "itemLabel": "Mexican Revolution",
     "year": "1910",
     "countryLabel": "Mexico",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q836386",
@@ -102,7 +102,7 @@
     "itemLabel": "July Revolution",
     "year": "1830",
     "countryLabel": "Bourbon Restoration in France",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q189508",
@@ -137,7 +137,14 @@
     "itemLabel": "Hungarian Revolution of 1848",
     "year": "1848",
     "countryLabel": "Hungary",
-    "sitelinks": "57"
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q622774",
+    "itemLabel": "French Revolution of 1848",
+    "year": "1848",
+    "countryLabel": "France",
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223933",
@@ -145,13 +152,6 @@
     "year": "1830",
     "countryLabel": "United Kingdom of the Netherlands",
     "sitelinks": "55"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q622774",
-    "itemLabel": "French Revolution of 1848",
-    "year": "1848",
-    "countryLabel": "France",
-    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q638530",
@@ -210,13 +210,6 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q236023",
-    "itemLabel": "Kyrgyz Revolution of 2010",
-    "year": "2010",
-    "countryLabel": "Kyrgyzstan",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1274389",
     "itemLabel": "People Power Revolution",
     "year": "1986",
@@ -224,11 +217,11 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1463516",
-    "itemLabel": "Nicaraguan Revolution",
-    "year": "1961",
-    "countryLabel": "Nicaragua",
-    "sitelinks": "36"
+    "item": "http://www.wikidata.org/entity/Q236023",
+    "itemLabel": "Kyrgyz Revolution of 2010",
+    "year": "2010",
+    "countryLabel": "Kyrgyzstan",
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1368440",
@@ -238,18 +231,25 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5933860",
-    "itemLabel": "Abbasid Revolution",
-    "year": "746",
-    "countryLabel": "Umayyad Caliphate",
-    "sitelinks": "33"
+    "item": "http://www.wikidata.org/entity/Q1463516",
+    "itemLabel": "Nicaraguan Revolution",
+    "year": "1961",
+    "countryLabel": "Nicaragua",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32993",
     "itemLabel": "Chinese Communist Revolution",
     "year": "1927",
     "countryLabel": "Republic of China",
-    "sitelinks": "31"
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5933860",
+    "itemLabel": "Abbasid Revolution",
+    "year": "746",
+    "countryLabel": "Umayyad Caliphate",
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q891367",
@@ -263,7 +263,7 @@
     "itemLabel": "August Revolution",
     "year": "1945",
     "countryLabel": "Vietnam",
-    "sitelinks": "28"
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q184310",
@@ -305,7 +305,7 @@
     "itemLabel": "Rwandan Revolution",
     "year": "1959",
     "countryLabel": "Ruanda-Urundi",
-    "sitelinks": "19"
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q896479",
@@ -320,6 +320,13 @@
     "year": "2011",
     "countryLabel": "",
     "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2302690",
+    "itemLabel": "Tobacco Protest",
+    "year": "1890",
+    "countryLabel": "Qajar Iran",
+    "sitelinks": "17"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16782534",
@@ -343,17 +350,17 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3100354",
-    "itemLabel": "Cantonal revolution",
-    "year": "1873",
-    "countryLabel": "First Spanish Republic",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7318712",
     "itemLabel": "Revolution in the Kingdom of Poland",
     "year": "1905",
     "countryLabel": "Congress Poland",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3100354",
+    "itemLabel": "Cantonal revolution",
+    "year": "1873",
+    "countryLabel": "First Spanish Republic",
     "sitelinks": "13"
   },
   {
@@ -362,6 +369,13 @@
     "year": "-507",
     "countryLabel": "Classical Athens",
     "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11703010",
+    "itemLabel": "Spanish Revolution of 1854",
+    "year": "1854",
+    "countryLabel": "Kingdom of Spain",
+    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16976566",
@@ -378,6 +392,13 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q930925",
+    "itemLabel": "Cretan Revolt of 1897–1898",
+    "year": "1897",
+    "countryLabel": "Greece",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4301694",
     "itemLabel": "Monegasque Revolution",
     "year": "1910",
@@ -389,13 +410,6 @@
     "itemLabel": "EDSA Revolution of 2001",
     "year": "2001",
     "countryLabel": "Philippines",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11703010",
-    "itemLabel": "Spanish Revolution of 1854",
-    "year": "1854",
-    "countryLabel": "Kingdom of Spain",
     "sitelinks": "11"
   },
   {
@@ -427,6 +441,13 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4818171",
+    "itemLabel": "Persian Constitutional Revolution",
+    "year": "1905",
+    "countryLabel": "Qajar Iran",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2745716",
     "itemLabel": "Paulista Revolution",
     "year": "1924",
@@ -441,17 +462,17 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1331281",
-    "itemLabel": "September Revolution in Portugal",
-    "year": "1836",
-    "countryLabel": "Portugal",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q123944461",
     "itemLabel": "Khalji Revolution",
     "year": "1290",
     "countryLabel": "Delhi Sultanate",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1331281",
+    "itemLabel": "September Revolution in Portugal",
+    "year": "1836",
+    "countryLabel": "Portugal",
     "sitelinks": "6"
   },
   {
@@ -504,6 +525,13 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q9108414",
+    "itemLabel": "Anarchist insurrection of December 1933",
+    "year": "1933",
+    "countryLabel": "Second Spanish Republic",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6507837",
     "itemLabel": "Le Van Khoi revolt",
     "year": "1833",
@@ -515,13 +543,6 @@
     "itemLabel": "1871 Guatemalan Revolution",
     "year": "1865",
     "countryLabel": "Guatemala",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q9108414",
-    "itemLabel": "Anarchist insurrection of December 1933",
-    "year": "1933",
-    "countryLabel": "Second Spanish Republic",
     "sitelinks": "4"
   },
   {
@@ -537,13 +558,6 @@
     "year": "1843",
     "countryLabel": "Republic of Haiti (1820–1849)",
     "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12203914",
-    "itemLabel": "Revolt of Cairo (1800)",
-    "year": "1800",
-    "countryLabel": "Egypt",
-    "sitelinks": "3"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15634716",
@@ -595,6 +609,20 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q16422057",
+    "itemLabel": "Jørgen Jørgensen's Revolution",
+    "year": "1809",
+    "countryLabel": "Iceland",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6107173",
+    "itemLabel": "Revolution of 1874",
+    "year": "1874",
+    "countryLabel": "Argentina",
+    "sitelinks": "2"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q124024074",
     "itemLabel": "1934 Spanish peasants' strike",
     "year": "1934",
@@ -602,17 +630,31 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19356877",
-    "itemLabel": "Quetzalteque Revolution",
-    "year": "1897",
-    "countryLabel": "Guatemala",
-    "sitelinks": "2"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q134623331",
     "itemLabel": "Cibaeño Revolution",
     "year": "1857",
     "countryLabel": "First Republic (Dominican Republic)",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28663219",
+    "itemLabel": "Queipa Revolution",
+    "year": "1898",
+    "countryLabel": "Venezuela",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28663968",
+    "itemLabel": "April Revolution",
+    "year": "1870",
+    "countryLabel": "Venezuela",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19356877",
+    "itemLabel": "Quetzalteque Revolution",
+    "year": "1897",
+    "countryLabel": "Guatemala",
     "sitelinks": "2"
   },
   {
@@ -686,13 +728,6 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16422057",
-    "itemLabel": "Jørgen Jørgensen's Revolution",
-    "year": "1809",
-    "countryLabel": "",
-    "sitelinks": "2"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q91271784",
     "itemLabel": "Chinese revolutions",
     "year": "1911",
@@ -700,10 +735,10 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16625168",
-    "itemLabel": "Revolution of the Seven Chiefs",
-    "year": "1580",
-    "countryLabel": "Argentina",
+    "item": "http://www.wikidata.org/entity/Q104845861",
+    "itemLabel": "Kalimantan Physical Revolution",
+    "year": "1945",
+    "countryLabel": "Dutch East Indies",
     "sitelinks": "1"
   },
   {
@@ -714,17 +749,17 @@
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q61750249",
-    "itemLabel": "Veintemilla Revolution",
-    "year": "1876",
-    "countryLabel": "Ecuador",
+    "item": "http://www.wikidata.org/entity/Q122929851",
+    "itemLabel": "Odjak of Algiers Revolution",
+    "year": "1659",
+    "countryLabel": "Regency of Algiers",
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104845861",
-    "itemLabel": "Kalimantan Physical Revolution",
-    "year": "1945",
-    "countryLabel": "Indonesia",
+    "item": "http://www.wikidata.org/entity/Q16625168",
+    "itemLabel": "Revolution of the Seven Chiefs",
+    "year": "1580",
+    "countryLabel": "Argentina",
     "sitelinks": "1"
   },
   {
@@ -735,24 +770,10 @@
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22314611",
-    "itemLabel": "Spanish Revolution of 1848",
-    "year": "1848",
-    "countryLabel": "Kingdom of Spain",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q122929851",
-    "itemLabel": "Odjak of Algiers Revolution",
-    "year": "1659",
-    "countryLabel": "Regency of Algiers",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35583796",
-    "itemLabel": "Abd al-Rahman ibn Muhammad ibn al-Ash'ath's revolt",
-    "year": "700",
-    "countryLabel": "Umayyad Caliphate",
+    "item": "http://www.wikidata.org/entity/Q61750249",
+    "itemLabel": "Veintemilla Revolution",
+    "year": "1876",
+    "countryLabel": "Ecuador",
     "sitelinks": "1"
   },
   {
@@ -760,6 +781,20 @@
     "itemLabel": "Ukrainian national revolution",
     "year": "1648",
     "countryLabel": "Cossack Hetmanate",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22314611",
+    "itemLabel": "Spanish Revolution of 1848",
+    "year": "1848",
+    "countryLabel": "Kingdom of Spain",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35583796",
+    "itemLabel": "Abd al-Rahman ibn Muhammad ibn al-Ash'ath's revolt",
+    "year": "700",
+    "countryLabel": "Umayyad Caliphate",
     "sitelinks": "1"
   },
   {

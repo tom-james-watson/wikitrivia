@@ -10,16 +10,6 @@
     "pageViews": 2473541
   },
   {
-    "qid": "Q115288326",
-    "title": "‘Anna’s Archive’ launches",
-    "subtitle": "Website",
-    "year": 2022,
-    "fact": "Anna's Archive is an open source search engine for shadow libraries that was launched by the pseudonymous Anna shortly after law enforcement efforts to shut down Z-Library in 2022.",
-    "wikipediaSlug": "Anna%27s_Archive",
-    "image": "Annasarchivehome_1.15.25.png",
-    "pageViews": 2304895
-  },
-  {
     "qid": "Q52",
     "title": "‘Wikipedia’ launches",
     "subtitle": "Website",
@@ -28,6 +18,16 @@
     "wikipediaSlug": "Wikipedia",
     "image": "Wikipedia-logo-v2.svg",
     "pageViews": 1264857
+  },
+  {
+    "qid": "Q355",
+    "title": "‘Facebook’ launches",
+    "subtitle": "Website",
+    "year": 2004,
+    "fact": "Facebook is an American social networking service owned by the American technology conglomerate Meta Platforms.",
+    "wikipediaSlug": "Facebook",
+    "image": "Facebook_user_page.png",
+    "pageViews": 1120515
   },
   {
     "qid": "Q48938223",
@@ -180,16 +180,6 @@
     "pageViews": 123292
   },
   {
-    "qid": "Q238330",
-    "title": "‘4Chan’ launches",
-    "subtitle": "Website",
-    "year": 2003,
-    "fact": "4chan is an anonymous English-language imageboard website.",
-    "wikipediaSlug": "4chan",
-    "image": "4chan_logo.svg",
-    "pageViews": 122110
-  },
-  {
     "qid": "Q116947",
     "title": "‘Messenger’ launches",
     "subtitle": "Website",
@@ -198,16 +188,6 @@
     "wikipediaSlug": "Facebook_Messenger",
     "image": "Facebook_Messenger_logo_2025.svg",
     "pageViews": 120605
-  },
-  {
-    "qid": "Q4555537",
-    "title": "‘Twitch’ launches",
-    "subtitle": "Website",
-    "year": 2011,
-    "fact": "Twitch is an American video live-streaming service popular in video games, including broadcasts of esports competitions.",
-    "wikipediaSlug": "Twitch_(service)",
-    "image": "Twitch_logo_2019.svg",
-    "pageViews": 120058
   },
   {
     "qid": "Q135622",
@@ -300,6 +280,16 @@
     "pageViews": 86390
   },
   {
+    "qid": "Q166180",
+    "title": "‘France 24’ launches",
+    "subtitle": "Website",
+    "year": 2006,
+    "fact": "France 24 is a French state-owned publicly funded international news television network based in Paris.",
+    "wikipediaSlug": "France_24",
+    "image": "France_24_logo_(2013).svg",
+    "pageViews": 80994
+  },
+  {
     "qid": "Q461",
     "title": "‘Internet Archive’ launches",
     "subtitle": "Website",
@@ -308,6 +298,26 @@
     "wikipediaSlug": "Internet_Archive",
     "image": "Internet_Archive_logo_and_wordmark.svg",
     "pageViews": 72729
+  },
+  {
+    "qid": "Q166032",
+    "title": "‘The Washington Post’ launches",
+    "subtitle": "Website",
+    "year": 1877,
+    "fact": "The Washington Post is an American daily newspaper published in Washington, D.C.",
+    "wikipediaSlug": "The_Washington_Post",
+    "image": "The-Washington-Post-10-June-2020.jpg",
+    "pageViews": 72025
+  },
+  {
+    "qid": "Q824451",
+    "title": "‘Boston Globe’ launches",
+    "subtitle": "Website",
+    "year": 1872,
+    "fact": "The Boston Globe, also known locally as the Globe, is an American daily newspaper founded and based in Boston, Massachusetts.",
+    "wikipediaSlug": "The_Boston_Globe",
+    "image": "The_Boston_Globe,_April_18,_2011.jpeg",
+    "pageViews": 71755
   },
   {
     "qid": "Q494817",
@@ -360,6 +370,16 @@
     "pageViews": 62496
   },
   {
+    "qid": "Q15124",
+    "title": "‘South Tyrol’ launches",
+    "subtitle": "Website",
+    "year": 1948,
+    "fact": "South Tyrol, officially the Autonomous Province of Bolzano/Bozen – South Tyrol, is an autonomous province in northern Italy.",
+    "wikipediaSlug": "South_Tyrol",
+    "image": "South_Tyrol_in_Italy.svg",
+    "pageViews": 59856
+  },
+  {
     "qid": "Q16927658",
     "title": "‘Google Classroom’ launches",
     "subtitle": "Website",
@@ -398,6 +418,16 @@
     "wikipediaSlug": "Bluesky",
     "image": "Bluesky_Logo.svg",
     "pageViews": 57379
+  },
+  {
+    "qid": "Q33511",
+    "title": "‘Rolling Stone’ launches",
+    "subtitle": "Website",
+    "year": 1967,
+    "fact": "Rolling Stone is an American monthly magazine that focuses on music, politics, and popular culture.",
+    "wikipediaSlug": "Rolling_Stone",
+    "image": "Rolling_Stone_1000th_Issue_May_June_2006.png",
+    "pageViews": 57295
   },
   {
     "qid": "Q1359568",
@@ -470,6 +500,26 @@
     "pageViews": 51036
   },
   {
+    "qid": "Q44996",
+    "title": "‘Oxford English Dictionary’ launches",
+    "subtitle": "Website",
+    "year": 1989,
+    "fact": "The Oxford English Dictionary (OED) is the principal historical dictionary of the English language, published by Oxford University Press (OUP), a University of Oxford publishing house.",
+    "wikipediaSlug": "Oxford_English_Dictionary",
+    "image": "OED2_volumes.jpg",
+    "pageViews": 50836
+  },
+  {
+    "qid": "Q43297",
+    "title": "‘Time’ launches",
+    "subtitle": "Website",
+    "year": 1923,
+    "fact": "Time is an American news magazine based in New York City.",
+    "wikipediaSlug": "Time_(magazine)",
+    "image": "Is_God_Dead.jpg",
+    "pageViews": 47982
+  },
+  {
     "qid": "Q50008",
     "title": "‘The Times’ launches",
     "subtitle": "Website",
@@ -498,6 +548,26 @@
     "wikipediaSlug": "LiveLeak",
     "image": "Tongo_Tongo_ambush_footage,_October_2017.webm",
     "pageViews": 46477
+  },
+  {
+    "qid": "Q164746",
+    "title": "‘The Wall Street Journal’ launches",
+    "subtitle": "Website",
+    "year": 1889,
+    "fact": "The Wall Street Journal (WSJ), commonly known as the Journal, is an American newspaper based in Midtown Manhattan, New York City.",
+    "wikipediaSlug": "The_Wall_Street_Journal",
+    "image": "The_Wall_Street_Journal_July_30,_2025.webp",
+    "pageViews": 46408
+  },
+  {
+    "qid": "Q211374",
+    "title": "‘New York Post’ launches",
+    "subtitle": "Website",
+    "year": 1801,
+    "fact": "The New York Post (NY Post), founded as the New York Evening Post (originally New-York Evening Post), is an American conservative daily tabloid newspaper published in New York City.",
+    "wikipediaSlug": "New_York_Post",
+    "image": "New_York_Post_Cover.webp",
+    "pageViews": 44794
   },
   {
     "qid": "Q136410803",
@@ -540,16 +610,6 @@
     "pageViews": 42885
   },
   {
-    "qid": "Q1353939",
-    "title": "‘Etsy’ launches",
-    "subtitle": "Website",
-    "year": 2005,
-    "fact": "Etsy, Inc. is an American e-commerce company focused on handmade or vintage items and craft supplies.",
-    "wikipediaSlug": "Etsy",
-    "image": "Etsy_logo.svg",
-    "pageViews": 42011
-  },
-  {
     "qid": "Q1542536",
     "title": "‘The Atlantic’ launches",
     "subtitle": "Website",
@@ -580,6 +640,16 @@
     "pageViews": 41708
   },
   {
+    "qid": "Q154008",
+    "title": "‘Vogue’ launches",
+    "subtitle": "Website",
+    "year": 1892,
+    "fact": "Vogue, also known as American Vogue, is a monthly fashion magazine that covers style news, including haute couture, beauty, fashion, culture, living, and runway.",
+    "wikipediaSlug": "Vogue_(magazine)",
+    "image": "US_Vogue_Digital_Edition_December_2024.jpg",
+    "pageViews": 41670
+  },
+  {
     "qid": "Q196259",
     "title": "‘NetEase’ launches",
     "subtitle": "Website",
@@ -598,16 +668,6 @@
     "wikipediaSlug": "Midjourney",
     "image": "Midjourney_logo.svg",
     "pageViews": 40829
-  },
-  {
-    "qid": "Q117084855",
-    "title": "‘Kick’ launches",
-    "subtitle": "Website",
-    "year": 2021,
-    "fact": "Kick is an Australian video livestreaming service.",
-    "wikipediaSlug": "Kick_(service)",
-    "image": "Kick_(website_screenshot).png",
-    "pageViews": 40770
   },
   {
     "qid": "Q55637991",
@@ -640,6 +700,16 @@
     "pageViews": 40440
   },
   {
+    "qid": "Q485240",
+    "title": "‘Billboard’ launches",
+    "subtitle": "Website",
+    "year": 1894,
+    "fact": "Billboard is an American music and entertainment magazine published weekly by Penske Media Corporation.",
+    "wikipediaSlug": "Billboard_(magazine)",
+    "image": "Billboard_magazine_16_November_2019_issue_125th_anniversary.png",
+    "pageViews": 39883
+  },
+  {
     "qid": "Q369",
     "title": "‘Wikiquote’ launches",
     "subtitle": "Website",
@@ -648,6 +718,16 @@
     "wikipediaSlug": "Wikiquote",
     "image": "Wikiquote-logo-en.svg",
     "pageViews": 39239
+  },
+  {
+    "qid": "Q180089",
+    "title": "‘The Economist’ launches",
+    "subtitle": "Website",
+    "year": 1843,
+    "fact": "The Economist is a British news and current affairs journal published in a weekly print magazine format and daily on digital platforms.",
+    "wikipediaSlug": "The_Economist",
+    "image": "The_Economist_Logo.svg",
+    "pageViews": 38883
   },
   {
     "qid": "Q17355735",
@@ -688,6 +768,26 @@
     "wikipediaSlug": "Figma",
     "image": "A_newly-created_design_project_on_Figma.png",
     "pageViews": 36560
+  },
+  {
+    "qid": "Q487988",
+    "title": "‘St. Augustine’ launches",
+    "subtitle": "Website",
+    "year": 1565,
+    "fact": "St.",
+    "wikipediaSlug": "St._Augustine,_Florida",
+    "image": "Aerial_view_of_the_Castillo_de_San_Marcos,_St._Augustine,_FL_2025-05-20.jpg",
+    "pageViews": 35102
+  },
+  {
+    "qid": "Q33659",
+    "title": "‘People’ launches",
+    "subtitle": "Website",
+    "year": 1974,
+    "fact": "People is an American weekly magazine that specializes in celebrity news and human-interest stories.",
+    "wikipediaSlug": "People_(magazine)",
+    "image": "People_Magazine_logo.svg",
+    "pageViews": 34871
   },
   {
     "qid": "Q788500",
@@ -740,6 +840,16 @@
     "pageViews": 33783
   },
   {
+    "qid": "Q217305",
+    "title": "‘The New Yorker’ launches",
+    "subtitle": "Website",
+    "year": 1925,
+    "fact": "The New Yorker is an American magazine featuring journalism, commentary, criticism, essays, fiction, satire, cartoons, and poetry.",
+    "wikipediaSlug": "The_New_Yorker",
+    "image": "Original_New_Yorker_cover.png",
+    "pageViews": 33352
+  },
+  {
     "qid": "Q120281745",
     "title": "‘Threads’ launches",
     "subtitle": "Website",
@@ -770,14 +880,14 @@
     "pageViews": 32026
   },
   {
-    "qid": "Q750541",
-    "title": "‘Chatroulette’ launches",
+    "qid": "Q188515",
+    "title": "‘Los Angeles Times’ launches",
     "subtitle": "Website",
-    "year": 2009,
-    "fact": "Chatroulette is an online chat website that pairs random users with a choice between two other users for webcam-based conversations.",
-    "wikipediaSlug": "Chatroulette",
-    "image": "Chatroulette.png",
-    "pageViews": 31144
+    "year": 1881,
+    "fact": "The Los Angeles Times is an American daily newspaper that began publishing in Los Angeles, California, in 1881.",
+    "wikipediaSlug": "Los_Angeles_Times",
+    "image": "Los_Angeles_Times_July_10_2021.png",
+    "pageViews": 31829
   },
   {
     "qid": "Q714491",
@@ -890,6 +1000,16 @@
     "pageViews": 27504
   },
   {
+    "qid": "Q471728",
+    "title": "‘Variety’ launches",
+    "subtitle": "Website",
+    "year": 1905,
+    "fact": "Variety is an American trade magazine owned by Penske Media Corporation.",
+    "wikipediaSlug": "Variety_(magazine)",
+    "image": "Variety_cover.jpg",
+    "pageViews": 27131
+  },
+  {
     "qid": "Q213602",
     "title": "‘Google Street View’ launches",
     "subtitle": "Website",
@@ -908,26 +1028,6 @@
     "wikipediaSlug": "ABC_News_(United_States)",
     "image": "ABC_News_logo_2021.svg",
     "pageViews": 26922
-  },
-  {
-    "qid": "Q1195495",
-    "title": "‘Shazam’ launches",
-    "subtitle": "Website",
-    "year": 1999,
-    "fact": "Shazam is a British application that can identify music based on a short sample played using the microphone on the device.",
-    "wikipediaSlug": "Shazam_(music_app)",
-    "image": "Shazam_interface_05-13-2018.png",
-    "pageViews": 25832
-  },
-  {
-    "qid": "Q135195814",
-    "title": "‘Max’ launches",
-    "subtitle": "Online community",
-    "year": 2025,
-    "fact": "Max is a Russian messenger and e-commerce app released by VK in 2025.",
-    "wikipediaSlug": "Max_(app)",
-    "image": "Логотип_MAX.svg",
-    "pageViews": 24772
   },
   {
     "qid": "Q188413",
@@ -960,6 +1060,16 @@
     "pageViews": 23852
   },
   {
+    "qid": "Q39681",
+    "title": "‘USA Today’ launches",
+    "subtitle": "Website",
+    "year": 1982,
+    "fact": "USA Today is an American daily newspaper and news broadcasting company.",
+    "wikipediaSlug": "USA_Today",
+    "image": "USA-Today-2-February-2017.jpeg",
+    "pageViews": 23632
+  },
+  {
     "qid": "Q117459359",
     "title": "‘BreachForums’ launches",
     "subtitle": "Online community",
@@ -968,16 +1078,6 @@
     "wikipediaSlug": "BreachForums",
     "image": "BreachForums_logo.png",
     "pageViews": 23183
-  },
-  {
-    "qid": "Q30686532",
-    "title": "‘X.com’ launches",
-    "subtitle": "Website",
-    "year": 1999,
-    "fact": "X.com was an American online bank founded by Ed Ho, Harris Fricker, Elon Musk, and Christopher Payne in 1999 in Palo Alto, California.",
-    "wikipediaSlug": "X.com_(bank)",
-    "image": "X.com_logo.svg",
-    "pageViews": 22602
   },
   {
     "qid": "Q504063",
@@ -1000,6 +1100,26 @@
     "pageViews": 22538
   },
   {
+    "qid": "Q61503",
+    "title": "‘The Hollywood Reporter’ launches",
+    "subtitle": "Website",
+    "year": 1930,
+    "fact": "The Hollywood Reporter (THR) is an American digital and print magazine which focuses on the film, television, theatre, and entertainment industries.",
+    "wikipediaSlug": "The_Hollywood_Reporter",
+    "image": "19_May_2021_The_Hollywood_Reporter_Cover.jpg",
+    "pageViews": 22428
+  },
+  {
+    "qid": "Q275837",
+    "title": "‘Sports Illustrated’ launches",
+    "subtitle": "Website",
+    "year": 1954,
+    "fact": "Sports Illustrated (SI) is an American sports magazine first published in August 1954.",
+    "wikipediaSlug": "Sports_Illustrated",
+    "image": "Sportsillustrated_firstissue.jpg",
+    "pageViews": 22300
+  },
+  {
     "qid": "Q110972973",
     "title": "‘Sanctioned Suicide’ launches",
     "subtitle": "Online community",
@@ -1008,16 +1128,6 @@
     "wikipediaSlug": "Sanctioned_Suicide",
     "image": "Sanctioned_Suicide.svg",
     "pageViews": 21512
-  },
-  {
-    "qid": "Q3598926",
-    "title": "‘JD.com’ launches",
-    "subtitle": "Website",
-    "year": 2004,
-    "fact": "JD.com, Inc., also known as Jingdong Group, formerly called 360buy, is a Chinese e-commerce company headquartered in Beijing.",
-    "wikipediaSlug": "JD.com",
-    "image": "Building_1,_JD.com_Headquarters_(20240925134055).jpg",
-    "pageViews": 21142
   },
   {
     "qid": "Q35438",
@@ -1080,14 +1190,14 @@
     "pageViews": 18114
   },
   {
-    "qid": "Q164203",
-    "title": "‘VirusTotal’ launches",
+    "qid": "Q158283",
+    "title": "‘Vanity Fair’ launches",
     "subtitle": "Website",
-    "year": 2004,
-    "fact": "VirusTotal is a website created by the Spanish security company Hispasec Sistemas.",
-    "wikipediaSlug": "VirusTotal",
-    "image": "VirusTotal_Screenshot.jpg",
-    "pageViews": 17381
+    "year": 1913,
+    "fact": "Vanity Fair is an American monthly magazine of popular culture, fashion, and current affairs published by Condé Nast in the United States.",
+    "wikipediaSlug": "Vanity_Fair_(magazine)",
+    "image": "Vanity_Fair_UK_Hollywood_2024-2025_cover.webp",
+    "pageViews": 18040
   },
   {
     "qid": "Q24037520",
@@ -1210,6 +1320,26 @@
     "pageViews": 14897
   },
   {
+    "qid": "Q654606",
+    "title": "‘Harper's Bazaar’ launches",
+    "subtitle": "Website",
+    "year": 1867,
+    "fact": "Harper's Bazaar is an American monthly womens fashion magazine.",
+    "wikipediaSlug": "Harper%27s_Bazaar",
+    "image": "Harper'sBazaarMay2024.jpg",
+    "pageViews": 14889
+  },
+  {
+    "qid": "Q1661219",
+    "title": "‘India Today’ launches",
+    "subtitle": "Website",
+    "year": 1975,
+    "fact": "India Today is a weekly Indian English-language news magazine published by Living Media India Limited.",
+    "wikipediaSlug": "India_Today",
+    "image": "India_Today_logo.png",
+    "pageViews": 14773
+  },
+  {
     "qid": "Q92526",
     "title": "‘Weibo’ launches",
     "subtitle": "Website",
@@ -1240,16 +1370,6 @@
     "pageViews": 14535
   },
   {
-    "qid": "Q22905933",
-    "title": "‘Itch.io’ launches",
-    "subtitle": "Website",
-    "year": 2013,
-    "fact": "itch.io is a website for users to host, sell and download indie video games, indie role-playing games, game assets, comics, zines and music.",
-    "wikipediaSlug": "Itch.io",
-    "image": "Itch.io_homepage_screenshot.png",
-    "pageViews": 14324
-  },
-  {
     "qid": "Q13915",
     "title": "‘Xkcd’ launches",
     "subtitle": "Website",
@@ -1268,6 +1388,16 @@
     "wikipediaSlug": "JSTOR",
     "image": "JSTOR_vector_logo.svg",
     "pageViews": 14204
+  },
+  {
+    "qid": "Q47596",
+    "title": "‘Chicago Tribune’ launches",
+    "subtitle": "Website",
+    "year": 1847,
+    "fact": "The Chicago Tribune is an American daily newspaper based in Chicago, Illinois, United States.",
+    "wikipediaSlug": "Chicago_Tribune",
+    "image": "Front_page_of_the_Chicago_Tribune,_March_27,_2024.png",
+    "pageViews": 14186
   },
   {
     "qid": "Q19831807",
@@ -1370,6 +1500,26 @@
     "pageViews": 13362
   },
   {
+    "qid": "Q371820",
+    "title": "‘Reader's Digest’ launches",
+    "subtitle": "Website",
+    "year": 1922,
+    "fact": "Reader's Digest is an American general-interest family magazine, published six times a year.",
+    "wikipediaSlug": "Reader%27s_Digest",
+    "image": "Readers_Digest_November_2022_cover.jpg",
+    "pageViews": 13279
+  },
+  {
+    "qid": "Q16289",
+    "title": "‘Trentino’ launches",
+    "subtitle": "Website",
+    "year": 1972,
+    "fact": "Trentino, officially the Autonomous Province of Trento, is an autonomous province of Italy in the country's far north.",
+    "wikipediaSlug": "Trentino",
+    "image": "Trentino_in_Italy.svg",
+    "pageViews": 13114
+  },
+  {
     "qid": "Q390216",
     "title": "‘The Sydney Morning Herald’ launches",
     "subtitle": "Website",
@@ -1420,9 +1570,19 @@
     "pageViews": 12229
   },
   {
+    "qid": "Q333644",
+    "title": "‘Cosmopolitan’ launches",
+    "subtitle": "Website",
+    "year": 1886,
+    "fact": "Cosmopolitan is an American quarterly women's fashion and entertainment magazine first published in New York City in March 1886 as a family magazine; it was later transformed into a literary magazine and, since 1965, has become a women's magazine.",
+    "wikipediaSlug": "Cosmopolitan_(magazine)",
+    "image": "US_Cosmopolitan_Fall_2025.png",
+    "pageViews": 12152
+  },
+  {
     "qid": "Q29468697",
     "title": "‘R/place’ launches",
-    "subtitle": "Website",
+    "subtitle": "Online community",
     "year": 2017,
     "fact": "r/place was a recurring collaborative project and social experiment hosted on the content aggregator site Reddit.",
     "wikipediaSlug": "R/place",
@@ -1450,6 +1610,16 @@
     "pageViews": 11758
   },
   {
+    "qid": "Q311249",
+    "title": "‘GQ’ launches",
+    "subtitle": "Website",
+    "year": 1957,
+    "fact": "GQ is an international monthly men's fashion magazine based in New York City and founded in 1931.",
+    "wikipediaSlug": "GQ",
+    "image": "GQ_Logo.svg",
+    "pageViews": 11606
+  },
+  {
     "qid": "Q964",
     "title": "‘Wikinews’ launches",
     "subtitle": "Website",
@@ -1470,6 +1640,16 @@
     "pageViews": 11569
   },
   {
+    "qid": "Q762195",
+    "title": "‘Esquire’ launches",
+    "subtitle": "Website",
+    "year": 1933,
+    "fact": "Esquire is an American men's magazine.",
+    "wikipediaSlug": "Esquire_(magazine)",
+    "image": "Esquire_80th_anniversary_october_2013.png",
+    "pageViews": 11537
+  },
+  {
     "qid": "Q17538813",
     "title": "‘Similarweb’ launches",
     "subtitle": "Website",
@@ -1478,6 +1658,26 @@
     "wikipediaSlug": "Similarweb",
     "image": "Similarweb_Headquarters.jpg",
     "pageViews": 11505
+  },
+  {
+    "qid": "Q278637",
+    "title": "‘Bayerischer Rundfunk’ launches",
+    "subtitle": "Website",
+    "year": 1945,
+    "fact": "Bayerischer Rundfunk, shortened to BR, is a public-service radio and television broadcaster, based in Munich, capital city of the Free State of Bavaria in Germany.",
+    "wikipediaSlug": "Bayerischer_Rundfunk",
+    "image": "Logo_Bayerischer_Rundfunk_2024.svg",
+    "pageViews": 11474
+  },
+  {
+    "qid": "Q372989",
+    "title": "‘Fortune’ launches",
+    "subtitle": "Website",
+    "year": 1929,
+    "fact": "Fortune is an American global business magazine headquartered in New York City.",
+    "wikipediaSlug": "Fortune_(magazine)",
+    "image": "Fortune_magazine_–_June–July_2020_issue.jpg",
+    "pageViews": 11273
   },
   {
     "qid": "Q3233970",
@@ -1490,14 +1690,34 @@
     "pageViews": 11153
   },
   {
-    "qid": "Q135288",
-    "title": "‘Microsoft Store’ launches",
+    "qid": "Q1507987",
+    "title": "‘New York’ launches",
     "subtitle": "Website",
-    "year": 2011,
-    "fact": "The Microsoft Store is a digital distribution platform operated by Microsoft.",
-    "wikipediaSlug": "Microsoft_Store",
-    "image": "Microsoft_Store_logo_dark.svg",
-    "pageViews": 10850
+    "year": 1968,
+    "fact": "New York is an American biweekly magazine.",
+    "wikipediaSlug": "New_York_(magazine)",
+    "image": "Nymag_cover.jpeg",
+    "pageViews": 10915
+  },
+  {
+    "qid": "Q310004",
+    "title": "‘Urban Dictionary’ launches",
+    "subtitle": "Website",
+    "year": 1999,
+    "fact": "Urban Dictionary is a crowdsourced English-language online dictionary for slang words and phrases.",
+    "wikipediaSlug": "Urban_Dictionary",
+    "image": "Urban_Dictionary_(screenshot_of_homepage).png",
+    "pageViews": 10819
+  },
+  {
+    "qid": "Q627827",
+    "title": "‘New York Daily News’ launches",
+    "subtitle": "Website",
+    "year": 1919,
+    "fact": "The Daily News is an American newspaper based in Jersey City, New Jersey.",
+    "wikipediaSlug": "New_York_Daily_News",
+    "image": "New_York_Daily_News_June_24_2021_cover.png",
+    "pageViews": 10812
   },
   {
     "qid": "Q623456",
@@ -1570,6 +1790,16 @@
     "pageViews": 9855
   },
   {
+    "qid": "Q139103",
+    "title": "‘San Francisco Chronicle’ launches",
+    "subtitle": "Website",
+    "year": 1865,
+    "fact": "The San Francisco Chronicle is a newspaper serving primarily the San Francisco Bay Area of Northern California.",
+    "wikipediaSlug": "San_Francisco_Chronicle",
+    "image": "Chronicle-Cover-22April1906.jpg",
+    "pageViews": 9752
+  },
+  {
     "qid": "Q7021239",
     "title": "‘Nextdoor’ launches",
     "subtitle": "Social networking service",
@@ -1590,6 +1820,16 @@
     "pageViews": 9698
   },
   {
+    "qid": "Q40464",
+    "title": "‘Agence France-Presse’ launches",
+    "subtitle": "Website",
+    "year": 1835,
+    "fact": "Agence France-Presse is a French international news agency headquartered in Paris, France.",
+    "wikipediaSlug": "Agence_France-Presse",
+    "image": "Siège_de_l'AFP_13_place_de_la_Bourse_Paris.jpg",
+    "pageViews": 9614
+  },
+  {
     "qid": "Q231396",
     "title": "‘Orkut’ launches",
     "subtitle": "Website",
@@ -1598,16 +1838,6 @@
     "wikipediaSlug": "Orkut",
     "image": "Orkut-sign.png",
     "pageViews": 9534
-  },
-  {
-    "qid": "Q306956",
-    "title": "‘Pixiv’ launches",
-    "subtitle": "Website",
-    "year": 2007,
-    "fact": "Pixiv is a Japanese online community for artists.",
-    "wikipediaSlug": "Pixiv",
-    "image": "Pixiv_logo_(2025).svg",
-    "pageViews": 9456
   },
   {
     "qid": "Q318421",
@@ -1638,16 +1868,6 @@
     "wikipediaSlug": "Bebo",
     "image": "Logo_Bebo.svg",
     "pageViews": 9014
-  },
-  {
-    "qid": "Q631893",
-    "title": "‘The Age’ launches",
-    "subtitle": "Website",
-    "year": 1854,
-    "fact": "The Age is a daily newspaper in Melbourne, Australia, that has been published since 1854.",
-    "wikipediaSlug": "The_Age",
-    "image": "The_Age,_front_cover,_May_11_2020.png",
-    "pageViews": 8706
   },
   {
     "qid": "Q17460",
@@ -1720,6 +1940,16 @@
     "pageViews": 8260
   },
   {
+    "qid": "Q577417",
+    "title": "‘Chicago Sun-Times’ launches",
+    "subtitle": "Website",
+    "year": 1948,
+    "fact": "The Chicago Sun-Times is a daily nonprofit newspaper published in Chicago, Illinois, United States.",
+    "wikipediaSlug": "Chicago_Sun-Times",
+    "image": "Chicago_Sun-Times_(2007-08-08).svg",
+    "pageViews": 8245
+  },
+  {
     "qid": "Q16958215",
     "title": "‘INaturalist’ launches",
     "subtitle": "Website",
@@ -1730,13 +1960,13 @@
     "pageViews": 8213
   },
   {
-    "qid": "Q15958643",
-    "title": "‘Popcorn Time’ launches",
+    "qid": "Q312653",
+    "title": "‘German Press Agency’ launches",
     "subtitle": "Website",
-    "year": 2014,
-    "fact": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.",
-    "wikipediaSlug": "Popcorn_Time",
-    "image": "Popcorn_Time_logo.png",
+    "year": 1949,
+    "fact": "Deutsche Presse-Agentur GmbH is a German news agency founded in 1949.",
+    "wikipediaSlug": "Deutsche_Presse-Agentur",
+    "image": "Dpa_Logo_2021.svg",
     "pageViews": 8197
   },
   {
@@ -1850,6 +2080,16 @@
     "pageViews": 7196
   },
   {
+    "qid": "Q287617",
+    "title": "‘ABS-CBN Corporation’ launches",
+    "subtitle": "Website",
+    "year": 1946,
+    "fact": "ABS-CBN Corporation is a Philippine media company based in Quezon City, Metro Manila, Philippines.",
+    "wikipediaSlug": "ABS-CBN_Corporation",
+    "image": "ABS-CBN_-_ELJCC,_close-up_(South_Triangle,_Quezon_City)(2019-05-27).JPG",
+    "pageViews": 7129
+  },
+  {
     "qid": "Q846596",
     "title": "‘WorldCat’ launches",
     "subtitle": "Website",
@@ -1940,16 +2180,6 @@
     "pageViews": 6477
   },
   {
-    "qid": "Q793981",
-    "title": "‘Electronic Gaming Monthly’ launches",
-    "subtitle": "Website",
-    "year": 1988,
-    "fact": "Electronic Gaming Monthly (EGM) was a monthly American video game magazine.",
-    "wikipediaSlug": "Electronic_Gaming_Monthly",
-    "image": "Egm_cover_new_pub.png",
-    "pageViews": 6454
-  },
-  {
     "qid": "Q18591947",
     "title": "‘Blued’ launches",
     "subtitle": "Social networking service",
@@ -1958,16 +2188,6 @@
     "wikipediaSlug": "Blued_(app)",
     "image": "Blued_Logo_appstore.svg",
     "pageViews": 6436
-  },
-  {
-    "qid": "Q6961180",
-    "title": "‘RationalWiki’ launches",
-    "subtitle": "Website",
-    "year": 2007,
-    "fact": "RationalWiki is an online wiki which is written from a scientific skeptic, secular, and progressive perspective.",
-    "wikipediaSlug": "RationalWiki",
-    "image": "RationalWiki_Main_Page.png",
-    "pageViews": 6412
   },
   {
     "qid": "Q1191246",
@@ -1998,6 +2218,16 @@
     "wikipediaSlug": "OkCupid",
     "image": "OkCupid_logo.svg",
     "pageViews": 5982
+  },
+  {
+    "qid": "Q1135577",
+    "title": "‘Foreign Affairs’ launches",
+    "subtitle": "Website",
+    "year": 1922,
+    "fact": "Foreign Affairs is an American journal of international relations and U.S. foreign policy, published by the Council on Foreign Relations, a nonprofit, nonpartisan, membership organization and think tank specializing in U.S. foreign policy and international affairs.",
+    "wikipediaSlug": "Foreign_Affairs",
+    "image": "Foreign_Affairs_Logo-en.svg",
+    "pageViews": 5912
   },
   {
     "qid": "Q540",
@@ -2120,16 +2350,6 @@
     "pageViews": 5336
   },
   {
-    "qid": "Q612975",
-    "title": "‘MobyGames’ launches",
-    "subtitle": "Website",
-    "year": 1999,
-    "fact": "MobyGames is a commercial database website that catalogs information on video games and the people and companies behind them via crowdsourcing.",
-    "wikipediaSlug": "MobyGames",
-    "image": "MobyGames_Logo.svg",
-    "pageViews": 5315
-  },
-  {
     "qid": "Q1444686",
     "title": "‘Scots Wikipedia’ launches",
     "subtitle": "Website",
@@ -2138,6 +2358,16 @@
     "wikipediaSlug": "Scots_Wikipedia",
     "image": "Wikipedia-logo-v2-sco.svg",
     "pageViews": 5300
+  },
+  {
+    "qid": "Q213097",
+    "title": "‘JTBC’ launches",
+    "subtitle": "Website",
+    "year": 2011,
+    "fact": "JTBC is a South Korean nationwide pay television network.",
+    "wikipediaSlug": "JTBC",
+    "image": "JTBC_logo.svg",
+    "pageViews": 5258
   },
   {
     "qid": "Q117384741",
@@ -2190,16 +2420,6 @@
     "pageViews": 5024
   },
   {
-    "qid": "Q2154085",
-    "title": "‘Codecademy’ launches",
-    "subtitle": "Website",
-    "year": 2011,
-    "fact": "Codecademy is an American online interactive platform that offers free coding classes in 13 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, Lua, and Swift, as well as markup languages HTML and CSS.",
-    "wikipediaSlug": "Codecademy",
-    "image": "Codecademy-home.png",
-    "pageViews": 4938
-  },
-  {
     "qid": "Q13679",
     "title": "‘Wikispecies’ launches",
     "subtitle": "Website",
@@ -2250,6 +2470,16 @@
     "pageViews": 4728
   },
   {
+    "qid": "Q384671",
+    "title": "‘Men's Health’ launches",
+    "subtitle": "Website",
+    "year": 1987,
+    "fact": "Men's Health (MH), published by Hearst, is the world's largest men's magazine brand, with 35 editions in 59 countries; it is the bestselling men's magazine on American newsstands.",
+    "wikipediaSlug": "Men%27s_Health",
+    "image": "Men's_Health_Sept_Cover.jpg",
+    "pageViews": 4654
+  },
+  {
     "qid": "Q16646841",
     "title": "‘The Visual Novel Database’ launches",
     "subtitle": "Online community",
@@ -2258,6 +2488,16 @@
     "wikipediaSlug": "The_Visual_Novel_Database",
     "image": "Screenshot_of_the_vndb.org_site.png",
     "pageViews": 4648
+  },
+  {
+    "qid": "Q851422",
+    "title": "‘China Daily’ launches",
+    "subtitle": "Website",
+    "year": 1981,
+    "fact": "China Daily is an English-language daily newspaper owned by the Central Propaganda Department of the Chinese Communist Party.",
+    "wikipediaSlug": "China_Daily",
+    "image": "China_Daily_headquarters_(20251115112846).jpg",
+    "pageViews": 4646
   },
   {
     "qid": "Q22661177",
@@ -2278,6 +2518,16 @@
     "wikipediaSlug": "Russian_Wikipedia",
     "image": "Wikipedia-logo-v2-ru.svg",
     "pageViews": 4531
+  },
+  {
+    "qid": "Q833195",
+    "title": "‘Bloomberg Businessweek’ launches",
+    "subtitle": "Website",
+    "year": 1929,
+    "fact": "Bloomberg Businessweek, previously known as BusinessWeek, is an American monthly business magazine published 12 times a year.",
+    "wikipediaSlug": "Bloomberg_Businessweek",
+    "image": "Bloomberg_Businessweek_February_15_2021_cover.jpg",
+    "pageViews": 4507
   },
   {
     "qid": "Q65924658",
@@ -2390,24 +2640,24 @@
     "pageViews": 3890
   },
   {
-    "qid": "Q899299",
-    "title": "‘Free Software Foundation Europe’ launches",
+    "qid": "Q7550801",
+    "title": "‘Social Science Research Network’ launches",
     "subtitle": "Website",
-    "year": 2001,
-    "fact": "The Free Software Foundation Europe e.V.",
-    "wikipediaSlug": "Free_Software_Foundation_Europe",
-    "image": "Free_Software_Foundation_Europe,_logo.svg",
-    "pageViews": 3890
+    "year": 1994,
+    "fact": "SSRN is an open access research platform that functions as a repository for sharing early-stage research and preprints.",
+    "wikipediaSlug": "Social_Science_Research_Network",
+    "image": "SSRN_Logo.svg",
+    "pageViews": 3866
   },
   {
-    "qid": "Q693757",
-    "title": "‘GameFAQs’ launches",
+    "qid": "Q849887",
+    "title": "‘TV Guide’ launches",
     "subtitle": "Website",
-    "year": 1995,
-    "fact": "GameFAQs is a video gaming website that hosts guides and other resources, as well as an active message board forum.",
-    "wikipediaSlug": "GameFAQs",
-    "image": "GameFAQs_main_page_screenshot.png",
-    "pageViews": 3856
+    "year": 1953,
+    "fact": "TV Guide is an American biweekly magazine that provides television program listings information as well as television-related news, celebrity interviews and gossip, film reviews, crossword puzzles, and, in some issues, horoscopes.",
+    "wikipediaSlug": "TV_Guide_(magazine)",
+    "image": "TV_Guide_logo_2016.png",
+    "pageViews": 3862
   },
   {
     "qid": "Q170135",
@@ -2470,6 +2720,16 @@
     "pageViews": 3604
   },
   {
+    "qid": "Q1550538",
+    "title": "‘Lithuanian National Radio and Television’ launches",
+    "subtitle": "Website",
+    "year": 1957,
+    "fact": "Lithuanian National Radio and Television is a Lithuanian public service broadcaster that has been providing regular radio services since 1926 and television broadcasts since 1957.",
+    "wikipediaSlug": "Lithuanian_National_Radio_and_Television",
+    "image": "LRT_Logo_2022.svg",
+    "pageViews": 3538
+  },
+  {
     "qid": "Q55637066",
     "title": "‘Vero’ launches",
     "subtitle": "Social networking service",
@@ -2518,6 +2778,16 @@
     "wikipediaSlug": "Geni.com",
     "image": "Geni_Logo.svg",
     "pageViews": 3358
+  },
+  {
+    "qid": "Q1470970",
+    "title": "‘The Journal of the American Medical Association’ launches",
+    "subtitle": "Website",
+    "year": 1883,
+    "fact": "JAMA is a peer-reviewed medical journal published 48 times a year by the American Medical Association.",
+    "wikipediaSlug": "JAMA",
+    "image": "JAMA_Cover_Image.png",
+    "pageViews": 3325
   },
   {
     "qid": "Q1531570",
@@ -2800,16 +3070,6 @@
     "pageViews": 2580
   },
   {
-    "qid": "Q482527",
-    "title": "‘Circle Chart’ launches",
-    "subtitle": "Website",
-    "year": 2010,
-    "fact": "The Circle Chart, previously known as the Gaon Music Chart or the Gaon Chart, tabulates the relative weekly popularity of songs and albums in South Korea.",
-    "wikipediaSlug": "Circle_Chart",
-    "image": "Circle_Chart_logo.png",
-    "pageViews": 2515
-  },
-  {
     "qid": "Q188104",
     "title": "‘PhpMyAdmin’ launches",
     "subtitle": "Website",
@@ -2838,16 +3098,6 @@
     "wikipediaSlug": "Minds_(social_network)",
     "image": "Minds_logo.svg",
     "pageViews": 2379
-  },
-  {
-    "qid": "Q23565",
-    "title": "‘Hessischer Rundfunk’ launches",
-    "subtitle": "Website",
-    "year": 1948,
-    "fact": "Hessischer Rundfunk, shortened to HR, is the German state of Hesse's public broadcasting corporation.",
-    "wikipediaSlug": "Hessischer_Rundfunk",
-    "image": "Ehemaliges_Logo_HR.svg",
-    "pageViews": 2359
   },
   {
     "qid": "Q110063145",
@@ -2890,24 +3140,24 @@
     "pageViews": 2178
   },
   {
-    "qid": "Q2983178",
-    "title": "‘Mod DB’ launches",
-    "subtitle": "Social networking service",
-    "year": 2002,
-    "fact": "Mod DB is a website that focuses on general video game modding.",
-    "wikipediaSlug": "Mod_DB",
-    "image": "Mod_DB_logo.png",
-    "pageViews": 2175
+    "qid": "Q82486",
+    "title": "‘Encyclopedia of Life’ launches",
+    "subtitle": "Website",
+    "year": 2008,
+    "fact": "The Encyclopedia of Life (EOL) is a free, online encyclopedia intended to document all of the 1.9 million living species known to science.",
+    "wikipediaSlug": "Encyclopedia_of_Life",
+    "image": "EOL_logo.svg",
+    "pageViews": 2160
   },
   {
-    "qid": "Q388841",
-    "title": "‘Aftenposten’ launches",
+    "qid": "Q305910",
+    "title": "‘IGoogle’ launches",
     "subtitle": "Website",
-    "year": 1860,
-    "fact": "Aftenposten is Norway's largest printed newspaper by circulation as well as Norway's newspaper of record.",
-    "wikipediaSlug": "Aftenposten",
-    "image": "Aftenpostens_forside_6._februar_2023.png",
-    "pageViews": 2149
+    "year": 2005,
+    "fact": "iGoogle was a customizable Ajax-based start page or personal web portal launched by Google in May 2005.",
+    "wikipediaSlug": "IGoogle",
+    "image": "IGoogle_Logo.png",
+    "pageViews": 2156
   },
   {
     "qid": "Q17985",
@@ -2958,16 +3208,6 @@
     "wikipediaSlug": "Ruwiki_(Wikipedia_fork)",
     "image": "Ruwiki.png",
     "pageViews": 2088
-  },
-  {
-    "qid": "Q106649702",
-    "title": "‘Scholarpedia’ launches",
-    "subtitle": "Website",
-    "year": 2006,
-    "fact": "Scholarpedia is an English-language wiki-based online encyclopedia with features commonly associated with open-access online academic journals, which aims to have quality content in science and medicine.",
-    "wikipediaSlug": "Scholarpedia",
-    "image": "Scholarpedia_logo.png",
-    "pageViews": 2085
   },
   {
     "qid": "Q922063",
@@ -3160,6 +3400,16 @@
     "pageViews": 1778
   },
   {
+    "qid": "Q392934",
+    "title": "‘Agenzia Nazionale Stampa Associata’ launches",
+    "subtitle": "Website",
+    "year": 1945,
+    "fact": "The Agenzia Nazionale Stampa Associata is the leading news agency in Italy.",
+    "wikipediaSlug": "Agenzia_Nazionale_Stampa_Associata",
+    "image": "ANSA_logo.svg",
+    "pageViews": 1774
+  },
+  {
     "qid": "Q18136409",
     "title": "‘Ello’ launches",
     "subtitle": "Social networking service",
@@ -3178,16 +3428,6 @@
     "wikipediaSlug": "Dutch_Wikipedia",
     "image": "Wikipedia-logo-v2-nl.svg",
     "pageViews": 1740
-  },
-  {
-    "qid": "Q284183",
-    "title": "‘De Volkskrant’ launches",
-    "subtitle": "Website",
-    "year": 1919,
-    "fact": "De Volkskrant, stylized as de Volkskrant, is a Dutch daily morning newspaper.",
-    "wikipediaSlug": "De_Volkskrant",
-    "image": "De_Volkskrant_front_page_2010-03-29.png",
-    "pageViews": 1716
   },
   {
     "qid": "Q11921",

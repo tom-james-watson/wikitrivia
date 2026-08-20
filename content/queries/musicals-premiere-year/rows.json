@@ -18,14 +18,21 @@
     "itemLabel": "West Side Story",
     "year": "1957",
     "authorLabel": "Leonard Bernstein",
-    "sitelinks": "42"
+    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q382353",
     "itemLabel": "The Phantom of the Opera",
     "year": "1986",
     "authorLabel": "Andrew Lloyd Webber",
-    "sitelinks": "41"
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19320959",
+    "itemLabel": "Hamilton",
+    "year": "2015",
+    "authorLabel": "Lin-Manuel Miranda",
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q337097",
@@ -33,13 +40,6 @@
     "year": "1981",
     "authorLabel": "Andrew Lloyd Webber",
     "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q19320959",
-    "itemLabel": "Hamilton",
-    "year": "2015",
-    "authorLabel": "Lin-Manuel Miranda",
-    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q830581",
@@ -80,7 +80,14 @@
     "item": "http://www.wikidata.org/entity/Q686861",
     "itemLabel": "Mamma Mia!",
     "year": "1999",
-    "authorLabel": "Benny Andersson",
+    "authorLabel": "Björn Ulvaeus",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q656285",
+    "itemLabel": "Chicago",
+    "year": "1975",
+    "authorLabel": "John Kander",
     "sitelinks": "30"
   },
   {
@@ -89,13 +96,6 @@
     "year": "1956",
     "authorLabel": "Frederick Loewe",
     "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q656285",
-    "itemLabel": "Chicago",
-    "year": "1975",
-    "authorLabel": "John Kander",
-    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q830549",
@@ -140,13 +140,6 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1064850",
-    "itemLabel": "The Book of Mormon",
-    "year": "2011",
-    "authorLabel": "Matt Stone",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1326940",
     "itemLabel": "Sweeney Todd: The Demon Barber of Fleet Street",
     "year": "1979",
@@ -161,10 +154,17 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1064850",
+    "itemLabel": "The Book of Mormon",
+    "year": "2011",
+    "authorLabel": "Matt Stone",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q790583",
     "itemLabel": "Avenue Q",
     "year": "2003",
-    "authorLabel": "Robert Lopez",
+    "authorLabel": "Jeff Marx",
     "sitelinks": "24"
   },
   {
@@ -196,6 +196,20 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q20899421",
+    "itemLabel": "Dear Evan Hansen",
+    "year": "2015",
+    "authorLabel": "Benj Pasek",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1751433",
+    "itemLabel": "The Producers",
+    "year": "2001",
+    "authorLabel": "Mel Brooks",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q539339",
     "itemLabel": "The Rake's Progress",
     "year": "1951",
@@ -203,17 +217,17 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q20899421",
-    "itemLabel": "Dear Evan Hansen",
-    "year": "2015",
-    "authorLabel": "Justin Paul",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q843284",
     "itemLabel": "Chess",
     "year": "1984",
-    "authorLabel": "Benny Andersson",
+    "authorLabel": "Björn Ulvaeus",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q566892",
+    "itemLabel": "Annie",
+    "year": "1977",
+    "authorLabel": "Charles Strouse",
     "sitelinks": "21"
   },
   {
@@ -231,20 +245,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q566892",
-    "itemLabel": "Annie",
-    "year": "1977",
-    "authorLabel": "Charles Strouse",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1146706",
-    "itemLabel": "Nixon in China",
-    "year": "1987",
-    "authorLabel": "John Adams",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2771",
     "itemLabel": "Billy Elliot the Musical",
     "year": "2005",
@@ -252,10 +252,10 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1751433",
-    "itemLabel": "The Producers",
-    "year": "2001",
-    "authorLabel": "Mel Brooks",
+    "item": "http://www.wikidata.org/entity/Q1146706",
+    "itemLabel": "Nixon in China",
+    "year": "1987",
+    "authorLabel": "John Adams",
     "sitelinks": "20"
   },
   {

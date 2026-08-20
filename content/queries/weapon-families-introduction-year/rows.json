@@ -4,24 +4,16 @@
     "itemLabel": "T-34",
     "description": "Soviet medium tank",
     "year": "1940",
-    "manufacturerLabel": "Volgograd Tractor Factory",
-    "sitelinks": "71"
+    "manufacturerLabel": "Chelyabinsk Tractor Plant",
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155644",
     "itemLabel": "Uzi",
     "description": "submachine gun",
     "year": "1954",
-    "manufacturerLabel": "IMI Systems",
-    "sitelinks": "67"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q173684",
-    "itemLabel": "M1 Abrams",
-    "description": "main battle tank family",
-    "year": "1980",
-    "manufacturerLabel": "Joint Systems Manufacturing Center",
-    "sitelinks": "63"
+    "manufacturerLabel": "FN Herstal",
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155658",
@@ -29,30 +21,30 @@
     "description": "Soviet main battle tank",
     "year": "1973",
     "manufacturerLabel": "Uralvagonzavod",
-    "sitelinks": "63"
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q173684",
+    "itemLabel": "M1 Abrams",
+    "description": "main battle tank family",
+    "year": "1980",
+    "manufacturerLabel": "Joint Systems Manufacturing Center",
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151968",
     "itemLabel": "Leopard 2",
     "description": "German main battle tank",
     "year": "1979",
-    "manufacturerLabel": "Maschinenbau Kiel",
+    "manufacturerLabel": "KNDS Deutschland",
     "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q328272",
-    "itemLabel": "T-54/55",
-    "description": "Soviet main battle tank",
-    "year": "1946",
-    "manufacturerLabel": "Malyshev Factory",
-    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191643",
     "itemLabel": "M4 Sherman",
     "description": "1942 medium tank family",
     "year": "1942",
-    "manufacturerLabel": "American Locomotive Company",
+    "manufacturerLabel": "Lima Locomotive Works",
     "sitelinks": "55"
   },
   {
@@ -69,7 +61,7 @@
     "description": "Soviet/Russian multiple launch rocket system",
     "year": "1939",
     "manufacturerLabel": "",
-    "sitelinks": "54"
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q190986",
@@ -80,19 +72,19 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q151960",
-    "itemLabel": "Panther",
-    "description": "German medium tank",
-    "year": "1943",
-    "manufacturerLabel": "MAN SE",
-    "sitelinks": "52"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q12186",
     "itemLabel": "Panzer IV",
     "description": "German WWII medium tank",
     "year": "1939",
     "manufacturerLabel": "Friedrich Krupp AG",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151960",
+    "itemLabel": "Panther",
+    "description": "German medium tank",
+    "year": "1943",
+    "manufacturerLabel": "MAN SE",
     "sitelinks": "52"
   },
   {
@@ -124,7 +116,7 @@
     "itemLabel": "Panzer II",
     "description": "German light tank",
     "year": "1936",
-    "manufacturerLabel": "MAN SE",
+    "manufacturerLabel": "Henschel & Sohn",
     "sitelinks": "47"
   },
   {
@@ -133,6 +125,14 @@
     "description": "armored personnel carrier",
     "year": "1986",
     "manufacturerLabel": "GAZ",
+    "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q135550",
+    "itemLabel": "9×19 mm Parabellum",
+    "description": "pistol cartridge with cal. 9 mm designed by Georg Luger in 1901, standard ammunition for a significant part of pistols on the market today (2023)",
+    "year": "1901",
+    "manufacturerLabel": "",
     "sitelinks": "45"
   },
   {
@@ -148,7 +148,7 @@
     "itemLabel": "Panzer III",
     "description": "German medium tank",
     "year": "1939",
-    "manufacturerLabel": "MAN SE",
+    "manufacturerLabel": "Henschel & Sohn",
     "sitelinks": "44"
   },
   {
@@ -165,6 +165,14 @@
     "description": "family of submachine guns",
     "year": "1941",
     "manufacturerLabel": "Royal Small Arms Factory",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q238456",
+    "itemLabel": "5.56×45mm NATO",
+    "description": "intermediate firearms cartridge",
+    "year": "1959",
+    "manufacturerLabel": "",
     "sitelinks": "44"
   },
   {
@@ -200,14 +208,6 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q462407",
-    "itemLabel": "M113",
-    "description": "US armored personnel carrier",
-    "year": "1960",
-    "manufacturerLabel": "General Motors",
-    "sitelinks": "41"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q235396",
     "itemLabel": "AIM-9 Sidewinder",
     "description": "1952 air-to-air missile family by Raytheon",
@@ -216,19 +216,27 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q462407",
+    "itemLabel": "M113",
+    "description": "US armored personnel carrier",
+    "year": "1960",
+    "manufacturerLabel": "General Motors",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q504320",
     "itemLabel": "Centurion",
     "description": "British main battle tank",
     "year": "1946",
-    "manufacturerLabel": "Royal Ordnance Factory",
+    "manufacturerLabel": "Leyland Motors",
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q159911",
-    "itemLabel": "BTR-60",
-    "description": "Soviet armored personnel carrier",
-    "year": "1959",
-    "manufacturerLabel": "GAZ",
+    "item": "http://www.wikidata.org/entity/Q160327",
+    "itemLabel": "M48 Patton",
+    "description": "main battle tank family",
+    "year": "1953",
+    "manufacturerLabel": "Stellantis North America",
     "sitelinks": "39"
   },
   {
@@ -240,19 +248,19 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160327",
-    "itemLabel": "M48 Patton",
-    "description": "main battle tank family",
-    "year": "1953",
-    "manufacturerLabel": "American Locomotive Company",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q796368",
     "itemLabel": "BMP-3",
     "description": "Soviet infantry fighting vehicle family",
     "year": "1987",
     "manufacturerLabel": "Kurganmashzavod",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159911",
+    "itemLabel": "BTR-60",
+    "description": "Soviet armored personnel carrier",
+    "year": "1959",
+    "manufacturerLabel": "GAZ",
     "sitelinks": "39"
   },
   {
@@ -264,14 +272,6 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152921",
-    "itemLabel": "LT-35",
-    "description": "1935 Czechoslovakian light tank series",
-    "year": "1936",
-    "manufacturerLabel": "Škoda Works",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q739882",
     "itemLabel": "Glock",
     "description": "Brand of polymer-framed semi-automatic pistols",
@@ -280,10 +280,26 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q152921",
+    "itemLabel": "LT-35",
+    "description": "1935 Czechoslovakian light tank series",
+    "year": "1936",
+    "manufacturerLabel": "Škoda Works",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q221641",
     "itemLabel": "R-11 missile family",
     "description": "tactical ballistic missile family",
     "year": "1957",
+    "manufacturerLabel": "",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q222786",
+    "itemLabel": "2S1 Gvozdika",
+    "description": "self-propelled 122 mm howitzer",
+    "year": "1972",
     "manufacturerLabel": "",
     "sitelinks": "39"
   },
@@ -312,20 +328,20 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222786",
-    "itemLabel": "2S1 Gvozdika",
-    "description": "self-propelled 122 mm howitzer",
-    "year": "1972",
-    "manufacturerLabel": "",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q167441",
     "itemLabel": "AMX-30",
     "description": "main battle tank",
     "year": "1966",
     "manufacturerLabel": "",
-    "sitelinks": "37"
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q259210",
+    "itemLabel": "7.62×51mm NATO",
+    "description": "rifle cartridge",
+    "year": "1954",
+    "manufacturerLabel": "",
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167968",
@@ -334,6 +350,22 @@
     "year": "1962",
     "manufacturerLabel": "Nizhny Novgorod",
     "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q741609",
+    "itemLabel": "Chieftain",
+    "description": "main battle tank family",
+    "year": "1966",
+    "manufacturerLabel": "Leyland Motors",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q292553",
+    "itemLabel": "AGM-65 Maverick",
+    "description": "1972 air-to-surface missile family by Hughes",
+    "year": "1972",
+    "manufacturerLabel": "Hughes Aircraft Company",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q747313",
@@ -348,7 +380,7 @@
     "itemLabel": "MILAN",
     "description": "1970s anti-tank missile by Aerospatiale and MBB (later Euromissile)",
     "year": "1972",
-    "manufacturerLabel": "DASA",
+    "manufacturerLabel": "Aérospatiale",
     "sitelinks": "34"
   },
   {
@@ -360,28 +392,20 @@
     "sitelinks": "34"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q222807",
+    "itemLabel": "2S3 Akatsiya",
+    "description": "self-propelled 152 mm gun",
+    "year": "1971",
+    "manufacturerLabel": "Uraltransmash",
+    "sitelinks": "34"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q160366",
     "itemLabel": "M47 Patton",
     "description": "American main battle tank",
     "year": "1952",
     "manufacturerLabel": "Detroit Arsenal Tank Plant",
     "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q741609",
-    "itemLabel": "Chieftain",
-    "description": "main battle tank family",
-    "year": "1966",
-    "manufacturerLabel": "Leyland Motors",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q292553",
-    "itemLabel": "AGM-65 Maverick",
-    "description": "1972 air-to-surface missile family by Hughes",
-    "year": "1972",
-    "manufacturerLabel": "Raytheon",
-    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q292601",
@@ -408,11 +432,11 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222807",
-    "itemLabel": "2S3 Akatsiya",
-    "description": "self-propelled 152 mm gun",
-    "year": "1971",
-    "manufacturerLabel": "Uraltransmash",
+    "item": "http://www.wikidata.org/entity/Q1070186",
+    "itemLabel": "khopesh",
+    "description": "sickle-like sword of the Bronze age",
+    "year": "-1299",
+    "manufacturerLabel": "",
     "sitelinks": "33"
   },
   {
@@ -432,12 +456,12 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1070186",
-    "itemLabel": "khopesh",
-    "description": "sickle-like sword of the Bronze age",
-    "year": "-1299",
-    "manufacturerLabel": "",
-    "sitelinks": "32"
+    "item": "http://www.wikidata.org/entity/Q861662",
+    "itemLabel": "LGM-30 Minuteman",
+    "description": "1961 intercontinental ballistic missile family by Boeing",
+    "year": "1962",
+    "manufacturerLabel": "Boeing",
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157467",
@@ -448,19 +472,11 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q861662",
-    "itemLabel": "LGM-30 Minuteman",
-    "description": "1961 intercontinental ballistic missile family by Boeing",
-    "year": "1962",
-    "manufacturerLabel": "Boeing",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1134419",
     "itemLabel": "T-10",
     "description": "Soviet heavy tank family",
     "year": "1954",
-    "manufacturerLabel": "OKMO",
+    "manufacturerLabel": "Chelyabinsk Tractor Plant",
     "sitelinks": "30"
   },
   {
@@ -472,6 +488,22 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q622299",
+    "itemLabel": "Kliment Voroshilov tank",
+    "description": "family of Soviet heavy tanks",
+    "year": "1939",
+    "manufacturerLabel": "Kirov Plant",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q796336",
+    "itemLabel": "BMD-1",
+    "description": "infantry fighting vehicle",
+    "year": "1969",
+    "manufacturerLabel": "",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q844065",
     "itemLabel": "Comet",
     "description": "medium (cruiser) tank",
@@ -480,11 +512,11 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q622299",
-    "itemLabel": "Kliment Voroshilov tank",
-    "description": "family of Soviet heavy tanks",
-    "year": "1939",
-    "manufacturerLabel": "Kirov Plant",
+    "item": "http://www.wikidata.org/entity/Q3632274",
+    "itemLabel": "BTR-40",
+    "description": "1950s armored personnel carrier family of Soviet origin",
+    "year": "1950",
+    "manufacturerLabel": "GAZ",
     "sitelinks": "29"
   },
   {
@@ -504,12 +536,12 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q796336",
-    "itemLabel": "BMD-1",
-    "description": "infantry fighting vehicle",
+    "item": "http://www.wikidata.org/entity/Q495189",
+    "itemLabel": "M551 Sheridan",
+    "description": "1967 light tank series",
     "year": "1969",
-    "manufacturerLabel": "",
-    "sitelinks": "29"
+    "manufacturerLabel": "General Motors",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q635453",
@@ -520,27 +552,11 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q495189",
-    "itemLabel": "M551 Sheridan",
-    "description": "1967 light tank series",
-    "year": "1969",
-    "manufacturerLabel": "General Motors",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q295405",
     "itemLabel": "AMX-10 RC",
     "description": "1976 armored car family by GIAT",
     "year": "1981",
     "manufacturerLabel": "KNDS France",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3632274",
-    "itemLabel": "BTR-40",
-    "description": "1950s armored personnel carrier family of Soviet origin",
-    "year": "1950",
-    "manufacturerLabel": "GAZ",
     "sitelinks": "28"
   },
   {
@@ -558,6 +574,14 @@
     "year": "1954",
     "manufacturerLabel": "",
     "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q136463",
+    "itemLabel": "ZSU-57-2",
+    "description": "self-propelled anti-aircraft weapon",
+    "year": "1957",
+    "manufacturerLabel": "Omsk",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q859041",
@@ -580,7 +604,7 @@
     "itemLabel": "Aster",
     "description": "European family of vertically launched surface-to-air missiles",
     "year": "2001",
-    "manufacturerLabel": "Eurosam",
+    "manufacturerLabel": "MBDA",
     "sitelinks": "27"
   },
   {
@@ -592,6 +616,14 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q142645",
+    "itemLabel": "Agni",
+    "description": "family of medium to intercontinental range ballistic missiles",
+    "year": "1999",
+    "manufacturerLabel": "Bharat Dynamics Limited",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q730829",
     "itemLabel": "shashka",
     "description": "type of sabre",
@@ -600,43 +632,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136463",
-    "itemLabel": "ZSU-57-2",
-    "description": "self-propelled anti-aircraft weapon",
-    "year": "1957",
-    "manufacturerLabel": "Omsk",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q292456",
     "itemLabel": "AGM-158 JASSM",
     "description": "family of low observable standoff air-launched cruise missiles",
     "year": "2009",
     "manufacturerLabel": "Lockheed Martin",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q294067",
-    "itemLabel": "AK-630",
-    "description": "Soviet and Russian fully automatic naval close-in weapon system",
-    "year": "1976",
-    "manufacturerLabel": "KBP Instrument Design Bureau",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q626810",
-    "itemLabel": "MGM-31 Pershing",
-    "description": "1960 short-range ballistic missile family by Martin Marietta",
-    "year": "1962",
-    "manufacturerLabel": "Martin Marietta",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q177218",
-    "itemLabel": "P-15 Termit",
-    "description": "1960 anti-ship missile family by the Soviet Union",
-    "year": "1960",
-    "manufacturerLabel": "MKB Raduga",
     "sitelinks": "26"
   },
   {
@@ -648,11 +648,27 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q142645",
-    "itemLabel": "Agni",
-    "description": "family of medium to intercontinental range ballistic missiles",
-    "year": "1999",
-    "manufacturerLabel": "Bharat Dynamics Limited",
+    "item": "http://www.wikidata.org/entity/Q626810",
+    "itemLabel": "MGM-31 Pershing",
+    "description": "1960 short-range ballistic missile family by Martin Marietta",
+    "year": "1962",
+    "manufacturerLabel": "Martin Marietta",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q294067",
+    "itemLabel": "AK-630",
+    "description": "Soviet and Russian fully automatic naval close-in weapon system",
+    "year": "1976",
+    "manufacturerLabel": "KBP Instrument Design Bureau",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q177218",
+    "itemLabel": "P-15 Termit",
+    "description": "1960 anti-ship missile family by the Soviet Union",
+    "year": "1960",
+    "manufacturerLabel": "MKB Raduga",
     "sitelinks": "26"
   },
   {
@@ -661,6 +677,14 @@
     "description": "1974 air-to-surface cruise missile family by Boeing",
     "year": "1982",
     "manufacturerLabel": "Boeing",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312465",
+    "itemLabel": "BTR-152",
+    "description": "1950s armored personnel carrier of Soviet origin",
+    "year": "1950",
+    "manufacturerLabel": "Bryansk Automobile Plant",
     "sitelinks": "25"
   },
   {
@@ -688,19 +712,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q312465",
-    "itemLabel": "BTR-152",
-    "description": "1950s armored personnel carrier of Soviet origin",
-    "year": "1950",
-    "manufacturerLabel": "ZiL",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q292404",
     "itemLabel": "Penguin",
     "description": "1972 anti-ship missile family by Kongsberg",
     "year": "1972",
     "manufacturerLabel": "Kongsberg Defence & Aerospace",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q238461",
+    "itemLabel": "FN 5.7×28mm",
+    "description": "Handgun cartridge manufactured by FN Herstal",
+    "year": "1991",
+    "manufacturerLabel": "FN Herstal",
     "sitelinks": "24"
   },
   {
@@ -720,19 +744,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1141594",
-    "itemLabel": "Crotale",
-    "description": "1950s surface-to-air missile system family",
-    "year": "1971",
-    "manufacturerLabel": "Samsung Group",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1471974",
     "itemLabel": "OT-64 SKOT",
     "description": "1960s armored personnel carrier family",
     "year": "1963",
     "manufacturerLabel": "Fabryka Samochodów Ciężarowych",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1141594",
+    "itemLabel": "Crotale",
+    "description": "1950s surface-to-air missile system family",
+    "year": "1971",
+    "manufacturerLabel": "Thales Group",
     "sitelinks": "23"
   },
   {
@@ -808,14 +832,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q715720",
-    "itemLabel": "Commando",
-    "description": "1960s armored fighting vehicle family by Cadillac Gage",
-    "year": "1963",
-    "manufacturerLabel": "Textron Marine & Land Systems",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q553118",
     "itemLabel": "Caracal pistol",
     "description": "series of semi-automatic pistols manufactured by Caracal International L.L.C.",
@@ -824,11 +840,43 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q265123",
-    "itemLabel": "BRDM-1",
-    "description": "1957 armored car series",
-    "year": "1957",
-    "manufacturerLabel": "GAZ",
+    "item": "http://www.wikidata.org/entity/Q3562874",
+    "itemLabel": "Kh-101",
+    "description": "family of air-launched cruise missiles",
+    "year": "2013",
+    "manufacturerLabel": "MKB Raduga",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q715720",
+    "itemLabel": "Commando",
+    "description": "1960s armored fighting vehicle family by Cadillac Gage",
+    "year": "1963",
+    "manufacturerLabel": "Textron Marine & Land Systems",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5153280",
+    "itemLabel": "Common Anti-Air Modular Missile",
+    "description": "family of surface-to-air missiles",
+    "year": "2016",
+    "manufacturerLabel": "MBDA",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q245476",
+    "itemLabel": ".25 ACP",
+    "description": "centerfire pistol cartridge",
+    "year": "1906",
+    "manufacturerLabel": "",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q749399",
+    "itemLabel": "Type 96",
+    "description": "1996 armored personnel carrier by Komatsu",
+    "year": "1995",
+    "manufacturerLabel": "Komatsu Limited",
     "sitelinks": "20"
   },
   {
@@ -840,19 +888,27 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q749399",
-    "itemLabel": "Type 96",
-    "description": "1996 armored personnel carrier by Komatsu",
-    "year": "1995",
-    "manufacturerLabel": "Komatsu Limited",
+    "item": "http://www.wikidata.org/entity/Q265123",
+    "itemLabel": "BRDM-1",
+    "description": "1957 armored car series",
+    "year": "1957",
+    "manufacturerLabel": "GAZ",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5153280",
-    "itemLabel": "Common Anti-Air Modular Missile",
-    "description": "family of surface-to-air missiles",
-    "year": "2016",
-    "manufacturerLabel": "MBDA",
+    "item": "http://www.wikidata.org/entity/Q259237",
+    "itemLabel": "7.65×21mm Parabellum",
+    "description": "cartridge",
+    "year": "1898",
+    "manufacturerLabel": "German Arms and Ammunition Factory",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158700",
+    "itemLabel": ".22 Winchester Magnum Rimfire",
+    "description": "rimfire cartridge",
+    "year": "1959",
+    "manufacturerLabel": "Winchester Repeating Arms Company",
     "sitelinks": "20"
   },
   {
@@ -860,6 +916,14 @@
     "itemLabel": "Sd.Kfz. 234",
     "description": "armored car family",
     "year": "1944",
+    "manufacturerLabel": "",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q259228",
+    "itemLabel": "7.63×25mm Mauser",
+    "description": "pistol cartridge designed by the Deutsche Waffen- und Munitionsfabriken Aktiengesellschaft (DWM)",
+    "year": "1896",
     "manufacturerLabel": "",
     "sitelinks": "20"
   },
@@ -876,15 +940,7 @@
     "itemLabel": "Bofors 40 mm",
     "description": "autocannon family by Bofors",
     "year": "1934",
-    "manufacturerLabel": "BAE Systems AB",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3562874",
-    "itemLabel": "Kh-101",
-    "description": "family of air-launched cruise missiles",
-    "year": "2013",
-    "manufacturerLabel": "MKB Raduga",
+    "manufacturerLabel": "United Defense",
     "sitelinks": "19"
   },
   {
@@ -900,7 +956,7 @@
     "itemLabel": "M47 Dragon",
     "description": "1970s anti-tank missile of American origin",
     "year": "1975",
-    "manufacturerLabel": "Raytheon",
+    "manufacturerLabel": "McDonnell Douglas",
     "sitelinks": "18"
   },
   {
@@ -912,19 +968,19 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2522128",
-    "itemLabel": "Vickers MBT",
-    "description": "main battle tank family",
-    "year": "1965",
-    "manufacturerLabel": "Vickers plc",
-    "sitelinks": "18"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7578232",
     "itemLabel": "SM-65 Atlas",
     "description": "family of American intercontinental ballistic missiles; first operational ICBM",
     "year": "1959",
     "manufacturerLabel": "Convair",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2522128",
+    "itemLabel": "Vickers MBT",
+    "description": "main battle tank family",
+    "year": "1965",
+    "manufacturerLabel": "Vickers plc",
     "sitelinks": "18"
   },
   {
@@ -952,22 +1008,6 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1152952",
-    "itemLabel": "DEFA 550",
-    "description": "30 mm revolver autocannon aircraft armament family",
-    "year": "1954",
-    "manufacturerLabel": "Matra",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q694878",
-    "itemLabel": "3.7 cm Flak 18/36/37/43",
-    "description": "anti-aircraft warfare",
-    "year": "1936",
-    "manufacturerLabel": "Rheinmetall AG",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2209891",
     "itemLabel": "Daimler armoured car",
     "description": "British armoured car family",
@@ -976,11 +1016,27 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1152952",
+    "itemLabel": "DEFA 550",
+    "description": "30 mm revolver autocannon aircraft armament family",
+    "year": "1954",
+    "manufacturerLabel": "Airbus Defence and Space S.A.",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q292421",
     "itemLabel": "AGM-129 ACM",
     "description": "1985 air-to-surface cruise missile family by General Dynamics",
     "year": "1985",
     "manufacturerLabel": "General Dynamics",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q694878",
+    "itemLabel": "3.7 cm Flak 18/36/37/43",
+    "description": "anti-aircraft warfare",
+    "year": "1936",
+    "manufacturerLabel": "Rheinmetall AG",
     "sitelinks": "16"
   },
   {
@@ -1008,18 +1064,18 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1092789",
-    "itemLabel": "schwerer Panzerspähwagen",
-    "description": "German armored car family",
-    "year": "1943",
-    "manufacturerLabel": "",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q685851",
     "itemLabel": "M42 Duster",
     "description": "1950s self-propelled twin 40 mm anti-aircraft gun system",
     "year": "1953",
+    "manufacturerLabel": "",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1092789",
+    "itemLabel": "schwerer Panzerspähwagen",
+    "description": "German armored car family",
+    "year": "1943",
     "manufacturerLabel": "",
     "sitelinks": "16"
   },
@@ -1048,14 +1104,6 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q949963",
-    "itemLabel": "RS-82",
-    "description": "air-launched rocket family",
-    "year": "1938",
-    "manufacturerLabel": "",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q639859",
     "itemLabel": "ROKS flamethrowers",
     "description": "Soviet flamethrowers",
@@ -1064,11 +1112,27 @@
     "sitelinks": "15"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q949963",
+    "itemLabel": "RS-82",
+    "description": "air-launched rocket family",
+    "year": "1938",
+    "manufacturerLabel": "",
+    "sitelinks": "15"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2118209",
     "itemLabel": "Puma",
     "description": "wheeled armored personnel carrier family",
     "year": "2001",
-    "manufacturerLabel": "IVECO S.p.a.",
+    "manufacturerLabel": "Iveco",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q259234",
+    "itemLabel": "7.65×25mm Borchardt",
+    "description": "pistol cartridge designed by Hugo Borchardt",
+    "year": "1893",
+    "manufacturerLabel": "",
     "sitelinks": "14"
   },
   {
@@ -1096,6 +1160,14 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q748803",
+    "itemLabel": "Panhard 178",
+    "description": "French armored car",
+    "year": "1937",
+    "manufacturerLabel": "Panhard",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q315554",
     "itemLabel": "HS.30",
     "description": "infantry fighting vehicle model by Hispano-Suiza",
@@ -1108,15 +1180,7 @@
     "itemLabel": "T-34/85",
     "description": "1944 medium tank",
     "year": "1943",
-    "manufacturerLabel": "Czechoslovak Socialist Republic",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q748803",
-    "itemLabel": "Panhard 178",
-    "description": "French armored car",
-    "year": "1937",
-    "manufacturerLabel": "Panhard",
+    "manufacturerLabel": "Uralvagonzavod",
     "sitelinks": "13"
   },
   {
@@ -1125,6 +1189,14 @@
     "description": "1943 self-propelled 25 pounder gun-howitzer family",
     "year": "1943",
     "manufacturerLabel": "Montreal Locomotive Works",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129699626",
+    "itemLabel": "Palianytsia",
+    "description": "Ukrainian rocket drone",
+    "year": "2024",
+    "manufacturerLabel": "",
     "sitelinks": "13"
   },
   {
@@ -1144,6 +1216,14 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2360866",
+    "itemLabel": "M6 Gun Motor Carriage",
+    "description": "1942 wheeled tank destroyer series by Dodge",
+    "year": "1942",
+    "manufacturerLabel": "Dodge",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1526115",
     "itemLabel": "Breda-SAFAT",
     "description": "machine gun aircraft armament family",
@@ -1160,14 +1240,6 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2360866",
-    "itemLabel": "M6 Gun Motor Carriage",
-    "description": "1942 wheeled tank destroyer series by Dodge",
-    "year": "1942",
-    "manufacturerLabel": "Dodge",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q259308",
     "itemLabel": "QF 6-pounder Hotchkiss",
     "description": "French naval/tank/coastal defence artillery",
@@ -1176,20 +1248,12 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q129699626",
-    "itemLabel": "Palianytsia",
-    "description": "Ukrainian rocket drone",
-    "year": "2024",
+    "item": "http://www.wikidata.org/entity/Q158698",
+    "itemLabel": ".22 Hornet",
+    "description": "centerfire rifle cartridge",
+    "year": "1930",
     "manufacturerLabel": "",
     "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1880843",
-    "itemLabel": "M114 Command and Reconnaissance Carrier",
-    "description": "1960s tracked reconnaissance vehicle by Cadillac",
-    "year": "1962",
-    "manufacturerLabel": "General Motors",
-    "sitelinks": "11"
   },
   {
     "item": "http://www.wikidata.org/entity/Q297151",
@@ -1200,19 +1264,35 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q485649",
-    "itemLabel": "Korea Infantry Fighting Vehicle",
-    "description": "1986 armored combat vehicle family by Hanwha Defense",
-    "year": "1986",
-    "manufacturerLabel": "Daewoo",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1507550",
     "itemLabel": "M75",
     "description": "1950s armored personnel carrier of American origin",
     "year": "1952",
     "manufacturerLabel": "International Harvester",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1514068",
+    "itemLabel": "Metel Anti-Ship Complex",
+    "description": "family of anti-submarine missiles and warheads",
+    "year": "1969",
+    "manufacturerLabel": "NPO Mashinostroyeniya",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1880843",
+    "itemLabel": "M114 Command and Reconnaissance Carrier",
+    "description": "1960s tracked reconnaissance vehicle by Cadillac",
+    "year": "1962",
+    "manufacturerLabel": "General Motors",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q485649",
+    "itemLabel": "Korea Infantry Fighting Vehicle",
+    "description": "1986 armored combat vehicle family by Hanwha Defense",
+    "year": "1986",
+    "manufacturerLabel": "Daewoo",
     "sitelinks": "11"
   },
   {
@@ -1232,11 +1312,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1514068",
-    "itemLabel": "Metel Anti-Ship Complex",
-    "description": "family of anti-submarine missiles and warheads",
-    "year": "1969",
-    "manufacturerLabel": "NPO Mashinostroyeniya",
+    "item": "http://www.wikidata.org/entity/Q96246407",
+    "itemLabel": "6.8x51 mm",
+    "description": "centerfire rifle cartridge",
+    "year": "2019",
+    "manufacturerLabel": "SIG Sauer",
     "sitelinks": "10"
   },
   {
@@ -1256,19 +1336,19 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8067062",
-    "itemLabel": "Zastava M77",
-    "description": "type of battle rifle",
-    "year": "1977",
-    "manufacturerLabel": "Zastava Arms",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q6457151",
     "itemLabel": "LAV-300",
     "description": "1980s armored vehicle family by Cadillac Gage",
     "year": "1979",
     "manufacturerLabel": "Textron Marine & Land Systems",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8067062",
+    "itemLabel": "Zastava M77",
+    "description": "type of battle rifle",
+    "year": "1977",
+    "manufacturerLabel": "Zastava Arms",
     "sitelinks": "8"
   },
   {
@@ -1312,18 +1392,18 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q15991101",
+    "itemLabel": "SIG M400",
+    "description": "family of firearms by SIG Sauer",
+    "year": "2010",
+    "manufacturerLabel": "SIG Sauer",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q616683",
     "itemLabel": "D-944 PSZH",
     "description": "Hungarian armored personnel carrier family",
     "year": "1960",
-    "manufacturerLabel": "",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3841193",
-    "itemLabel": "M992 Field Artillery Ammunition Supply Vehicle",
-    "description": "military vehicle",
-    "year": "1982",
     "manufacturerLabel": "",
     "sitelinks": "6"
   },
@@ -1336,12 +1416,12 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15991101",
-    "itemLabel": "SIG M400",
-    "description": "family of firearms by SIG Sauer",
-    "year": "2010",
-    "manufacturerLabel": "SIG Sauer",
-    "sitelinks": "5"
+    "item": "http://www.wikidata.org/entity/Q3841193",
+    "itemLabel": "M992 Field Artillery Ammunition Supply Vehicle",
+    "description": "military vehicle",
+    "year": "1982",
+    "manufacturerLabel": "",
+    "sitelinks": "6"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4028492",
@@ -1352,10 +1432,10 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1438238",
-    "itemLabel": "QF 4.7 inch Mk I–IV gun",
-    "description": "British quick-firing naval/coastal defence artiillery",
-    "year": "1887",
+    "item": "http://www.wikidata.org/entity/Q6127111",
+    "itemLabel": "jam tin grenade",
+    "description": "Australian improvised hand grenade",
+    "year": "1915",
     "manufacturerLabel": "",
     "sitelinks": "5"
   },
@@ -1364,6 +1444,14 @@
     "itemLabel": "BL 10 inch/32",
     "description": "1885 naval gun by the United Kingdom",
     "year": "1885",
+    "manufacturerLabel": "",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1438238",
+    "itemLabel": "QF 4.7 inch Mk I–IV gun",
+    "description": "British quick-firing naval/coastal defence artiillery",
+    "year": "1887",
     "manufacturerLabel": "",
     "sitelinks": "5"
   },
@@ -1388,14 +1476,6 @@
     "itemLabel": "8\"/55 caliber gun",
     "description": "naval artillery gun",
     "year": "1925",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6127111",
-    "itemLabel": "jam tin grenade",
-    "description": "Australian improvised hand grenade",
-    "year": "1915",
     "manufacturerLabel": "",
     "sitelinks": "5"
   }

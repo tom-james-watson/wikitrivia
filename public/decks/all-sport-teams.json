@@ -60,16 +60,6 @@
     "pageViews": 288138
   },
   {
-    "qid": "Q9616",
-    "title": "Chelsea F.C. is founded",
-    "subtitle": "Football club",
-    "year": 1905,
-    "fact": "Chelsea Football Club is an English professional football club based in Fulham, West London, England.",
-    "wikipediaSlug": "Chelsea_F.C.",
-    "image": "Chelsea_FC.svg",
-    "pageViews": 286687
-  },
-  {
     "qid": "Q1130849",
     "title": "Liverpool F.C. is founded",
     "subtitle": "Football club",
@@ -88,6 +78,16 @@
     "wikipediaSlug": "FC_Bayern_Munich",
     "image": "FC_Bayern_München_logo_(2024).svg",
     "pageViews": 200964
+  },
+  {
+    "qid": "Q19453",
+    "title": "Brighton & Hove Albion F.C. is founded",
+    "subtitle": "Football club",
+    "year": 1901,
+    "fact": "Brighton & Hove Albion Football Club, commonly referred to as Brighton, is a professional football club based in Brighton and Hove, East Sussex, England.",
+    "wikipediaSlug": "Brighton_%26_Hove_Albion_F.C.",
+    "image": "Brighton_and_Hove_Albion_FC_crest.svg",
+    "pageViews": 175559
   },
   {
     "qid": "Q8701",
@@ -168,6 +168,16 @@
     "wikipediaSlug": "West_Ham_United_F.C.",
     "image": "West_Ham_United_FC_logo.svg",
     "pageViews": 131623
+  },
+  {
+    "qid": "Q19444",
+    "title": "Birmingham City F.C. is founded",
+    "subtitle": "Football club",
+    "year": 1875,
+    "fact": "Birmingham City Football Club is a professional football club based in Bordesley, Birmingham, England.",
+    "wikipediaSlug": "Birmingham_City_F.C.",
+    "image": "Birmingham_City_FC_logo.svg",
+    "pageViews": 130528
   },
   {
     "qid": "Q1543",
@@ -700,6 +710,16 @@
     "pageViews": 65856
   },
   {
+    "qid": "Q2714",
+    "title": "Watford F.C. is founded",
+    "subtitle": "Football club",
+    "year": 1881,
+    "fact": "Watford Football Club is a professional football club based in Watford, Hertfordshire, England.",
+    "wikipediaSlug": "Watford_F.C.",
+    "image": "Watford.svg",
+    "pageViews": 63768
+  },
+  {
     "qid": "Q131364",
     "title": "New York Knicks is founded",
     "subtitle": "NBA franchise",
@@ -738,6 +758,16 @@
     "wikipediaSlug": "Las_Vegas_Raiders",
     "image": "Las_Vegas_Raiders_logo.svg",
     "pageViews": 62106
+  },
+  {
+    "qid": "Q131926583",
+    "title": "Oakland Athletics is founded",
+    "subtitle": "MLB franchise",
+    "year": 1968,
+    "fact": "The Oakland Athletics were an American Major League Baseball (MLB) team based in Oakland, California, from 1968 to 2024.",
+    "wikipediaSlug": "Oakland_Athletics",
+    "image": "Oakland_A's_logo.svg",
+    "pageViews": 62032
   },
   {
     "qid": "Q320484",
@@ -1930,16 +1960,6 @@
     "pageViews": 32071
   },
   {
-    "qid": "Q102720",
-    "title": "Hertha BSC is founded",
-    "subtitle": "Football club",
-    "year": 1892,
-    "fact": "Hertha, Berliner Sport-Club e.",
-    "wikipediaSlug": "Hertha_BSC",
-    "image": "Hertha_BSC_Logo_2012.svg",
-    "pageViews": 31967
-  },
-  {
     "qid": "Q1900",
     "title": "Cagliari Calcio is founded",
     "subtitle": "Football club",
@@ -2550,6 +2570,16 @@
     "pageViews": 6698
   },
   {
+    "qid": "Q959847",
+    "title": "Crusaders is founded",
+    "subtitle": "Rugby club",
+    "year": 1996,
+    "fact": "The Crusaders are a New Zealand professional rugby union team based in Christchurch, who compete in the Super Rugby competition.",
+    "wikipediaSlug": "Crusaders_(rugby_union)",
+    "image": "Crusaders_(rugby_union)_logo.png",
+    "pageViews": 6582
+  },
+  {
     "qid": "Q12654411",
     "title": "FK Kauno Žalgiris is founded",
     "subtitle": "Football club",
@@ -2708,26 +2738,6 @@
     "wikipediaSlug": "FK_Banga_Garg%C5%BEdai",
     "image": "FK_Banga_Gargzdai.png",
     "pageViews": 3921
-  },
-  {
-    "qid": "Q16478096",
-    "title": "FA Šiauliai is founded",
-    "subtitle": "Football club",
-    "year": 2007,
-    "fact": "Football Academy of Šiauliai or FA Šiauliai is a Lithuanian football academy from the city of Šiauliai.",
-    "wikipediaSlug": "FA_%C5%A0iauliai",
-    "image": "FA_Šiauliai_logo.png",
-    "pageViews": 3894
-  },
-  {
-    "qid": "Q12654311",
-    "title": "FC Džiugas is founded",
-    "subtitle": "Football club",
-    "year": 2014,
-    "fact": "Football Club Džiugas Telšiai, commonly known as Džiugas Telšiai, or simply as Džiugas, is a Lithuanian association football club based in Telšiai, that competes in the TOPLYGA, top tier of Lithuanian football.",
-    "wikipediaSlug": "FC_D%C5%BEiugas_Tel%C5%A1iai",
-    "image": "Dziugas.png",
-    "pageViews": 3875
   },
   {
     "qid": "Q171326",

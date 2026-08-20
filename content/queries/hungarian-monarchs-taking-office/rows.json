@@ -13,7 +13,7 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1848",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130834",
@@ -32,6 +32,14 @@
     "sitelinks": "83"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "year": "1711",
+    "sitelinks": "79"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q150611",
     "itemLabel": "Ferdinand I, Holy Roman Emperor",
     "positionLabel": "Apostolic King of Hungary",
@@ -40,12 +48,12 @@
     "sitelinks": "78"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150665",
-    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "item": "http://www.wikidata.org/entity/Q150494",
+    "itemLabel": "Leopold I, Holy Roman Emperor",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
-    "year": "1711",
-    "sitelinks": "77"
+    "year": "1657",
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57124",
@@ -56,11 +64,11 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150494",
-    "itemLabel": "Leopold I, Holy Roman Emperor",
+    "item": "http://www.wikidata.org/entity/Q177903",
+    "itemLabel": "Stephen I of Hungary",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
-    "year": "1657",
+    "year": "1000",
     "sitelinks": "72"
   },
   {
@@ -93,14 +101,6 @@
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1790",
-    "sitelinks": "71"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q177903",
-    "itemLabel": "Stephen I of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "male",
-    "year": "1000",
     "sitelinks": "71"
   },
   {
@@ -224,19 +224,19 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q154412",
-    "itemLabel": "Mary I of Hungary",
-    "positionLabel": "Apostolic King of Hungary",
-    "sexLabel": "female",
-    "year": "1382",
-    "sitelinks": "48"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q155599",
     "itemLabel": "Vladislaus II of Bohemia and Hungary",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "year": "1490",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154412",
+    "itemLabel": "Mary I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "female",
+    "year": "1382",
     "sitelinks": "48"
   },
   {

@@ -3,31 +3,31 @@
     "item": "http://www.wikidata.org/entity/Q21204",
     "itemLabel": "International Phonetic Alphabet",
     "year": "1888",
-    "sitelinks": "189"
+    "sitelinks": "190"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8209",
     "itemLabel": "Cyrillic script",
     "year": "870",
-    "sitelinks": "184"
+    "sitelinks": "186"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8216",
     "itemLabel": "Greek alphabet",
     "year": "-900",
-    "sitelinks": "172"
+    "sitelinks": "173"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8201",
     "itemLabel": "Chinese characters",
     "year": "-1250",
-    "sitelinks": "144"
+    "sitelinks": "146"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8229",
     "itemLabel": "Latin script",
     "year": "-700",
-    "sitelinks": "143"
+    "sitelinks": "144"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8222",
@@ -39,7 +39,7 @@
     "item": "http://www.wikidata.org/entity/Q38592",
     "itemLabel": "Devanagari",
     "year": "1100",
-    "sitelinks": "133"
+    "sitelinks": "134"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33513",
@@ -54,16 +54,16 @@
     "sitelinks": "112"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q48332",
+    "itemLabel": "hiragana",
+    "year": "800",
+    "sitelinks": "106"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q79897",
     "itemLabel": "Morse code",
     "year": "1836",
     "sitelinks": "106"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q48332",
-    "itemLabel": "hiragana",
-    "year": "800",
-    "sitelinks": "105"
   },
   {
     "item": "http://www.wikidata.org/entity/Q401",
@@ -75,7 +75,7 @@
     "item": "http://www.wikidata.org/entity/Q82946",
     "itemLabel": "katakana",
     "year": "800",
-    "sitelinks": "97"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132659",
@@ -117,19 +117,25 @@
     "item": "http://www.wikidata.org/entity/Q485619",
     "itemLabel": "Hanja",
     "year": "-400",
-    "sitelinks": "78"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185083",
     "itemLabel": "Brahmi",
     "year": "-300",
-    "sitelinks": "78"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178528",
     "itemLabel": "traditional Chinese characters",
     "year": "500",
-    "sitelinks": "75"
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1828555",
+    "itemLabel": "Arabic script",
+    "year": "400",
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q187659",
@@ -138,22 +144,16 @@
     "sitelinks": "72"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1828555",
-    "itemLabel": "Arabic script",
-    "year": "400",
-    "sitelinks": "71"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q46861",
-    "itemLabel": "Tibetan alphabet",
+    "itemLabel": "Tibetan script",
     "year": "650",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q145625",
     "itemLabel": "Glagolitic",
     "year": "862",
-    "sitelinks": "65"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26978",
@@ -198,15 +198,15 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q188519",
-    "itemLabel": "Egyptian Demotic",
-    "year": "-649",
-    "sitelinks": "55"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q190102",
     "itemLabel": "Linear B",
     "year": "-1449",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188519",
+    "itemLabel": "Egyptian Demotic",
+    "year": "-649",
     "sitelinks": "55"
   },
   {
@@ -240,6 +240,12 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q467784",
+    "itemLabel": "Gothic script",
+    "year": "350",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q257634",
     "itemLabel": "Geʽez script",
     "year": "100",
@@ -258,12 +264,6 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q467784",
-    "itemLabel": "Gothic script",
-    "year": "350",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q211248",
     "itemLabel": "Mayan hieroglyphs",
     "year": "-300",
@@ -273,7 +273,13 @@
     "item": "http://www.wikidata.org/entity/Q756802",
     "itemLabel": "Bangla alphabet",
     "year": "1100",
-    "sitelinks": "49"
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q601388",
+    "itemLabel": "Indus script",
+    "year": "-2799",
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1337",
@@ -285,12 +291,6 @@
     "item": "http://www.wikidata.org/entity/Q5058305",
     "itemLabel": "Old Turkic script",
     "year": "600",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q601388",
-    "itemLabel": "Indus script",
-    "year": "-2799",
     "sitelinks": "46"
   },
   {
@@ -312,6 +312,12 @@
     "sitelinks": "44"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7476695",
+    "itemLabel": "oracle bone script",
+    "year": "-1499",
+    "sitelinks": "42"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1161266",
     "itemLabel": "Kharoṣṭhī",
     "year": "-400",
@@ -327,7 +333,7 @@
     "item": "http://www.wikidata.org/entity/Q839666",
     "itemLabel": "Kannada script",
     "year": "1300",
-    "sitelinks": "41"
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q622712",
@@ -342,9 +348,9 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7476695",
-    "itemLabel": "oracle bone script",
-    "year": "-1499",
+    "item": "http://www.wikidata.org/entity/Q570450",
+    "itemLabel": "Telugu script",
+    "year": "1300",
     "sitelinks": "40"
   },
   {
@@ -352,6 +358,12 @@
     "itemLabel": "Khmer script",
     "year": "611",
     "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1062587",
+    "itemLabel": "N’ko",
+    "year": "1949",
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q473725",
@@ -366,21 +378,15 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1760127",
-    "itemLabel": "Odia",
-    "year": "1400",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q570450",
-    "itemLabel": "Telugu script",
-    "year": "1300",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q26549",
     "itemLabel": "Cherokee syllabary",
     "year": "1821",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1760127",
+    "itemLabel": "Odia",
+    "year": "1400",
     "sitelinks": "39"
   },
   {
@@ -388,12 +394,6 @@
     "itemLabel": "man'yōgana",
     "year": "700",
     "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1062587",
-    "itemLabel": "N’ko",
-    "year": "1949",
-    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q446224",
@@ -405,6 +405,18 @@
     "item": "http://www.wikidata.org/entity/Q812124",
     "itemLabel": "Baybayin",
     "year": "1400",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q733944",
+    "itemLabel": "Gujarati",
+    "year": "1592",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q332652",
+    "itemLabel": "Ugaritic alphabet",
+    "year": "-1399",
     "sitelinks": "38"
   },
   {
@@ -420,33 +432,9 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q733944",
-    "itemLabel": "Gujarati",
-    "year": "1592",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1815229",
     "itemLabel": "Lao",
     "year": "1350",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1998938",
-    "itemLabel": "Old Uyghur alphabet",
-    "year": "700",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1574992",
-    "itemLabel": "Sinhala script",
-    "year": "300",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q332652",
-    "itemLabel": "Ugaritic alphabet",
-    "year": "-1399",
     "sitelinks": "37"
   },
   {
@@ -456,15 +444,27 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q653123",
-    "itemLabel": "Arial",
-    "year": "1982",
-    "sitelinks": "36"
+    "item": "http://www.wikidata.org/entity/Q1574992",
+    "itemLabel": "Sinhala script",
+    "year": "300",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1998938",
+    "itemLabel": "Old Uyghur alphabet",
+    "year": "700",
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q504745",
     "itemLabel": "Helvetica",
     "year": "1957",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q653123",
+    "itemLabel": "Arial",
+    "year": "1982",
     "sitelinks": "36"
   },
   {
@@ -474,16 +474,10 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1992659",
-    "itemLabel": "Gupta",
-    "year": "400",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q250379",
     "itemLabel": "Siddhaṃ",
     "year": "600",
-    "sitelinks": "34"
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q879704",
@@ -492,10 +486,22 @@
     "sitelinks": "34"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1992659",
+    "itemLabel": "Gupta",
+    "year": "400",
+    "sitelinks": "34"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1268261",
     "itemLabel": "Royal Thai General System of Transcription",
     "year": "1932",
     "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q147899",
+    "itemLabel": "Old Permic alphabet",
+    "year": "1372",
+    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q804984",
@@ -516,9 +522,9 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q147899",
-    "itemLabel": "Old Permic alphabet",
-    "year": "1372",
+    "item": "http://www.wikidata.org/entity/Q614484",
+    "itemLabel": "X-SAMPA",
+    "year": "1995",
     "sitelinks": "31"
   },
   {
@@ -528,21 +534,33 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q614484",
-    "itemLabel": "X-SAMPA",
-    "year": "1995",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q822836",
     "itemLabel": "ʼPhags-pa",
     "year": "1249",
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1208842",
+    "itemLabel": "seal script",
+    "year": "-1099",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q975802",
+    "itemLabel": "Kawi script",
+    "year": "800",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1055887",
     "itemLabel": "shinjitai",
     "year": "1949",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1119274",
+    "itemLabel": "Grantha",
+    "year": "600",
     "sitelinks": "30"
   },
   {
@@ -564,36 +582,6 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q975802",
-    "itemLabel": "Kawi script",
-    "year": "800",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1208842",
-    "itemLabel": "seal script",
-    "year": "-1099",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1119274",
-    "itemLabel": "Grantha",
-    "year": "600",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q855624",
-    "itemLabel": "Nabataean script",
-    "year": "-100",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1074947",
-    "itemLabel": "Lontara",
-    "year": "1700",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q148443",
     "itemLabel": "Fraktur",
     "year": "1600",
@@ -603,19 +591,31 @@
     "item": "http://www.wikidata.org/entity/Q440608",
     "itemLabel": "Paleo-Hebrew alphabet",
     "year": "-1000",
-    "sitelinks": "28"
+    "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16948181",
-    "itemLabel": "Noto fonts",
-    "year": "2012",
-    "sitelinks": "27"
+    "item": "http://www.wikidata.org/entity/Q855624",
+    "itemLabel": "Nabataean script",
+    "year": "-100",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1253814",
     "itemLabel": "Kaithi",
     "year": "1600",
-    "sitelinks": "27"
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1074947",
+    "itemLabel": "Lontara",
+    "year": "1700",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q442244",
+    "itemLabel": "Early Cyrillic alphabet",
+    "year": "893",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q794182",
@@ -630,9 +630,27 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q442244",
-    "itemLabel": "Early Cyrillic alphabet",
-    "year": "893",
+    "item": "http://www.wikidata.org/entity/Q16948181",
+    "itemLabel": "Noto fonts",
+    "year": "2012",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q609817",
+    "itemLabel": "Blissymbols",
+    "year": "1949",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q966893",
+    "itemLabel": "Cretan hieroglyphs",
+    "year": "-2099",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1765752",
+    "itemLabel": "Tirhuta",
+    "year": "1300",
     "sitelinks": "26"
   },
   {
@@ -640,6 +658,12 @@
     "itemLabel": "Verdana",
     "year": "1996",
     "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1073960",
+    "itemLabel": "clerical script",
+    "year": "207",
+    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2385276",
@@ -654,27 +678,9 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1073960",
-    "itemLabel": "clerical script",
-    "year": "207",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q255886",
-    "itemLabel": "Gill Sans",
-    "year": "1928",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q700739",
     "itemLabel": "Tongyong Pinyin",
     "year": "1999",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q966893",
-    "itemLabel": "Cretan hieroglyphs",
-    "year": "-2099",
     "sitelinks": "25"
   },
   {
@@ -684,27 +690,21 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q255886",
+    "itemLabel": "Gill Sans",
+    "year": "1928",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q122888",
     "itemLabel": "Manchu alphabet",
     "year": "1599",
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1765752",
-    "itemLabel": "Tirhuta",
-    "year": "1300",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1509215",
     "itemLabel": "Nāgarī",
     "year": "100",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q609817",
-    "itemLabel": "Blissymbols",
-    "year": "1949",
     "sitelinks": "24"
   },
   {
@@ -726,15 +726,15 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1197646",
-    "itemLabel": "Yi script",
-    "year": "1974",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q578359",
     "itemLabel": "Sogdian",
     "year": "100",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1197646",
+    "itemLabel": "Yi script",
+    "year": "1974",
     "sitelinks": "23"
   },
   {
@@ -744,15 +744,27 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q613977",
-    "itemLabel": "Yañalif",
-    "year": "1928",
+    "item": "http://www.wikidata.org/entity/Q246110",
+    "itemLabel": "Garamond",
+    "year": "1530",
     "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q246937",
     "itemLabel": "Calibri",
     "year": "2002",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q915886",
+    "itemLabel": "Frutiger",
+    "year": "1975",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q613977",
+    "itemLabel": "Yañalif",
+    "year": "1928",
     "sitelinks": "23"
   },
   {
@@ -780,22 +792,16 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q246110",
-    "itemLabel": "Garamond",
-    "year": "1530",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q915886",
-    "itemLabel": "Frutiger",
-    "year": "1975",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q910757",
     "itemLabel": "Tahoma",
     "year": "1994",
     "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1377866",
+    "itemLabel": "Osmanya",
+    "year": "1921",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q529085",
@@ -810,27 +816,15 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1377866",
-    "itemLabel": "Osmanya",
-    "year": "1921",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1183463",
-    "itemLabel": "DejaVu fonts",
-    "year": "2004",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1751985",
     "itemLabel": "Cypro-Minoan script",
     "year": "-1549",
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q247686",
-    "itemLabel": "Futura",
-    "year": "1927",
+    "item": "http://www.wikidata.org/entity/Q1992000",
+    "itemLabel": "Vatteluttu",
+    "year": "400",
     "sitelinks": "21"
   },
   {
@@ -852,21 +846,33 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1065602",
+    "itemLabel": "Kaktovik numerals",
+    "year": "1994",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q247686",
+    "itemLabel": "Futura",
+    "year": "1927",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q652510",
+    "itemLabel": "Belarusian Arabic alphabet",
+    "year": "1600",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1183463",
+    "itemLabel": "DejaVu fonts",
+    "year": "2004",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1200582",
     "itemLabel": "Deseret alphabet",
     "year": "1854",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1970098",
-    "itemLabel": "Shavian alphabet",
-    "year": "1960",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1992000",
-    "itemLabel": "Vatteluttu",
-    "year": "400",
     "sitelinks": "20"
   },
   {
@@ -882,9 +888,9 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3544702",
-    "itemLabel": "Manichaean",
-    "year": "300",
+    "item": "http://www.wikidata.org/entity/Q521323",
+    "itemLabel": "Anatolian Hieroglyphs",
+    "year": "-1999",
     "sitelinks": "20"
   },
   {
@@ -894,15 +900,21 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q521323",
-    "itemLabel": "Anatolian Hieroglyphs",
-    "year": "-1999",
+    "item": "http://www.wikidata.org/entity/Q3544702",
+    "itemLabel": "Manichaean",
+    "year": "300",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q652510",
-    "itemLabel": "Belarusian Arabic alphabet",
-    "year": "1600",
+    "item": "http://www.wikidata.org/entity/Q1970098",
+    "itemLabel": "Shavian alphabet",
+    "year": "1960",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111633441",
+    "itemLabel": "Yale romanization",
+    "year": "2000",
     "sitelinks": "20"
   },
   {
@@ -915,12 +927,6 @@
     "item": "http://www.wikidata.org/entity/Q1093499",
     "itemLabel": "Palatino",
     "year": "1948",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q111633441",
-    "itemLabel": "Yale romanization",
-    "year": "2000",
     "sitelinks": "20"
   }
 ]

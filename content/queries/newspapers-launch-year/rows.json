@@ -3,7 +3,7 @@
     "item": "http://www.wikidata.org/entity/Q11148",
     "itemLabel": "The Guardian",
     "year": "1821",
-    "sitelinks": "110"
+    "sitelinks": "111"
   },
   {
     "item": "http://www.wikidata.org/entity/Q166032",
@@ -27,7 +27,7 @@
     "item": "http://www.wikidata.org/entity/Q192621",
     "itemLabel": "The Daily Telegraph",
     "year": "1855",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216047",
@@ -51,18 +51,18 @@
     "item": "http://www.wikidata.org/entity/Q47596",
     "itemLabel": "Chicago Tribune",
     "year": "1847",
-    "sitelinks": "56"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q61503",
-    "itemLabel": "The Hollywood Reporter",
-    "year": "1930",
-    "sitelinks": "54"
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q54340",
     "itemLabel": "People's Daily",
     "year": "1948",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61503",
+    "itemLabel": "The Hollywood Reporter",
+    "year": "1930",
     "sitelinks": "54"
   },
   {
@@ -93,12 +93,12 @@
     "item": "http://www.wikidata.org/entity/Q926175",
     "itemLabel": "The Hindu",
     "year": "1878",
-    "sitelinks": "43"
+    "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q336197",
-    "itemLabel": "The Observer",
-    "year": "1791",
+    "item": "http://www.wikidata.org/entity/Q309135",
+    "itemLabel": "Corriere della Sera",
+    "year": "1876",
     "sitelinks": "43"
   },
   {
@@ -108,9 +108,9 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q309135",
-    "itemLabel": "Corriere della Sera",
-    "year": "1876",
+    "item": "http://www.wikidata.org/entity/Q336197",
+    "itemLabel": "The Observer",
+    "year": "1791",
     "sitelinks": "43"
   },
   {
@@ -156,16 +156,16 @@
     "sitelinks": "37"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q170135",
+    "itemLabel": "Novaya Gazeta",
+    "year": "1993",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q746112",
     "itemLabel": "L'Osservatore Romano",
     "year": "1861",
     "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q170135",
-    "itemLabel": "Novaya Gazeta",
-    "year": "1993",
-    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3109740",
@@ -180,12 +180,6 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q160167",
-    "itemLabel": "Der Stürmer",
-    "year": "1923",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q390216",
     "itemLabel": "The Sydney Morning Herald",
     "year": "1831",
@@ -196,6 +190,18 @@
     "itemLabel": "Zaman",
     "year": "1986",
     "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160167",
+    "itemLabel": "Der Stürmer",
+    "year": "1923",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1134208",
+    "itemLabel": "The Irish Times",
+    "year": "1859",
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q858121",
@@ -210,33 +216,27 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q627827",
+    "itemLabel": "New York Daily News",
+    "year": "1919",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q815527",
     "itemLabel": "Jyllands-Posten",
     "year": "1871",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q627827",
-    "itemLabel": "New York Daily News",
-    "year": "1919",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1134208",
-    "itemLabel": "The Irish Times",
-    "year": "1859",
-    "sitelinks": "32"
+    "item": "http://www.wikidata.org/entity/Q494170",
+    "itemLabel": "The Washington Times",
+    "year": "1982",
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q876158",
     "itemLabel": "The Village Voice",
     "year": "1955",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q494170",
-    "itemLabel": "The Washington Times",
-    "year": "1982",
     "sitelinks": "31"
   },
   {
@@ -252,6 +252,12 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q678095",
+    "itemLabel": "Paris Match",
+    "year": "1949",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1202611",
     "itemLabel": "The Moscow Times",
     "year": "1992",
@@ -262,24 +268,6 @@
     "itemLabel": "Granma",
     "year": "1965",
     "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q666494",
-    "itemLabel": "Evening Standard",
-    "year": "1827",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q326068",
-    "itemLabel": "Frankfurter Rundschau",
-    "year": "1945",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q483924",
-    "itemLabel": "The Chosun Ilbo",
-    "year": "1920",
-    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q284947",
@@ -294,10 +282,28 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q678095",
-    "itemLabel": "Paris Match",
-    "year": "1949",
+    "item": "http://www.wikidata.org/entity/Q483924",
+    "itemLabel": "The Chosun Ilbo",
+    "year": "1920",
     "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q666494",
+    "itemLabel": "Evening Standard",
+    "year": "1827",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q326068",
+    "itemLabel": "Frankfurter Rundschau",
+    "year": "1945",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1199207",
+    "itemLabel": "The New Zealand Herald",
+    "year": "1863",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q741296",
@@ -318,27 +324,15 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1199207",
-    "itemLabel": "The New Zealand Herald",
-    "year": "1863",
-    "sitelinks": "28"
+    "item": "http://www.wikidata.org/entity/Q284183",
+    "itemLabel": "De Volkskrant",
+    "year": "1919",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q856192",
     "itemLabel": "The Illustrated London News",
     "year": "1842",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q366921",
-    "itemLabel": "Helsingin Sanomat",
-    "year": "1904",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q284183",
-    "itemLabel": "De Volkskrant",
-    "year": "1919",
     "sitelinks": "27"
   },
   {
@@ -348,10 +342,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q678086",
-    "itemLabel": "The New York Times International Edition",
-    "year": "2013",
-    "sitelinks": "26"
+    "item": "http://www.wikidata.org/entity/Q366921",
+    "itemLabel": "Helsingin Sanomat",
+    "year": "1904",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q486950",
@@ -366,6 +360,18 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q678086",
+    "itemLabel": "The New York Times International Edition",
+    "year": "2013",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q568226",
+    "itemLabel": "Milliyet",
+    "year": "1950",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q631893",
     "itemLabel": "The Age",
     "year": "1854",
@@ -375,12 +381,6 @@
     "item": "http://www.wikidata.org/entity/Q806491",
     "itemLabel": "Bangkok Post",
     "year": "1946",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q568226",
-    "itemLabel": "Milliyet",
-    "year": "1950",
     "sitelinks": "25"
   },
   {
@@ -402,9 +402,39 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7739683",
+    "itemLabel": "The Hill",
+    "year": "1994",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q690672",
+    "itemLabel": "Le Soir",
+    "year": "1887",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q721837",
+    "itemLabel": "Diario Frontera",
+    "year": "1978",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1261176",
+    "itemLabel": "Oslobođenje",
+    "year": "1943",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q221718",
     "itemLabel": "The Seattle Times",
     "year": "1891",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1658254",
+    "itemLabel": "Il Popolo d'Italia",
+    "year": "1914",
     "sitelinks": "24"
   },
   {
@@ -420,30 +450,6 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q690672",
-    "itemLabel": "Le Soir",
-    "year": "1887",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q721837",
-    "itemLabel": "Diario Frontera",
-    "year": "1978",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1658254",
-    "itemLabel": "Il Popolo d'Italia",
-    "year": "1914",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1261176",
-    "itemLabel": "Oslobođenje",
-    "year": "1943",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q562824",
     "itemLabel": "The Korea Herald",
     "year": "1953",
@@ -453,12 +459,6 @@
     "item": "http://www.wikidata.org/entity/Q983247",
     "itemLabel": "New-York Tribune",
     "year": "1841",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7739683",
-    "itemLabel": "The Hill",
-    "year": "1994",
     "sitelinks": "23"
   },
   {
@@ -480,15 +480,15 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q770596",
-    "itemLabel": "L'Express",
-    "year": "1953",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1706651",
     "itemLabel": "Miami Herald",
     "year": "1903",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1865276",
+    "itemLabel": "Literaturnaya gazeta",
+    "year": "1929",
     "sitelinks": "22"
   },
   {
@@ -504,12 +504,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q946366",
-    "itemLabel": "Nezavisimaya Gazeta",
-    "year": "1990",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1318465",
     "itemLabel": "Dainik Jagran",
     "year": "1942",
@@ -522,27 +516,15 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q660769",
-    "itemLabel": "Ouest-France",
-    "year": "1944",
-    "sitelinks": "20"
+    "item": "http://www.wikidata.org/entity/Q946366",
+    "itemLabel": "Nezavisimaya Gazeta",
+    "year": "1990",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q923193",
     "itemLabel": "Les Échos",
     "year": "1908",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q35638",
-    "itemLabel": "El Periódico",
-    "year": "1978",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q924673",
-    "itemLabel": "New York Herald",
-    "year": "1835",
     "sitelinks": "20"
   },
   {
@@ -552,9 +534,15 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1062623",
-    "itemLabel": "Moskovskij Komsomolets",
-    "year": "1919",
+    "item": "http://www.wikidata.org/entity/Q35638",
+    "itemLabel": "El Periódico",
+    "year": "1978",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1180325",
+    "itemLabel": "De Standaard",
+    "year": "1918",
     "sitelinks": "20"
   },
   {
@@ -570,9 +558,27 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q924673",
+    "itemLabel": "New York Herald",
+    "year": "1835",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1983260",
     "itemLabel": "The Sun",
     "year": "1833",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1062623",
+    "itemLabel": "Moskovskij Komsomolets",
+    "year": "1919",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q660769",
+    "itemLabel": "Ouest-France",
+    "year": "1944",
     "sitelinks": "20"
   },
   {

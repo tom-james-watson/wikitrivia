@@ -10,6 +10,16 @@
     "pageViews": 165467
   },
   {
+    "qid": "Q187702",
+    "title": "Church of the Holy Sepulchre is built",
+    "subtitle": "Church in Jerusalem, containing the two holiest sites in Christianity",
+    "year": 335,
+    "fact": "The Church of the Holy Sepulchre, also known as the Church of the Resurrection, is a fourth-century church in the Christian Quarter of the Old City of Jerusalem.",
+    "wikipediaSlug": "Church_of_the_Holy_Sepulchre",
+    "image": "Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_(cropped).jpg",
+    "pageViews": 156712
+  },
+  {
     "qid": "Q39671",
     "title": "Stonehenge is built",
     "subtitle": "Neolithic henge monument in Amesbury, Wiltshire, England, UK",
@@ -108,16 +118,6 @@
     "wikipediaSlug": "Ur",
     "image": "Urimki_inscription.jpg",
     "pageViews": 46128
-  },
-  {
-    "qid": "Q43018",
-    "title": "Temple of Ephesian Artemis is built",
-    "subtitle": "Temple in Ephesus, one of the Seven Wonders of the Ancient World",
-    "year": -322,
-    "fact": "The Temple of Artemis or Artemision, also known as the Temple of Diana, was a Greek temple dedicated to a localised form of the goddess Artemis.",
-    "wikipediaSlug": "Temple_of_Artemis",
-    "image": "Miniaturk_009.jpg",
-    "pageViews": 43002
   },
   {
     "qid": "Q208379",
@@ -280,6 +280,16 @@
     "pageViews": 13959
   },
   {
+    "qid": "Q208811",
+    "title": "Panathenaic Stadium is built",
+    "subtitle": "Stadium in Athens, Greece",
+    "year": -328,
+    "fact": "The Panathenaic Stadium or Kallimarmaro is a multi-purpose stadium in Athens, Greece.",
+    "wikipediaSlug": "Panathenaic_Stadium",
+    "image": "Panathenaic_Stadium_-_panoramio_(1).jpg",
+    "pageViews": 13464
+  },
+  {
     "qid": "Q770847",
     "title": "Mausoleum of Augustus is built",
     "subtitle": "Building in Campo Marzio, Italy",
@@ -358,6 +368,16 @@
     "wikipediaSlug": "Edessa",
     "image": "N-Mesopotamia_and_Syria.svg",
     "pageViews": 10568
+  },
+  {
+    "qid": "Q133575",
+    "title": "Cave of Altamira is built",
+    "subtitle": "Cave with prehistoric paintings in Spain",
+    "year": -13000,
+    "fact": "The Cave of Altamira is a cave complex, located near the historic town of Santillana del Mar in Cantabria, Spain.",
+    "wikipediaSlug": "Cave_of_Altamira",
+    "image": "9_Bisonte_Magdaleniense_polícromo.jpg",
+    "pageViews": 10173
   },
   {
     "qid": "Q753383",
@@ -600,16 +620,6 @@
     "pageViews": 6234
   },
   {
-    "qid": "Q739415",
-    "title": "Great Mosque of Gaza is built",
-    "subtitle": "Mosque in Gaza City, Palestine",
-    "year": 401,
-    "fact": "The Great Mosque of Gaza, also known as the Great Omari Mosque, is a mosque in a ruinous state, located in Gaza City, in the State of Palestine.",
-    "wikipediaSlug": "Great_Mosque_of_Gaza",
-    "image": "المسجد_العمري_الكبير_في_غزة_بعد_القصف_والدمار.jpg",
-    "pageViews": 6019
-  },
-  {
     "qid": "Q1133288",
     "title": "Temple of Caesar is built",
     "subtitle": "Building in Roman Forum, Italy",
@@ -712,7 +722,7 @@
   {
     "qid": "Q115253",
     "title": "Takht-e Soleyman is completed",
-    "subtitle": "Archaeological site in West Azarbaijan, Iranian national heritage site",
+    "subtitle": "Archaeological site in Takab County, Iranian national heritage site",
     "year": -500,
     "fact": "Takht-e Soleymān, is an archaeological site in West Azerbaijan, Iran dating back to the Sasanian Empire.",
     "wikipediaSlug": "Takht-e_Soleym%C4%81n",
@@ -780,16 +790,6 @@
     "pageViews": 2829
   },
   {
-    "qid": "Q596988",
-    "title": "Temple of Aphaea is built",
-    "subtitle": "Ancient Greek temple on Aigina",
-    "year": -499,
-    "fact": "The Temple of Aphaia is an Ancient Greek temple located within a sanctuary complex dedicated to the goddess Aphaia on the island of Aegina, which lies in the Saronic Gulf.",
-    "wikipediaSlug": "Temple_of_Aphaia",
-    "image": "Aegina_-_Temple_of_Aphaia_03.jpg",
-    "pageViews": 2549
-  },
-  {
     "qid": "Q617550",
     "title": "Apamea is founded",
     "subtitle": "Ancient city in Al-Suqaylabiyah, Syria",
@@ -808,16 +808,6 @@
     "wikipediaSlug": "Sicyon",
     "image": "Sikyon,_Greece_(23187324446).jpg",
     "pageViews": 2272
-  },
-  {
-    "qid": "Q633572",
-    "title": "Temple of Hera, Olympia is built",
-    "subtitle": "Temple in Greece",
-    "year": -600,
-    "fact": "The Temple of Hera, or Heraion, is an ancient Archaic Greek temple at Olympia, Greece, that was dedicated to Hera, queen of the Greek gods.",
-    "wikipediaSlug": "Temple_of_Hera,_Olympia",
-    "image": "Olympia_-_Temple_of_Hera_3.jpg",
-    "pageViews": 2187
   },
   {
     "qid": "Q6564498",
@@ -860,14 +850,14 @@
     "pageViews": 1790
   },
   {
-    "qid": "Q683988",
-    "title": "Old Temple of Athena is built",
-    "subtitle": "Ancient temple on the Athenian Acropolis",
-    "year": -499,
-    "fact": "The Old Temple of Athena or the Archaios Neos was an archaic Greek limestone Doric temple on the Acropolis of Athens probably built in the second half of the sixth-century BCE, and which housed the xoanon of Athena Polias.",
-    "wikipediaSlug": "Old_Temple_of_Athena",
-    "image": "Athena-athena-polias.jpg",
-    "pageViews": 1643
+    "qid": "Q733610",
+    "title": "Erebuni Fortress is built",
+    "subtitle": "Fortress",
+    "year": -781,
+    "fact": "Erebuni Fortress is an Urartian fortified city, located in Yerevan, Armenia.",
+    "wikipediaSlug": "Erebuni_Fortress",
+    "image": "Erebuni_Fortress,_Yerevan,_Armenia_01.jpg",
+    "pageViews": 1710
   },
   {
     "qid": "Q810080",
@@ -928,5 +918,15 @@
     "wikipediaSlug": "Monastery_of_the_Cross",
     "image": "MonasteryOfTheCrossNov15_2022_03.jpg",
     "pageViews": 1126
+  },
+  {
+    "qid": "Q3497343",
+    "title": "Falak-ol-Aflak is completed",
+    "subtitle": "Castle in Khorramabad, Iranian national heritage site",
+    "year": 300,
+    "fact": "Falak ol-Aflak or Shapur Khast Castle is a castle situated on the top of a large hill with the same name within the city of Khorramabad, the regional capital of Lorestan province, Iran.",
+    "wikipediaSlug": "Falak-ol-Aflak",
+    "image": "Falakolaflak.jpg",
+    "pageViews": 1108
   }
 ]

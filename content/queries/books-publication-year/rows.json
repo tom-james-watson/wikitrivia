@@ -4,6 +4,13 @@
     "itemLabel": "The Little Prince",
     "year": "1943",
     "authorLabel": "Antoine de Saint-Exupéry",
+    "sitelinks": "150"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15228",
+    "itemLabel": "The Lord of the Rings",
+    "year": "1954",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "148"
   },
   {
@@ -19,13 +26,6 @@
     "year": "1615",
     "authorLabel": "Miguel de Cervantes",
     "sitelinks": "147"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15228",
-    "itemLabel": "The Lord of the Rings",
-    "year": "1954",
-    "authorLabel": "J. R. R. Tolkien",
-    "sitelinks": "144"
   },
   {
     "item": "http://www.wikidata.org/entity/Q208460",
@@ -53,7 +53,14 @@
     "itemLabel": "Crime and Punishment",
     "year": "1866",
     "authorLabel": "Fyodor Dostoyevsky",
-    "sitelinks": "107"
+    "sitelinks": "108"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165318",
+    "itemLabel": "Crime and Punishment",
+    "year": "1886",
+    "authorLabel": "Fyodor Dostoyevsky",
+    "sitelinks": "108"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43361",
@@ -77,17 +84,17 @@
     "sitelinks": "99"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q47209",
-    "itemLabel": "Harry Potter and the Chamber of Secrets",
-    "year": "1998",
-    "authorLabel": "J. K. Rowling",
-    "sitelinks": "97"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q483034",
     "itemLabel": "Robinson Crusoe",
     "year": "1719",
     "authorLabel": "Daniel Defoe",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47209",
+    "itemLabel": "Harry Potter and the Chamber of Secrets",
+    "year": "1998",
+    "authorLabel": "J. K. Rowling",
     "sitelinks": "97"
   },
   {
@@ -101,6 +108,13 @@
     "item": "http://www.wikidata.org/entity/Q47598",
     "itemLabel": "Harry Potter and the Prisoner of Azkaban",
     "year": "1999",
+    "authorLabel": "J. K. Rowling",
+    "sitelinks": "92"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80817",
+    "itemLabel": "Harry Potter and the Order of the Phoenix",
+    "year": "2003",
     "authorLabel": "J. K. Rowling",
     "sitelinks": "92"
   },
@@ -122,13 +136,6 @@
     "item": "http://www.wikidata.org/entity/Q46751",
     "itemLabel": "Harry Potter and the Goblet of Fire",
     "year": "2000",
-    "authorLabel": "J. K. Rowling",
-    "sitelinks": "90"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80817",
-    "itemLabel": "Harry Potter and the Order of the Phoenix",
-    "year": "2003",
     "authorLabel": "J. K. Rowling",
     "sitelinks": "90"
   },
@@ -168,6 +175,13 @@
     "sitelinks": "85"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q181488",
+    "itemLabel": "Gulliver's Travels",
+    "year": "1726",
+    "authorLabel": "Jonathan Swift",
+    "sitelinks": "85"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q81689",
     "itemLabel": "The Da Vinci Code",
     "year": "2003",
@@ -175,17 +189,10 @@
     "sitelinks": "85"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q214371",
-    "itemLabel": "The Great Gatsby",
-    "year": "1925",
-    "authorLabel": "F. Scott Fitzgerald",
-    "sitelinks": "84"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q181488",
-    "itemLabel": "Gulliver's Travels",
-    "year": "1726",
-    "authorLabel": "Jonathan Swift",
+    "item": "http://www.wikidata.org/entity/Q184222",
+    "itemLabel": "The Metamorphosis",
+    "year": "1915",
+    "authorLabel": "Franz Kafka",
     "sitelinks": "84"
   },
   {
@@ -196,25 +203,18 @@
     "sitelinks": "84"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q45735",
-    "itemLabel": "Charlotte's Web",
-    "year": "1952",
-    "authorLabel": "E. B. White",
-    "sitelinks": "83"
+    "item": "http://www.wikidata.org/entity/Q8065468",
+    "itemLabel": "The Adventures of Pinocchio",
+    "year": "1883",
+    "authorLabel": "Carlo Collodi",
+    "sitelinks": "84"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6511",
-    "itemLabel": "Ulysses",
-    "year": "1922",
-    "authorLabel": "James Joyce",
-    "sitelinks": "83"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q184222",
-    "itemLabel": "The Metamorphosis",
-    "year": "1915",
-    "authorLabel": "Franz Kafka",
-    "sitelinks": "83"
+    "item": "http://www.wikidata.org/entity/Q214371",
+    "itemLabel": "The Great Gatsby",
+    "year": "1925",
+    "authorLabel": "F. Scott Fitzgerald",
+    "sitelinks": "84"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183883",
@@ -231,18 +231,18 @@
     "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q8065468",
-    "itemLabel": "The Adventures of Pinocchio",
-    "year": "1883",
-    "authorLabel": "Carlo Collodi",
-    "sitelinks": "82"
+    "item": "http://www.wikidata.org/entity/Q45735",
+    "itemLabel": "Charlotte's Web",
+    "year": "1952",
+    "authorLabel": "E. B. White",
+    "sitelinks": "83"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1219561",
-    "itemLabel": "Around the World in Eighty Days",
-    "year": "1872",
-    "authorLabel": "Jules Verne",
-    "sitelinks": "79"
+    "item": "http://www.wikidata.org/entity/Q6511",
+    "itemLabel": "Ulysses",
+    "year": "1922",
+    "authorLabel": "James Joyce",
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q199774",
@@ -259,11 +259,25 @@
     "sitelinks": "79"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1219561",
+    "itemLabel": "Around the World in Eighty Days",
+    "year": "1872",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "79"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q70784",
     "itemLabel": "Journey to the West",
     "year": "1592",
     "authorLabel": "Wu Cheng'en",
     "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183565",
+    "itemLabel": "Twenty Thousand Leagues Under the Sea",
+    "year": "1869",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q190192",
@@ -273,17 +287,17 @@
     "sitelinks": "77"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q326914",
-    "itemLabel": "The Adventures of Tom Sawyer",
-    "year": "1876",
-    "authorLabel": "Mark Twain",
-    "sitelinks": "76"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q127149",
     "itemLabel": "Lolita",
     "year": "1955",
     "authorLabel": "Vladimir Nabokov",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q326914",
+    "itemLabel": "The Adventures of Tom Sawyer",
+    "year": "1876",
+    "authorLabel": "Mark Twain",
     "sitelinks": "76"
   },
   {
@@ -294,18 +308,11 @@
     "sitelinks": "75"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q183565",
-    "itemLabel": "Twenty Thousand Leagues Under the Sea",
-    "year": "1869",
-    "authorLabel": "Jules Verne",
+    "item": "http://www.wikidata.org/entity/Q185427",
+    "itemLabel": "The Song of Roland",
+    "year": "1100",
+    "authorLabel": "Turold",
     "sitelinks": "74"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q36097",
-    "itemLabel": "The Trial",
-    "year": "1925",
-    "authorLabel": "Franz Kafka",
-    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191949",
@@ -315,10 +322,10 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q185427",
-    "itemLabel": "The Song of Roland",
-    "year": "1100",
-    "authorLabel": "Turold",
+    "item": "http://www.wikidata.org/entity/Q36097",
+    "itemLabel": "The Trial",
+    "year": "1925",
+    "authorLabel": "Franz Kafka",
     "sitelinks": "73"
   },
   {
@@ -343,6 +350,13 @@
     "sitelinks": "69"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q189811",
+    "itemLabel": "David Copperfield",
+    "year": "1850",
+    "authorLabel": "Charles Dickens",
+    "sitelinks": "68"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q212340",
     "itemLabel": "To Kill a Mockingbird",
     "year": "1960",
@@ -350,24 +364,17 @@
     "sitelinks": "68"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202009",
-    "itemLabel": "Fahrenheit 451",
-    "year": "1953",
-    "authorLabel": "Ray Bradbury",
-    "sitelinks": "67"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q189811",
-    "itemLabel": "David Copperfield",
-    "year": "1850",
-    "authorLabel": "Charles Dickens",
-    "sitelinks": "67"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q130295",
     "itemLabel": "The Wonderful Wizard of Oz",
     "year": "1900",
     "authorLabel": "L. Frank Baum",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202009",
+    "itemLabel": "Fahrenheit 451",
+    "year": "1953",
+    "authorLabel": "Ray Bradbury",
     "sitelinks": "67"
   },
   {
@@ -378,17 +385,24 @@
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q213019",
-    "itemLabel": "The War of the Worlds",
-    "year": "1897",
-    "authorLabel": "H. G. Wells",
-    "sitelinks": "65"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q172850",
     "itemLabel": "The Name of the Rose",
     "year": "1980",
     "authorLabel": "Umberto Eco",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q215894",
+    "itemLabel": "Candide",
+    "year": "1759",
+    "authorLabel": "Voltaire",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213019",
+    "itemLabel": "The War of the Worlds",
+    "year": "1897",
+    "authorLabel": "H. G. Wells",
     "sitelinks": "65"
   },
   {
@@ -399,18 +413,11 @@
     "sitelinks": "64"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q215894",
-    "itemLabel": "Candide",
-    "year": "1759",
-    "authorLabel": "Voltaire",
-    "sitelinks": "64"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q151883",
-    "itemLabel": "The Sorrows of Young Werther",
-    "year": "1774",
-    "authorLabel": "Johann Wolfgang von Goethe",
-    "sitelinks": "64"
+    "item": "http://www.wikidata.org/entity/Q182502",
+    "itemLabel": "Angels & Demons",
+    "year": "2000",
+    "authorLabel": "Dan Brown",
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q45192",
@@ -420,10 +427,10 @@
     "sitelinks": "63"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182502",
-    "itemLabel": "Angels & Demons",
-    "year": "2000",
-    "authorLabel": "Dan Brown",
+    "item": "http://www.wikidata.org/entity/Q208002",
+    "itemLabel": "The Fellowship of the Ring",
+    "year": "1954",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "63"
   },
   {
@@ -434,17 +441,17 @@
     "sitelinks": "62"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q208002",
-    "itemLabel": "The Fellowship of the Ring",
-    "year": "1954",
-    "authorLabel": "J. R. R. Tolkien",
-    "sitelinks": "62"
+    "item": "http://www.wikidata.org/entity/Q189378",
+    "itemLabel": "Twilight",
+    "year": "2005",
+    "authorLabel": "Stephenie Meyer",
+    "sitelinks": "61"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q271764",
-    "itemLabel": "Lord of the Flies",
-    "year": "1954",
-    "authorLabel": "William Golding",
+    "item": "http://www.wikidata.org/entity/Q223131",
+    "itemLabel": "A Study in Scarlet",
+    "year": "1887",
+    "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "61"
   },
   {
@@ -455,17 +462,17 @@
     "sitelinks": "61"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q189378",
-    "itemLabel": "Twilight",
-    "year": "2005",
-    "authorLabel": "Stephenie Meyer",
+    "item": "http://www.wikidata.org/entity/Q271764",
+    "itemLabel": "Lord of the Flies",
+    "year": "1954",
+    "authorLabel": "William Golding",
     "sitelinks": "61"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q647379",
-    "itemLabel": "Dead Souls",
-    "year": "1842",
-    "authorLabel": "Nikolai Gogol",
+    "item": "http://www.wikidata.org/entity/Q70827",
+    "itemLabel": "Water Margin",
+    "year": "1400",
+    "authorLabel": "Shi Nai'an",
     "sitelinks": "60"
   },
   {
@@ -476,24 +483,31 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q223131",
-    "itemLabel": "A Study in Scarlet",
-    "year": "1887",
-    "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "59"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q70827",
-    "itemLabel": "Water Margin",
-    "year": "1400",
-    "authorLabel": "Shi Nai'an",
-    "sitelinks": "59"
+    "item": "http://www.wikidata.org/entity/Q647379",
+    "itemLabel": "Dead Souls",
+    "year": "1842",
+    "authorLabel": "Nikolai Gogol",
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q457289",
     "itemLabel": "Siddhartha",
     "year": "1922",
     "authorLabel": "Hermann Hesse",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q217073",
+    "itemLabel": "Steppenwolf",
+    "year": "1927",
+    "authorLabel": "Hermann Hesse",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q332388",
+    "itemLabel": "The Two Towers",
+    "year": "1954",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "58"
   },
   {
@@ -511,20 +525,6 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q332388",
-    "itemLabel": "The Two Towers",
-    "year": "1954",
-    "authorLabel": "J. R. R. Tolkien",
-    "sitelinks": "57"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q217073",
-    "itemLabel": "Steppenwolf",
-    "year": "1927",
-    "authorLabel": "Hermann Hesse",
-    "sitelinks": "57"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q917055",
     "itemLabel": "The Unbearable Lightness of Being",
     "year": "1984",
@@ -537,6 +537,13 @@
     "year": "1811",
     "authorLabel": "Jane Austen",
     "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q194424",
+    "itemLabel": "Fantastic Beasts and Where to Find Them",
+    "year": "2001",
+    "authorLabel": "J. K. Rowling",
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11678",
@@ -553,11 +560,11 @@
     "sitelinks": "55"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q194424",
-    "itemLabel": "Fantastic Beasts and Where to Find Them",
-    "year": "2001",
+    "item": "http://www.wikidata.org/entity/Q165068",
+    "itemLabel": "The Tales of Beedle the Bard",
+    "year": "2008",
     "authorLabel": "J. K. Rowling",
-    "sitelinks": "55"
+    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q499396",
@@ -567,17 +574,17 @@
     "sitelinks": "54"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q165068",
-    "itemLabel": "The Tales of Beedle the Bard",
-    "year": "2008",
-    "authorLabel": "J. K. Rowling",
-    "sitelinks": "54"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q61324",
     "itemLabel": "Sophie's World",
     "year": "1991",
     "authorLabel": "Jostein Gaarder",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q476871",
+    "itemLabel": "The Call of the Wild",
+    "year": "1903",
+    "authorLabel": "Jack London",
     "sitelinks": "53"
   },
   {
@@ -602,17 +609,17 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q692557",
-    "itemLabel": "A Clockwork Orange",
-    "year": "1962",
-    "authorLabel": "Anthony Burgess",
-    "sitelinks": "52"
+    "item": "http://www.wikidata.org/entity/Q261281",
+    "itemLabel": "Solaris",
+    "year": "1961",
+    "authorLabel": "Stanisław Lem",
+    "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q476871",
-    "itemLabel": "The Call of the Wild",
-    "year": "1903",
-    "authorLabel": "Jack London",
+    "item": "http://www.wikidata.org/entity/Q523076",
+    "itemLabel": "Little Women",
+    "year": "1868",
+    "authorLabel": "Louisa May Alcott",
     "sitelinks": "52"
   },
   {
@@ -623,17 +630,10 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q261281",
-    "itemLabel": "Solaris",
-    "year": "1961",
-    "authorLabel": "Stanisław Lem",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q214132",
-    "itemLabel": "And Then There Were None",
-    "year": "1939",
-    "authorLabel": "Agatha Christie",
+    "item": "http://www.wikidata.org/entity/Q332581",
+    "itemLabel": "The Return of the King",
+    "year": "1955",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "52"
   },
   {
@@ -644,32 +644,25 @@
     "sitelinks": "52"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q565911",
-    "itemLabel": "Anne of Green Gables",
-    "year": "1908",
-    "authorLabel": "Lucy Maud Montgomery",
-    "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q523076",
-    "itemLabel": "Little Women",
-    "year": "1868",
-    "authorLabel": "Louisa May Alcott",
-    "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q332581",
-    "itemLabel": "The Return of the King",
-    "year": "1955",
-    "authorLabel": "J. R. R. Tolkien",
-    "sitelinks": "51"
+    "item": "http://www.wikidata.org/entity/Q692557",
+    "itemLabel": "A Clockwork Orange",
+    "year": "1962",
+    "authorLabel": "Anthony Burgess",
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q243556",
     "itemLabel": "The Godfather",
     "year": "1969",
     "authorLabel": "Mario Puzo",
-    "sitelinks": "51"
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q214132",
+    "itemLabel": "And Then There Were None",
+    "year": "1939",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192649",
@@ -684,6 +677,20 @@
     "year": "2006",
     "authorLabel": "Stephenie Meyer",
     "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q565911",
+    "itemLabel": "Anne of Green Gables",
+    "year": "1908",
+    "authorLabel": "Lucy Maud Montgomery",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192258",
+    "itemLabel": "Quidditch Through the Ages",
+    "year": "2001",
+    "authorLabel": "J. K. Rowling",
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q845889",
@@ -707,13 +714,6 @@
     "sitelinks": "50"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q192258",
-    "itemLabel": "Quidditch Through the Ages",
-    "year": "2001",
-    "authorLabel": "J. K. Rowling",
-    "sitelinks": "50"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q53945",
     "itemLabel": "Breaking Dawn",
     "year": "2008",
@@ -728,10 +728,10 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q602288",
-    "itemLabel": "It",
-    "year": "1986",
-    "authorLabel": "Stephen King",
+    "item": "http://www.wikidata.org/entity/Q762206",
+    "itemLabel": "The Tell-Tale Heart",
+    "year": "1843",
+    "authorLabel": "Edgar Allan Poe",
     "sitelinks": "49"
   },
   {
@@ -756,10 +756,38 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q762206",
-    "itemLabel": "The Tell-Tale Heart",
-    "year": "1843",
-    "authorLabel": "Edgar Allan Poe",
+    "item": "http://www.wikidata.org/entity/Q602288",
+    "itemLabel": "It",
+    "year": "1986",
+    "authorLabel": "Stephen King",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152267",
+    "itemLabel": "White Fang",
+    "year": "1906",
+    "authorLabel": "Jack London",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q557867",
+    "itemLabel": "Fifty Shades of Grey",
+    "year": "2011",
+    "authorLabel": "E. L. James",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q374204",
+    "itemLabel": "Life of Pi",
+    "year": "2001",
+    "authorLabel": "Yann Martel",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q326909",
+    "itemLabel": "Buddenbrooks",
+    "year": "1901",
+    "authorLabel": "Thomas Mann",
     "sitelinks": "48"
   },
   {
@@ -784,38 +812,17 @@
     "sitelinks": "47"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q756866",
+    "itemLabel": "Jurassic Park",
+    "year": "1990",
+    "authorLabel": "Michael Crichton",
+    "sitelinks": "47"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q682733",
     "itemLabel": "The Castle",
     "year": "1926",
     "authorLabel": "Franz Kafka",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q612688",
-    "itemLabel": "The Fountainhead",
-    "year": "1943",
-    "authorLabel": "Ayn Rand",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q557867",
-    "itemLabel": "Fifty Shades of Grey",
-    "year": "2011",
-    "authorLabel": "E. L. James",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q500688",
-    "itemLabel": "The Sign of Four",
-    "year": "1890",
-    "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q326909",
-    "itemLabel": "Buddenbrooks",
-    "year": "1901",
-    "authorLabel": "Thomas Mann",
     "sitelinks": "47"
   },
   {
@@ -826,10 +833,17 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q152267",
-    "itemLabel": "White Fang",
-    "year": "1906",
-    "authorLabel": "Jack London",
+    "item": "http://www.wikidata.org/entity/Q612688",
+    "itemLabel": "The Fountainhead",
+    "year": "1943",
+    "authorLabel": "Ayn Rand",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q500688",
+    "itemLabel": "The Sign of Four",
+    "year": "1890",
+    "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "47"
   },
   {
@@ -847,17 +861,17 @@
     "sitelinks": "46"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q477831",
+    "itemLabel": "The Magician's Nephew",
+    "year": "1955",
+    "authorLabel": "C. S. Lewis",
+    "sitelinks": "46"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q860577",
     "itemLabel": "Demian",
     "year": "1919",
     "authorLabel": "Hermann Hesse",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q756866",
-    "itemLabel": "Jurassic Park",
-    "year": "1990",
-    "authorLabel": "Michael Crichton",
     "sitelinks": "46"
   },
   {
@@ -868,24 +882,10 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q477831",
-    "itemLabel": "The Magician's Nephew",
-    "year": "1955",
-    "authorLabel": "C. S. Lewis",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q465360",
-    "itemLabel": "A Portrait of the Artist as a Young Man",
-    "year": "1918",
-    "authorLabel": "James Joyce",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q374098",
-    "itemLabel": "Atlas Shrugged",
-    "year": "1957",
-    "authorLabel": "Ayn Rand",
+    "item": "http://www.wikidata.org/entity/Q212898",
+    "itemLabel": "The Magic Mountain",
+    "year": "1924",
+    "authorLabel": "Thomas Mann",
     "sitelinks": "46"
   },
   {
@@ -903,10 +903,17 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q212898",
-    "itemLabel": "The Magic Mountain",
-    "year": "1924",
-    "authorLabel": "Thomas Mann",
+    "item": "http://www.wikidata.org/entity/Q465360",
+    "itemLabel": "A Portrait of the Artist as a Young Man",
+    "year": "1918",
+    "authorLabel": "James Joyce",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q374098",
+    "itemLabel": "Atlas Shrugged",
+    "year": "1957",
+    "authorLabel": "Ayn Rand",
     "sitelinks": "46"
   },
   {
@@ -924,6 +931,13 @@
     "sitelinks": "45"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q202531",
+    "itemLabel": "Deception Point",
+    "year": "2001",
+    "authorLabel": "Dan Brown",
+    "sitelinks": "45"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q300370",
     "itemLabel": "A Clash of Kings",
     "year": "1998",
@@ -931,11 +945,18 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202531",
-    "itemLabel": "Deception Point",
-    "year": "2001",
-    "authorLabel": "Dan Brown",
-    "sitelinks": "45"
+    "item": "http://www.wikidata.org/entity/Q4509219",
+    "itemLabel": "Inferno",
+    "year": "1304",
+    "authorLabel": "Dante Alighieri",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53592",
+    "itemLabel": "From the Earth to the Moon",
+    "year": "1865",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48922",
@@ -952,13 +973,6 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4509219",
-    "itemLabel": "Inferno",
-    "year": "1304",
-    "authorLabel": "Dante Alighieri",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1539509",
     "itemLabel": "The Invisible Man",
     "year": "1897",
@@ -970,6 +984,27 @@
     "itemLabel": "The Heart of a Dog",
     "year": "1987",
     "authorLabel": "Mikhail Bulgakov",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q472228",
+    "itemLabel": "The Mysterious Affair at Styles",
+    "year": "1920",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q470937",
+    "itemLabel": "The Shining",
+    "year": "1977",
+    "authorLabel": "Stephen King",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q146866",
+    "itemLabel": "Resurrection",
+    "year": "1899",
+    "authorLabel": "Leo Tolstoy",
     "sitelinks": "44"
   },
   {
@@ -1008,17 +1043,17 @@
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q472228",
-    "itemLabel": "The Mysterious Affair at Styles",
-    "year": "1920",
-    "authorLabel": "Agatha Christie",
+    "item": "http://www.wikidata.org/entity/Q465395",
+    "itemLabel": "The Black Cat",
+    "year": "1822",
+    "authorLabel": "Edgar Allan Poe",
     "sitelinks": "44"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q470937",
-    "itemLabel": "The Shining",
-    "year": "1977",
-    "authorLabel": "Stephen King",
+    "item": "http://www.wikidata.org/entity/Q465395",
+    "itemLabel": "The Black Cat",
+    "year": "1843",
+    "authorLabel": "Edgar Allan Poe",
     "sitelinks": "44"
   },
   {
@@ -1029,25 +1064,18 @@
     "sitelinks": "44"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q393018",
+    "itemLabel": "I, Robot",
+    "year": "1950",
+    "authorLabel": "Isaac Asimov",
+    "sitelinks": "44"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q373536",
     "itemLabel": "Jonathan Livingston Seagull",
     "year": "1970",
     "authorLabel": "Richard Bach",
     "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q146866",
-    "itemLabel": "Resurrection",
-    "year": "1899",
-    "authorLabel": "Leo Tolstoy",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q53592",
-    "itemLabel": "From the Earth to the Moon",
-    "year": "1865",
-    "authorLabel": "Jules Verne",
-    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q869725",
@@ -1057,38 +1085,10 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q605249",
-    "itemLabel": "Do Androids Dream of Electric Sheep?",
-    "year": "1968",
-    "authorLabel": "Philip K. Dick",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q465395",
-    "itemLabel": "The Black Cat",
-    "year": "1822",
-    "authorLabel": "Edgar Allan Poe",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q465395",
-    "itemLabel": "The Black Cat",
-    "year": "1843",
-    "authorLabel": "Edgar Allan Poe",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q393018",
-    "itemLabel": "I, Robot",
-    "year": "1950",
-    "authorLabel": "Isaac Asimov",
-    "sitelinks": "43"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q207964",
-    "itemLabel": "Digital Fortress",
-    "year": "1998",
-    "authorLabel": "Dan Brown",
+    "item": "http://www.wikidata.org/entity/Q837140",
+    "itemLabel": "Catching Fire",
+    "year": "2009",
+    "authorLabel": "Suzanne Collins",
     "sitelinks": "43"
   },
   {
@@ -1099,18 +1099,25 @@
     "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q837140",
-    "itemLabel": "Catching Fire",
-    "year": "2009",
-    "authorLabel": "Suzanne Collins",
-    "sitelinks": "42"
+    "item": "http://www.wikidata.org/entity/Q207964",
+    "itemLabel": "Digital Fortress",
+    "year": "1998",
+    "authorLabel": "Dan Brown",
+    "sitelinks": "43"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q826428",
-    "itemLabel": "Blindness",
-    "year": "1995",
-    "authorLabel": "José Saramago",
-    "sitelinks": "42"
+    "item": "http://www.wikidata.org/entity/Q605249",
+    "itemLabel": "Do Androids Dream of Electric Sheep?",
+    "year": "1968",
+    "authorLabel": "Philip K. Dick",
+    "sitelinks": "43"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q459667",
+    "itemLabel": "The Murders in the Rue Morgue",
+    "year": "1841",
+    "authorLabel": "Edgar Allan Poe",
+    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q749783",
@@ -1127,10 +1134,10 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q459667",
-    "itemLabel": "The Murders in the Rue Morgue",
-    "year": "1841",
-    "authorLabel": "Edgar Allan Poe",
+    "item": "http://www.wikidata.org/entity/Q265546",
+    "itemLabel": "A Scandal in Bohemia",
+    "year": "1892",
+    "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "42"
   },
   {
@@ -1148,10 +1155,10 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q265546",
-    "itemLabel": "A Scandal in Bohemia",
-    "year": "1892",
-    "authorLabel": "Arthur Conan Doyle",
+    "item": "http://www.wikidata.org/entity/Q826428",
+    "itemLabel": "Blindness",
+    "year": "1995",
+    "authorLabel": "José Saramago",
     "sitelinks": "42"
   },
   {
@@ -1169,10 +1176,31 @@
     "sitelinks": "42"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q28306",
+    "itemLabel": "A Dance with Dragons",
+    "year": "2011",
+    "authorLabel": "George R. R. Martin",
+    "sitelinks": "41"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q837934",
     "itemLabel": "Flowers for Algernon",
     "year": "1959",
     "authorLabel": "Daniel Keyes",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208971",
+    "itemLabel": "1Q84",
+    "year": "2009",
+    "authorLabel": "Haruki Murakami",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208971",
+    "itemLabel": "1Q84",
+    "year": "2010",
+    "authorLabel": "Haruki Murakami",
     "sitelinks": "41"
   },
   {
@@ -1211,34 +1239,6 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q208971",
-    "itemLabel": "1Q84",
-    "year": "2009",
-    "authorLabel": "Haruki Murakami",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q208971",
-    "itemLabel": "1Q84",
-    "year": "2010",
-    "authorLabel": "Haruki Murakami",
-    "sitelinks": "41"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q28306",
-    "itemLabel": "A Dance with Dragons",
-    "year": "2011",
-    "authorLabel": "George R. R. Martin",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1764445",
-    "itemLabel": "A Feast for Crows",
-    "year": "2005",
-    "authorLabel": "George R. R. Martin",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1140295",
     "itemLabel": "The Road",
     "year": "2006",
@@ -1260,6 +1260,13 @@
     "sitelinks": "40"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q289130",
+    "itemLabel": "The Last Battle",
+    "year": "1956",
+    "authorLabel": "C. S. Lewis",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q461026",
     "itemLabel": "The Adventure of the Red-Headed League",
     "year": "1891",
@@ -1274,10 +1281,10 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q289130",
-    "itemLabel": "The Last Battle",
-    "year": "1956",
-    "authorLabel": "C. S. Lewis",
+    "item": "http://www.wikidata.org/entity/Q1764445",
+    "itemLabel": "A Feast for Crows",
+    "year": "2005",
+    "authorLabel": "George R. R. Martin",
     "sitelinks": "40"
   },
   {
@@ -1309,24 +1316,17 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q878580",
+    "itemLabel": "The Gold-Bug",
+    "year": "1842",
+    "authorLabel": "Edgar Allan Poe",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q863438",
     "itemLabel": "The Valley of Fear",
     "year": "1915",
     "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q396602",
-    "itemLabel": "The Death of Ivan Ilyich",
-    "year": "1886",
-    "authorLabel": "Leo Tolstoy",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q308982",
-    "itemLabel": "Eldest",
-    "year": "2005",
-    "authorLabel": "Christopher Paolini",
     "sitelinks": "39"
   },
   {
@@ -1337,10 +1337,38 @@
     "sitelinks": "39"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q308982",
+    "itemLabel": "Eldest",
+    "year": "2005",
+    "authorLabel": "Christopher Paolini",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q396602",
+    "itemLabel": "The Death of Ivan Ilyich",
+    "year": "1886",
+    "authorLabel": "Leo Tolstoy",
+    "sitelinks": "39"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2418926",
     "itemLabel": "Planet of the Apes",
     "year": "1963",
     "authorLabel": "Pierre Boulle",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q472291",
+    "itemLabel": "Dick Sand, A Captain at Fifteen",
+    "year": "1878",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1137494",
+    "itemLabel": "King Solomon's Mines",
+    "year": "1885",
+    "authorLabel": "H. Rider Haggard",
     "sitelinks": "38"
   },
   {
@@ -1353,7 +1381,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q1053313",
     "itemLabel": "Jerusalem Delivered",
-    "year": "1581",
+    "year": "1580",
     "authorLabel": "Torquato Tasso",
     "sitelinks": "38"
   },
@@ -1362,6 +1390,13 @@
     "itemLabel": "The Memoirs of Sherlock Holmes",
     "year": "1894",
     "authorLabel": "Arthur Conan Doyle",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q708177",
+    "itemLabel": "The Rime of the Ancient Mariner",
+    "year": "1798",
+    "authorLabel": "Samuel Taylor Coleridge",
     "sitelinks": "38"
   },
   {
@@ -1379,13 +1414,6 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q472291",
-    "itemLabel": "Dick Sand, A Captain at Fifteen",
-    "year": "1878",
-    "authorLabel": "Jules Verne",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q437791",
     "itemLabel": "Foucault's Pendulum",
     "year": "1988",
@@ -1400,27 +1428,6 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q627192",
-    "itemLabel": "Divergent",
-    "year": "2011",
-    "authorLabel": "Veronica Roth",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q466288",
-    "itemLabel": "The Green Mile",
-    "year": "1996",
-    "authorLabel": "Stephen King",
-    "sitelinks": "37"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q331804",
-    "itemLabel": "The Adventures of Tom Bombadil",
-    "year": "1962",
-    "authorLabel": "J. R. R. Tolkien",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1426188",
     "itemLabel": "Matilda",
     "year": "1986",
@@ -1428,10 +1435,24 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1137494",
-    "itemLabel": "King Solomon's Mines",
-    "year": "1885",
-    "authorLabel": "H. Rider Haggard",
+    "item": "http://www.wikidata.org/entity/Q1327411",
+    "itemLabel": "Around the Moon",
+    "year": "1870",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q482085",
+    "itemLabel": "The Caves of Steel",
+    "year": "1954",
+    "authorLabel": "Isaac Asimov",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q466288",
+    "itemLabel": "The Green Mile",
+    "year": "1996",
+    "authorLabel": "Stephen King",
     "sitelinks": "37"
   },
   {
@@ -1470,13 +1491,6 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q878580",
-    "itemLabel": "The Gold-Bug",
-    "year": "1842",
-    "authorLabel": "Edgar Allan Poe",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q816528",
     "itemLabel": "Ben-Hur: A Tale of the Christ",
     "year": "1880",
@@ -1484,10 +1498,10 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q816528",
-    "itemLabel": "Ben-Hur: A Tale of the Christ",
-    "year": "1880",
-    "authorLabel": "Lewis Wallace",
+    "item": "http://www.wikidata.org/entity/Q766086",
+    "itemLabel": "The Masque of the Red Death",
+    "year": "1842",
+    "authorLabel": "Edgar Allan Poe",
     "sitelinks": "37"
   },
   {
@@ -1512,6 +1526,13 @@
     "sitelinks": "37"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q331804",
+    "itemLabel": "The Adventures of Tom Bombadil",
+    "year": "1962",
+    "authorLabel": "J. R. R. Tolkien",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q725752",
     "itemLabel": "The Return of Sherlock Holmes",
     "year": "1905",
@@ -1533,13 +1554,6 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q708177",
-    "itemLabel": "The Rime of the Ancient Mariner",
-    "year": "1798",
-    "authorLabel": "Samuel Taylor Coleridge",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q693559",
     "itemLabel": "The Murder at the Vicarage",
     "year": "1930",
@@ -1554,38 +1568,17 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q41359",
-    "itemLabel": "Cat's Cradle",
-    "year": "1963",
-    "authorLabel": "Kurt Vonnegut",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1327411",
-    "itemLabel": "Around the Moon",
-    "year": "1870",
-    "authorLabel": "Jules Verne",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q766086",
-    "itemLabel": "The Masque of the Red Death",
-    "year": "1842",
-    "authorLabel": "Edgar Allan Poe",
-    "sitelinks": "36"
+    "item": "http://www.wikidata.org/entity/Q627192",
+    "itemLabel": "Divergent",
+    "year": "2011",
+    "authorLabel": "Veronica Roth",
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q733582",
     "itemLabel": "His Last Bow",
     "year": "1917",
     "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q482085",
-    "itemLabel": "The Caves of Steel",
-    "year": "1954",
-    "authorLabel": "Isaac Asimov",
     "sitelinks": "36"
   },
   {
@@ -1596,6 +1589,34 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q41359",
+    "itemLabel": "Cat's Cradle",
+    "year": "1963",
+    "authorLabel": "Kurt Vonnegut",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1339346",
+    "itemLabel": "Pan Tadeusz",
+    "year": "1834",
+    "authorLabel": "Adam Mickiewicz",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2008211",
+    "itemLabel": "The Left Hand of Darkness",
+    "year": "1969",
+    "authorLabel": "Ursula K. Le Guin",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1649862",
+    "itemLabel": "The Big Sleep",
+    "year": "1939",
+    "authorLabel": "Raymond Chandler",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1639633",
     "itemLabel": "Twenty Years After",
     "year": "1845",
@@ -1603,10 +1624,10 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1339346",
-    "itemLabel": "Pan Tadeusz",
-    "year": "1834",
-    "authorLabel": "Adam Mickiewicz",
+    "item": "http://www.wikidata.org/entity/Q466504",
+    "itemLabel": "American Psycho",
+    "year": "1991",
+    "authorLabel": "Bret Easton Ellis",
     "sitelinks": "35"
   },
   {
@@ -1638,6 +1659,13 @@
     "sitelinks": "35"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q742226",
+    "itemLabel": "Pet Sematary",
+    "year": "1983",
+    "authorLabel": "Stephen King",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q728312",
     "itemLabel": "Flatland",
     "year": "1884",
@@ -1649,20 +1677,6 @@
     "itemLabel": "Brisingr",
     "year": "2008",
     "authorLabel": "Christopher Paolini",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q662029",
-    "itemLabel": "Neuromancer",
-    "year": "1984",
-    "authorLabel": "William Gibson",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q331651",
-    "itemLabel": "The Children of Húrin",
-    "year": "2007",
-    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "35"
   },
   {
@@ -1680,18 +1694,25 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2008211",
-    "itemLabel": "The Left Hand of Darkness",
-    "year": "1969",
-    "authorLabel": "Ursula K. Le Guin",
+    "item": "http://www.wikidata.org/entity/Q662029",
+    "itemLabel": "Neuromancer",
+    "year": "1984",
+    "authorLabel": "William Gibson",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1649862",
-    "itemLabel": "The Big Sleep",
-    "year": "1939",
-    "authorLabel": "Raymond Chandler",
+    "item": "http://www.wikidata.org/entity/Q331651",
+    "itemLabel": "The Children of Húrin",
+    "year": "2007",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4551661",
+    "itemLabel": "The Queen of Spades",
+    "year": "1834",
+    "authorLabel": "Alexander Pushkin",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q17111624",
@@ -1708,24 +1729,10 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4551661",
-    "itemLabel": "The Queen of Spades",
-    "year": "1834",
-    "authorLabel": "Alexander Pushkin",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3435337",
     "itemLabel": "Peter Pan",
     "year": "1911",
     "authorLabel": "J. M. Barrie",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1195668",
-    "itemLabel": "The Man Without Qualities",
-    "year": "1932",
-    "authorLabel": "Robert Musil",
     "sitelinks": "34"
   },
   {
@@ -1740,6 +1747,13 @@
     "itemLabel": "The Call of Cthulhu",
     "year": "1928",
     "authorLabel": "H. P. Lovecraft",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1136104",
+    "itemLabel": "Le Morte d'Arthur",
+    "year": "1485",
+    "authorLabel": "Thomas Malory",
     "sitelinks": "34"
   },
   {
@@ -1764,6 +1778,13 @@
     "sitelinks": "34"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1195668",
+    "itemLabel": "The Man Without Qualities",
+    "year": "1932",
+    "authorLabel": "Robert Musil",
+    "sitelinks": "34"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q876848",
     "itemLabel": "The Curious Incident of the Dog in the Night-Time",
     "year": "2003",
@@ -1775,13 +1796,6 @@
     "itemLabel": "A Murder Is Announced",
     "year": "1950",
     "authorLabel": "Agatha Christie",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q742226",
-    "itemLabel": "Pet Sematary",
-    "year": "1983",
-    "authorLabel": "Stephen King",
     "sitelinks": "34"
   },
   {
@@ -1799,10 +1813,10 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q466504",
-    "itemLabel": "American Psycho",
-    "year": "1991",
-    "authorLabel": "Bret Easton Ellis",
+    "item": "http://www.wikidata.org/entity/Q309019",
+    "itemLabel": "Unfinished Tales",
+    "year": "1980",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "34"
   },
   {
@@ -1817,13 +1831,6 @@
     "itemLabel": "Bel-Ami",
     "year": "1885",
     "authorLabel": "Guy de Maupassant",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q309019",
-    "itemLabel": "Unfinished Tales",
-    "year": "1980",
-    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "34"
   },
   {
@@ -1848,17 +1855,17 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2042919",
-    "itemLabel": "The Adventure of the Dancing Men",
-    "year": "1905",
-    "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1334940",
     "itemLabel": "Rebecca",
     "year": "1938",
     "authorLabel": "Daphne du Maurier",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2042919",
+    "itemLabel": "The Adventure of the Dancing Men",
+    "year": "1905",
+    "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "33"
   },
   {
@@ -1890,13 +1897,6 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1136104",
-    "itemLabel": "Le Morte d'Arthur",
-    "year": "1485",
-    "authorLabel": "Thomas Malory",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q785255",
     "itemLabel": "The Lost World",
     "year": "1912",
@@ -1918,6 +1918,13 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q247372",
+    "itemLabel": "Tender Is the Night",
+    "year": "1934",
+    "authorLabel": "F. Scott Fitzgerald",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q629438",
     "itemLabel": "Elephants Can Remember",
     "year": "1972",
@@ -1932,6 +1939,20 @@
     "sitelinks": "33"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q548576",
+    "itemLabel": "The Castle of Otranto",
+    "year": "1764",
+    "authorLabel": "Horace Walpole",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q548576",
+    "itemLabel": "The Castle of Otranto",
+    "year": "1765",
+    "authorLabel": "Horace Walpole",
+    "sitelinks": "33"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q430514",
     "itemLabel": "American Gods",
     "year": "2001",
@@ -1939,11 +1960,25 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q247372",
-    "itemLabel": "Tender Is the Night",
-    "year": "1934",
-    "authorLabel": "F. Scott Fitzgerald",
-    "sitelinks": "33"
+    "item": "http://www.wikidata.org/entity/Q1052459",
+    "itemLabel": "Good Omens",
+    "year": "1990",
+    "authorLabel": "Neil Gaiman",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1192552",
+    "itemLabel": "The Adventure of the Engineer's Thumb",
+    "year": "1892",
+    "authorLabel": "Arthur Conan Doyle",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q836841",
+    "itemLabel": "The Glass Bead Game",
+    "year": "1943",
+    "authorLabel": "Hermann Hesse",
+    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q752432",
@@ -1957,6 +1992,13 @@
     "itemLabel": "Curtain",
     "year": "1975",
     "authorLabel": "Agatha Christie",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q232055",
+    "itemLabel": "Two Years' Vacation",
+    "year": "1888",
+    "authorLabel": "Jules Verne",
     "sitelinks": "32"
   },
   {
@@ -1981,38 +2023,24 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q548576",
-    "itemLabel": "The Castle of Otranto",
-    "year": "1764",
-    "authorLabel": "Horace Walpole",
+    "item": "http://www.wikidata.org/entity/Q538390",
+    "itemLabel": "To Have and Have Not",
+    "year": "1937",
+    "authorLabel": "Ernest Hemingway",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q548576",
-    "itemLabel": "The Castle of Otranto",
-    "year": "1765",
-    "authorLabel": "Horace Walpole",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q469862",
-    "itemLabel": "The Naked Sun",
-    "year": "1957",
+    "item": "http://www.wikidata.org/entity/Q440784",
+    "itemLabel": "The Robots of Dawn",
+    "year": "1983",
     "authorLabel": "Isaac Asimov",
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q468071",
-    "itemLabel": "The Spy Who Came in from the Cold",
-    "year": "1963",
-    "authorLabel": "John le Carré",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q232055",
-    "itemLabel": "Two Years' Vacation",
-    "year": "1888",
-    "authorLabel": "Jules Verne",
+    "item": "http://www.wikidata.org/entity/Q337944",
+    "itemLabel": "Dumb Witness",
+    "year": "1937",
+    "authorLabel": "Agatha Christie",
     "sitelinks": "32"
   },
   {
@@ -2030,17 +2058,17 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q18084",
+    "itemLabel": "Vita Nuova",
+    "year": "1295",
+    "authorLabel": "Dante Alighieri",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q13912",
     "itemLabel": "Where the Wild Things Are",
     "year": "1963",
     "authorLabel": "Maurice Sendak",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1771810",
-    "itemLabel": "A Wizard of Earthsea",
-    "year": "1968",
-    "authorLabel": "Ursula K. Le Guin",
     "sitelinks": "32"
   },
   {
@@ -2051,6 +2079,13 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1771810",
+    "itemLabel": "A Wizard of Earthsea",
+    "year": "1968",
+    "authorLabel": "Ursula K. Le Guin",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1210734",
     "itemLabel": "The 120 Days of Sodom",
     "year": "1904",
@@ -2058,10 +2093,17 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1192552",
-    "itemLabel": "The Adventure of the Engineer's Thumb",
-    "year": "1892",
-    "authorLabel": "Arthur Conan Doyle",
+    "item": "http://www.wikidata.org/entity/Q469862",
+    "itemLabel": "The Naked Sun",
+    "year": "1957",
+    "authorLabel": "Isaac Asimov",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q468071",
+    "itemLabel": "The Spy Who Came in from the Cold",
+    "year": "1963",
+    "authorLabel": "John le Carré",
     "sitelinks": "32"
   },
   {
@@ -2079,66 +2121,10 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1052459",
-    "itemLabel": "Good Omens",
-    "year": "1990",
-    "authorLabel": "Neil Gaiman",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q836841",
-    "itemLabel": "The Glass Bead Game",
-    "year": "1943",
-    "authorLabel": "Hermann Hesse",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18084",
-    "itemLabel": "Vita Nuova",
-    "year": "1295",
-    "authorLabel": "Dante Alighieri",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13882199",
-    "itemLabel": "The Cuckoo's Calling",
-    "year": "2013",
-    "authorLabel": "J. K. Rowling",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6029482",
-    "itemLabel": "Infernal Devices",
-    "year": "2005",
-    "authorLabel": "Philip Reeve",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1570068",
-    "itemLabel": "Sans Famille",
-    "year": "1878",
-    "authorLabel": "Hector Malot",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1422745",
-    "itemLabel": "The Witches",
-    "year": "1983",
-    "authorLabel": "Roald Dahl",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1212137",
-    "itemLabel": "An Antarctic Mystery",
-    "year": "1897",
-    "authorLabel": "Jules Verne",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1197735",
-    "itemLabel": "The Fall of the House of Usher",
-    "year": "1839",
-    "authorLabel": "Edgar Allan Poe",
+    "item": "http://www.wikidata.org/entity/Q466790",
+    "itemLabel": "The Dead Zone",
+    "year": "1979",
+    "authorLabel": "Stephen King",
     "sitelinks": "31"
   },
   {
@@ -2188,6 +2174,13 @@
     "itemLabel": "Cat Among the Pigeons",
     "year": "1959",
     "authorLabel": "Agatha Christie",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1197735",
+    "itemLabel": "The Fall of the House of Usher",
+    "year": "1839",
+    "authorLabel": "Edgar Allan Poe",
     "sitelinks": "31"
   },
   {
@@ -2268,17 +2261,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q538390",
-    "itemLabel": "To Have and Have Not",
-    "year": "1937",
-    "authorLabel": "Ernest Hemingway",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q466790",
-    "itemLabel": "The Dead Zone",
-    "year": "1979",
-    "authorLabel": "Stephen King",
+    "item": "http://www.wikidata.org/entity/Q304493",
+    "itemLabel": "Five Little Pigs",
+    "year": "1942",
+    "authorLabel": "Agatha Christie",
     "sitelinks": "31"
   },
   {
@@ -2286,13 +2272,6 @@
     "itemLabel": "The Host",
     "year": "2008",
     "authorLabel": "Stephenie Meyer",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q440784",
-    "itemLabel": "The Robots of Dawn",
-    "year": "1983",
-    "authorLabel": "Isaac Asimov",
     "sitelinks": "31"
   },
   {
@@ -2310,17 +2289,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q337944",
-    "itemLabel": "Dumb Witness",
-    "year": "1937",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q304493",
-    "itemLabel": "Five Little Pigs",
-    "year": "1942",
-    "authorLabel": "Agatha Christie",
+    "item": "http://www.wikidata.org/entity/Q6029482",
+    "itemLabel": "Infernal Devices",
+    "year": "2005",
+    "authorLabel": "Philip Reeve",
     "sitelinks": "31"
   },
   {
@@ -2329,6 +2301,55 @@
     "year": "1995",
     "authorLabel": "Philip Pullman",
     "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40205",
+    "itemLabel": "Cloud Atlas",
+    "year": "2004",
+    "authorLabel": "David Mitchell",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q13882199",
+    "itemLabel": "The Cuckoo's Calling",
+    "year": "2013",
+    "authorLabel": "J. K. Rowling",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1422745",
+    "itemLabel": "The Witches",
+    "year": "1983",
+    "authorLabel": "Roald Dahl",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1570068",
+    "itemLabel": "Sans Famille",
+    "year": "1878",
+    "authorLabel": "Hector Malot",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1249536",
+    "itemLabel": "The Scarlet Pimpernel",
+    "year": "1905",
+    "authorLabel": "Emma Orczy",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1212137",
+    "itemLabel": "An Antarctic Mystery",
+    "year": "1897",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q197243",
+    "itemLabel": "4.50 from Paddington",
+    "year": "1957",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26541",
@@ -2359,6 +2380,20 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2724561",
+    "itemLabel": "Ramcharitmanas",
+    "year": "1600",
+    "authorLabel": "Tulsidas",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1410482",
+    "itemLabel": "The Moon Is a Harsh Mistress",
+    "year": "1966",
+    "authorLabel": "Robert A. Heinlein",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2092914",
     "itemLabel": "The Adventure of Black Peter",
     "year": "1904",
@@ -2370,20 +2405,6 @@
     "itemLabel": "La Reine Margot",
     "year": "1845",
     "authorLabel": "Alexandre Dumas",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1410482",
-    "itemLabel": "The Moon Is a Harsh Mistress",
-    "year": "1966",
-    "authorLabel": "Robert A. Heinlein",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1249536",
-    "itemLabel": "The Scarlet Pimpernel",
-    "year": "1905",
-    "authorLabel": "Emma Orczy",
     "sitelinks": "30"
   },
   {
@@ -2408,17 +2429,24 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1193379",
-    "itemLabel": "The Five Orange Pips",
-    "year": "1891",
-    "authorLabel": "Arthur Conan Doyle",
+    "item": "http://www.wikidata.org/entity/Q469889",
+    "itemLabel": "Cell",
+    "year": "2006",
+    "authorLabel": "Stephen King",
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1192541",
-    "itemLabel": "The Boscombe Valley Mystery",
-    "year": "1899",
-    "authorLabel": "Arthur Conan Doyle",
+    "item": "http://www.wikidata.org/entity/Q467720",
+    "itemLabel": "The Dispossessed",
+    "year": "1974",
+    "authorLabel": "Ursula K. Le Guin",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q465492",
+    "itemLabel": "Crooked House",
+    "year": "1949",
+    "authorLabel": "Agatha Christie",
     "sitelinks": "30"
   },
   {
@@ -2450,34 +2478,6 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q377710",
-    "itemLabel": "Hercule Poirot's Christmas",
-    "year": "1938",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q258953",
-    "itemLabel": "The Giver",
-    "year": "1993",
-    "authorLabel": "Lois Lowry",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q197243",
-    "itemLabel": "4.50 from Paddington",
-    "year": "1957",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q132269",
-    "itemLabel": "Howl's Moving Castle",
-    "year": "1986",
-    "authorLabel": "Diana Wynne Jones",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q978723",
     "itemLabel": "Robur the Conqueror",
     "year": "1886",
@@ -2489,6 +2489,27 @@
     "itemLabel": "The Sea of Monsters",
     "year": "2006",
     "authorLabel": "Rick Riordan",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q897685",
+    "itemLabel": "The Silence of the Lambs",
+    "year": "1988",
+    "authorLabel": "Thomas Harris",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1193379",
+    "itemLabel": "The Five Orange Pips",
+    "year": "1891",
+    "authorLabel": "Arthur Conan Doyle",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1192541",
+    "itemLabel": "The Boscombe Valley Mystery",
+    "year": "1899",
+    "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "30"
   },
   {
@@ -2510,6 +2531,13 @@
     "itemLabel": "Firestarter",
     "year": "1980",
     "authorLabel": "Stephen King",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132269",
+    "itemLabel": "Howl's Moving Castle",
+    "year": "1986",
+    "authorLabel": "Diana Wynne Jones",
     "sitelinks": "30"
   },
   {
@@ -2555,24 +2583,17 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q469889",
-    "itemLabel": "Cell",
-    "year": "2006",
-    "authorLabel": "Stephen King",
+    "item": "http://www.wikidata.org/entity/Q313129",
+    "itemLabel": "Middlemarch",
+    "year": "1871",
+    "authorLabel": "George Eliot",
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q467720",
-    "itemLabel": "The Dispossessed",
-    "year": "1974",
-    "authorLabel": "Ursula K. Le Guin",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q465492",
-    "itemLabel": "Crooked House",
-    "year": "1949",
-    "authorLabel": "Agatha Christie",
+    "item": "http://www.wikidata.org/entity/Q258953",
+    "itemLabel": "The Giver",
+    "year": "1993",
+    "authorLabel": "Lois Lowry",
     "sitelinks": "30"
   },
   {
@@ -2583,10 +2604,10 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q40205",
-    "itemLabel": "Cloud Atlas",
-    "year": "2004",
-    "authorLabel": "David Mitchell",
+    "item": "http://www.wikidata.org/entity/Q377710",
+    "itemLabel": "Hercule Poirot's Christmas",
+    "year": "1938",
+    "authorLabel": "Agatha Christie",
     "sitelinks": "30"
   },
   {
@@ -2601,20 +2622,6 @@
     "itemLabel": "The Girl on the Train",
     "year": "2015",
     "authorLabel": "Paula Hawkins",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2724561",
-    "itemLabel": "Ramcharitmanas",
-    "year": "1576",
-    "authorLabel": "Tulsidas",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2724561",
-    "itemLabel": "Ramcharitmanas",
-    "year": "1600",
-    "authorLabel": "Tulsidas",
     "sitelinks": "29"
   },
   {
@@ -2639,17 +2646,17 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1245187",
+    "itemLabel": "Don Juan",
+    "year": "1900",
+    "authorLabel": "Lord Byron",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1218232",
     "itemLabel": "The First Men in the Moon",
     "year": "1901",
     "authorLabel": "H. G. Wells",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1196792",
-    "itemLabel": "The Black Arrow: A Tale of the Two Roses",
-    "year": "1889",
-    "authorLabel": "Robert Louis Stevenson",
     "sitelinks": "29"
   },
   {
@@ -2681,10 +2688,10 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q897685",
-    "itemLabel": "The Silence of the Lambs",
-    "year": "1988",
-    "authorLabel": "Thomas Harris",
+    "item": "http://www.wikidata.org/entity/Q1196792",
+    "itemLabel": "The Black Arrow: A Tale of the Two Roses",
+    "year": "1889",
+    "authorLabel": "Robert Louis Stevenson",
     "sitelinks": "29"
   },
   {
@@ -2699,6 +2706,13 @@
     "itemLabel": "The Hollow",
     "year": "1946",
     "authorLabel": "Agatha Christie",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80771",
+    "itemLabel": "Sons and Lovers",
+    "year": "1913",
+    "authorLabel": "D. H. Lawrence",
     "sitelinks": "29"
   },
   {
@@ -2765,6 +2779,13 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q250123",
+    "itemLabel": "Christine",
+    "year": "1983",
+    "authorLabel": "Stephen King",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q452075",
     "itemLabel": "Amadis de Gaula",
     "year": "1508",
@@ -2790,27 +2811,6 @@
     "itemLabel": "Live and Let Die",
     "year": "1954",
     "authorLabel": "Ian Fleming",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q313129",
-    "itemLabel": "Middlemarch",
-    "year": "1871",
-    "authorLabel": "George Eliot",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q250123",
-    "itemLabel": "Christine",
-    "year": "1983",
-    "authorLabel": "Stephen King",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q80771",
-    "itemLabel": "Sons and Lovers",
-    "year": "1913",
-    "authorLabel": "D. H. Lawrence",
     "sitelinks": "29"
   },
   {
@@ -2870,13 +2870,6 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1245187",
-    "itemLabel": "Don Juan",
-    "year": "1900",
-    "authorLabel": "Lord Byron",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1215982",
     "itemLabel": "The Moving Finger",
     "year": "1942",
@@ -2898,6 +2891,55 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q471926",
+    "itemLabel": "The Eyes of the Dragon",
+    "year": "1984",
+    "authorLabel": "Stephen King",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q469969",
+    "itemLabel": "The Light Fantastic",
+    "year": "1986",
+    "authorLabel": "Terry Pratchett",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q466196",
+    "itemLabel": "The End of Eternity",
+    "year": "1955",
+    "authorLabel": "Isaac Asimov",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q466057",
+    "itemLabel": "Childhood's End",
+    "year": "1953",
+    "authorLabel": "Arthur C. Clarke",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q465649",
+    "itemLabel": "One, Two, Buckle My Shoe",
+    "year": "1940",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1137369",
+    "itemLabel": "The Girl Who Played with Fire",
+    "year": "2005",
+    "authorLabel": "Stieg Larsson",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q568210",
+    "itemLabel": "They Do It with Mirrors",
+    "year": "1952",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1194994",
     "itemLabel": "War with the Newts",
     "year": "1936",
@@ -2912,29 +2954,15 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1130299",
-    "itemLabel": "Dead Man's Folly",
-    "year": "1956",
-    "authorLabel": "Agatha Christie",
+    "item": "http://www.wikidata.org/entity/Q1193101",
+    "itemLabel": "The Adventure of the Crooked Man",
+    "year": "1893",
+    "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1070729",
-    "itemLabel": "Night Flight",
-    "year": "1931",
-    "authorLabel": "Antoine de Saint-Exupéry",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q957248",
-    "itemLabel": "Peril at End House",
-    "year": "1932",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q930923",
-    "itemLabel": "The Adventure of the Naval Treaty",
+    "item": "http://www.wikidata.org/entity/Q1192547",
+    "itemLabel": "The Adventure of the Resident Patient",
     "year": "1893",
     "authorLabel": "Arthur Conan Doyle",
     "sitelinks": "28"
@@ -2975,6 +3003,13 @@
     "sitelinks": "28"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q640513",
+    "itemLabel": "She: A History of Adventure",
+    "year": "1887",
+    "authorLabel": "H. Rider Haggard",
+    "sitelinks": "28"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q612523",
     "itemLabel": "Moll Flanders",
     "year": "1722",
@@ -3003,67 +3038,88 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q568210",
-    "itemLabel": "They Do It with Mirrors",
-    "year": "1952",
+    "item": "http://www.wikidata.org/entity/Q1130299",
+    "itemLabel": "Dead Man's Folly",
+    "year": "1956",
     "authorLabel": "Agatha Christie",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q471926",
-    "itemLabel": "The Eyes of the Dragon",
-    "year": "1984",
+    "item": "http://www.wikidata.org/entity/Q1070729",
+    "itemLabel": "Night Flight",
+    "year": "1931",
+    "authorLabel": "Antoine de Saint-Exupéry",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q957248",
+    "itemLabel": "Peril at End House",
+    "year": "1932",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q930923",
+    "itemLabel": "The Adventure of the Naval Treaty",
+    "year": "1893",
+    "authorLabel": "Arthur Conan Doyle",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q794866",
+    "itemLabel": "Paris in the Twentieth Century",
+    "year": "1994",
+    "authorLabel": "Jules Verne",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q654170",
+    "itemLabel": "Third Girl",
+    "year": "1966",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q625923",
+    "itemLabel": "The Turn of the Screw",
+    "year": "1898",
+    "authorLabel": "Henry James",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q617379",
+    "itemLabel": "The Secret Adversary",
+    "year": "1922",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q604418",
+    "itemLabel": "An American Tragedy",
+    "year": "1925",
+    "authorLabel": "Theodore Dreiser",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q302960",
+    "itemLabel": "Bag of Bones",
+    "year": "1998",
     "authorLabel": "Stephen King",
-    "sitelinks": "28"
+    "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q469969",
-    "itemLabel": "The Light Fantastic",
-    "year": "1986",
-    "authorLabel": "Terry Pratchett",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q466196",
-    "itemLabel": "The End of Eternity",
-    "year": "1955",
-    "authorLabel": "Isaac Asimov",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q466057",
-    "itemLabel": "Childhood's End",
-    "year": "1953",
-    "authorLabel": "Arthur C. Clarke",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q465649",
-    "itemLabel": "One, Two, Buckle My Shoe",
-    "year": "1940",
+    "item": "http://www.wikidata.org/entity/Q457252",
+    "itemLabel": "The Seven Dials Mystery",
+    "year": "1929",
     "authorLabel": "Agatha Christie",
-    "sitelinks": "28"
+    "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1193101",
-    "itemLabel": "The Adventure of the Crooked Man",
-    "year": "1893",
-    "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1192547",
-    "itemLabel": "The Adventure of the Resident Patient",
-    "year": "1893",
-    "authorLabel": "Arthur Conan Doyle",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1137369",
-    "itemLabel": "The Girl Who Played with Fire",
-    "year": "2005",
-    "authorLabel": "Stieg Larsson",
-    "sitelinks": "28"
+    "item": "http://www.wikidata.org/entity/Q401619",
+    "itemLabel": "God Emperor of Dune",
+    "year": "1981",
+    "authorLabel": "Frank Herbert",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q60672",
@@ -3077,6 +3133,13 @@
     "itemLabel": "The Running Man",
     "year": "1982",
     "authorLabel": "Stephen King",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106852836",
+    "itemLabel": "Project Hail Mary",
+    "year": "2021",
+    "authorLabel": "Andy Weir",
     "sitelinks": "27"
   },
   {
@@ -3136,17 +3199,10 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1196857",
-    "itemLabel": "The Sea-Wolf",
-    "year": "1904",
-    "authorLabel": "Jack London",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1194031",
-    "itemLabel": "Wilhelm Meister's Apprenticeship",
-    "year": "1790",
-    "authorLabel": "Johann Wolfgang von Goethe",
+    "item": "http://www.wikidata.org/entity/Q471398",
+    "itemLabel": "Farmer Giles of Ham",
+    "year": "1949",
+    "authorLabel": "J. R. R. Tolkien",
     "sitelinks": "27"
   },
   {
@@ -3185,6 +3241,20 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1196857",
+    "itemLabel": "The Sea-Wolf",
+    "year": "1904",
+    "authorLabel": "Jack London",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1194031",
+    "itemLabel": "Wilhelm Meister's Apprenticeship",
+    "year": "1790",
+    "authorLabel": "Johann Wolfgang von Goethe",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q833012",
     "itemLabel": "Murder Is Easy",
     "year": "1939",
@@ -3199,76 +3269,6 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q794866",
-    "itemLabel": "Paris in the Twentieth Century",
-    "year": "1994",
-    "authorLabel": "Jules Verne",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q654170",
-    "itemLabel": "Third Girl",
-    "year": "1966",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q640513",
-    "itemLabel": "She: A History of Adventure",
-    "year": "1887",
-    "authorLabel": "H. Rider Haggard",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q625923",
-    "itemLabel": "The Turn of the Screw",
-    "year": "1898",
-    "authorLabel": "Henry James",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q617379",
-    "itemLabel": "The Secret Adversary",
-    "year": "1922",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q604418",
-    "itemLabel": "An American Tragedy",
-    "year": "1925",
-    "authorLabel": "Theodore Dreiser",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q471398",
-    "itemLabel": "Farmer Giles of Ham",
-    "year": "1949",
-    "authorLabel": "J. R. R. Tolkien",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q457252",
-    "itemLabel": "The Seven Dials Mystery",
-    "year": "1929",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q401619",
-    "itemLabel": "God Emperor of Dune",
-    "year": "1981",
-    "authorLabel": "Frank Herbert",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q302960",
-    "itemLabel": "Bag of Bones",
-    "year": "1998",
-    "authorLabel": "Stephen King",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q143707",
     "itemLabel": "The Child of the Cavern",
     "year": "1877",
@@ -3276,25 +3276,11 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q174654",
-    "itemLabel": "The Secret of Chimneys",
-    "year": "1925",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q120595",
-    "itemLabel": "N or M?",
-    "year": "1941",
-    "authorLabel": "Agatha Christie",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q279486",
-    "itemLabel": "The Song of Hiawatha",
-    "year": "1855",
-    "authorLabel": "Henry Wadsworth Longfellow",
-    "sitelinks": "26"
+    "item": "http://www.wikidata.org/entity/Q135215",
+    "itemLabel": "I, Claudius",
+    "year": "1934",
+    "authorLabel": "Robert Graves",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q382862",
@@ -3318,31 +3304,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q472026",
-    "itemLabel": "The Talented Mr. Ripley",
-    "year": "1955",
-    "authorLabel": "Patricia Highsmith",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q472208",
-    "itemLabel": "The Subtle Knife",
-    "year": "1997",
-    "authorLabel": "Philip Pullman",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q475589",
-    "itemLabel": "A Princess of Mars",
-    "year": "1917",
-    "authorLabel": "Edgar Rice Burroughs",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q475589",
-    "itemLabel": "A Princess of Mars",
-    "year": "1912",
-    "authorLabel": "Edgar Rice Burroughs",
+    "item": "http://www.wikidata.org/entity/Q279486",
+    "itemLabel": "The Song of Hiawatha",
+    "year": "1855",
+    "authorLabel": "Henry Wadsworth Longfellow",
     "sitelinks": "26"
   },
   {
@@ -3353,6 +3318,13 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q655296",
+    "itemLabel": "Tarzan of the Apes",
+    "year": "1912",
+    "authorLabel": "Edgar Rice Burroughs",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q705839",
     "itemLabel": "Simplicius Simplicissimus",
     "year": "1669",
@@ -3360,10 +3332,38 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q786586",
+    "itemLabel": "At the Mountains of Madness",
+    "year": "1936",
+    "authorLabel": "H. P. Lovecraft",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q120595",
+    "itemLabel": "N or M?",
+    "year": "1941",
+    "authorLabel": "Agatha Christie",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q843400",
     "itemLabel": "Mort",
     "year": "1987",
     "authorLabel": "Terry Pratchett",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1192517",
+    "itemLabel": "The Adventure of the Greek Interpreter",
+    "year": "1894",
+    "authorLabel": "Arthur Conan Doyle",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1197675",
+    "itemLabel": "The Invincible",
+    "year": "1964",
+    "authorLabel": "Stanisław Lem",
     "sitelinks": "26"
   },
   {
@@ -3402,17 +3402,31 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1192517",
-    "itemLabel": "The Adventure of the Greek Interpreter",
-    "year": "1894",
-    "authorLabel": "Arthur Conan Doyle",
+    "item": "http://www.wikidata.org/entity/Q472026",
+    "itemLabel": "The Talented Mr. Ripley",
+    "year": "1955",
+    "authorLabel": "Patricia Highsmith",
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1197675",
-    "itemLabel": "The Invincible",
-    "year": "1964",
-    "authorLabel": "Stanisław Lem",
+    "item": "http://www.wikidata.org/entity/Q472208",
+    "itemLabel": "The Subtle Knife",
+    "year": "1997",
+    "authorLabel": "Philip Pullman",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q475589",
+    "itemLabel": "A Princess of Mars",
+    "year": "1917",
+    "authorLabel": "Edgar Rice Burroughs",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q475589",
+    "itemLabel": "A Princess of Mars",
+    "year": "1912",
+    "authorLabel": "Edgar Rice Burroughs",
     "sitelinks": "26"
   },
   {
@@ -3420,6 +3434,13 @@
     "itemLabel": "The Adventure of the Beryl Coronet",
     "year": "1892",
     "authorLabel": "Arthur Conan Doyle",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1210939",
+    "itemLabel": "The Monkey's Paw",
+    "year": "1902",
+    "authorLabel": "W. W. Jacobs",
     "sitelinks": "26"
   },
   {
@@ -3437,10 +3458,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1524588",
-    "itemLabel": "Sophie's Choice",
-    "year": "1979",
-    "authorLabel": "William Styron",
+    "item": "http://www.wikidata.org/entity/Q1275853",
+    "itemLabel": "William Wilson",
+    "year": "1839",
+    "authorLabel": "Edgar Allan Poe",
     "sitelinks": "26"
   },
   {
@@ -3458,6 +3479,13 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1524588",
+    "itemLabel": "Sophie's Choice",
+    "year": "1979",
+    "authorLabel": "William Styron",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2728818",
     "itemLabel": "The Adventure of the Golden Pince-Nez",
     "year": "1904",
@@ -3465,38 +3493,10 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2743935",
-    "itemLabel": "Anthem",
-    "year": "1938",
-    "authorLabel": "Ayn Rand",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q106852836",
-    "itemLabel": "Project Hail Mary",
-    "year": "2021",
-    "authorLabel": "Andy Weir",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q26085",
-    "itemLabel": "The Day of the Jackal",
-    "year": "1971",
-    "authorLabel": "Frederick Forsyth",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q251076",
-    "itemLabel": "Hallowe'en Party",
-    "year": "1969",
+    "item": "http://www.wikidata.org/entity/Q174654",
+    "itemLabel": "The Secret of Chimneys",
+    "year": "1925",
     "authorLabel": "Agatha Christie",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q253925",
-    "itemLabel": "Thinner",
-    "year": "1984",
-    "authorLabel": "Stephen King",
-    "sitelinks": "25"
+    "sitelinks": "26"
   }
 ]

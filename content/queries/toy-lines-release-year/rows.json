@@ -1,5 +1,12 @@
 [
   {
+    "item": "http://www.wikidata.org/entity/Q167447",
+    "itemLabel": "Barbie",
+    "year": "1959",
+    "manufacturerLabel": "Mattel",
+    "sitelinks": "91"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1071312",
     "itemLabel": "My Little Pony",
     "year": "1983",
@@ -17,7 +24,7 @@
     "item": "http://www.wikidata.org/entity/Q1931494",
     "itemLabel": "Micro Machines",
     "year": "1986",
-    "manufacturerLabel": "Hasbro",
+    "manufacturerLabel": "Galoob",
     "sitelinks": "10"
   },
   {
@@ -45,7 +52,7 @@
     "item": "http://www.wikidata.org/entity/Q3296044",
     "itemLabel": "Marvel Legends",
     "year": "2002",
-    "manufacturerLabel": "Hasbro",
+    "manufacturerLabel": "Toy Biz",
     "sitelinks": "6"
   },
   {
@@ -63,16 +70,16 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2631239",
-    "itemLabel": "Zhu Zhu Pets",
-    "year": "2009",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5512057",
     "itemLabel": "G.I. Joe Extreme",
     "year": "1995",
+    "manufacturerLabel": "Kenner Products",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2631239",
+    "itemLabel": "Zhu Zhu Pets",
+    "year": "2009",
     "manufacturerLabel": "",
     "sitelinks": "5"
   },

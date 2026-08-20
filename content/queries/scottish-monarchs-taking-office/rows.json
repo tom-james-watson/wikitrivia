@@ -21,7 +21,7 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1660",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q79972",
@@ -109,7 +109,7 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1437",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q211109",
@@ -157,7 +157,7 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1124",
-    "sitelinks": "53"
+    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312592",
@@ -168,14 +168,6 @@
     "sitelinks": "53"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q229159",
-    "itemLabel": "Margaret, Maid of Norway",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "female",
-    "year": "1286",
-    "sitelinks": "51"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q294671",
     "itemLabel": "Robert III of Scotland",
     "positionLabel": "monarch of Scotland",
@@ -184,12 +176,20 @@
     "sitelinks": "51"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q229159",
+    "itemLabel": "Margaret, Maid of Norway",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "female",
+    "year": "1286",
+    "sitelinks": "51"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q68508",
     "itemLabel": "Malcolm III of Scotland",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1058",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312594",
@@ -200,19 +200,19 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q333730",
-    "itemLabel": "Malcolm I of Scotland",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "943",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q26326",
     "itemLabel": "Duncan I of Scotland",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1034",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q333730",
+    "itemLabel": "Malcolm I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "943",
     "sitelinks": "47"
   },
   {
@@ -248,14 +248,6 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q317457",
-    "itemLabel": "Causantín mac Cináeda",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "862",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q60843",
     "itemLabel": "Alexander I of Scotland",
     "positionLabel": "monarch of Scotland",
@@ -264,12 +256,12 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q378081",
-    "itemLabel": "Donald II of Scotland",
+    "item": "http://www.wikidata.org/entity/Q317457",
+    "itemLabel": "Causantín mac Cináeda",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
-    "year": "889",
-    "sitelinks": "44"
+    "year": "862",
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q332136",
@@ -277,6 +269,14 @@
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1005",
+    "sitelinks": "44"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q378081",
+    "itemLabel": "Donald II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "889",
     "sitelinks": "44"
   },
   {
@@ -304,19 +304,19 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q366745",
-    "itemLabel": "Duncan II of Scotland",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "1094",
-    "sitelinks": "40"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q117633",
     "itemLabel": "Lulach",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "1057",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q366745",
+    "itemLabel": "Duncan II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "1094",
     "sitelinks": "40"
   },
   {
@@ -344,19 +344,19 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q363132",
-    "itemLabel": "Indulf",
-    "positionLabel": "monarch of Scotland",
-    "sexLabel": "male",
-    "year": "954",
-    "sitelinks": "38"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q139139",
     "itemLabel": "Giric",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "year": "878",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q363132",
+    "itemLabel": "Indulf",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "year": "954",
     "sitelinks": "38"
   },
   {

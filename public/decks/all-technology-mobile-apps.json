@@ -180,26 +180,6 @@
     "pageViews": 27772
   },
   {
-    "qid": "Q1195495",
-    "title": "‘Shazam’ launches",
-    "subtitle": "Mobile app",
-    "year": 1999,
-    "fact": "Shazam is a British application that can identify music based on a short sample played using the microphone on the device.",
-    "wikipediaSlug": "Shazam_(music_app)",
-    "image": "Shazam_interface_05-13-2018.png",
-    "pageViews": 25832
-  },
-  {
-    "qid": "Q135195814",
-    "title": "‘Max’ launches",
-    "subtitle": "Mobile app",
-    "year": 2025,
-    "fact": "Max is a Russian messenger and e-commerce app released by VK in 2025.",
-    "wikipediaSlug": "Max_(app)",
-    "image": "Логотип_MAX.svg",
-    "pageViews": 24772
-  },
-  {
     "qid": "Q7575658",
     "title": "‘Speedtest’ launches",
     "subtitle": "Mobile app",
@@ -773,7 +753,7 @@
     "qid": "Q22096321",
     "title": "‘Apple News’ launches",
     "subtitle": "Mobile app",
-    "year": 2022,
+    "year": 2015,
     "fact": "Apple News is a news aggregator app developed by Apple for its iOS, iPadOS, watchOS, and macOS operating systems.",
     "wikipediaSlug": "Apple_News",
     "image": "Apple_News_2019_icon_(iOS).svg",
@@ -1120,16 +1100,6 @@
     "pageViews": 1891
   },
   {
-    "qid": "Q85764061",
-    "title": "‘Google Currents’ launches",
-    "subtitle": "Mobile app",
-    "year": 2011,
-    "fact": "Google Currents was a software application developed by Google for internal enterprise communication.",
-    "wikipediaSlug": "Google_Currents_(social_app)",
-    "image": "Google_Currents_2019_Logo.svg",
-    "pageViews": 1817
-  },
-  {
     "qid": "Q14565723",
     "title": "‘K-9 Mail’ launches",
     "subtitle": "Mobile app",
@@ -1158,6 +1128,16 @@
     "wikipediaSlug": "Pok%C3%A9mon_Home",
     "image": "International_Pokémon_logo.svg",
     "pageViews": 1531
+  },
+  {
+    "qid": "Q119263126",
+    "title": "‘Yape’ launches",
+    "subtitle": "Mobile app",
+    "year": 2016,
+    "fact": "Yape is a digital wallet and mobile payment application developed by the Banco de Crédito del Perú (BCP) in 2016.",
+    "wikipediaSlug": "Yape_(payment)",
+    "image": "Yape_peru_logotype.svg",
+    "pageViews": 1448
   },
   {
     "qid": "Q62002937",
@@ -1248,6 +1228,16 @@
     "wikipediaSlug": "Inoreader",
     "image": "Inoreader_icon.png",
     "pageViews": 1180
+  },
+  {
+    "qid": "Q95434626",
+    "title": "‘Foliate’ launches",
+    "subtitle": "Mobile app",
+    "year": 2019,
+    "fact": "Foliate is a free and open-source program for reading e-books in Linux.",
+    "wikipediaSlug": "Foliate_(software)",
+    "image": "Foliate_icon_2020.svg",
+    "pageViews": 1137
   },
   {
     "qid": "Q1047019",

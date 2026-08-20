@@ -1,5 +1,11 @@
 [
   {
+    "item": "http://www.wikidata.org/entity/Q355",
+    "itemLabel": "Facebook",
+    "year": "2004",
+    "sitelinks": "264"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q918",
     "itemLabel": "X",
     "year": "2006",
@@ -9,13 +15,13 @@
     "item": "http://www.wikidata.org/entity/Q48938223",
     "itemLabel": "TikTok",
     "year": "2016",
-    "sitelinks": "136"
+    "sitelinks": "137"
   },
   {
     "item": "http://www.wikidata.org/entity/Q689141",
     "itemLabel": "Spotify",
     "year": "2006",
-    "sitelinks": "103"
+    "sitelinks": "104"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1136",
@@ -39,13 +45,13 @@
     "item": "http://www.wikidata.org/entity/Q116933",
     "itemLabel": "VK",
     "year": "2006",
-    "sitelinks": "83"
+    "sitelinks": "84"
   },
   {
     "item": "http://www.wikidata.org/entity/Q364",
     "itemLabel": "GitHub",
     "year": "2007",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q103204",
@@ -66,34 +72,16 @@
     "sitelinks": "67"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q356",
-    "itemLabel": "Google+",
-    "year": "2011",
-    "sitelinks": "66"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q568769",
     "itemLabel": "SoundCloud",
     "year": "2007",
     "sitelinks": "66"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q120281745",
-    "itemLabel": "Threads",
-    "year": "2023",
-    "sitelinks": "65"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q238330",
-    "itemLabel": "4chan",
-    "year": "2003",
-    "sitelinks": "59"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q156376",
     "itemLabel": "Vimeo",
     "year": "2004",
-    "sitelinks": "55"
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51711",
@@ -120,21 +108,27 @@
     "sitelinks": "49"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q78194383",
+    "itemLabel": "Bluesky",
+    "year": "2021",
+    "sitelinks": "48"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1123836",
     "itemLabel": "Odnoklassniki",
     "year": "2006",
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q78194383",
-    "itemLabel": "Bluesky",
-    "year": "2021",
-    "sitelinks": "46"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q263655",
     "itemLabel": "Newgrounds",
     "year": "1995",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16958215",
+    "itemLabel": "iNaturalist",
+    "year": "2008",
     "sitelinks": "45"
   },
   {
@@ -142,12 +136,6 @@
     "itemLabel": "LiveJournal",
     "year": "1999",
     "sitelinks": "45"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16958215",
-    "itemLabel": "iNaturalist",
-    "year": "2008",
-    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q769222",
@@ -162,16 +150,22 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q973054",
+    "itemLabel": "Rakuten Group, Inc.",
+    "year": "1997",
+    "sitelinks": "38"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q549037",
     "itemLabel": "Stack Overflow",
     "year": "2008",
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q973054",
-    "itemLabel": "Rakuten Group, Inc.",
-    "year": "1997",
-    "sitelinks": "37"
+    "item": "http://www.wikidata.org/entity/Q19831807",
+    "itemLabel": "Lichess",
+    "year": "2010",
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q857640",
@@ -180,21 +174,15 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19831807",
-    "itemLabel": "Lichess",
-    "year": "2010",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3077586",
     "itemLabel": "Bilibili",
     "year": "2009",
-    "sitelinks": "32"
+    "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q159540",
-    "itemLabel": "Encyclopedia Dramatica",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q16186120",
+    "itemLabel": "Medium",
+    "year": "2012",
     "sitelinks": "29"
   },
   {
@@ -204,9 +192,9 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16186120",
-    "itemLabel": "Medium",
-    "year": "2012",
+    "item": "http://www.wikidata.org/entity/Q159540",
+    "itemLabel": "Encyclopedia Dramatica",
+    "year": "2004",
     "sitelinks": "29"
   },
   {
@@ -216,16 +204,16 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q222909",
+    "itemLabel": "2channel",
+    "year": "1999",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q29468697",
     "itemLabel": "r/place",
     "year": "2017",
     "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q222909",
-    "itemLabel": "2channel",
-    "year": "1999",
-    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q20657453",
@@ -246,28 +234,16 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28773",
-    "itemLabel": "identi.ca",
-    "year": "2008",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3281156",
     "itemLabel": "Shōsetsuka ni Narō",
     "year": "2004",
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q700773",
-    "itemLabel": "Stormfront",
-    "year": "1990",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q29760",
-    "itemLabel": "Cyworld",
-    "year": "1999",
-    "sitelinks": "21"
+    "item": "http://www.wikidata.org/entity/Q28773",
+    "itemLabel": "identi.ca",
+    "year": "2008",
+    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4044680",
@@ -276,9 +252,21 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q700773",
+    "itemLabel": "Stormfront",
+    "year": "1990",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q5299559",
     "itemLabel": "Douban",
     "year": "2005",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29760",
+    "itemLabel": "Cyworld",
+    "year": "1999",
     "sitelinks": "21"
   },
   {
@@ -297,24 +285,24 @@
     "item": "http://www.wikidata.org/entity/Q98148856",
     "itemLabel": "Nexta",
     "year": "2015",
-    "sitelinks": "19"
+    "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q135195814",
-    "itemLabel": "Max",
-    "year": "2025",
-    "sitelinks": "19"
+    "item": "http://www.wikidata.org/entity/Q22661177",
+    "itemLabel": "Zenodo",
+    "year": "2013",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q71207116",
+    "itemLabel": "Likee",
+    "year": "2017",
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q686797",
     "itemLabel": "Hacker News",
     "year": "2007",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q47015540",
-    "itemLabel": "Kuaishou",
-    "year": "2015",
     "sitelinks": "18"
   },
   {
@@ -324,16 +312,22 @@
     "sitelinks": "18"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q47015540",
+    "itemLabel": "Kuaishou",
+    "year": "2015",
+    "sitelinks": "18"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q60691545",
     "itemLabel": "Pixelfed",
     "year": "2018",
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q71207116",
-    "itemLabel": "Likee",
-    "year": "2017",
-    "sitelinks": "18"
+    "item": "http://www.wikidata.org/entity/Q63225180",
+    "itemLabel": "Kiwi Farms",
+    "year": "2013",
+    "sitelinks": "17"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32111",
@@ -348,33 +342,21 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22661177",
-    "itemLabel": "Zenodo",
-    "year": "2013",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q63225180",
-    "itemLabel": "Kiwi Farms",
-    "year": "2013",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q281055",
     "itemLabel": "Jeuxvideo.com",
     "year": "1997",
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15898172",
-    "itemLabel": "Zhihu",
-    "year": "2011",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q17054335",
     "itemLabel": "Giphy",
     "year": "2013",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15898172",
+    "itemLabel": "Zhihu",
+    "year": "2011",
     "sitelinks": "16"
   },
   {
@@ -390,6 +372,18 @@
     "sitelinks": "15"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q16045816",
+    "itemLabel": "Aparat",
+    "year": "2011",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5350642",
+    "itemLabel": "Ekşi Sözlük",
+    "year": "1999",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1464506",
     "itemLabel": "Friendica",
     "year": "2010",
@@ -402,10 +396,10 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5350642",
-    "itemLabel": "Ekşi Sözlük",
-    "year": "1999",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q1191246",
+    "itemLabel": "Futaba Channel",
+    "year": "2001",
+    "sitelinks": "13"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3504540",
@@ -420,28 +414,10 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1191246",
-    "itemLabel": "Futaba Channel",
-    "year": "2001",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16045816",
-    "itemLabel": "Aparat",
-    "year": "2011",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q88239185",
     "itemLabel": "r/WallStreetBets",
     "year": "2012",
     "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q181592",
-    "itemLabel": "JDN Viadeo",
-    "year": "2004",
-    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6883832",
@@ -450,15 +426,21 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q200001",
-    "itemLabel": "imeem",
-    "year": "2003",
-    "sitelinks": "11"
+    "item": "http://www.wikidata.org/entity/Q181592",
+    "itemLabel": "JDN Viadeo",
+    "year": "2004",
+    "sitelinks": "12"
   },
   {
     "item": "http://www.wikidata.org/entity/Q13980547",
     "itemLabel": "Less Wrong",
     "year": "2009",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200001",
+    "itemLabel": "imeem",
+    "year": "2003",
     "sitelinks": "11"
   },
   {
@@ -480,9 +462,9 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q30594871",
-    "itemLabel": "CodePen",
-    "year": "2012",
+    "item": "http://www.wikidata.org/entity/Q127601705",
+    "itemLabel": "Miestai.net",
+    "year": "2004",
     "sitelinks": "9"
   },
   {
@@ -492,21 +474,21 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q127601705",
-    "itemLabel": "Miestai.net",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q97173031",
+    "itemLabel": "Gitee",
+    "year": "2013",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30594871",
+    "itemLabel": "CodePen",
+    "year": "2012",
     "sitelinks": "9"
   },
   {
     "item": "http://www.wikidata.org/entity/Q20858429",
     "itemLabel": "The Button",
     "year": "2015",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q97173031",
-    "itemLabel": "Gitee",
-    "year": "2013",
     "sitelinks": "9"
   },
   {
@@ -522,9 +504,21 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q25384440",
+    "itemLabel": "OpenHistoricalMap",
+    "year": "2013",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q28134994",
     "itemLabel": "Gfycat",
     "year": "2013",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2523680",
+    "itemLabel": "Livemocha",
+    "year": "2007",
     "sitelinks": "8"
   },
   {
@@ -534,10 +528,16 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2523680",
-    "itemLabel": "Livemocha",
-    "year": "2007",
+    "item": "http://www.wikidata.org/entity/Q39045417",
+    "itemLabel": "/pol/",
+    "year": "2011",
     "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q13512352",
+    "itemLabel": "Ylilauta",
+    "year": "2011",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q117459359",
@@ -558,10 +558,10 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q39045417",
-    "itemLabel": "/pol/",
-    "year": "2011",
-    "sitelinks": "7"
+    "item": "http://www.wikidata.org/entity/Q4295488",
+    "itemLabel": "Mir Fantastiki",
+    "year": "2003",
+    "sitelinks": "6"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1562477",
@@ -570,21 +570,9 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4295488",
-    "itemLabel": "Mir Fantastiki",
-    "year": "2003",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q25384440",
-    "itemLabel": "OpenHistoricalMap",
-    "year": "2013",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q13512352",
-    "itemLabel": "Ylilauta",
-    "year": "2011",
+    "item": "http://www.wikidata.org/entity/Q4299858",
+    "itemLabel": "My World@Mail.Ru",
+    "year": "2007",
     "sitelinks": "6"
   },
   {
@@ -600,10 +588,10 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4299858",
-    "itemLabel": "My World@Mail.Ru",
-    "year": "2007",
-    "sitelinks": "6"
+    "item": "http://www.wikidata.org/entity/Q60455989",
+    "itemLabel": "Dvach",
+    "year": "2009",
+    "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q96310034",
@@ -615,6 +603,12 @@
     "item": "http://www.wikidata.org/entity/Q110972973",
     "itemLabel": "Sanctioned Suicide",
     "year": "2018",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15889126",
+    "itemLabel": "MDK",
+    "year": "2011",
     "sitelinks": "5"
   },
   {
@@ -633,18 +627,6 @@
     "item": "http://www.wikidata.org/entity/Q28417611",
     "itemLabel": "LIHKG Forum",
     "year": "2016",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q60455989",
-    "itemLabel": "Dvach",
-    "year": "2009",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q15889126",
-    "itemLabel": "MDK",
-    "year": "2011",
     "sitelinks": "5"
   },
   {

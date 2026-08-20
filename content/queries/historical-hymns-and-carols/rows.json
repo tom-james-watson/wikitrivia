@@ -4,7 +4,7 @@
     "itemLabel": "Stille Nacht Heilige Nacht",
     "year": "1815",
     "lyricistLabel": "Joseph Mohr",
-    "composerLabel": "traditional",
+    "composerLabel": "Franz Xaver Gruber",
     "sitelinks": "79"
   },
   {
@@ -37,7 +37,7 @@
     "year": "900",
     "lyricistLabel": "Rabanus Maurus",
     "composerLabel": "",
-    "sitelinks": "29"
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q112577",
@@ -45,7 +45,7 @@
     "year": "1780",
     "lyricistLabel": "",
     "composerLabel": "traditional",
-    "sitelinks": "29"
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q833220",
@@ -176,19 +176,11 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2736789",
-    "itemLabel": "Il est né, le divin Enfant",
-    "year": "1818",
-    "lyricistLabel": "traditional",
-    "composerLabel": "traditional",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1438854",
     "itemLabel": "Once in Royal David's City",
     "year": "1848",
     "lyricistLabel": "Cecil Frances Alexander",
-    "composerLabel": "Henry Gauntlett",
+    "composerLabel": "Arthur Henry Mann",
     "sitelinks": "12"
   },
   {
@@ -197,6 +189,14 @@
     "year": "1885",
     "lyricistLabel": "Charles H. Gabriel",
     "composerLabel": "William J. Kirkpatrick",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2736789",
+    "itemLabel": "Il est né, le divin Enfant",
+    "year": "1818",
+    "lyricistLabel": "traditional",
+    "composerLabel": "traditional",
     "sitelinks": "12"
   },
   {
@@ -220,7 +220,7 @@
     "itemLabel": "How Can I Keep from Singing?",
     "year": "1869",
     "lyricistLabel": "Roma Ryan",
-    "composerLabel": "Enya",
+    "composerLabel": "Robert Lowry",
     "sitelinks": "9"
   },
   {
@@ -264,11 +264,11 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16147392",
-    "itemLabel": "All Things Bright and Beautiful",
-    "year": "1848",
-    "lyricistLabel": "Cecil Frances Alexander",
-    "composerLabel": "William Henry Monk",
+    "item": "http://www.wikidata.org/entity/Q686572",
+    "itemLabel": "Up on the House Top",
+    "year": "1864",
+    "lyricistLabel": "Benjamin Hanby",
+    "composerLabel": "Benjamin Hanby",
     "sitelinks": "7"
   },
   {
@@ -280,11 +280,11 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q686572",
-    "itemLabel": "Up on the House Top",
-    "year": "1864",
-    "lyricistLabel": "Benjamin Hanby",
-    "composerLabel": "Benjamin Hanby",
+    "item": "http://www.wikidata.org/entity/Q16147392",
+    "itemLabel": "All Things Bright and Beautiful",
+    "year": "1848",
+    "lyricistLabel": "Cecil Frances Alexander",
+    "composerLabel": "William Henry Monk",
     "sitelinks": "7"
   },
   {
@@ -296,19 +296,19 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3544254",
-    "itemLabel": "Angels from the Realms of Glory",
-    "year": "1819",
-    "lyricistLabel": "James Montgomery",
-    "composerLabel": "Henry Thomas Smart",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2700097",
     "itemLabel": "His Eye Is on the Sparrow",
     "year": "1905",
     "lyricistLabel": "Civilla D. Martin",
     "composerLabel": "Charles H. Gabriel",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3544254",
+    "itemLabel": "Angels from the Realms of Glory",
+    "year": "1819",
+    "lyricistLabel": "James Montgomery",
+    "composerLabel": "Henry Thomas Smart",
     "sitelinks": "6"
   },
   {
@@ -328,19 +328,19 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5599364",
-    "itemLabel": "Great Is Thy Faithfulness",
-    "year": "1923",
-    "lyricistLabel": "Thomas Chisholm",
-    "composerLabel": "William M. Runyan",
-    "sitelinks": "5"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q11618143",
     "itemLabel": "Nun ruhen alle Wälder",
     "year": "1647",
     "lyricistLabel": "Paul Gerhardt",
     "composerLabel": "Heinrich Isaac",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5599364",
+    "itemLabel": "Great Is Thy Faithfulness",
+    "year": "1923",
+    "lyricistLabel": "Thomas Chisholm",
+    "composerLabel": "William M. Runyan",
     "sitelinks": "5"
   },
   {
@@ -392,6 +392,14 @@
     "sitelinks": "4"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q11900540",
+    "itemLabel": "Sparven om julmorgonen",
+    "year": "1859",
+    "lyricistLabel": "Zachris Topelius",
+    "composerLabel": "Otto Kotilainen",
+    "sitelinks": "4"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7110660",
     "itemLabel": "Our God, Our Help in Ages Past",
     "year": "1719",
@@ -413,14 +421,6 @@
     "year": "1763",
     "lyricistLabel": "Charles Wesley",
     "composerLabel": "Thomas Olivers",
-    "sitelinks": "4"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11900540",
-    "itemLabel": "Sparven om julmorgonen",
-    "year": "1859",
-    "lyricistLabel": "Zachris Topelius",
-    "composerLabel": "Otto Kotilainen",
     "sitelinks": "4"
   },
   {
@@ -448,11 +448,11 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3207006",
-    "itemLabel": "La Cambo me fai mau",
-    "year": "1700",
-    "lyricistLabel": "Nicolas Saboly",
-    "composerLabel": "Nicolas Saboly",
+    "item": "http://www.wikidata.org/entity/Q59784978",
+    "itemLabel": "Fröhlich soll mein Herze springen",
+    "year": "1653",
+    "lyricistLabel": "Paul Gerhardt",
+    "composerLabel": "Johann Crüger",
     "sitelinks": "3"
   },
   {
@@ -464,11 +464,11 @@
     "sitelinks": "3"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q59784978",
-    "itemLabel": "Fröhlich soll mein Herze springen",
-    "year": "1653",
-    "lyricistLabel": "Paul Gerhardt",
-    "composerLabel": "Johann Crüger",
+    "item": "http://www.wikidata.org/entity/Q3207006",
+    "itemLabel": "La Cambo me fai mau",
+    "year": "1700",
+    "lyricistLabel": "Nicolas Saboly",
+    "composerLabel": "Nicolas Saboly",
     "sitelinks": "3"
   },
   {
@@ -477,14 +477,6 @@
     "year": "1871",
     "lyricistLabel": "Edward Caswall",
     "composerLabel": "John Goss",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1366616",
-    "itemLabel": "Es wird scho glei dumpa",
-    "year": "1884",
-    "lyricistLabel": "Anton Reidinger",
-    "composerLabel": "Anton Reidinger",
     "sitelinks": "3"
   },
   {
@@ -501,6 +493,14 @@
     "year": "1842",
     "lyricistLabel": "Johannes Carl",
     "composerLabel": "Georg Eisenbach",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1366616",
+    "itemLabel": "Es wird scho glei dumpa",
+    "year": "1884",
+    "lyricistLabel": "Anton Reidinger",
+    "composerLabel": "Anton Reidinger",
     "sitelinks": "3"
   },
   {
@@ -560,27 +560,11 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19032539",
-    "itemLabel": "Forth in Thy Name, O Lord",
-    "year": "1861",
-    "lyricistLabel": "",
-    "composerLabel": "",
-    "sitelinks": "2"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q16268819",
     "itemLabel": "Te Deum (Giuseppe Verdi)",
     "year": "1898",
     "lyricistLabel": "",
     "composerLabel": "Giuseppe Verdi",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3601328",
-    "itemLabel": "As with Gladness Men of Old",
-    "year": "1861",
-    "lyricistLabel": "William Chatterton Dix",
-    "composerLabel": "Conrad Kocher",
     "sitelinks": "2"
   },
   {
@@ -600,19 +584,11 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q28035624",
-    "itemLabel": "Lysets engel går med glans",
-    "year": "1837",
-    "lyricistLabel": "Bernhard Severin Ingemann",
-    "composerLabel": "Christoph Ernst Friedrich Weyse",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q121254360",
-    "itemLabel": "Q121254360",
-    "year": "1812",
-    "lyricistLabel": "Karl Friedrich Wilhelm Herrosee",
-    "composerLabel": "Karl Friedrich Schulz",
+    "item": "http://www.wikidata.org/entity/Q3601328",
+    "itemLabel": "As with Gladness Men of Old",
+    "year": "1861",
+    "lyricistLabel": "William Chatterton Dix",
+    "composerLabel": "Conrad Kocher",
     "sitelinks": "2"
   },
   {
@@ -645,6 +621,30 @@
     "year": "1830",
     "lyricistLabel": "Ludwig Ernst Gebhardi",
     "composerLabel": "Ludwig Ernst Gebhardi",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28035624",
+    "itemLabel": "Lysets engel går med glans",
+    "year": "1837",
+    "lyricistLabel": "Bernhard Severin Ingemann",
+    "composerLabel": "Christoph Ernst Friedrich Weyse",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q121254360",
+    "itemLabel": "Q121254360",
+    "year": "1812",
+    "lyricistLabel": "Karl Friedrich Wilhelm Herrosee",
+    "composerLabel": "Karl Friedrich Schulz",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19032539",
+    "itemLabel": "Forth in Thy Name, O Lord",
+    "year": "1861",
+    "lyricistLabel": "",
+    "composerLabel": "",
     "sitelinks": "2"
   },
   {

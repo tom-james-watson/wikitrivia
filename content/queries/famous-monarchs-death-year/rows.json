@@ -3,7 +3,7 @@
     "item": "http://www.wikidata.org/entity/Q8409",
     "itemLabel": "Alexander the Great",
     "year": "-322",
-    "sitelinks": "261",
+    "sitelinks": "262",
     "description": "king of Macedonia and conqueror of Achaemenid Persia (356–323 BC)",
     "nationalityLabel": "Macedonia",
     "occupationLabel": "monarch||politician||military leader"
@@ -12,7 +12,7 @@
     "item": "http://www.wikidata.org/entity/Q9682",
     "itemLabel": "Elizabeth II",
     "year": "2022",
-    "sitelinks": "253",
+    "sitelinks": "254",
     "description": "Queen of the United Kingdom from 1952 to 2022 (1926–2022)",
     "nationalityLabel": "British||Briton",
     "occupationLabel": "monarch"
@@ -48,8 +48,8 @@
     "item": "http://www.wikidata.org/entity/Q7742",
     "itemLabel": "Louis XIV of France",
     "year": "1715",
-    "sitelinks": "184",
-    "description": "King of France and of Navarre from 1643 to 1715 (1638-1715)",
+    "sitelinks": "183",
+    "description": "King of France and Navarre from 1643 to 1715 (1638-1715)",
     "nationalityLabel": "French",
     "occupationLabel": "monarch||actor||politician||statesperson||art collector"
   },
@@ -60,14 +60,14 @@
     "sitelinks": "176",
     "description": "16th Roman Emperor from 161 to 180 and Stoic philosopher",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "monarch||author||politician||philosopher"
+    "occupationLabel": "monarch||writer||politician||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9439",
     "itemLabel": "Victoria",
     "year": "1901",
     "sitelinks": "173",
-    "description": "Queen of the United Kingdom from 1837 to 1901 (1819–1901)",
+    "description": "Queen of the United Kingdom from 1837 to 1901 (1819-1901)",
     "nationalityLabel": "British||Briton",
     "occupationLabel": "monarch"
   },
@@ -75,7 +75,7 @@
     "item": "http://www.wikidata.org/entity/Q635",
     "itemLabel": "Cleopatra",
     "year": "-29",
-    "sitelinks": "170",
+    "sitelinks": "171",
     "description": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE",
     "nationalityLabel": "Ptolemaic Kingdom",
     "occupationLabel": "monarch||sovereign"
@@ -84,7 +84,7 @@
     "item": "http://www.wikidata.org/entity/Q8597",
     "itemLabel": "Akbar",
     "year": "1605",
-    "sitelinks": "166",
+    "sitelinks": "167",
     "description": "the third and greatest Mughal emperor from 1556 to 1605",
     "nationalityLabel": "",
     "occupationLabel": "monarch"
@@ -96,14 +96,14 @@
     "sitelinks": "156",
     "description": "emperor of Japan from 1926 to 1989",
     "nationalityLabel": "Empire of Japan||Japanese",
-    "occupationLabel": "monarch||military personnel||zoologist||diplomat||marine biologist||aristocrat||scientific collector"
+    "occupationLabel": "monarch||military personnel||aristocrat||marine biologist||diplomat||zoologist||scientific collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36450",
     "itemLabel": "Catherine II of Russia",
     "year": "1796",
-    "sitelinks": "151",
-    "description": "The eighth and greatest Emperor of Russia (r. 1762–1796)",
+    "sitelinks": "152",
+    "description": "eighth Emperor of Russia, called the Great, r. 1762–1796 (lived 1729-1796)",
     "nationalityLabel": "Russian||Prussian",
     "occupationLabel": "monarch||politician||aristocrat||art collector"
   },
@@ -111,7 +111,7 @@
     "item": "http://www.wikidata.org/entity/Q8423",
     "itemLabel": "Cyrus the Great",
     "year": "-529",
-    "sitelinks": "148",
+    "sitelinks": "150",
     "description": "founder of the Achaemenid Empire (559–529 BC)",
     "nationalityLabel": "Persian||Achaemenid||Achaemenian||Anshan Persia",
     "occupationLabel": "monarch||military leader||sovereign||founder"
@@ -120,16 +120,16 @@
     "item": "http://www.wikidata.org/entity/Q855252",
     "itemLabel": "Bhumibol Adulyadej",
     "year": "2016",
-    "sitelinks": "142",
+    "sitelinks": "143",
     "description": "former King of Thailand (1927–2016)",
     "nationalityLabel": "Thai",
-    "occupationLabel": "monarch||photographer||composer||author||teacher||engineer||statesperson||sailor||painter||military officer||environmentalist||social worker||saxophonist||jazz musician"
+    "occupationLabel": "monarch||composer||photographer||writer||teacher||engineer||statesperson||sailor||painter||military officer||environmentalist||social worker||saxophonist||jazz musician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40787",
     "itemLabel": "Nicholas II of Russia",
     "year": "1918",
-    "sitelinks": "136",
+    "sitelinks": "137",
     "description": "14th and last Emperor of Russia (1894–1917)",
     "nationalityLabel": "Russian",
     "occupationLabel": "monarch"
@@ -138,10 +138,19 @@
     "item": "http://www.wikidata.org/entity/Q2677",
     "itemLabel": "Wilhelm II",
     "year": "1941",
-    "sitelinks": "129",
+    "sitelinks": "130",
     "description": "as King of Prussia last German Emperor from 1888 to 1918 (1859–1941)",
     "nationalityLabel": "German||Prussian",
-    "occupationLabel": "monarch||author||painter||ruler||art collector"
+    "occupationLabel": "monarch||painter||author||ruler||art collector"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36359",
+    "itemLabel": "Hammurabi",
+    "year": "-1749",
+    "sitelinks": "126",
+    "description": "sixth king of Babylon (r. 1792–1750 BCE)",
+    "nationalityLabel": "Babylonian",
+    "occupationLabel": "monarch||king||leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7732",
@@ -162,22 +171,13 @@
     "occupationLabel": "monarch"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q36359",
-    "itemLabel": "Hammurabi",
-    "year": "-1749",
-    "sitelinks": "124",
-    "description": "sixth king of Babylon (r. 1792–1750 BCE)",
-    "nationalityLabel": "Babylonian",
-    "occupationLabel": "king||monarch||leader"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q33550",
     "itemLabel": "Frederick II of Prussia",
     "year": "1786",
-    "sitelinks": "123",
+    "sitelinks": "124",
     "description": "King of Prussia from 1740 to 1786 (1712-1786)",
     "nationalityLabel": "Prussian",
-    "occupationLabel": "king||monarch||composer||ruler||librettist||art collector"
+    "occupationLabel": "king||monarch||composer||ruler||art collector||librettist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q34503",
@@ -243,6 +243,15 @@
     "occupationLabel": "monarch"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q44387",
+    "itemLabel": "Darius I",
+    "year": "-485",
+    "sitelinks": "111",
+    "description": "The fourth and greatest Achaemenid emperor (522–486 BC)",
+    "nationalityLabel": "Persian||Achaemenid||Achaemenian",
+    "occupationLabel": "monarch||statesperson||military leader"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q15193",
     "itemLabel": "Alexander I of Russia",
     "year": "1825",
@@ -267,7 +276,7 @@
     "sitelinks": "109",
     "description": "King of the United Kingdom from 1910 to 1936",
     "nationalityLabel": "British Raj||British||Briton",
-    "occupationLabel": "monarch||politician||philatelist||aristocrat"
+    "occupationLabel": "monarch||politician||aristocrat||philatelist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q590227",
@@ -279,13 +288,13 @@
     "occupationLabel": "monarch||military personnel||aristocrat"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q44387",
-    "itemLabel": "Darius I",
-    "year": "-485",
+    "item": "http://www.wikidata.org/entity/Q797848",
+    "itemLabel": "Babur",
+    "year": "1531",
     "sitelinks": "108",
-    "description": "The fourth and greatest Achaemenid emperor (522–486 BC)",
-    "nationalityLabel": "Persian||Achaemenid||Achaemenian",
-    "occupationLabel": "monarch||statesperson||military leader"
+    "description": "founder of the Mughal Empire (1526–1530)",
+    "nationalityLabel": "",
+    "occupationLabel": "monarch||writer||poet||autobiographer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127318",
@@ -294,7 +303,7 @@
     "sitelinks": "108",
     "description": "King of Great Britain and Ireland from 1760 to 1820 (1738–1820)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "monarch||politician||ruler||aristocrat||patron of the arts||art collector"
+    "occupationLabel": "monarch||politician||aristocrat||ruler||art collector||patron of the arts"
   },
   {
     "item": "http://www.wikidata.org/entity/Q20875",
@@ -306,20 +315,11 @@
     "occupationLabel": "monarch||politician||aristocrat||art collector"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q797848",
-    "itemLabel": "Babur",
-    "year": "1531",
-    "sitelinks": "107",
-    "description": "founder of the Mughal Empire (1526–1530)",
-    "nationalityLabel": "",
-    "occupationLabel": "monarch||author||poet||autobiographer"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q7738",
     "itemLabel": "Louis XV of France",
     "year": "1774",
     "sitelinks": "106",
-    "description": "King of France and of Navarre from 1715 to 1774 (1710–1774)",
+    "description": "King of France and Navarre 1715 to 1774 (1710–1774)",
     "nationalityLabel": "French",
     "occupationLabel": "monarch||art collector"
   },
@@ -357,13 +357,13 @@
     "sitelinks": "102",
     "description": "king of Wessex (r. 872–901)",
     "nationalityLabel": "Kingdom of Wessex",
-    "occupationLabel": "monarch||author||politician"
+    "occupationLabel": "monarch||writer||politician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83672",
     "itemLabel": "Shah Jahan",
     "year": "1666",
-    "sitelinks": "100",
+    "sitelinks": "101",
     "description": "the fifth Mughal Emperor from 1628 to 1658",
     "nationalityLabel": "",
     "occupationLabel": "monarch"
@@ -372,17 +372,17 @@
     "item": "http://www.wikidata.org/entity/Q47842",
     "itemLabel": "Empress Dowager Cixi",
     "year": "1908",
-    "sitelinks": "100",
+    "sitelinks": "101",
     "description": "Chinese empress (1835–1908)",
     "nationalityLabel": "Qing dynasty",
-    "occupationLabel": "monarch||photographer||queen regnant||politician||painter"
+    "occupationLabel": "monarch||queen regnant||photographer||politician||painter"
   },
   {
     "item": "http://www.wikidata.org/entity/Q122553",
     "itemLabel": "Charles II of England",
     "year": "1685",
-    "sitelinks": "98",
-    "description": "King of England, Scotland, and Ireland from 1660 to 1685 (1630-1685)",
+    "sitelinks": "99",
+    "description": "King of England, Scotland, and Ireland  (1630-1685)",
     "nationalityLabel": "English",
     "occupationLabel": "monarch||politician||sovereign||art collector||slave trader"
   },
@@ -390,10 +390,19 @@
     "item": "http://www.wikidata.org/entity/Q27695",
     "itemLabel": "Shaka Zulu",
     "year": "1828",
-    "sitelinks": "98",
+    "sitelinks": "99",
     "description": "leader of the Zulu Kingdom",
     "nationalityLabel": "Zulu",
     "occupationLabel": "monarch"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51056",
+    "itemLabel": "Franz Joseph I of Austria",
+    "year": "1916",
+    "sitelinks": "99",
+    "description": "Emperor of Austria and King of Hungary (1830-1916)",
+    "nationalityLabel": "Austrian",
+    "occupationLabel": "monarch||politician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q120180",
@@ -403,15 +412,6 @@
     "description": "Emperor of Russia from 1881 to 1894",
     "nationalityLabel": "Russian",
     "occupationLabel": "monarch||art collector"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q51056",
-    "itemLabel": "Franz Joseph I of Austria",
-    "year": "1916",
-    "sitelinks": "98",
-    "description": "Emperor of Austria and King of Hungary (1830-1916)",
-    "nationalityLabel": "Austrian",
-    "occupationLabel": "monarch||politician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130822",
@@ -430,6 +430,15 @@
     "description": "King of Babylon",
     "nationalityLabel": "Neo-Babylonian Empire",
     "occupationLabel": "king||monarch||leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q485547",
+    "itemLabel": "Aurangzeb",
+    "year": "1707",
+    "sitelinks": "96",
+    "description": "the sixth Mughal Emperor from 1658 to 1707",
+    "nationalityLabel": "",
+    "occupationLabel": "monarch"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12967",
@@ -455,17 +464,26 @@
     "year": "1625",
     "sitelinks": "95",
     "description": "King of Scotland from 1566 to 1625, King of England and Ireland from 1603 to 1625",
-    "nationalityLabel": "Kingdom of Ireland||Scottish||English",
-    "occupationLabel": "monarch||author||poet||aristocrat"
+    "nationalityLabel": "English||Scottish||Kingdom of Ireland",
+    "occupationLabel": "monarch||writer||poet||aristocrat"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174231",
+    "itemLabel": "Emperor Meiji",
+    "year": "1912",
+    "sitelinks": "95",
+    "description": "Emperor of Japan from 1867 until 1912",
+    "nationalityLabel": "Japanese",
+    "occupationLabel": "monarch||aristocrat"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151509",
-    "itemLabel": "Ibn Saud",
+    "itemLabel": "Ibn Saʻūd",
     "year": "1953",
     "sitelinks": "95",
     "description": "King of Saudi Arabia from 1932 to 1953",
     "nationalityLabel": "Saudi Arabia",
-    "occupationLabel": "monarch||military personnel||politician||statesperson"
+    "occupationLabel": "monarch||king||military personnel||politician||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q346",
@@ -474,7 +492,7 @@
     "sitelinks": "94",
     "description": "King of France from 1226 to 1270 (1214–1270)",
     "nationalityLabel": "French",
-    "occupationLabel": "monarch||ruler||Miles Christianus"
+    "occupationLabel": "monarch||Miles Christianus||ruler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83229",
@@ -483,7 +501,7 @@
     "sitelinks": "94",
     "description": "king of England and Ireland from 1547 to 1553",
     "nationalityLabel": "English",
-    "occupationLabel": "monarch||author||aristocrat"
+    "occupationLabel": "monarch||writer||aristocrat"
   },
   {
     "item": "http://www.wikidata.org/entity/Q119702",
@@ -492,16 +510,16 @@
     "sitelinks": "94",
     "description": "Queen of Great Britain and Ireland from 1702 to 1714 (1665–1714)",
     "nationalityLabel": "British||Briton",
-    "occupationLabel": "monarch||queen regnant||politician||statesperson||ruler||aristocrat"
+    "occupationLabel": "monarch||queen regnant||politician||statesperson||aristocrat||ruler"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q174231",
-    "itemLabel": "Emperor Meiji",
-    "year": "1912",
-    "sitelinks": "94",
-    "description": "Emperor of Japan from 1867 until 1912",
-    "nationalityLabel": "Japanese",
-    "occupationLabel": "monarch||aristocrat"
+    "item": "http://www.wikidata.org/entity/Q130650",
+    "itemLabel": "Philip II of Macedon",
+    "year": "-335",
+    "sitelinks": "93",
+    "description": "King of Macedon from 359 to 336 BC",
+    "nationalityLabel": "Macedonia",
+    "occupationLabel": "monarch"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129308",
@@ -513,31 +531,13 @@
     "occupationLabel": "monarch"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q485547",
-    "itemLabel": "Aurangzeb",
-    "year": "1707",
-    "sitelinks": "93",
-    "description": "the sixth Mughal Emperor from 1658 to 1707",
-    "nationalityLabel": "",
-    "occupationLabel": "monarch"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q130650",
-    "itemLabel": "Philip II of Macedon",
-    "year": "-335",
-    "sitelinks": "92",
-    "description": "King of Macedon from 359 to 336 BC",
-    "nationalityLabel": "Macedonia",
-    "occupationLabel": "monarch"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q130221",
     "itemLabel": "Frederick II, Holy Roman Emperor",
     "year": "1250",
-    "sitelinks": "92",
+    "sitelinks": "93",
     "description": "King of Sicily, Holy Roman Emperor (1194–1250, 1220–1250)",
     "nationalityLabel": "Kingdom of Sicily||Roman",
-    "occupationLabel": "monarch||author||poet||sovereign"
+    "occupationLabel": "monarch||writer||poet||sovereign"
   },
   {
     "item": "http://www.wikidata.org/entity/Q82339",
@@ -576,22 +576,31 @@
     "occupationLabel": "monarch||politician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1446",
-    "itemLabel": "Caracalla",
-    "year": "217",
-    "sitelinks": "89",
-    "description": "Roman emperor from 198 to 217",
-    "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "monarch||politician"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q126188",
     "itemLabel": "James II of England",
     "year": "1701",
     "sitelinks": "89",
     "description": "King of England, Scotland, and Ireland from 1685 to 1688 (1633–1701)",
-    "nationalityLabel": "Scottish||English",
+    "nationalityLabel": "English||Scottish",
     "occupationLabel": "monarch||politician||sovereign||slave trader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131981",
+    "itemLabel": "George II of Great Britain",
+    "year": "1760",
+    "sitelinks": "89",
+    "description": "King of Great Britain and Ireland from 1727 to 1760",
+    "nationalityLabel": "Electorate of Hanover||British||Briton",
+    "occupationLabel": "monarch||aristocrat"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1446",
+    "itemLabel": "Caracalla",
+    "year": "217",
+    "sitelinks": "88",
+    "description": "Roman emperor from 198 to 217",
+    "nationalityLabel": "Roman||Romans",
+    "occupationLabel": "monarch||politician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q57798",
@@ -612,13 +621,13 @@
     "occupationLabel": "monarch"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131981",
-    "itemLabel": "George II of Great Britain",
-    "year": "1760",
-    "sitelinks": "88",
-    "description": "King of Great Britain and Ireland from 1727 to 1760",
-    "nationalityLabel": "Electorate of Hanover||British||Briton",
-    "occupationLabel": "monarch||aristocrat"
+    "item": "http://www.wikidata.org/entity/Q43974",
+    "itemLabel": "Louis the Pious",
+    "year": "840",
+    "sitelinks": "86",
+    "description": "King of the Franks",
+    "nationalityLabel": "Carolingian Empire",
+    "occupationLabel": "monarch||sovereign"
   },
   {
     "item": "http://www.wikidata.org/entity/Q52937",
@@ -627,7 +636,7 @@
     "sitelinks": "86",
     "description": "Queen of Sweden, ruled from 1632 until abdication in 1654 (1626–1689)",
     "nationalityLabel": "Swedish",
-    "occupationLabel": "monarch||author||painter||philosopher||art collector"
+    "occupationLabel": "monarch||writer||painter||philosopher||art collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q105105",
@@ -639,13 +648,13 @@
     "occupationLabel": "monarch||sovereign"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43974",
-    "itemLabel": "Louis the Pious",
-    "year": "840",
+    "item": "http://www.wikidata.org/entity/Q71231",
+    "itemLabel": "Charles the Bald",
+    "year": "877",
     "sitelinks": "85",
-    "description": "King of the Franks",
-    "nationalityLabel": "Carolingian Empire",
-    "occupationLabel": "monarch||sovereign"
+    "description": "King of West Francia from 843 to 877 and Carolingian Emperor from 875 to 877",
+    "nationalityLabel": "West Francia",
+    "occupationLabel": "monarch||writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102140",
@@ -661,7 +670,7 @@
     "itemLabel": "Elizabeth I of Russia",
     "year": "1762",
     "sitelinks": "85",
-    "description": "The sixth Emperor of Russia (1741–1762)",
+    "description": "sixth Empress of Russia from 1741 to 1762 (lived 1709-1762)",
     "nationalityLabel": "Tsardom of Russia||Russian",
     "occupationLabel": "monarch||politician||aristocrat"
   },
@@ -675,15 +684,6 @@
     "occupationLabel": "monarch"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q71231",
-    "itemLabel": "Charles the Bald",
-    "year": "877",
-    "sitelinks": "84",
-    "description": "King of West Francia from 843 to 877 and Carolingian Emperor from 875 to 877",
-    "nationalityLabel": "West Francia",
-    "occupationLabel": "monarch||author"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q129247",
     "itemLabel": "Edward III of England",
     "year": "1377",
@@ -691,6 +691,33 @@
     "description": "King of England from 1327 to 1377",
     "nationalityLabel": "English",
     "occupationLabel": "monarch||royalty"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53454",
+    "itemLabel": "John III Sobieski",
+    "year": "1696",
+    "sitelinks": "84",
+    "description": "King of Poland and Grand Duke of Lithuania (1629–1696)",
+    "nationalityLabel": "Polish–Lithuanian Commonwealth",
+    "occupationLabel": "monarch||politician||military leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150782",
+    "itemLabel": "Empress Elisabeth of Austria",
+    "year": "1898",
+    "sitelinks": "84",
+    "description": "Empress of Austria and Queen of Hungary from 1854 to 1898 (1837–1898)",
+    "nationalityLabel": "Austrian||Kingdom of Bavaria",
+    "occupationLabel": "monarch||courtier"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172353",
+    "itemLabel": "Pyrrhus",
+    "year": "-271",
+    "sitelinks": "83",
+    "description": "king of Epirus from 307 to 302 and 297 to 272 BC",
+    "nationalityLabel": "Epirus",
+    "occupationLabel": "monarch||military personnel||politician||statesperson"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81212",
@@ -707,7 +734,7 @@
     "year": "1509",
     "sitelinks": "83",
     "description": "King of England from 1485 to 1509",
-    "nationalityLabel": "Principality of Wales||English",
+    "nationalityLabel": "English||Principality of Wales",
     "occupationLabel": "monarch||royalty"
   },
   {
@@ -717,25 +744,16 @@
     "sitelinks": "83",
     "description": "founder and first shah of Safavid Iran",
     "nationalityLabel": "Safavid",
-    "occupationLabel": "monarch||author||head of state||poet||politician||governor||military leader"
+    "occupationLabel": "monarch||writer||poet||head of state||politician||governor||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q171349",
-    "itemLabel": "Abbas the Great",
-    "year": "1629",
+    "item": "http://www.wikidata.org/entity/Q691402",
+    "itemLabel": "Philip IV of Spain",
+    "year": "1665",
     "sitelinks": "83",
-    "description": "Shah of Safavid Iran (1587–1629)",
-    "nationalityLabel": "Safavid",
-    "occupationLabel": "monarch||head of state||politician||governor||military leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q53454",
-    "itemLabel": "John III Sobieski",
-    "year": "1696",
-    "sitelinks": "83",
-    "description": "King of Poland and Grand Duke of Lithuania (1629–1696)",
-    "nationalityLabel": "Polish–Lithuanian Commonwealth",
-    "occupationLabel": "monarch||politician||military leader"
+    "description": "King of Spain and Portugal (1605-1665)",
+    "nationalityLabel": "Spanish||Spaniard",
+    "occupationLabel": "monarch||politician||ruler||art collector"
   },
   {
     "item": "http://www.wikidata.org/entity/Q76555",
@@ -747,22 +765,13 @@
     "occupationLabel": "monarch||military leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150782",
-    "itemLabel": "Empress Elisabeth of Austria",
-    "year": "1898",
+    "item": "http://www.wikidata.org/entity/Q939",
+    "itemLabel": "Pedro I of Brazil",
+    "year": "1834",
     "sitelinks": "83",
-    "description": "Empress of Austria and Queen of Hungary from 1854 to 1898 (1837–1898)",
-    "nationalityLabel": "Austrian||Kingdom of Bavaria",
-    "occupationLabel": "monarch||courtier"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q172353",
-    "itemLabel": "Pyrrhus",
-    "year": "-271",
-    "sitelinks": "82",
-    "description": "king of Epirus from 307 to 302 and 297 to 272 BC",
-    "nationalityLabel": "Epirus",
-    "occupationLabel": "monarch||military personnel||politician||statesperson"
+    "description": "Emperor of Brazil from 1822 to 1831 and King of Portugal in 1826 (1798-1834)",
+    "nationalityLabel": "Empire of Brazil||Kingdom of Portugal",
+    "occupationLabel": "monarch||composer||poet||politician"
   },
   {
     "item": "http://www.wikidata.org/entity/Q155669",
@@ -771,16 +780,16 @@
     "sitelinks": "82",
     "description": "Holy Roman Emperor",
     "nationalityLabel": "Roman",
-    "occupationLabel": "monarch||author||politician||sovereign"
+    "occupationLabel": "monarch||writer||politician||sovereign"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q939",
-    "itemLabel": "Pedro I of Brazil",
-    "year": "1834",
+    "item": "http://www.wikidata.org/entity/Q171349",
+    "itemLabel": "Abbas the Great",
+    "year": "1629",
     "sitelinks": "82",
-    "description": "Emperor of Brazil (1822–31) and King of Portugal (1826)",
-    "nationalityLabel": "Empire of Brazil||Kingdom of Portugal",
-    "occupationLabel": "monarch||composer||poet||politician"
+    "description": "Shah of Safavid Iran (1587–1629)",
+    "nationalityLabel": "Safavid",
+    "occupationLabel": "monarch||head of state||politician||governor||military leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217167",
@@ -810,13 +819,22 @@
     "occupationLabel": "monarch||sultan"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q691402",
-    "itemLabel": "Philip IV of Spain",
-    "year": "1665",
+    "item": "http://www.wikidata.org/entity/Q486188",
+    "itemLabel": "Humayun",
+    "year": "1556",
     "sitelinks": "81",
-    "description": "King of Spain and Portugal (1605-1665)",
-    "nationalityLabel": "Spanish||Spaniard",
-    "occupationLabel": "monarch||politician||ruler||art collector"
+    "description": "second Mughal emperor from 1530 to 1540 and 1555 to 1556",
+    "nationalityLabel": "",
+    "occupationLabel": "monarch"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83653",
+    "itemLabel": "Jahangir I",
+    "year": "1627",
+    "sitelinks": "81",
+    "description": "the fourth Mughal Emperor from 1605 to 1627",
+    "nationalityLabel": "",
+    "occupationLabel": "monarch"
   },
   {
     "item": "http://www.wikidata.org/entity/Q168691",
@@ -828,24 +846,6 @@
     "occupationLabel": "monarch||sovereign"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q486188",
-    "itemLabel": "Humayun",
-    "year": "1556",
-    "sitelinks": "80",
-    "description": "second Mughal emperor from 1530 to 1540 and 1555 to 1556",
-    "nationalityLabel": "",
-    "occupationLabel": "monarch"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q83653",
-    "itemLabel": "Jahangir I",
-    "year": "1627",
-    "sitelinks": "80",
-    "description": "the fourth Mughal Emperor from 1605 to 1627",
-    "nationalityLabel": "",
-    "occupationLabel": "monarch"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q156774",
     "itemLabel": "Pedro II of Brazil",
     "year": "1891",
@@ -853,6 +853,15 @@
     "description": "2nd and final Emperor of Brazil (r. 1831–89)",
     "nationalityLabel": "Brazilian||Brazilians",
     "occupationLabel": "monarch||politician||statesperson"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q146906",
+    "itemLabel": "Hussein I of Jordan",
+    "year": "1999",
+    "sitelinks": "80",
+    "description": "King of Jordan from 1952 to 1999",
+    "nationalityLabel": "Emirate of Transjordan||Arab Federation||Jordanian",
+    "occupationLabel": "monarch"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51672",
@@ -871,6 +880,15 @@
     "description": "King of France from 1380 to 1422 (1368–1422)",
     "nationalityLabel": "French",
     "occupationLabel": "monarch"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165983",
+    "itemLabel": "Selim i",
+    "year": "1512",
+    "sitelinks": "79",
+    "description": "the eighth Sultan of the Ottoman Empire (1481–1512)",
+    "nationalityLabel": "",
+    "occupationLabel": "monarch||sultan"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130812",
@@ -900,22 +918,31 @@
     "occupationLabel": "monarch||tsar"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "year": "1740",
+    "sitelinks": "79",
+    "description": "18th century Habsburg Holy Roman Emperor",
+    "nationalityLabel": "Spanish||Spaniard||Hungarian",
+    "occupationLabel": "monarch||art collector"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q192868",
     "itemLabel": "Nader Shah",
     "year": "1747",
     "sitelinks": "79",
     "description": "Shah of Iran (r. 1736–47) and founder of the Afsharid dynasty",
     "nationalityLabel": "Afsharid Iran||Safavid",
-    "occupationLabel": "monarch||military personnel||politician||governor||shah||military leader||royalty"
+    "occupationLabel": "monarch||military personnel||politician||governor||military leader||shah||royalty"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q146906",
-    "itemLabel": "Hussein I of Jordan",
-    "year": "1999",
+    "item": "http://www.wikidata.org/entity/Q52927",
+    "itemLabel": "Charles XIV John of Sweden",
+    "year": "1844",
     "sitelinks": "79",
-    "description": "King of Jordan from 1952 to 1999",
-    "nationalityLabel": "Emirate of Transjordan||Arab Federation||Jordanian",
-    "occupationLabel": "monarch"
+    "description": "King of Sweden and Norway between 1818–1844. Prince of Ponte Corvo 1806–1810 and French field marshal (1763–1844)",
+    "nationalityLabel": "French||Swedish",
+    "occupationLabel": "monarch||politician||soldier||military commander"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183187",
@@ -933,34 +960,16 @@
     "sitelinks": "78",
     "description": "11th-century King of Denmark, Norway, and England",
     "nationalityLabel": "North Sea Empire||Danish||dane||danes",
-    "occupationLabel": "monarch||author"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q165983",
-    "itemLabel": "Bayezid II",
-    "year": "1512",
-    "sitelinks": "78",
-    "description": "the eighth Sultan of the Ottoman Empire (1481–1512)",
-    "nationalityLabel": "",
-    "occupationLabel": "monarch||sultan"
+    "occupationLabel": "monarch||writer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q150611",
     "itemLabel": "Ferdinand I, Holy Roman Emperor",
     "year": "1564",
     "sitelinks": "78",
-    "description": "Holy Roman Emperor of the Habsburg dynasty and king of Bohemia, Croatia and Hungary (1503–1564)",
+    "description": "emperador del SIR de 1556 a 1564",
     "nationalityLabel": "Roman",
     "occupationLabel": "monarch||politician||aristocrat"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q52927",
-    "itemLabel": "Charles XIV John of Sweden",
-    "year": "1844",
-    "sitelinks": "78",
-    "description": "King of Sweden and Norway between 1818–1844. Prince of Ponte Corvo 1806–1810 and French field marshal (1763–1844)",
-    "nationalityLabel": "Swedish||French",
-    "occupationLabel": "monarch||politician||soldier||military commander"
   },
   {
     "item": "http://www.wikidata.org/entity/Q150747",
@@ -981,6 +990,15 @@
     "occupationLabel": "monarch"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q5236",
+    "itemLabel": "Edward II of England",
+    "year": "1327",
+    "sitelinks": "77",
+    "description": "King of England from 1307 to 1327",
+    "nationalityLabel": "English||Wales",
+    "occupationLabel": "monarch||aristocrat"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q96261",
     "itemLabel": "Murad I",
     "year": "1389",
@@ -994,18 +1012,18 @@
     "itemLabel": "Charles VII of France",
     "year": "1461",
     "sitelinks": "77",
-    "description": "monarch of the House of Valois who ruled as King of France",
+    "description": "monarch of the House of Valois who ruled as King of France (1403-1461)",
     "nationalityLabel": "French",
     "occupationLabel": "monarch||mint lord||sovereign"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q150665",
-    "itemLabel": "Charles VI, Holy Roman Emperor",
-    "year": "1740",
+    "item": "http://www.wikidata.org/entity/Q160341",
+    "itemLabel": "Edward IV of England",
+    "year": "1483",
     "sitelinks": "77",
-    "description": "18th century Habsburg Holy Roman Emperor",
-    "nationalityLabel": "Spanish||Spaniard||Hungarian",
-    "occupationLabel": "monarch||art collector"
+    "description": "King of England from 1461 to 1470 and 1471 to 1483",
+    "nationalityLabel": "English",
+    "occupationLabel": "monarch"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134259",
@@ -1026,15 +1044,6 @@
     "occupationLabel": "monarch||politician"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5236",
-    "itemLabel": "Edward II of England",
-    "year": "1327",
-    "sitelinks": "76",
-    "description": "King of England from 1307 to 1327",
-    "nationalityLabel": "English||Welsh",
-    "occupationLabel": "monarch||aristocrat"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q160337",
     "itemLabel": "Henry VI of England",
     "year": "1471",
@@ -1042,15 +1051,6 @@
     "description": "King of England from 1422 to 1461 and from 1470 to 1471, disputed King of France from 1422 to 1453",
     "nationalityLabel": "English",
     "occupationLabel": "monarch||politician"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q160341",
-    "itemLabel": "Edward IV of England",
-    "year": "1483",
-    "sitelinks": "76",
-    "description": "King of England from 1461 to 1470 and 1471 to 1483",
-    "nationalityLabel": "English",
-    "occupationLabel": "monarch"
   },
   {
     "item": "http://www.wikidata.org/entity/Q153688",
@@ -1071,12 +1071,12 @@
     "occupationLabel": "monarch||warrior"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q81000",
-    "itemLabel": "Richard II of England",
-    "year": "1400",
+    "item": "http://www.wikidata.org/entity/Q167782",
+    "itemLabel": "Charles V of France",
+    "year": "1380",
     "sitelinks": "75",
-    "description": "King of England from 1377 to 1399",
-    "nationalityLabel": "English",
-    "occupationLabel": "monarch"
+    "description": "King of France from 1364 to 1380 (1338–1380)",
+    "nationalityLabel": "French",
+    "occupationLabel": "monarch||politician"
   }
 ]

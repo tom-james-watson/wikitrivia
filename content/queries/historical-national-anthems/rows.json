@@ -3,8 +3,8 @@
     "item": "http://www.wikidata.org/entity/Q41180",
     "itemLabel": "La Marseillaise",
     "year": "1792",
-    "composerLabel": "Claude Joseph Rouget de Lisle",
-    "lyricistLabel": "Claude Joseph Rouget de Lisle",
+    "composerLabel": "Rouget de Lisle",
+    "lyricistLabel": "Rouget de Lisle",
     "sitelinks": "121"
   },
   {
@@ -24,19 +24,19 @@
     "sitelinks": "105"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q44042",
-    "itemLabel": "Deutschlandlied",
-    "year": "1841",
-    "composerLabel": "Joseph Haydn",
-    "lyricistLabel": "August Heinrich Hoffmann von Fallersleben",
-    "sitelinks": "97"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q161744",
     "itemLabel": "Shche ne vmerla Ukrainy i slava, i volia",
     "year": "1918",
     "composerLabel": "Mykhailo Verbytskyi",
     "lyricistLabel": "Pavlo Chubynskyi",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44042",
+    "itemLabel": "Deutschlandlied",
+    "year": "1841",
+    "composerLabel": "Joseph Haydn",
+    "lyricistLabel": "August Heinrich Hoffmann von Fallersleben",
     "sitelinks": "97"
   },
   {
@@ -88,19 +88,19 @@
     "sitelinks": "86"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q251918",
-    "itemLabel": "State Anthem of the Soviet Union",
-    "year": "1944",
-    "composerLabel": "Alexander Alexandrov",
-    "lyricistLabel": "Sergey Mikhalkov",
-    "sitelinks": "83"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q482988",
     "itemLabel": "Poland Is Not Yet Lost",
     "year": "1797",
     "composerLabel": "",
     "lyricistLabel": "Józef Wybicki",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q251918",
+    "itemLabel": "State Anthem of the Soviet Union",
+    "year": "1944",
+    "composerLabel": "Alexander Alexandrov",
+    "lyricistLabel": "Sergey Mikhalkov",
     "sitelinks": "83"
   },
   {
@@ -148,7 +148,7 @@
     "itemLabel": "The Brabançonne",
     "year": "1830",
     "composerLabel": "François van Campenhout",
-    "lyricistLabel": "Charles Rogier",
+    "lyricistLabel": "Alexandre Dechet",
     "sitelinks": "74"
   },
   {
@@ -232,6 +232,14 @@
     "sitelinks": "62"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q182536",
+    "itemLabel": "Swiss Psalm",
+    "year": "1841",
+    "composerLabel": "Alberich Zwyssig",
+    "lyricistLabel": "Leonhard Widmer",
+    "sitelinks": "60"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q207868",
     "itemLabel": "Thai National Anthem",
     "year": "1939",
@@ -240,11 +248,11 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q182536",
-    "itemLabel": "Swiss Psalm",
-    "year": "1841",
-    "composerLabel": "Alberich Zwyssig",
-    "lyricistLabel": "Leonhard Widmer",
+    "item": "http://www.wikidata.org/entity/Q185128",
+    "itemLabel": "Denes nad Makedonija",
+    "year": "1942",
+    "composerLabel": "Todor Skalovski",
+    "lyricistLabel": "Vlado Maleski",
     "sitelinks": "60"
   },
   {
@@ -256,14 +264,6 @@
     "sitelinks": "58"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q185128",
-    "itemLabel": "Denes nad Makedonija",
-    "year": "1942",
-    "composerLabel": "Todor Skalovski",
-    "lyricistLabel": "Vlado Maleski",
-    "sitelinks": "58"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q478470",
     "itemLabel": "God Save the Tsar!",
     "year": "1833",
@@ -272,19 +272,19 @@
     "sitelinks": "57"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q208016",
-    "itemLabel": "Tiến Quân Ca",
-    "year": "1944",
-    "composerLabel": "Văn Cao",
-    "lyricistLabel": "Văn Cao",
-    "sitelinks": "55"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q271585",
     "itemLabel": "Els Segadors",
     "year": "1899",
     "composerLabel": "Francesc Alió",
     "lyricistLabel": "Emili Guanyavents",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208016",
+    "itemLabel": "Tiến Quân Ca",
+    "year": "1944",
+    "composerLabel": "Văn Cao",
+    "lyricistLabel": "Văn Cao",
     "sitelinks": "55"
   },
   {
@@ -320,11 +320,11 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q271864",
-    "itemLabel": "National anthem of Mongolia",
-    "year": "1950",
-    "composerLabel": "Luvsanjambyn Mördorj",
-    "lyricistLabel": "Tsendiin Damdinsüren",
+    "item": "http://www.wikidata.org/entity/Q208153",
+    "itemLabel": "gloria al bravo pueblo",
+    "year": "1810",
+    "composerLabel": "Lino Gallardo",
+    "lyricistLabel": "Andrés Bello",
     "sitelinks": "49"
   },
   {
@@ -332,15 +332,15 @@
     "itemLabel": "Lebanese national anthem",
     "year": "1927",
     "composerLabel": "Wadia Sabra",
-    "lyricistLabel": "Rashid Nakhle",
+    "lyricistLabel": "Rashīd Nakhlah",
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q208153",
-    "itemLabel": "gloria al bravo pueblo",
-    "year": "1810",
-    "composerLabel": "Lino Gallardo",
-    "lyricistLabel": "Andrés Bello",
+    "item": "http://www.wikidata.org/entity/Q271864",
+    "itemLabel": "National anthem of Mongolia",
+    "year": "1950",
+    "composerLabel": "Luvsanjambyn Mördorj",
+    "lyricistLabel": "Tsendiin Damdinsüren",
     "sitelinks": "49"
   },
   {
@@ -363,7 +363,7 @@
     "item": "http://www.wikidata.org/entity/Q215484",
     "itemLabel": "Olympic Hymn",
     "year": "1896",
-    "composerLabel": "Spyridon Samaras",
+    "composerLabel": "Spiro Samara",
     "lyricistLabel": "Kostis Palamas",
     "sitelinks": "41"
   },
@@ -372,16 +372,8 @@
     "itemLabel": "Anthem of the Azerbaijan Soviet Socialist Republic",
     "year": "1944",
     "composerLabel": "Uzeyir Hajibeyov",
-    "lyricistLabel": "Samad Vurgun",
+    "lyricistLabel": "Suleyman Rustam",
     "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1047603",
-    "itemLabel": "Anthem of the Estonian Soviet Socialist Republic",
-    "year": "1945",
-    "composerLabel": "Gustav Ernesaks",
-    "lyricistLabel": "Johannes Semper",
-    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1148469",
@@ -392,12 +384,28 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1047603",
+    "itemLabel": "Anthem of the Estonian Soviet Socialist Republic",
+    "year": "1945",
+    "composerLabel": "Gustav Ernesaks",
+    "lyricistLabel": "Johannes Semper",
+    "sitelinks": "31"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q271052",
     "itemLabel": "Ålänningens sång",
     "year": "1920",
     "composerLabel": "Johan Fridolf Hagfors",
     "lyricistLabel": "John Grandell",
     "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q911956",
+    "itemLabel": "Ey Iran",
+    "year": "1946",
+    "composerLabel": "Ruhollah Khaleqi",
+    "lyricistLabel": "Hossein Gol-e-Golab",
+    "sitelinks": "29"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1146473",
@@ -432,19 +440,19 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1740575",
+    "itemLabel": "Worker's Marseillaise",
+    "year": "1875",
+    "composerLabel": "Rouget de Lisle",
+    "lyricistLabel": "Pyotr Lavrov",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1141087",
     "itemLabel": "Naprej, zastava slave",
     "year": "1860",
     "composerLabel": "Davorin Jenko",
     "lyricistLabel": "Simon Jenko",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1740575",
-    "itemLabel": "Worker's Marseillaise",
-    "year": "1875",
-    "composerLabel": "Claude Joseph Rouget de Lisle",
-    "lyricistLabel": "Pyotr Lavrov",
     "sitelinks": "23"
   },
   {
@@ -464,6 +472,14 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q75543",
+    "itemLabel": "Anthem of the Georgian Soviet Socialist Republic",
+    "year": "1946",
+    "composerLabel": "Otar Taktakishvili",
+    "lyricistLabel": "Grigol Abashidze",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1353878",
     "itemLabel": "Vajacki marš",
     "year": "1919",
@@ -472,11 +488,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q75543",
-    "itemLabel": "Anthem of the Georgian Soviet Socialist Republic",
-    "year": "1946",
-    "composerLabel": "Otar Taktakishvili",
-    "lyricistLabel": "Grigol Abashidze",
+    "item": "http://www.wikidata.org/entity/Q1377327",
+    "itemLabel": "Anthem of the Uzbek Soviet Socialist Republic",
+    "year": "1947",
+    "composerLabel": "Mutal Burhonov",
+    "lyricistLabel": "",
     "sitelinks": "20"
   },
   {
@@ -493,14 +509,6 @@
     "year": "1789",
     "composerLabel": "Philip Phile",
     "lyricistLabel": "Joseph Hopkinson",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1377327",
-    "itemLabel": "Anthem of the Uzbek Soviet Socialist Republic",
-    "year": "1947",
-    "composerLabel": "Mutal Burhonov",
-    "lyricistLabel": "",
     "sitelinks": "19"
   },
   {

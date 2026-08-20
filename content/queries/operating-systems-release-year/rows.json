@@ -1,44 +1,30 @@
 [
   {
-    "item": "http://www.wikidata.org/entity/Q1406",
-    "itemLabel": "Microsoft Windows",
-    "year": "1985",
-    "developerLabel": "Microsoft",
-    "sitelinks": "177"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q14116",
     "itemLabel": "macOS",
     "year": "2001",
     "developerLabel": "Apple Inc.",
-    "sitelinks": "108"
+    "sitelinks": "110"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11215",
     "itemLabel": "Windows 7",
     "year": "2009",
     "developerLabel": "Microsoft",
-    "sitelinks": "102"
+    "sitelinks": "103"
   },
   {
     "item": "http://www.wikidata.org/entity/Q107269746",
     "itemLabel": "Windows 11",
     "year": "2021",
     "developerLabel": "Microsoft",
-    "sitelinks": "83"
+    "sitelinks": "84"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48267",
     "itemLabel": "Fedora Linux",
     "year": "2003",
-    "developerLabel": "IBM",
-    "sitelinks": "75"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2027",
-    "itemLabel": "Linux Mint",
-    "year": "2006",
-    "developerLabel": "",
+    "developerLabel": "Red Hat",
     "sitelinks": "75"
   },
   {
@@ -46,14 +32,14 @@
     "itemLabel": "FreeBSD",
     "year": "1993",
     "developerLabel": "",
-    "sitelinks": "73"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58378",
     "itemLabel": "Windows 1.0",
     "year": "1985",
     "developerLabel": "Microsoft",
-    "sitelinks": "64"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14646",
@@ -67,34 +53,34 @@
     "itemLabel": "Windows 2.0",
     "year": "1987",
     "developerLabel": "Microsoft",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8364850",
     "itemLabel": "Kali Linux",
     "year": "2013",
     "developerLabel": "OffSec",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q72688",
-    "itemLabel": "Xubuntu",
-    "year": "2006",
-    "developerLabel": "Ubuntu Foundation",
-    "sitelinks": "46"
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q215448",
     "itemLabel": "Haiku",
     "year": "2002",
     "developerLabel": "Haiku Inc.",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q72688",
+    "itemLabel": "Xubuntu",
+    "year": "2006",
+    "developerLabel": "Canonical Ltd.",
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q207542",
-    "itemLabel": "CentOS",
-    "year": "2004",
-    "developerLabel": "",
+    "item": "http://www.wikidata.org/entity/Q220182",
+    "itemLabel": "Red Hat Linux",
+    "year": "1994",
+    "developerLabel": "Red Hat",
     "sitelinks": "46"
   },
   {
@@ -147,24 +133,31 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q64350339",
-    "itemLabel": "iPadOS",
-    "year": "2019",
-    "developerLabel": "Apple Inc.",
-    "sitelinks": "36"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2625341",
     "itemLabel": "Zorin OS",
     "year": "2009",
     "developerLabel": "Zorin Technology Group Ltd.",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17298682",
+    "itemLabel": "Android TV",
+    "year": "2014",
+    "developerLabel": "Google",
     "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q739186",
     "itemLabel": "Multics",
     "year": "1969",
-    "developerLabel": "General Electric",
+    "developerLabel": "Massachusetts Institute of Technology",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q479882",
+    "itemLabel": "OpenVMS",
+    "year": "1977",
+    "developerLabel": "Compaq",
     "sitelinks": "35"
   },
   {
@@ -175,13 +168,6 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q479882",
-    "itemLabel": "OpenVMS",
-    "year": "1977",
-    "developerLabel": "Hewlett-Packard",
-    "sitelinks": "35"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1588573",
     "itemLabel": "Trisquel",
     "year": "2007",
@@ -189,11 +175,11 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q17298682",
-    "itemLabel": "Android TV",
-    "year": "2014",
+    "item": "http://www.wikidata.org/entity/Q841291",
+    "itemLabel": "Google TV",
+    "year": "2010",
     "developerLabel": "Google",
-    "sitelinks": "34"
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15961745",
@@ -206,13 +192,6 @@
     "item": "http://www.wikidata.org/entity/Q17318432",
     "itemLabel": "Android Auto",
     "year": "2015",
-    "developerLabel": "Google",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q50364330",
-    "itemLabel": "Android Pie",
-    "year": "2018",
     "developerLabel": "Google",
     "sitelinks": "33"
   },
@@ -231,18 +210,25 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q841291",
-    "itemLabel": "Google TV",
-    "year": "2010",
-    "developerLabel": "Google",
+    "item": "http://www.wikidata.org/entity/Q34825",
+    "itemLabel": "Windows Phone 8",
+    "year": "2012",
+    "developerLabel": "Microsoft",
     "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q214390",
     "itemLabel": "Ubuntu Studio",
     "year": "2007",
-    "developerLabel": "Ubuntu Foundation",
+    "developerLabel": "Canonical Ltd.",
     "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q62059755",
+    "itemLabel": "Android 10",
+    "year": "2019",
+    "developerLabel": "Google",
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q222996",
@@ -252,10 +238,10 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q34825",
-    "itemLabel": "Windows Phone 8",
-    "year": "2012",
-    "developerLabel": "Microsoft",
+    "item": "http://www.wikidata.org/entity/Q476915",
+    "itemLabel": "Mac OS X Lion",
+    "year": "2011",
+    "developerLabel": "Apple Inc.",
     "sitelinks": "31"
   },
   {
@@ -269,7 +255,7 @@
     "item": "http://www.wikidata.org/entity/Q34182",
     "itemLabel": "TrueOS",
     "year": "2006",
-    "developerLabel": "iXsystems",
+    "developerLabel": "Kris Moore",
     "sitelinks": "31"
   },
   {
@@ -294,16 +280,9 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q62059755",
-    "itemLabel": "Android 10",
-    "year": "2019",
-    "developerLabel": "Google",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q476915",
-    "itemLabel": "Mac OS X Lion",
-    "year": "2011",
+    "item": "http://www.wikidata.org/entity/Q381215",
+    "itemLabel": "Mac OS X Snow Leopard",
+    "year": "2009",
     "developerLabel": "Apple Inc.",
     "sitelinks": "30"
   },
@@ -329,10 +308,17 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q381215",
-    "itemLabel": "Mac OS X Snow Leopard",
-    "year": "2009",
-    "developerLabel": "Apple Inc.",
+    "item": "http://www.wikidata.org/entity/Q19961543",
+    "itemLabel": "TempleOS",
+    "year": "2013",
+    "developerLabel": "Terry A. Davis",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q858368",
+    "itemLabel": "Windows NT 3.51",
+    "year": "1995",
+    "developerLabel": "Microsoft",
     "sitelinks": "29"
   },
   {
@@ -350,25 +336,18 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126392721",
-    "itemLabel": "iOS 18",
-    "year": "2024",
-    "developerLabel": "Apple Inc.",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q858368",
-    "itemLabel": "Windows NT 3.51",
-    "year": "1995",
-    "developerLabel": "Microsoft",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q627611",
     "itemLabel": "IRIX",
     "year": "1988",
     "developerLabel": "Silicon Graphics",
     "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79534",
+    "itemLabel": "ChromiumOS",
+    "year": "2009",
+    "developerLabel": "Google",
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2846916",
@@ -420,23 +399,16 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q85764357",
-    "itemLabel": "GrapheneOS",
-    "year": "2019",
-    "developerLabel": "Daniel Micay",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q79534",
-    "itemLabel": "ChromiumOS",
-    "year": "2009",
-    "developerLabel": "Google",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q747434",
     "itemLabel": "Mac OS X Panther",
     "year": "2003",
+    "developerLabel": "Apple Inc.",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20056454",
+    "itemLabel": "OS X El Capitan",
+    "year": "2015",
     "developerLabel": "Apple Inc.",
     "sitelinks": "27"
   },
@@ -455,23 +427,9 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19961543",
-    "itemLabel": "TempleOS",
-    "year": "2013",
-    "developerLabel": "Terry A. Davis",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q13426234",
     "itemLabel": "OS X Mavericks",
     "year": "2013",
-    "developerLabel": "Apple Inc.",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q20056454",
-    "itemLabel": "OS X El Capitan",
-    "year": "2015",
     "developerLabel": "Apple Inc.",
     "sitelinks": "26"
   },
@@ -486,7 +444,7 @@
     "item": "http://www.wikidata.org/entity/Q1550345",
     "itemLabel": "86-DOS",
     "year": "1980",
-    "developerLabel": "Tim Paterson",
+    "developerLabel": "Seattle Computer Products",
     "sitelinks": "25"
   },
   {
@@ -511,6 +469,13 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q15282750",
+    "itemLabel": "Windows Phone 8.1",
+    "year": "2014",
+    "developerLabel": "Microsoft",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q17107792",
     "itemLabel": "OS X Yosemite",
     "year": "2014",
@@ -518,10 +483,10 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15282750",
-    "itemLabel": "Windows Phone 8.1",
-    "year": "2014",
-    "developerLabel": "Microsoft",
+    "item": "http://www.wikidata.org/entity/Q22095865",
+    "itemLabel": "macOS Sierra",
+    "year": "2016",
+    "developerLabel": "Apple Inc.",
     "sitelinks": "24"
   },
   {
@@ -530,13 +495,6 @@
     "year": "2016",
     "developerLabel": "",
     "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q22095865",
-    "itemLabel": "macOS Sierra",
-    "year": "2016",
-    "developerLabel": "Apple Inc.",
-    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q64351129",
@@ -567,17 +525,17 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q283705",
-    "itemLabel": "z/OS",
-    "year": "2001",
-    "developerLabel": "IBM",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q375150",
     "itemLabel": "Gobuntu",
     "year": "2007",
     "developerLabel": "Canonical Ltd.",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q283705",
+    "itemLabel": "z/OS",
+    "year": "2001",
+    "developerLabel": "IBM",
     "sitelinks": "22"
   },
   {
@@ -614,6 +572,13 @@
     "year": "2021",
     "developerLabel": "Apple Inc.",
     "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q124368037",
+    "itemLabel": "Windows Server 2025",
+    "year": "2024",
+    "developerLabel": "Microsoft",
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q719621",

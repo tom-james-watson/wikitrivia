@@ -403,7 +403,7 @@
     "qid": "Q69808",
     "title": "Vichy France is established",
     "subtitle": "Historical state",
-    "year": 1938,
+    "year": 1940,
     "fact": "Vichy France, also known as the Pétainist regime and Pétainist France, officially the French State, was a French rump state headed by Marshal Philippe Pétain during World War II, established as a result of German victory in the Battle of France.",
     "wikipediaSlug": "Vichy_France",
     "image": "Flag_of_France.svg",
@@ -1051,7 +1051,7 @@
   },
   {
     "qid": "Q160307",
-    "title": "Fatimid Egyptian Caliphate is established",
+    "title": "Fatimid Caliphate is established",
     "subtitle": "Historical state",
     "year": 909,
     "fact": "The Fatimid Caliphate, also known as the Fatimid Empire, was a caliphate that existed from the tenth to the twelfth centuries CE under the rule of the Fatimids, an Isma'ili Shi'a dynasty.",
@@ -2871,7 +2871,7 @@
   },
   {
     "qid": "Q267584",
-    "title": "Yemen Republic is established",
+    "title": "Yemen Arab Republic is established",
     "subtitle": "Historical state",
     "year": 1962,
     "fact": "The Yemen Arab Republic, also known as Yemen (Sanaʽa) and commonly referred to as North Yemen, was a country that existed from 1962 until its unification with the People's Democratic Republic of Yemen in 1990, in the northwestern part of what is now Yemen.",
@@ -3790,6 +3790,16 @@
     "pageViews": 13895
   },
   {
+    "qid": "Q541455",
+    "title": "Anglo-Egyptian Sudan is established",
+    "subtitle": "Historical state",
+    "year": 1899,
+    "fact": "The Anglo-Egyptian Sudan was a condominium of the United Kingdom and Egypt between 1899 and 1956, corresponding to the territory of what is now both Sudans and parts of southeastern Libya.",
+    "wikipediaSlug": "Anglo-Egyptian_Sudan",
+    "image": "Flag_of_the_United_Kingdom.svg",
+    "pageViews": 13885
+  },
+  {
     "qid": "Q203859",
     "title": "First Dynasty of Egypt begins",
     "subtitle": "Dynasty",
@@ -3878,16 +3888,6 @@
     "wikipediaSlug": "Duchy_of_Burgundy",
     "image": "Ancient_Flag_of_Burgundy.svg",
     "pageViews": 13686
-  },
-  {
-    "qid": "Q473748",
-    "title": "Buganda falls",
-    "subtitle": "Historical state",
-    "year": 1966,
-    "fact": "Buganda is a Bantu kingdom within Uganda.",
-    "wikipediaSlug": "Buganda",
-    "image": "Buganda_(map).png",
-    "pageViews": 13578
   },
   {
     "qid": "Q919071",
@@ -4060,6 +4060,16 @@
     "pageViews": 12846
   },
   {
+    "qid": "Q626937",
+    "title": "House of Yi begins",
+    "subtitle": "Dynasty",
+    "year": 1392,
+    "fact": "The House of Yi was the royal family of Joseon and later the imperial family of the Korean Empire, descended from the Joseon founder Yi Seong-gye.",
+    "wikipediaSlug": "House_of_Yi",
+    "image": "Imperial_Coat_of_Arms_of_Korean_Empire_(1908_~_1910)_04.png",
+    "pageViews": 12770
+  },
+  {
     "qid": "Q373189",
     "title": "Bithynia is established",
     "subtitle": "Historical state",
@@ -4078,16 +4088,6 @@
     "wikipediaSlug": "Rurikids",
     "image": "Coin_of_Yaroslav_the_Wise_(reverse).png",
     "pageViews": 12685
-  },
-  {
-    "qid": "Q152855",
-    "title": "Kingdom of Tungning is established",
-    "subtitle": "Historical state",
-    "year": 1661,
-    "fact": "The Kingdom of Tungning, also known as Tywan, was a dynastic maritime state that ruled part of southwestern Taiwan and the Penghu islands between 1662 and 1683.",
-    "wikipediaSlug": "Kingdom_of_Tungning",
-    "image": "Flag_of_Ming_Cheng.svg",
-    "pageViews": 12632
   },
   {
     "qid": "Q918153",
@@ -4261,9 +4261,9 @@
   },
   {
     "qid": "Q335070",
-    "title": "Alba Longa falls",
+    "title": "Alba Longa is established",
     "subtitle": "Historical state",
-    "year": -672,
+    "year": -1200,
     "fact": "Alba Longa was an ancient Latin city in Central Italy in the vicinity of Lake Albano in the Alban Hills.",
     "wikipediaSlug": "Alba_Longa",
     "image": "Albano_Laziale_-_Le_antiche_terme_romane_di_Cellomaio.jpg",
@@ -4308,6 +4308,16 @@
     "wikipediaSlug": "Austrasia",
     "image": "Frankish_Empire_481_to_814-en.svg",
     "pageViews": 11684
+  },
+  {
+    "qid": "Q6673921",
+    "title": "Lotharingia falls",
+    "subtitle": "Historical state",
+    "year": 959,
+    "fact": "Lotharingia was a historical region and an early medieval polity that existed during the late Carolingian and early Ottonian era, from the middle of the 9th to the middle of the 10th century.",
+    "wikipediaSlug": "Lotharingia",
+    "image": "Vertrag_von_Prüm.svg",
+    "pageViews": 11615
   },
   {
     "qid": "Q148499",
@@ -4358,6 +4368,16 @@
     "wikipediaSlug": "County_of_Flanders",
     "image": "Generieke_vlag_van_Vlaanderen.svg",
     "pageViews": 11359
+  },
+  {
+    "qid": "Q249578",
+    "title": "Ghaznavid Empire is established",
+    "subtitle": "Historical state",
+    "year": 962,
+    "fact": "The Ghaznavid Empire was a culturally Persianate, Sunni Muslim state of Turkic mamluk origin.",
+    "wikipediaSlug": "Ghaznavid_Empire",
+    "image": "Ghaznavids.jpg",
+    "pageViews": 11346
   },
   {
     "qid": "Q2502270",
@@ -4838,16 +4858,6 @@
     "wikipediaSlug": "Kingdom_of_Montenegro",
     "image": "Flag_of_Montenegro_(1905–1918).svg",
     "pageViews": 9752
-  },
-  {
-    "qid": "Q139708",
-    "title": "French Mandate for Syria and the Lebanon is established",
-    "subtitle": "Historical state",
-    "year": 1923,
-    "fact": "The Mandate for Syria and the Lebanon was a League of Nations mandate founded in the aftermath of the First World War and the partitioning of the Ottoman Empire, concerning the territories of Syria and Lebanon.",
-    "wikipediaSlug": "Mandate_for_Syria_and_the_Lebanon",
-    "image": "Mandate_for_Syria_and_the_Lebanon.djvu",
-    "pageViews": 9726
   },
   {
     "qid": "Q856691",
@@ -5501,8 +5511,8 @@
   },
   {
     "qid": "Q374521",
-    "title": "Bahmani Sultanate begins",
-    "subtitle": "Dynasty",
+    "title": "Bahmani Sultanate is established",
+    "subtitle": "Historical state",
     "year": 1347,
     "fact": "The Bahmani Kingdom, or the Bahmani Sultanate, was a late medieval Persianate kingdom that ruled the Deccan region.",
     "wikipediaSlug": "Bahmani_Kingdom",
@@ -5951,9 +5961,9 @@
   },
   {
     "qid": "Q216632",
-    "title": "Mali Federation falls",
+    "title": "Mali Federation is established",
     "subtitle": "Historical state",
-    "year": 1960,
+    "year": 1959,
     "fact": "The Mali Federation was a federation in West Africa linking the French colonies of Senegal and the Sudanese Republic for two months in 1960.",
     "wikipediaSlug": "Mali_Federation",
     "image": "Flag_of_Mali_(1959–1961).svg",
@@ -6078,16 +6088,6 @@
     "wikipediaSlug": "Second_Dynasty_of_Egypt",
     "image": "Khasekhemwy_statue_Ashmolean.JPG",
     "pageViews": 5905
-  },
-  {
-    "qid": "Q1771706",
-    "title": "Alania is established",
-    "subtitle": "Historical state",
-    "year": 801,
-    "fact": "Alania was a medieval kingdom of the Alans that flourished between the 9th and 13th centuries in the Northern Caucasus area, inhabited by the Iranian-speaking Alans and various native north Caucasian ethnic groups.",
-    "wikipediaSlug": "Alania",
-    "image": "Caucasus_1060_map_en.svg",
-    "pageViews": 5842
   },
   {
     "qid": "Q175358",
@@ -6361,9 +6361,9 @@
   },
   {
     "qid": "Q44642",
-    "title": "Federation of Arab Republics is established",
+    "title": "Federation of Arab Republics falls",
     "subtitle": "Historical state",
-    "year": 1972,
+    "year": 1977,
     "fact": "The Federation of Arab Republics was an unsuccessful attempt by Muammar Gaddafi to merge Libya, Egypt and Syria in order to create a unified Arab state.",
     "wikipediaSlug": "Federation_of_Arab_Republics",
     "image": "Flag_of_Syria_(1972–1980).svg",
@@ -6540,16 +6540,6 @@
     "pageViews": 4480
   },
   {
-    "qid": "Q157367",
-    "title": "Brandenburg-Prussia is established",
-    "subtitle": "Historical state",
-    "year": 1618,
-    "fact": "Brandenburg–Prussia is the historiographic denomination for the early modern realm of the Brandenburgian House of Hohenzollern between 1618 and 1701.",
-    "wikipediaSlug": "Brandenburg%E2%80%93Prussia",
-    "image": "Locator_Brandenburg-Prussia_within_the_Holy_Roman_Empire_(1618).svg",
-    "pageViews": 4450
-  },
-  {
     "qid": "Q1154556",
     "title": "Later Zhou dynasty begins",
     "subtitle": "Dynasty",
@@ -6618,16 +6608,6 @@
     "wikipediaSlug": "Shaishunaga_dynasty",
     "image": "Magadha_Expansion_(6th-4th_centuries_BCE).png",
     "pageViews": 4386
-  },
-  {
-    "qid": "Q207353",
-    "title": "Acadia is established",
-    "subtitle": "Colony",
-    "year": 1604,
-    "fact": "Acadia is a North American cultural region in the Maritime provinces of Canada where approximately 300,000 French-speaking Acadians live.",
-    "wikipediaSlug": "Acadia_(region)",
-    "image": "Carte_administrative_de_l'Acadie.svg",
-    "pageViews": 4374
   },
   {
     "qid": "Q721807",
@@ -6850,6 +6830,16 @@
     "pageViews": 3961
   },
   {
+    "qid": "Q28511",
+    "title": "Buyeo falls",
+    "subtitle": "Historical state",
+    "year": 494,
+    "fact": "Buyeo or Puyŏ, also rendered as Fuyu in Chinese, was an ancient kingdom that was centered in northern Manchuria in modern-day northeast China.",
+    "wikipediaSlug": "Buyeo",
+    "image": "3rd_century_Buyeo–Eastern_Buyeo.png",
+    "pageViews": 3949
+  },
+  {
     "qid": "Q205718",
     "title": "Zirid Dynasty begins",
     "subtitle": "Dynasty",
@@ -7010,6 +7000,16 @@
     "pageViews": 3539
   },
   {
+    "qid": "Q501754",
+    "title": "Carantania is established",
+    "subtitle": "Historical state",
+    "year": 658,
+    "fact": "Carantania, also known as Carentania, was a Slavic principality that emerged in the second half of the 7th century, in the territory of present-day southern Austria and north-eastern Slovenia.",
+    "wikipediaSlug": "Carantania",
+    "image": "Carantania_800_AD-en.PNG",
+    "pageViews": 3533
+  },
+  {
     "qid": "Q2018662",
     "title": "Western Ganga dynasty begins",
     "subtitle": "Dynasty",
@@ -7018,6 +7018,16 @@
     "wikipediaSlug": "Western_Ganga_dynasty",
     "image": "Western-ganga-empire-map.svg",
     "pageViews": 3523
+  },
+  {
+    "qid": "Q2816439",
+    "title": "Dabuyid dynasty begins",
+    "subtitle": "Dynasty",
+    "year": 642,
+    "fact": "The Dabuyid dynasty, or Gaubarid dynasty, was a Zoroastrian Iranian dynasty that started in the first half of the 7th century as an independent group of rulers who ruled over Tabaristan and parts of western Khorasan.",
+    "wikipediaSlug": "Dabuyid_dynasty",
+    "image": "DabuyidDynastyGreatestExtent.png",
+    "pageViews": 3519
   },
   {
     "qid": "Q748151",
@@ -7271,7 +7281,7 @@
   },
   {
     "qid": "Q828665",
-    "title": "Egyptian Ikhshidid Emirate begins",
+    "title": "Ikhshidid dynasty begins",
     "subtitle": "Dynasty",
     "year": 935,
     "fact": "The Ikhshidid dynasty was a Turkic dynasty of governors of Mamluk origin, who governed Egypt and parts of the Levant from 935 to 969 on behalf of the Abbasid Caliphate.",
@@ -7628,16 +7638,6 @@
     "wikipediaSlug": "Almohads",
     "image": "Almohad_dynasty_en.svg",
     "pageViews": 1313
-  },
-  {
-    "qid": "Q138837",
-    "title": "Catalan Republic is established",
-    "subtitle": "Historical state",
-    "year": 2017,
-    "fact": "The Catalan declaration of independence was a resolution that was passed by the Parliament of Catalonia on 27 October 2017.",
-    "wikipediaSlug": "Catalan_Republic_(2017)",
-    "image": "Catalan_Declaration_of_Independence.svg",
-    "pageViews": 1264
   },
   {
     "qid": "Q1734616",

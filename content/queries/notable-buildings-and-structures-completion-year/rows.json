@@ -5,7 +5,7 @@
     "description": "mosque, museum, and former church in Istanbul, Turkey",
     "year": "537",
     "countryLabel": "Turkey",
-    "sitelinks": "151"
+    "sitelinks": "152"
   },
   {
     "item": "http://www.wikidata.org/entity/Q12495",
@@ -21,7 +21,7 @@
     "description": "skyscraper located in Midtown Manhattan, New York City, USA",
     "year": "1931",
     "countryLabel": "United States",
-    "sitelinks": "123"
+    "sitelinks": "124"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80290",
@@ -29,7 +29,7 @@
     "description": "Chinese imperial palace in Beijing",
     "year": "1923",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "103"
+    "sitelinks": "104"
   },
   {
     "item": "http://www.wikidata.org/entity/Q45178",
@@ -37,12 +37,12 @@
     "description": "multi-venue performing arts centre in Sydney, New South Wales, Australia",
     "year": "1973",
     "countryLabel": "Australia",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29294",
     "itemLabel": "Willis Tower",
-    "description": "skyscraper in Chicago, Illinois",
+    "description": "skyscraper in Chicago, Illinois, USA",
     "year": "1973",
     "countryLabel": "United States",
     "sitelinks": "97"
@@ -69,7 +69,7 @@
     "description": "Roman-Catholic cathedral in Cologne, Germany",
     "year": "1880",
     "countryLabel": "Germany",
-    "sitelinks": "84"
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83101",
@@ -93,7 +93,7 @@
     "description": "former imperial palace in Saint Petersburg, Russia",
     "year": "1762",
     "countryLabel": "Russia",
-    "sitelinks": "75"
+    "sitelinks": "76"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11274",
@@ -101,7 +101,7 @@
     "description": "building in New York City",
     "year": "1931",
     "countryLabel": "United States",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5471",
@@ -184,6 +184,14 @@
     "sitelinks": "60"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q18536",
+    "itemLabel": "The Shard",
+    "description": "skyscraper in London, England",
+    "year": "2012",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "60"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q80852",
     "itemLabel": "Shanghai World Financial Center",
     "description": "skyscraper in Shanghai",
@@ -192,27 +200,19 @@
     "sitelinks": "60"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q189476",
-    "itemLabel": "Abraj Al Bait",
-    "description": "building complex in Mecca, Saudi Arabia",
-    "year": "2011",
-    "countryLabel": "Saudi Arabia",
-    "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q18536",
-    "itemLabel": "The Shard",
-    "description": "skyscraper in London, England",
-    "year": "2012",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "59"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q836531",
     "itemLabel": "Hawa Mahal",
     "description": "palace in Jaipur, Rajasthan, India",
     "year": "1799",
     "countryLabel": "India",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189476",
+    "itemLabel": "Abraj Al Bait",
+    "description": "building complex in Mecca, Saudi Arabia",
+    "year": "2011",
+    "countryLabel": "Saudi Arabia",
     "sitelinks": "59"
   },
   {
@@ -224,6 +224,14 @@
     "sitelinks": "57"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q683632",
+    "itemLabel": "Great Mosque of Djenné",
+    "description": "mosque in Djenné, Mali",
+    "year": "1907",
+    "countryLabel": "Mali",
+    "sitelinks": "57"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q55018",
     "itemLabel": "Royal Opera House",
     "description": "opera house and major performing arts venue in Covent Garden, central London (3rd theatre on the site, opened 1858)",
@@ -232,20 +240,20 @@
     "sitelinks": "56"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q683632",
-    "itemLabel": "Great Mosque of Djenné",
-    "description": "mosque in Djenné, Mali",
-    "year": "1907",
-    "countryLabel": "Mali",
-    "sitelinks": "56"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2854543",
     "itemLabel": "Catherine Palace",
     "description": "palace near St. Petersburg",
     "year": "1756",
     "countryLabel": "Russia",
-    "sitelinks": "55"
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q940843",
+    "itemLabel": "Lotus Temple",
+    "description": "Bahá'í House of Worship in Delhi, India",
+    "year": "1986",
+    "countryLabel": "India",
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q695604",
@@ -253,6 +261,14 @@
     "description": "grand mosque in Abu Dhabi",
     "year": "2007",
     "countryLabel": "United Arab Emirates",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46242",
+    "itemLabel": "Hofburg Palace",
+    "description": "palace located in Vienna, Austria",
+    "year": "1913",
+    "countryLabel": "Austria",
     "sitelinks": "55"
   },
   {
@@ -261,22 +277,6 @@
     "description": "opera house in Vienna, Austria",
     "year": "1869",
     "countryLabel": "Austria",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q46242",
-    "itemLabel": "Hofburg Palace",
-    "description": "palace located in Vienna, Austria",
-    "year": "1913",
-    "countryLabel": "Austria",
-    "sitelinks": "54"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q940843",
-    "itemLabel": "Lotus Temple",
-    "description": "Bahá'í House of Worship in Delhi, India",
-    "year": "1986",
-    "countryLabel": "India",
     "sitelinks": "54"
   },
   {
@@ -328,12 +328,36 @@
     "sitelinks": "52"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q202902",
+    "itemLabel": "The Crystal Palace",
+    "description": "former building originally in Hyde Park, London, 1854 relocated to Bromley, South London",
+    "year": "1851",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43282",
+    "itemLabel": "Alexander Nevsky Cathedral",
+    "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
+    "year": "1924",
+    "countryLabel": "Bulgaria",
+    "sitelinks": "52"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q80813",
     "itemLabel": "Jin Mao Tower",
     "description": "landmark skyscraper in Shanghai",
     "year": "1999",
     "countryLabel": "People's Republic of China",
     "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11290",
+    "itemLabel": "Grand Central Terminal",
+    "description": "railway terminal in New York City",
+    "year": "1913",
+    "countryLabel": "United States",
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167566",
@@ -352,11 +376,11 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q202902",
-    "itemLabel": "The Crystal Palace",
-    "description": "former building originally in Hyde Park, London, 1854 relocated to Bromley, South London",
-    "year": "1851",
-    "countryLabel": "United Kingdom",
+    "item": "http://www.wikidata.org/entity/Q216357",
+    "itemLabel": "Grande Arche",
+    "description": "monument and building in Paris's La Défense",
+    "year": "1989",
+    "countryLabel": "France",
     "sitelinks": "51"
   },
   {
@@ -368,27 +392,11 @@
     "sitelinks": "51"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q43282",
-    "itemLabel": "Alexander Nevsky Cathedral",
-    "description": "Bulgarian Orthodox cathedral in Sofia, Bulgaria",
-    "year": "1924",
-    "countryLabel": "Bulgaria",
-    "sitelinks": "51"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11290",
-    "itemLabel": "Grand Central Terminal",
-    "description": "railway terminal in New York City",
-    "year": "1913",
-    "countryLabel": "United States",
-    "sitelinks": "50"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q216357",
-    "itemLabel": "Grande Arche",
-    "description": "monument and building in Paris's La Défense",
-    "year": "1989",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q4706020",
+    "itemLabel": "Alamut Castle",
+    "description": "castle in Qazvin County, Iranian national heritage site and World heritage site",
+    "year": "860",
+    "countryLabel": "Iran",
     "sitelinks": "50"
   },
   {
@@ -397,6 +405,14 @@
     "description": "skyscraper in São Paulo, Brazil",
     "year": "1947",
     "countryLabel": "Brazil",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q115253",
+    "itemLabel": "Takht-e Soleyman",
+    "description": "archaeological site in Takab County, Iranian national heritage site",
+    "year": "-500",
+    "countryLabel": "Iran",
     "sitelinks": "50"
   },
   {
@@ -416,12 +432,12 @@
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q115253",
-    "itemLabel": "Takht-e Soleyman",
-    "description": "archaeological site in West Azarbaijan, Iranian national heritage site",
-    "year": "-500",
-    "countryLabel": "Iran",
-    "sitelinks": "49"
+    "item": "http://www.wikidata.org/entity/Q323767",
+    "itemLabel": "Montparnasse Tower",
+    "description": "skyscraper in Paris",
+    "year": "1973",
+    "countryLabel": "France",
+    "sitelinks": "48"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170610",
@@ -448,19 +464,19 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q323767",
-    "itemLabel": "Montparnasse Tower",
-    "description": "skyscraper in Paris",
-    "year": "1973",
-    "countryLabel": "France",
-    "sitelinks": "47"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q121198",
     "itemLabel": "Qol Şärif Mosque",
     "description": "mosque in Qazan Kremlin, Qazan, Tatarstan",
     "year": "2005",
     "countryLabel": "Russia",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1140026",
+    "itemLabel": "Azadi Tower",
+    "description": "tower in Tehran, Iranian national heritage site",
+    "year": "1971",
+    "countryLabel": "Iran",
     "sitelinks": "47"
   },
   {
@@ -477,14 +493,6 @@
     "description": "skyscraper in West Kowloon, Hong Kong",
     "year": "2010",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1140026",
-    "itemLabel": "Azadi Tower",
-    "description": "tower in Tehran, Iranian national heritage site",
-    "year": "1971",
-    "countryLabel": "Iran",
     "sitelinks": "46"
   },
   {
@@ -512,20 +520,20 @@
     "sitelinks": "45"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4706020",
-    "itemLabel": "Alamut Castle",
-    "description": "castle in Qazvin County, Iranian national heritage site",
-    "year": "860",
-    "countryLabel": "Iran",
-    "sitelinks": "45"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q164150",
     "itemLabel": "Palace of the Parliament",
     "description": "multi-purpose building in Romania",
     "year": "1994",
     "countryLabel": "Romania",
     "sitelinks": "45"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43280",
+    "itemLabel": "Oslo Opera House",
+    "description": "opera house in Oslo, Norway",
+    "year": "2008",
+    "countryLabel": "Norway",
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223942",
@@ -550,14 +558,6 @@
     "year": "1888",
     "countryLabel": "Iran",
     "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q43280",
-    "itemLabel": "Oslo Opera House",
-    "description": "opera house in Oslo, Norway",
-    "year": "2008",
-    "countryLabel": "Norway",
-    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4255374",
@@ -608,19 +608,19 @@
     "sitelinks": "42"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q679218",
-    "itemLabel": "Bibi-Khanym Mosque",
-    "description": "historical mosque in Samarkand, Uzbekistan",
-    "year": "1404",
-    "countryLabel": "Uzbekistan",
-    "sitelinks": "42"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q18640924",
     "itemLabel": "Landmark 81",
     "description": "skyscraper",
     "year": "2018",
     "countryLabel": "Vietnam",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q679218",
+    "itemLabel": "Bibi-Khanym Mosque",
+    "description": "historical mosque in Samarkand, Uzbekistan",
+    "year": "1404",
+    "countryLabel": "Uzbekistan",
     "sitelinks": "42"
   },
   {
@@ -664,6 +664,14 @@
     "sitelinks": "41"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q36833",
+    "itemLabel": "Hungarian State Opera House",
+    "description": "Neo-Renaissance opera house in Budapest",
+    "year": "1884",
+    "countryLabel": "Hungary",
+    "sitelinks": "40"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q271695",
     "itemLabel": "Aon Center",
     "description": "skyscraper in the Chicago Loop, Chicago, Illinois, United States",
@@ -677,14 +685,6 @@
     "description": "skyscraper condo-hotel in downtown Chicago, Illinois",
     "year": "2009",
     "countryLabel": "United States",
-    "sitelinks": "40"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q36833",
-    "itemLabel": "Hungarian State Opera House",
-    "description": "Neo-Renaissance opera house in Budapest",
-    "year": "1884",
-    "countryLabel": "Hungary",
     "sitelinks": "40"
   },
   {
@@ -709,6 +709,14 @@
     "description": "mausoleum tower in Gonbad-e Kavus, Iranian national heritage site",
     "year": "1006",
     "countryLabel": "Iran",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q838780",
+    "itemLabel": "Almas Tower",
+    "description": "high-rise in Dubai, United Arab Emirates",
+    "year": "2009",
+    "countryLabel": "United Arab Emirates",
     "sitelinks": "40"
   },
   {
@@ -744,20 +752,20 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q838780",
-    "itemLabel": "Almas Tower",
-    "description": "high-rise in Dubai, United Arab Emirates",
-    "year": "2009",
-    "countryLabel": "United Arab Emirates",
-    "sitelinks": "39"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q842921",
     "itemLabel": "Omar Ali Saifuddien Mosque",
     "description": "architectural structure",
     "year": "1958",
     "countryLabel": "Brunei",
     "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1353643",
+    "itemLabel": "Swallow's Nest",
+    "description": "decorative castle located between Yalta and Alupka on the Crimean peninsula",
+    "year": "1912",
+    "countryLabel": "Russia",
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q557933",
@@ -781,6 +789,14 @@
     "description": "church in Florence, Italy",
     "year": "393",
     "countryLabel": "Italy",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1056152",
+    "itemLabel": "Royal Palace of Amsterdam",
+    "description": "former city hall (1652-1800), made a palace and public museum by Ludwig Napoleon, on Dam Square in the centre of Amsterdam, Netherlands",
+    "year": "1665",
+    "countryLabel": "Netherlands",
     "sitelinks": "37"
   },
   {
@@ -808,6 +824,14 @@
     "sitelinks": "37"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q317091",
+    "itemLabel": "Bellevue Palace",
+    "description": "official residence in Berlin for the President of the Federal Republic of Germany",
+    "year": "1786",
+    "countryLabel": "Germany",
+    "sitelinks": "37"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q856356",
     "itemLabel": "Sheikh Lotfollah Mosque",
     "description": "mosque in Isfahan, Iranian national heritage site",
@@ -824,19 +848,19 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q494895",
-    "itemLabel": "Lotte World Tower",
-    "description": "Skyscraper in Seoul, South Korea",
-    "year": "2017",
-    "countryLabel": "South Korea",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q216264",
     "itemLabel": "23 Marina",
     "description": "Dubai skyscraper",
     "year": "2012",
     "countryLabel": "United Arab Emirates",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q494895",
+    "itemLabel": "Lotte World Tower",
+    "description": "Skyscraper in Seoul, South Korea",
+    "year": "2017",
+    "countryLabel": "South Korea",
     "sitelinks": "37"
   },
   {
@@ -872,14 +896,6 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1056152",
-    "itemLabel": "Royal Palace of Amsterdam",
-    "description": "former city hall (1652-1800), made a palace and public museum by Ludwig Napoleon, on Dam Square in the centre of Amsterdam, Netherlands",
-    "year": "1665",
-    "countryLabel": "Netherlands",
-    "sitelinks": "36"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1077308",
     "itemLabel": "Ping An Finance Centre",
     "description": "skyscraper in Shenzhen, Guangdong province, China",
@@ -896,19 +912,19 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q317091",
-    "itemLabel": "Bellevue Palace",
-    "description": "official residence in Berlin for the President of the Federal Republic of Germany",
-    "year": "1786",
-    "countryLabel": "Germany",
+    "item": "http://www.wikidata.org/entity/Q1740560",
+    "itemLabel": "Palace of Shaki Khans",
+    "description": "Palace in Azerbaijan",
+    "year": "1797",
+    "countryLabel": "Azerbaijan",
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q827401",
-    "itemLabel": "Colón Theater",
-    "description": "opera house in Buenos Aires",
-    "year": "1908",
-    "countryLabel": "Argentina",
+    "item": "http://www.wikidata.org/entity/Q917702",
+    "itemLabel": "Peleș Castle",
+    "description": "Neo-Renaissance royal castle in Sinaia, Romania",
+    "year": "1883",
+    "countryLabel": "Romania",
     "sitelinks": "36"
   },
   {
@@ -920,10 +936,34 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q827401",
+    "itemLabel": "Colón Theater",
+    "description": "opera house in Buenos Aires",
+    "year": "1908",
+    "countryLabel": "Argentina",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2393680",
+    "itemLabel": "Goharshad Mosque",
+    "description": "mosque in Imam Reza Shrine, Mashhad",
+    "year": "1418",
+    "countryLabel": "Iran",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q464482",
     "itemLabel": "MetLife Building",
     "description": "Office skyscraper in Manhattan, New York",
     "year": "1963",
+    "countryLabel": "United States",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q941908",
+    "itemLabel": "3 World Trade Center",
+    "description": "Skyscraper within New York City",
+    "year": "2018",
     "countryLabel": "United States",
     "sitelinks": "35"
   },
@@ -936,19 +976,19 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1281237",
-    "itemLabel": "Vilnius Cathedral",
-    "description": "cathedral in Lithuania",
-    "year": "1783",
-    "countryLabel": "Lithuania",
-    "sitelinks": "35"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1044613",
     "itemLabel": "Helsinki Central Railway Station",
     "description": "railway station in Helsinki, Finland",
     "year": "1862",
     "countryLabel": "Finland",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1281237",
+    "itemLabel": "Vilnius Cathedral",
+    "description": "cathedral in Lithuania",
+    "year": "1783",
+    "countryLabel": "Lithuania",
     "sitelinks": "35"
   },
   {
@@ -968,27 +1008,11 @@
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q917702",
-    "itemLabel": "Peleș Castle",
-    "description": "Neo-Renaissance royal castle in Sinaia, Romania",
-    "year": "1883",
-    "countryLabel": "Romania",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1740560",
-    "itemLabel": "Palace of Shaki Khans",
-    "description": "Palace in Azerbaijan",
-    "year": "1797",
-    "countryLabel": "Azerbaijan",
-    "sitelinks": "35"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2393680",
-    "itemLabel": "Goharshad Mosque",
-    "description": "mosque in Imam Reza Shrine, Mashhad",
-    "year": "1418",
-    "countryLabel": "Iran",
+    "item": "http://www.wikidata.org/entity/Q19492",
+    "itemLabel": "Princess Tower",
+    "description": "residential skyscraper",
+    "year": "2012",
+    "countryLabel": "United Arab Emirates",
     "sitelinks": "35"
   },
   {
@@ -1004,14 +1028,6 @@
     "itemLabel": "Citigroup Center",
     "description": "office skyscraper in Manhattan, New York",
     "year": "1977",
-    "countryLabel": "United States",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q941908",
-    "itemLabel": "3 World Trade Center",
-    "description": "Skyscraper within New York City",
-    "year": "2018",
     "countryLabel": "United States",
     "sitelinks": "34"
   },
@@ -1048,14 +1064,6 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q19492",
-    "itemLabel": "Princess Tower",
-    "description": "residential skyscraper",
-    "year": "2012",
-    "countryLabel": "United Arab Emirates",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1322696",
     "itemLabel": "Kigali International Airport",
     "description": "airport serving Kigali in Rwanda",
@@ -1085,6 +1093,14 @@
     "description": "building in Rome, Italy",
     "year": "1580",
     "countryLabel": "Italy",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16566",
+    "itemLabel": "Chehel Sotun",
+    "description": "palace in Isfahan, Iranian national heritage site",
+    "year": "1647",
+    "countryLabel": "Iran",
     "sitelinks": "33"
   },
   {
@@ -1136,19 +1152,19 @@
     "sitelinks": "32"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q788652",
-    "itemLabel": "Baitul Futuh Mosque",
-    "description": "largest mosque in the United Kingdom",
-    "year": "2003",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "32"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q130478",
     "itemLabel": "The Center",
     "description": "skyscraper in Hong Kong",
     "year": "1998",
     "countryLabel": "People's Republic of China",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q788652",
+    "itemLabel": "Baitul Futuh Mosque",
+    "description": "largest mosque in the United Kingdom",
+    "year": "2003",
+    "countryLabel": "United Kingdom",
     "sitelinks": "32"
   },
   {
@@ -1165,14 +1181,6 @@
     "description": "apartment building in Moscow, Russia",
     "year": "2007",
     "countryLabel": "Russia",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q16566",
-    "itemLabel": "Chehel Sotun",
-    "description": "palace in Isfahan, Iranian national heritage site",
-    "year": "1647",
-    "countryLabel": "Iran",
     "sitelinks": "32"
   },
   {
@@ -1197,6 +1205,14 @@
     "description": "architectural structure",
     "year": "2010",
     "countryLabel": "Vietnam",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1291612",
+    "itemLabel": "Friday Mosque of Herat",
+    "description": "mosque in Afghanistan",
+    "year": "1446",
+    "countryLabel": "Afghanistan",
     "sitelinks": "32"
   },
   {
@@ -1228,6 +1244,14 @@
     "itemLabel": "Plaza Hotel",
     "description": "hotel in Midtown Manhattan, New York City",
     "year": "1907",
+    "countryLabel": "United States",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1351208",
+    "itemLabel": "4 World Trade Center",
+    "description": "skyscraper in Manhattan, New York City",
+    "year": "2013",
     "countryLabel": "United States",
     "sitelinks": "31"
   },
@@ -1264,19 +1288,19 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3091562",
-    "itemLabel": "Mosque of Omar Ibn Al-Khattab",
-    "description": "mosque in Colombia",
-    "year": "1997",
-    "countryLabel": "Colombia",
-    "sitelinks": "31"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q632566",
     "itemLabel": "Edifício Copan",
     "description": "skyscraper",
     "year": "1966",
     "countryLabel": "Brazil",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3091562",
+    "itemLabel": "Mosque of Omar Ibn Al-Khattab",
+    "description": "mosque in Colombia",
+    "year": "1997",
+    "countryLabel": "Colombia",
     "sitelinks": "31"
   },
   {
@@ -1296,12 +1320,12 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1291612",
-    "itemLabel": "Friday Mosque of Herat",
-    "description": "mosque in Afghanistan",
-    "year": "1446",
-    "countryLabel": "Afghanistan",
-    "sitelinks": "31"
+    "item": "http://www.wikidata.org/entity/Q111973",
+    "itemLabel": "Tokyo Metropolitan Government Building",
+    "description": "building in Nishi-Shinjuku, Tokyo, Japan",
+    "year": "1991",
+    "countryLabel": "Japan",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1052475",
@@ -1309,14 +1333,6 @@
     "description": "skyscraper in Toronto, Ontario, Canada",
     "year": "1975",
     "countryLabel": "Canada",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q111973",
-    "itemLabel": "Tokyo Metropolitan Government Building",
-    "description": "building in Nishi-Shinjuku, Tokyo, Japan",
-    "year": "1991",
-    "countryLabel": "Japan",
     "sitelinks": "30"
   },
   {
@@ -1332,14 +1348,6 @@
     "itemLabel": "Columbia Center",
     "description": "skyscraper in Seattle, Washington, United States",
     "year": "1985",
-    "countryLabel": "United States",
-    "sitelinks": "30"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1351208",
-    "itemLabel": "4 World Trade Center",
-    "description": "skyscraper in Manhattan, New York City",
-    "year": "2013",
     "countryLabel": "United States",
     "sitelinks": "30"
   },
@@ -1400,6 +1408,14 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1710283",
+    "itemLabel": "Tokyo Mosque",
+    "description": "mosque in Japan",
+    "year": "2000",
+    "countryLabel": "Japan",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q373850",
     "itemLabel": "Oslo City Hall",
     "description": "city hall in Norway",
@@ -1408,18 +1424,18 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1367970",
-    "itemLabel": "Palace of Moncloa",
-    "description": "residence of the Prime Minister of Spain",
-    "year": "1955",
-    "countryLabel": "Spain",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q953610",
     "itemLabel": "Torre de Cristal",
     "description": "skyscraper in Madrid, Spain",
     "year": "2009",
+    "countryLabel": "Spain",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1367970",
+    "itemLabel": "Palace of Moncloa",
+    "description": "residence of the Prime Minister of Spain",
+    "year": "1955",
     "countryLabel": "Spain",
     "sitelinks": "29"
   },
@@ -1456,19 +1472,19 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q936545",
-    "itemLabel": "St. Martin's Cathedral, Utrecht",
-    "description": "cathedral in Utrecht",
-    "year": "1517",
-    "countryLabel": "Netherlands",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q975925",
     "itemLabel": "Notre-Dame de la Garde",
     "description": "basilica located in Bouches-du-Rhône, in France",
     "year": "1864",
     "countryLabel": "France",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q936545",
+    "itemLabel": "St. Martin's Cathedral, Utrecht",
+    "description": "cathedral in Utrecht",
+    "year": "1517",
+    "countryLabel": "Netherlands",
     "sitelinks": "29"
   },
   {
@@ -1520,14 +1536,6 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1710283",
-    "itemLabel": "Tokyo Mosque",
-    "description": "mosque in Japan",
-    "year": "2000",
-    "countryLabel": "Japan",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q910101",
     "itemLabel": "CitySpire",
     "description": "Skyscraper in Manhattan, New York",
@@ -1568,19 +1576,27 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1367269",
-    "itemLabel": "Moscow Belorussky railway station",
-    "description": "railway station in Moscow",
-    "year": "1870",
-    "countryLabel": "Russia",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5711011",
     "itemLabel": "Plasco Building",
     "description": "office building in Tehran, Iran",
     "year": "1962",
     "countryLabel": "Iran",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1434444",
+    "itemLabel": "Amazon Theatre",
+    "description": "Opera house in Manaus, Brazil",
+    "year": "1896",
+    "countryLabel": "Brazil",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1367269",
+    "itemLabel": "Moscow Belorussky railway station",
+    "description": "railway station in Moscow",
+    "year": "1870",
+    "countryLabel": "Russia",
     "sitelinks": "28"
   },
   {
@@ -1704,11 +1720,27 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1850537",
+    "itemLabel": "Severn Bridge",
+    "description": "suspension bridge in Gloucestershire, England",
+    "year": "1966",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q572887",
     "itemLabel": "8 Canada Square",
     "description": "skyscraper located in Canary Wharf, London, England",
     "year": "2002",
     "countryLabel": "United Kingdom",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2942349",
+    "itemLabel": "Saint Gregory the Illuminator Cathedral",
+    "description": "largest Armenian church in the world, in Yerevan, Armenia built in 2001",
+    "year": "2001",
+    "countryLabel": "Armenia",
     "sitelinks": "27"
   },
   {
@@ -1720,6 +1752,14 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2429287",
+    "itemLabel": "Ali Qapu",
+    "description": "palace in Isfahan, Iranian national heritage site",
+    "year": "1595",
+    "countryLabel": "Iran",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q548259",
     "itemLabel": "Finlandsky Rail Terminal",
     "description": "railway station in St. Petersburg",
@@ -1728,11 +1768,19 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2942349",
-    "itemLabel": "Saint Gregory the Illuminator Cathedral",
-    "description": "largest Armenian church in the world, in Yerevan, Armenia built in 2001",
-    "year": "2001",
-    "countryLabel": "Armenia",
+    "item": "http://www.wikidata.org/entity/Q321291",
+    "itemLabel": "Main Tower",
+    "description": "skyscraper in Frankfurt, Germany",
+    "year": "2000",
+    "countryLabel": "Germany",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q990003",
+    "itemLabel": "Spanish Synagogue",
+    "description": "synagogue in Prague",
+    "year": "1868",
+    "countryLabel": "Czech Republic",
     "sitelinks": "27"
   },
   {
@@ -1752,12 +1800,12 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2429287",
-    "itemLabel": "Ali Qapu",
-    "description": "palace in Isfahan, Iranian national heritage site",
-    "year": "1595",
-    "countryLabel": "Iran",
-    "sitelinks": "27"
+    "item": "http://www.wikidata.org/entity/Q57767",
+    "itemLabel": "Wells Fargo Plaza",
+    "description": "skyscraper in Houston, Texas, United States",
+    "year": "1983",
+    "countryLabel": "United States",
+    "sitelinks": "26"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1130050",
@@ -1773,14 +1821,6 @@
     "description": "skyscraper in Madrid",
     "year": "1988",
     "countryLabel": "Spain",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57767",
-    "itemLabel": "Wells Fargo Plaza",
-    "description": "skyscraper in Houston, Texas, United States",
-    "year": "1983",
-    "countryLabel": "United States",
     "sitelinks": "26"
   },
   {
@@ -1824,27 +1864,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1850537",
-    "itemLabel": "Severn Bridge",
-    "description": "suspension bridge in Gloucestershire, England",
-    "year": "1966",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q321291",
-    "itemLabel": "Main Tower",
-    "description": "skyscraper in Frankfurt, Germany",
-    "year": "2000",
+    "item": "http://www.wikidata.org/entity/Q677383",
+    "itemLabel": "New Palace",
+    "description": "Palace in Sanssouci, Potsdam, Brandenburg, Germany",
+    "year": "1769",
     "countryLabel": "Germany",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q990003",
-    "itemLabel": "Spanish Synagogue",
-    "description": "synagogue in Prague",
-    "year": "1868",
-    "countryLabel": "Czech Republic",
     "sitelinks": "26"
   },
   {
@@ -1864,14 +1888,6 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1314130",
-    "itemLabel": "Hasht Behesht Palace",
-    "description": "palace in Isfahan, Iranian national heritage site",
-    "year": "1669",
-    "countryLabel": "Iran",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q511612",
     "itemLabel": "Bahrain World Trade Center",
     "description": "skyscraper",
@@ -1880,11 +1896,11 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q609140",
-    "itemLabel": "AON Hanoi Landmark Tower",
-    "description": "Skyscraper in Hanoi, Vietnam",
-    "year": "2011",
-    "countryLabel": "Vietnam",
+    "item": "http://www.wikidata.org/entity/Q1314130",
+    "itemLabel": "Hasht Behesht Palace",
+    "description": "palace in Isfahan, Iranian national heritage site",
+    "year": "1669",
+    "countryLabel": "Iran",
     "sitelinks": "26"
   },
   {
@@ -1893,6 +1909,14 @@
     "description": "skyscraper in the United Arab Emirates",
     "year": "2017",
     "countryLabel": "United Arab Emirates",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q609140",
+    "itemLabel": "AON Hanoi Landmark Tower",
+    "description": "Skyscraper in Hanoi, Vietnam",
+    "year": "2011",
+    "countryLabel": "Vietnam",
     "sitelinks": "26"
   },
   {
@@ -1928,18 +1952,18 @@
     "sitelinks": "25"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2681107",
+    "itemLabel": "The Helix Bridge",
+    "description": "bridge in Singapore",
+    "year": "2010",
+    "countryLabel": "Singapore",
+    "sitelinks": "25"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1050668",
     "itemLabel": "São Paulo Cathedral",
     "description": "cathedral in Brazil",
     "year": "1954",
-    "countryLabel": "Brazil",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1434444",
-    "itemLabel": "Amazon Theatre",
-    "description": "Opera house in Manaus, Brazil",
-    "year": "1896",
     "countryLabel": "Brazil",
     "sitelinks": "25"
   },
@@ -1968,14 +1992,6 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q677383",
-    "itemLabel": "New Palace",
-    "description": "Palace in Sanssouci, Potsdam, Brandenburg, Germany",
-    "year": "1769",
-    "countryLabel": "Germany",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q687694",
     "itemLabel": "Komische Oper Berlin",
     "description": "opera house",
@@ -1992,19 +2008,19 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q702322",
-    "itemLabel": "Koryo Hotel",
-    "description": "hotel in Pyongyang, North Korea",
-    "year": "1985",
-    "countryLabel": "North Korea",
-    "sitelinks": "25"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2187746",
     "itemLabel": "Lake Palace",
     "description": "former palace, today hotel on the Jag Niwas island in Lake Pichola, Udaipur, India",
     "year": "1965",
     "countryLabel": "India",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q702322",
+    "itemLabel": "Koryo Hotel",
+    "description": "hotel in Pyongyang, North Korea",
+    "year": "1985",
+    "countryLabel": "North Korea",
     "sitelinks": "25"
   },
   {
@@ -2014,6 +2030,14 @@
     "year": "2011",
     "countryLabel": "United Arab Emirates",
     "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11550847",
+    "itemLabel": "Eshima Ohashi Bridge",
+    "description": "Japanese rigid-frame bridge",
+    "year": "2004",
+    "countryLabel": "Japan",
+    "sitelinks": "24"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1151808",
@@ -2072,11 +2096,11 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2681107",
-    "itemLabel": "The Helix Bridge",
-    "description": "bridge in Singapore",
-    "year": "2010",
-    "countryLabel": "Singapore",
+    "item": "http://www.wikidata.org/entity/Q16831150",
+    "itemLabel": "Vijećnica",
+    "description": "city hall in Sarajevo",
+    "year": "1894",
+    "countryLabel": "Bosnia and Herzegovina",
     "sitelinks": "24"
   },
   {
@@ -2104,19 +2128,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1246092",
-    "itemLabel": "Lviv Theatre of Opera and Ballet",
-    "description": "opera theater in Lviv, Ukraine",
-    "year": "1900",
-    "countryLabel": "Ukraine",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2914593",
     "itemLabel": "Hassan Bek Mosque",
     "description": "mosque in Tel Aviv, Israel",
     "year": "1923",
     "countryLabel": "Israel",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1246092",
+    "itemLabel": "Lviv Theatre of Opera and Ballet",
+    "description": "opera theater in Lviv, Ukraine",
+    "year": "1900",
+    "countryLabel": "Ukraine",
     "sitelinks": "24"
   },
   {
@@ -2128,20 +2152,20 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2363092",
+    "itemLabel": "Ka'ba-ye Zartosht",
+    "description": "stepped structure in the Naqsh-e Rustam compound in Fars, Iran",
+    "year": "-500",
+    "countryLabel": "Iran",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1093913",
     "itemLabel": "Moshe Aviv Tower",
     "description": "skyscraper in Ramat Gan, Israel",
     "year": "2003",
     "countryLabel": "Israel",
     "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q11550847",
-    "itemLabel": "Eshima Ohashi Bridge",
-    "description": "Japanese rigid-frame bridge",
-    "year": "2004",
-    "countryLabel": "Japan",
-    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q228242",
@@ -2160,10 +2184,26 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q814779",
+    "itemLabel": "Beinecke Rare Book & Manuscript Library",
+    "description": "rare book library at Yale University in New Haven, Connecticut",
+    "year": "1963",
+    "countryLabel": "United States",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1144187",
     "itemLabel": "One Liberty Plaza",
     "description": "skyscraper in Lower Manhattan, New York City, USA",
     "year": "1973",
+    "countryLabel": "United States",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2074091",
+    "itemLabel": "200 Vesey Street",
+    "description": "skyscraper in New York City",
+    "year": "1986",
     "countryLabel": "United States",
     "sitelinks": "23"
   },
@@ -2176,6 +2216,14 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q29157",
+    "itemLabel": "Church of Our Saviour",
+    "description": "church in Copenhagen",
+    "year": "1695",
+    "countryLabel": "Denmark",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1101073",
     "itemLabel": "Parliament House of Sweden (Riksdagshuset)",
     "description": "Parliament House of Sweden",
@@ -2184,11 +2232,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q29157",
-    "itemLabel": "Church of Our Saviour",
-    "description": "church in Copenhagen",
-    "year": "1695",
-    "countryLabel": "Denmark",
+    "item": "http://www.wikidata.org/entity/Q1049868",
+    "itemLabel": "Warsaw Trade Tower",
+    "description": "skyscraper in Warsaw, Poland",
+    "year": "1999",
+    "countryLabel": "Poland",
     "sitelinks": "23"
   },
   {
@@ -2205,14 +2253,6 @@
     "description": "lighthouse in Genoa, Italy",
     "year": "2004",
     "countryLabel": "Italy",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1049868",
-    "itemLabel": "Warsaw Trade Tower",
-    "description": "skyscraper in Warsaw, Poland",
-    "year": "1999",
-    "countryLabel": "Poland",
     "sitelinks": "23"
   },
   {
@@ -2240,19 +2280,19 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16831150",
-    "itemLabel": "Vijećnica",
-    "description": "city hall in Sarajevo",
-    "year": "1894",
-    "countryLabel": "Bosnia and Herzegovina",
-    "sitelinks": "23"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q32434",
     "itemLabel": "Palace of Ardashir",
     "description": "royal palace of ancient Persia",
     "year": "224",
     "countryLabel": "Iran",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q708060",
+    "itemLabel": "Tower 185",
+    "description": "skyscraper in Frankfurt, Germany",
+    "year": "2011",
+    "countryLabel": "Germany",
     "sitelinks": "23"
   },
   {
@@ -2272,11 +2312,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2363092",
-    "itemLabel": "Ka'ba-ye Zartosht",
-    "description": "stepped structure in the Naqsh-e Rustam compound in Fars, Iran",
-    "year": "-500",
-    "countryLabel": "Iran",
+    "item": "http://www.wikidata.org/entity/Q1508013",
+    "itemLabel": "Jelgava Palace",
+    "description": "château",
+    "year": "1772",
+    "countryLabel": "Latvia",
     "sitelinks": "23"
   },
   {
@@ -2320,27 +2360,19 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q814779",
-    "itemLabel": "Beinecke Rare Book & Manuscript Library",
-    "description": "rare book library at Yale University in New Haven, Connecticut",
-    "year": "1963",
-    "countryLabel": "United States",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2074091",
-    "itemLabel": "200 Vesey Street",
-    "description": "skyscraper in New York City",
-    "year": "1986",
-    "countryLabel": "United States",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q551479",
     "itemLabel": "Royal Theatre of La Monnaie",
     "description": "opera house in Brussels, Belgium",
     "year": "1700",
     "countryLabel": "Belgium",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7084890",
+    "itemLabel": "Old Royal Palace",
+    "description": "building of the Hellenic Parliament, formerly a royal palace",
+    "year": "1843",
+    "countryLabel": "Greece",
     "sitelinks": "22"
   },
   {
@@ -2360,43 +2392,11 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7084890",
-    "itemLabel": "Old Royal Palace",
-    "description": "building of the Hellenic Parliament, formerly a royal palace",
-    "year": "1843",
-    "countryLabel": "Greece",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q963111",
     "itemLabel": "UniCredit Tower",
     "description": "skyscraper",
     "year": "2014",
     "countryLabel": "Italy",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1613853",
-    "itemLabel": "Heron Tower",
-    "description": "skyscraper in the City of London, England",
-    "year": "2011",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1868965",
-    "itemLabel": "London Coliseum",
-    "description": "theatre in London, home to the English National Opera",
-    "year": "1904",
-    "countryLabel": "United Kingdom",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q947870",
-    "itemLabel": "Torre Latinoamericana",
-    "description": "tower in Mexico City",
-    "year": "1956",
-    "countryLabel": "Mexico",
     "sitelinks": "22"
   },
   {
@@ -2413,6 +2413,30 @@
     "description": "mosque in Ukraine",
     "year": "1314",
     "countryLabel": "Ukraine",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q947870",
+    "itemLabel": "Torre Latinoamericana",
+    "description": "tower in Mexico City",
+    "year": "1956",
+    "countryLabel": "Mexico",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1613853",
+    "itemLabel": "Heron Tower",
+    "description": "skyscraper in the City of London, England",
+    "year": "2011",
+    "countryLabel": "United Kingdom",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1868965",
+    "itemLabel": "London Coliseum",
+    "description": "theatre in London, home to the English National Opera",
+    "year": "1904",
+    "countryLabel": "United Kingdom",
     "sitelinks": "22"
   },
   {
@@ -2448,22 +2472,6 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q708060",
-    "itemLabel": "Tower 185",
-    "description": "skyscraper in Frankfurt, Germany",
-    "year": "2011",
-    "countryLabel": "Germany",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1508013",
-    "itemLabel": "Jelgava Palace",
-    "description": "château",
-    "year": "1772",
-    "countryLabel": "Latvia",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q976172",
     "itemLabel": "Carlton Centre",
     "description": "skyscraper in Johannesburg, South Africa",
@@ -2472,19 +2480,19 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q700636",
-    "itemLabel": "Yanggakdo International Hotel",
-    "description": "hotel in Pyongyang, North Korea",
-    "year": "1995",
-    "countryLabel": "North Korea",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1352908",
     "itemLabel": "El Capitolio",
     "description": "former seat of the Cuban legislature and current seat of National Assembly of People's Power",
     "year": "1927",
     "countryLabel": "Cuba",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q700636",
+    "itemLabel": "Yanggakdo International Hotel",
+    "description": "hotel in Pyongyang, North Korea",
+    "year": "1995",
+    "countryLabel": "North Korea",
     "sitelinks": "22"
   },
   {
@@ -2512,22 +2520,6 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1093941",
-    "itemLabel": "Toronto City Hall",
-    "description": "city hall in Canada",
-    "year": "1965",
-    "countryLabel": "Canada",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1327514",
-    "itemLabel": "Scotia Plaza",
-    "description": "Office building in Toronto, Ontario",
-    "year": "1988",
-    "countryLabel": "Canada",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q602942",
     "itemLabel": "Sunshine 60",
     "description": "skyscraper",
@@ -2544,6 +2536,22 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1093941",
+    "itemLabel": "Toronto City Hall",
+    "description": "city hall in Canada",
+    "year": "1965",
+    "countryLabel": "Canada",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1327514",
+    "itemLabel": "Scotia Plaza",
+    "description": "Office building in Toronto, Ontario",
+    "year": "1988",
+    "countryLabel": "Canada",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1201344",
     "itemLabel": "Osaka Prefectural Government Sakishima Building",
     "description": "skyscraper",
@@ -2555,6 +2563,14 @@
     "item": "http://www.wikidata.org/entity/Q15264266",
     "itemLabel": "30 Hudson Yards",
     "description": "Supertall skyscraper in New York City",
+    "year": "2020",
+    "countryLabel": "United States",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18398409",
+    "itemLabel": "One Vanderbilt",
+    "description": "office skyscraper in Manhattan, New York",
     "year": "2020",
     "countryLabel": "United States",
     "sitelinks": "21"
@@ -2576,19 +2592,27 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2078042",
+    "itemLabel": "Texas State Capitol",
+    "description": "capitol and seat of government of the U.S. state of Texas",
+    "year": "1888",
+    "countryLabel": "United States",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56240051",
+    "itemLabel": "Achilleion",
+    "description": "palace on Corfu island, Greece",
+    "year": "1962",
+    "countryLabel": "Greece",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1742908",
     "itemLabel": "Kiruna Church",
     "description": "Swedish church building in Kiruna",
     "year": "1912",
     "countryLabel": "Sweden",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1345944",
-    "itemLabel": "Europa Tower",
-    "description": "building in Vilnius, tallest skyscraper in the Baltic states",
-    "year": "2004",
-    "countryLabel": "Lithuania",
     "sitelinks": "21"
   },
   {
@@ -2600,11 +2624,19 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q56240051",
-    "itemLabel": "Achilleion",
-    "description": "palace on Corfu island, Greece",
-    "year": "1962",
-    "countryLabel": "Greece",
+    "item": "http://www.wikidata.org/entity/Q1345944",
+    "itemLabel": "Europa Tower",
+    "description": "building in Vilnius, tallest skyscraper in the Baltic states",
+    "year": "2004",
+    "countryLabel": "Lithuania",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2471370",
+    "itemLabel": "Haghtanak bridge",
+    "description": "cultural heritage monument of Armenia",
+    "year": "1945",
+    "countryLabel": "Armenia",
     "sitelinks": "21"
   },
   {
@@ -2621,14 +2653,6 @@
     "description": "skyscraper",
     "year": "2010",
     "countryLabel": "People's Republic of China",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q975426",
-    "itemLabel": "Menshikov Palace (Saint Petersburg)",
-    "description": "building",
-    "year": "1711",
-    "countryLabel": "Russia",
     "sitelinks": "21"
   },
   {
@@ -2656,11 +2680,11 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2471370",
-    "itemLabel": "Haghtanak bridge",
-    "description": "cultural heritage monument of Armenia",
-    "year": "1945",
-    "countryLabel": "Armenia",
+    "item": "http://www.wikidata.org/entity/Q975426",
+    "itemLabel": "Menshikov Palace (Saint Petersburg)",
+    "description": "building",
+    "year": "1711",
+    "countryLabel": "Russia",
     "sitelinks": "21"
   },
   {
@@ -2712,14 +2736,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q864758",
-    "itemLabel": "Presidential Palace of Vietnam",
-    "description": "Vietnamese palace",
-    "year": "1906",
-    "countryLabel": "Vietnam",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q509638",
     "itemLabel": "National Palace",
     "description": "former official residence of the President of Haiti",
@@ -2736,12 +2752,12 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1063195",
-    "itemLabel": "Torre de Madrid",
-    "description": "Torre Madrid",
-    "year": "1957",
-    "countryLabel": "Spain",
-    "sitelinks": "20"
+    "item": "http://www.wikidata.org/entity/Q864758",
+    "itemLabel": "Presidential Palace of Vietnam",
+    "description": "Vietnamese palace",
+    "year": "1906",
+    "countryLabel": "Vietnam",
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2582539",
@@ -2760,14 +2776,6 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q18398409",
-    "itemLabel": "One Vanderbilt",
-    "description": "office skyscraper in Manhattan, New York",
-    "year": "2020",
-    "countryLabel": "United States",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q649426",
     "itemLabel": "Edificio España",
     "description": "building in Madrid, Spain",
@@ -2776,11 +2784,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2078042",
-    "itemLabel": "Texas State Capitol",
-    "description": "capitol and seat of government of the U.S. state of Texas",
-    "year": "1888",
-    "countryLabel": "United States",
+    "item": "http://www.wikidata.org/entity/Q1063195",
+    "itemLabel": "Torre de Madrid",
+    "description": "Torre Madrid",
+    "year": "1957",
+    "countryLabel": "Spain",
     "sitelinks": "20"
   },
   {
@@ -2789,22 +2797,6 @@
     "description": "municipal library in Helsinki, Finland",
     "year": "2018",
     "countryLabel": "Finland",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q165636",
-    "itemLabel": "Theater am Kärntnertor",
-    "description": "former theatre and opera house in Vienna, Austria",
-    "year": "1766",
-    "countryLabel": "Austria",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1357866",
-    "itemLabel": "Warsaw Spire",
-    "description": "headquarters of the European Border and Coast Guard Agency (Frontex)",
-    "year": "2016",
-    "countryLabel": "Poland",
     "sitelinks": "20"
   },
   {
@@ -2824,11 +2816,19 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q278518",
-    "itemLabel": "Tour T1",
-    "description": "skyscraper in Paris, France",
-    "year": "2008",
-    "countryLabel": "France",
+    "item": "http://www.wikidata.org/entity/Q1357866",
+    "itemLabel": "Warsaw Spire",
+    "description": "headquarters of the European Border and Coast Guard Agency (Frontex)",
+    "year": "2016",
+    "countryLabel": "Poland",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165636",
+    "itemLabel": "Theater am Kärntnertor",
+    "description": "former theatre and opera house in Vienna, Austria",
+    "year": "1766",
+    "countryLabel": "Austria",
     "sitelinks": "20"
   },
   {
@@ -2856,11 +2856,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q874615",
-    "itemLabel": "Vienna Islamic Centre",
-    "description": "the largest mosque in Austria",
-    "year": "1979",
-    "countryLabel": "Austria",
+    "item": "http://www.wikidata.org/entity/Q278518",
+    "itemLabel": "Tour T1",
+    "description": "skyscraper in Paris, France",
+    "year": "2008",
+    "countryLabel": "France",
     "sitelinks": "20"
   },
   {
@@ -2869,6 +2869,30 @@
     "description": "mosque in İske Bistä microdistrict, Waxitof City District, Qazan, Tatarstan",
     "year": "1770",
     "countryLabel": "Russia",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q874615",
+    "itemLabel": "Vienna Islamic Centre",
+    "description": "the largest mosque in Austria",
+    "year": "1979",
+    "countryLabel": "Austria",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2458142",
+    "itemLabel": "Dyavolski most",
+    "description": "bridge in Bulgaria",
+    "year": "1518",
+    "countryLabel": "Bulgaria",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3107472",
+    "itemLabel": "Red Bridge",
+    "description": "cultural heritage monument of Armenia",
+    "year": "1679",
+    "countryLabel": "Armenia",
     "sitelinks": "20"
   },
   {
@@ -2896,14 +2920,6 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3107472",
-    "itemLabel": "Red Bridge",
-    "description": "cultural heritage monument of Armenia",
-    "year": "1679",
-    "countryLabel": "Armenia",
-    "sitelinks": "20"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q695891",
     "itemLabel": "St. Elisabeth's Church",
     "description": "church building in Marburg, Hesse, Germany",
@@ -2928,19 +2944,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1886083",
-    "itemLabel": "State Opera Prague",
-    "description": "opera house in Prague, Czechia, operated by the National Theatre company",
-    "year": "1888",
-    "countryLabel": "Czech Republic",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2458142",
-    "itemLabel": "Dyavolski most",
-    "description": "bridge in Bulgaria",
-    "year": "1518",
-    "countryLabel": "Bulgaria",
+    "item": "http://www.wikidata.org/entity/Q27670200",
+    "itemLabel": "The Exchange 106",
+    "description": "Supertall skyscraper in Kuala Lumpur, Malaysia",
+    "year": "2019",
+    "countryLabel": "Malaysia",
     "sitelinks": "20"
   },
   {
@@ -2952,27 +2960,19 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q27670200",
-    "itemLabel": "The Exchange 106",
-    "description": "Supertall skyscraper in Kuala Lumpur, Malaysia",
-    "year": "2019",
-    "countryLabel": "Malaysia",
+    "item": "http://www.wikidata.org/entity/Q1886083",
+    "itemLabel": "State Opera Prague",
+    "description": "opera house in Prague, Czechia, operated by the National Theatre company",
+    "year": "1888",
+    "countryLabel": "Czech Republic",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q587586",
-    "itemLabel": "Republic Plaza",
-    "description": "skyscraper in Singapore",
-    "year": "1995",
-    "countryLabel": "Singapore",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1577048",
-    "itemLabel": "Opéra de Monte-Carlo",
-    "description": "opera house in Monaco",
-    "year": "1879",
-    "countryLabel": "Monaco",
+    "item": "http://www.wikidata.org/entity/Q22968",
+    "itemLabel": "63 Building",
+    "description": "skyscraper in South Korea",
+    "year": "1985",
+    "countryLabel": "South Korea",
     "sitelinks": "20"
   },
   {
@@ -2984,6 +2984,22 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1577048",
+    "itemLabel": "Opéra de Monte-Carlo",
+    "description": "opera house in Monaco",
+    "year": "1879",
+    "countryLabel": "Monaco",
+    "sitelinks": "20"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q587586",
+    "itemLabel": "Republic Plaza",
+    "description": "skyscraper in Singapore",
+    "year": "1995",
+    "countryLabel": "Singapore",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1705125",
     "itemLabel": "Palazzo Pubblico",
     "description": "city hall and parliament seat of San Marino",
@@ -2992,11 +3008,11 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22968",
-    "itemLabel": "63 Building",
-    "description": "skyscraper in South Korea",
-    "year": "1985",
-    "countryLabel": "South Korea",
+    "item": "http://www.wikidata.org/entity/Q1812844",
+    "itemLabel": "Ponte City Apartments",
+    "description": "skyscraper in South Africa",
+    "year": "1975",
+    "countryLabel": "South Africa",
     "sitelinks": "20"
   },
   {

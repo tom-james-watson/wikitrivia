@@ -63,13 +63,6 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3265931",
-    "itemLabel": "Lucky Charms",
-    "description": "breakfast cereal",
-    "year": "1964",
-    "sitelinks": "6"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3137793",
     "itemLabel": "Honey Smacks",
     "description": "breakfast cereals",
@@ -84,18 +77,25 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3265931",
+    "itemLabel": "Lucky Charms",
+    "description": "breakfast cereal",
+    "year": "1964",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1140959",
+    "itemLabel": "Sugar Puffs",
+    "description": "Breakfast cereal from the United Kingdom",
+    "year": "1957",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1456721",
     "itemLabel": "Weetabix",
     "description": "trademark of breakfast cereal",
     "year": "1932",
     "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7844698",
-    "itemLabel": "Trix cereal",
-    "description": "brand of breakfast cereal",
-    "year": "1954",
-    "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3110068",
@@ -105,10 +105,10 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1140959",
-    "itemLabel": "Sugar Puffs",
-    "description": "Breakfast cereal from the United Kingdom",
-    "year": "1957",
+    "item": "http://www.wikidata.org/entity/Q7844698",
+    "itemLabel": "Trix cereal",
+    "description": "brand of breakfast cereal",
+    "year": "1954",
     "sitelinks": "5"
   }
 ]

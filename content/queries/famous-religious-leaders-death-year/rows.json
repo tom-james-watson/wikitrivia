@@ -3,46 +3,46 @@
     "item": "http://www.wikidata.org/entity/Q302",
     "itemLabel": "Jesus Christ",
     "year": "30",
-    "sitelinks": "341",
-    "description": "central figure of Christianity (6 or 4 BC – AD 30 or 33)",
+    "sitelinks": "346",
+    "description": "central figure of Christianity (c. 6 or 4 BC – AD 30 or 33)",
     "nationalityLabel": "Herodian Kingdom of Judea",
-    "occupationLabel": "prophet||Messiah||teacher||rabbi||carpenter||pastor||preacher||thaumaturge||father of faith||healer||tektōn||religious leader"
+    "occupationLabel": "carpenter||teacher||rabbi||messiah||prophet||pastor||preacher||thaumaturge||religious leader||tektōn||founder of religion||healer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9441",
     "itemLabel": "The Buddha",
     "year": "-500",
-    "sitelinks": "270",
+    "sitelinks": "274",
     "description": "Indian philosopher and the founder of Buddhism (623 or 563 BCE – 543 or 483 BCE)",
     "nationalityLabel": "",
-    "occupationLabel": "writer||psychiatrist||psychologist||preacher||Buddhist monk||father of faith||religious leader||spiritual teacher||philosopher"
+    "occupationLabel": "writer||social reformer||psychologist||spiritual teacher||psychiatrist||Buddhist monk||preacher||religious leader||founder of religion||philosopher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8027",
     "itemLabel": "Martin Luther King Jr.",
     "year": "1968",
-    "sitelinks": "244",
+    "sitelinks": "247",
     "description": "American Baptist minister and civil rights leader (1929–1968)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||writer||pastor||preacher||civil rights advocate||human rights defender||opinion journalist||pacifist||peace activist||religious leader"
+    "occupationLabel": "politician||writer||pastor||pacifist||peace activist||parson||preacher||civil rights advocate||religious leader||cleric||opinion journalist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7226",
     "itemLabel": "Joan of Arc",
     "year": "1431",
-    "sitelinks": "189",
+    "sitelinks": "193",
     "description": "French folk heroine (1412–1431), military leader who crowned Charles VII and Roman Catholic saint, canonized 500 years after her death",
     "nationalityLabel": "French",
     "occupationLabel": "military personnel||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8467",
-    "itemLabel": "Umar ibn Al-Khattāb",
+    "itemLabel": "ʻUmar ibn al-khiṭāb",
     "year": "644",
-    "sitelinks": "150",
+    "sitelinks": "151",
     "description": "2nd Rashidun Caliph from 634 to 644",
     "nationalityLabel": "Rashidun Caliphate",
-    "occupationLabel": "imam||caliph||companions of the Prophet||statesperson||religious leader"
+    "occupationLabel": "caliph||politician||imam||military personnel||companions of the Prophet||Amir||statesperson||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q43303",
@@ -51,16 +51,7 @@
     "sitelinks": "135",
     "description": "American Black rights activist (1925–1965)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||imam||human rights defender||political activist||religious leader||autobiographer||Muslim minister"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q38823",
-    "itemLabel": "Ruhollah Khomeini",
-    "year": "1989",
-    "sitelinks": "133",
-    "description": "Supreme Leader of Iran from 1979 to 1989",
-    "nationalityLabel": "Iranian||Persian",
-    "occupationLabel": "politician||poet||theologian||cleric||akhoond||mystic||religious leader"
+    "occupationLabel": "politician||imam||autobiographer||civil rights advocate||Muslim minister||religious leader||human rights defender||political activist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83322",
@@ -73,18 +64,27 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q101054",
-    "itemLabel": "Baháʼu'lláh",
+    "itemLabel": "al-Bahāʼ",
     "year": "1892",
     "sitelinks": "104",
     "description": "founder of the Bahá'í Faith (1817–1892)",
     "nationalityLabel": "Qajar Iran",
-    "occupationLabel": "poet||writer||father of faith||orator||religious leader"
+    "occupationLabel": "poet||writer||Baháʼí||religious leader||founder of religion||orator"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q148285",
+    "itemLabel": "Osho",
+    "year": "1990",
+    "sitelinks": "96",
+    "description": "Indian guru and leader of the Rajneesh movement (1931–1990)",
+    "nationalityLabel": "Dominion of India||British Raj||Indian",
+    "occupationLabel": "teacher||writer||autobiographer||guru||religious leader||mystic"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47149",
     "itemLabel": "Sylvester I",
     "year": "336",
-    "sitelinks": "90",
+    "sitelinks": "89",
     "description": "33rd pope and saint (reigned 314-335)",
     "nationalityLabel": "",
     "occupationLabel": "religious leader"
@@ -96,7 +96,25 @@
     "sitelinks": "88",
     "description": "Christian saint and theologian (c. 329 – 390)",
     "nationalityLabel": "Roman||Romans",
-    "occupationLabel": "priest||bishop||poet||preacher||theologian||religious leader||epigrammatist"
+    "occupationLabel": "bishop||poet||priest||epigrammatist||theologian||preacher||Doctor of the Church||religious leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105180",
+    "itemLabel": "Sojourner Truth",
+    "year": "1883",
+    "sitelinks": "81",
+    "description": "abolitionist and African-American activist for women's rights (1797–1883)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "suffragist||women's rights activist||feminist||religious leader||abolitionist||slave"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104273",
+    "itemLabel": "al-Bāb",
+    "year": "1850",
+    "sitelinks": "80",
+    "description": "founder of Bábism and, according to the Baháʼís, predecessor of Baháʼu'lláh",
+    "nationalityLabel": "Qajar Iran",
+    "occupationLabel": "poet||writer||merchant||preacher||religious leader||founder of religion||orator"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132797",
@@ -108,46 +126,37 @@
     "occupationLabel": "Catholic priest||religious leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q104273",
-    "itemLabel": "Báb",
-    "year": "1850",
-    "sitelinks": "79",
-    "description": "founder of Bábism and, according to the Baháʼís, predecessor of Baháʼu'lláh",
-    "nationalityLabel": "Qajar Iran",
-    "occupationLabel": "poet||writer||merchant||preacher||father of faith||orator||religious leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q105180",
-    "itemLabel": "Sojourner Truth",
-    "year": "1883",
-    "sitelinks": "79",
-    "description": "African-American abolitionist and women's rights activist (1797–1883)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "suffragist||women's rights activist||religious leader||abolitionist"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q203922",
     "itemLabel": "Mani",
     "year": "274",
     "sitelinks": "73",
     "description": "3rd century prophet and founder of Manichaeism",
     "nationalityLabel": "Parthian Empire||Persian||Sassanian",
-    "occupationLabel": "prophet||poet||writer||theologian||religious leader||philosopher"
+    "occupationLabel": "poet||writer||prophet||theologian||religious leader||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244742",
+    "itemLabel": "Shamil",
+    "year": "1871",
+    "sitelinks": "70",
+    "description": "North Caucasian imam and warrior (1797-1871)",
+    "nationalityLabel": "Russian||Ottoman",
+    "occupationLabel": "imam||qadi||warrior||resistance fighter||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q310586",
     "itemLabel": "Jesse Jackson",
     "year": "2026",
-    "sitelinks": "69",
+    "sitelinks": "70",
     "description": "American Baptist minister, activist, civil rights leader, politician, and founder of the Rainbow PUSH Coalition (1941–2026)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||pastor||civil rights advocate||human rights defender||religious leader"
+    "occupationLabel": "politician||pastor||civil rights advocate||religious leader||human rights defender||cleric"
   },
   {
     "item": "http://www.wikidata.org/entity/Q483931",
     "itemLabel": "Sathya Sai Baba",
     "year": "2011",
-    "sitelinks": "68",
+    "sitelinks": "69",
     "description": "Indian spiritual guru (1926–2011)",
     "nationalityLabel": "Indian",
     "occupationLabel": "religious leader"
@@ -158,8 +167,8 @@
     "year": "1940",
     "sitelinks": "65",
     "description": "Jamaica-born British political activist, Pan-Africanist, orator, and entrepreneur (1887-1940)",
-    "nationalityLabel": "British Colony of Jamaica",
-    "occupationLabel": "politician||entrepreneur||printer||journalist||sociologist||religious leader"
+    "nationalityLabel": "Colony of Jamaica",
+    "occupationLabel": "entrepreneur||politician||printer||author||civil rights advocate||religious leader||journalist||sociologist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q511502",
@@ -171,22 +180,40 @@
     "occupationLabel": "patriarch||religious leader"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q312952",
+    "itemLabel": "Mirza Ghulam Ahmad",
+    "year": "1908",
+    "sitelinks": "58",
+    "description": "Indian religious leader (1835–1908)",
+    "nationalityLabel": "British Raj",
+    "occupationLabel": "writer||theologian||religious leader"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q216896",
     "itemLabel": "L. Ron Hubbard",
     "year": "1986",
-    "sitelinks": "57",
+    "sitelinks": "58",
     "description": "American writer and Scientology founder (1911–1986)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "screenwriter||poet||writer||military officer||musician||painter||novelist||religious leader||science fiction writer"
+    "occupationLabel": "screenwriter||Scientology||poet||science fiction writer||writer||military officer||musician||painter||author||religious leader||novelist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q216954",
-    "itemLabel": "ʻAbdu'l-Bahá",
+    "itemLabel": "ʻAbbās al-Bahāʼī",
     "year": "1921",
-    "sitelinks": "54",
+    "sitelinks": "55",
     "description": "son of Bahá'u'lláh and leader of the Bahá'í Faith",
     "nationalityLabel": "Qajar Iran",
-    "occupationLabel": "religious leader"
+    "occupationLabel": "writer||philosopher of religion||Baháʼí||religious leader||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q230291",
+    "itemLabel": "Hassan al-Banna",
+    "year": "1949",
+    "sitelinks": "54",
+    "description": "Egyptian Islamist leader and politician (1906—1949)",
+    "nationalityLabel": "Sultanate of Egypt||Kingdom of Egypt||Ottoman",
+    "occupationLabel": "politician||teacher||writer||preacher||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q206466",
@@ -195,7 +222,34 @@
     "sitelinks": "54",
     "description": "American gospel singer (1911–1972)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "musician||religious leader||gospel singer"
+    "occupationLabel": "singer||musician||gospel singer||religious leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158148",
+    "itemLabel": "Grand Duchess Tatiana Nikolaevna of Russia",
+    "year": "1918",
+    "sitelinks": "51",
+    "description": "Grand Duchess of Russia (1897–1918); second daughter of Nicholas II and Alexandra Feodorovna (Alix of Hesse)",
+    "nationalityLabel": "Russian",
+    "occupationLabel": "chairperson||nurse||aristocrat||religious leader||Grand Prince"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213861",
+    "itemLabel": "Jim Jones",
+    "year": "1978",
+    "sitelinks": "51",
+    "description": "American cult leader (1931–1978)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "cult leader||rapist||volunteer||pastor||murderer||religious leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q311793",
+    "itemLabel": "Aga Khan IV",
+    "year": "2025",
+    "sitelinks": "51",
+    "description": "49th Imam of Nizari Isma'ilism Muslims",
+    "nationalityLabel": "British||Briton||French||Swiss||Portuguese||Canadian||Canadians",
+    "occupationLabel": "imam||businessperson||merchant||business magnate||religious leader||alpine skier||racehorse owner and breeder||philanthropist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q313456",
@@ -204,16 +258,7 @@
     "sitelinks": "50",
     "description": "Founder of the Bible Student movement (1852–1916)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||filmmaker||publisher||religious leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q158148",
-    "itemLabel": "Grand Duchess Tatiana Nikolaevna of Russia",
-    "year": "1918",
-    "sitelinks": "50",
-    "description": "Grand Duchess of Russia (1897–1918)",
-    "nationalityLabel": "Russian",
-    "occupationLabel": "chairperson||nurse||aristocrat||religious leader"
+    "occupationLabel": "writer||merchant||religious leader||filmmaker||publisher"
   },
   {
     "item": "http://www.wikidata.org/entity/Q124745907",
@@ -222,7 +267,16 @@
     "sitelinks": "49",
     "description": "The founder of the Ismaili state of Alamut and the Imam of the Nizari Ismailis (1081–1124)",
     "nationalityLabel": "Assassin||Batini||Ismaili||Nizari||Hashashshin||Nizari Ismaili||Seljuk Empire||Fatimid Caliphate",
-    "occupationLabel": "astronomer||teacher||politician||writer||governor||astrologer||mathematician||da'i||theologian||military leader||Islamic jurist||herbalist||religious leader||autobiographer||philosopher"
+    "occupationLabel": "astronomer||politician||teacher||governor||astrologer||writer||autobiographer||mathematician||theologian||da'i||military leader||religious leader||Islamic jurist||herbalist||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q309953",
+    "itemLabel": "Gregory the Illuminator",
+    "year": "325",
+    "sitelinks": "47",
+    "description": "patron saint of the Armenian Apostolic Church (c.257–c.331)",
+    "nationalityLabel": "",
+    "occupationLabel": "presbyter||illuminator||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q296734",
@@ -234,26 +288,35 @@
     "occupationLabel": "businessperson||writer||religious leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q309953",
-    "itemLabel": "Gregory the Illuminator",
-    "year": "325",
-    "sitelinks": "46",
-    "description": "patron saint of the Armenian Apostolic Church (c.257–c.331)",
-    "nationalityLabel": "",
-    "occupationLabel": "presbyter||religious leader"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q369920",
     "itemLabel": "Guru Arjan",
     "year": "1606",
-    "sitelinks": "41",
+    "sitelinks": "43",
     "description": "The fifth Guru of Sikhism (1563-1606)",
     "nationalityLabel": "",
     "occupationLabel": "writer||religious leader"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q366213",
+    "itemLabel": "Aga Khan III",
+    "year": "1957",
+    "sitelinks": "42",
+    "description": "48th Imam of the Nizari Ismaili community (1877-1957)",
+    "nationalityLabel": "Dominion of India||British Raj||Indian||French",
+    "occupationLabel": "politician||imam||diplomat||religious leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2019145",
+    "itemLabel": "Guru Tegh Bahadur",
+    "year": "1675",
+    "sitelinks": "41",
+    "description": "the ninth Guru of Sikhism (1621–1675)",
+    "nationalityLabel": "",
+    "occupationLabel": "writer||guru||religious leader"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q25088",
-    "itemLabel": "Muhammad al-Jawad",
+    "itemLabel": "Muḥammad al-Jawwād",
     "year": "835",
     "sitelinks": "39",
     "description": "ninth of the Twelve Imams of Twelver Shi'ism",
@@ -261,13 +324,13 @@
     "occupationLabel": "imam||theologian||religious leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2019145",
-    "itemLabel": "Guru Tegh Bahadur",
-    "year": "1675",
+    "item": "http://www.wikidata.org/entity/Q335353",
+    "itemLabel": "Guru Ram Das",
+    "year": "1581",
     "sitelinks": "38",
-    "description": "The ninth Guru of Sikhism",
+    "description": "The fourth Guru of Sikhism",
     "nationalityLabel": "",
-    "occupationLabel": "writer||guru||religious leader"
+    "occupationLabel": "writer||religious leader||clergyman"
   },
   {
     "item": "http://www.wikidata.org/entity/Q318441",
@@ -275,8 +338,8 @@
     "year": "1957",
     "sitelinks": "38",
     "description": "grandson of ʻAbdu'l-Bahá, head of the Bahá'í Faith from 1921 until his death in 1957",
-    "nationalityLabel": "Palestine",
-    "occupationLabel": "translator||Guardian of the Bahá'í Faith||religious leader"
+    "nationalityLabel": "Palestinian",
+    "occupationLabel": "Guardian of the Bahá'í Faith||translator||Baháʼí||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q221059",
@@ -285,7 +348,7 @@
     "sitelinks": "37",
     "description": "Greek hymnographer",
     "nationalityLabel": "Byzantine Empire",
-    "occupationLabel": "author||hymnwriter||religious leader"
+    "occupationLabel": "deacon||author||religious leader||hymnwriter||cleric"
   },
   {
     "item": "http://www.wikidata.org/entity/Q771686",
@@ -297,56 +360,56 @@
     "occupationLabel": "poet||statesperson||religious leader||philosopher"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q335353",
-    "itemLabel": "Guru Ram Das",
-    "year": "1581",
-    "sitelinks": "36",
-    "description": "The fourth Guru of Sikhism",
-    "nationalityLabel": "",
-    "occupationLabel": "writer||clergyman||religious leader"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q370204",
     "itemLabel": "Guru Angad Dev",
     "year": "1552",
-    "sitelinks": "35",
+    "sitelinks": "37",
     "description": "The second Guru of Sikhism",
     "nationalityLabel": "",
     "occupationLabel": "writer||guru||religious leader"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q353547",
+    "itemLabel": "Bogd Khan",
+    "year": "1924",
+    "sitelinks": "36",
+    "description": "Great Khan of Outer Mongolia (1869–1924)",
+    "nationalityLabel": "Bogd Khanate of Mongolia||Chinese||Qing dynasty",
+    "occupationLabel": "writer||Lama||religious leader"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q931506",
     "itemLabel": "Swaminarayan",
     "year": "1830",
-    "sitelinks": "34",
+    "sitelinks": "35",
     "description": "Founder and deity of the Swaminarayan sect",
     "nationalityLabel": "",
-    "occupationLabel": "yogi||religious leader||spiritual teacher"
+    "occupationLabel": "spiritual teacher||religious leader||yogi"
   },
   {
     "item": "http://www.wikidata.org/entity/Q353723",
     "itemLabel": "William Miller",
     "year": "1849",
-    "sitelinks": "34",
+    "sitelinks": "35",
     "description": "American founder of the Adventist movement (1782–1849)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "farmer||preacher||theologian||religious leader"
+    "occupationLabel": "farmer||theologian||preacher||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q345182",
     "itemLabel": "Elijah Muhammad",
     "year": "1975",
-    "sitelinks": "34",
+    "sitelinks": "35",
     "description": "American religious leader (1897-1975)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||religious leader||Muslim minister"
+    "occupationLabel": "politician||Muslim minister||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2773345",
     "itemLabel": "Viśvāmitra",
     "year": "-2000",
-    "sitelinks": "33",
-    "description": "Great Sage in Vedic Tradition",
+    "sitelinks": "34",
+    "description": "ancient Indian sage",
     "nationalityLabel": "",
     "occupationLabel": "religious leader"
   },
@@ -354,10 +417,28 @@
     "item": "http://www.wikidata.org/entity/Q329730",
     "itemLabel": "Nat Turner",
     "year": "1831",
-    "sitelinks": "33",
+    "sitelinks": "34",
     "description": "American slave rebellion leader (1800-1831)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "preacher||religious leader||abolitionist||Slave rebellion leader"
+    "occupationLabel": "preacher||Slave rebellion leader||religious leader||abolitionist||slave"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q454703",
+    "itemLabel": "Guru Amar Das",
+    "year": "1574",
+    "sitelinks": "33",
+    "description": "The third Guru of Sikhism",
+    "nationalityLabel": "",
+    "occupationLabel": "writer||guru||religious leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3651004",
+    "itemLabel": "Gabriel Urgebadze",
+    "year": "1995",
+    "sitelinks": "33",
+    "description": "Georgian saint (1929–1995)",
+    "nationalityLabel": "Soviet||Georgian",
+    "occupationLabel": "Eastern Orthodox priest||Eastern Orthodox monk||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q545024",
@@ -366,43 +447,25 @@
     "sitelinks": "32",
     "description": "Italian explorer and composer (1586-1652)",
     "nationalityLabel": "Papal",
-    "occupationLabel": "composer||writer||diplomat||public figure||explorer||traveler||religious leader"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3651004",
-    "itemLabel": "Gabriel Urgebadze",
-    "year": "1995",
-    "sitelinks": "32",
-    "description": "Georgian saint (1929–1995)",
-    "nationalityLabel": "Soviet||Georgian",
-    "occupationLabel": "Eastern Orthodox priest||religious leader||Eastern Orthodox monk"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q454703",
-    "itemLabel": "Guru Amar Das",
-    "year": "1574",
-    "sitelinks": "31",
-    "description": "The third Guru of Sikhism",
-    "nationalityLabel": "",
-    "occupationLabel": "writer||guru||religious leader"
+    "occupationLabel": "writer||composer||diplomat||public figure||religious leader||explorer||traveler"
   },
   {
     "item": "http://www.wikidata.org/entity/Q291068",
     "itemLabel": "Mary McLeod Bethune",
     "year": "1955",
-    "sitelinks": "30",
+    "sitelinks": "31",
     "description": "American educator and civil rights leader (1875-1955)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "teacher||politician||writer||missionary||journalist||human rights defender||suffragist||religious leader"
+    "occupationLabel": "politician||teacher||writer||suffragist||feminist||missionary||pedagogue||civil rights advocate||religious leader||journalist||human rights defender"
   },
   {
     "item": "http://www.wikidata.org/entity/Q545488",
     "itemLabel": "Ralph Abernathy",
     "year": "1990",
-    "sitelinks": "30",
+    "sitelinks": "31",
     "description": "American civil rights activist and minister (1926–1990)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "politician||civil rights advocate||theologian||Christian minister||human rights defender||religious leader"
+    "occupationLabel": "politician||theologian||parson||civil rights advocate||religious leader||Christian minister||human rights defender"
   },
   {
     "item": "http://www.wikidata.org/entity/Q371345",
@@ -432,13 +495,22 @@
     "occupationLabel": "politician||religious leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q565148",
-    "itemLabel": "Qiu Chuji",
-    "year": "1227",
+    "item": "http://www.wikidata.org/entity/Q708525",
+    "itemLabel": "Jacob Frank",
+    "year": "1791",
+    "sitelinks": "25",
+    "description": "Polish-Jewish religious leader",
+    "nationalityLabel": "Polish–Lithuanian Commonwealth",
+    "occupationLabel": "rabbi||astrologer||heresiarch||religious leader"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q532375",
+    "itemLabel": "Charles Grandison Finney",
+    "year": "1875",
     "sitelinks": "24",
-    "description": "Taoist leader",
-    "nationalityLabel": "Mongol Empire||Jin dynasty",
-    "occupationLabel": "writer||explorer||adviser||religious leader"
+    "description": "American religious leader, writer and educator (1792–1875)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "lawyer||writer||theologian||preacher||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q290249",
@@ -447,7 +519,7 @@
     "sitelinks": "24",
     "description": "American Voodoo practitioner",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "hairdresser||occultist||religious leader"
+    "occupationLabel": "hairdresser||religious leader||occultist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q923673",
@@ -465,7 +537,7 @@
     "sitelinks": "24",
     "description": "emir of Diiriye Guure and his Dervish Kingdom (1856-1920)",
     "nationalityLabel": "Somali||Somalian",
-    "occupationLabel": "politician||writer||religious leader"
+    "occupationLabel": "politician||writer||resistance fighter||religious leader"
   },
   {
     "item": "http://www.wikidata.org/entity/Q124746531",
@@ -474,25 +546,34 @@
     "sitelinks": "23",
     "description": "leader of the Syrian wing of the Hashshashin sect and figure in the history of the Crusades",
     "nationalityLabel": "Assassin||Batini||Ismaili||Nizari||Hashashshin||Nizari Ismaili",
-    "occupationLabel": "writer||imam||da'i||military leader||religious leader"
+    "occupationLabel": "imam||writer||da'i||military leader||religious leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q532375",
-    "itemLabel": "Charles Grandison Finney",
-    "year": "1875",
+    "item": "http://www.wikidata.org/entity/Q565148",
+    "itemLabel": "Qiu Chuji",
+    "year": "1227",
     "sitelinks": "23",
-    "description": "American religious leader, writer and educator (1792–1875)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "writer||theologian||religious leader"
+    "description": "founder of the Longmen school of Quanzhen Taoism",
+    "nationalityLabel": "Jin dynasty||Mongol Empire",
+    "occupationLabel": "writer||religious leader||explorer||adviser"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2704613",
-    "itemLabel": "Abul Hasan ash-Shadhili",
+    "itemLabel": "Abū al-Ḥasan al-Shādhilī",
     "year": "1258",
-    "sitelinks": "22",
+    "sitelinks": "23",
     "description": "Founder of the Shadhili order",
     "nationalityLabel": "",
-    "occupationLabel": "murshid||religious leader||walī"
+    "occupationLabel": "murshid||religious leader||walī||mystic||Sufi"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7154879",
+    "itemLabel": "Pauli Murray",
+    "year": "1985",
+    "sitelinks": "23",
+    "description": "American writer, activist, lawyer and Episcopal priest (1910-1985)",
+    "nationalityLabel": "American||Americans",
+    "occupationLabel": "lawyer||poet||priest||writer||religious leader||human rights defender||university teacher||political activist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q572436",
@@ -501,7 +582,16 @@
     "sitelinks": "22",
     "description": "Eastern Orthodox theologian",
     "nationalityLabel": "Principality of Wallachia||Ottoman",
-    "occupationLabel": "politician||writer||painter||literary scholar||Eastern Orthodox priest||calligrapher||religious leader||philosopher"
+    "occupationLabel": "politician||writer||Eastern Orthodox priest||painter||metropolitan||Orthodox theologian||religious leader||calligrapher||literary scholar||philosopher"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2717210",
+    "itemLabel": "Aga Khan I",
+    "year": "1881",
+    "sitelinks": "22",
+    "description": "politician (1800–1881)",
+    "nationalityLabel": "Iranian||Persian",
+    "occupationLabel": "politician||imam||governor||religious leader||religious role"
   },
   {
     "item": "http://www.wikidata.org/entity/Q719200",
@@ -513,22 +603,13 @@
     "occupationLabel": "politician||religious leader"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q7154879",
-    "itemLabel": "Pauli Murray",
-    "year": "1985",
-    "sitelinks": "22",
-    "description": "American writer, activist, lawyer and Episcopal priest (1910-1985)",
-    "nationalityLabel": "American||Americans",
-    "occupationLabel": "lawyer||priest||poet||writer||human rights defender||university teacher||political activist||religious leader"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q493028",
     "itemLabel": "Andraé Crouch",
     "year": "2015",
     "sitelinks": "22",
     "description": "American gospel singer, songwriter, arranger, record producer and pastor (1942-2015)",
     "nationalityLabel": "American||Americans",
-    "occupationLabel": "composer||record producer||singer-songwriter||film score composer||religious leader"
+    "occupationLabel": "composer||record producer||musician||singer-songwriter||religious leader||film score composer"
   },
   {
     "item": "http://www.wikidata.org/entity/Q581139",
@@ -554,7 +635,7 @@
     "year": "2004",
     "sitelinks": "21",
     "description": "Yemeni Zaidi religious leader (1959–2004)",
-    "nationalityLabel": "Yemen Republic",
+    "nationalityLabel": "Yemen Arab Republic",
     "occupationLabel": "politician||military leader||religious leader"
   },
   {
@@ -564,7 +645,7 @@
     "sitelinks": "21",
     "description": "Pakistani fundamentalist",
     "nationalityLabel": "Pakistani",
-    "occupationLabel": "imam||diplomat||attaché||activist||religious leader"
+    "occupationLabel": "imam||diplomat||attaché||religious leader||activist"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3694565",

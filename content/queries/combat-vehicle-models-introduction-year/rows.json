@@ -5,7 +5,7 @@
     "description": "Russian third-generation main battle tank",
     "year": "1991",
     "manufacturerLabel": "Uralvagonzavod",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151221",
@@ -13,7 +13,7 @@
     "description": "1942 heavy tank family",
     "year": "1942",
     "manufacturerLabel": "Henschel & Sohn",
-    "sitelinks": "56"
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151950",
@@ -21,14 +21,14 @@
     "description": "1944 German heavy tank",
     "year": "1944",
     "manufacturerLabel": "Henschel & Sohn",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q48446",
     "itemLabel": "S-300",
     "description": "surface-to-air missile system",
     "year": "1978",
-    "manufacturerLabel": "Aviatek",
+    "manufacturerLabel": "Kalinin Machine-Building Plant",
     "sitelinks": "49"
   },
   {
@@ -40,20 +40,20 @@
     "sitelinks": "48"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q237177",
+    "itemLabel": "T-26",
+    "description": "Soviet light infantry tank",
+    "year": "1931",
+    "manufacturerLabel": "Obukhov State Plant",
+    "sitelinks": "47"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q239364",
     "itemLabel": "A7V",
     "description": "German WW1 tank",
     "year": "1918",
     "manufacturerLabel": "",
     "sitelinks": "47"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q237177",
-    "itemLabel": "T-26",
-    "description": "Soviet light infantry tank",
-    "year": "1931",
-    "manufacturerLabel": "Obukhov State Plant",
-    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207734",
@@ -69,15 +69,7 @@
     "description": "main battle tank",
     "year": "1993",
     "manufacturerLabel": "KNDS France",
-    "sitelinks": "44"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q373788",
-    "itemLabel": "T-84",
-    "description": "Ukrainian main battle tank based on the Soviet T-80",
-    "year": "1999",
-    "manufacturerLabel": "Malyshev Factory",
-    "sitelinks": "42"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q368729",
@@ -85,6 +77,14 @@
     "description": "American heavy battle tank at the end of World War Two",
     "year": "1945",
     "manufacturerLabel": "Detroit Arsenal Tank Plant",
+    "sitelinks": "42"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q373788",
+    "itemLabel": "T-84",
+    "description": "Ukrainian main battle tank based on the Soviet T-80",
+    "year": "1999",
+    "manufacturerLabel": "Kharkiv Morozov Machine Building Design Bureau",
     "sitelinks": "42"
   },
   {
@@ -124,15 +124,7 @@
     "itemLabel": "Ariete",
     "description": "battle tank of the Italian Army",
     "year": "1995",
-    "manufacturerLabel": "IVECO S.p.a.",
-    "sitelinks": "39"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q466872",
-    "itemLabel": "T-35",
-    "description": "1933 Soviet heavy tank",
-    "year": "1935",
-    "manufacturerLabel": "Malyshev Factory",
+    "manufacturerLabel": "Iveco",
     "sitelinks": "39"
   },
   {
@@ -141,6 +133,14 @@
     "description": "Soviet medium tank",
     "year": "1933",
     "manufacturerLabel": "Kirov Plant",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q466872",
+    "itemLabel": "T-35",
+    "description": "1933 Soviet heavy tank",
+    "year": "1935",
+    "manufacturerLabel": "Malyshev Factory",
     "sitelinks": "39"
   },
   {
@@ -176,14 +176,6 @@
     "sitelinks": "38"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q462442",
-    "itemLabel": "T-60",
-    "description": "Soviet light tank",
-    "year": "1941",
-    "manufacturerLabel": "GAZ",
-    "sitelinks": "37"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q181130",
     "itemLabel": "T-70",
     "description": "Soviet light tank",
@@ -192,11 +184,19 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q612829",
-    "itemLabel": "Stryker",
-    "description": "family of eight-wheeled armored fighting vehicles",
-    "year": "2002",
-    "manufacturerLabel": "ACDelco",
+    "item": "http://www.wikidata.org/entity/Q81661",
+    "itemLabel": "Elefant",
+    "description": "1943 German heavy tank destroyer",
+    "year": "1943",
+    "manufacturerLabel": "Porsche",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q462442",
+    "itemLabel": "T-60",
+    "description": "Soviet light tank",
+    "year": "1941",
+    "manufacturerLabel": "GAZ",
     "sitelinks": "37"
   },
   {
@@ -208,11 +208,11 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q81661",
-    "itemLabel": "Elefant",
-    "description": "1943 German heavy tank destroyer",
-    "year": "1943",
-    "manufacturerLabel": "Porsche",
+    "item": "http://www.wikidata.org/entity/Q612829",
+    "itemLabel": "Stryker",
+    "description": "family of eight-wheeled armored fighting vehicles",
+    "year": "2002",
+    "manufacturerLabel": "ACDelco",
     "sitelinks": "37"
   },
   {
@@ -228,6 +228,14 @@
     "itemLabel": "Hetzer",
     "description": "1944 German tank destroyer",
     "year": "1944",
+    "manufacturerLabel": "",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q228820",
+    "itemLabel": "Zulfiqar",
+    "description": "main battle tank",
+    "year": "1993",
     "manufacturerLabel": "",
     "sitelinks": "37"
   },
@@ -248,20 +256,20 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q228820",
-    "itemLabel": "Zulfiqar",
-    "description": "main battle tank",
-    "year": "1993",
-    "manufacturerLabel": "",
-    "sitelinks": "36"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q136457",
     "itemLabel": "ZSU-23-4 Shilka",
     "description": "1960s self-propelled quad 23 mm anti-aircraft gun system",
     "year": "1962",
     "manufacturerLabel": "Mytishchi Machine-Building Plant",
     "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q684337",
+    "itemLabel": "Stridsvagn 103",
+    "description": "Swedish main battle tank",
+    "year": "1960",
+    "manufacturerLabel": "Bofors",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q545541",
@@ -288,27 +296,19 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q684337",
-    "itemLabel": "Stridsvagn 103",
-    "description": "Swedish main battle tank",
-    "year": "1960",
-    "manufacturerLabel": "Bofors",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q402395",
-    "itemLabel": "2K22 Tunguska",
-    "description": "self-propelled anti-aircraft weapon system",
-    "year": "1982",
-    "manufacturerLabel": "KBP Instrument Design Bureau",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q154034",
     "itemLabel": "Wespe",
     "description": "1943 German self-propelled 105 mm howitzer model",
     "year": "1943",
     "manufacturerLabel": "FAMO",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q909224",
+    "itemLabel": "Type 10",
+    "description": "main battle tank",
+    "year": "2012",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
     "sitelinks": "33"
   },
   {
@@ -320,11 +320,11 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q909224",
-    "itemLabel": "Type 10",
-    "description": "main battle tank",
-    "year": "2012",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
+    "item": "http://www.wikidata.org/entity/Q402395",
+    "itemLabel": "2K22 Tunguska",
+    "description": "self-propelled anti-aircraft weapon system",
+    "year": "1982",
+    "manufacturerLabel": "KBP Instrument Design Bureau",
     "sitelinks": "33"
   },
   {
@@ -376,19 +376,19 @@
     "sitelinks": "32"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q657053",
+    "itemLabel": "T-18 tank",
+    "description": "light tank",
+    "year": "1928",
+    "manufacturerLabel": "Motovilikha Plants",
+    "sitelinks": "32"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q608573",
     "itemLabel": "KV-1",
     "description": "Soviet heavy tank",
     "year": "1940",
     "manufacturerLabel": "Kirov Plant",
-    "sitelinks": "32"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q657053",
-    "itemLabel": "T-18 tank",
-    "description": "light tank",
-    "year": "1928",
-    "manufacturerLabel": "Obukhov State Plant",
     "sitelinks": "32"
   },
   {
@@ -440,6 +440,14 @@
     "sitelinks": "31"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1141886",
+    "itemLabel": "R-35",
+    "description": "1936 light infantry tank",
+    "year": "1936",
+    "manufacturerLabel": "Renault",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q739761",
     "itemLabel": "Schneider CA1",
     "description": "type of Tank",
@@ -448,11 +456,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q431675",
-    "itemLabel": "Matilda I",
-    "description": "British infantry tank",
-    "year": "1938",
-    "manufacturerLabel": "Vickers",
+    "item": "http://www.wikidata.org/entity/Q279316",
+    "itemLabel": "Fiat 3000",
+    "description": "Italian tank based on the Renault FT",
+    "year": "1921",
+    "manufacturerLabel": "Fiat",
     "sitelinks": "30"
   },
   {
@@ -464,11 +472,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q749607",
-    "itemLabel": "Mark V tank",
-    "description": "British tank",
-    "year": "1918",
-    "manufacturerLabel": "Metro-Cammell",
+    "item": "http://www.wikidata.org/entity/Q431675",
+    "itemLabel": "Matilda I",
+    "description": "British infantry tank",
+    "year": "1938",
+    "manufacturerLabel": "Vickers",
     "sitelinks": "30"
   },
   {
@@ -488,11 +496,11 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1141886",
-    "itemLabel": "R-35",
-    "description": "1936 light infantry tank",
-    "year": "1936",
-    "manufacturerLabel": "Renault",
+    "item": "http://www.wikidata.org/entity/Q749607",
+    "itemLabel": "Mark V tank",
+    "description": "British tank",
+    "year": "1918",
+    "manufacturerLabel": "Metro-Cammell",
     "sitelinks": "30"
   },
   {
@@ -536,12 +544,12 @@
     "sitelinks": "30"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q621874",
-    "itemLabel": "M18 Hellcat",
-    "description": "1943 tank destroyer",
-    "year": "1944",
-    "manufacturerLabel": "General Motors",
-    "sitelinks": "29"
+    "item": "http://www.wikidata.org/entity/Q696563",
+    "itemLabel": "Type 95 Ha-Go",
+    "description": "1936 light tank",
+    "year": "1936",
+    "manufacturerLabel": "",
+    "sitelinks": "30"
   },
   {
     "item": "http://www.wikidata.org/entity/Q610358",
@@ -552,19 +560,11 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q279316",
-    "itemLabel": "Fiat 3000",
-    "description": "Italian tank based on the Renault FT",
-    "year": "1921",
-    "manufacturerLabel": "Fiat",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q558422",
-    "itemLabel": "T-40",
-    "description": "Soviet amphibious tank",
-    "year": "1941",
-    "manufacturerLabel": "NIIDAR",
+    "item": "http://www.wikidata.org/entity/Q621874",
+    "itemLabel": "M18 Hellcat",
+    "description": "1943 tank destroyer",
+    "year": "1944",
+    "manufacturerLabel": "General Motors",
     "sitelinks": "29"
   },
   {
@@ -576,18 +576,18 @@
     "sitelinks": "29"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q558422",
+    "itemLabel": "T-40",
+    "description": "Soviet amphibious tank",
+    "year": "1941",
+    "manufacturerLabel": "NIIDAR",
+    "sitelinks": "29"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q157466",
     "itemLabel": "Brummbär",
     "description": "1943 German heavy assault gun",
     "year": "1943",
-    "manufacturerLabel": "",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q696563",
-    "itemLabel": "Type 95 Ha-Go",
-    "description": "1936 light tank",
-    "year": "1936",
     "manufacturerLabel": "",
     "sitelinks": "29"
   },
@@ -608,27 +608,11 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q473430",
-    "itemLabel": "M2 Bradley",
-    "description": "US armored fighting vehicle",
-    "year": "1981",
-    "manufacturerLabel": "BAE Systems",
-    "sitelinks": "28"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q592513",
     "itemLabel": "TKS",
     "description": "type of Tankette",
     "year": "1931",
     "manufacturerLabel": "Państwowe Zakłady Inżynierii",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1420351",
-    "itemLabel": "ISU-152",
-    "description": "1940s tank destroyer/assault gun",
-    "year": "1943",
-    "manufacturerLabel": "Kirov Plant",
     "sitelinks": "28"
   },
   {
@@ -645,6 +629,30 @@
     "description": "1942 tank destroyer",
     "year": "1943",
     "manufacturerLabel": "Fisher Body",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q473430",
+    "itemLabel": "M2 Bradley",
+    "description": "US armored fighting vehicle",
+    "year": "1981",
+    "manufacturerLabel": "BAE Systems",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1131597",
+    "itemLabel": "Cruiser Mk I",
+    "description": "type of cruiser tank",
+    "year": "1938",
+    "manufacturerLabel": "Vickers",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1420351",
+    "itemLabel": "ISU-152",
+    "description": "1940s tank destroyer/assault gun",
+    "year": "1943",
+    "manufacturerLabel": "Kirov Plant",
     "sitelinks": "28"
   },
   {
@@ -680,14 +688,6 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q700700",
-    "itemLabel": "Char B1",
-    "description": "1935 heavy tank",
-    "year": "1936",
-    "manufacturerLabel": "Renault",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q696384",
     "itemLabel": "M11/39",
     "description": "1939 medium tank",
@@ -696,11 +696,27 @@
     "sitelinks": "27"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q700700",
+    "itemLabel": "Char B1",
+    "description": "1935 heavy tank",
+    "year": "1936",
+    "manufacturerLabel": "Renault",
+    "sitelinks": "27"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q159229",
     "itemLabel": "Panzerwerfer",
     "description": "German multiple rocket launcher",
     "year": "1943",
     "manufacturerLabel": "Opel",
+    "sitelinks": "27"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q768187",
+    "itemLabel": "Hotchkiss H35",
+    "description": "1936 French light tank",
+    "year": "1936",
+    "manufacturerLabel": "Hotchkiss et Cie",
     "sitelinks": "27"
   },
   {
@@ -716,23 +732,7 @@
     "itemLabel": "Carden Loyd tankette",
     "description": "type of tankette",
     "year": "1927",
-    "manufacturerLabel": "Carden-Loyd Tractors Ltd.",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1131597",
-    "itemLabel": "Cruiser Mk I",
-    "description": "type of cruiser tank",
-    "year": "1938",
     "manufacturerLabel": "Vickers",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q768187",
-    "itemLabel": "Hotchkiss H35",
-    "description": "1936 French light tank",
-    "year": "1936",
-    "manufacturerLabel": "Hotchkiss et Cie",
     "sitelinks": "27"
   },
   {
@@ -776,10 +776,34 @@
     "sitelinks": "26"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q850205",
+    "itemLabel": "L6/40",
+    "description": "1939 light tank",
+    "year": "1940",
+    "manufacturerLabel": "Fiat",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q906668",
+    "itemLabel": "LAV-25",
+    "description": "reconnaissance vehicle",
+    "year": "1983",
+    "manufacturerLabel": "General Dynamics",
+    "sitelinks": "26"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q779903",
     "itemLabel": "IS tank family",
     "description": "series of Soviet heavy tanks, made 1943 to 1966 (in service to 1990)",
     "year": "1943",
+    "manufacturerLabel": "Chelyabinsk Tractor Plant",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1411902",
+    "itemLabel": "IS-3",
+    "description": "1944 heavy tank model",
+    "year": "1945",
     "manufacturerLabel": "Chelyabinsk Tractor Plant",
     "sitelinks": "26"
   },
@@ -792,28 +816,12 @@
     "sitelinks": "26"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q906668",
-    "itemLabel": "LAV-25",
-    "description": "reconnaissance vehicle",
-    "year": "1983",
-    "manufacturerLabel": "General Dynamics",
-    "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q850205",
-    "itemLabel": "L6/40",
-    "description": "1939 light tank",
+    "item": "http://www.wikidata.org/entity/Q1772915",
+    "itemLabel": "Cruiser Mk II",
+    "description": "type of cruiser tank",
     "year": "1940",
-    "manufacturerLabel": "Fiat",
+    "manufacturerLabel": "Vickers",
     "sitelinks": "26"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1411902",
-    "itemLabel": "IS-3",
-    "description": "1944 heavy tank model",
-    "year": "1945",
-    "manufacturerLabel": "Chelyabinsk Tractor Plant",
-    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1094189",
@@ -821,22 +829,6 @@
     "description": "series of twin-engine attack helicopters",
     "year": "1971",
     "manufacturerLabel": "Bell Textron",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1772915",
-    "itemLabel": "Cruiser Mk II",
-    "description": "type of cruiser tank",
-    "year": "1940",
-    "manufacturerLabel": "Vickers",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q12012222",
-    "itemLabel": "L3/35",
-    "description": "type of Tankette",
-    "year": "1935",
-    "manufacturerLabel": "",
     "sitelinks": "25"
   },
   {
@@ -856,19 +848,19 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2443047",
-    "itemLabel": "MaxxPro",
-    "description": "infantry mobility vehicle",
-    "year": "2007",
-    "manufacturerLabel": "International",
-    "sitelinks": "24"
+    "item": "http://www.wikidata.org/entity/Q12012222",
+    "itemLabel": "L3/35",
+    "description": "type of Tankette",
+    "year": "1935",
+    "manufacturerLabel": "",
+    "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1723252",
-    "itemLabel": "Kamov Ka-52 Alligator",
-    "description": "attack helicopter series by Kamov",
-    "year": "2008",
-    "manufacturerLabel": "Kamov",
+    "item": "http://www.wikidata.org/entity/Q81460",
+    "itemLabel": "T28 Super Heavy Tank",
+    "description": "prototype assault gun/tank destroyer",
+    "year": "1945",
+    "manufacturerLabel": "PACCAR",
     "sitelinks": "24"
   },
   {
@@ -880,11 +872,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q81460",
-    "itemLabel": "T28 Super Heavy Tank",
-    "description": "prototype assault gun/tank destroyer",
-    "year": "1945",
-    "manufacturerLabel": "PACCAR",
+    "item": "http://www.wikidata.org/entity/Q1723252",
+    "itemLabel": "Kamov Ka-52 Alligator",
+    "description": "attack helicopter series by Kamov",
+    "year": "2008",
+    "manufacturerLabel": "Kamov",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2443047",
+    "itemLabel": "MaxxPro",
+    "description": "infantry mobility vehicle",
+    "year": "2007",
+    "manufacturerLabel": "International",
     "sitelinks": "24"
   },
   {
@@ -893,14 +893,6 @@
     "description": "1936 cavalry tank",
     "year": "1936",
     "manufacturerLabel": "Somua",
-    "sitelinks": "24"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2267069",
-    "itemLabel": "BMD-2",
-    "description": "soviet Infantry Fighting Vehicle",
-    "year": "1985",
-    "manufacturerLabel": "",
     "sitelinks": "24"
   },
   {
@@ -920,11 +912,19 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2424775",
-    "itemLabel": "Tigr",
-    "description": "Russian infantry vehicle",
-    "year": "2013",
-    "manufacturerLabel": "GAZ",
+    "item": "http://www.wikidata.org/entity/Q2267069",
+    "itemLabel": "BMD-2",
+    "description": "soviet Infantry Fighting Vehicle",
+    "year": "1985",
+    "manufacturerLabel": "",
+    "sitelinks": "24"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q699606",
+    "itemLabel": "Karl-Gerät",
+    "description": "1940s self-propelled siege mortar of German origin",
+    "year": "1941",
+    "manufacturerLabel": "Rheinmetall AG",
     "sitelinks": "23"
   },
   {
@@ -936,27 +936,11 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q699606",
-    "itemLabel": "Karl-Gerät",
-    "description": "1940s self-propelled siege mortar of German origin",
-    "year": "1941",
-    "manufacturerLabel": "Rheinmetall AG",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q613105",
-    "itemLabel": "Vickers A1E1 Independent",
-    "description": "British tank type",
-    "year": "1926",
-    "manufacturerLabel": "Vickers",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1423875",
-    "itemLabel": "Sabra",
-    "description": "main battle tank",
-    "year": "2007",
-    "manufacturerLabel": "IMI Systems",
+    "item": "http://www.wikidata.org/entity/Q917213",
+    "itemLabel": "M15/42",
+    "description": "1942 medium tank",
+    "year": "1943",
+    "manufacturerLabel": "Ansaldo",
     "sitelinks": "23"
   },
   {
@@ -968,11 +952,19 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q919553",
-    "itemLabel": "Type 62",
-    "description": "1962 light tank developed by China",
-    "year": "1963",
-    "manufacturerLabel": "Harbin First Machinery Building Group Ltd",
+    "item": "http://www.wikidata.org/entity/Q1423875",
+    "itemLabel": "Sabra",
+    "description": "main battle tank",
+    "year": "2007",
+    "manufacturerLabel": "IMI Systems",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q613105",
+    "itemLabel": "Vickers A1E1 Independent",
+    "description": "British tank type",
+    "year": "1926",
+    "manufacturerLabel": "Vickers",
     "sitelinks": "23"
   },
   {
@@ -984,20 +976,28 @@
     "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q619002",
-    "itemLabel": "M103",
-    "description": "heavy tank",
-    "year": "1957",
-    "manufacturerLabel": "Stellantis North America",
-    "sitelinks": "22"
+    "item": "http://www.wikidata.org/entity/Q2473235",
+    "itemLabel": "BMD-3",
+    "description": "Infantry vehicle",
+    "year": "1990",
+    "manufacturerLabel": "Volgograd Tractor Factory",
+    "sitelinks": "23"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q632674",
-    "itemLabel": "Archer",
-    "description": "1943 self-propelled anti-tank gun",
-    "year": "1943",
-    "manufacturerLabel": "Vickers-Armstrongs",
-    "sitelinks": "22"
+    "item": "http://www.wikidata.org/entity/Q919553",
+    "itemLabel": "Type 62",
+    "description": "1962 light tank developed by China",
+    "year": "1963",
+    "manufacturerLabel": "Harbin First Machinery Building Group Ltd",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2424775",
+    "itemLabel": "Tigr",
+    "description": "Russian infantry vehicle",
+    "year": "2013",
+    "manufacturerLabel": "GAZ",
+    "sitelinks": "23"
   },
   {
     "item": "http://www.wikidata.org/entity/Q684552",
@@ -1005,14 +1005,6 @@
     "description": "1942 German self-propelled anti-tank gun",
     "year": "1942",
     "manufacturerLabel": "Rheinmetall AG",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1422969",
-    "itemLabel": "Light Tank Mk VI",
-    "description": "1936 light tank family",
-    "year": "1936",
-    "manufacturerLabel": "Vickers-Armstrongs",
     "sitelinks": "22"
   },
   {
@@ -1024,19 +1016,11 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q917213",
-    "itemLabel": "M15/42",
-    "description": "1942 medium tank",
-    "year": "1943",
-    "manufacturerLabel": "Ansaldo",
-    "sitelinks": "22"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1149696",
-    "itemLabel": "Mitsubishi Type 89 IFV",
-    "description": "infantry fighting vehicle",
-    "year": "1989",
-    "manufacturerLabel": "Komatsu Limited",
+    "item": "http://www.wikidata.org/entity/Q900779",
+    "itemLabel": "152mm SpGH DANA",
+    "description": "self-propelled artillery",
+    "year": "1981",
+    "manufacturerLabel": "Dubnica nad Váhom",
     "sitelinks": "22"
   },
   {
@@ -1048,6 +1032,22 @@
     "sitelinks": "22"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q619002",
+    "itemLabel": "M103",
+    "description": "heavy tank",
+    "year": "1957",
+    "manufacturerLabel": "Stellantis North America",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1149696",
+    "itemLabel": "Mitsubishi Type 89 IFV",
+    "description": "infantry fighting vehicle",
+    "year": "1989",
+    "manufacturerLabel": "Komatsu Limited",
+    "sitelinks": "22"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q949901",
     "itemLabel": "OF-40",
     "description": "Italian main battle tank",
@@ -1056,19 +1056,27 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2473235",
-    "itemLabel": "BMD-3",
-    "description": "Infantry vehicle",
-    "year": "1990",
-    "manufacturerLabel": "Volgograd Tractor Factory",
+    "item": "http://www.wikidata.org/entity/Q222826",
+    "itemLabel": "2S9 Nona",
+    "description": "self-propelled 120 mm gun-mortar model of the Soviet Union",
+    "year": "1981",
+    "manufacturerLabel": "Motovilikha Plants",
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q900779",
-    "itemLabel": "152mm SpGH DANA",
-    "description": "self-propelled artillery",
-    "year": "1981",
-    "manufacturerLabel": "Dubnica nad Váhom",
+    "item": "http://www.wikidata.org/entity/Q1422969",
+    "itemLabel": "Light Tank Mk VI",
+    "description": "1936 light tank family",
+    "year": "1936",
+    "manufacturerLabel": "Vickers-Armstrongs",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q632674",
+    "itemLabel": "Archer",
+    "description": "1943 self-propelled anti-tank gun",
+    "year": "1943",
+    "manufacturerLabel": "Vickers-Armstrongs",
     "sitelinks": "22"
   },
   {
@@ -1088,12 +1096,12 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q222826",
-    "itemLabel": "2S9 Nona",
-    "description": "self-propelled 120 mm gun-mortar model of the Soviet Union",
-    "year": "1981",
-    "manufacturerLabel": "Motovilikha Plants",
-    "sitelinks": "21"
+    "item": "http://www.wikidata.org/entity/Q603377",
+    "itemLabel": "Type 3 Chi-Nu",
+    "description": "medium tank",
+    "year": "1943",
+    "manufacturerLabel": "",
+    "sitelinks": "22"
   },
   {
     "item": "http://www.wikidata.org/entity/Q697225",
@@ -1101,6 +1109,14 @@
     "description": "armored fighting vehicle",
     "year": "1999",
     "manufacturerLabel": "Santa Bárbara Sistemas",
+    "sitelinks": "21"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q927610",
+    "itemLabel": "Apache AH1",
+    "description": "attack helicopter series of the British Army",
+    "year": "2004",
+    "manufacturerLabel": "AgustaWestland",
     "sitelinks": "21"
   },
   {
@@ -1112,22 +1128,6 @@
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q598391",
-    "itemLabel": "Bushmaster Protected Mobility Vehicle",
-    "description": "armored vehicle",
-    "year": "1998",
-    "manufacturerLabel": "Thales Australia",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q927610",
-    "itemLabel": "Apache AH1",
-    "description": "attack helicopter series of the British Army",
-    "year": "2004",
-    "manufacturerLabel": "Westland Helicopters",
-    "sitelinks": "21"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q697661",
     "itemLabel": "Ram",
     "description": "medium cruiser tank",
@@ -1136,18 +1136,18 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q598391",
+    "itemLabel": "Bushmaster Protected Mobility Vehicle",
+    "description": "armored vehicle",
+    "year": "1998",
+    "manufacturerLabel": "Thales Australia",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q853808",
     "itemLabel": "Cruiser Mk VIII Challenger",
     "description": "1942 cruiser tank series",
     "year": "1944",
-    "manufacturerLabel": "",
-    "sitelinks": "21"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q603377",
-    "itemLabel": "Type 3 Chi-Nu",
-    "description": "medium tank",
-    "year": "1943",
     "manufacturerLabel": "",
     "sitelinks": "21"
   },
@@ -1168,6 +1168,14 @@
     "sitelinks": "20"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2328964",
+    "itemLabel": "Cruiser Mk III",
+    "description": "British cruiser tank of the Second World War",
+    "year": "1938",
+    "manufacturerLabel": "Nuffield Mechanisation and Aero",
+    "sitelinks": "20"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1816169",
     "itemLabel": "M1117 armored security vehicle",
     "description": "US armored security vehicle",
@@ -1176,12 +1184,12 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2328964",
-    "itemLabel": "Cruiser Mk III",
-    "description": "British cruiser tank of the Second World War",
-    "year": "1938",
-    "manufacturerLabel": "Nuffield Mechanisation and Aero",
-    "sitelinks": "20"
+    "item": "http://www.wikidata.org/entity/Q1082335",
+    "itemLabel": "Semovente 75/18",
+    "description": "self-propelled gun",
+    "year": "1942",
+    "manufacturerLabel": "Fiat",
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q296714",
@@ -1197,6 +1205,30 @@
     "description": "armored recovery vehicle",
     "year": "1961",
     "manufacturerLabel": "United Defense",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81094",
+    "itemLabel": "15 cm sIG 33 (Sf) I",
+    "description": "1940 self-propelled infantry gun model by Alkett",
+    "year": "1940",
+    "manufacturerLabel": "Alkett",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q701355",
+    "itemLabel": "Type 4 Ke-Nu",
+    "description": "light tank",
+    "year": "1944",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q703375",
+    "itemLabel": "Type 1 Chi-He",
+    "description": "type of weapon",
+    "year": "1943",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
     "sitelinks": "19"
   },
   {
@@ -1216,22 +1248,6 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q81094",
-    "itemLabel": "15 cm sIG 33 (Sf) I",
-    "description": "1940 self-propelled infantry gun model by Alkett",
-    "year": "1940",
-    "manufacturerLabel": "Alkett",
-    "sitelinks": "19"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1386799",
-    "itemLabel": "FCM 36",
-    "description": "light infantry tank that was designed for the French Army prior to World War II",
-    "year": "1938",
-    "manufacturerLabel": "Société Nouvelle des Forges et Chantiers de la Méditerranée",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q136452",
     "itemLabel": "ZSU-37",
     "description": "self-propelled anti-aircraft weapon",
@@ -1248,6 +1264,14 @@
     "sitelinks": "19"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2617872",
+    "itemLabel": "BTR-D",
+    "description": "type of airborne amphibious multi-purpose tracked armored personnel carrier",
+    "year": "1974",
+    "manufacturerLabel": "Volgograd Tractor Factory",
+    "sitelinks": "19"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1964242",
     "itemLabel": "Namer",
     "description": "Armored Personnel Carrier",
@@ -1256,11 +1280,11 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1082335",
-    "itemLabel": "Semovente 75/18",
-    "description": "self-propelled gun",
-    "year": "1942",
-    "manufacturerLabel": "Fiat",
+    "item": "http://www.wikidata.org/entity/Q1386799",
+    "itemLabel": "FCM 36",
+    "description": "light infantry tank that was designed for the French Army prior to World War II",
+    "year": "1938",
+    "manufacturerLabel": "Société Nouvelle des Forges et Chantiers de la Méditerranée",
     "sitelinks": "19"
   },
   {
@@ -1280,67 +1304,11 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2552048",
-    "itemLabel": "BA-20",
-    "description": "Soviet armored car",
-    "year": "1936",
-    "manufacturerLabel": "GAZ",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1756471",
-    "itemLabel": "Rooikat",
-    "description": "type of armored fighting vehicle",
-    "year": "1990",
-    "manufacturerLabel": "BAE Systems",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1748158",
-    "itemLabel": "T-24",
-    "description": "Soviet medium tank",
-    "year": "1930",
-    "manufacturerLabel": "Malyshev Factory",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q701355",
-    "itemLabel": "Type 4 Ke-Nu",
-    "description": "light tank",
-    "year": "1944",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q703375",
-    "itemLabel": "Type 1 Chi-He",
-    "description": "type of weapon",
-    "year": "1943",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2385763",
-    "itemLabel": "Type 88 tank",
-    "description": "Chinese second generation main battle tank",
-    "year": "1988",
-    "manufacturerLabel": "Inner-Mongolia First Machine Group Company Limited",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3370627",
-    "itemLabel": "Joint Light Tactical Vehicle",
-    "description": "military Vehicle",
-    "year": "2019",
-    "manufacturerLabel": "Oshkosh Corporation",
-    "sitelinks": "18"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2617872",
-    "itemLabel": "BTR-D",
-    "description": "type of airborne amphibious multi-purpose tracked armored personnel carrier",
-    "year": "1974",
-    "manufacturerLabel": "Volgograd Tractor Factory",
+    "item": "http://www.wikidata.org/entity/Q787620",
+    "itemLabel": "BPM-97",
+    "description": "armored personnel carrier",
+    "year": "1999",
+    "manufacturerLabel": "Kamaz",
     "sitelinks": "18"
   },
   {
@@ -1352,11 +1320,51 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q22737254",
-    "itemLabel": "Uran-9",
-    "description": "Russian tracked unmanned ground combat vehicle",
+    "item": "http://www.wikidata.org/entity/Q1512278",
+    "itemLabel": "M2",
+    "description": "1930s United States Army tank",
+    "year": "1939",
+    "manufacturerLabel": "Rock Island Arsenal",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1756471",
+    "itemLabel": "Rooikat",
+    "description": "type of armored fighting vehicle",
+    "year": "1990",
+    "manufacturerLabel": "BAE Systems",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2385763",
+    "itemLabel": "Type 88 tank",
+    "description": "Chinese second generation main battle tank",
+    "year": "1988",
+    "manufacturerLabel": "Inner-Mongolia First Machine Group Company Limited",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1748158",
+    "itemLabel": "T-24",
+    "description": "Soviet medium tank",
+    "year": "1930",
+    "manufacturerLabel": "Malyshev Factory",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3370627",
+    "itemLabel": "Joint Light Tactical Vehicle",
+    "description": "military Vehicle",
     "year": "2019",
-    "manufacturerLabel": "Rostec",
+    "manufacturerLabel": "Oshkosh Corporation",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2552048",
+    "itemLabel": "BA-20",
+    "description": "Soviet armored car",
+    "year": "1936",
+    "manufacturerLabel": "GAZ",
     "sitelinks": "18"
   },
   {
@@ -1368,11 +1376,11 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2877506",
-    "itemLabel": "BT-42",
-    "description": "Finnish WW2 assault gun",
-    "year": "1943",
-    "manufacturerLabel": "",
+    "item": "http://www.wikidata.org/entity/Q22737254",
+    "itemLabel": "Uran-9",
+    "description": "Russian tracked unmanned ground combat vehicle",
+    "year": "2019",
+    "manufacturerLabel": "Rostec",
     "sitelinks": "18"
   },
   {
@@ -1400,20 +1408,12 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q787620",
-    "itemLabel": "BPM-97",
-    "description": "armored personnel carrier",
-    "year": "1999",
-    "manufacturerLabel": "Kamaz",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1816946",
-    "itemLabel": "Stridsvagn m/42",
-    "description": "type of medium tank",
+    "item": "http://www.wikidata.org/entity/Q2877506",
+    "itemLabel": "BT-42",
+    "description": "Finnish WW2 assault gun",
     "year": "1943",
-    "manufacturerLabel": "AB Volvo",
-    "sitelinks": "17"
+    "manufacturerLabel": "",
+    "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q486699",
@@ -1432,19 +1432,19 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1816946",
+    "itemLabel": "Stridsvagn m/42",
+    "description": "type of medium tank",
+    "year": "1943",
+    "manufacturerLabel": "AB Volvo",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1248116",
     "itemLabel": "Rolls-Royce armoured car",
     "description": "armored car",
     "year": "1915",
     "manufacturerLabel": "Rolls-Royce",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1512278",
-    "itemLabel": "M2",
-    "description": "1930s United States Army tank",
-    "year": "1939",
-    "manufacturerLabel": "Rock Island Arsenal",
     "sitelinks": "17"
   },
   {
@@ -1488,6 +1488,22 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q135937",
+    "itemLabel": "ZBD-04",
+    "description": "infantry fighting vehicle",
+    "year": "2004",
+    "manufacturerLabel": "",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q705339",
+    "itemLabel": "Tortoise heavy assault tank",
+    "description": "British tank concept",
+    "year": "1946",
+    "manufacturerLabel": "",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2153468",
     "itemLabel": "AH-IV",
     "description": "type of tankette",
@@ -1512,20 +1528,12 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q135937",
-    "itemLabel": "ZBD-04",
-    "description": "infantry fighting vehicle",
-    "year": "2004",
-    "manufacturerLabel": "",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q705339",
-    "itemLabel": "Tortoise heavy assault tank",
-    "description": "British tank concept",
-    "year": "1946",
-    "manufacturerLabel": "",
-    "sitelinks": "17"
+    "item": "http://www.wikidata.org/entity/Q1953995",
+    "itemLabel": "Char D1",
+    "description": "type of light tank",
+    "year": "1932",
+    "manufacturerLabel": "Renault",
+    "sitelinks": "16"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1801860",
@@ -1533,14 +1541,6 @@
     "description": "type of armored car",
     "year": "1916",
     "manufacturerLabel": "Fiat",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1953995",
-    "itemLabel": "Char D1",
-    "description": "type of light tank",
-    "year": "1932",
-    "manufacturerLabel": "Renault",
     "sitelinks": "16"
   },
   {
@@ -1560,14 +1560,6 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2094190",
-    "itemLabel": "T-155 Fırtına",
-    "description": "155 mm self-propelled howitzer",
-    "year": "2005",
-    "manufacturerLabel": "Mechanical and Chemical Industry Corporation",
-    "sitelinks": "16"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1779821",
     "itemLabel": "Komatsu LAV",
     "description": "type of Armoured Scout Car",
@@ -1576,19 +1568,11 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q652058",
-    "itemLabel": "Vijayanta",
-    "description": "military tank from India",
-    "year": "1965",
-    "manufacturerLabel": "Vickers-Armstrongs",
-    "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1726481",
-    "itemLabel": "Ratel IFV",
-    "description": "infantry fighting vehicle",
-    "year": "1977",
-    "manufacturerLabel": "Land Systems OMC",
+    "item": "http://www.wikidata.org/entity/Q924417",
+    "itemLabel": "Strv L-60",
+    "description": "Swedish light tank",
+    "year": "1939",
+    "manufacturerLabel": "AB Landsverk",
     "sitelinks": "16"
   },
   {
@@ -1600,6 +1584,22 @@
     "sitelinks": "16"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1726481",
+    "itemLabel": "Ratel IFV",
+    "description": "infantry fighting vehicle",
+    "year": "1977",
+    "manufacturerLabel": "Land Systems OMC",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q652058",
+    "itemLabel": "Vijayanta",
+    "description": "military tank from India",
+    "year": "1965",
+    "manufacturerLabel": "Vickers-Armstrongs",
+    "sitelinks": "16"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2478019",
     "itemLabel": "Vickers Medium Mark II",
     "description": "British interwar medium tank",
@@ -1608,11 +1608,11 @@
     "sitelinks": "16"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q924417",
-    "itemLabel": "Strv L-60",
-    "description": "Swedish light tank",
-    "year": "1939",
-    "manufacturerLabel": "AB Landsverk",
+    "item": "http://www.wikidata.org/entity/Q2094190",
+    "itemLabel": "T-155 Fırtına",
+    "description": "155 mm self-propelled howitzer",
+    "year": "2005",
+    "manufacturerLabel": "BMC",
     "sitelinks": "16"
   },
   {
@@ -1635,6 +1635,14 @@
     "item": "http://www.wikidata.org/entity/Q1356196",
     "itemLabel": "Tančík vz. 33",
     "description": "type of tankette",
+    "year": "1934",
+    "manufacturerLabel": "",
+    "sitelinks": "16"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q376555",
+    "itemLabel": "Samochód pancerny wz. 34",
+    "description": "armored car",
     "year": "1934",
     "manufacturerLabel": "",
     "sitelinks": "16"
@@ -1672,27 +1680,19 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2007972",
-    "itemLabel": "Ramses II tank",
-    "description": "type of main battle tank",
-    "year": "2005",
-    "manufacturerLabel": "Stellantis North America",
-    "sitelinks": "15"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1784933",
     "itemLabel": "Freccia",
     "description": "type of wheeled infantry fighting vehicle",
     "year": "2006",
-    "manufacturerLabel": "IVECO S.p.a.",
+    "manufacturerLabel": "Iveco",
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1635921",
-    "itemLabel": "Infanterikanonvagn 91",
-    "description": "1969 assault gun model",
-    "year": "1978",
-    "manufacturerLabel": "Hägglund & Söner",
+    "item": "http://www.wikidata.org/entity/Q767757",
+    "itemLabel": "Vickers Medium Mark I",
+    "description": "medium tank",
+    "year": "1924",
+    "manufacturerLabel": "Vickers",
     "sitelinks": "15"
   },
   {
@@ -1704,19 +1704,27 @@
     "sitelinks": "15"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2007972",
+    "itemLabel": "Ramses II tank",
+    "description": "type of main battle tank",
+    "year": "2005",
+    "manufacturerLabel": "Stellantis North America",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1635921",
+    "itemLabel": "Infanterikanonvagn 91",
+    "description": "1969 assault gun model",
+    "year": "1978",
+    "manufacturerLabel": "Hägglund & Söner",
+    "sitelinks": "15"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q7623719",
     "itemLabel": "Stridsvagn 122",
     "description": "Sweden main battle tank",
     "year": "1997",
     "manufacturerLabel": "Krauss-Maffei",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q107062312",
-    "itemLabel": "Challenger 3",
-    "description": "British main battle tank",
-    "year": "2025",
-    "manufacturerLabel": "Rheinmetall BAE Systems Land",
     "sitelinks": "15"
   },
   {
@@ -1728,11 +1736,11 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2579003",
-    "itemLabel": "LT vz. 34",
-    "description": "1934 light tank",
-    "year": "1934",
-    "manufacturerLabel": "",
+    "item": "http://www.wikidata.org/entity/Q107062312",
+    "itemLabel": "Challenger 3",
+    "description": "British main battle tank",
+    "year": "2025",
+    "manufacturerLabel": "Rheinmetall BAE Systems Land",
     "sitelinks": "15"
   },
   {
@@ -1744,9 +1752,9 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q376555",
-    "itemLabel": "Samochód pancerny wz. 34",
-    "description": "armored car",
+    "item": "http://www.wikidata.org/entity/Q2579003",
+    "itemLabel": "LT vz. 34",
+    "description": "1934 light tank",
     "year": "1934",
     "manufacturerLabel": "",
     "sitelinks": "15"
@@ -1768,6 +1776,22 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1046760",
+    "itemLabel": "BA-6",
+    "description": "Soviet armored car",
+    "year": "1936",
+    "manufacturerLabel": "Izhorskiye Zavody",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3038400",
+    "itemLabel": "Dozor-B",
+    "description": "type of Armored car",
+    "year": "2005",
+    "manufacturerLabel": "Kharkiv Morozov Machine Building Design Bureau",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1881005",
     "itemLabel": "M50 Ontos",
     "description": "American anti-tank vehicle",
@@ -1784,27 +1808,11 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q767757",
-    "itemLabel": "Vickers Medium Mark I",
-    "description": "medium tank",
-    "year": "1924",
-    "manufacturerLabel": "Vickers",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3038400",
-    "itemLabel": "Dozor-B",
-    "description": "type of Armored car",
-    "year": "2005",
-    "manufacturerLabel": "Kharkiv Morozov Machine Building Design Bureau",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1046760",
-    "itemLabel": "BA-6",
-    "description": "Soviet armored car",
-    "year": "1936",
-    "manufacturerLabel": "Izhorskiye Zavody",
+    "item": "http://www.wikidata.org/entity/Q532397",
+    "itemLabel": "Sturmhaubitze 42",
+    "description": "1942 German self-propelled howitzer",
+    "year": "1942",
+    "manufacturerLabel": "",
     "sitelinks": "14"
   },
   {
@@ -1820,14 +1828,6 @@
     "itemLabel": "TACAM R-2",
     "description": "type of tank destroyer",
     "year": "1944",
-    "manufacturerLabel": "",
-    "sitelinks": "14"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q532397",
-    "itemLabel": "Sturmhaubitze 42",
-    "description": "1942 German self-propelled howitzer",
-    "year": "1942",
     "manufacturerLabel": "",
     "sitelinks": "14"
   },
@@ -1852,23 +1852,7 @@
     "itemLabel": "Grosstraktor",
     "description": "1928 German medium tank",
     "year": "1930",
-    "manufacturerLabel": "Rheinmetall AG",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1640447",
-    "itemLabel": "Stridsvagn 74",
-    "description": "Swedish light tank",
-    "year": "1958",
-    "manufacturerLabel": "Hägglund & Söner",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1392050",
-    "itemLabel": "Fahd",
-    "description": "armored personnel carrier of Egyptian origin",
-    "year": "1986",
-    "manufacturerLabel": "Arab Organization for Industrialization",
+    "manufacturerLabel": "Daimler-Benz AG",
     "sitelinks": "13"
   },
   {
@@ -1884,7 +1868,39 @@
     "itemLabel": "Bandkanon 1",
     "description": "self-propelled gun",
     "year": "1967",
+    "manufacturerLabel": "Bofors",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q570581",
+    "itemLabel": "Mungo ESK",
+    "description": "armored fighting vehicle",
+    "year": "2005",
+    "manufacturerLabel": "Krauss-Maffei",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1392050",
+    "itemLabel": "Fahd",
+    "description": "armored personnel carrier of Egyptian origin",
+    "year": "1986",
+    "manufacturerLabel": "Arab Organization for Industrialization",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1640447",
+    "itemLabel": "Stridsvagn 74",
+    "description": "Swedish light tank",
+    "year": "1958",
     "manufacturerLabel": "AB Landsverk",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q995232",
+    "itemLabel": "FV433 Abbot",
+    "description": "self-propelled 105 mm gun",
+    "year": "1965",
+    "manufacturerLabel": "Vickers",
     "sitelinks": "13"
   },
   {
@@ -1928,22 +1944,6 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q995232",
-    "itemLabel": "FV433 Abbot",
-    "description": "self-propelled 105 mm gun",
-    "year": "1965",
-    "manufacturerLabel": "Vickers",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4037791",
-    "itemLabel": "Nurol Ejder",
-    "description": "type of armored combat vehicle",
-    "year": "1999",
-    "manufacturerLabel": "",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q786114",
     "itemLabel": "Type 4 Ka-Tsu",
     "description": "type of weapon",
@@ -1976,10 +1976,34 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1772679",
+    "itemLabel": "Type 3 Ka-Chi",
+    "description": "type of amphibious tank",
+    "year": "1943",
+    "manufacturerLabel": "",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q473797",
     "itemLabel": "Dicker Max",
     "description": "1941 German self-propelled gun",
     "year": "1941",
+    "manufacturerLabel": "",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q705359",
+    "itemLabel": "Type 1 Ho-Ni I",
+    "description": "tank destroyer",
+    "year": "1942",
+    "manufacturerLabel": "",
+    "sitelinks": "13"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4037791",
+    "itemLabel": "Nurol Ejder",
+    "description": "type of armored combat vehicle",
+    "year": "1999",
     "manufacturerLabel": "",
     "sitelinks": "13"
   },
@@ -1989,14 +2013,6 @@
     "description": "light tank",
     "year": "1935",
     "manufacturerLabel": "Renault",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q570581",
-    "itemLabel": "Mungo ESK",
-    "description": "armored fighting vehicle",
-    "year": "2005",
-    "manufacturerLabel": "Krauss-Maffei",
     "sitelinks": "12"
   },
   {
@@ -2016,30 +2032,6 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2555807",
-    "itemLabel": "Guy armoured car",
-    "description": "type of weapon",
-    "year": "1939",
-    "manufacturerLabel": "Guy Motors",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2915405",
-    "itemLabel": "KhTZ-16",
-    "description": "soviet improvised armored vehicle",
-    "year": "1941",
-    "manufacturerLabel": "Kharkiv Tractor Plant",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2369339",
-    "itemLabel": "BT-2",
-    "description": "Soviet tank",
-    "year": "1931",
-    "manufacturerLabel": "Malyshev Factory",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q238190",
     "itemLabel": "4TP",
     "description": "1930s Polish light tank prototype",
@@ -2048,11 +2040,11 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4049087",
-    "itemLabel": "Stormartillerivagn m/43",
-    "description": "type of assault gun",
-    "year": "1943",
-    "manufacturerLabel": "Scania",
+    "item": "http://www.wikidata.org/entity/Q2915405",
+    "itemLabel": "KhTZ-16",
+    "description": "soviet improvised armored vehicle",
+    "year": "1941",
+    "manufacturerLabel": "Volgograd Tractor Factory",
     "sitelinks": "12"
   },
   {
@@ -2064,6 +2056,14 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2369339",
+    "itemLabel": "BT-2",
+    "description": "Soviet tank",
+    "year": "1931",
+    "manufacturerLabel": "Malyshev Factory",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q6885467",
     "itemLabel": "Mk F3",
     "description": "1962 self-propelled 155 mm gun model",
@@ -2072,35 +2072,27 @@
     "sitelinks": "12"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2555807",
+    "itemLabel": "Guy armoured car",
+    "description": "type of weapon",
+    "year": "1939",
+    "manufacturerLabel": "Guy Motors",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4049087",
+    "itemLabel": "Stormartillerivagn m/43",
+    "description": "type of assault gun",
+    "year": "1943",
+    "manufacturerLabel": "Scania",
+    "sitelinks": "12"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4049206",
     "itemLabel": "Sd.Kfz. 247",
     "description": "type of armored car",
     "year": "1937",
     "manufacturerLabel": "Friedrich Krupp AG",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2577761",
-    "itemLabel": "TACAM T-60",
-    "description": "type of tank destroyer",
-    "year": "1943",
-    "manufacturerLabel": "",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2994537",
-    "itemLabel": "BA-11",
-    "description": "type of armored car",
-    "year": "1939",
-    "manufacturerLabel": "",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1772679",
-    "itemLabel": "Type 3 Ka-Chi",
-    "description": "type of amphibious tank",
-    "year": "1943",
-    "manufacturerLabel": "",
     "sitelinks": "12"
   },
   {
@@ -2120,10 +2112,18 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q705359",
-    "itemLabel": "Type 1 Ho-Ni I",
-    "description": "tank destroyer",
-    "year": "1942",
+    "item": "http://www.wikidata.org/entity/Q2577761",
+    "itemLabel": "TACAM T-60",
+    "description": "type of tank destroyer",
+    "year": "1943",
+    "manufacturerLabel": "",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2994537",
+    "itemLabel": "BA-11",
+    "description": "type of armored car",
+    "year": "1939",
     "manufacturerLabel": "",
     "sitelinks": "12"
   },
@@ -2136,27 +2136,19 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q629884",
-    "itemLabel": "Semovente 75/46",
-    "description": "self-propelled gun",
-    "year": "1944",
-    "manufacturerLabel": "Fiat",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2577692",
-    "itemLabel": "OA vz. 30",
-    "description": "Czechoslovak armoured car",
-    "year": "1934",
-    "manufacturerLabel": "Tatra",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q484867",
     "itemLabel": "K30 Biho",
     "description": "self-propelled anti-aircraft weapon",
     "year": "1999",
     "manufacturerLabel": "Hanwha Aerospace",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q629884",
+    "itemLabel": "Semovente 75/46",
+    "description": "self-propelled gun",
+    "year": "1944",
+    "manufacturerLabel": "Fiat",
     "sitelinks": "11"
   },
   {
@@ -2168,11 +2160,27 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2577692",
+    "itemLabel": "OA vz. 30",
+    "description": "Czechoslovak armoured car",
+    "year": "1934",
+    "manufacturerLabel": "Tatra",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1269476",
     "itemLabel": "AMZ Dzik",
     "description": "infantry mobility vehicle",
     "year": "2004",
     "manufacturerLabel": "AMZ-Kutno",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q905961",
+    "itemLabel": "Type 85 tank",
+    "description": "main battle tank",
+    "year": "1990",
+    "manufacturerLabel": "Inner-Mongolia First Machine Group Company Limited",
     "sitelinks": "11"
   },
   {
@@ -2200,14 +2208,6 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4832939",
-    "itemLabel": "D-8",
-    "description": "Soviet armored car",
-    "year": "1931",
-    "manufacturerLabel": "Izhorskiye Zavody",
-    "sitelinks": "11"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q5971188",
     "itemLabel": "Type 93",
     "description": "armored car",
@@ -2216,11 +2216,11 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q905961",
-    "itemLabel": "Type 85 tank",
-    "description": "main battle tank",
-    "year": "1990",
-    "manufacturerLabel": "Inner-Mongolia First Machine Group Company Limited",
+    "item": "http://www.wikidata.org/entity/Q4832939",
+    "itemLabel": "D-8",
+    "description": "Soviet armored car",
+    "year": "1931",
+    "manufacturerLabel": "Izhorskiye Zavody",
     "sitelinks": "11"
   },
   {
@@ -2229,22 +2229,6 @@
     "description": "type of infantry fighting vehicle",
     "year": "2013",
     "manufacturerLabel": "Otokar",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3269403",
-    "itemLabel": "Buffel",
-    "description": "type of MPAV",
-    "year": "1978",
-    "manufacturerLabel": "",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q55664077",
-    "itemLabel": "Peresvet",
-    "description": "Russian laser weapon system",
-    "year": "2017",
-    "manufacturerLabel": "",
     "sitelinks": "11"
   },
   {
@@ -2280,11 +2264,75 @@
     "sitelinks": "11"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q3269403",
+    "itemLabel": "Buffel",
+    "description": "type of MPAV",
+    "year": "1978",
+    "manufacturerLabel": "",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55664077",
+    "itemLabel": "Peresvet",
+    "description": "Russian laser weapon system",
+    "year": "2017",
+    "manufacturerLabel": "",
+    "sitelinks": "11"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1185600",
     "itemLabel": "Type 81 Surface-to-air Missile",
     "description": "type of mobile, short-range surface-to-air missile",
     "year": "1981",
     "manufacturerLabel": "Toshiba",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q305488",
+    "itemLabel": "KMW Grizzly",
+    "description": "armored car",
+    "year": "2011",
+    "manufacturerLabel": "Krauss-Maffei",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1210468",
+    "itemLabel": "Didgori-1",
+    "description": "armored personnel carrier",
+    "year": "2011",
+    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q119476",
+    "itemLabel": "PLZ-45",
+    "description": "self-propelled artillery",
+    "year": "2000",
+    "manufacturerLabel": "China North Industries Group Corporation Limited",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1027435",
+    "itemLabel": "Armored Vehicle General Purpose",
+    "description": "armored fighting vehicle",
+    "year": "1976",
+    "manufacturerLabel": "Mowag",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q918563",
+    "itemLabel": "Lazar BVT",
+    "description": "type of MRAP",
+    "year": "2008",
+    "manufacturerLabel": "Yugoimport SDPR",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q169058",
+    "itemLabel": "10TP",
+    "description": "medium tank from Poland",
+    "year": "1938",
+    "manufacturerLabel": "Państwowe Zakłady Inżynierii",
     "sitelinks": "10"
   },
   {
@@ -2304,22 +2352,6 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1210468",
-    "itemLabel": "Didgori-1",
-    "description": "armored personnel carrier",
-    "year": "2011",
-    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q305488",
-    "itemLabel": "KMW Grizzly",
-    "description": "armored car",
-    "year": "2011",
-    "manufacturerLabel": "Krauss-Maffei",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3312199",
     "itemLabel": "Bravia Chaimite",
     "description": "Portuguese armored vehicle",
@@ -2328,35 +2360,27 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q169058",
-    "itemLabel": "10TP",
-    "description": "medium tank from Poland",
-    "year": "1938",
-    "manufacturerLabel": "Państwowe Zakłady Inżynierii",
+    "item": "http://www.wikidata.org/entity/Q780878",
+    "itemLabel": "Austin Armored Car",
+    "description": "armored car",
+    "year": "1914",
+    "manufacturerLabel": "",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q918563",
-    "itemLabel": "Lazar BVT",
-    "description": "type of MRAP",
-    "year": "2008",
-    "manufacturerLabel": "Yugoimport SDPR",
+    "item": "http://www.wikidata.org/entity/Q1940677",
+    "itemLabel": "Panzer 58",
+    "description": "type of medium tank",
+    "year": "1958",
+    "manufacturerLabel": "",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1027435",
-    "itemLabel": "Armored Vehicle General Purpose",
-    "description": "armored fighting vehicle",
-    "year": "1976",
-    "manufacturerLabel": "Mowag",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q119476",
-    "itemLabel": "PLZ-45",
-    "description": "self-propelled artillery",
-    "year": "2000",
-    "manufacturerLabel": "China North Industries Group Corporation Limited",
+    "item": "http://www.wikidata.org/entity/Q265062",
+    "itemLabel": "FV438 Swingfire",
+    "description": "tank destroyer",
+    "year": "1970",
+    "manufacturerLabel": "",
     "sitelinks": "10"
   },
   {
@@ -2392,43 +2416,11 @@
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q780878",
-    "itemLabel": "Austin Armored Car",
-    "description": "armored car",
-    "year": "1914",
-    "manufacturerLabel": "",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1940677",
-    "itemLabel": "Panzer 58",
-    "description": "type of medium tank",
-    "year": "1958",
-    "manufacturerLabel": "",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q265062",
-    "itemLabel": "FV438 Swingfire",
-    "description": "tank destroyer",
-    "year": "1970",
-    "manufacturerLabel": "",
-    "sitelinks": "10"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q698891",
     "itemLabel": "Austro-Daimler armored car",
     "description": "armored car",
     "year": "1905",
     "manufacturerLabel": "Austro-Daimler",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q320262",
-    "itemLabel": "M16 Half-track",
-    "description": "self-propelled anti-aircraft weapon",
-    "year": "1943",
-    "manufacturerLabel": "White Motor Company",
     "sitelinks": "9"
   },
   {
@@ -2448,6 +2440,22 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q320262",
+    "itemLabel": "M16 Half-track",
+    "description": "self-propelled anti-aircraft weapon",
+    "year": "1943",
+    "manufacturerLabel": "White Motor Company",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q839208",
+    "itemLabel": "M60 AVLB",
+    "description": "armored vehicle-launched bridge",
+    "year": "1967",
+    "manufacturerLabel": "Detroit Arsenal Tank Plant",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q3776870",
     "itemLabel": "Grizzly I cruiser",
     "description": "type of medium tank",
@@ -2464,19 +2472,11 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q839208",
-    "itemLabel": "M60 AVLB",
-    "description": "armored vehicle-launched bridge",
-    "year": "1967",
-    "manufacturerLabel": "Detroit Arsenal Tank Plant",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4650911",
-    "itemLabel": "ACV-300",
-    "description": "type of armored combat vehicle",
-    "year": "1992",
-    "manufacturerLabel": "FNSS Company",
+    "item": "http://www.wikidata.org/entity/Q3511963",
+    "itemLabel": "T30 Howitzer Motor Carriage",
+    "description": "assault gun used by the United States Army",
+    "year": "1942",
+    "manufacturerLabel": "White Motor Company",
     "sitelinks": "9"
   },
   {
@@ -2493,6 +2493,30 @@
     "description": "1940s self-propelled 105 mm howitzer of American origin",
     "year": "1945",
     "manufacturerLabel": "Cadillac",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4650911",
+    "itemLabel": "ACV-300",
+    "description": "type of armored combat vehicle",
+    "year": "1992",
+    "manufacturerLabel": "FNSS Company",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2034639",
+    "itemLabel": "MLI-84",
+    "description": "type of infantry fighting vehicle",
+    "year": "1985",
+    "manufacturerLabel": "",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2056419",
+    "itemLabel": "SU-5-1/2/3",
+    "description": "",
+    "year": "1938",
+    "manufacturerLabel": "",
     "sitelinks": "9"
   },
   {
@@ -2544,30 +2568,6 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2056419",
-    "itemLabel": "SU-5-1/2/3",
-    "description": "",
-    "year": "1938",
-    "manufacturerLabel": "",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q471170",
-    "itemLabel": "M39 Armored Utility Vehicle",
-    "description": "armored personnel carrier",
-    "year": "1945",
-    "manufacturerLabel": "Buick",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2349190",
-    "itemLabel": "Type 89",
-    "description": "Chinese armored, tracked, tank destroyer vehicle developed by Norinco for the People’s Liberation Army",
-    "year": "1989",
-    "manufacturerLabel": "China North Industries Group Corporation Limited",
-    "sitelinks": "8"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1150464",
     "itemLabel": "Ford FT-B",
     "description": "armored car",
@@ -2576,19 +2576,11 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1091861",
-    "itemLabel": "schwerer Panzerspähwagen (6-rad)",
-    "description": "German armored car",
-    "year": "1932",
-    "manufacturerLabel": "Daimler-Benz AG",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3511963",
-    "itemLabel": "T30 Howitzer Motor Carriage",
-    "description": "assault gun used by the United States Army",
-    "year": "1942",
-    "manufacturerLabel": "White Motor Company",
+    "item": "http://www.wikidata.org/entity/Q471170",
+    "itemLabel": "M39 Armored Utility Vehicle",
+    "description": "armored personnel carrier",
+    "year": "1945",
+    "manufacturerLabel": "Buick",
     "sitelinks": "8"
   },
   {
@@ -2600,27 +2592,11 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2115849",
-    "itemLabel": "Anoa",
-    "description": "Indonesian 6x6 APC",
-    "year": "2009",
-    "manufacturerLabel": "Pindad",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1101842",
-    "itemLabel": "Panhard VCR",
-    "description": "armored personnel carrier",
-    "year": "1979",
-    "manufacturerLabel": "Panhard",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4254081",
-    "itemLabel": "Lanchester 4x2 armoured car",
-    "description": "British armoured car",
-    "year": "1915",
-    "manufacturerLabel": "Lanchester Motor Company",
+    "item": "http://www.wikidata.org/entity/Q1091861",
+    "itemLabel": "schwerer Panzerspähwagen (6-rad)",
+    "description": "German armored car",
+    "year": "1932",
+    "manufacturerLabel": "Daimler-Benz AG",
     "sitelinks": "8"
   },
   {
@@ -2632,11 +2608,43 @@
     "sitelinks": "8"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1101842",
+    "itemLabel": "Panhard VCR",
+    "description": "armored personnel carrier",
+    "year": "1979",
+    "manufacturerLabel": "Panhard",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2115849",
+    "itemLabel": "Anoa",
+    "description": "Indonesian 6x6 APC",
+    "year": "2009",
+    "manufacturerLabel": "Pindad",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2349190",
+    "itemLabel": "Type 89",
+    "description": "Chinese armored, tracked, tank destroyer vehicle developed by Norinco for the People’s Liberation Army",
+    "year": "1989",
+    "manufacturerLabel": "China North Industries Group Corporation Limited",
+    "sitelinks": "8"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2572826",
     "itemLabel": "Stridsvagn m/21-29",
     "description": "",
     "year": "1922",
     "manufacturerLabel": "AB Landsverk",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4254081",
+    "itemLabel": "Lanchester 4x2 armoured car",
+    "description": "British armoured car",
+    "year": "1915",
+    "manufacturerLabel": "Lanchester Motor Company",
     "sitelinks": "8"
   },
   {
@@ -2653,6 +2661,30 @@
     "description": "motor vehicle",
     "year": "1939",
     "manufacturerLabel": "Daimler-Benz AG",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q321667",
+    "itemLabel": "Sd.Kfz. 221",
+    "description": "German scout car",
+    "year": "1935",
+    "manufacturerLabel": "",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q450233",
+    "itemLabel": "Tank Grote",
+    "description": "1930s Soviet tank prototype",
+    "year": "1931",
+    "manufacturerLabel": "",
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q522154",
+    "itemLabel": "Type 97 ShinHoTo Chi-Ha",
+    "description": "medium tank",
+    "year": "1938",
+    "manufacturerLabel": "",
     "sitelinks": "8"
   },
   {
@@ -2712,28 +2744,20 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2034639",
-    "itemLabel": "MLI-84",
-    "description": "type of infantry fighting vehicle",
-    "year": "1985",
-    "manufacturerLabel": "",
-    "sitelinks": "8"
+    "item": "http://www.wikidata.org/entity/Q642774",
+    "itemLabel": "T-13 tank destroyer",
+    "description": "type of Tank destroyer",
+    "year": "1934",
+    "manufacturerLabel": "Vickers",
+    "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q321667",
-    "itemLabel": "Sd.Kfz. 221",
-    "description": "German scout car",
-    "year": "1935",
-    "manufacturerLabel": "",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q450233",
-    "itemLabel": "Tank Grote",
-    "description": "1930s Soviet tank prototype",
-    "year": "1931",
-    "manufacturerLabel": "",
-    "sitelinks": "8"
+    "item": "http://www.wikidata.org/entity/Q4037326",
+    "itemLabel": "Didgori-3",
+    "description": "type of armored personnel carrier",
+    "year": "2012",
+    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
+    "sitelinks": "7"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2090165",
@@ -2744,11 +2768,19 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q642774",
-    "itemLabel": "T-13 tank destroyer",
-    "description": "type of Tank destroyer",
-    "year": "1934",
-    "manufacturerLabel": "Vickers-Armstrongs",
+    "item": "http://www.wikidata.org/entity/Q4032799",
+    "itemLabel": "9TP",
+    "description": "WW2 Polish light tank",
+    "year": "1939",
+    "manufacturerLabel": "Państwowe Zakłady Inżynierii",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2219818",
+    "itemLabel": "T-15 Light tank",
+    "description": "type of light tank",
+    "year": "1936",
+    "manufacturerLabel": "Vickers",
     "sitelinks": "7"
   },
   {
@@ -2768,51 +2800,11 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4037326",
-    "itemLabel": "Didgori-3",
-    "description": "type of armored personnel carrier",
-    "year": "2012",
-    "manufacturerLabel": "Tbilisi Aircraft Manufacturing",
-    "sitelinks": "7"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3666796",
     "itemLabel": "C.G.V. Automitrailleuse",
     "description": "armoured car",
     "year": "1905",
     "manufacturerLabel": "Charron-Laycock",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4818069",
-    "itemLabel": "Otokar Akrep",
-    "description": "type of infantry mobility vehicle",
-    "year": "1994",
-    "manufacturerLabel": "Otokar",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2219818",
-    "itemLabel": "T-15 Light tank",
-    "description": "type of light tank",
-    "year": "1936",
-    "manufacturerLabel": "Vickers",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4032799",
-    "itemLabel": "9TP",
-    "description": "WW2 Polish light tank",
-    "year": "1939",
-    "manufacturerLabel": "Państwowe Zakłady Inżynierii",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4043363",
-    "itemLabel": "M67 Zippo",
-    "description": "flamethrower tank",
-    "year": "1955",
-    "manufacturerLabel": "Stellantis North America",
     "sitelinks": "7"
   },
   {
@@ -2824,19 +2816,27 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4043363",
+    "itemLabel": "M67 Zippo",
+    "description": "flamethrower tank",
+    "year": "1955",
+    "manufacturerLabel": "Stellantis North America",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4818069",
+    "itemLabel": "Otokar Akrep",
+    "description": "type of infantry mobility vehicle",
+    "year": "1994",
+    "manufacturerLabel": "Otokar",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q12041989",
     "itemLabel": "OA vz. 23",
     "description": "Czechoslovak armored car",
     "year": "1925",
     "manufacturerLabel": "Škoda Works",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7958403",
-    "itemLabel": "WZT-3",
-    "description": "type of armoured recovery vehicle",
-    "year": "1973",
-    "manufacturerLabel": "Bumar Łabędy",
     "sitelinks": "7"
   },
   {
@@ -2848,19 +2848,19 @@
     "sitelinks": "7"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q7958403",
+    "itemLabel": "WZT-3",
+    "description": "type of armoured recovery vehicle",
+    "year": "1973",
+    "manufacturerLabel": "Bumar Łabędy",
+    "sitelinks": "7"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q30148241",
     "itemLabel": "Lazar 3",
     "description": "type of armored personnel carrier",
     "year": "2016",
     "manufacturerLabel": "Yugoimport SDPR",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4836664",
-    "itemLabel": "BT-43",
-    "description": "type of armored personnel carrier",
-    "year": "1943",
-    "manufacturerLabel": "",
     "sitelinks": "7"
   },
   {
@@ -2888,20 +2888,12 @@
     "sitelinks": "7"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q522154",
-    "itemLabel": "Type 97 ShinHoTo Chi-Ha",
-    "description": "medium tank",
-    "year": "1938",
+    "item": "http://www.wikidata.org/entity/Q4836664",
+    "itemLabel": "BT-43",
+    "description": "type of armored personnel carrier",
+    "year": "1943",
     "manufacturerLabel": "",
     "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2032074",
-    "itemLabel": "DAF M39",
-    "description": "armoured vehicle",
-    "year": "1940",
-    "manufacturerLabel": "DAF",
-    "sitelinks": "6"
   },
   {
     "item": "http://www.wikidata.org/entity/Q532132",
@@ -2924,15 +2916,15 @@
     "itemLabel": "Bergepanzer 2",
     "description": "armoured recovery vehicle model",
     "year": "1966",
-    "manufacturerLabel": "OTO Melara",
+    "manufacturerLabel": "Maschinenbau Kiel",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q3512503",
-    "itemLabel": "TK-3",
-    "description": "",
-    "year": "1931",
-    "manufacturerLabel": "Ursus",
+    "item": "http://www.wikidata.org/entity/Q2032074",
+    "itemLabel": "DAF M39",
+    "description": "armoured vehicle",
+    "year": "1940",
+    "manufacturerLabel": "DAF",
     "sitelinks": "6"
   },
   {
@@ -2944,11 +2936,11 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4498542",
-    "itemLabel": "Type 1 Ho-Ni II",
+    "item": "http://www.wikidata.org/entity/Q3512503",
+    "itemLabel": "TK-3",
     "description": "",
-    "year": "1943",
-    "manufacturerLabel": "Mitsubishi Heavy Industries",
+    "year": "1931",
+    "manufacturerLabel": "Ursus",
     "sitelinks": "6"
   },
   {
@@ -2976,27 +2968,11 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q21935505",
-    "itemLabel": "Škoda MU-4",
-    "description": "Czechoslovakian tankette",
-    "year": "1934",
-    "manufacturerLabel": "Škoda Works",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q25472536",
-    "itemLabel": "KORKUT",
-    "description": "Turkish anti-aircraft gun",
-    "year": "2019",
-    "manufacturerLabel": "ASELSAN",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q10846701",
-    "itemLabel": "CM-11 Brave Tiger",
-    "description": "type of main battle tank",
-    "year": "1990",
-    "manufacturerLabel": "Republic of China Armoured Vehicle Development Center",
+    "item": "http://www.wikidata.org/entity/Q4498542",
+    "itemLabel": "Type 1 Ho-Ni II",
+    "description": "",
+    "year": "1943",
+    "manufacturerLabel": "Mitsubishi Heavy Industries",
     "sitelinks": "6"
   },
   {
@@ -3008,35 +2984,27 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q21935505",
+    "itemLabel": "Škoda MU-4",
+    "description": "Czechoslovakian tankette",
+    "year": "1934",
+    "manufacturerLabel": "Škoda Works",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10846701",
+    "itemLabel": "CM-11 Brave Tiger",
+    "description": "type of main battle tank",
+    "year": "1990",
+    "manufacturerLabel": "Republic of China Armoured Vehicle Development Center",
+    "sitelinks": "6"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q114797122",
     "itemLabel": "T-64A",
     "description": "Soviet main battle tank",
     "year": "1969",
     "manufacturerLabel": "Malyshev Factory",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4102000",
-    "itemLabel": "WPK-3924",
-    "description": "",
-    "year": "2014",
-    "manufacturerLabel": "",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4403272",
-    "itemLabel": "SU-122-54",
-    "description": "",
-    "year": "1956",
-    "manufacturerLabel": "",
-    "sitelinks": "6"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q104843723",
-    "itemLabel": "Christie M1931",
-    "description": "type of cruiser tank/medium tank",
-    "year": "1931",
-    "manufacturerLabel": "",
     "sitelinks": "6"
   },
   {
@@ -3064,19 +3032,51 @@
     "sitelinks": "6"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q4102000",
+    "itemLabel": "WPK-3924",
+    "description": "",
+    "year": "2014",
+    "manufacturerLabel": "",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4403272",
+    "itemLabel": "SU-122-54",
+    "description": "",
+    "year": "1956",
+    "manufacturerLabel": "",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25472536",
+    "itemLabel": "KORKUT",
+    "description": "Turkish anti-aircraft gun",
+    "year": "2019",
+    "manufacturerLabel": "",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104843723",
+    "itemLabel": "Christie M1931",
+    "description": "type of cruiser tank/medium tank",
+    "year": "1931",
+    "manufacturerLabel": "",
+    "sitelinks": "6"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q664352",
+    "itemLabel": "MAZ-7907",
+    "description": "heavy mobile rocket launcher",
+    "year": "1985",
+    "manufacturerLabel": "Minsk Automobile Plant",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1345046",
     "itemLabel": "Entpannungspanzer 65",
     "description": "type of Armored recovery vehicle",
     "year": "1970",
     "manufacturerLabel": "Eidgenoessische Konstruktionswerkstaette",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2961421",
-    "itemLabel": "Laffly W15 TCC",
-    "description": "French tank destroyer",
-    "year": "1940",
-    "manufacturerLabel": "Laffly",
     "sitelinks": "5"
   },
   {
@@ -3088,11 +3088,11 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q4160232",
-    "itemLabel": "Jeffery-Poplavko",
-    "description": "",
-    "year": "1916",
-    "manufacturerLabel": "Izhorskiye Zavody",
+    "item": "http://www.wikidata.org/entity/Q2961421",
+    "itemLabel": "Laffly W15 TCC",
+    "description": "French tank destroyer",
+    "year": "1940",
+    "manufacturerLabel": "Laffly",
     "sitelinks": "5"
   },
   {
@@ -3112,19 +3112,11 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q65041009",
-    "itemLabel": "Renault armoured car",
+    "item": "http://www.wikidata.org/entity/Q4160232",
+    "itemLabel": "Jeffery-Poplavko",
     "description": "",
-    "year": "1914",
-    "manufacturerLabel": "Renault",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q6138704",
-    "itemLabel": "Ligero Trubia tank",
-    "description": "Spanish light tank",
-    "year": "1929",
-    "manufacturerLabel": "Real Fábrica de Municiones y Armas portátiles",
+    "year": "1916",
+    "manufacturerLabel": "Izhorskiye Zavody",
     "sitelinks": "5"
   },
   {
@@ -3136,11 +3128,11 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q15952992",
-    "itemLabel": "GKN Simba",
-    "description": "type of armored personnel carrier",
-    "year": "1990",
-    "manufacturerLabel": "GKN",
+    "item": "http://www.wikidata.org/entity/Q65041009",
+    "itemLabel": "Renault armoured car",
+    "description": "",
+    "year": "1914",
+    "manufacturerLabel": "Renault",
     "sitelinks": "5"
   },
   {
@@ -3168,6 +3160,22 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q6138704",
+    "itemLabel": "Ligero Trubia tank",
+    "description": "Spanish light tank",
+    "year": "1929",
+    "manufacturerLabel": "Real Fábrica de Municiones y Armas portátiles",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15952992",
+    "itemLabel": "GKN Simba",
+    "description": "type of armored personnel carrier",
+    "year": "1990",
+    "manufacturerLabel": "GKN",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q116060813",
     "itemLabel": "Panther",
     "description": "IDF multipurpose armored personnel carrier",
@@ -3176,11 +3184,43 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q664352",
-    "itemLabel": "MAZ-7907",
-    "description": "heavy mobile rocket launcher",
-    "year": "1985",
-    "manufacturerLabel": "Minsk Automobile Plant",
+    "item": "http://www.wikidata.org/entity/Q1279579",
+    "itemLabel": "Nahkampfkanone 1",
+    "description": "tank destroyer",
+    "year": "1944",
+    "manufacturerLabel": "",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1963685",
+    "itemLabel": "Nahkampfkanone 2",
+    "description": "type of light tank destroyer",
+    "year": "1946",
+    "manufacturerLabel": "",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q292093",
+    "itemLabel": "1RL232 Leopard",
+    "description": "",
+    "year": "1960",
+    "manufacturerLabel": "",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q620857",
+    "itemLabel": "T-34-57 tanks",
+    "description": "medium tank",
+    "year": "1941",
+    "manufacturerLabel": "",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q654012",
+    "itemLabel": "VEPR",
+    "description": "armored personnel carrier",
+    "year": "2006",
+    "manufacturerLabel": "",
     "sitelinks": "5"
   },
   {
@@ -3244,46 +3284,6 @@
     "itemLabel": "Hunter TR-12",
     "description": "Colombian designed and built Infantry Mobility Vehicle",
     "year": "2012",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1279579",
-    "itemLabel": "Nahkampfkanone 1",
-    "description": "tank destroyer",
-    "year": "1944",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1963685",
-    "itemLabel": "Nahkampfkanone 2",
-    "description": "type of light tank destroyer",
-    "year": "1946",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q292093",
-    "itemLabel": "1RL232 Leopard",
-    "description": "",
-    "year": "1960",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q620857",
-    "itemLabel": "T-34-57 tanks",
-    "description": "medium tank",
-    "year": "1941",
-    "manufacturerLabel": "",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q654012",
-    "itemLabel": "VEPR",
-    "description": "armored personnel carrier",
-    "year": "2006",
     "manufacturerLabel": "",
     "sitelinks": "5"
   }

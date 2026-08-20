@@ -3,19 +3,19 @@
     "item": "http://www.wikidata.org/entity/Q35355",
     "itemLabel": "Sumer",
     "year": "-5500",
-    "sitelinks": "138"
+    "sitelinks": "139"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39950",
     "itemLabel": "Vedas",
     "year": "-1500",
-    "sitelinks": "124"
+    "sitelinks": "126"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42534",
     "itemLabel": "Indus Valley Civilization",
     "year": "-2999",
-    "sitelinks": "115"
+    "sitelinks": "117"
   },
   {
     "item": "http://www.wikidata.org/entity/Q134178",
@@ -60,6 +60,12 @@
     "sitelinks": "53"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q208188",
+    "itemLabel": "Moche culture",
+    "year": "1",
+    "sitelinks": "53"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q210774",
     "itemLabel": "Acheulean",
     "year": "-1760000",
@@ -69,12 +75,6 @@
     "item": "http://www.wikidata.org/entity/Q843745",
     "itemLabel": "Classical Greece",
     "year": "-489",
-    "sitelinks": "52"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q208188",
-    "itemLabel": "Moche culture",
-    "year": "1",
     "sitelinks": "52"
   },
   {
@@ -102,15 +102,15 @@
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q470867",
-    "itemLabel": "Bell beaker culture",
-    "year": "-2600",
-    "sitelinks": "46"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q221901",
     "itemLabel": "Aurignacian",
     "year": "-38000",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q470867",
+    "itemLabel": "Bell beaker culture",
+    "year": "-2600",
     "sitelinks": "46"
   },
   {
@@ -162,10 +162,10 @@
     "sitelinks": "41"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q731494",
-    "itemLabel": "Uruk period",
-    "year": "-3999",
-    "sitelinks": "40"
+    "item": "http://www.wikidata.org/entity/Q1162419",
+    "itemLabel": "Cucuteni–Trypillia culture",
+    "year": "-5400",
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q153836",
@@ -174,9 +174,15 @@
     "sitelinks": "40"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1162419",
-    "itemLabel": "Cucuteni–Trypillia culture",
-    "year": "-5400",
+    "item": "http://www.wikidata.org/entity/Q1052095",
+    "itemLabel": "Mississippian culture",
+    "year": "800",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q731494",
+    "itemLabel": "Uruk period",
+    "year": "-3999",
     "sitelinks": "40"
   },
   {
@@ -186,21 +192,15 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1052095",
-    "itemLabel": "Mississippian culture",
-    "year": "800",
-    "sitelinks": "39"
+    "item": "http://www.wikidata.org/entity/Q3485378",
+    "itemLabel": "Clovis culture",
+    "year": "-9050",
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q746287",
     "itemLabel": "Oldowan",
     "year": "-2600000",
-    "sitelinks": "38"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3485378",
-    "itemLabel": "Clovis culture",
-    "year": "-9050",
     "sitelinks": "38"
   },
   {
@@ -210,16 +210,10 @@
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q806348",
-    "itemLabel": "Linear Pottery culture",
-    "year": "-5600",
-    "sitelinks": "36"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q831336",
     "itemLabel": "Vinča culture",
     "year": "-5400",
-    "sitelinks": "36"
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80974",
@@ -234,15 +228,33 @@
     "sitelinks": "36"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q1021436",
+    "itemLabel": "Lapita",
+    "year": "-1499",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q306350",
+    "itemLabel": "Abbevillian",
+    "year": "-600000",
+    "sitelinks": "35"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q798844",
     "itemLabel": "Badari culture",
     "year": "-4400",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q306350",
-    "itemLabel": "Abbevillian",
-    "year": "-600000",
+    "item": "http://www.wikidata.org/entity/Q806348",
+    "itemLabel": "Linear Pottery culture",
+    "year": "-5600",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q937774",
+    "itemLabel": "Helladic period",
+    "year": "-2999",
     "sitelinks": "35"
   },
   {
@@ -258,18 +270,6 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q937774",
-    "itemLabel": "Helladic period",
-    "year": "-2999",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1021436",
-    "itemLabel": "Lapita",
-    "year": "-1499",
-    "sitelinks": "34"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q875115",
     "itemLabel": "Funnelbeaker culture",
     "year": "-4200",
@@ -282,15 +282,15 @@
     "sitelinks": "33"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q752688",
-    "itemLabel": "Chachapoya culture",
-    "year": "1000",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q208520",
     "itemLabel": "Prehistoric Egypt",
     "year": "-40000",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q752688",
+    "itemLabel": "Chachapoya culture",
+    "year": "1000",
     "sitelinks": "33"
   },
   {
@@ -330,6 +330,12 @@
     "sitelinks": "30"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q917982",
+    "itemLabel": "Pazyryk culture",
+    "year": "-499",
+    "sitelinks": "30"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1051663",
     "itemLabel": "Erlitou culture",
     "year": "-1999",
@@ -348,21 +354,9 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q917982",
-    "itemLabel": "Pazyryk culture",
-    "year": "-499",
-    "sitelinks": "29"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q687230",
     "itemLabel": "Baden culture",
     "year": "-3499",
-    "sitelinks": "28"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q793777",
-    "itemLabel": "Azilian",
-    "year": "-12000",
     "sitelinks": "28"
   },
   {
@@ -370,6 +364,12 @@
     "itemLabel": "Paracas culture",
     "year": "-899",
     "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q428101",
+    "itemLabel": "Jemdet Nasr period",
+    "year": "-3099",
+    "sitelinks": "27"
   },
   {
     "item": "http://www.wikidata.org/entity/Q500099",
@@ -384,9 +384,9 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q428101",
-    "itemLabel": "Jemdet Nasr period",
-    "year": "-3099",
+    "item": "http://www.wikidata.org/entity/Q793777",
+    "itemLabel": "Azilian",
+    "year": "-12000",
     "sitelinks": "27"
   },
   {
@@ -396,15 +396,15 @@
     "sitelinks": "27"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q716742",
-    "itemLabel": "Early Dynastic period",
-    "year": "-2900",
-    "sitelinks": "26"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q129282",
     "itemLabel": "Karasuk culture",
     "year": "-1499",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q716742",
+    "itemLabel": "Early Dynastic period",
+    "year": "-2900",
     "sitelinks": "26"
   },
   {
@@ -468,6 +468,12 @@
     "sitelinks": "24"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2525293",
+    "itemLabel": "Painted Grey Ware culture",
+    "year": "-1199",
+    "sitelinks": "24"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q218257",
     "itemLabel": "Globular Amphora culture",
     "year": "-3100",
@@ -486,33 +492,9 @@
     "sitelinks": "24"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2525293",
-    "itemLabel": "Painted Grey Ware culture",
-    "year": "-1199",
-    "sitelinks": "24"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1502858",
     "itemLabel": "Samarra culture",
     "year": "-5600",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q775089",
-    "itemLabel": "Chinchorro culture",
-    "year": "-7000",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q402743",
-    "itemLabel": "Ahrensburg culture",
-    "year": "-10760",
-    "sitelinks": "23"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1262502",
-    "itemLabel": "Merimde culture",
-    "year": "-4800",
     "sitelinks": "23"
   },
   {
@@ -522,9 +504,33 @@
     "sitelinks": "23"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q402743",
+    "itemLabel": "Ahrensburg culture",
+    "year": "-10760",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q775089",
+    "itemLabel": "Chinchorro culture",
+    "year": "-7000",
+    "sitelinks": "23"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1262502",
+    "itemLabel": "Merimde culture",
+    "year": "-4800",
+    "sitelinks": "23"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1470903",
     "itemLabel": "Iberomaurusian",
     "year": "-17000",
+    "sitelinks": "22"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2015677",
+    "itemLabel": "Zarubintsy culture",
+    "year": "-300",
     "sitelinks": "22"
   },
   {
@@ -546,21 +552,15 @@
     "sitelinks": "22"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2015677",
-    "itemLabel": "Zarubintsy culture",
-    "year": "-300",
-    "sitelinks": "22"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1500702",
     "itemLabel": "Mogollon culture",
     "year": "300",
     "sitelinks": "21"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q666758",
-    "itemLabel": "Saqqaq culture",
-    "year": "-2499",
+    "item": "http://www.wikidata.org/entity/Q1781546",
+    "itemLabel": "Kongemose culture",
+    "year": "-6000",
     "sitelinks": "21"
   },
   {
@@ -570,21 +570,21 @@
     "sitelinks": "21"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q666758",
+    "itemLabel": "Saqqaq culture",
+    "year": "-2499",
+    "sitelinks": "21"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1398184",
     "itemLabel": "Fatyanovo–Balanovo culture",
     "year": "-2599",
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1781546",
-    "itemLabel": "Kongemose culture",
-    "year": "-6000",
-    "sitelinks": "20"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q675717",
-    "itemLabel": "Clactonian",
-    "year": "-300000",
+    "item": "http://www.wikidata.org/entity/Q2372667",
+    "itemLabel": "Swiderian culture",
+    "year": "-13000",
     "sitelinks": "20"
   },
   {
@@ -594,9 +594,9 @@
     "sitelinks": "20"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2372667",
-    "itemLabel": "Swiderian culture",
-    "year": "-13000",
+    "item": "http://www.wikidata.org/entity/Q675717",
+    "itemLabel": "Clactonian",
+    "year": "-300000",
     "sitelinks": "20"
   },
   {
@@ -618,15 +618,15 @@
     "sitelinks": "19"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q502702",
-    "itemLabel": "Hamburg culture",
-    "year": "-13700",
-    "sitelinks": "19"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q127455",
     "itemLabel": "Ordos culture",
     "year": "-599",
+    "sitelinks": "19"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q502702",
+    "itemLabel": "Hamburg culture",
+    "year": "-13700",
     "sitelinks": "19"
   },
   {
@@ -648,15 +648,15 @@
     "sitelinks": "18"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q500502",
-    "itemLabel": "Sao civilization",
-    "year": "-600",
-    "sitelinks": "18"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q175801",
     "itemLabel": "Sican culture",
     "year": "700",
+    "sitelinks": "18"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q500502",
+    "itemLabel": "Sao civilization",
+    "year": "-600",
     "sitelinks": "18"
   },
   {
@@ -672,9 +672,27 @@
     "sitelinks": "17"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2000186",
+    "itemLabel": "Sa Huỳnh culture",
+    "year": "-999",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2098731",
+    "itemLabel": "Slab Grave culture",
+    "year": "-1299",
+    "sitelinks": "17"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q80641",
     "itemLabel": "Samara culture",
     "year": "-5000",
+    "sitelinks": "17"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2915635",
+    "itemLabel": "Yarmukian culture",
+    "year": "-6400",
     "sitelinks": "17"
   },
   {
@@ -696,24 +714,6 @@
     "sitelinks": "17"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2000186",
-    "itemLabel": "Sa Huỳnh culture",
-    "year": "-999",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2098731",
-    "itemLabel": "Slab Grave culture",
-    "year": "-1299",
-    "sitelinks": "17"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2915635",
-    "itemLabel": "Yarmukian culture",
-    "year": "-6400",
-    "sitelinks": "17"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1577518",
     "itemLabel": "Komsa culture",
     "year": "-6998",
@@ -730,42 +730,6 @@
     "itemLabel": "Pengtoushan culture",
     "year": "-7500",
     "sitelinks": "16"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q647858",
-    "itemLabel": "Zarzian culture",
-    "year": "-18000",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q113965",
-    "itemLabel": "Khvalynsk culture",
-    "year": "-5000",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1017984",
-    "itemLabel": "Butmir culture",
-    "year": "-5500",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1061632",
-    "itemLabel": "Chancay culture",
-    "year": "1300",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1269223",
-    "itemLabel": "Qijia culture",
-    "year": "-2199",
-    "sitelinks": "15"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1297733",
-    "itemLabel": "Xinle culture",
-    "year": "-5500",
-    "sitelinks": "15"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2460357",
@@ -786,27 +750,57 @@
     "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1755265",
-    "itemLabel": "Kulli culture",
-    "year": "-2499",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q113965",
+    "itemLabel": "Khvalynsk culture",
+    "year": "-5000",
+    "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q530894",
-    "itemLabel": "Talaiotic culture",
-    "year": "950",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q2995537",
+    "itemLabel": "Soanian",
+    "year": "-500000",
+    "sitelinks": "15"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q652622",
-    "itemLabel": "Périgordian",
-    "year": "-33000",
-    "sitelinks": "14"
+    "item": "http://www.wikidata.org/entity/Q647858",
+    "itemLabel": "Zarzian culture",
+    "year": "-18000",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1017984",
+    "itemLabel": "Butmir culture",
+    "year": "-5500",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1061632",
+    "itemLabel": "Chancay culture",
+    "year": "1300",
+    "sitelinks": "15"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1139760",
     "itemLabel": "Creswellian culture",
     "year": "-12500",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1269223",
+    "itemLabel": "Qijia culture",
+    "year": "-2199",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1297733",
+    "itemLabel": "Xinle culture",
+    "year": "-5500",
+    "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1755265",
+    "itemLabel": "Kulli culture",
+    "year": "-2499",
     "sitelinks": "14"
   },
   {
@@ -840,6 +834,12 @@
     "sitelinks": "14"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2625916",
+    "itemLabel": "Gandhara grave culture",
+    "year": "-1599",
+    "sitelinks": "14"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2629081",
     "itemLabel": "Atlantic Bronze Age",
     "year": "-1299",
@@ -852,15 +852,21 @@
     "sitelinks": "14"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2995537",
-    "itemLabel": "Soanian",
-    "year": "-500000",
-    "sitelinks": "14"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q3589150",
     "itemLabel": "Epigravettian",
     "year": "-21000",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q530894",
+    "itemLabel": "Talaiotic culture",
+    "year": "950",
+    "sitelinks": "14"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q652622",
+    "itemLabel": "Périgordian",
+    "year": "-33000",
     "sitelinks": "14"
   },
   {
@@ -894,6 +900,12 @@
     "sitelinks": "13"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2556093",
+    "itemLabel": "Gumelniţa–Karanovo culture",
+    "year": "-4700",
+    "sitelinks": "13"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q570798",
     "itemLabel": "Michelsberg culture",
     "year": "-4400",
@@ -918,18 +930,6 @@
     "sitelinks": "13"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2556093",
-    "itemLabel": "Gumelniţa–Karanovo culture",
-    "year": "-4700",
-    "sitelinks": "13"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2625916",
-    "itemLabel": "Gandhara grave culture",
-    "year": "-1599",
-    "sitelinks": "13"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1759091",
     "itemLabel": "Micoquien",
     "year": "-58000",
@@ -939,6 +939,60 @@
     "item": "http://www.wikidata.org/entity/Q1886212",
     "itemLabel": "Rössen culture",
     "year": "-4300",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2268108",
+    "itemLabel": "Independence II culture",
+    "year": "-699",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2347305",
+    "itemLabel": "Polada culture",
+    "year": "-2199",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2588933",
+    "itemLabel": "Proto-Villanovan culture",
+    "year": "-1199",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q125936",
+    "itemLabel": "Shijiahe culture",
+    "year": "-2499",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q212414",
+    "itemLabel": "Cupisnique culture",
+    "year": "-2000",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2624476",
+    "itemLabel": "Marajoara culture",
+    "year": "800",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2632835",
+    "itemLabel": "Okunev culture",
+    "year": "-1999",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2994546",
+    "itemLabel": "Penkovka culture",
+    "year": "450",
+    "sitelinks": "12"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3919823",
+    "itemLabel": "Kolochin culture",
+    "year": "450",
     "sitelinks": "12"
   },
   {
@@ -978,12 +1032,6 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q125936",
-    "itemLabel": "Shijiahe culture",
-    "year": "-2499",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1075080",
     "itemLabel": "Upper Xiajiadian culture",
     "year": "-999",
@@ -1002,63 +1050,9 @@
     "sitelinks": "12"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2268108",
-    "itemLabel": "Independence II culture",
-    "year": "-699",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2347305",
-    "itemLabel": "Polada culture",
-    "year": "-2199",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2588933",
-    "itemLabel": "Proto-Villanovan culture",
-    "year": "-1199",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2632835",
-    "itemLabel": "Okunev culture",
-    "year": "-1999",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2994546",
-    "itemLabel": "Penkovka culture",
-    "year": "450",
-    "sitelinks": "12"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3919823",
-    "itemLabel": "Kolochin culture",
-    "year": "450",
-    "sitelinks": "12"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1707945",
     "itemLabel": "Vicús culture",
     "year": "-500",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q575396",
-    "itemLabel": "Cernavodă culture",
-    "year": "-4000",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q671984",
-    "itemLabel": "Cortaillod culture",
-    "year": "-4300",
-    "sitelinks": "11"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q212414",
-    "itemLabel": "Cupisnique culture",
-    "year": "-2000",
     "sitelinks": "11"
   },
   {
@@ -1074,39 +1068,27 @@
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2624476",
-    "itemLabel": "Marajoara culture",
-    "year": "800",
+    "item": "http://www.wikidata.org/entity/Q575396",
+    "itemLabel": "Cernavodă culture",
+    "year": "-4000",
     "sitelinks": "11"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q672010",
-    "itemLabel": "Horgen culture",
-    "year": "-3399",
+    "item": "http://www.wikidata.org/entity/Q671984",
+    "itemLabel": "Cortaillod culture",
+    "year": "-4300",
+    "sitelinks": "11"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1367585",
+    "itemLabel": "Ezero culture",
+    "year": "-3299",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q893119",
-    "itemLabel": "Battle Axe culture",
-    "year": "-3000",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q971802",
-    "itemLabel": "Potapovka culture",
-    "year": "-2499",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1076565",
-    "itemLabel": "Chorrera culture",
-    "year": "-1300",
-    "sitelinks": "10"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1310034",
-    "itemLabel": "Single Grave culture",
-    "year": "-2799",
+    "item": "http://www.wikidata.org/entity/Q399951",
+    "itemLabel": "Ahar-Banas culture",
+    "year": "-2999",
     "sitelinks": "10"
   },
   {
@@ -1134,57 +1116,51 @@
     "sitelinks": "10"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q672010",
+    "itemLabel": "Horgen culture",
+    "year": "-3399",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q893119",
+    "itemLabel": "Battle Axe culture",
+    "year": "-3000",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q971802",
+    "itemLabel": "Potapovka culture",
+    "year": "-2499",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1076565",
+    "itemLabel": "Chorrera culture",
+    "year": "-1300",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1093651",
+    "itemLabel": "Okhotsk culture",
+    "year": "300",
+    "sitelinks": "10"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1310034",
+    "itemLabel": "Single Grave culture",
+    "year": "-2799",
+    "sitelinks": "10"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q13174573",
     "itemLabel": "Chust culture",
     "year": "-1499",
     "sitelinks": "10"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1367585",
-    "itemLabel": "Ezero culture",
-    "year": "-3299",
-    "sitelinks": "9"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1739564",
     "itemLabel": "Keros-Syros culture",
     "year": "-2699",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q481062",
-    "itemLabel": "Elp culture",
-    "year": "-1099",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q30257",
-    "itemLabel": "culture of Songze",
-    "year": "-3799",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q127644",
-    "itemLabel": "Bohunician",
-    "year": "-41000",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q399951",
-    "itemLabel": "Ahar-Banas culture",
-    "year": "-2999",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q427986",
-    "itemLabel": "Gaudo culture",
-    "year": "-3149",
-    "sitelinks": "9"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1093651",
-    "itemLabel": "Okhotsk culture",
-    "year": "300",
     "sitelinks": "9"
   },
   {
@@ -1212,9 +1188,33 @@
     "sitelinks": "9"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q30257",
+    "itemLabel": "culture of Songze",
+    "year": "-3799",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127644",
+    "itemLabel": "Bohunician",
+    "year": "-41000",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q427986",
+    "itemLabel": "Gaudo culture",
+    "year": "-3149",
+    "sitelinks": "9"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q2614019",
     "itemLabel": "Satsumon culture",
     "year": "700",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q481062",
+    "itemLabel": "Elp culture",
+    "year": "-1099",
     "sitelinks": "9"
   },
   {
@@ -1230,33 +1230,21 @@
     "sitelinks": "9"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q685970",
-    "itemLabel": "Pfyn culture",
-    "year": "-4300",
+    "item": "http://www.wikidata.org/entity/Q72339091",
+    "itemLabel": "Scytho-Siberian world",
+    "year": "-899",
+    "sitelinks": "9"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2493437",
+    "itemLabel": "Mollo culture",
+    "year": "700",
     "sitelinks": "8"
   },
   {
     "item": "http://www.wikidata.org/entity/Q314639",
     "itemLabel": "Baalberge group",
     "year": "-4200",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1041674",
-    "itemLabel": "Lower Xiajiadian culture",
-    "year": "-2199",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1234153",
-    "itemLabel": "Almeria culture",
-    "year": "-2999",
-    "sitelinks": "8"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2493437",
-    "itemLabel": "Mollo culture",
-    "year": "700",
     "sitelinks": "8"
   },
   {
@@ -1296,28 +1284,22 @@
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q72339091",
-    "itemLabel": "Scytho-Siberian world",
-    "year": "-899",
+    "item": "http://www.wikidata.org/entity/Q685970",
+    "itemLabel": "Pfyn culture",
+    "year": "-4300",
     "sitelinks": "8"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q770315",
-    "itemLabel": "Grotta-Pelos culture",
-    "year": "-3199",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q875479",
-    "itemLabel": "Wartberg culture",
-    "year": "-3499",
-    "sitelinks": "7"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1022291",
-    "itemLabel": "C-Group culture",
+    "item": "http://www.wikidata.org/entity/Q1041674",
+    "itemLabel": "Lower Xiajiadian culture",
     "year": "-2199",
-    "sitelinks": "7"
+    "sitelinks": "8"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1234153",
+    "itemLabel": "Almeria culture",
+    "year": "-2999",
+    "sitelinks": "8"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2039029",
@@ -1335,6 +1317,24 @@
     "item": "http://www.wikidata.org/entity/Q2610243",
     "itemLabel": "Novocherkassk culture",
     "year": "-949",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q770315",
+    "itemLabel": "Grotta-Pelos culture",
+    "year": "-3199",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q875479",
+    "itemLabel": "Wartberg culture",
+    "year": "-3499",
+    "sitelinks": "7"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1022291",
+    "itemLabel": "C-Group culture",
+    "year": "-2199",
     "sitelinks": "7"
   },
   {
@@ -1398,9 +1398,9 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q476170",
-    "itemLabel": "Dębczyn culture",
-    "year": "300",
+    "item": "http://www.wikidata.org/entity/Q2560070",
+    "itemLabel": "Magosian",
+    "year": "-10000",
     "sitelinks": "6"
   },
   {
@@ -1410,15 +1410,15 @@
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1031115",
-    "itemLabel": "Q1031115",
-    "year": "-3999",
+    "item": "http://www.wikidata.org/entity/Q476170",
+    "itemLabel": "Dębczyn culture",
+    "year": "300",
     "sitelinks": "6"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q2560070",
-    "itemLabel": "Magosian",
-    "year": "-10000",
+    "item": "http://www.wikidata.org/entity/Q1031115",
+    "itemLabel": "Q1031115",
+    "year": "-3999",
     "sitelinks": "6"
   },
   {
@@ -1512,27 +1512,15 @@
     "sitelinks": "5"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q871703",
-    "itemLabel": "Walternienburg-Bernburg culture",
-    "year": "-3099",
+    "item": "http://www.wikidata.org/entity/Q2444661",
+    "itemLabel": "Belogrudovskaya culture",
+    "year": "-1300",
     "sitelinks": "5"
   },
   {
     "item": "http://www.wikidata.org/entity/Q260801",
     "itemLabel": "Havelland culture",
     "year": "-3199",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1027416",
-    "itemLabel": "Caloosahatchee culture",
-    "year": "500",
-    "sitelinks": "5"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2444661",
-    "itemLabel": "Belogrudovskaya culture",
-    "year": "-1300",
     "sitelinks": "5"
   },
   {
@@ -1548,6 +1536,18 @@
     "sitelinks": "5"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q871703",
+    "itemLabel": "Walternienburg-Bernburg culture",
+    "year": "-3099",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1027416",
+    "itemLabel": "Caloosahatchee culture",
+    "year": "500",
+    "sitelinks": "5"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q4082448",
     "itemLabel": "Bilozerka culture",
     "year": "-1200",
@@ -1557,6 +1557,12 @@
     "item": "http://www.wikidata.org/entity/Q4124463",
     "itemLabel": "Volyntsevo culture",
     "year": "750",
+    "sitelinks": "5"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6728568",
+    "itemLabel": "Madrasian Culture",
+    "year": "-1500000",
     "sitelinks": "5"
   },
   {
@@ -1656,12 +1662,6 @@
     "sitelinks": "4"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q6728568",
-    "itemLabel": "Madrasian Culture",
-    "year": "-1500000",
-    "sitelinks": "4"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q11220564",
     "itemLabel": "Jama-Coaque",
     "year": "-499",
@@ -1710,6 +1710,18 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q2216194",
+    "itemLabel": "Salzmünde group",
+    "year": "-3399",
+    "sitelinks": "3"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2379716",
+    "itemLabel": "Sögel-Wohlde culture",
+    "year": "-1599",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q872221",
     "itemLabel": "Cham culture",
     "year": "-3499",
@@ -1725,18 +1737,6 @@
     "item": "http://www.wikidata.org/entity/Q1037978",
     "itemLabel": "Gushi culture",
     "year": "-205",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2216194",
-    "itemLabel": "Salzmünde group",
-    "year": "-3399",
-    "sitelinks": "3"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2379716",
-    "itemLabel": "Sögel-Wohlde culture",
-    "year": "-1599",
     "sitelinks": "3"
   },
   {
@@ -1794,6 +1794,12 @@
     "sitelinks": "3"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q126325593",
+    "itemLabel": "Late Shang",
+    "year": "-1249",
+    "sitelinks": "3"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q1538556",
     "itemLabel": "Singen culture",
     "year": "-2299",
@@ -1818,36 +1824,6 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q518842",
-    "itemLabel": "Early Magdalenian",
-    "year": "-17000",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q862788",
-    "itemLabel": "Billendorf culture",
-    "year": "-700",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q419594",
-    "itemLabel": "Akkad period",
-    "year": "-2349",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q923746",
-    "itemLabel": "Q923746",
-    "year": "-5000",
-    "sitelinks": "2"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1298414",
-    "itemLabel": "Egolzwil Culture",
-    "year": "-4300",
-    "sitelinks": "2"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q1959031",
     "itemLabel": "Q1959031",
     "year": "-4500",
@@ -1869,6 +1845,36 @@
     "item": "http://www.wikidata.org/entity/Q2458028",
     "itemLabel": "Tshitolean",
     "year": "-13000",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q419594",
+    "itemLabel": "Akkad period",
+    "year": "-2349",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q518842",
+    "itemLabel": "Early Magdalenian",
+    "year": "-17000",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q862788",
+    "itemLabel": "Billendorf culture",
+    "year": "-700",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q923746",
+    "itemLabel": "Q923746",
+    "year": "-5000",
+    "sitelinks": "2"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1298414",
+    "itemLabel": "Egolzwil Culture",
+    "year": "-4300",
     "sitelinks": "2"
   },
   {
@@ -1944,6 +1950,12 @@
     "sitelinks": "2"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q106652093",
+    "itemLabel": "Tiryns culture",
+    "year": "-2199",
+    "sitelinks": "2"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q110864122",
     "itemLabel": "Tornow group",
     "year": "700",
@@ -1962,9 +1974,9 @@
     "sitelinks": "2"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q126325593",
-    "itemLabel": "Late Shang",
-    "year": "-1249",
+    "item": "http://www.wikidata.org/entity/Q136337515",
+    "itemLabel": "Levantine Chalcolithic",
+    "year": "-5000",
     "sitelinks": "2"
   },
   {
@@ -2004,24 +2016,6 @@
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q866086",
-    "itemLabel": "Q866086",
-    "year": "-4400",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q403546",
-    "itemLabel": "Aichbühl culture",
-    "year": "-4200",
-    "sitelinks": "1"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q882260",
-    "itemLabel": "Q882260",
-    "year": "-50000",
-    "sitelinks": "1"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q2001589",
     "itemLabel": "Q2001589",
     "year": "-899",
@@ -2031,6 +2025,24 @@
     "item": "http://www.wikidata.org/entity/Q2018777",
     "itemLabel": "Q2018777",
     "year": "-6000",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q403546",
+    "itemLabel": "Aichbühl culture",
+    "year": "-4200",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q866086",
+    "itemLabel": "Q866086",
+    "year": "-4400",
+    "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q882260",
+    "itemLabel": "Q882260",
+    "year": "-50000",
     "sitelinks": "1"
   },
   {
@@ -2100,12 +2112,6 @@
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q106652093",
-    "itemLabel": "Tiryns culture",
-    "year": "-2199",
-    "sitelinks": "1"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q109649675",
     "itemLabel": "Tiraspol group",
     "year": "-259",
@@ -2136,12 +2142,6 @@
     "sitelinks": "1"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q136337515",
-    "itemLabel": "Levantine Chalcolithic",
-    "year": "-5000",
-    "sitelinks": "1"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q137177308",
     "itemLabel": "Saint-Uze culture",
     "year": "-4500",
@@ -2152,6 +2152,12 @@
     "itemLabel": "Hacilar culture",
     "year": "-7040",
     "sitelinks": "1"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57406678",
+    "itemLabel": "Rodezian",
+    "year": "-3000",
+    "sitelinks": "0"
   },
   {
     "item": "http://www.wikidata.org/entity/Q66084488",
@@ -2193,12 +2199,6 @@
     "item": "http://www.wikidata.org/entity/Q110209565",
     "itemLabel": "Early Dynastic IIIb",
     "year": "-2499",
-    "sitelinks": "0"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q57406678",
-    "itemLabel": "Rodezian",
-    "year": "-3000",
     "sitelinks": "0"
   },
   {

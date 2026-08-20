@@ -102,7 +102,7 @@
   {
     "qid": "Q29294",
     "title": "Willis Tower is completed",
-    "subtitle": "Skyscraper in Chicago, Illinois",
+    "subtitle": "Skyscraper in Chicago, Illinois, USA",
     "year": 1973,
     "fact": "The Willis Tower, formerly and still commonly referred to as the Sears Tower, is a 110-story, 1,451-foot (442.3 m) skyscraper in the Loop of Chicago, Illinois, United States.",
     "wikipediaSlug": "Willis_Tower",
@@ -770,16 +770,6 @@
     "pageViews": 14608
   },
   {
-    "qid": "Q214867",
-    "title": "National Gallery of Art (Washington, D.C.) opens",
-    "subtitle": "National art museum in Washington, D.C.",
-    "year": 1941,
-    "fact": "The National Gallery of Art is an art museum in Washington, D.C., United States, located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW.",
-    "wikipediaSlug": "National_Gallery_of_Art",
-    "image": "Washington_October_2016-12.jpg",
-    "pageViews": 14545
-  },
-  {
     "qid": "Q752669",
     "title": "National Air and Space Museum opens",
     "subtitle": "Aerospace museum in Washington, D.C.",
@@ -852,7 +842,7 @@
   {
     "qid": "Q731126",
     "title": "J. Paul Getty Museum opens",
-    "subtitle": "Art museum in Los Angeles, California",
+    "subtitle": "Art museum in Los Angeles, California, U.S.",
     "year": 1974,
     "fact": "The J.",
     "wikipediaSlug": "J._Paul_Getty_Museum",
@@ -1160,16 +1150,6 @@
     "pageViews": 11120
   },
   {
-    "qid": "Q818395",
-    "title": "San Diego Zoo is founded",
-    "subtitle": "Zoo in Balboa Park, San Diego, California, United States",
-    "year": 1916,
-    "fact": "The San Diego Zoo is a zoo in San Diego, California, United States, located in Balboa Park.",
-    "wikipediaSlug": "San_Diego_Zoo",
-    "image": "San_Diego_Zoo_Entrance_.jpg",
-    "pageViews": 10897
-  },
-  {
     "qid": "Q69513",
     "title": "Pena Palace is built",
     "subtitle": "Palace in Sintra, Portugal",
@@ -1410,16 +1390,6 @@
     "pageViews": 8827
   },
   {
-    "qid": "Q739792",
-    "title": "Bronx Zoo is founded",
-    "subtitle": "Metropolitan zoo in the Bronx, New York City, New York, USA",
-    "year": 1899,
-    "fact": "The Bronx Zoo is a zoo within Bronx Park in the Bronx, New York City.",
-    "wikipediaSlug": "Bronx_Zoo",
-    "image": "Bronx_Zoo_001.jpg",
-    "pageViews": 8813
-  },
-  {
     "qid": "Q192680",
     "title": "New York Times Building is completed",
     "subtitle": "Office skyscraper in Manhattan, New York",
@@ -1480,6 +1450,16 @@
     "pageViews": 8367
   },
   {
+    "qid": "Q1812844",
+    "title": "Ponte City Apartments is completed",
+    "subtitle": "Skyscraper in South Africa",
+    "year": 1975,
+    "fact": "Ponte City is a skyscraper in the Berea district of Johannesburg, South Africa, just next to Hillbrow.",
+    "wikipediaSlug": "Ponte_City",
+    "image": "Ponte_City_apartments_inner_courtyard.jpg",
+    "pageViews": 8355
+  },
+  {
     "qid": "Q901058",
     "title": "Vehicle Assembly Building is built",
     "subtitle": "Building used by NASA to assemble rockets at the Kennedy Space Center",
@@ -1498,6 +1478,16 @@
     "wikipediaSlug": "Royal_Opera_House",
     "image": "Royal_Opera_House_and_ballerina.jpg",
     "pageViews": 8251
+  },
+  {
+    "qid": "Q154987",
+    "title": "Siegessäule is built",
+    "subtitle": "Classical triumphal column in Berlin, Germany",
+    "year": 1873,
+    "fact": "The Victory Column is a monument in Berlin, Germany.",
+    "wikipediaSlug": "Berlin_Victory_Column",
+    "image": "Berlin_Siegessäule_8245.jpg",
+    "pageViews": 8186
   },
   {
     "qid": "Q1370087",
@@ -1597,6 +1587,16 @@
     "fact": "The Ping An Finance Center is a 115-storey, 599.1-metre (1,966-foot) supertall skyscraper in Shenzhen, Guangdong, China.",
     "wikipediaSlug": "Ping_An_Finance_Centre",
     "image": "Pingan_International_Finance_Center2020.jpg",
+    "pageViews": 7773
+  },
+  {
+    "qid": "Q3533204",
+    "title": "Triangle is built",
+    "subtitle": "Proposed skyscraper in Paris, France",
+    "year": 2021,
+    "fact": "The Tour Triangle is an under-construction skyscraper at the Parc des Expositions de la Porte de Versailles in Paris's Rive Gauche, France.",
+    "wikipediaSlug": "Tour_Triangle",
+    "image": "Tour_Triangle_-_Juillet_2025.jpg",
     "pageViews": 7773
   },
   {
@@ -1740,6 +1740,16 @@
     "pageViews": 7344
   },
   {
+    "qid": "Q10769129",
+    "title": "Imperial City of Hue is built",
+    "subtitle": "Walled enclosure within the citadel of Huế, Vietnam",
+    "year": 1833,
+    "fact": "The Imperial City or Imperial Palace also known as Đại Nội (大內), is a royal enclosure within the walled city of Huế, the former imperial capital of Vietnam during the Nguyễn dynasty.",
+    "wikipediaSlug": "Imperial_City_of_Hu%E1%BA%BF",
+    "image": "Đại_nội.jpg",
+    "pageViews": 7118
+  },
+  {
     "qid": "Q3380670",
     "title": "Chowmahalla Palace is built",
     "subtitle": "Palace in Telangana, India",
@@ -1838,6 +1848,16 @@
     "wikipediaSlug": "Basilica_of_Our_Lady_of_Aparecida",
     "image": "Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida,_2007.jpg",
     "pageViews": 6783
+  },
+  {
+    "qid": "Q2151874",
+    "title": "Rideau Hall is built",
+    "subtitle": "(Officially Governor House) is the official residence of the Canadian monarch",
+    "year": 1838,
+    "fact": "Rideau Hall is the official residence of the governor general of Canada, the representative of the monarch of Canada.",
+    "wikipediaSlug": "Rideau_Hall",
+    "image": "Ottawa_-_Rideau_Hall.JPG",
+    "pageViews": 6762
   },
   {
     "qid": "Q18341384",
@@ -2322,7 +2342,7 @@
   {
     "qid": "Q161988",
     "title": "Hohenschwangau Castle is built",
-    "subtitle": "Castle",
+    "subtitle": "Castle in Germany",
     "year": 1837,
     "fact": "Hohenschwangau Castle is a 19th-century palace in southern Germany.",
     "wikipediaSlug": "Hohenschwangau_Castle",
@@ -2370,6 +2390,16 @@
     "pageViews": 5373
   },
   {
+    "qid": "Q1090558",
+    "title": "Château Lafite Rothschild is built",
+    "subtitle": "Vineyard and chateau of Bordeaux",
+    "year": 1833,
+    "fact": "Château Lafite Rothschild is a French wine estate of Bordeaux wine, located in Pauillac in France, owned by members of the Rothschild family since the 19th century, and rated as a First Growth under the 1855 Bordeaux Classification.",
+    "wikipediaSlug": "Ch%C3%A2teau_Lafite_Rothschild",
+    "image": "Château_Lafite-Rothschild.jpg",
+    "pageViews": 5371
+  },
+  {
     "qid": "Q336246",
     "title": "Torre Glòries is built",
     "subtitle": "38-Story skyscraper in Barcelona",
@@ -2400,10 +2430,20 @@
     "pageViews": 5290
   },
   {
+    "qid": "Q1551411",
+    "title": "Ruins of St. Paul's is built",
+    "subtitle": "Church in Macau",
+    "year": 1835,
+    "fact": "The Ruins of Saint Paul's are the remnants of a 17th-century Catholic religious complex in Santo António, Macau.",
+    "wikipediaSlug": "Ruins_of_Saint_Paul%27s",
+    "image": "大三巴牌坊.jpg",
+    "pageViews": 5272
+  },
+  {
     "qid": "Q2465115",
     "title": "Bahia Palace is built",
     "subtitle": "Palace and museum in Marrakesh, Morocco",
-    "year": 1912,
+    "year": 1866,
     "fact": "The Bahia Palace is a mid to late 19th-century palace in Marrakesh, Morocco.",
     "wikipediaSlug": "Bahia_Palace",
     "image": "Bahia_Palace_large_court.jpg",
@@ -2500,6 +2540,26 @@
     "pageViews": 5044
   },
   {
+    "qid": "Q337179",
+    "title": "Freedom Monument is built",
+    "subtitle": "Memorial located in Riga, Latvia",
+    "year": 1935,
+    "fact": "The Freedom Monument is a monument located in Riga, Latvia, honouring soldiers killed during the Latvian War of Independence (1918–1920).",
+    "wikipediaSlug": "Freedom_Monument",
+    "image": "0873_LVA_Riga_freedom_monument_SE.jpg",
+    "pageViews": 5033
+  },
+  {
+    "qid": "Q7476510",
+    "title": "Great Mosque of Central Java is built",
+    "subtitle": "Mosque in Indonesia",
+    "year": 2006,
+    "fact": "The Great Mosque of Central Java is a mosque in the city of Semarang, Central Java, Indonesia.",
+    "wikipediaSlug": "Great_Mosque_of_Central_Java",
+    "image": "Great_Mosque_of_Central_Java,_aerial_view.jpg",
+    "pageViews": 5027
+  },
+  {
     "qid": "Q1121720",
     "title": "Warsaw radio mast is built",
     "subtitle": "Former radio mast in Poland",
@@ -2508,6 +2568,16 @@
     "wikipediaSlug": "Warsaw_radio_mast",
     "image": "Maszt_radiowy_w_Konstantynowie.jpg",
     "pageViews": 5020
+  },
+  {
+    "qid": "Q321697",
+    "title": "Juche Tower is built",
+    "subtitle": "Tower in Pyongyang, North Korea",
+    "year": 1982,
+    "fact": "The Juche Tower, completed in 1982, is a 170-metre (560 ft) monument in Pyongyang, the capital of North Korea.",
+    "wikipediaSlug": "Juche_Tower",
+    "image": "Tower_of_Juche_Idea,_Pyongyang,_North_Korea_(2909246855).jpg",
+    "pageViews": 4991
   },
   {
     "qid": "Q2915930",
@@ -2900,6 +2970,16 @@
     "pageViews": 4455
   },
   {
+    "qid": "Q631104",
+    "title": "Arc de triomphe du Carrousel is built",
+    "subtitle": "Triumphal arch in Paris",
+    "year": 1808,
+    "fact": "The Arc de Triomphe du Carrousel is a triumphal arch in Paris, located in the Place du Carrousel.",
+    "wikipediaSlug": "Arc_de_Triomphe_du_Carrousel",
+    "image": "Paris_-_Jardin_des_Tuileries_-_Arc_de_Triomphe_du_Carrousel_-_PA00085992_-_003.jpg",
+    "pageViews": 4454
+  },
+  {
     "qid": "Q511612",
     "title": "Bahrain World Trade Center is completed",
     "subtitle": "Skyscraper",
@@ -2962,7 +3042,7 @@
   {
     "qid": "Q1453542",
     "title": "Freedom Tower is built",
-    "subtitle": "Skyscraper in Miami, Florida, United States",
+    "subtitle": "Historic skyscraper in Miami, Florida, U.S.A.",
     "year": 1925,
     "fact": "The Freedom Tower is a building in Miami, Florida.",
     "wikipediaSlug": "Freedom_Tower_(Miami)",
@@ -3110,6 +3190,16 @@
     "pageViews": 4192
   },
   {
+    "qid": "Q1510431",
+    "title": "New York State Capitol is built",
+    "subtitle": "State capitol building of the U.S. state of New York",
+    "year": 1899,
+    "fact": "The New York State Capitol, the seat of the New York state government, is located in Albany, the capital city of the U.S. state of New York.",
+    "wikipediaSlug": "New_York_State_Capitol",
+    "image": "NYSCapitolPanorama.jpg",
+    "pageViews": 4189
+  },
+  {
     "qid": "Q7013741",
     "title": "New York Marriott Marquis is completed",
     "subtitle": "Hotel in Manhattan, New York",
@@ -3147,6 +3237,16 @@
     "fact": "The Armenian Genocide Memorial complex is Armenia's official memorial dedicated to the victims of the Armenian genocide, built in 1967 on the hill of Tsitsernakaberd in Yerevan.",
     "wikipediaSlug": "Tsitsernakaberd",
     "image": "Armenian_Genocide_Memorial_and_traiditional_red_tulipss_of_alley_2023_2.jpg",
+    "pageViews": 4110
+  },
+  {
+    "qid": "Q1093944",
+    "title": "San Francisco City Hall is built",
+    "subtitle": "City hall for the City and County of San Francisco, California, USA",
+    "year": 1915,
+    "fact": "San Francisco City Hall is the seat of government for the City and County of San Francisco, California.",
+    "wikipediaSlug": "San_Francisco_City_Hall",
+    "image": "San_Francisco_City_Hall_2.JPG",
     "pageViews": 4110
   },
   {
@@ -4020,6 +4120,16 @@
     "pageViews": 3275
   },
   {
+    "qid": "Q1350750",
+    "title": "Church of St Nicholas is built",
+    "subtitle": "Church in Amsterdam",
+    "year": 1887,
+    "fact": "The Co-cathedral Basilica of Saint Nicholas is located in the Old Centre district of Amsterdam, Netherlands, very close to Amsterdam's main railway station.",
+    "wikipediaSlug": "Basilica_of_Saint_Nicholas,_Amsterdam",
+    "image": "AMSTERDAM_HOLLAND_APRIL_2013_(8711705082).jpg",
+    "pageViews": 3268
+  },
+  {
     "qid": "Q1809044",
     "title": "La Jument is built",
     "subtitle": "Lighthouse in Finistère, France",
@@ -4080,16 +4190,6 @@
     "pageViews": 3232
   },
   {
-    "qid": "Q154828",
-    "title": "Berlin Zoological Garden is founded",
-    "subtitle": "Zoo in Germany",
-    "year": 1844,
-    "fact": "The Berlin Zoological Garden is the oldest surviving and best-known zoo in Germany.",
-    "wikipediaSlug": "Berlin_Zoo",
-    "image": "Berlin_Elefantentor_09-2017.jpg",
-    "pageViews": 3226
-  },
-  {
     "qid": "Q804009",
     "title": "Baitul Mukarram National Mosque is built",
     "subtitle": "National Mosque of Bangladesh",
@@ -4118,6 +4218,16 @@
     "wikipediaSlug": "Royal_Museums_of_Fine_Arts_of_Belgium",
     "image": "Musées_Royaux_des_Beaux-Arts_Belgique_1101.jpg",
     "pageViews": 3220
+  },
+  {
+    "qid": "Q1353643",
+    "title": "Swallow's Nest is completed",
+    "subtitle": "Decorative castle located between Yalta and Alupka on the Crimean peninsula",
+    "year": 1912,
+    "fact": "The Swallow's Nest is a decorative castle located at Gaspra, a small spa town between Yalta and Alupka on the Crimean peninsula.",
+    "wikipediaSlug": "Swallow%27s_Nest",
+    "image": "Ласточкино_гнездо.jpg",
+    "pageViews": 3195
   },
   {
     "qid": "Q7171560",
@@ -4391,7 +4501,7 @@
   },
   {
     "qid": "Q2632341",
-    "title": "Hilton New York is completed",
+    "title": "New York Hilton Midtown is completed",
     "subtitle": "Hotel in Manhattan, USA",
     "year": 1963,
     "fact": "The New York Hilton Midtown is the largest hotel in New York City.",
@@ -4488,16 +4598,6 @@
     "wikipediaSlug": "Capital_Gate",
     "image": "Capital_Gate.jpg",
     "pageViews": 2822
-  },
-  {
-    "qid": "Q1535247",
-    "title": "Palais de Tokyo opens",
-    "subtitle": "Building in Paris",
-    "year": 1937,
-    "fact": "The Palais de Tokyo is a building dedicated to modern and contemporary art, located at 13 avenue du Président-Wilson, facing the Trocadéro, in the 16th arrondissement of Paris.",
-    "wikipediaSlug": "Palais_de_Tokyo",
-    "image": "Palais_de_Tokyo_@_Paris_(31028565970).jpg",
-    "pageViews": 2821
   },
   {
     "qid": "Q2411716",
@@ -4651,8 +4751,8 @@
   },
   {
     "qid": "Q5868468",
-    "title": "Presidential Palace, Damascus is built",
-    "subtitle": "Building in Damascus, Syria",
+    "title": "People's Palace, Damascus is completed",
+    "subtitle": "Official residence of the president of Syria",
     "year": 1990,
     "fact": "The People's Palace, also known as the Presidential Palace, is the official residence of the president of Syria.",
     "wikipediaSlug": "People%27s_Palace_(Syria)",
@@ -4718,6 +4818,16 @@
     "wikipediaSlug": "Mus%C3%A9e_Picasso",
     "image": "Hôtel_Salé.JPG",
     "pageViews": 2636
+  },
+  {
+    "qid": "Q937209",
+    "title": "Tajbeg Palace is built",
+    "subtitle": "Palace in Kabul, Afghanistan",
+    "year": 1920,
+    "fact": "Tajbeg Palace, also called the Queen's Palace, during the rule of the Kingdom of Afghanistan is one of the palaces in the popular Darulaman area of Kabul, Afghanistan.",
+    "wikipediaSlug": "Tajbeg_Palace",
+    "image": "Evstafiev-40th_army_HQ-Amin-palace-Kabul.jpg",
+    "pageViews": 2630
   },
   {
     "qid": "Q684027",
@@ -4910,6 +5020,16 @@
     "pageViews": 2538
   },
   {
+    "qid": "Q18201640",
+    "title": "Wikipedia Monument is built",
+    "subtitle": "Sculpture in Poland",
+    "year": 2014,
+    "fact": "The Wikipedia Monument, located in Słubice, Poland, is a statue designed by Armenian sculptor Mihran Hakobyan honoring Wikipedia contributors.",
+    "wikipediaSlug": "Wikipedia_Monument",
+    "image": "Wikipedia_Monument_2.JPG",
+    "pageViews": 2533
+  },
+  {
     "qid": "Q1350295",
     "title": "Montaza Palace is built",
     "subtitle": "Palace in Alexandria, Egypt",
@@ -4918,6 +5038,16 @@
     "wikipediaSlug": "Montaza_Palace",
     "image": "Egypt-14A-148_-_Al-Montazah_Palace_(2216757121).jpg",
     "pageViews": 2533
+  },
+  {
+    "qid": "Q28224747",
+    "title": "Belgrade Tower is built",
+    "subtitle": "Skyscraper in Belgrade, Serbia",
+    "year": 2022,
+    "fact": "Belgrade Tower, officially known as Kula Belgrade, is a 42-floor, 168-meter (551 ft) tall skyscraper as part of the Belgrade Waterfront project in Belgrade, Serbia.",
+    "wikipediaSlug": "Belgrade_Tower",
+    "image": "Belgrade_Waterfront_2_(cropped).jpg",
+    "pageViews": 2532
   },
   {
     "qid": "Q2000542",
@@ -5150,6 +5280,16 @@
     "pageViews": 2375
   },
   {
+    "qid": "Q2010247",
+    "title": "Copenhagen City Hall is built",
+    "subtitle": "Headquarters of the municipal council of Copenhagen",
+    "year": 1905,
+    "fact": "Copenhagen City Hall is the city hall of Copenhagen, Denmark, situated on the City Hall Square in central Copenhagen.",
+    "wikipediaSlug": "Copenhagen_City_Hall",
+    "image": "Copenhagen_City_Hall.jpg",
+    "pageViews": 2372
+  },
+  {
     "qid": "Q9054619",
     "title": "Palacio de las Cortes is built",
     "subtitle": "Home of the Congress of Deputies of Spain",
@@ -5330,6 +5470,16 @@
     "pageViews": 2251
   },
   {
+    "qid": "Q12242846",
+    "title": "Imam Muhammad ibn Abd al-Wahhab Mosque is built",
+    "subtitle": "Mosque in Doha, Qatar",
+    "year": 2011,
+    "fact": "Imam Muhammad ibn Abd al-Wahhab Mosque, also called the Qatar State Mosque, is the national mosque of Qatar.",
+    "wikipediaSlug": "Imam_Muhammad_ibn_Abd_al-Wahhab_Mosque",
+    "image": "View_of_Lejbailat_and_State_Mosque.jpg",
+    "pageViews": 2235
+  },
+  {
     "qid": "Q2297323",
     "title": "Delano Las Vegas is completed",
     "subtitle": "Hotel in Las Vegas, Nevada",
@@ -5460,6 +5610,16 @@
     "pageViews": 2166
   },
   {
+    "qid": "Q55519",
+    "title": "Jakarta Cathedral is built",
+    "subtitle": "Catholic church in Jakarta, Indonesia",
+    "year": 1901,
+    "fact": "Jakarta Cathedral is a Latin Catholic cathedral in Jakarta, Indonesia, which is also the seat of the Archbishop of Jakarta, currently Cardinal Ignatius Suharyo Hardjoatmodjo.",
+    "wikipediaSlug": "Jakarta_Cathedral",
+    "image": "Katedral_Jakarta.jpg",
+    "pageViews": 2162
+  },
+  {
     "qid": "Q1907146",
     "title": "Masjid Sultan is built",
     "subtitle": "Major mosque in Singapore",
@@ -5480,16 +5640,6 @@
     "pageViews": 2123
   },
   {
-    "qid": "Q4890",
-    "title": "Gemäldegalerie Alte Meister is founded",
-    "subtitle": "Art gallery in Dresden, Germany",
-    "year": 1855,
-    "fact": "The Gemäldegalerie Alte Meister in Dresden, Germany, displays around 750 paintings from the 15th to the 18th centuries.",
-    "wikipediaSlug": "Gem%C3%A4ldegalerie_Alte_Meister",
-    "image": "Dresden-Zwinger-Courtyard.11.JPG",
-    "pageViews": 2120
-  },
-  {
     "qid": "Q1113721",
     "title": "Eldridge Street Synagogue is built",
     "subtitle": "United States historic place in Manhattan, New York",
@@ -5498,6 +5648,16 @@
     "wikipediaSlug": "Eldridge_Street_Synagogue",
     "image": "Museum_at_Eldridge_Street_(52302295706).jpg",
     "pageViews": 2113
+  },
+  {
+    "qid": "Q2942408",
+    "title": "St. Michael's Cathedral, Qingdao is built",
+    "subtitle": "Church building in Qingdao, China",
+    "year": 1934,
+    "fact": "St.",
+    "wikipediaSlug": "St._Michael%27s_Cathedral,_Qingdao",
+    "image": "St_Michaels_Cathedral_West_Front.png",
+    "pageViews": 2106
   },
   {
     "qid": "Q300254",
@@ -5850,6 +6010,16 @@
     "pageViews": 1921
   },
   {
+    "qid": "Q1200052",
+    "title": "State Library Victoria is built",
+    "subtitle": "Central library for the state of Victoria, Australia",
+    "year": 1854,
+    "fact": "State Library Victoria (SLV) is the state library of Victoria, Australia.",
+    "wikipediaSlug": "State_Library_Victoria",
+    "image": "State_Library_of_Victoria_-_right_side.jpg",
+    "pageViews": 1919
+  },
+  {
     "qid": "Q211250",
     "title": "Teatro Real is completed",
     "subtitle": "Opera house in Madrid, Spain",
@@ -5951,7 +6121,7 @@
   },
   {
     "qid": "Q375910",
-    "title": "Argentine is completed",
+    "title": "Kavanagh building is completed",
     "subtitle": "Residential skyscraper in Retiro, Buenos Aires",
     "year": 1936,
     "fact": "The Kavanagh Building is a residential skyscraper in Retiro, Buenos Aires, Argentina.",
@@ -6121,7 +6291,7 @@
   },
   {
     "qid": "Q4115837",
-    "title": "Al Shaab Mosque is built",
+    "title": "Al Saleh Mosque is built",
     "subtitle": "Mosque in Sana'a, Yemen",
     "year": 2008,
     "fact": "Al-Saleh Mosque is a modern mosque in Sana'a that is the largest in Yemen.",
@@ -6258,6 +6428,16 @@
     "wikipediaSlug": "World_Trade_Center_Mexico_City",
     "image": "Torre_wtc_mexico.jpg",
     "pageViews": 1775
+  },
+  {
+    "qid": "Q1759455",
+    "title": "Larnach Castle is built",
+    "subtitle": "New Zealand mansion",
+    "year": 1874,
+    "fact": "Larnach Castle is a mock castle on the ridge of the Otago Peninsula within the limits of the city of Dunedin, New Zealand, close to the small settlement of Pukehiki.",
+    "wikipediaSlug": "Larnach_Castle",
+    "image": "Larnach_Castle_and_fountain.jpg",
+    "pageViews": 1774
   },
   {
     "qid": "Q632566",
@@ -6840,14 +7020,14 @@
     "pageViews": 1531
   },
   {
-    "qid": "Q810122",
-    "title": "Church of St. Anthony of Padua is built",
-    "subtitle": "Church of the Roman Catholic Church in Istanbul",
-    "year": 1906,
-    "fact": "The Church of St.",
-    "wikipediaSlug": "Church_of_Saint_Anthony_of_Padua,_Istanbul",
-    "image": "Istanbul_asv2021-11_img71_StAnthony_of_Padua_Church.jpg",
-    "pageViews": 1517
+    "qid": "Q4022677",
+    "title": "Kampala Mosque is built",
+    "subtitle": "Mosque in Uganda",
+    "year": 1978,
+    "fact": "The Uganda National Mosque, previously known as the Gaddafi National Mosque, is a mosque located at Kampala Hill in the Old Kampala area of Kampala, Uganda.",
+    "wikipediaSlug": "Uganda_National_Mosque",
+    "image": "Aerial_view_of_the_Gaddafi_mosque_in_Uganda.jpg",
+    "pageViews": 1515
   },
   {
     "qid": "Q2993402",
@@ -6857,16 +7037,6 @@
     "fact": "Masjid-e-Tooba also known as Gol Masjid, is a mosque located in the city of Karachi in Sindh province of Pakistan.",
     "wikipediaSlug": "Masjid-e-Tooba",
     "image": "PK_Karachi_asv2020-02_img57_Tooba_Mosque.jpg",
-    "pageViews": 1515
-  },
-  {
-    "qid": "Q4022677",
-    "title": "Kampala Mosque is built",
-    "subtitle": "Mosque in Uganda",
-    "year": 1978,
-    "fact": "The Uganda National Mosque, previously known as the Gaddafi National Mosque, is a mosque located at Kampala Hill in the Old Kampala area of Kampala, Uganda.",
-    "wikipediaSlug": "Uganda_National_Mosque",
-    "image": "Aerial_view_of_the_Gaddafi_mosque_in_Uganda.jpg",
     "pageViews": 1515
   },
   {
@@ -7120,16 +7290,6 @@
     "pageViews": 1433
   },
   {
-    "qid": "Q613676",
-    "title": "Moscow Zoo is founded",
-    "subtitle": "Zoo in Moscow, Russia",
-    "year": 1864,
-    "fact": "The Moscow Zoo or Moskovsky Zoopark is a 21.5-hectare (53-acre) zoo, one of the largest in Russia and one of the oldest in Europe.",
-    "wikipediaSlug": "Moscow_Zoo",
-    "image": "Moscow_05-2017_img25_Zoo_main_entrance.jpg",
-    "pageViews": 1431
-  },
-  {
     "qid": "Q138752",
     "title": "25 Bank Street is completed",
     "subtitle": "Building in London",
@@ -7178,6 +7338,16 @@
     "wikipediaSlug": "Fountain_Place",
     "image": "Fountain_place.jpg",
     "pageViews": 1414
+  },
+  {
+    "qid": "Q4984151",
+    "title": "Buddha Dhatu Jadi is built",
+    "subtitle": "The largest Theravada Buddhist temple in Bangladesh",
+    "year": 1995,
+    "fact": "The Buddha Dhatu Jadi is located close to Balaghata town, in Bandarban City, in Bangladesh.",
+    "wikipediaSlug": "Buddha_Dhatu_Jadi",
+    "image": "Buddha_Dhatu_Jadi_05.jpg",
+    "pageViews": 1408
   },
   {
     "qid": "Q49633",
@@ -7390,6 +7560,16 @@
     "pageViews": 1322
   },
   {
+    "qid": "Q4535415",
+    "title": "Yusupov Palace is built",
+    "subtitle": "Palace in Crimea",
+    "year": 1801,
+    "fact": "The Yusupov Palace is a palace located in the town of Koreiz, near Yalta in Crimea.",
+    "wikipediaSlug": "Yusupov_Palace_(Crimea)",
+    "image": "Пруд_Юсуповского_дворца.JPG",
+    "pageViews": 1313
+  },
+  {
     "qid": "Q467467",
     "title": "Americas Tower is completed",
     "subtitle": "Skyscraper in New York City",
@@ -7398,16 +7578,6 @@
     "wikipediaSlug": "Americas_Tower",
     "image": "Americas-tower.jpg",
     "pageViews": 1309
-  },
-  {
-    "qid": "Q1149480",
-    "title": "Temple of All Religions is built",
-    "subtitle": "Architectural structure",
-    "year": 1992,
-    "fact": "The Temple of All Religions or the Universal Temple is an architectural complex in the Staroye Arakchino Microdistrict of Kazan, Russia.",
-    "wikipediaSlug": "Temple_of_All_Religions",
-    "image": "Kazan_church_edit1.jpg",
-    "pageViews": 1305
   },
   {
     "qid": "Q1352282",
@@ -7700,6 +7870,16 @@
     "pageViews": 1227
   },
   {
+    "qid": "Q713124",
+    "title": "Natura Artis Magistra is founded",
+    "subtitle": "Zoo in Amsterdam, the Netherlands",
+    "year": 1838,
+    "fact": "Natura Artis Magistra, commonly known just as Artis, is a zoo and botanical garden in the centre of Amsterdam.",
+    "wikipediaSlug": "Artis_(zoo)",
+    "image": "ArtisIngang.jpg",
+    "pageViews": 1225
+  },
+  {
     "qid": "Q3533060",
     "title": "Tour Duo is completed",
     "subtitle": "Two skyscrapers in Paris",
@@ -7870,16 +8050,6 @@
     "pageViews": 1190
   },
   {
-    "qid": "Q1264855",
-    "title": "The Index is completed",
-    "subtitle": "Mixed-use in Plot- DIFC, Dubai",
-    "year": 2011,
-    "fact": "The Index is a 328 m (1,076 ft) tall, 80-storey skyscraper in Dubai, United Arab Emirates.",
-    "wikipediaSlug": "The_Index_(Dubai)",
-    "image": "The_Index_Dubai_20241101.jpg",
-    "pageViews": 1187
-  },
-  {
     "qid": "Q5294275",
     "title": "Sayyidah Zaynab Mosque is built",
     "subtitle": "Islamic Shrine in Damascus, Syria",
@@ -7887,6 +8057,16 @@
     "fact": "The Sayyida Zaynab Mosque is a Twelver Shi'ite mosque located in Sayyidah Zaynab near the capital city of Damascus, Syria.",
     "wikipediaSlug": "Sayyida_Zaynab_Mosque,_Syria",
     "image": "Sayyidah_Zaynab_Mosque_Night.jpg",
+    "pageViews": 1187
+  },
+  {
+    "qid": "Q1264855",
+    "title": "The Index is completed",
+    "subtitle": "Mixed-use in Plot- DIFC, Dubai",
+    "year": 2011,
+    "fact": "The Index is a 328 m (1,076 ft) tall, 80-storey skyscraper in Dubai, United Arab Emirates.",
+    "wikipediaSlug": "The_Index_(Dubai)",
+    "image": "The_Index_Dubai_20241101.jpg",
     "pageViews": 1187
   },
   {
@@ -7997,6 +8177,16 @@
     "fact": "Santiago Metropolitan Cathedral is the seat of the Archdiocese of Santiago and the main temple of the Catholic Church in that country.",
     "wikipediaSlug": "Santiago_Metropolitan_Cathedral",
     "image": "2017_Santiago_de_Chile_-_Catedral_de_Santiago.jpg",
+    "pageViews": 1174
+  },
+  {
+    "qid": "Q2744462",
+    "title": "Belz Beis HaMedrash HaGadol is built",
+    "subtitle": "Large Hasidic synagogue in Jerusalem",
+    "year": 2002,
+    "fact": "The Belz Great Synagogue is a Hasidic Jewish congregation and synagogue, located at 7 Binat Yisas'har Street, in the Kiryat Belz neighborhood of Jerusalem, Israel.",
+    "wikipediaSlug": "Belz_Great_Synagogue",
+    "image": "Belz_World_Center_Outside.jpg",
     "pageViews": 1174
   },
   {
@@ -8510,6 +8700,16 @@
     "pageViews": 1056
   },
   {
+    "qid": "Q1151208",
+    "title": "Montreal City Hall is built",
+    "subtitle": "City hall of Montreal",
+    "year": 1878,
+    "fact": "The five-story Montreal City Hall is the seat of local government in Montreal, Quebec, Canada.",
+    "wikipediaSlug": "Montreal_City_Hall",
+    "image": "Montreal_City_Hall_in_the_morning.jpg",
+    "pageViews": 1051
+  },
+  {
     "qid": "Q2326446",
     "title": "Kowloon Mosque and Islamic Centre is completed",
     "subtitle": "Mosque and Islamic center in Hong Kong",
@@ -8527,6 +8727,16 @@
     "fact": "Grimeton Radio Station in southern Sweden, close to Varberg in Halland, is an early longwave transatlantic wireless telegraphy station built in 1922–1924, that has been preserved as a historical site.",
     "wikipediaSlug": "Grimeton_Radio_Station",
     "image": "Varberg_Radio_Station.jpg",
+    "pageViews": 1049
+  },
+  {
+    "qid": "Q1774820",
+    "title": "Parc1 is built",
+    "subtitle": "Supertall skyscraper in Seoul",
+    "year": 2020,
+    "fact": "Parc1 (Korean: 파크원) is a complex of buildings in Yeouido, Seoul, South Korea.",
+    "wikipediaSlug": "Parc1",
+    "image": "The_Hyundai_Seoul_Yeoui-dong_1.jpg",
     "pageViews": 1049
   },
   {
@@ -8680,6 +8890,16 @@
     "pageViews": 1026
   },
   {
+    "qid": "Q15071570",
+    "title": "Bali Mandara Toll Road is built",
+    "subtitle": "Road in Indonesia",
+    "year": 2013,
+    "fact": "Bali Mandara Toll Road or Nusa Dua-Ngurah Rai-Benoa Toll Road is a controlled-access toll road carried by a bridge stretching across the Gulf of Benoa.",
+    "wikipediaSlug": "Bali_Mandara_Toll_Road",
+    "image": "Tol_Benoa-Jimbaran_(27432911116).jpg",
+    "pageViews": 1026
+  },
+  {
     "qid": "Q48605",
     "title": "León Cathedral is built",
     "subtitle": "Cathedral in Nicaragua",
@@ -8732,7 +8952,7 @@
   {
     "qid": "Q595802",
     "title": "Museum Plantin-Moretus is founded",
-    "subtitle": "Museum in Antwerp",
+    "subtitle": "Museum in Antwerp, Belgium",
     "year": 1877,
     "fact": "The Plantin–Moretus Museum is a printing museum in Antwerp, Belgium which focuses on the work of the 16th-century printers Christophe Plantin and Jan Moretus.",
     "wikipediaSlug": "Plantin%E2%80%93Moretus_Museum",

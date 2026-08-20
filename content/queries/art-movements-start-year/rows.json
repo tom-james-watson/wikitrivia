@@ -15,25 +15,25 @@
     "item": "http://www.wikidata.org/entity/Q37853",
     "itemLabel": "Baroque",
     "year": "1590",
-    "sitelinks": "127"
+    "sitelinks": "128"
   },
   {
     "item": "http://www.wikidata.org/entity/Q39427",
     "itemLabel": "surrealism",
     "year": "1920",
-    "sitelinks": "117"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40415",
     "itemLabel": "Impressionism",
     "year": "1860",
-    "sitelinks": "112"
+    "sitelinks": "115"
   },
   {
     "item": "http://www.wikidata.org/entity/Q6010",
     "itemLabel": "rapping",
     "year": "1970",
-    "sitelinks": "106"
+    "sitelinks": "107"
   },
   {
     "item": "http://www.wikidata.org/entity/Q42934",
@@ -111,7 +111,7 @@
     "item": "http://www.wikidata.org/entity/Q14378",
     "itemLabel": "Neoclassicism",
     "year": "1760",
-    "sitelinks": "77"
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q166713",
@@ -120,15 +120,15 @@
     "sitelinks": "73"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q131808",
-    "itemLabel": "Mannerism",
-    "year": "1520",
-    "sitelinks": "71"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q173782",
     "itemLabel": "Art Deco",
     "year": "1910",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131808",
+    "itemLabel": "Mannerism",
+    "year": "1520",
     "sitelinks": "71"
   },
   {
@@ -144,16 +144,16 @@
     "sitelinks": "68"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q180902",
+    "itemLabel": "socialist realism",
+    "year": "1932",
+    "sitelinks": "68"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q185905",
     "itemLabel": "ukiyo-e",
     "year": "1700",
     "sitelinks": "68"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q180902",
-    "itemLabel": "socialist realism",
-    "year": "1932",
-    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191970",
@@ -174,16 +174,16 @@
     "sitelinks": "62"
   },
   {
+    "item": "http://www.wikidata.org/entity/Q38166",
+    "itemLabel": "modern art",
+    "year": "1860",
+    "sitelinks": "61"
+  },
+  {
     "item": "http://www.wikidata.org/entity/Q207103",
     "itemLabel": "Constructivism",
     "year": "1913",
     "sitelinks": "60"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q38166",
-    "itemLabel": "modern art",
-    "year": "1860",
-    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207445",
@@ -213,7 +213,7 @@
     "item": "http://www.wikidata.org/entity/Q157123",
     "itemLabel": "Carolingian Renaissance",
     "year": "800",
-    "sitelinks": "50"
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q208208",
@@ -243,12 +243,18 @@
     "item": "http://www.wikidata.org/entity/Q152778",
     "itemLabel": "Die Brücke",
     "year": "1905",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q751880",
     "itemLabel": "Japonisme",
     "year": "1858",
     "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q503708",
+    "itemLabel": "Les Nabis",
+    "year": "1888",
+    "sitelinks": "40"
   }
 ]

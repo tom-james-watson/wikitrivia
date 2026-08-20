@@ -11,7 +11,7 @@
   },
   {
     "qid": "Q39619",
-    "title": "Alī ibn Abī Ṭālib dies",
+    "title": "ʻAlī ibn Abī Ṭālib dies",
     "subtitle": null,
     "year": 661,
     "fact": "Ali ibn Abi Talib was the fourth Rashidun caliph who ruled from 656 CE until his assassination in 661, as well as the first Shia Imam.",
@@ -121,7 +121,7 @@
   },
   {
     "qid": "Q8467",
-    "title": "Umar ibn Al-Khattāb dies",
+    "title": "ʻUmar ibn al-khiṭāb dies",
     "subtitle": null,
     "year": 644,
     "fact": "Umar ibn al-Khattab, also spelled Omar, was the second Rashidun caliph, ruling from August 634 until his assassination in 644.",
@@ -431,8 +431,8 @@
   },
   {
     "qid": "Q9294",
-    "title": "Ibn Khaldun dies",
-    "subtitle": "Arab historiographer and historian",
+    "title": "Ibn Khaldūn dies",
+    "subtitle": "Historiographer and historian",
     "year": 1406,
     "fact": "Ibn Khaldun was an Arab scholar, historian, philosopher, and sociologist.",
     "wikipediaSlug": "Ibn_Khaldun",
@@ -541,7 +541,7 @@
   },
   {
     "qid": "Q39837",
-    "title": "Averroes dies",
+    "title": "Ibn Rushd dies",
     "subtitle": "Arab Andalusian Muslim writer and philosopher",
     "year": 1198,
     "fact": "Ibn Rushd, Latinized as Averroes, was an Andalusian polymath and jurist who was proficient in a variety of intellectual fields, including philosophy, theology, medicine, astronomy, physics, psychology, mathematics, neurology, Islamic jurisprudence and law, and linguistics.",
@@ -670,16 +670,6 @@
     "pageViews": 13306
   },
   {
-    "qid": "Q311820",
-    "title": "Wat Tyler dies",
-    "subtitle": "English rebel",
-    "year": 1381,
-    "fact": "Wat Tyler was a leader of the 1381 Peasants' Revolt in England.",
-    "wikipediaSlug": "Wat_Tyler",
-    "image": "DeathWatTyler.jpg",
-    "pageViews": 12778
-  },
-  {
     "qid": "Q208961",
     "title": "Brendan the Navigator dies",
     "subtitle": "Irish monastic saint",
@@ -698,16 +688,6 @@
     "wikipediaSlug": "Murasaki_Shikibu",
     "image": "Murasaki-Shikibu-composing-Genji-Monogatari.png",
     "pageViews": 12035
-  },
-  {
-    "qid": "Q141317",
-    "title": "Al-Mukhtar dies",
-    "subtitle": "Pro-Alid Arab revolutionary",
-    "year": 687,
-    "fact": "Al-Mukhtar ibn Abi Ubayd al-Thaqafi was an Arab Pro-Alid revolutionary based in Kufa, who led a rebellion against the Umayyad Caliphate in 685 and ruled over most of Iraq for eighteen months during the Second Fitna.",
-    "wikipediaSlug": "Mukhtar_al-Thaqafi",
-    "image": "Jpg.لوحةـالمختار_ـالثقفي.jpg",
-    "pageViews": 11691
   },
   {
     "qid": "Q587697",
@@ -731,7 +711,7 @@
   },
   {
     "qid": "Q25088",
-    "title": "Muhammad al-Jawad dies",
+    "title": "Muḥammad al-Jawwād dies",
     "subtitle": "Ninth of the Twelve Imams of Twelver Shi'ism",
     "year": 835,
     "fact": "Muhammad ibn Ali al-Jawad was a descendant of the Islamic prophet Muhammad and the ninth of the Twelve Imams, succeeding his father, Ali al-Rida.",
@@ -751,13 +731,23 @@
   },
   {
     "qid": "Q293599",
-    "title": "Abbas ibn Abd al-Muttalib dies",
+    "title": "Al-ʻAbbās dies",
     "subtitle": "Paternal uncle of Muhammad",
     "year": 653,
     "fact": "Al-Abbas ibn Abd al-Muttalib was a paternal uncle and sahabi (companion) of the Islamic prophet Muhammad, just three years older than his nephew.",
     "wikipediaSlug": "Abbas_ibn_Abd_al-Muttalib",
     "image": "New_York_Public_Library,_Spencer_Collection_Turk._MS._3_Siyar-i_Nabî_fol._57r_Abû_Tâlib,_'Abbâs_ibn_al-Muttalib,_and_other_leaders_of_the_Quraysh_question_Muhammad_about_Isra'_and_Mi'raj.jpg",
     "pageViews": 9786
+  },
+  {
+    "qid": "Q29000",
+    "title": "Abd ar-Rahman I dies",
+    "subtitle": null,
+    "year": 788,
+    "fact": "Abd al-Rahman ibn Mu'awiya, commonly known as Abd al-Rahman I, was the founder and first emir of the Emirate of Córdoba, ruling from 756 to 788.",
+    "wikipediaSlug": "Abd_al-Rahman_I",
+    "image": "Dirham_abd_al_rahman_i_21816.jpg",
+    "pageViews": 9242
   },
   {
     "qid": "Q182046",
@@ -788,6 +778,16 @@
     "wikipediaSlug": "Babak_Khorramdin",
     "image": "Papak_Xorramdin.jpg",
     "pageViews": 6429
+  },
+  {
+    "qid": "Q317787",
+    "title": "Ibn Hazm dies",
+    "subtitle": "Andalusian Muslim polymath, historian, jurist, philosopher and theologian",
+    "year": 1064,
+    "fact": "Ibn Ḥazm was an Andalusi Muslim polymath, historian, traditionist, jurist, philosopher, and theologian, born in the Córdoban Caliphate, present-day Spain.",
+    "wikipediaSlug": "Ibn_Hazm",
+    "image": "Statue_of_Abén_Házam_(Ibn_Hazm)_in_Córdoba,_2021.jpg",
+    "pageViews": 6273
   },
   {
     "qid": "Q188995",
@@ -861,7 +861,7 @@
   },
   {
     "qid": "Q2704613",
-    "title": "Abul Hasan ash-Shadhili dies",
+    "title": "Abū al-Ḥasan al-Shādhilī dies",
     "subtitle": "Founder of the Shadhili order",
     "year": 1258,
     "fact": "Abu al-Hasan al-Shadhili also known as Sheikh al-Shadhili was an influential Moroccan Islamic scholar and Sufi, founder of the Shadhili Sufi order.",
@@ -872,7 +872,7 @@
   {
     "qid": "Q565148",
     "title": "Qiu Chuji dies",
-    "subtitle": "Taoist leader",
+    "subtitle": "Founder of the Longmen school of Quanzhen Taoism",
     "year": 1227,
     "fact": "Qiu Chuji, courtesy name Tongmi (通密), also known by his Taoist name Master Changchun, was a renowned Taoist master from late Southern Song/Jin dynasty and a famous disciple of Wang Chongyang, the founder of Quanzhen School.",
     "wikipediaSlug": "Qiu_Chuji",

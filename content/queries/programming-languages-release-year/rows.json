@@ -3,31 +3,37 @@
     "item": "http://www.wikidata.org/entity/Q59",
     "itemLabel": "PHP",
     "year": "1995",
-    "sitelinks": "165"
+    "sitelinks": "166"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2005",
+    "itemLabel": "JavaScript",
+    "year": "1995",
+    "sitelinks": "163"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28865",
     "itemLabel": "Python",
     "year": "1991",
-    "sitelinks": "161"
+    "sitelinks": "163"
   },
   {
     "item": "http://www.wikidata.org/entity/Q251",
     "itemLabel": "Java",
     "year": "1995",
-    "sitelinks": "158"
+    "sitelinks": "159"
   },
   {
     "item": "http://www.wikidata.org/entity/Q46441",
     "itemLabel": "Cascading Style Sheets",
     "year": "1996",
-    "sitelinks": "133"
+    "sitelinks": "134"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2115",
     "itemLabel": "XML",
     "year": "1998",
-    "sitelinks": "99"
+    "sitelinks": "100"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207316",
@@ -37,21 +43,21 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q2378",
-    "itemLabel": "Visual Basic",
+    "itemLabel": "Classic Visual Basic",
     "year": "1991",
-    "sitelinks": "91"
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83303",
     "itemLabel": "Fortran",
     "year": "1957",
-    "sitelinks": "90"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q165436",
     "itemLabel": "assembly language",
     "year": "1949",
-    "sitelinks": "85"
+    "sitelinks": "86"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132874",
@@ -63,115 +69,133 @@
     "item": "http://www.wikidata.org/entity/Q169478",
     "itemLabel": "MATLAB",
     "year": "1984",
-    "sitelinks": "80"
+    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q206904",
     "itemLabel": "R",
     "year": "1993",
-    "sitelinks": "78"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q134471",
-    "itemLabel": "AJAX",
-    "year": "2005",
-    "sitelinks": "71"
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q163468",
     "itemLabel": "Prolog",
     "year": "1972",
-    "sitelinks": "67"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37227",
     "itemLabel": "Go",
     "year": "2009",
-    "sitelinks": "66"
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q275131",
     "itemLabel": "Scratch",
     "year": "2003",
-    "sitelinks": "62"
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3816639",
+    "itemLabel": "Kotlin",
+    "year": "2011",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17118377",
+    "itemLabel": "Swift",
+    "year": "2014",
+    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q50077",
-    "itemLabel": "Visual Basic",
+    "itemLabel": "Visual Basic .NET",
     "year": "2001",
-    "sitelinks": "56"
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188436",
     "itemLabel": "ALGOL",
     "year": "1959",
-    "sitelinks": "54"
+    "sitelinks": "56"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234657",
     "itemLabel": "ActionScript",
     "year": "1998",
-    "sitelinks": "54"
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5301",
     "itemLabel": "TeX",
     "year": "1978",
-    "sitelinks": "52"
+    "sitelinks": "54"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223679",
     "itemLabel": "GNU Octave",
     "year": "1988",
-    "sitelinks": "52"
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q344266",
     "itemLabel": "Active Server Pages",
     "year": "1996",
-    "sitelinks": "51"
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q235086",
     "itemLabel": "Smalltalk",
     "year": "1972",
-    "sitelinks": "51"
+    "sitelinks": "52"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188531",
     "itemLabel": "Objective-C",
     "year": "1984",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q460584",
+    "itemLabel": "Scala",
+    "year": "2004",
     "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q244627",
     "itemLabel": "Brainfuck",
     "year": "1993",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q296187",
+    "itemLabel": "APL",
+    "year": "1966",
     "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q460584",
-    "itemLabel": "Scala",
-    "year": "2004",
+    "item": "http://www.wikidata.org/entity/Q319268",
+    "itemLabel": "D",
+    "year": "2001",
     "sitelinks": "49"
   },
   {
     "item": "http://www.wikidata.org/entity/Q201436",
     "itemLabel": "Logo",
     "year": "1967",
-    "sitelinks": "48"
+    "sitelinks": "49"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q319268",
-    "itemLabel": "D",
-    "year": "2001",
+    "item": "http://www.wikidata.org/entity/Q5288",
+    "itemLabel": "Tcl",
+    "year": "1988",
     "sitelinks": "47"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q296187",
-    "itemLabel": "APL",
-    "year": "1966",
-    "sitelinks": "47"
+    "item": "http://www.wikidata.org/entity/Q32110",
+    "itemLabel": "XSLT",
+    "year": "1999",
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81294",
@@ -180,45 +204,39 @@
     "sitelinks": "46"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q5288",
-    "itemLabel": "Tcl",
-    "year": "1988",
-    "sitelinks": "46"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q32110",
-    "itemLabel": "XSLT",
-    "year": "1999",
-    "sitelinks": "44"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q978185",
     "itemLabel": "TypeScript",
     "year": "2012",
-    "sitelinks": "43"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q212587",
     "itemLabel": "OCaml",
     "year": "1996",
-    "sitelinks": "41"
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q13743",
     "itemLabel": "Visual Basic Script",
     "year": "1996",
-    "sitelinks": "41"
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q51798",
     "itemLabel": "Clojure",
     "year": "2007",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q667566",
     "itemLabel": "Visual Basic for Applications",
     "year": "1993",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q275472",
+    "itemLabel": "Forth",
+    "year": "1970",
     "sitelinks": "40"
   },
   {
@@ -228,34 +246,76 @@
     "sitelinks": "39"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q275472",
-    "itemLabel": "Forth",
-    "year": "1970",
+    "item": "http://www.wikidata.org/entity/Q54871",
+    "itemLabel": "SPARQL",
+    "year": "2008",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2613697",
+    "itemLabel": "Julia",
+    "year": "2009",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q797302",
+    "itemLabel": "B",
+    "year": "1969",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q504453",
+    "itemLabel": "Apache Groovy",
+    "year": "2003",
     "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q223433",
     "itemLabel": "PL/I",
     "year": "1964",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q380523",
     "itemLabel": "ABAP",
     "year": "1983",
+    "sitelinks": "38"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q849146",
+    "itemLabel": "Common Lisp",
+    "year": "1984",
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q504453",
-    "itemLabel": "Apache Groovy",
-    "year": "2003",
+    "item": "http://www.wikidata.org/entity/Q648124",
+    "itemLabel": "Gambas",
+    "year": "1999",
     "sitelinks": "37"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q54871",
-    "itemLabel": "SPARQL",
-    "year": "2008",
+    "item": "http://www.wikidata.org/entity/Q648619",
+    "itemLabel": "F#",
+    "year": "2005",
     "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q212569",
+    "itemLabel": "Simula",
+    "year": "1962",
+    "sitelinks": "37"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q473201",
+    "itemLabel": "Turbo Pascal",
+    "year": "1983",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16340",
+    "itemLabel": "XPath",
+    "year": "1999",
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q139380",
@@ -264,46 +324,34 @@
     "sitelinks": "36"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q648124",
-    "itemLabel": "Gambas",
-    "year": "1999",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q648619",
-    "itemLabel": "F#",
-    "year": "2005",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q797302",
-    "itemLabel": "B",
-    "year": "1969",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q849146",
-    "itemLabel": "Common Lisp",
-    "year": "1984",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q2613697",
-    "itemLabel": "Julia",
-    "year": "2009",
-    "sitelinks": "36"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q473201",
-    "itemLabel": "Turbo Pascal",
-    "year": "1983",
+    "item": "http://www.wikidata.org/entity/Q810009",
+    "itemLabel": "BCPL",
+    "year": "1967",
     "sitelinks": "35"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q212569",
-    "itemLabel": "Simula",
-    "year": "1962",
+    "item": "http://www.wikidata.org/entity/Q41574",
+    "itemLabel": "PL/SQL",
+    "year": "1992",
     "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q381247",
+    "itemLabel": "QBasic",
+    "year": "1991",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q633894",
+    "itemLabel": "Object Pascal",
+    "year": "1986",
+    "sitelinks": "34"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1057802",
+    "itemLabel": "ABC",
+    "year": "1975",
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q300867",
@@ -312,57 +360,57 @@
     "sitelinks": "34"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q16340",
-    "itemLabel": "XPath",
-    "year": "1999",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q41574",
-    "itemLabel": "PL/SQL",
-    "year": "1992",
-    "sitelinks": "34"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q633894",
-    "itemLabel": "Object Pascal",
-    "year": "1986",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q1057802",
-    "itemLabel": "ABC",
-    "year": "1975",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q810009",
-    "itemLabel": "BCPL",
-    "year": "1967",
-    "sitelinks": "33"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q381247",
-    "itemLabel": "QBasic",
-    "year": "1991",
-    "sitelinks": "33"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q725401",
     "itemLabel": "VisiCalc",
     "year": "1978",
-    "sitelinks": "32"
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1053535",
     "itemLabel": "Processing",
     "year": "2001",
-    "sitelinks": "32"
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q685820",
+    "itemLabel": "REXX",
+    "year": "1979",
+    "sitelinks": "33"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q850661",
+    "itemLabel": "XQuery",
+    "year": "2007",
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q860654",
     "itemLabel": "ML",
     "year": "1973",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q385970",
+    "itemLabel": "Apache Ant",
+    "year": "2000",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q784845",
+    "itemLabel": "AutoIt",
+    "year": "1999",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5362035",
+    "itemLabel": "Elixir",
+    "year": "2011",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20155677",
+    "itemLabel": "WebAssembly",
+    "year": "2015",
     "sitelinks": "31"
   },
   {
@@ -372,39 +420,21 @@
     "sitelinks": "31"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q685820",
-    "itemLabel": "REXX",
-    "year": "1979",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q385970",
-    "itemLabel": "Apache Ant",
-    "year": "2000",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q784845",
-    "itemLabel": "AutoIt",
-    "year": "1999",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q850661",
-    "itemLabel": "XQuery",
-    "year": "2007",
-    "sitelinks": "31"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q5362035",
-    "itemLabel": "Elixir",
-    "year": "2011",
-    "sitelinks": "30"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q195929",
     "itemLabel": "FreeBASIC",
     "year": "2004",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q844595",
+    "itemLabel": "Bourne shell",
+    "year": "1977",
+    "sitelinks": "29"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q681360",
+    "itemLabel": "OpenCL",
+    "year": "2009",
     "sitelinks": "29"
   },
   {
@@ -414,21 +444,39 @@
     "sitelinks": "29"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q20155677",
-    "itemLabel": "WebAssembly",
-    "year": "2015",
-    "sitelinks": "29"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q844595",
-    "itemLabel": "Bourne shell",
-    "year": "1977",
+    "item": "http://www.wikidata.org/entity/Q753868",
+    "itemLabel": "Visual FoxPro",
+    "year": "1984",
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q681360",
-    "itemLabel": "OpenCL",
-    "year": "2009",
+    "item": "http://www.wikidata.org/entity/Q777358",
+    "itemLabel": "Modula-2",
+    "year": "1978",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q726218",
+    "itemLabel": "XML User Interface Language",
+    "year": "1999",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q553514",
+    "itemLabel": "JScript",
+    "year": "1996",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q620464",
+    "itemLabel": "G-code",
+    "year": "1950",
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q263544",
+    "itemLabel": "Common Intermediate Language",
+    "year": "2000",
     "sitelinks": "28"
   },
   {
@@ -438,51 +486,57 @@
     "sitelinks": "28"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q753868",
-    "itemLabel": "Visual FoxPro",
-    "year": "1984",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q777358",
-    "itemLabel": "Modula-2",
-    "year": "1978",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q553514",
-    "itemLabel": "JScript",
-    "year": "1996",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q620464",
-    "itemLabel": "G-code",
-    "year": "1950",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q726218",
-    "itemLabel": "XML User Interface Language",
-    "year": "1999",
-    "sitelinks": "27"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q263544",
-    "itemLabel": "Common Intermediate Language",
-    "year": "2000",
-    "sitelinks": "27"
-  },
-  {
     "item": "http://www.wikidata.org/entity/Q51885456",
     "itemLabel": "Zig",
     "year": "2015",
-    "sitelinks": "27"
+    "sitelinks": "28"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1572865",
+    "itemLabel": "Sass",
+    "year": "2006",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q892948",
+    "itemLabel": "Boo",
+    "year": "2003",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q597330",
+    "itemLabel": "Standard ML",
+    "year": "1983",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q258778",
+    "itemLabel": "Extensible Application Markup Language",
+    "year": "2008",
+    "sitelinks": "26"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34280",
+    "itemLabel": "Plankalkül",
+    "year": "1942",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1106819",
+    "itemLabel": "CoffeeScript",
+    "year": "2009",
+    "sitelinks": "25"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1133580",
     "itemLabel": "Mathcad",
     "year": "1986",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q840543",
+    "itemLabel": "RPG",
+    "year": "1959",
     "sitelinks": "25"
   },
   {
@@ -492,27 +546,9 @@
     "sitelinks": "25"
   },
   {
-    "item": "http://www.wikidata.org/entity/Q1572865",
-    "itemLabel": "Sass",
-    "year": "2006",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q892948",
-    "itemLabel": "Boo",
-    "year": "2003",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q258778",
-    "itemLabel": "Extensible Application Markup Language",
-    "year": "2008",
-    "sitelinks": "25"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q597330",
-    "itemLabel": "Standard ML",
-    "year": "1983",
+    "item": "http://www.wikidata.org/entity/Q286196",
+    "itemLabel": "Altair BASIC",
+    "year": "1975",
     "sitelinks": "25"
   }
 ]
