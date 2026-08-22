@@ -31,7 +31,7 @@ export default function DailyPage() {
     );
   }, [dateKey]);
 
-  if (!started || completedScore !== null) {
+  if (!started && completedScore === null) {
     return (
       <>
         <AppHead title="Daily | Wikitrivia" />

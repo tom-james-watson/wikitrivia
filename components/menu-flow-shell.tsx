@@ -456,7 +456,9 @@ export default function MenuFlowShell() {
   }, [syncDailyCompletionState]);
 
   const showDailyGame =
-    path === "/daily" && dailyStarted && completedScore === null;
+    path === "/daily" &&
+    dailyCompletionReady &&
+    (dailyStarted || completedScore !== null);
   const showFreePlayGame = hasStartedPendingRoute && !!activeSelectionRoute;
   const showGameScreen = showDailyGame || showFreePlayGame;
   const contextualAllHref = React.useMemo(() => {
