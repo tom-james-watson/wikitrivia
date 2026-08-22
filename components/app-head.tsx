@@ -38,6 +38,18 @@ export default function AppHead(props: Props) {
         type="image/png"
       />
       <link rel="icon" href="/favicon-light.png" type="image/png" />
+      <link
+        rel="apple-touch-icon"
+        href="/apple-touch-icon.png"
+        sizes="180x180"
+      />
+      <link rel="manifest" href="/manifest.webmanifest" />
+      <meta name="application-name" content="Wikitrivia" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+      <meta name="apple-mobile-web-app-title" content="Wikitrivia" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="theme-color" content="#f8f8f8" />
     </Head>
   );
 }
