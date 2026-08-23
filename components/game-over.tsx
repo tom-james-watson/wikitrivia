@@ -22,6 +22,7 @@ interface Props {
   routePath: string;
   score: number;
   selectionRoute?: SelectionRoute;
+  showImmediately?: boolean;
 }
 
 const defaultShareText = "Share";
@@ -37,6 +38,7 @@ export default function GameOver(props: Props) {
     routePath,
     score,
     selectionRoute,
+    showImmediately = false,
   } = props;
 
   const [shareText, setShareText] = React.useState(defaultShareText);
@@ -101,13 +103,13 @@ export default function GameOver(props: Props) {
       <motion.div
         animate={{ opacity: 1 }}
         className={styles.gameOver}
-        initial={{ opacity: 0 }}
+        initial={showImmediately ? false : { opacity: 0 }}
         transition={{ duration: 0.24, ease: "easeOut" }}
       >
         <motion.div
           animate={{ opacity: 1 }}
           className={styles.dailySummary}
-          initial={{ opacity: 0 }}
+          initial={showImmediately ? false : { opacity: 0 }}
           transition={{ delay: 0.14, duration: 0.28, ease: "easeOut" }}
         >
           <DailyCompletedSummary

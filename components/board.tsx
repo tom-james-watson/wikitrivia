@@ -69,6 +69,7 @@ export default function Board(props: Props) {
     setState,
     updateHighscore,
   } = props;
+  const restoredCompletedGame = restoredFromSnapshot && state.lives <= 0;
 
   const [isDragging, setIsDragging] = React.useState(false);
   const [deckState, setDeckState] = React.useState<
@@ -97,7 +98,7 @@ export default function Board(props: Props) {
     React.useState<PlacementAnimationState | null>(null);
   const [gameOverPhase, setGameOverPhase] = React.useState<
     "hud-exit" | "linger" | "playing" | "summary"
-  >("playing");
+  >(restoredCompletedGame ? "summary" : "playing");
   const [hiddenPlayedCardId, setHiddenPlayedCardId] = React.useState<
     null | string
   >(null);
@@ -679,10 +680,11 @@ export default function Board(props: Props) {
                 animate={{ opacity: 1 }}
                 className={styles.statusLayer}
                 exit={{ opacity: 0 }}
-                initial={{ opacity: 0 }}
+                initial={restoredCompletedGame ? false : { opacity: 0 }}
                 transition={{ duration: 0.28, ease: "easeOut" }}
               >
                 <GameOver
+                  showImmediately={restoredCompletedGame}
                   dailyDateKey={dailyDateKey}
                   difficulty={difficulty}
                   gameMode={gameMode}
