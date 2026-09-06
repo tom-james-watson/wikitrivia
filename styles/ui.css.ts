@@ -190,7 +190,6 @@ export const heroWordmark = style({
   fontFamily: vars.font.display,
   fontSize: vars.fontSize.hero,
   fontWeight: vars.fontWeight.bold,
-  letterSpacing: "-0.04em",
   lineHeight: "0.94",
   margin: 0,
   textWrap: "balance",
