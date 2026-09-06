@@ -16,22 +16,40 @@ export default function HomeScreen() {
               <ButtonLink fullWidth href="/daily" text="Daily" />
               <ButtonLink fullWidth href="/play" minimal text="Free play" />
             </div>
-            <a
-              className={styles.pinstinctLink}
-              href="https://pinstinct.tomjwatson.com"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <Image
-                alt=""
-                aria-hidden="true"
-                className={styles.pinstinctIcon}
-                height={20}
-                src="/pinstinct-favicon.svg"
-                width={20}
-              />
-              <span>Try Pinstinct, my new daily map game.</span>
-            </a>
+            <div className={styles.otherGames}>
+              <a
+                className={styles.gameLink}
+                href="https://timeframe.tomjwatson.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <Image
+                  alt=""
+                  aria-hidden="true"
+                  className={styles.gameIcon}
+                  height={20}
+                  src="/timeframe-favicon.svg"
+                  width={20}
+                />
+                <span>Try Timeframe, my new daily art game.</span>
+              </a>
+              <a
+                className={styles.gameLink}
+                href="https://pinstinct.tomjwatson.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <Image
+                  alt=""
+                  aria-hidden="true"
+                  className={styles.gameIcon}
+                  height={20}
+                  src="/pinstinct-favicon.svg"
+                  width={20}
+                />
+                <span>Try Pinstinct, my daily map game.</span>
+              </a>
+            </div>
           </div>
           <SiteFooter className={styles.footer} />
         </div>

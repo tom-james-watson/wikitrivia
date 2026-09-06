@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Timeframe</title>
+  <style>
+    :root { color: #000000; }
+    @media (prefers-color-scheme: dark) {
+      :root { color: #ffffff; }
+    }
+  </style>
+  <!--
+    The scoring curve, which is the one thing on screen that belongs to this
+    game and nothing else: a normal distribution over the years, drawn under the
+    dial when an answer lands.
+
+    Sampled from the function rather than drawn with beziers by eye, and then
+    shifted so that it reaches its baseline exactly at both edges — a Gaussian
+    only approaches zero, so left alone the tails are cut off part way up and
+    the mark reads as a tent with its sides sliced off. Shallow for the same
+    reason: the taller it is the more it looks like a triangle and the less like
+    a distribution.
+  -->
+  <path d="M0.0 22.5 L0.33 22.38 L0.67 22.26 L1.0 22.12 L1.33 21.97 L1.67 21.81 L2.0 21.63 L2.33 21.44 L2.67 21.24 L3.0 21.03 L3.33 20.8 L3.67 20.56 L4.0 20.3 L4.33 20.03 L4.67 19.75 L5.0 19.45 L5.33 19.14 L5.67 18.81 L6.0 18.47 L6.33 18.12 L6.67 17.76 L7.0 17.39 L7.33 17.01 L7.67 16.62 L8.0 16.23 L8.33 15.83 L8.67 15.43 L9.0 15.02 L9.33 14.62 L9.67 14.21 L10.0 13.81 L10.33 13.42 L10.67 13.03 L11.0 12.66 L11.33 12.3 L11.67 11.95 L12.0 11.61 L12.33 11.3 L12.67 11.0 L13.0 10.73 L13.33 10.48 L13.67 10.26 L14.0 10.06 L14.33 9.89 L14.67 9.75 L15.0 9.64 L15.33 9.56 L15.67 9.52 L16.0 9.5 L16.33 9.52 L16.67 9.56 L17.0 9.64 L17.33 9.75 L17.67 9.89 L18.0 10.06 L18.33 10.26 L18.67 10.48 L19.0 10.73 L19.33 11.0 L19.67 11.3 L20.0 11.61 L20.33 11.95 L20.67 12.3 L21.0 12.66 L21.33 13.03 L21.67 13.42 L22.0 13.81 L22.33 14.21 L22.67 14.62 L23.0 15.02 L23.33 15.43 L23.67 15.83 L24.0 16.23 L24.33 16.62 L24.67 17.01 L25.0 17.39 L25.33 17.76 L25.67 18.12 L26.0 18.47 L26.33 18.81 L26.67 19.14 L27.0 19.45 L27.33 19.75 L27.67 20.03 L28.0 20.3 L28.33 20.56 L28.67 20.8 L29.0 21.03 L29.33 21.24 L29.67 21.44 L30.0 21.63 L30.33 21.81 L30.67 21.97 L31.0 22.12 L31.33 22.26 L31.67 22.38 L32.0 22.5 L32.0 22.5 L0 22.5 Z" fill="currentColor" />
+</svg>

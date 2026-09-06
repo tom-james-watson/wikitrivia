@@ -45,7 +45,21 @@ export const actions = style({
   width: "100%",
 });
 
-export const pinstinctLink = style({
+/**
+ * The other games, stacked. There are two now, so they are a group rather than
+ * a one-off — and the same chip either way: they are alternatives to each
+ * other, and ranking them by styling one louder would be saying something
+ * neither of them means.
+ */
+export const otherGames = style({
+  alignItems: "center",
+  display: "flex",
+  flexDirection: "column",
+  gap: vars.space.md,
+  width: "100%",
+});
+
+export const gameLink = style({
   alignItems: "center",
   alignSelf: "center",
   background: vars.color.medalGoldFill,
@@ -73,7 +87,7 @@ export const pinstinctLink = style({
   textDecoration: "none",
 });
 
-export const pinstinctIcon = style({
+export const gameIcon = style({
   flex: "0 0 auto",
   height: vars.space.xl,
   width: vars.space.xl,
