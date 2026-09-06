@@ -23,7 +23,6 @@ export const wordmark = style({
   fontFamily: vars.font.display,
   fontSize: vars.fontSize["2xl"],
   fontWeight: vars.fontWeight.bold,
-  letterSpacing: "-0.04em",
   lineHeight: "0.96",
   textDecoration: "none",
 });
