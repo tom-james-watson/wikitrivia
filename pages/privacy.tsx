@@ -16,10 +16,8 @@ export default function PrivacyPage() {
               .
             </p>
             <p className={styles.text}>
-              Browser storage saves your progress and preferences and, in some
-              regions, usage history to measure return visits. Do Not Track and
-              Global Privacy Control disable usage-history storage. Clear site
-              data to remove stored information.
+              Browser storage saves your progress and preferences. Clear site
+              data to remove it.
             </p>
             <p className={styles.text}>
               We process technical and usage data to operate, secure and improve
@@ -29,9 +27,10 @@ export default function PrivacyPage() {
               do not sell personal data or use advertising trackers.
             </p>
             <p className={styles.text}>
-              Hosting, analytics and content providers receive IP addresses and
-              request details. Their privacy terms govern retention and
-              international processing, including applicable{" "}
+              Cloudflare, our hosting and analytics provider, and content
+              providers receive IP addresses and request details. Their privacy
+              terms govern retention and international processing, including
+              applicable{" "}
               <a href="https://www.cloudflare.com/cloudflare-customer-dpa/">
                 transfer safeguards
               </a>
