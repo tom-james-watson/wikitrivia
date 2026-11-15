@@ -679,8 +679,14 @@ export default function Board(props: Props) {
     }
 
     finishAnnounced.current = true;
-    announce({ type: "finish", mode: gameMode, day: dailyDateKey, score });
-  }, [dailyDateKey, gameMode, isOver, score]);
+    announce({
+      type: "finish",
+      mode: gameMode,
+      day: dailyDateKey,
+      score,
+      detail: selectionRoute?.nodeId,
+    });
+  }, [dailyDateKey, gameMode, isOver, score, selectionRoute]);
 
   const placed = state.played.length - 1;
   const progress = React.useRef({ isOver, placed, left: false });
