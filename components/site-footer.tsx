@@ -1,4 +1,5 @@
 import classNames from "classnames";
+import Link from "next/link";
 import GitHubButton from "react-github-btn";
 import * as ui from "../styles/ui.css";
 
@@ -12,7 +13,7 @@ export default function SiteFooter(props: Props) {
   return (
     <div className={classNames(ui.footerNotes, className)}>
       <div>
-        All data sourced from{" "}
+        Data from{" "}
         <a
           href="https://www.wikidata.org"
           target="_blank"
@@ -28,7 +29,7 @@ export default function SiteFooter(props: Props) {
         >
           Wikipedia
         </a>
-        .
+        . <Link href="/privacy">Privacy</Link>.
       </div>
       <div>
         Have feedback? Please report it on{" "}

@@ -1,6 +1,7 @@
 import classNames from "classnames";
 import { AnimatePresence, motion } from "motion/react";
 import React from "react";
+import { announce } from "../lib/events";
 import {
   checkCorrect,
   drawNextCard,
@@ -653,6 +654,28 @@ export default function Board(props: Props) {
       updateHighscore(score);
     }
   }, [score, highscore, updateHighscore]);
+
+  const isOver = state.lives <= 0 || isDeckExhausted;
+  const startAnnounced = React.useRef(restoredFromSnapshot);
+  const finishAnnounced = React.useRef(restoredFromSnapshot && isOver);
+
+  React.useEffect(() => {
+    if (startAnnounced.current) {
+      return;
+    }
+
+    startAnnounced.current = true;
+    announce({ type: "start", mode: gameMode, day: dailyDateKey });
+  }, [dailyDateKey, gameMode]);
+
+  React.useEffect(() => {
+    if (!isOver || finishAnnounced.current) {
+      return;
+    }
+
+    finishAnnounced.current = true;
+    announce({ type: "finish", mode: gameMode, day: dailyDateKey, score });
+  }, [dailyDateKey, gameMode, isOver, score]);
 
   return (
     <div ref={boardRef} className={styles.wrapper}>

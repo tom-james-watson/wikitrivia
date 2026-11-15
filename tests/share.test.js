@@ -21,7 +21,7 @@ test("daily share text matches the new compact format", () => {
       "",
       "Score / 6 / Bronze",
       "",
-      "https://wikitrivia.tomjwatson.com/daily",
+      "https://wikitrivia.tomjwatson.com/daily?s=1",
     ].join("\n"),
   );
 });
@@ -52,7 +52,7 @@ test("free play share text includes category, difficulty, score, and best", () =
       "Score / 6 / Bronze",
       "Best / 25 / Gold",
       "",
-      "https://wikitrivia.tomjwatson.com/play/history/wars",
+      "https://wikitrivia.tomjwatson.com/play/history/wars?s=1",
     ].join("\n"),
   );
 });

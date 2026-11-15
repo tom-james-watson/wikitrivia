@@ -19,8 +19,8 @@ export default function HomeScreen() {
             <div className={styles.otherGames}>
               <a
                 className={styles.gameLink}
-                href="https://timeframe.tomjwatson.com"
-                rel="noopener noreferrer"
+                href="https://timeframe.tomjwatson.com/?from=wikitrivia"
+                rel="noopener"
                 target="_blank"
               >
                 <Image
@@ -35,8 +35,8 @@ export default function HomeScreen() {
               </a>
               <a
                 className={styles.gameLink}
-                href="https://pinstinct.tomjwatson.com"
-                rel="noopener noreferrer"
+                href="https://pinstinct.tomjwatson.com/?from=wikitrivia"
+                rel="noopener"
                 target="_blank"
               >
                 <Image

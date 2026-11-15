@@ -35,7 +35,7 @@ function getShareOrigin(): string {
 }
 
 export function buildShareUrl(path: string): string {
-  return `${getShareOrigin()}${path}`;
+  return `${getShareOrigin()}${path}?s=1`;
 }
 
 export function getShareResults(played: PlayedCard[]): boolean[] {
