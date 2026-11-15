@@ -1,5 +1,6 @@
 import React from "react";
 import { createDeckNodeMap } from "../lib/deck-tree";
+import { announce } from "../lib/events";
 import { Card } from "../types/cards";
 import { DeckNode } from "../types/decks";
 
@@ -19,12 +20,17 @@ const cachedDecks = new Map<string, Card[]>();
 const deckPromises = new Map<string, Promise<Card[]>>();
 
 async function fetchJson<T>(url: string): Promise<T> {
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Failed to fetch ${url}: ${response.status}`);
-  }
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch ${url}: ${response.status}`);
+    }
 
-  return (await response.json()) as T;
+    return (await response.json()) as T;
+  } catch (error) {
+    announce({ type: "error", detail: "deck" });
+    throw error;
+  }
 }
 
 async function fetchDeckTree(): Promise<DeckNode> {

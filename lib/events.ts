@@ -1,10 +1,12 @@
 import { GameMode } from "../types/routes";
 
 export interface GameEvent {
-  type: "start" | "finish" | "share";
-  mode: GameMode;
+  type: "start" | "finish" | "share" | "leave" | "error";
+  mode?: GameMode;
   day?: string;
   score?: number;
+  detail?: string;
+  progress?: number;
 }
 
 declare global {

@@ -665,8 +665,13 @@ export default function Board(props: Props) {
     }
 
     startAnnounced.current = true;
-    announce({ type: "start", mode: gameMode, day: dailyDateKey });
-  }, [dailyDateKey, gameMode]);
+    announce({
+      type: "start",
+      mode: gameMode,
+      day: dailyDateKey,
+      detail: selectionRoute?.nodeId,
+    });
+  }, [dailyDateKey, gameMode, selectionRoute]);
 
   React.useEffect(() => {
     if (!isOver || finishAnnounced.current) {
@@ -676,6 +681,38 @@ export default function Board(props: Props) {
     finishAnnounced.current = true;
     announce({ type: "finish", mode: gameMode, day: dailyDateKey, score });
   }, [dailyDateKey, gameMode, isOver, score]);
+
+  const placed = state.played.length - 1;
+  const progress = React.useRef({ isOver, placed, left: false });
+  React.useEffect(() => {
+    progress.current.isOver = isOver;
+    progress.current.placed = placed;
+  }, [isOver, placed]);
+
+  React.useEffect(() => {
+    const onHidden = () => {
+      const current = progress.current;
+      if (document.visibilityState !== "hidden") {
+        return;
+      }
+      if (current.isOver || current.left || current.placed < 1) {
+        return;
+      }
+
+      current.left = true;
+      announce({
+        type: "leave",
+        mode: gameMode,
+        day: dailyDateKey,
+        progress: current.placed,
+      });
+    };
+
+    document.addEventListener("visibilitychange", onHidden);
+    return () => {
+      document.removeEventListener("visibilitychange", onHidden);
+    };
+  }, [dailyDateKey, gameMode]);
 
   return (
     <div ref={boardRef} className={styles.wrapper}>

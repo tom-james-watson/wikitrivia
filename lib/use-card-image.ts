@@ -1,4 +1,5 @@
 import React from "react";
+import { announce } from "./events";
 
 type ImageStatus = "error" | "loaded" | "loading";
 
@@ -152,6 +153,10 @@ export function useCardImage(candidates: string[]): UseCardImageResult {
         settled = true;
         setResolvedImage(null);
         setResolvedSrc(candidates[0] ?? "");
+
+        if (candidates.length > 0) {
+          announce({ type: "error", detail: "image" });
+        }
       }
     };
 
