@@ -65,3 +65,7 @@ The data is sourced from [Wikidata](https://www.wikidata.org) and [Wikipedia](ht
 ### I found a card with incorrect data. What should I do?
 
 If the underlying Wikidata item is wrong, fix it directly on Wikidata. It will then get synced back into the game the next time the decks are updated.
+
+### Does Wikitrivia track me?
+
+The hosted game counts plays, finishes and shares anonymously, with no cookies, accounts or advertising trackers. See the [privacy page](https://wikitrivia.tomjwatson.com/privacy) for details.
