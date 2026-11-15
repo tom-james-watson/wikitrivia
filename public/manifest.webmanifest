@@ -18,6 +18,6 @@
   "name": "Wikitrivia",
   "scope": "/",
   "short_name": "Wikitrivia",
-  "start_url": "/",
+  "start_url": "/?from=app",
   "theme_color": "#f8f8f8"
 }

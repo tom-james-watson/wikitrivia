@@ -1,6 +1,7 @@
 import classNames from "classnames";
 import React from "react";
 import { DAILY_DIFFICULTY, formatTimeUntilNextDaily } from "../lib/daily";
+import { announce } from "../lib/events";
 import { buildShareText } from "../lib/share";
 import DailyCompletedSummary from "./daily-completed-summary";
 import { DAILY_DATE_LOCALE, formatDailyDate } from "./daily-meta-chips";
@@ -62,6 +63,7 @@ export default function DailyEntryScreen(props: Props) {
         score: completedScore,
       }),
     );
+    announce({ type: "share", mode: "daily", day: dailyDateKey });
     setShareText("Copied");
     window.setTimeout(() => {
       setShareText(defaultShareText);

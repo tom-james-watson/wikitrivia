@@ -7,6 +7,7 @@ import MenuFlowShell, {
   shouldUseMenuFlowShell,
 } from "../components/menu-flow-shell";
 import { NavigationSourceProvider } from "../components/navigation-source-provider";
+import { loadEventListener } from "../lib/events";
 import { FreePlayDifficultyProvider } from "../lib/use-free-play-difficulty";
 import * as uiStyles from "../styles/ui.css";
 
@@ -31,6 +32,13 @@ function App({ Component, pageProps }: AppProps) {
     () => router.pathname !== "/404" && shouldUseMenuFlowShell(router.asPath),
     [router.asPath, router.pathname],
   );
+
+  React.useEffect(() => {
+    if (process.env.NODE_ENV === "production") {
+      loadEventListener();
+    }
+  }, []);
+
   const pageTransitionKey = React.useMemo(
     () => getPageTransitionKey(router.pathname, router.asPath),
     [router.asPath, router.pathname],

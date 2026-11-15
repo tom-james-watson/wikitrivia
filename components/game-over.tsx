@@ -1,6 +1,7 @@
 import { motion } from "motion/react";
 import React from "react";
 import { formatTimeUntilNextDaily } from "../lib/daily";
+import { announce } from "../lib/events";
 import { buildShareText, getShareResults } from "../lib/share";
 import { PlayedCard } from "../types/cards";
 import { GameDifficulty } from "../types/game";
@@ -83,6 +84,7 @@ export default function GameOver(props: Props) {
         selectionRoute,
       }),
     );
+    announce({ type: "share", mode: gameMode, day: dailyDateKey });
     setShareText("Copied");
     setTimeout(() => {
       setShareText(defaultShareText);
