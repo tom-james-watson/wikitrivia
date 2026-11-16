@@ -1,7 +1,36 @@
-import { animate, motion, PanInfo, useMotionValue } from "motion/react";
+import {
+  animate,
+  motion,
+  PanInfo,
+  useMotionValue,
+  useReducedMotion,
+  useSpring,
+  useTransform,
+  useVelocity,
+} from "motion/react";
 import React from "react";
 import { PreparedCard } from "../types/game";
 import CardVisual from "./card-visual";
+
+// How far the card leans for a given drag speed, and where it stops leaning.
+const TILT_PER_PX_PER_SECOND = 0.005;
+const MAX_TILT_DEG = 4;
+const LIFT_SCALE = 1.03;
+const TILT_SPRING = { damping: 16, mass: 0.6, stiffness: 180 };
+const LIFT_SPRING = { damping: 26, mass: 0.7, stiffness: 420 };
+const RETURN_SPRING = {
+  damping: 30,
+  mass: 0.9,
+  stiffness: 380,
+  type: "spring",
+} as const;
+
+function clampTilt(velocity: number) {
+  return Math.max(
+    -MAX_TILT_DEG,
+    Math.min(MAX_TILT_DEG, velocity * TILT_PER_PX_PER_SECOND),
+  );
+}
 
 interface DraggableDeckCardProps {
   anchorRef?: React.MutableRefObject<HTMLDivElement | null>;
@@ -28,12 +57,24 @@ export default function DraggableDeckCard(props: DraggableDeckCardProps) {
   const cardRef = React.useRef<HTMLDivElement | null>(null);
   const [dragging, setDragging] = React.useState(false);
   const [dropAccepted, setDropAccepted] = React.useState(false);
+  const reduceMotion = useReducedMotion();
+
+  // The card trails the pointer: it leans into the direction of travel in
+  // proportion to speed, and swings back to flat when the hand stops.
+  const velocityX = useVelocity(x);
+  const rotate = useSpring(useTransform(velocityX, clampTilt), TILT_SPRING);
+
+  // 0 resting on the deck, 1 held in the air.
+  const liftTarget = useMotionValue(0);
+  const lift = useSpring(liftTarget, LIFT_SPRING);
+  const scale = useTransform(lift, [0, 1], [1, LIFT_SCALE]);
 
   React.useEffect(() => {
     setDropAccepted(false);
     x.set(0);
     y.set(0);
-  }, [item.id, x, y]);
+    liftTarget.set(0);
+  }, [item.id, liftTarget, x, y]);
 
   const handleCardRef = React.useCallback(
     (node: HTMLDivElement | null) => {
@@ -78,14 +119,25 @@ export default function DraggableDeckCard(props: DraggableDeckCardProps) {
           setDropAccepted(true);
         } else {
           setDragging(false);
-          void animate(x, 0, {
-            duration: 0.22,
-            ease: [0.22, 1, 0.36, 1],
-          });
-          void animate(y, 0, {
-            duration: 0.22,
-            ease: [0.22, 1, 0.36, 1],
-          });
+          liftTarget.set(0);
+          // A spring carries the release velocity, so a flicked card
+          // overshoots the deck slightly before settling.
+          const returnTransition = reduceMotion
+            ? ({ duration: 0.22, ease: [0.22, 1, 0.36, 1] } as const)
+            : RETURN_SPRING;
+          void animate(x, 0, returnTransition);
+          void animate(y, 0, returnTransition);
+        }
+      }}
+      onPointerCancel={() => {
+        liftTarget.set(0);
+      }}
+      onPointerDown={() => {
+        liftTarget.set(1);
+      }}
+      onPointerUp={() => {
+        if (!dragging) {
+          liftTarget.set(0);
         }
       }}
       onDragStart={(_event, info: PanInfo) => {
@@ -106,7 +158,9 @@ export default function DraggableDeckCard(props: DraggableDeckCardProps) {
         zIndex: dragging || dropAccepted ? 40 : 2,
       }}
     >
-      <CardVisual item={item} style={cardStyle} surface="deck" />
+      <motion.div style={reduceMotion ? undefined : { rotate, scale }}>
+        <CardVisual item={item} lift={lift} style={cardStyle} surface="deck" />
+      </motion.div>
     </motion.div>
   );
 }

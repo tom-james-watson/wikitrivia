@@ -1,4 +1,5 @@
 import { style } from "@vanilla-extract/css";
+import { media } from "./foundation";
 import { vars } from "./theme.css";
 
 export const wrapper = style({
@@ -22,12 +23,26 @@ export const top = style({
   minHeight: 0,
   paddingTop: vars.space.xl,
   position: "relative",
+  // The top half holds the lives and the deck. On a short window they do
+  // not fit at full spacing, and the overflow would push the lives out of
+  // view, so the spacing gives way first.
+  "@media": {
+    [media.short]: {
+      gap: vars.space.sm,
+      paddingTop: vars.space.xxs,
+    },
+  },
 });
 
 export const topGameOver = style({
   justifyContent: "center",
   paddingBottom: vars.space.lg,
   paddingTop: vars.space.lg,
+  "@media": {
+    [media.short]: {
+      paddingTop: vars.space.lg,
+    },
+  },
 });
 
 export const statusArea = style({

@@ -1,4 +1,5 @@
 import { createVar, globalStyle, style } from "@vanilla-extract/css";
+import { media } from "./foundation";
 import { vars } from "./theme.css";
 
 export const cardBorderVar = createVar();
@@ -10,6 +11,7 @@ export const cardImageShadowVar = createVar();
 export const cardMutedVar = createVar();
 export const datePillTintVar = createVar();
 export const datePillBorderVar = createVar();
+export const flipShadeVar = createVar();
 
 const faceBase = style({
   backfaceVisibility: "hidden",
@@ -26,6 +28,17 @@ const faceBase = style({
   right: 0,
   top: 0,
   WebkitBackfaceVisibility: "hidden",
+  // Shading for the turn, driven per frame from the card's angle: a face
+  // darkens as it turns away from the light. At rest it is fully clear.
+  "::after": {
+    backgroundColor: `rgb(0 0 0 / ${flipShadeVar})`,
+    borderRadius: "inherit",
+    content: '""',
+    inset: `calc(-1 * ${vars.size.borderWidth})`,
+    pointerEvents: "none",
+    position: "absolute",
+    zIndex: 3,
+  },
 });
 
 export const itemCard = style({
@@ -59,7 +72,28 @@ export const cardScene = style({
   transformStyle: "preserve-3d",
 });
 
+// Shown only while a card is carried. Only its opacity animates, so lifting
+// never repaints a box-shadow.
+export const liftShadow = style({
+  borderRadius: vars.radius.md,
+  boxShadow:
+    "0 0.25rem 0.5rem rgba(0, 0, 0, 0.06), 0 1.25rem 2rem -0.5rem rgba(0, 0, 0, 0.2)",
+  inset: 0,
+  opacity: 0,
+  pointerEvents: "none",
+  position: "absolute",
+  "@media": {
+    [media.dark]: {
+      boxShadow:
+        "0 0.25rem 0.5rem rgba(0, 0, 0, 0.25), 0 1.5rem 2.25rem -0.5rem rgba(0, 0, 0, 0.6)",
+    },
+  },
+});
+
 export const cardFaces = style({
+  vars: {
+    [flipShadeVar]: "0",
+  },
   borderRadius: vars.radius.md,
   inset: 0,
   position: "absolute",
@@ -165,16 +199,14 @@ export const imageTint = style({
   position: "absolute",
 });
 
+// Sits outside the card's 3D scene, so a turning card never cuts through it.
 export const datePillAnchor = style({
-  backfaceVisibility: "hidden",
   bottom: "-2.625rem",
   display: "flex",
   justifyContent: "center",
   left: "50%",
   position: "absolute",
-  transform: "translateX(-50%) translateZ(0.125rem)",
-  transformStyle: "preserve-3d",
-  WebkitBackfaceVisibility: "hidden",
+  transform: "translateX(-50%)",
   zIndex: 4,
 });
 

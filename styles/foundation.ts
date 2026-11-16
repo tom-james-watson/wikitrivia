@@ -5,6 +5,8 @@ export const media = {
   dark: "(prefers-color-scheme: dark)",
   coarsePointer: "(pointer: coarse)",
   reduceMotion: "(prefers-reduced-motion: reduce)",
+  short: "(max-height: 46rem)",
+  shorter: "(max-height: 40rem)",
 } as const;
 
 export const breakpointScale = {

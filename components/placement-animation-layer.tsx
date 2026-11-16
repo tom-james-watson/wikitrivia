@@ -1,4 +1,4 @@
-import { motion, useMotionValue } from "motion/react";
+import { animate, motion, useMotionValue, useTransform } from "motion/react";
 import React from "react";
 import {
   getLandingTargetScrollLeft,
@@ -24,6 +24,10 @@ export default function PlacementAnimationLayer(
   const { card, containerX, from, sourceOffsetX, startScrollLeft } = flight;
   const x = useMotionValue(from.x);
   const y = useMotionValue(from.y);
+  // The card arrives still in the hand that dropped it, travels at that
+  // height, and is set down over the last stretch.
+  const lift = useMotionValue(1);
+  const scale = useTransform(lift, [0, 1], [1, 1.03]);
 
   React.useEffect(() => {
     let cancelled = false;
@@ -139,6 +143,11 @@ export default function PlacementAnimationLayer(
 
         if (startTime === null) {
           startTime = timestamp;
+          void animate(lift, [1, 1, 0], {
+            duration: durationMs / 1000,
+            ease: ["linear", "easeIn"],
+            times: [0, 0.55, 1],
+          });
         }
 
         const elapsed = timestamp - startTime;
@@ -165,6 +174,7 @@ export default function PlacementAnimationLayer(
               stableTarget.targetScrollLeft,
           );
           y.set(stableTarget.toY);
+          lift.set(0);
           onComplete();
           return;
         }
@@ -186,6 +196,7 @@ export default function PlacementAnimationLayer(
     card.id,
     containerX,
     from.y,
+    lift,
     onComplete,
     scrollContainerRef,
     sourceOffsetX,
@@ -206,20 +217,23 @@ export default function PlacementAnimationLayer(
         zIndex: 12,
       }}
     >
-      <CardVisual
-        item={card}
-        surface="timeline"
-        transition={{
-          duration:
-            getPlacementDurationMs(
-              flight.targetOffsetX - sourceOffsetX,
-              flight.targetScrollLeft - startScrollLeft,
-              flight.toY - from.y,
-            ) / 1000,
-          ease: LANDING_EASE_CURVE,
-          times: [0, 0.86, 1],
-        }}
-      />
+      <motion.div style={{ scale }}>
+        <CardVisual
+          item={card}
+          lift={lift}
+          surface="timeline"
+          transition={{
+            duration:
+              getPlacementDurationMs(
+                flight.targetOffsetX - sourceOffsetX,
+                flight.targetScrollLeft - startScrollLeft,
+                flight.toY - from.y,
+              ) / 1000,
+            ease: LANDING_EASE_CURVE,
+            times: [0, 0.86, 1],
+          }}
+        />
+      </motion.div>
     </motion.div>
   );
 }

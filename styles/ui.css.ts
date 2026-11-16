@@ -297,10 +297,17 @@ export const action = recipe({
       outline: "none",
       textDecoration: "none",
       textTransform: "uppercase",
-      transition: `border-color ${vars.duration.fast} ${vars.easing.standard}, background-color ${vars.duration.fast} ${vars.easing.standard}, color ${vars.duration.fast} ${vars.easing.standard}, box-shadow ${vars.duration.fast} ${vars.easing.standard}`,
+      // The release eases back with a slight overshoot; the press itself
+      // (below) is quicker and flat, so a tap feels immediate.
+      transition: `border-color ${vars.duration.fast} ${vars.easing.standard}, background-color ${vars.duration.fast} ${vars.easing.standard}, color ${vars.duration.fast} ${vars.easing.standard}, box-shadow ${vars.duration.fast} ${vars.easing.standard}, transform ${vars.duration.normal} cubic-bezier(0.34, 1.56, 0.64, 1)`,
       selectors: {
         "&:hover": {
           borderColor: vars.color.borderStrong,
+        },
+        "&:active:not(:disabled)": {
+          transform: "scale(0.98)",
+          transitionDuration: `${vars.duration.fast}, ${vars.duration.fast}, ${vars.duration.fast}, ${vars.duration.fast}, 70ms`,
+          transitionTimingFunction: vars.easing.standard,
         },
         "&:focus-visible": {
           boxShadow: vars.shadow.focus,
@@ -308,6 +315,15 @@ export const action = recipe({
         "&:disabled": {
           cursor: "not-allowed",
           opacity: 0.38,
+        },
+      },
+      "@media": {
+        [media.reduceMotion]: {
+          selectors: {
+            "&:active:not(:disabled)": {
+              transform: "none",
+            },
+          },
         },
       },
     },
