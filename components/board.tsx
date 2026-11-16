@@ -187,8 +187,8 @@ export default function Board(props: Props) {
       };
       const upcomingCard = drawNextCard(nextState);
       const imageCache = [
-        promotedCard ? preloadImage(promotedCard.image) : null,
-        upcomingCard ? preloadImage(upcomingCard.image) : null,
+        promotedCard ? preloadImage(promotedCard) : null,
+        upcomingCard ? preloadImage(upcomingCard) : null,
       ].filter((image): image is HTMLImageElement => image !== null);
 
       setDeckState("hidden");
@@ -373,8 +373,8 @@ export default function Board(props: Props) {
     };
     const newNextButOne = drawNextCard(nextState);
     const newImageCache = [
-      newNext ? preloadImage(newNext.image) : null,
-      newNextButOne ? preloadImage(newNextButOne.image) : null,
+      newNext ? preloadImage(newNext) : null,
+      newNextButOne ? preloadImage(newNextButOne) : null,
     ].filter((image): image is HTMLImageElement => image !== null);
 
     setHiddenPlayedCardId(card.id);

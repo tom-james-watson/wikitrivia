@@ -7,6 +7,7 @@
     "fact": "Bridgerton is an American alternative history, Regency romance television series created by Chris Van Dusen for Netflix.",
     "wikipediaSlug": "Bridgerton",
     "image": "Bridgerton_Title_Card.png",
+    "imageRepo": "enwiki",
     "pageViews": 1334401
   },
   {
@@ -17,6 +18,7 @@
     "fact": "Peaky Blinders is a British historical crime drama television series created by Steven Knight.",
     "wikipediaSlug": "Peaky_Blinders_(TV_series)",
     "image": "Peaky_Blinders_titlecard.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 1076100
   },
   {
@@ -27,6 +29,7 @@
     "fact": "Heated Rivalry is a Canadian sports romance television series created, written, and directed by Jacob Tierney for Crave.",
     "wikipediaSlug": "Heated_Rivalry",
     "image": "Logo_Heated_Rivalry.svg",
+    "imageRepo": "commons",
     "pageViews": 700634
   },
   {
@@ -37,6 +40,7 @@
     "fact": "Harry Potter is an upcoming fantasy television series developed for HBO, based on the series of eponymous fantasy books by British author J.",
     "wikipediaSlug": "Harry_Potter_(TV_series)",
     "image": "Harry_Potter_TV_series_logo.png",
+    "imageRepo": "commons",
     "pageViews": 516288
   },
   {
@@ -47,6 +51,7 @@
     "fact": "Stranger Things is an American television series created by the Duffer Brothers for Netflix.",
     "wikipediaSlug": "Stranger_Things",
     "image": "Stranger_Things_logo.png",
+    "imageRepo": "commons",
     "pageViews": 404688
   },
   {
@@ -57,6 +62,7 @@
     "fact": "Game of Thrones is an American fantasy drama television series created by David Benioff and D.",
     "wikipediaSlug": "Game_of_Thrones",
     "image": "Game_of_Thrones_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 389160
   },
   {
@@ -67,6 +73,7 @@
     "fact": "Daredevil: Born Again is an American television series created by Dario Scardapane and Matt Corman & Chris Ord for the streaming service Disney+, based on Marvel Comics featuring the character Daredevil.",
     "wikipediaSlug": "Daredevil:_Born_Again",
     "image": "Daredevil_Born_Again_logo.jpeg",
+    "imageRepo": "enwiki",
     "pageViews": 385848
   },
   {
@@ -77,6 +84,7 @@
     "fact": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan for AMC.",
     "wikipediaSlug": "Breaking_Bad",
     "image": "Breaking_Bad_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 296909
   },
   {
@@ -87,6 +95,7 @@
     "fact": "House of the Dragon is an American fantasy drama television series created by George R.",
     "wikipediaSlug": "House_of_the_Dragon",
     "image": "House_of_the_dragon_logo.png",
+    "imageRepo": "commons",
     "pageViews": 274196
   },
   {
@@ -97,6 +106,7 @@
     "fact": "Hannah Montana is an American teen sitcom created by Michael Poryes, Rich Correll, and Barry O'Brien that aired on Disney Channel for four seasons between March 2006 and January 2011.",
     "wikipediaSlug": "Hannah_Montana",
     "image": "Hannah_Montana_Logo.PNG",
+    "imageRepo": "enwiki",
     "pageViews": 273391
   },
   {
@@ -107,6 +117,7 @@
     "fact": "Firefly is a 2002 American space Western drama television series, created by writer and director Joss Whedon, under his Mutant Enemy Productions label.",
     "wikipediaSlug": "Firefly_(TV_series)",
     "image": "Fireflyopeninglogo.JPG",
+    "imageRepo": "enwiki",
     "pageViews": 258167
   },
   {
@@ -117,6 +128,7 @@
     "fact": "Malcolm in the Middle is an American television sitcom created by Linwood Boomer for the Fox Broadcasting Company.",
     "wikipediaSlug": "Malcolm_in_the_Middle",
     "image": "MitM_credits_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 254525
   },
   {
@@ -127,6 +139,7 @@
     "fact": "Ted Lasso is an American sports comedy-drama television series developed by Jason Sudeikis, Bill Lawrence, Brendan Hunt, and Joe Kelly.",
     "wikipediaSlug": "Ted_Lasso",
     "image": "Tedlassotitlecard.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 253038
   },
   {
@@ -137,6 +150,7 @@
     "fact": "Fallout is an American post-apocalyptic drama television series created by Graham Wagner and Geneva Robertson-Dworet for Amazon Prime Video.",
     "wikipediaSlug": "Fallout_(American_TV_series)",
     "image": "Fallout_television_series_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 241793
   },
   {
@@ -147,17 +161,8 @@
     "fact": "ER is an American medical drama television series created by Michael Crichton that aired on NBC from September 19, 1994, to April 2, 2009, with a total of 331 episodes spanning 15 seasons.",
     "wikipediaSlug": "ER_(TV_series)",
     "image": "ER_(Amblin_Television_series)_logo_(4).svg",
+    "imageRepo": "commons",
     "pageViews": 236036
-  },
-  {
-    "qid": "Q23628",
-    "title": "‘The Sopranos’ airs for the first time",
-    "subtitle": "American crime drama television series",
-    "year": 1999,
-    "fact": "The Sopranos is an American crime drama television series created by David Chase.",
-    "wikipediaSlug": "The_Sopranos",
-    "image": "Sopranos_titlescreen.png",
-    "pageViews": 224286
   },
   {
     "qid": "Q23594",
@@ -167,6 +172,7 @@
     "fact": "Homeland is an American espionage thriller television series developed by Howard Gordon and Alex Gansa.",
     "wikipediaSlug": "Homeland_(TV_series)",
     "image": "HomelandTVSeries.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 219973
   },
   {
@@ -177,6 +183,7 @@
     "fact": "Buffy the Vampire Slayer is an American supernatural horror drama television series created by Joss Whedon.",
     "wikipediaSlug": "Buffy_the_Vampire_Slayer",
     "image": "Buffy_the_vampire_slayer.svg",
+    "imageRepo": "commons",
     "pageViews": 213223
   },
   {
@@ -187,6 +194,7 @@
     "fact": "Doctor Who is a British science fiction television series broadcast by the BBC since 1963.",
     "wikipediaSlug": "Doctor_Who",
     "image": "Doctor_Who_title_card.png",
+    "imageRepo": "enwiki",
     "pageViews": 193503
   },
   {
@@ -197,6 +205,7 @@
     "fact": "Better Call Saul is an American neo-noir legal crime drama television series created by Vince Gilligan and Peter Gould for AMC.",
     "wikipediaSlug": "Better_Call_Saul",
     "image": "Better_Call_Saul_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 192024
   },
   {
@@ -207,6 +216,7 @@
     "fact": "The Handmaid's Tale is an American dystopian television series created by Bruce Miller, based on the 1985 novel The Handmaid's Tale by Canadian author Margaret Atwood.",
     "wikipediaSlug": "The_Handmaid%27s_Tale_(TV_series)",
     "image": "The_Handmaid's_Tale_intertitle.png",
+    "imageRepo": "commons",
     "pageViews": 190267
   },
   {
@@ -216,7 +226,8 @@
     "year": 2007,
     "fact": "The Big Bang Theory is an American television sitcom created by Chuck Lorre and Bill Prady for CBS.",
     "wikipediaSlug": "The_Big_Bang_Theory",
-    "image": "The_Big_Bang_Theory_(Official_Title_Card).png",
+    "image": "TBBT_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 186978
   },
   {
@@ -226,7 +237,8 @@
     "year": 2018,
     "fact": "9-1-1 is an American procedural drama television series created by Ryan Murphy, Brad Falchuk, and Tim Minear.",
     "wikipediaSlug": "9-1-1_(TV_series)",
-    "image": "9-1-1_intertitle.png",
+    "image": "9-1-1_(Ryan_Murphy_Television_series)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 181996
   },
   {
@@ -237,6 +249,7 @@
     "fact": "Fargo is an American black comedy crime drama television series created by Noah Hawley for FX.",
     "wikipediaSlug": "Fargo_(TV_series)",
     "image": "Fargo_(TV_logo).svg",
+    "imageRepo": "commons",
     "pageViews": 180026
   },
   {
@@ -247,6 +260,7 @@
     "fact": "The Wire is an American crime drama television series created and primarily written by American author and former police reporter David Simon for the cable network HBO.",
     "wikipediaSlug": "The_Wire",
     "image": "The_Wire_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 160709
   },
   {
@@ -257,6 +271,7 @@
     "fact": "True Detective is an American anthology crime drama television series created by Nic Pizzolatto for the premium cable network HBO.",
     "wikipediaSlug": "True_Detective",
     "image": "True_Detective_2014_Intertitle.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 159914
   },
   {
@@ -267,6 +282,7 @@
     "fact": "It's Always Sunny in Philadelphia, also commonly referred to as Always Sunny or IASIP, is an American sitcom created by Rob Mac and co-developed by Glenn Howerton for FX, currently airing on FXX.",
     "wikipediaSlug": "It%27s_Always_Sunny_in_Philadelphia",
     "image": "IASIPTC.svg",
+    "imageRepo": "commons",
     "pageViews": 153689
   },
   {
@@ -276,7 +292,8 @@
     "year": 2017,
     "fact": "Young Sheldon is an American sitcom television series created by Chuck Lorre and Steven Molaro that aired on CBS from September 25, 2017, to May 16, 2024.",
     "wikipediaSlug": "Young_Sheldon",
-    "image": "Young_Sheldon_title_card.png",
+    "image": "Young_Sheldon_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 153629
   },
   {
@@ -287,6 +304,7 @@
     "fact": "Mad Men is an American period drama television series created by Matthew Weiner for AMC.",
     "wikipediaSlug": "Mad_Men",
     "image": "Mad-men-title-card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 152368
   },
   {
@@ -297,6 +315,7 @@
     "fact": "Dexter is an American crime television series that initially aired on Showtime from October 1, 2006, to September 22, 2013.",
     "wikipediaSlug": "Dexter_(TV_series)",
     "image": "Dexter_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 152002
   },
   {
@@ -307,6 +326,7 @@
     "fact": "American Horror Story (AHS) is an American horror anthology television series created by Ryan Murphy and Brad Falchuk for the cable network FX.",
     "wikipediaSlug": "American_Horror_Story",
     "image": "American_Horror_Story_(FX_television_series)_red_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 140234
   },
   {
@@ -317,6 +337,7 @@
     "fact": "Outlander is a historical fantasy television series based on the book series of the same name by Diana Gabaldon.",
     "wikipediaSlug": "Outlander_(TV_series)",
     "image": "Outlander_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 138380
   },
   {
@@ -327,17 +348,8 @@
     "fact": "Downton Abbey is a British historical drama television series set in the early 20th century, created and co-written by Julian Fellowes.",
     "wikipediaSlug": "Downton_Abbey",
     "image": "Downton_Abbey_Title_Card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 138001
-  },
-  {
-    "qid": "Q207803",
-    "title": "‘Bones’ airs for the first time",
-    "subtitle": "American crime comedy-horror television series",
-    "year": 2005,
-    "fact": "Bones is an American police procedural drama television series created by Hart Hanson for Fox.",
-    "wikipediaSlug": "Bones_(TV_series)",
-    "image": "Bones_title_card.png",
-    "pageViews": 130981
   },
   {
     "qid": "Q56276181",
@@ -347,6 +359,7 @@
     "fact": "Shōgun is an American historical drama television series created by Rachel Kondo and Justin Marks.",
     "wikipediaSlug": "Sh%C5%8Dgun_(2024_TV_series)",
     "image": "Shōgun_(2024_miniseries)_poster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 128877
   },
   {
@@ -357,6 +370,7 @@
     "fact": "The Crown is a historical drama television series about the reign of Queen Elizabeth II, created and principally written by Peter Morgan and produced by Left Bank Pictures and Sony Pictures Television for Netflix.",
     "wikipediaSlug": "The_Crown_(TV_series)",
     "image": "The_Crown_Title_Card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 123565
   },
   {
@@ -366,18 +380,9 @@
     "year": 2004,
     "fact": "Veronica Mars is an American teen neo-noir mystery drama television series created by screenwriter Rob Thomas.",
     "wikipediaSlug": "Veronica_Mars",
-    "image": "Veronica_mars_intro.jpg",
+    "image": "Veronica_Mars_2004_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 120660
-  },
-  {
-    "qid": "Q193462",
-    "title": "‘Gilmore Girls’ airs for the first time",
-    "subtitle": "American comedy-drama series for The WB and The CW",
-    "year": 2000,
-    "fact": "Gilmore Girls is an American comedy-drama television series created by Amy Sherman-Palladino.",
-    "wikipediaSlug": "Gilmore_Girls",
-    "image": "Gilmore_girls_title_screen.jpg",
-    "pageViews": 120315
   },
   {
     "qid": "Q2579463",
@@ -387,6 +392,7 @@
     "fact": "Vikings is a historical drama television series created and written by Michael Hirst.",
     "wikipediaSlug": "Vikings_(TV_series)",
     "image": "Vikings_Title.png",
+    "imageRepo": "enwiki",
     "pageViews": 110257
   },
   {
@@ -397,6 +403,7 @@
     "fact": "Sex and the City is an American romantic comedy-drama television series created by Darren Star for HBO, based on the newspaper column and 1996 book by Candace Bushnell.",
     "wikipediaSlug": "Sex_and_the_City",
     "image": "SATC_Title.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 108156
   },
   {
@@ -407,6 +414,7 @@
     "fact": "Lost is an American science fiction adventure drama television series created by Jeffrey Lieber, J.",
     "wikipediaSlug": "Lost_(TV_series)",
     "image": "Lost_main_title.svg",
+    "imageRepo": "commons",
     "pageViews": 106152
   },
   {
@@ -417,6 +425,7 @@
     "fact": "Chicago Fire is an American procedural drama series broadcast by NBC.",
     "wikipediaSlug": "Chicago_Fire_(TV_series)",
     "image": "Chicago_Fire_Title_Card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 104840
   },
   {
@@ -427,6 +436,7 @@
     "fact": "American Idol is an American singing competition television series created by Simon Fuller, produced by Fremantle North America and 19 Entertainment, and distributed by Fremantle North America.",
     "wikipediaSlug": "American_Idol",
     "image": "American_Idol_ABC_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 104461
   },
   {
@@ -437,6 +447,7 @@
     "fact": "Seinfeld is an American television sitcom created by Larry David and Jerry Seinfeld.",
     "wikipediaSlug": "Seinfeld",
     "image": "Seinfeld_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 103922
   },
   {
@@ -447,6 +458,7 @@
     "fact": "Only Murders in the Building is an American mystery comedy-drama television series created by Steve Martin and John Hoffman.",
     "wikipediaSlug": "Only_Murders_in_the_Building",
     "image": "Only_Murders_logo.jpeg",
+    "imageRepo": "enwiki",
     "pageViews": 98747
   },
   {
@@ -457,6 +469,7 @@
     "fact": "How I Met Your Mother is an American sitcom created by Craig Thomas and Carter Bays for CBS.",
     "wikipediaSlug": "How_I_Met_Your_Mother",
     "image": "HowIMetYourMother.svg",
+    "imageRepo": "commons",
     "pageViews": 96929
   },
   {
@@ -467,6 +480,7 @@
     "fact": "Sons of Anarchy is an American action crime drama television series created by Kurt Sutter for FX.",
     "wikipediaSlug": "Sons_of_Anarchy",
     "image": "SOATitlecard.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 95631
   },
   {
@@ -477,6 +491,7 @@
     "fact": "Banshee is an American action crime thriller television series created by Jonathan Tropper and David Schickler that aired on Cinemax for four seasons from January 11, 2013, to May 20, 2016, comprising a total of 38 episodes.",
     "wikipediaSlug": "Banshee_(TV_series)",
     "image": "Banshee_(Home_Box_Office,_Inc)_blood_red_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 94988
   },
   {
@@ -487,6 +502,7 @@
     "fact": "Brooklyn Nine-Nine is an American police procedural sitcom television series that aired on Fox from September 17, 2013, to May 20, 2018, and later on NBC, from January 10, 2019, to September 16, 2021, for eight seasons and 153 episodes.",
     "wikipediaSlug": "Brooklyn_Nine-Nine",
     "image": "Brooklyn_Nine-Nine_Logo.png",
+    "imageRepo": "commons",
     "pageViews": 93225
   },
   {
@@ -496,7 +512,8 @@
     "year": 2016,
     "fact": "Lucifer is an American urban fantasy television series developed by Tom Kapinos that began airing on January 25, 2016, and concluded on September 10, 2021.",
     "wikipediaSlug": "Lucifer_(TV_series)",
-    "image": "Lucifer,_title.jpg",
+    "image": "Lucifer_tv_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 91042
   },
   {
@@ -507,6 +524,7 @@
     "fact": "Mom is an American television sitcom created by Chuck Lorre, Eddie Gorodetsky and Gemma Baker that aired for eight seasons on CBS from September 23, 2013, to May 13, 2021.",
     "wikipediaSlug": "Mom_(TV_series)",
     "image": "Mom_TV_series_logo.png",
+    "imageRepo": "commons",
     "pageViews": 90495
   },
   {
@@ -517,6 +535,7 @@
     "fact": "Once Upon a Time is an American fantasy adventure drama series that aired for seven seasons on ABC from October 23, 2011 to May 18, 2018.",
     "wikipediaSlug": "Once_Upon_a_Time_(TV_series)",
     "image": "Once_Upon_A_Time_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 90381
   },
   {
@@ -527,6 +546,7 @@
     "fact": "Marvel's The Punisher is an American television series created by Steve Lightfoot for the streaming service Netflix, based on the Marvel Comics character Punisher.",
     "wikipediaSlug": "The_Punisher_(TV_series)",
     "image": "Punisher_(TV_series)_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 90150
   },
   {
@@ -537,6 +557,7 @@
     "fact": "Star Trek: The Next Generation (TNG) is an American science fiction television series created by Gene Roddenberry.",
     "wikipediaSlug": "Star_Trek:_The_Next_Generation",
     "image": "Star_Trek_The_Next_Generation_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 89875
   },
   {
@@ -547,6 +568,7 @@
     "fact": "M*A*S*H is an American war comedy drama television series that aired on CBS from September 17, 1972, to February 28, 1983.",
     "wikipediaSlug": "M*A*S*H_(TV_series)",
     "image": "M*A*S*H_TV_title_screen.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 89427
   },
   {
@@ -557,6 +579,7 @@
     "fact": "2 Broke Girls is an American television sitcom that aired on CBS from September 19, 2011, to April 17, 2017.",
     "wikipediaSlug": "2_Broke_Girls",
     "image": "2_Broke_Girls_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 84415
   },
   {
@@ -567,6 +590,7 @@
     "fact": "Midsomer Murders is a British mystery television series, adapted by Anthony Horowitz and Douglas Watkinson from the novels in the Chief Inspector Barnaby book series created by Caroline Graham.",
     "wikipediaSlug": "Midsomer_Murders",
     "image": "Midsomer_Murders_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 83734
   },
   {
@@ -577,6 +601,7 @@
     "fact": "Narcos is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro.",
     "wikipediaSlug": "Narcos",
     "image": "Narcos_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 83424
   },
   {
@@ -587,6 +612,7 @@
     "fact": "24 is an American action drama television series created by Joel Surnow and Robert Cochran for Fox.",
     "wikipediaSlug": "24_(TV_series)",
     "image": "24-Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 77811
   },
   {
@@ -597,17 +623,8 @@
     "fact": "Married... with Children is an American television sitcom created by Michael G.",
     "wikipediaSlug": "Married..._with_Children",
     "image": "Married_…_With_Children_(Sony_Pictures_Television_series_logo).svg",
+    "imageRepo": "commons",
     "pageViews": 77620
-  },
-  {
-    "qid": "Q80044",
-    "title": "‘Prison Break’ airs for the first time",
-    "subtitle": "American television series",
-    "year": 2005,
-    "fact": "Prison Break is an American crime drama television series created by Paul Scheuring for Fox.",
-    "wikipediaSlug": "Prison_Break",
-    "image": "Prison-break-s1-intro.jpg",
-    "pageViews": 77045
   },
   {
     "qid": "Q30634329",
@@ -617,6 +634,7 @@
     "fact": "The Marvelous Mrs.",
     "wikipediaSlug": "The_Marvelous_Mrs._Maisel",
     "image": "The_Marvelous_Mrs._Maisel.svg",
+    "imageRepo": "commons",
     "pageViews": 76379
   },
   {
@@ -627,6 +645,7 @@
     "fact": "Emily in Paris is an American romantic comedy drama television series created by Darren Star for Netflix.",
     "wikipediaSlug": "Emily_in_Paris",
     "image": "Emily_in_Paris_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 75283
   },
   {
@@ -637,6 +656,7 @@
     "fact": "Mr.",
     "wikipediaSlug": "Mr._Bean",
     "image": "Mr._bean_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 75202
   },
   {
@@ -647,6 +667,7 @@
     "fact": "House of Cards is an American political thriller television series created by Beau Willimon for the streaming service Netflix.",
     "wikipediaSlug": "House_of_Cards_(American_TV_series)",
     "image": "House_of_Cards_title_card.png",
+    "imageRepo": "enwiki",
     "pageViews": 75134
   },
   {
@@ -657,6 +678,7 @@
     "fact": "Castle is an American crime mystery comedy-drama television series that aired on ABC for a total of eight seasons from March 9, 2009, to May 16, 2016.",
     "wikipediaSlug": "Castle_(TV_series)",
     "image": "CastleIntertitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 74215
   },
   {
@@ -667,6 +689,7 @@
     "fact": "Six Feet Under is an American drama television series created and produced by Alan Ball for the television network HBO.",
     "wikipediaSlug": "Six_Feet_Under_(TV_series)",
     "image": "Sixfeetunderlogo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 73331
   },
   {
@@ -677,6 +700,7 @@
     "fact": "Cobra Kai is an American martial arts comedy drama television series created by Josh Heald, Jon Hurwitz, and Hayden Schlossberg, and distributed by Sony Pictures Television.",
     "wikipediaSlug": "Cobra_Kai",
     "image": "CobraKaiTitleScreen.png",
+    "imageRepo": "enwiki",
     "pageViews": 73249
   },
   {
@@ -687,6 +711,7 @@
     "fact": "Cheers is an American television sitcom, created by Glen Charles & Les Charles and James Burrows, aired on NBC for eleven seasons from September 30, 1982, to May 20, 1993.",
     "wikipediaSlug": "Cheers",
     "image": "Cheers.svg",
+    "imageRepo": "commons",
     "pageViews": 72281
   },
   {
@@ -697,6 +722,7 @@
     "fact": "Everybody Loves Raymond is an American television sitcom created by Philip Rosenthal that aired on CBS from September 13, 1996, to May 16, 2005, with a total of 210 episodes spanning nine seasons.",
     "wikipediaSlug": "Everybody_Loves_Raymond",
     "image": "Everybody_Loves_Raymond_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 72180
   },
   {
@@ -707,6 +733,7 @@
     "fact": "Coronation Street is a British television soap opera created by Granada Television and shown on ITV since 9 December 1960.",
     "wikipediaSlug": "Coronation_Street",
     "image": "Coronation_Street_Titles.png",
+    "imageRepo": "enwiki",
     "pageViews": 69504
   },
   {
@@ -717,6 +744,7 @@
     "fact": "Days of Our Lives is an American television soap opera that aired on the network NBC from November 8, 1965, to September 9, 2022; the soap has streamed new episodes on Peacock since September 12, 2022.",
     "wikipediaSlug": "Days_of_Our_Lives",
     "image": "Days_of_Our_Lives_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 68898
   },
   {
@@ -727,6 +755,7 @@
     "fact": "Sesame Street is an American educational children's television series that combines live-action, sketch comedy, animation, and puppetry.",
     "wikipediaSlug": "Sesame_Street",
     "image": "Sesame_Street_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 68143
   },
   {
@@ -737,6 +766,7 @@
     "fact": "The Nanny is an American television sitcom.",
     "wikipediaSlug": "The_Nanny",
     "image": "The_Nanny_(TriStar_Television)_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 68073
   },
   {
@@ -747,17 +777,8 @@
     "fact": "That '70s Show is an American television teen sitcom that aired on Fox from August 23, 1998, to May 18, 2006.",
     "wikipediaSlug": "That_%2770s_Show",
     "image": "That_'70s_Show_(Carsey-Werner_Television)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 67146
-  },
-  {
-    "qid": "Q15711398",
-    "title": "‘The Flash’ airs for the first time",
-    "subtitle": "American superhero television series",
-    "year": 2014,
-    "fact": "The Flash is an American superhero television series developed by Greg Berlanti, Andrew Kreisberg, and Geoff Johns, airing on The CW.",
-    "wikipediaSlug": "The_Flash_(2014_TV_series)",
-    "image": "The_Flash_Intertitle.png",
-    "pageViews": 66159
   },
   {
     "qid": "Q209282",
@@ -767,6 +788,7 @@
     "fact": "Frasier is an American television sitcom that was broadcast on NBC for 11 seasons from September 16, 1993, to May 13, 2004.",
     "wikipediaSlug": "Frasier",
     "image": "Frasier_title_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 65360
   },
   {
@@ -777,6 +799,7 @@
     "fact": "Boardwalk Empire is an American period crime drama television series created by Terence Winter for the premium cable channel HBO.",
     "wikipediaSlug": "Boardwalk_Empire",
     "image": "Boardwalk_Empire_2010_Intertitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 64100
   },
   {
@@ -787,6 +810,7 @@
     "fact": "Orange Is the New Black is an American comedy-drama television series created by Jenji Kohan for Netflix.",
     "wikipediaSlug": "Orange_Is_the_New_Black",
     "image": "Orange_is_the_new_Black_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 63976
   },
   {
@@ -797,6 +821,7 @@
     "fact": "Charmed is an American fantasy drama television series created by Constance M.",
     "wikipediaSlug": "Charmed",
     "image": "Charmedtitlelogo1.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 63632
   },
   {
@@ -807,6 +832,7 @@
     "fact": "Peacemaker is an American television series created by James Gunn for the streaming service HBO Max, based on DC Comics featuring the character Peacemaker.",
     "wikipediaSlug": "Peacemaker_(TV_series)",
     "image": "Peacemaker_(TV_series)_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 63503
   },
   {
@@ -817,6 +843,7 @@
     "fact": "Fleabag is a British comedy-drama television series created and written by Phoebe Waller-Bridge, based on her one-woman show first performed in 2013 at the Edinburgh Festival Fringe.",
     "wikipediaSlug": "Fleabag",
     "image": "Fleabag_titlecard.png",
+    "imageRepo": "commons",
     "pageViews": 63037
   },
   {
@@ -827,6 +854,7 @@
     "fact": "Teletubbies is a British children's television series created by Anne Wood and Andrew Davenport for the BBC.",
     "wikipediaSlug": "Teletubbies",
     "image": "Teletubbies_Logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 62916
   },
   {
@@ -837,6 +865,7 @@
     "fact": "Deadwood is an American Western television series that aired on the premium cable network HBO from March 21, 2004, to August 27, 2006.",
     "wikipediaSlug": "Deadwood_(TV_series)",
     "image": "Deadwood_titleimage.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 62739
   },
   {
@@ -847,6 +876,7 @@
     "fact": "Skins is a British teen drama television series that follows the lives of a group of teenagers in Bristol, England, through the two years of sixth form.",
     "wikipediaSlug": "Skins_(British_TV_series)",
     "image": "Skins.svg",
+    "imageRepo": "commons",
     "pageViews": 62273
   },
   {
@@ -857,6 +887,7 @@
     "fact": "The Twilight Zone is an American fantasy science fiction horror anthology television series created and presented by Rod Serling, which ran for five seasons on CBS from October 2, 1959, to June 19, 1964.",
     "wikipediaSlug": "The_Twilight_Zone_(1959_TV_series)",
     "image": "The_Twilight_Zone_(1959_TV_series)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 62049
   },
   {
@@ -867,6 +898,7 @@
     "fact": "New Girl is an American television sitcom created by Elizabeth Meriwether and produced by 20th Century Fox Television for Fox that aired from September 20, 2011, to May 15, 2018.",
     "wikipediaSlug": "New_Girl",
     "image": "NewGirlTitlesS5.jpg",
+    "imageRepo": "commons",
     "pageViews": 61471
   },
   {
@@ -877,6 +909,7 @@
     "fact": "Killing Eve is a British spy thriller television series produced in the United Kingdom by Sid Gentle Films for BBC America and BBC Three.",
     "wikipediaSlug": "Killing_Eve",
     "image": "Killing_Eve_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 60888
   },
   {
@@ -887,6 +920,7 @@
     "fact": "Glee is an American jukebox musical comedy-drama television series created by Ryan Murphy, Brad Falchuk, and Ian Brennan for the Fox Broadcasting Company.",
     "wikipediaSlug": "Glee_(TV_series)",
     "image": "Glee_(Ryan_Murphy_Television)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 59404
   },
   {
@@ -897,6 +931,7 @@
     "fact": "Jackass is an American reality slapstick comedy TV show and media franchise created by Jeff Tremaine, Spike Jonze, and Johnny Knoxville.",
     "wikipediaSlug": "Jackass_(franchise)",
     "image": "Jackass-logo-2.svg",
+    "imageRepo": "enwiki",
     "pageViews": 59390
   },
   {
@@ -907,6 +942,7 @@
     "fact": "Black Sails is an American historical action-adventure television series set on New Providence Island.",
     "wikipediaSlug": "Black_Sails_(TV_series)",
     "image": "Teaser_Poster_for_Black_Sails.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 57984
   },
   {
@@ -917,6 +953,7 @@
     "fact": "Billions is an American drama television series created by Brian Koppelman, David Levien, and Andrew Ross Sorkin.",
     "wikipediaSlug": "Billions_(TV_series)",
     "image": "Billions-KeyArt.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 57947
   },
   {
@@ -927,6 +964,7 @@
     "fact": "Arrow is an American superhero television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg based on the DC Comics character Green Arrow, a costumed crime-fighter created by Mort Weisinger and George Papp, and is the first series of the Arrowverse, sharing continuity with other related television series.",
     "wikipediaSlug": "Arrow_(TV_series)",
     "image": "Arrow_Intertitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 56866
   },
   {
@@ -937,6 +975,7 @@
     "fact": "CSI: Crime Scene Investigation, also referred to as CSI and CSI: Las Vegas, is an American procedural drama television series that aired on CBS from October 6, 2000, to September 27, 2015, spanning 15 seasons.",
     "wikipediaSlug": "CSI:_Crime_Scene_Investigation",
     "image": "CSI-LV.main.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 56747
   },
   {
@@ -947,6 +986,7 @@
     "fact": "The Tudors is a historical drama television series set primarily in 16th-century England, created and written by Michael Hirst and produced for the American premium cable television channel Showtime.",
     "wikipediaSlug": "The_Tudors",
     "image": "TudorsPromo4-2.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 56538
   },
   {
@@ -957,6 +997,7 @@
     "fact": "Ally McBeal is an American legal comedy-drama television series created by David E.",
     "wikipediaSlug": "Ally_McBeal",
     "image": "Ally_McBeal_S1_Opening.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 56267
   },
   {
@@ -967,6 +1008,7 @@
     "fact": "The Daily Show is an American late-night talk and news satire television program.",
     "wikipediaSlug": "The_Daily_Show",
     "image": "The_Daily_Show_2023_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 56037
   },
   {
@@ -977,6 +1019,7 @@
     "fact": "The Office is a British mockumentary television sitcom first broadcast in the United Kingdom on BBC Two on 9 July 2001.",
     "wikipediaSlug": "The_Office_(British_TV_series)",
     "image": "Theoffice.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 54615
   },
   {
@@ -987,6 +1030,7 @@
     "fact": "Elementary is an American procedural comedy-drama television series that presented a contemporary update of Arthur Conan Doyle's character Sherlock Holmes.",
     "wikipediaSlug": "Elementary_(TV_series)",
     "image": "Elementary_intertitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 54224
   },
   {
@@ -997,6 +1041,7 @@
     "fact": "Dallas is an American prime time soap opera that aired on CBS from April 2, 1978, to May 3, 1991.",
     "wikipediaSlug": "Dallas_(TV_series)",
     "image": "DallasLogo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 53900
   },
   {
@@ -1007,6 +1052,7 @@
     "fact": "Fear the Walking Dead is an American post-apocalyptic horror drama television series created by Robert Kirkman and Dave Erickson for AMC.",
     "wikipediaSlug": "Fear_the_Walking_Dead",
     "image": "Fear_The_Walking_Dead_title_card.png",
+    "imageRepo": "enwiki",
     "pageViews": 53847
   },
   {
@@ -1017,6 +1063,7 @@
     "fact": "Full House is an American television sitcom created by Jeff Franklin for ABC.",
     "wikipediaSlug": "Full_House",
     "image": "Full_House_1987_TV_series_logo.png",
+    "imageRepo": "commons",
     "pageViews": 53026
   },
   {
@@ -1027,6 +1074,7 @@
     "fact": "The Fresh Prince of Bel-Air is an American television sitcom created by Andy and Susan Borowitz that aired on NBC from September 10, 1990, to May 20, 1996.",
     "wikipediaSlug": "The_Fresh_Prince_of_Bel-Air",
     "image": "Fresh_Prince_Bel_Aire_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 52161
   },
   {
@@ -1037,6 +1085,7 @@
     "fact": "The Umbrella Academy is an American superhero comedy drama television series loosely based on the comic book series of the same name written by Gerard Way, illustrated by Gabriel Bá, and published by Dark Horse Comics.",
     "wikipediaSlug": "The_Umbrella_Academy_(TV_series)",
     "image": "The_Umbrella_Academy_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 51672
   },
   {
@@ -1047,6 +1096,7 @@
     "fact": "Xena: Warrior Princess is an American sword-and-sorcery television series filmed in New Zealand, which aired in first-run syndication from September 4, 1995, to June 18, 2001.",
     "wikipediaSlug": "Xena:_Warrior_Princess",
     "image": "Xena_Logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 51285
   },
   {
@@ -1057,6 +1107,7 @@
     "fact": "30 Rock is an American satirical surrealist sitcom television series created by Tina Fey that originally aired on NBC from October 11, 2006, to January 31, 2013.",
     "wikipediaSlug": "30_Rock",
     "image": "30Rock_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 51099
   },
   {
@@ -1067,6 +1118,7 @@
     "fact": "Legion is an American surrealist superhero thriller television series created by Noah Hawley for FX, based on the Marvel Comics character of the same name.",
     "wikipediaSlug": "Legion_(TV_series)",
     "image": "Legion_TV_series_logo.jpg",
+    "imageRepo": "commons",
     "pageViews": 51022
   },
   {
@@ -1077,6 +1129,7 @@
     "fact": "His Dark Materials is a fantasy drama television series based on the trilogy of novels by Philip Pullman.",
     "wikipediaSlug": "His_Dark_Materials_(TV_series)",
     "image": "His_Dark_Materials_TV_Title_Card.png",
+    "imageRepo": "enwiki",
     "pageViews": 50666
   },
   {
@@ -1087,6 +1140,7 @@
     "fact": "Hawaii Five-0 is an American police procedural drama television series developed for CBS by Roberto Orci, Alex Kurtzman and Peter M.",
     "wikipediaSlug": "Hawaii_Five-0_(2010_TV_series)",
     "image": "Hawaii_Five-0_2010_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 50562
   },
   {
@@ -1097,6 +1151,7 @@
     "fact": "Riverdale is an American television series based on the characters of Archie Comics.",
     "wikipediaSlug": "Riverdale_(American_TV_series)",
     "image": "Riverdale.png",
+    "imageRepo": "enwiki",
     "pageViews": 50458
   },
   {
@@ -1107,6 +1162,7 @@
     "fact": "Babylon 5 is an American space opera television series created by writer and producer J.",
     "wikipediaSlug": "Babylon_5",
     "image": "Babylon_5_1994_logo_(2).svg",
+    "imageRepo": "commons",
     "pageViews": 50417
   },
   {
@@ -1117,6 +1173,7 @@
     "fact": "Rome is an American-British historical drama television series created by John Milius, William J.",
     "wikipediaSlug": "Rome_(TV_series)",
     "image": "Rome_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 50275
   },
   {
@@ -1127,6 +1184,7 @@
     "fact": "The A‑Team is an American fictional action‑adventure television series that aired on NBC from January 23, 1983 to March 8, 1987.",
     "wikipediaSlug": "The_A-Team",
     "image": "A-Team-Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 49994
   },
   {
@@ -1137,6 +1195,7 @@
     "fact": "Agatha Christie's Poirot, or simply Poirot, is a British mystery drama television programme that aired on ITV from 8 January 1989 to 13 November 2013.",
     "wikipediaSlug": "Agatha_Christie%27s_Poirot",
     "image": "Agatha_Christie's_Poirot_(title_card).png",
+    "imageRepo": "commons",
     "pageViews": 49660
   },
   {
@@ -1147,6 +1206,7 @@
     "fact": "Entourage is an American satirical comedy-drama television series that premiered on HBO on July 18, 2004, and ended on September 11, 2011, after eight seasons.",
     "wikipediaSlug": "Entourage_(American_TV_series)",
     "image": "Entourage_title.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 49058
   },
   {
@@ -1157,6 +1217,7 @@
     "fact": "The Strain is an American horror drama television series that aired on FX from July 13, 2014, to September 17, 2017.",
     "wikipediaSlug": "The_Strain_(TV_series)",
     "image": "The_Strain_2014_Intertitle.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 48590
   },
   {
@@ -1167,6 +1228,7 @@
     "fact": "The Young and the Restless is an American television soap opera created by William J.",
     "wikipediaSlug": "The_Young_and_the_Restless",
     "image": "The_Young_and_the_Restless_(logo).svg",
+    "imageRepo": "commons",
     "pageViews": 48355
   },
   {
@@ -1177,6 +1239,7 @@
     "fact": "Oz is an American prison drama television series created, co-executive produced, and principally written by Tom Fontana.",
     "wikipediaSlug": "Oz_(TV_series)",
     "image": "Oz_titlecard.png",
+    "imageRepo": "enwiki",
     "pageViews": 48260
   },
   {
@@ -1187,6 +1250,7 @@
     "fact": "Running Man (Korean: 런닝맨) is a South Korean variety show, formerly part of SBS' Good Sunday lineup.",
     "wikipediaSlug": "Running_Man_(TV_program)",
     "image": "Running_Man_(TV_series).jpg",
+    "imageRepo": "enwiki",
     "pageViews": 47683
   },
   {
@@ -1197,6 +1261,7 @@
     "fact": "The King of Queens is an American television sitcom that ran on CBS from September 21, 1998, to May 14, 2007, with a total of 207 half-hour episodes spanning nine seasons.",
     "wikipediaSlug": "The_King_of_Queens",
     "image": "King_of_Queens_logo.png",
+    "imageRepo": "commons",
     "pageViews": 47655
   },
   {
@@ -1207,6 +1272,7 @@
     "fact": "Marvel's Agents of S.H.I.E.L.D. is an American television series created by Joss Whedon, Jed Whedon, and Maurissa Tancharoen for ABC based on the Marvel Comics organization S.H.I.E.L.D., a peacekeeping and spy agency in a world of superheroes.",
     "wikipediaSlug": "Agents_of_S.H.I.E.L.D.",
     "image": "Agents_of_S.H.I.E.L.D._logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 47582
   },
   {
@@ -1217,6 +1283,7 @@
     "fact": "The Apprentice is an American reality television series that judged the business skills of a group of contestants.",
     "wikipediaSlug": "The_Apprentice_(American_TV_series)",
     "image": "The_Apprentice_original_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 47091
   },
   {
@@ -1227,6 +1294,7 @@
     "fact": "Never Have I Ever is an American comedy-drama television series starring Maitreyi Ramakrishnan, created by Mindy Kaling and Lang Fisher.",
     "wikipediaSlug": "Never_Have_I_Ever_(TV_series)",
     "image": "Never_Have_I_Ever_Title_Card.png",
+    "imageRepo": "commons",
     "pageViews": 46717
   },
   {
@@ -1237,6 +1305,7 @@
     "fact": "All in the Family is an American sitcom television series that aired on CBS for nine seasons from January 12, 1971, to April 8, 1979, with a total of 205 episodes.",
     "wikipediaSlug": "All_in_the_Family",
     "image": "All_in_the_Family_(official_television_logo).svg",
+    "imageRepo": "commons",
     "pageViews": 46680
   },
   {
@@ -1247,6 +1316,7 @@
     "fact": "Home and Away (H&A) is an Australian television soap opera.",
     "wikipediaSlug": "Home_and_Away",
     "image": "Homeandawaytitlecard.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 46172
   },
   {
@@ -1257,6 +1327,7 @@
     "fact": "Loki is an American television series created by Michael Waldron for the streaming service Disney+, based on Marvel Comics featuring the character of the same name.",
     "wikipediaSlug": "Loki_(TV_series)",
     "image": "Loki_(TV_series)_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 45072
   },
   {
@@ -1267,6 +1338,7 @@
     "fact": "Marvel's Iron Fist is an American television series created by Scott Buck for the streaming service Netflix, based on the Marvel Comics character of the same name.",
     "wikipediaSlug": "Iron_Fist_(TV_series)",
     "image": "Iron_Fist_(TV_series)_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 44526
   },
   {
@@ -1277,6 +1349,7 @@
     "fact": "Heroes is an American superhero drama television series created by Tim Kring that aired on NBC for four seasons from September 25, 2006, to February 8, 2010.",
     "wikipediaSlug": "Heroes_(American_TV_series)",
     "image": "Heroes_(NBC_television_series)_logo_(2).svg",
+    "imageRepo": "commons",
     "pageViews": 43908
   },
   {
@@ -1287,6 +1360,7 @@
     "fact": "Star Trek: Picard is an American science fiction television series created by Akiva Goldsman, Michael Chabon, Kirsten Beyer, and Alex Kurtzman for the streaming service CBS All Access.",
     "wikipediaSlug": "Star_Trek:_Picard",
     "image": "Star_Trek_Picard_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 43838
   },
   {
@@ -1297,6 +1371,7 @@
     "fact": "American Gods is an American fantasy drama television series based on Neil Gaiman's 2001 novel and developed by Bryan Fuller and Michael Green for the premium cable network Starz.",
     "wikipediaSlug": "American_Gods_(TV_series)",
     "image": "American_Gods_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 43539
   },
   {
@@ -1307,6 +1382,7 @@
     "fact": "Altered Carbon is an American cyberpunk television series created by Laeta Kalogridis and based on the 2002 novel of the same title by English author Richard K.",
     "wikipediaSlug": "Altered_Carbon_(TV_series)",
     "image": "Altered_Carbon_title.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 43177
   },
   {
@@ -1317,6 +1393,7 @@
     "fact": "The Newsroom is an American political drama television series created and principally written by Aaron Sorkin that premiered on HBO on June 24, 2012, and concluded on December 14, 2014, consisting of 25 episodes over three seasons.",
     "wikipediaSlug": "The_Newsroom_(American_TV_series)",
     "image": "TheNewsroomTitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 43154
   },
   {
@@ -1327,6 +1404,7 @@
     "fact": "Bewitched is an American fantasy sitcom television series that originally aired for eight seasons on ABC from September 17, 1964, to March 25, 1972.",
     "wikipediaSlug": "Bewitched",
     "image": "Bewitched_(American_Broadcasting_Company_television_series_logo).svg",
+    "imageRepo": "enwiki",
     "pageViews": 42864
   },
   {
@@ -1337,6 +1415,7 @@
     "fact": "The IT Crowd is a British television sitcom originally broadcast by Channel 4, created, written, and directed by Graham Linehan, produced by Ash Atalla and starring Chris O'Dowd, Richard Ayoade, Katherine Parkinson, and Matt Berry.",
     "wikipediaSlug": "The_IT_Crowd",
     "image": "The_IT_Crowd_title_card.jpg",
+    "imageRepo": "commons",
     "pageViews": 42827
   },
   {
@@ -1347,6 +1426,7 @@
     "fact": "The Cosby Show is an American television sitcom created by and starring Bill Cosby that originally aired on NBC from September 20, 1984, to April 30, 1992, with a total of 201 half-hour episodes spanning eight seasons, including an outtakes special.",
     "wikipediaSlug": "The_Cosby_Show",
     "image": "The_Cosby_Show_(Carsey-Werner_Television)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 42492
   },
   {
@@ -1357,6 +1437,7 @@
     "fact": "Batman is an American superhero comedy television series based on the DC Comics character of the same name.",
     "wikipediaSlug": "Batman_(TV_series)",
     "image": "Batman_(1966_TV_series_logo).svg",
+    "imageRepo": "enwiki",
     "pageViews": 42366
   },
   {
@@ -1366,7 +1447,8 @@
     "year": 2016,
     "fact": "DC's Legends of Tomorrow, or simply Legends of Tomorrow, is an American time travel superhero television series developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, and Phil Klemmer, who are also executive producers along with Sarah Schechter and Chris Fedak; Klemmer and Fedak originally served as showrunners, while Keto Shimizu became co-showrunner with Klemmer starting with the fourth season.",
     "wikipediaSlug": "Legends_of_Tomorrow",
-    "image": "Legends_of_Tomorrow_Intertitle.png",
+    "image": "DC's_Legends_of_Tomorrow_(production_logo).svg",
+    "imageRepo": "commons",
     "pageViews": 42035
   },
   {
@@ -1377,6 +1459,7 @@
     "fact": "The Muppet Show is a variety sketch comedy family television series created by Jim Henson and starring the Muppets.",
     "wikipediaSlug": "The_Muppet_Show",
     "image": "Tv_muppet_show_opening.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 41982
   },
   {
@@ -1387,6 +1470,7 @@
     "fact": "MythBusters is a science entertainment television series created by Peter Rees, and produced by Beyond International, in Australia.",
     "wikipediaSlug": "MythBusters",
     "image": "MythBusters_title_screen.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 41953
   },
   {
@@ -1397,6 +1481,7 @@
     "fact": "My Name Is Earl is an American television sitcom created by Greg Garcia for NBC.",
     "wikipediaSlug": "My_Name_Is_Earl",
     "image": "My_Name_is_Earl_(20th_Century_Fox_Television)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 40895
   },
   {
@@ -1407,6 +1492,7 @@
     "fact": "The Bold and the Beautiful is an American television soap opera created by William J.",
     "wikipediaSlug": "The_Bold_and_the_Beautiful",
     "image": "The_Bold_and_the_Beautiful_(logo).svg",
+    "imageRepo": "commons",
     "pageViews": 40061
   },
   {
@@ -1417,6 +1503,7 @@
     "fact": "The Shield is an American crime drama television series created by Shawn Ryan, which aired on FX from March 12, 2002, to November 25, 2008, for seven seasons.",
     "wikipediaSlug": "The_Shield",
     "image": "TheShieldTitle.JPG",
+    "imageRepo": "enwiki",
     "pageViews": 39893
   },
   {
@@ -1427,6 +1514,7 @@
     "fact": "Fawlty Towers is a British television sitcom written by John Cleese and Connie Booth, originally broadcast on BBC Two in 1975 and 1979.",
     "wikipediaSlug": "Fawlty_Towers",
     "image": "Fawlty_Towers_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 39302
   },
   {
@@ -1437,6 +1525,7 @@
     "fact": "Sabrina the Teenage Witch is an American fantasy sitcom series based on the Archie Comics character Sabrina Spellman which shares the title of the 1971 comic book series Sabrina the Teenage Witch.",
     "wikipediaSlug": "Sabrina_the_Teenage_Witch_(1996_TV_series)",
     "image": "Sabrina_the_Teenage_Witch_(1996_TV_series)_official_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 39054
   },
   {
@@ -1446,7 +1535,8 @@
     "year": 1986,
     "fact": "ALF is an American television sitcom that aired on NBC from September 22, 1986, to March 24, 1990.",
     "wikipediaSlug": "ALF_(TV_series)",
-    "image": "Alfintro.jpg",
+    "image": "Alf.svg",
+    "imageRepo": "commons",
     "pageViews": 38969
   },
   {
@@ -1457,6 +1547,7 @@
     "fact": "I Love Lucy is an American sitcom that aired on CBS from October 15, 1951, to May 6, 1957, with 180 half-hour episodes across six seasons.",
     "wikipediaSlug": "I_Love_Lucy",
     "image": "I_Love_Lucy_title.svg",
+    "imageRepo": "commons",
     "pageViews": 38649
   },
   {
@@ -1467,6 +1558,7 @@
     "fact": "Under the Dome is an American science fiction mystery drama television series that premiered on CBS on June 24, 2013, and concluded on September 10, 2015.",
     "wikipediaSlug": "Under_the_Dome_(TV_series)",
     "image": "Under_the_Dome_(Amblin_Television)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 38435
   },
   {
@@ -1477,6 +1569,7 @@
     "fact": "American Crime Story is an American biographical crime drama anthology television series developed by Scott Alexander and Larry Karaszewski, who are also executive producers, alongside Brad Falchuk, Nina Jacobson, Ryan Murphy, and Brad Simpson.",
     "wikipediaSlug": "American_Crime_Story",
     "image": "American_Crime_Story.jpg",
+    "imageRepo": "commons",
     "pageViews": 38202
   },
   {
@@ -1487,6 +1580,7 @@
     "fact": "Everybody Hates Chris is an American semi-autobiographical sitcom created by Chris Rock and Ali LeRoi that originally aired on UPN from 2005 to 2006, and then on The CW until 2009.",
     "wikipediaSlug": "Everybody_Hates_Chris",
     "image": "Everybodyhateschrislogo.svg",
+    "imageRepo": "commons",
     "pageViews": 38154
   },
   {
@@ -1497,6 +1591,7 @@
     "fact": "Girl Meets World is an American comedy television series created by Michael Jacobs and April Kelly that premiered on Disney Channel on June 27, 2014.",
     "wikipediaSlug": "Girl_Meets_World",
     "image": "Girl_Meets_World_Logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 37829
   },
   {
@@ -1507,6 +1602,7 @@
     "fact": "Chilling Adventures of Sabrina is an American supernatural horror television series developed by Roberto Aguirre-Sacasa for Netflix, based on the Archie comic book series of the same name.",
     "wikipediaSlug": "Chilling_Adventures_of_Sabrina_(TV_series)",
     "image": "Chilling_Adventures_of_Sabrina_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 37763
   },
   {
@@ -1517,6 +1613,7 @@
     "fact": "Ray Donovan is an American crime drama television series created by Ann Biderman for Showtime.",
     "wikipediaSlug": "Ray_Donovan",
     "image": "Ray_Donovan_(Logo).png",
+    "imageRepo": "commons",
     "pageViews": 37416
   },
   {
@@ -1527,6 +1624,7 @@
     "fact": "Barney & Friends is an American children's television series created by Sheryl Leach targeted at children ages 2 to 5.",
     "wikipediaSlug": "Barney_%26_Friends",
     "image": "Barneylogo.png",
+    "imageRepo": "enwiki",
     "pageViews": 37269
   },
   {
@@ -1537,6 +1635,7 @@
     "fact": "The Tonight Show is an American late-night talk show that has been broadcast on NBC since 1954.",
     "wikipediaSlug": "The_Tonight_Show",
     "image": "Tonight_Show_Starring_Jimmy_Fallon_Intertitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 36934
   },
   {
@@ -1547,6 +1646,7 @@
     "fact": "JAG is an American legal drama television series with a U.S.",
     "wikipediaSlug": "JAG_(TV_series)",
     "image": "JAG_title.svg",
+    "imageRepo": "commons",
     "pageViews": 36666
   },
   {
@@ -1557,6 +1657,7 @@
     "fact": "Jessie is an American comedy television series created by Pamela Eells O'Connell that aired on Disney Channel from September 30, 2011 to October 16, 2015.",
     "wikipediaSlug": "Jessie_(2011_TV_series)",
     "image": "Jessie_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 36314
   },
   {
@@ -1567,6 +1668,7 @@
     "fact": "Boston Legal is an American legal comedy drama television series created by former lawyer and Boston native David E.",
     "wikipediaSlug": "Boston_Legal",
     "image": "Boston_Legal_-_ABC_television_series_logo.webp",
+    "imageRepo": "commons",
     "pageViews": 36257
   },
   {
@@ -1577,6 +1679,7 @@
     "fact": "The Borgias is a historical drama television series created by Neil Jordan.",
     "wikipediaSlug": "The_Borgias_(2011_TV_series)",
     "image": "The_Borgias.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 35886
   },
   {
@@ -1587,6 +1690,7 @@
     "fact": "WWE NXT, also known simply as NXT, is an American professional wrestling television program.",
     "wikipediaSlug": "WWE_NXT",
     "image": "WWE_NXT_2024_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 35747
   },
   {
@@ -1597,6 +1701,7 @@
     "fact": "Drake & Josh is an American buddy teen sitcom created by Dan Schneider for Nickelodeon.",
     "wikipediaSlug": "Drake_%26_Josh",
     "image": "Drake_&_Josh_Nickelodeon_Logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 35302
   },
   {
@@ -1607,6 +1712,7 @@
     "fact": "The Last Ship is an American action drama television series, loosely based on the 1988 novel of the same name by William Brinkley.",
     "wikipediaSlug": "The_Last_Ship_(TV_series)",
     "image": "LastShipSeriesIntertitle.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 35247
   },
   {
@@ -1617,6 +1723,7 @@
     "fact": "Atlanta is an American surrealist comedy-drama television series created by Donald Glover for FX.",
     "wikipediaSlug": "Atlanta_(TV_series)",
     "image": "Atlanta_Title_Card.png",
+    "imageRepo": "commons",
     "pageViews": 35022
   },
   {
@@ -1627,6 +1734,7 @@
     "fact": "LazyTown is an Icelandic children's Sitcom musical television series created by aerobics champion Magnús Scheving, who portrays the character Sportacus.",
     "wikipediaSlug": "LazyTown",
     "image": "LazyTown_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 34670
   },
   {
@@ -1637,6 +1745,7 @@
     "fact": "3rd Rock from the Sun is an American television sitcom created by Bonnie and Terry Turner, which originally aired from January 9, 1996, to May 22, 2001, on NBC.",
     "wikipediaSlug": "3rd_Rock_from_the_Sun",
     "image": "3rd_Rock_from_the_Sun_(Carsey-Warner_sitcom)_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 34454
   },
   {
@@ -1647,6 +1756,7 @@
     "fact": "Blindspot is an American crime drama television series created by Martin Gero for NBC and executive-produced by Gero and Greg Berlanti.",
     "wikipediaSlug": "Blindspot_(TV_series)",
     "image": "Blindspot_(TV_series)_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 34199
   },
   {
@@ -1657,6 +1767,7 @@
     "fact": "Alias is an American spy action thriller television series created by J.",
     "wikipediaSlug": "Alias_(TV_series)",
     "image": "Alias_(TV_series)_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 32604
   },
   {
@@ -1667,6 +1778,7 @@
     "fact": "Sense8 is an American science fiction drama television series created by Lana and Lilly Wachowski and J.",
     "wikipediaSlug": "Sense8",
     "image": "Sense8_Title.png",
+    "imageRepo": "commons",
     "pageViews": 32579
   },
   {
@@ -1677,6 +1789,7 @@
     "fact": "Burn Notice is an American spy comedy-drama television series created by Matt Nix.",
     "wikipediaSlug": "Burn_Notice",
     "image": "Burn_Notice_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 32354
   },
   {
@@ -1687,6 +1800,7 @@
     "fact": "Henry Danger is an American comedy television series created by Dan Schneider and Dana Olsen that aired on Nickelodeon from July 26, 2014, to March 21, 2020.",
     "wikipediaSlug": "Henry_Danger",
     "image": "Henry_Danger_(2014_television_series)_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 32074
   },
   {
@@ -1697,6 +1811,7 @@
     "fact": "Wizards of Waverly Place is an American fantasy teen sitcom created by Todd J.",
     "wikipediaSlug": "Wizards_of_Waverly_Place",
     "image": "Disney_Wizards_of_Waverly_Place_(television_series_logo).png",
+    "imageRepo": "enwiki",
     "pageViews": 31870
   },
   {
@@ -1707,6 +1822,7 @@
     "fact": "The L Word is a television drama series that aired on Showtime in the United States from January 18, 2004 to March 8, 2009.",
     "wikipediaSlug": "The_L_Word",
     "image": "The_L_Word_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 31026
   },
   {
@@ -1717,6 +1833,7 @@
     "fact": "60 Minutes is an American television news magazine broadcast on the CBS television network.",
     "wikipediaSlug": "60_Minutes",
     "image": "60-minutes.svg",
+    "imageRepo": "commons",
     "pageViews": 30721
   },
   {
@@ -1727,6 +1844,7 @@
     "fact": "Law & Order: Criminal Intent is an American police procedural drama television series set in New York City, where it was also primarily produced.",
     "wikipediaSlug": "Law_%26_Order:_Criminal_Intent",
     "image": "Law_&_Order_Criminal_Intent_title_screen.svg",
+    "imageRepo": "commons",
     "pageViews": 30535
   },
   {
@@ -1737,6 +1855,7 @@
     "fact": "Bates Motel is an American psychological horror drama television series based on characters from the 1959 novel Psycho by Robert Bloch that aired on A&E from March 18, 2013, to April 24, 2017.",
     "wikipediaSlug": "Bates_Motel_(TV_series)",
     "image": "BatesMotelTitle.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 30069
   },
   {
@@ -1747,6 +1866,7 @@
     "fact": "CSI: Miami is an American police procedural television series that aired on CBS from September 23, 2002, to April 8, 2012.",
     "wikipediaSlug": "CSI:_Miami",
     "image": "CSI_Miami.png",
+    "imageRepo": "enwiki",
     "pageViews": 30033
   },
   {
@@ -1757,6 +1877,7 @@
     "fact": "That's So Raven is an American television fantasy teen sitcom that was created by Michael Poryes and Susan Sherman, and aired on Disney Channel for four seasons between January 2003 and November 2007.",
     "wikipediaSlug": "That%27s_So_Raven",
     "image": "That's_So_Raven_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 29681
   },
   {
@@ -1767,6 +1888,7 @@
     "fact": "Totally Spies!",
     "wikipediaSlug": "Totally_Spies!",
     "image": "Totally_Spies!_logo.png",
+    "imageRepo": "commons",
     "pageViews": 29161
   },
   {
@@ -1777,6 +1899,7 @@
     "fact": "Spin City is an American sitcom television series that aired from September 17, 1996, to April 30, 2002, on ABC.",
     "wikipediaSlug": "Spin_City",
     "image": "Spin_City_-_title.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 29004
   },
   {
@@ -1787,6 +1910,7 @@
     "fact": "Mission: Impossible is an American espionage television series financed and produced by Desilu Productions that aired on CBS for seven seasons from September 17, 1966, to March 30, 1973.",
     "wikipediaSlug": "Mission:_Impossible_(1966_TV_series)",
     "image": "Martin_Landau_Barbara_Bain_Steven_Hill_Mission_Impossible_1967.jpg",
+    "imageRepo": "commons",
     "pageViews": 28797
   },
   {
@@ -1797,6 +1921,7 @@
     "fact": "Farscape is a science fiction television series conceived by Rockne S.",
     "wikipediaSlug": "Farscape",
     "image": "Farscape_Logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 28606
   },
   {
@@ -1807,6 +1932,7 @@
     "fact": "Dynasty is an American prime time soap opera that aired on ABC from January 12, 1981, to May 11, 1989.",
     "wikipediaSlug": "Dynasty_(1981_TV_series)",
     "image": "Dynasty_(1981)_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 28577
   },
   {
@@ -1817,6 +1943,7 @@
     "fact": "Sam & Cat is an American teen sitcom created by Dan Schneider for Nickelodeon.",
     "wikipediaSlug": "Sam_%26_Cat",
     "image": "Sam_and_Cat_logo2.png",
+    "imageRepo": "enwiki",
     "pageViews": 27940
   },
   {
@@ -1827,6 +1954,7 @@
     "fact": "Muhteşem Yüzyıl is a Turkish historical drama series.",
     "wikipediaSlug": "Muhte%C5%9Fem_Y%C3%BCzy%C4%B1l",
     "image": "MagnificentCenturyTheme.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 27738
   },
   {
@@ -1837,6 +1965,7 @@
     "fact": "El Chavo, also known as El Chavo del Ocho is a Mexican television sitcom created by Chespirito and produced by Televisa.",
     "wikipediaSlug": "El_Chavo_del_Ocho",
     "image": "El_Chavo_(simple_logo).svg",
+    "imageRepo": "commons",
     "pageViews": 27704
   },
   {
@@ -1847,6 +1976,7 @@
     "fact": "Good Luck Charlie is an American sitcom that aired on Disney Channel from April 4, 2010, to February 16, 2014.",
     "wikipediaSlug": "Good_Luck_Charlie",
     "image": "Goodluck_charly_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 27577
   },
   {
@@ -1857,6 +1987,7 @@
     "fact": "WWE Raw, also known as Monday Night Raw or simply Raw, is an American professional wrestling television program produced by WWE.",
     "wikipediaSlug": "WWE_Raw",
     "image": "WWE_RAW_Logo_2025.svg",
+    "imageRepo": "commons",
     "pageViews": 27454
   },
   {
@@ -1867,6 +1998,7 @@
     "fact": "Jane the Virgin is an American romantic comedy-drama and satirical telenovela developed by Jennie Snyder Urman.",
     "wikipediaSlug": "Jane_the_Virgin",
     "image": "Jane_the_Virgin.png",
+    "imageRepo": "commons",
     "pageViews": 27372
   },
   {
@@ -1877,6 +2009,7 @@
     "fact": "Shake It Up is an American sitcom that originally aired on Disney Channel from November 7, 2010, to November 10, 2013.",
     "wikipediaSlug": "Shake_It_Up_(American_TV_series)",
     "image": "Shake_it_up_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 27330
   },
   {
@@ -1887,6 +2020,7 @@
     "fact": "Joey is an American sitcom created by Scott Silveri and Shana Goldberg-Meehan.",
     "wikipediaSlug": "Joey_(TV_series)",
     "image": "Joey_(Warner_Bros._television_series_logo)_2.svg",
+    "imageRepo": "commons",
     "pageViews": 26563
   },
   {
@@ -1897,6 +2031,7 @@
     "fact": "NCIS: New Orleans is an American action crime drama and police procedural television series that premiered on CBS on September 23, 2014, following the twelfth season of NCIS.",
     "wikipediaSlug": "NCIS:_New_Orleans",
     "image": "NCIS_New_Orleans_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 26504
   },
   {
@@ -1907,6 +2042,7 @@
     "fact": "Cold Case is an American police procedural crime drama television series.",
     "wikipediaSlug": "Cold_Case",
     "image": "Cold_Case_cover.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 25635
   },
   {
@@ -1917,6 +2053,7 @@
     "fact": "Batwoman is an American superhero television series developed by Caroline Dries for The CW.",
     "wikipediaSlug": "Batwoman_(TV_series)",
     "image": "Batwoman_TV_series_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 25590
   },
   {
@@ -1927,6 +2064,7 @@
     "fact": "Secret Invasion is an American television miniseries created by Kyle Bradstreet for the streaming service Disney+, based on the 2008 Marvel Comics storyline \"Secret Invasion\".",
     "wikipediaSlug": "Secret_Invasion_(miniseries)",
     "image": "Secret_Invasion_(miniseries)_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 25195
   },
   {
@@ -1937,6 +2075,7 @@
     "fact": "Moonlighting is an American comedy drama television series that aired on ABC from March 3, 1985, to May 14, 1989.",
     "wikipediaSlug": "Moonlighting_(TV_series)",
     "image": "Moonlighting_(title_card).jpg",
+    "imageRepo": "enwiki",
     "pageViews": 24500
   },
   {
@@ -1947,6 +2086,7 @@
     "fact": "Stargate Universe is a military science fiction drama television series and part of MGM's Stargate franchise.",
     "wikipediaSlug": "Stargate_Universe",
     "image": "Stargate_Universe_2009_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 24190
   },
   {
@@ -1957,6 +2097,7 @@
     "fact": "Yes Minister is a British political satire sitcom written by Antony Jay and Jonathan Lynn.",
     "wikipediaSlug": "Yes_Minister",
     "image": "Yes_Minister_opening_titles.gif",
+    "imageRepo": "enwiki",
     "pageViews": 23138
   },
   {
@@ -1967,6 +2108,7 @@
     "fact": "Misfits is a British science fiction comedy-drama television show that aired on E4.",
     "wikipediaSlug": "Misfits_(TV_series)",
     "image": "MisfitsIntertitle.png",
+    "imageRepo": "enwiki",
     "pageViews": 23059
   },
   {
@@ -1977,6 +2119,7 @@
     "fact": "The Falcon and the Winter Soldier is an American television miniseries created by Malcolm Spellman for the streaming service Disney+, based on Marvel Comics featuring the characters Sam Wilson / Falcon and Bucky Barnes / Winter Soldier.",
     "wikipediaSlug": "The_Falcon_and_the_Winter_Soldier",
     "image": "The_Falcon_and_the_Winter_Soldier_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 21841
   },
   {
@@ -1987,6 +2130,7 @@
     "fact": "Zoboomafoo is a live-action/animated children's television series that originally aired on PBS from January 25, 1999, to November 21, 2001.",
     "wikipediaSlug": "Zoboomafoo",
     "image": "Zoboomafoo_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 21514
   },
   {
@@ -1997,6 +2141,7 @@
     "fact": "WWE SmackDown, also known as Friday Night SmackDown or simply SmackDown, is an American professional wrestling television program produced by WWE.",
     "wikipediaSlug": "WWE_SmackDown",
     "image": "WWE_SmackDown_(2024)_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 21501
   },
   {
@@ -2007,6 +2152,7 @@
     "fact": "Marvel's Luke Cage is an American television series created by Cheo Hodari Coker for the streaming service Netflix, based on the Marvel Comics character of the same name.",
     "wikipediaSlug": "Luke_Cage_(TV_series)",
     "image": "Luke_Cage_(TV_series)_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 21479
   },
   {
@@ -2017,6 +2163,7 @@
     "fact": "Moon Lovers: Scarlet Heart Ryeo is a South Korean television series based on the Chinese novel Bu Bu Jing Xin by Tong Hua.",
     "wikipediaSlug": "Moon_Lovers:_Scarlet_Heart_Ryeo",
     "image": "Scarletheartryeoposter.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 21176
   },
   {
@@ -2027,6 +2174,7 @@
     "fact": "The Suite Life on Deck is an American teen sitcom created by Danny Kallis and Jim Geoghan, and developed by Kallis and Pamela Eells O'Connell.",
     "wikipediaSlug": "The_Suite_Life_on_Deck",
     "image": "The_Suite_Life_on_Deck_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 20490
   },
   {
@@ -2037,6 +2185,7 @@
     "fact": "The Bridge is a Nordic noir crime television series created and written by Hans Rosenfeldt.",
     "wikipediaSlug": "The_Bridge_(2011_TV_series)",
     "image": "The_Bridge_season_one.png",
+    "imageRepo": "enwiki",
     "pageViews": 19830
   },
   {
@@ -2047,6 +2196,7 @@
     "fact": "Dollhouse is an American science fiction television series created by writer and director Joss Whedon.",
     "wikipediaSlug": "Dollhouse_(TV_series)",
     "image": "Dollhouse_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 19592
   },
   {
@@ -2057,6 +2207,7 @@
     "fact": "Monty Python's Flying Circus is a British surreal sketch comedy series created by and starring Graham Chapman, John Cleese, Eric Idle, Terry Jones, Michael Palin, and Terry Gilliam, who became known collectively as \"Monty Python\", or the \"Pythons\".",
     "wikipediaSlug": "Monty_Python%27s_Flying_Circus",
     "image": "Monty_Python's_Flying_Circus_Title_Card.png",
+    "imageRepo": "enwiki",
     "pageViews": 19434
   },
   {
@@ -2067,6 +2218,7 @@
     "fact": "Guiding Light is an American daytime soap opera.",
     "wikipediaSlug": "Guiding_Light",
     "image": "Guiding_Light_final_logo.jpg",
+    "imageRepo": "commons",
     "pageViews": 18888
   },
   {
@@ -2077,6 +2229,7 @@
     "fact": "Diriliş: Ertuğrul, translated as Resurrection: Ertuğrul, is a Turkish historical drama television series inspired by the life of Ertuğrul Bey, the father of Osman I, founder of the Ottoman Empire.",
     "wikipediaSlug": "Dirili%C5%9F:_Ertu%C4%9Frul",
     "image": "Diriliş-_Ertuğrul_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 18339
   },
   {
@@ -2087,6 +2240,7 @@
     "fact": "CSI: NY is an American police procedural television series that aired on CBS from September 22, 2004, to February 22, 2013, for nine seasons and 197 original episodes.",
     "wikipediaSlug": "CSI:_NY",
     "image": "CSI_Ny.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 18307
   },
   {
@@ -2097,6 +2251,7 @@
     "fact": "Dark Angel is an American science fiction action drama television series that aired on Fox from October 3, 2000, to May 3, 2002.",
     "wikipediaSlug": "Dark_Angel_(American_TV_series)",
     "image": "Dark_Angel_Title_Card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 17545
   },
   {
@@ -2107,6 +2262,7 @@
     "fact": "Kojak is an American action crime drama television series starring Telly Savalas as the title character, New York City Police Department Detective Lieutenant Theophilus \"Theo\" Kojak.",
     "wikipediaSlug": "Kojak",
     "image": "Kojak_tv_1973.svg",
+    "imageRepo": "commons",
     "pageViews": 17440
   },
   {
@@ -2117,6 +2273,7 @@
     "fact": "Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and aliens are hiding in plain sight as a trio of high school-aged teenagers.",
     "wikipediaSlug": "Roswell_(TV_series)",
     "image": "RoswellTVSeries.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 17042
   },
   {
@@ -2127,6 +2284,7 @@
     "fact": "The Ed Sullivan Show is an American television variety show that ran on CBS from June 20, 1948, to March 28, 1971, and was hosted by New York entertainment columnist Ed Sullivan.",
     "wikipediaSlug": "The_Ed_Sullivan_Show",
     "image": "The_Ed_Sullivan_Show.png",
+    "imageRepo": "enwiki",
     "pageViews": 17028
   },
   {
@@ -2137,6 +2295,7 @@
     "fact": "Numbers is an American crime drama television series that originally aired on CBS from January 23, 2005, to March 12, 2010, with a total of six seasons consisting of 118 episodes.",
     "wikipediaSlug": "Numbers_(TV_series)",
     "image": "Numb3rs_Insignia.jpg",
+    "imageRepo": "commons",
     "pageViews": 16972
   },
   {
@@ -2147,6 +2306,7 @@
     "fact": "Late Show with David Letterman is an American late-night talk show hosted by David Letterman on CBS, the first iteration of the Late Show franchise.",
     "wikipediaSlug": "Late_Show_with_David_Letterman",
     "image": "Late_Show_with_David_Letterman_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 16933
   },
   {
@@ -2157,6 +2317,7 @@
     "fact": "Big Time Rush is an American musical sitcom television series created by Scott Fellows that originally aired on Nickelodeon from November 28, 2009, to July 25, 2013, featuring the band Big Time Rush portrayed as a fictional version of themselves, similar to The Monkees.",
     "wikipediaSlug": "Big_Time_Rush_(TV_series)",
     "image": "Big_Time_Rush_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 16485
   },
   {
@@ -2167,6 +2328,7 @@
     "fact": "Medium is an American supernatural procedural drama series created by Glenn Gordon Caron that originally aired on NBC for five seasons from January 3, 2005, to June 1, 2009, and on CBS for two more seasons from September 25, 2009, to January 21, 2011.",
     "wikipediaSlug": "Medium_(TV_series)",
     "image": "Medium_Intertitle.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 16218
   },
   {
@@ -2177,6 +2339,7 @@
     "fact": "Without a Trace is an American police procedural drama television series created by Hank Steinberg that aired on CBS from September 26, 2002, to May 19, 2009, with the total of seven seasons and 160 episodes.",
     "wikipediaSlug": "Without_a_Trace",
     "image": "Without_a_trace_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 15722
   },
   {
@@ -2187,6 +2350,7 @@
     "fact": "Marco Polo is an American drama television series inspired by Marco Polo's early years in the court of Kublai Khan, the Khagan of the Mongol Empire and the founder of the Yuan dynasty (1271–1368).",
     "wikipediaSlug": "Marco_Polo_(2014_TV_series)",
     "image": "Marco_Polo_2014_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 15587
   },
   {
@@ -2197,6 +2361,7 @@
     "fact": "Austin & Ally is an American comedy television series created by Kevin Kopelow and Heath Seifert that aired on Disney Channel from December 2, 2011 to January 10, 2016.",
     "wikipediaSlug": "Austin_%26_Ally",
     "image": "Austin_&_ally_tv_series_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 15312
   },
   {
@@ -2207,6 +2372,7 @@
     "fact": "Marvel's Agent Carter, or simply Agent Carter, is an American television series created by Christopher Markus & Stephen McFeely for ABC, based on the Marvel Comics character Peggy Carter following her roles in the 2011 film Captain America: The First Avenger and the 2013 Marvel One-Shot short film of Agent Carter.",
     "wikipediaSlug": "Agent_Carter_(TV_series)",
     "image": "Agent_Carter_(TV_series)_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 14358
   },
   {
@@ -2217,6 +2383,7 @@
     "fact": "Endless Love is a Turkish drama series produced by Ay Yapım and broadcast on Star TV between 2015 and 2017.",
     "wikipediaSlug": "Endless_Love_(2015_TV_series)",
     "image": "Kara_Sevda_Logo.png",
+    "imageRepo": "commons",
     "pageViews": 13987
   },
   {
@@ -2227,6 +2394,7 @@
     "fact": "Terra Nova is an American science fiction drama television series created by Kelly Marcel and Craig Silverstein.",
     "wikipediaSlug": "Terra_Nova_(TV_series)",
     "image": "Terra_Nova_series_logo.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 13943
   },
   {
@@ -2237,6 +2405,7 @@
     "fact": "Sonny with a Chance is an American teen sitcom created by Steve Marmel that aired on Disney Channel for two seasons between February 2009 and January 2011.",
     "wikipediaSlug": "Sonny_with_a_Chance",
     "image": "Sonnywithachance-logo.png",
+    "imageRepo": "commons",
     "pageViews": 13816
   },
   {
@@ -2247,6 +2416,7 @@
     "fact": "A.N.T.",
     "wikipediaSlug": "A.N.T._Farm",
     "image": "A.N.T.Farm.png",
+    "imageRepo": "commons",
     "pageViews": 13590
   },
   {
@@ -2257,6 +2427,7 @@
     "fact": "Bananas in Pyjamas is an Australian children's television series that first aired on 20 July 1992 on ABC.",
     "wikipediaSlug": "Bananas_in_Pyjamas",
     "image": "Bananas_in_Pyjamas_1992_Logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 13315
   },
   {
@@ -2267,6 +2438,7 @@
     "fact": "The Little Mole is a series of cartoons as well as the name of their title character, an anthropomorphic mole, created by Czech animator Zdeněk Miler between 1957 and 2002.",
     "wikipediaSlug": "The_Little_Mole",
     "image": "Mole_picture_at_corn_sneaf_in_Horky,_Želetava,_Třebíč_District.JPG",
+    "imageRepo": "commons",
     "pageViews": 12843
   },
   {
@@ -2277,6 +2449,7 @@
     "fact": "La Femme Nikita is a Canadian action-drama television series based on the French film of the same name by Luc Besson.",
     "wikipediaSlug": "La_Femme_Nikita_(TV_series)",
     "image": "La_Femme_Nikita_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 12084
   },
   {
@@ -2287,6 +2460,7 @@
     "fact": "Wonder Woman, known for seasons 2 and 3 as The New Adventures of Wonder Woman, is an American superhero television series based on the DC Comics comic book superhero of the same name.",
     "wikipediaSlug": "Wonder_Woman_(TV_series)",
     "image": "Wonder_Woman_(1975_TV_series)_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 11988
   },
   {
@@ -2297,6 +2471,7 @@
     "fact": "Meet the Press also known as Meet the Press with Kristen Welker is a weekly American television Sunday morning talk show broadcast on NBC.",
     "wikipediaSlug": "Meet_the_Press",
     "image": "Meet_the_Press_2023.svg",
+    "imageRepo": "commons",
     "pageViews": 11946
   },
   {
@@ -2307,6 +2482,7 @@
     "fact": "Rubí is a Mexican telenovela produced by José Alberto Castro for Televisa.",
     "wikipediaSlug": "Rub%C3%AD_(2004_TV_series)",
     "image": "Rubi_(poster_-_2004_Mexican_telenovela).jpg",
+    "imageRepo": "enwiki",
     "pageViews": 11537
   },
   {
@@ -2317,6 +2493,7 @@
     "fact": "Little Britain is a British sketch comedy series that began as a radio show in 2000 and ran as a television series between 2003 and 2006.",
     "wikipediaSlug": "Little_Britain_(TV_series)",
     "image": "Little_Britain_скетч_шоу_логотип.png",
+    "imageRepo": "commons",
     "pageViews": 11527
   },
   {
@@ -2327,6 +2504,7 @@
     "fact": "Kyle XY is an American science fiction television series created by Eric Bress and J.",
     "wikipediaSlug": "Kyle_XY",
     "image": "KyleXYtitle.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 11447
   },
   {
@@ -2337,6 +2515,7 @@
     "fact": "W (Korean: 더블유) is a 2016 South Korean television series, starring Lee Jong-suk and Han Hyo-joo.",
     "wikipediaSlug": "W_(TV_series)",
     "image": "W_(더블유)_-_poster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 11215
   },
   {
@@ -2347,6 +2526,7 @@
     "fact": "María la del Barrio is a 1995 Mexican television drama series broadcast by Canal de Las Estrellas.",
     "wikipediaSlug": "Mar%C3%ADa_la_del_Barrio",
     "image": "Thalia_María.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 11127
   },
   {
@@ -2357,6 +2537,7 @@
     "fact": "Fatmagül'ün Suçu Ne?",
     "wikipediaSlug": "Fatmag%C3%BCl%27%C3%BCn_Su%C3%A7u_Ne%3F",
     "image": "Fatmagül'ün_Suçu_Ne_cover.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 10941
   },
   {
@@ -2367,6 +2548,7 @@
     "fact": "Servant of the People is a Ukrainian political satire comedy series created and produced by Volodymyr Zelenskyy.",
     "wikipediaSlug": "Servant_of_the_People_(2015_TV_series)",
     "image": "Servant_of_the_People_TV.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 10234
   },
   {
@@ -2377,6 +2559,7 @@
     "fact": "Muhteşem Yüzyıl: Kösem is a Turkish television sequel to the 2011 Turkish television period drama, Muhteşem Yüzyıl.",
     "wikipediaSlug": "Muhte%C5%9Fem_Y%C3%BCzy%C4%B1l:_K%C3%B6sem",
     "image": "Opening_cover_of_the_Muhtesem_Yuzyil_Kosem.jpeg",
+    "imageRepo": "enwiki",
     "pageViews": 10094
   },
   {
@@ -2387,6 +2570,7 @@
     "fact": "FlashForward is an American television series, adapted for television by Brannon Braga and David S.",
     "wikipediaSlug": "FlashForward",
     "image": "FlashForward2.JPG",
+    "imageRepo": "enwiki",
     "pageViews": 8994
   },
   {
@@ -2397,6 +2581,7 @@
     "fact": "Winter Sonata is a 2002 South Korean television drama series, starring Bae Yong-joon and Choi Ji-woo.",
     "wikipediaSlug": "Winter_Sonata",
     "image": "Winter_Sonata_(TV_series).jpg",
+    "imageRepo": "enwiki",
     "pageViews": 8270
   },
   {
@@ -2407,6 +2592,7 @@
     "fact": "Jonas, is a Disney Channel Original Series created by Michael Curtis and Roger S.",
     "wikipediaSlug": "Jonas_(TV_series)",
     "image": "JONAS_LA.png",
+    "imageRepo": "enwiki",
     "pageViews": 7811
   },
   {
@@ -2417,6 +2603,7 @@
     "fact": "O Clone is a Brazilian telenovela created by Glória Perez and directed by Jayme Monjardim.",
     "wikipediaSlug": "O_Clone",
     "image": "O_Clone_title_card.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 7563
   },
   {
@@ -2427,6 +2614,7 @@
     "fact": "Marimar is a 1994 Mexican television drama series broadcast by Canal de Las Estrellas.",
     "wikipediaSlug": "Marimar_(Mexican_TV_series)",
     "image": "Thalia_Marimar,.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 7170
   },
   {
@@ -2437,6 +2625,7 @@
     "fact": "Violetta is an Argentine telenovela filmed in Buenos Aires, Argentina and developed by Disney Channel Latin America and Europe, Middle East and Africa (EMEA) and production company Pol-ka, debuted in Argentina, Latin America and Italy on 14 May 2012.",
     "wikipediaSlug": "Violetta_(TV_series)",
     "image": "Disney_Violetta_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 7165
   },
   {
@@ -2447,6 +2636,7 @@
     "fact": "Pasión de Gavilanes is a Colombian telenovela written by Julio Jiménez.",
     "wikipediaSlug": "Pasi%C3%B3n_de_Gavilanes",
     "image": "Pasión_de_gavilanes_poster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 6896
   },
   {
@@ -2457,6 +2647,7 @@
     "fact": "La Usurpadora is a 1998 Mexican television drama series broadcast by Canal de Las Estrellas.",
     "wikipediaSlug": "La_usurpadora_(1998_TV_series)",
     "image": "La_Usurpadora.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 6845
   },
   {
@@ -2467,6 +2658,7 @@
     "fact": "Aşk-ı Memnu is a Turkish romantic drama television series aired on Kanal D from 2008 to 2010.",
     "wikipediaSlug": "A%C5%9Fk-%C4%B1_Memnu_(2008_TV_series)",
     "image": "Aşk-ı_Memnu_(TV_series).jpg",
+    "imageRepo": "enwiki",
     "pageViews": 6843
   },
   {
@@ -2477,6 +2669,7 @@
     "fact": "Man vs.",
     "wikipediaSlug": "Man_vs._Wild",
     "image": "Man_Vs_Wild_Logo_Green.png",
+    "imageRepo": "enwiki",
     "pageViews": 6320
   },
   {
@@ -2487,6 +2680,7 @@
     "fact": "Dream High (Korean: 드림하이) is a 2011 South Korean television series starring Bae Suzy, Kim Soo-hyun, Ok Taec-yeon, Hahm Eun-jung, Jang Wooyoung and Lee Ji-eun.",
     "wikipediaSlug": "Dream_High",
     "image": "DreamHigh_PromotionalPoster.png",
+    "imageRepo": "enwiki",
     "pageViews": 6159
   },
   {
@@ -2497,6 +2691,7 @@
     "fact": "Ezel is a Turkish crime thriller TV series that was initially broadcast by Show TV in fall 2009.",
     "wikipediaSlug": "Ezel_(TV_series)",
     "image": "Ezelseriescover.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 6070
   },
   {
@@ -2507,6 +2702,7 @@
     "fact": "Rosalinda is a 1999 Mexican television drama series broadcast by Canal de Las Estrellas.",
     "wikipediaSlug": "Rosalinda_(Mexican_TV_series)",
     "image": "Thalia_Rosa.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 5011
   },
   {
@@ -2517,6 +2713,7 @@
     "fact": "Amor real is a Mexican telenovela produced by Carla Estrada for Televisa, broadcast by Canal de las Estrellas.",
     "wikipediaSlug": "Amor_real",
     "image": "Amor_Real_DVD.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 4815
   },
   {
@@ -2527,6 +2724,7 @@
     "fact": "Mi corazón es tuyo is a Mexican telenovela produced by Juan Osorio for Televisa.",
     "wikipediaSlug": "Mi_coraz%C3%B3n_es_tuyo",
     "image": "Mi_Corazón_Es_Tuyo_Póster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 4771
   },
   {
@@ -2537,6 +2735,7 @@
     "fact": "Binbir Gece is a Turkish soap opera revolving around four main characters: Sehrazat, Onur, Kerem and Bennu.",
     "wikipediaSlug": "Binbir_Gece",
     "image": "Binbir_Gece_cover.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 3914
   },
   {
@@ -2547,6 +2746,7 @@
     "fact": "Alarm für Cobra 11 – Die Autobahnpolizei is a long-running, popular German television series about a two-man team of highway police (Autobahnpolizei), originally set in Berlin and since 1999 in the area of Cologne.",
     "wikipediaSlug": "Alarm_for_Cobra_11_%E2%80%93_The_Highway_Police",
     "image": "Alarm_für_Cobra_11_Logo_2020.svg",
+    "imageRepo": "commons",
     "pageViews": 3816
   },
   {
@@ -2557,6 +2757,7 @@
     "fact": "Cuidado con el ángel is a Mexican telenovela produced by Nathalie Lartilleux for Televisa in 2008.",
     "wikipediaSlug": "Cuidado_con_el_%C3%A1ngel_(2008_TV_series)",
     "image": "Cuidadoconelangel.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 3523
   },
   {
@@ -2567,6 +2768,7 @@
     "fact": "Nurses is a Colombian medical drama television series produced by Ana María Pérez that aired on RCN Televisión from 23 October 2019 to 12 August 2022.",
     "wikipediaSlug": "Nurses_(Colombian_TV_series)",
     "image": "Enfermeras_poster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 2864
   },
   {
@@ -2577,6 +2779,7 @@
     "fact": "Carrossel is a Brazilian children's telenovela created by Íris Abravanel as a Brazilian remake of the Mexican telenovela Carrusel — itself inspired by the Argentinean telenovela Jacinta Pichimahuida, la Maestra que no se Olvida, written by Abel Santa Cruz.",
     "wikipediaSlug": "Carrossel",
     "image": "Carrossel_logo_SBT.png",
+    "imageRepo": "commons",
     "pageViews": 2126
   },
   {
@@ -2587,6 +2790,7 @@
     "fact": "Papás por conveniencia is a Mexican telenovela produced by Rosy Ocampo for TelevisaUnivision.",
     "wikipediaSlug": "Pap%C3%A1s_por_conveniencia",
     "image": "Papás_por_conveniencia_poster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 1626
   },
   {
@@ -2597,6 +2801,7 @@
     "fact": "Mi camino es amarte is a Mexican telenovela that aired on Las Estrellas from 7 November 2022 to 12 March 2023.",
     "wikipediaSlug": "Mi_camino_es_amarte",
     "image": "Mi_camino_es_amarte_poster.jpg",
+    "imageRepo": "enwiki",
     "pageViews": 1309
   }
 ]

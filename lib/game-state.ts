@@ -204,8 +204,8 @@ export function createDailyGameStateFromSnapshot(
     badlyPlaced: null,
     difficulty,
     imageCache: [
-      snapshot.next ? preloadImage(snapshot.next.image) : null,
-      snapshot.nextButOne ? preloadImage(snapshot.nextButOne.image) : null,
+      snapshot.next ? preloadImage(snapshot.next) : null,
+      snapshot.nextButOne ? preloadImage(snapshot.nextButOne) : null,
     ].filter((image): image is HTMLImageElement => image !== null),
     lives: snapshot.lives,
     next: snapshot.next,

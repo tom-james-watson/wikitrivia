@@ -5,7 +5,7 @@ import {
   getDifficultyPoolSize,
   MIN_ROUTE_CARD_COUNT,
 } from "../../lib/free-play-difficulty-rules";
-import { Card } from "../../types/cards";
+import { Card, ImageRepo } from "../../types/cards";
 import { DeckDifficultyCounts, DeckNode } from "../../types/decks";
 import { textLooksUnsafeForCards } from "../card-safety";
 import { Deck, getAllDeckDefinitions, rootDeck } from "../deck-tree";
@@ -25,6 +25,7 @@ type BuiltCard = {
   fact: string;
   id: string;
   image: string | null;
+  imageRepo: ImageRepo | null | undefined;
   pageViews: number | null;
   popularityScore: number;
   qid: string;
@@ -88,6 +89,7 @@ type RejectionReason =
   | "empty-title"
   | "missing-english-wikipedia"
   | "missing-image"
+  | "missing-image-file"
   | "missing-wikipedia-summary"
   | "nsfw-content"
   | "unsupported-image-format"
@@ -291,6 +293,7 @@ function buildCard(
     fact: "",
     id: `${query.id}:${qid}:${year}:${titleSlug || "card"}`,
     image: null,
+    imageRepo: undefined,
     pageViews: null,
     popularityScore: sourceScore,
     qid,
@@ -351,6 +354,7 @@ function toCard(card: BuiltCard): Card | null {
     fact: card.fact,
     wikipediaSlug: getWikipediaSlug(card.wikipediaUrl),
     image: card.image,
+    ...(card.imageRepo ? { imageRepo: card.imageRepo } : {}),
     pageViews: card.pageViews,
   };
 }
@@ -373,6 +377,10 @@ async function hydrateWikipediaMetadata(
       cards,
       metadataDurationMs: 0,
       metadataStats: {
+        imageRepoCacheHits: 0,
+        imageRepoCacheMisses: 0,
+        imageRepoRequestCount: 0,
+        imageReposMissing: 0,
         imageBatchCount: 0,
         imageCacheHits: 0,
         imageCacheMisses: 0,
@@ -412,6 +420,7 @@ async function hydrateWikipediaMetadata(
         ...card,
         fact,
         image: metadata?.image ?? null,
+        imageRepo: metadata?.imageRepo,
         wikipediaTitle: metadata?.wikipediaTitle ?? null,
         wikipediaUrl: metadata?.wikipediaUrl ?? null,
       };
@@ -643,7 +652,7 @@ async function buildCardsForQuery(
     metadataStats,
   } = await hydrateWikipediaMetadata(builtCards, rejectionReasons, metadataLog);
   console.log(
-    `[query:${query.id}] metadata hydrated in ${formatDurationMs(metadataDurationMs)}; sitelink hits=${metadataStats.sitelinkCacheHits}, sitelink fetched=${metadataStats.sitelinkCacheMisses}, image hits=${metadataStats.imageCacheHits}, image fetched=${metadataStats.imageTitlesRequested}, summary hits=${metadataStats.summaryCacheHits}, summary fetched=${metadataStats.summaryRequestCount}`,
+    `[query:${query.id}] metadata hydrated in ${formatDurationMs(metadataDurationMs)}; sitelink hits=${metadataStats.sitelinkCacheHits}, sitelink fetched=${metadataStats.sitelinkCacheMisses}, image hits=${metadataStats.imageCacheHits}, image fetched=${metadataStats.imageTitlesRequested}, image repo hits=${metadataStats.imageRepoCacheHits}, image repo fetched=${metadataStats.imageRepoCacheMisses}, image files missing=${metadataStats.imageReposMissing}, summary hits=${metadataStats.summaryCacheHits}, summary fetched=${metadataStats.summaryRequestCount}`,
   );
   const {
     cards: builtCardsWithPopularity,
@@ -669,6 +678,12 @@ async function buildCardsForQuery(
 
     if (!isSupportedImageFilename(card.image)) {
       addReject(rejectionReasons, "unsupported-image-format");
+      return false;
+    }
+
+    // The file was deleted or renamed since the page image was recorded.
+    if (card.imageRepo === null) {
+      addReject(rejectionReasons, "missing-image-file");
       return false;
     }
 

@@ -1,5 +1,6 @@
 import { mkdir, readFile, writeFile } from "fs/promises";
 import path from "path";
+import { ImageRepo } from "../../types/cards";
 import { getWikimediaUserAgent } from "../api-env";
 import { FetchRequestError, fetchJson } from "../fetch";
 
@@ -22,6 +23,7 @@ const ONE_YEAR_CACHE_TTL_MS = 365 * 24 * 60 * 60 * 1_000;
 const WIKIDATA_MAX_LAG_SECONDS = 120;
 const SITELINK_REQUEST_BATCH_SIZE = 50;
 const IMAGE_REQUEST_BATCH_SIZE = 20;
+const IMAGE_REPO_REQUEST_BATCH_SIZE = 50;
 const SUMMARY_REQUEST_BATCH_SIZE = 10;
 const SUMMARY_RATE_LIMIT_WINDOW_MS = 1_000;
 const SUMMARY_RATE_LIMIT_MAX_REQUESTS = 5;
@@ -72,9 +74,27 @@ type WikipediaSummaryResponse = {
   extract?: string;
 };
 
+type WikipediaFilePage = {
+  imagerepository?: string;
+  missing?: boolean;
+  title?: string;
+};
+
+type WikipediaFileInfoResponse = {
+  query?: {
+    normalized?: {
+      from: string;
+      to: string;
+    }[];
+    pages?: WikipediaFilePage[];
+  };
+};
+
 export type CachedEnwikiMetadata = {
   fetchedAt: string;
   image?: string | null;
+  /** `null` means the file no longer exists on either wiki. */
+  imageRepo?: ImageRepo | null;
   pageViews?: number | null;
   summaryExtract?: string | null;
   wikipediaTitle: string | null;
@@ -86,6 +106,10 @@ type EnwikiMetadataCache = Record<string, CachedEnwikiMetadata>;
 type ResolveLogFn = (message: string) => void;
 
 export type ResolveEnwikiMetadataStats = {
+  imageRepoCacheHits: number;
+  imageRepoCacheMisses: number;
+  imageRepoRequestCount: number;
+  imageReposMissing: number;
   imageBatchCount: number;
   imageCacheHits: number;
   imageCacheMisses: number;
@@ -702,6 +726,100 @@ async function fetchImagesBatch(
   throw new Error("Unreachable retry state");
 }
 
+function toFileTitle(image: string): string {
+  return `File:${image.replaceAll("_", " ")}`;
+}
+
+async function fetchImageReposBatch(
+  images: string[],
+  timeoutMs: number,
+  options: {
+    batchNumber: number;
+    batchCount: number;
+    log?: ResolveLogFn;
+  },
+): Promise<Record<string, ImageRepo | null>> {
+  const userAgent = getWikimediaUserAgent();
+
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
+    try {
+      const requestStartedAt = Date.now();
+      // English Wikipedia's API answers for both its own files and the
+      // Commons files it shows, and says which wiki each one is on.
+      const response = await fetchJson<WikipediaFileInfoResponse>(
+        WIKIPEDIA_API_ENDPOINT,
+        {
+          headers: {
+            "Api-User-Agent": userAgent,
+            "User-Agent": userAgent,
+          },
+          searchParams: {
+            action: "query",
+            format: "json",
+            formatversion: 2,
+            prop: "imageinfo",
+            iiprop: "size",
+            titles: images.map(toFileTitle).join("|"),
+          },
+          timeoutMs,
+        },
+      );
+      options.log?.(
+        `[wikipedia:image-repos] fetched batch ${options.batchNumber}/${options.batchCount} [duration: ${Date.now() - requestStartedAt}ms] [attempt: ${attempt}] [files: ${images.length}]`,
+      );
+
+      const repoByTitle = new Map<string, ImageRepo | null>();
+      for (const page of response.data.query?.pages ?? []) {
+        if (!page.title) {
+          continue;
+        }
+
+        const repo =
+          page.imagerepository === "local"
+            ? "enwiki"
+            : page.imagerepository === "shared"
+              ? "commons"
+              : null;
+        repoByTitle.set(page.title, repo);
+      }
+
+      const normalizedByRequested = new Map<string, string>();
+      for (const entry of response.data.query?.normalized ?? []) {
+        normalizedByRequested.set(entry.from, entry.to);
+      }
+
+      const result: Record<string, ImageRepo | null> = {};
+      for (const image of images) {
+        const requested = toFileTitle(image);
+        const title = normalizedByRequested.get(requested) ?? requested;
+        result[image] = repoByTitle.get(title) ?? null;
+      }
+
+      return result;
+    } catch (error) {
+      if (!isRetryableFetchError(error)) {
+        throw error;
+      }
+
+      const status = error.status;
+      if (attempt === MAX_ATTEMPTS) {
+        throw error;
+      }
+
+      const retryAfterMs =
+        parseRetryAfterMs(error.headers?.get("retry-after")) ??
+        FALLBACK_RETRY_DELAY_MS;
+      options.log?.(
+        `[wikipedia:image-repos] retrying batch ${options.batchNumber}/${options.batchCount} [attempt: ${attempt}] [status: ${status ?? "error"}] [retryAfter: ${retryAfterMs}ms] [files: ${images.length}]`,
+      );
+
+      await sleep(retryAfterMs);
+    }
+  }
+
+  throw new Error("Unreachable retry state");
+}
+
 async function fetchSummary(
   title: string,
   timeoutMs: number,
@@ -786,6 +904,10 @@ export async function resolveEnwikiMetadata(
   const result = new Map<string, CachedEnwikiMetadata>();
   const uniqueQids = Array.from(new Set(qids)).filter((qid) => qid.length > 0);
   const stats: ResolveEnwikiMetadataStats = {
+    imageRepoCacheHits: 0,
+    imageRepoCacheMisses: 0,
+    imageRepoRequestCount: 0,
+    imageReposMissing: 0,
     imageBatchCount: 0,
     imageCacheHits: 0,
     imageCacheMisses: 0,
@@ -882,47 +1004,154 @@ export async function resolveEnwikiMetadata(
     `[metadata:images] cache status [hits: ${stats.imageCacheHits}] [misses: ${stats.imageCacheMisses}]`,
   );
 
-  const imageBatches = chunk(imageCandidates, IMAGE_REQUEST_BATCH_SIZE);
-  stats.imageBatchCount = imageBatches.length;
-  for (let index = 0; index < imageBatches.length; index += 1) {
-    const batch = imageBatches[index];
-    stats.imageRequestCount += 1;
-    stats.imageTitlesRequested += batch.length;
-    const imagesByTitle = await fetchImagesBatch(
-      batch.map((entry) => entry.wikipediaTitle),
-      timeoutMs,
-      {
-        batchCount: imageBatches.length,
+  async function fetchPageImages(
+    entries: { qid: string; wikipediaTitle: string }[],
+  ): Promise<void> {
+    const imageBatches = chunk(entries, IMAGE_REQUEST_BATCH_SIZE);
+    stats.imageBatchCount += imageBatches.length;
+
+    for (let index = 0; index < imageBatches.length; index += 1) {
+      const batch = imageBatches[index];
+      stats.imageRequestCount += 1;
+      stats.imageTitlesRequested += batch.length;
+      const imagesByTitle = await fetchImagesBatch(
+        batch.map((entry) => entry.wikipediaTitle),
+        timeoutMs,
+        {
+          batchCount: imageBatches.length,
+          batchNumber: index + 1,
+          log: options.log,
+        },
+      );
+      const fetchedAt = new Date().toISOString();
+
+      for (const entry of batch) {
+        const cacheEntry = cache[entry.qid];
+        if (!cacheEntry) {
+          continue;
+        }
+
+        cacheEntry.fetchedAt = fetchedAt;
+        cacheEntry.image = normalizeImageFilename(
+          imagesByTitle[entry.wikipediaTitle] ?? null,
+        );
+        delete cacheEntry.imageRepo;
+        if (cacheEntry.image === null) {
+          stats.imagesResolvedAsNull += 1;
+        } else {
+          stats.imagesResolved += 1;
+        }
+        result.set(entry.qid, cacheEntry);
+      }
+
+      await writeCache(cache);
+
+      if (index < imageBatches.length - 1) {
+        await sleep(delayMs);
+      }
+    }
+  }
+
+  async function fetchImageRepos(
+    entries: { image: string; qid: string }[],
+  ): Promise<void> {
+    const images = Array.from(new Set(entries.map((entry) => entry.image)));
+    const imageRepoBatches = chunk(images, IMAGE_REPO_REQUEST_BATCH_SIZE);
+
+    for (let index = 0; index < imageRepoBatches.length; index += 1) {
+      const batch = imageRepoBatches[index];
+      stats.imageRepoRequestCount += 1;
+      const repoByImage = await fetchImageReposBatch(batch, timeoutMs, {
+        batchCount: imageRepoBatches.length,
         batchNumber: index + 1,
         log: options.log,
-      },
-    );
-    const fetchedAt = new Date().toISOString();
+      });
 
-    for (const entry of batch) {
-      const cacheEntry = cache[entry.qid];
-      if (!cacheEntry) {
+      for (const entry of entries) {
+        const cacheEntry = cache[entry.qid];
+        if (
+          !cacheEntry ||
+          "imageRepo" in cacheEntry ||
+          !(entry.image in repoByImage)
+        ) {
+          continue;
+        }
+
+        cacheEntry.imageRepo = repoByImage[entry.image];
+        result.set(entry.qid, cacheEntry);
+      }
+
+      await writeCache(cache);
+
+      if (index < imageRepoBatches.length - 1) {
+        await sleep(delayMs);
+      }
+    }
+  }
+
+  await fetchPageImages(imageCandidates);
+
+  // Image repos are looked up separately from page images so the existing
+  // cache can be filled in without fetching every image filename again.
+  const imageRepoEntries: { image: string; qid: string }[] = [];
+  for (const qid of uniqueQids) {
+    const cacheEntry = cache[qid];
+    if (typeof cacheEntry?.image === "string" && !("imageRepo" in cacheEntry)) {
+      imageRepoEntries.push({ image: cacheEntry.image, qid });
+    }
+  }
+  stats.imageRepoCacheMisses = new Set(
+    imageRepoEntries.map((entry) => entry.image),
+  ).size;
+  stats.imageRepoCacheHits = uniqueQids.filter((qid) => {
+    const entry = cache[qid];
+    return typeof entry?.image === "string" && "imageRepo" in entry;
+  }).length;
+  options.log?.(
+    `[metadata:image-repos] cache status [hits: ${stats.imageRepoCacheHits}] [misses: ${stats.imageRepoCacheMisses}]`,
+  );
+
+  await fetchImageRepos(imageRepoEntries);
+
+  // The file behind a cached page image can be renamed or deleted later.
+  // Re-resolve those pages so their cards follow the article's current image
+  // instead of being dropped for pointing at a file that no longer exists.
+  const missingImageQids = uniqueQids.filter(
+    (qid) => cache[qid]?.imageRepo === null,
+  );
+  if (missingImageQids.length > 0) {
+    const retryImageCandidates: { qid: string; wikipediaTitle: string }[] = [];
+    for (const qid of missingImageQids) {
+      const cacheEntry = cache[qid];
+      if (!cacheEntry || cacheEntry.wikipediaTitle === null) {
         continue;
       }
 
-      cacheEntry.fetchedAt = fetchedAt;
-      cacheEntry.image = normalizeImageFilename(
-        imagesByTitle[entry.wikipediaTitle] ?? null,
-      );
-      if (cacheEntry.image === null) {
-        stats.imagesResolvedAsNull += 1;
-      } else {
-        stats.imagesResolved += 1;
+      retryImageCandidates.push({
+        qid,
+        wikipediaTitle: cacheEntry.wikipediaTitle,
+      });
+    }
+
+    await fetchPageImages(retryImageCandidates);
+
+    const retryImageRepoEntries: { image: string; qid: string }[] = [];
+    for (const qid of missingImageQids) {
+      const cacheEntry = cache[qid];
+      if (
+        typeof cacheEntry?.image === "string" &&
+        !("imageRepo" in cacheEntry)
+      ) {
+        retryImageRepoEntries.push({ image: cacheEntry.image, qid });
       }
-      result.set(entry.qid, cacheEntry);
     }
 
-    await writeCache(cache);
-
-    if (index < imageBatches.length - 1) {
-      await sleep(delayMs);
-    }
+    await fetchImageRepos(retryImageRepoEntries);
   }
+
+  stats.imageReposMissing = uniqueQids.filter(
+    (qid) => cache[qid]?.imageRepo === null,
+  ).length;
 
   const summaryCandidates = uniqueQids
     .map((qid) => {
@@ -1067,6 +1296,7 @@ export async function resolveEnwikiPageViews(
     cache[entry.qid] = {
       fetchedAt: new Date().toISOString(),
       image: existing?.image,
+      imageRepo: existing?.imageRepo,
       pageViews: views,
       summaryExtract: existing?.summaryExtract,
       wikipediaTitle: existing?.wikipediaTitle ?? entry.wikipediaTitle,

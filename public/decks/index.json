@@ -2,7 +2,7 @@
   "difficultyCounts": {
     "easy": 609,
     "normal": 980,
-    "hard": 1813
+    "hard": 1814
   },
   "id": "all",
   "minScore": 1000,
@@ -14,7 +14,7 @@
       "difficultyCounts": {
         "easy": 301,
         "normal": 517,
-        "hard": 892
+        "hard": 893
       },
       "id": "all-history",
       "minScore": 1000,
@@ -27,7 +27,7 @@
           "difficultyCounts": {
             "easy": 170,
             "normal": 302,
-            "hard": 530
+            "hard": 531
           },
           "id": "all-history-nations",
           "minScore": 12,
@@ -512,7 +512,7 @@
                   "difficultyCounts": {
                     "easy": 9,
                     "normal": 18,
-                    "hard": 36
+                    "hard": 35
                   },
                   "id": "all-leaders-rulers-europe-scotland",
                   "minScore": 12,
@@ -2157,7 +2157,7 @@
           "difficultyCounts": {
             "easy": 29,
             "normal": 62,
-            "hard": 131
+            "hard": 130
           },
           "id": "all-business-media",
           "minScore": 0,

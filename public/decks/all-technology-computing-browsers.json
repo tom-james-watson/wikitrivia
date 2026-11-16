@@ -7,6 +7,7 @@
     "fact": "Google Chrome is a cross-platform web browser developed by Google.",
     "wikipediaSlug": "Google_Chrome",
     "image": "Google_Chrome_icon_(February_2022).svg",
+    "imageRepo": "commons",
     "pageViews": 2222451
   },
   {
@@ -17,6 +18,7 @@
     "fact": "Internet Explorer is a retired series of graphical web browsers developed by Microsoft that were used in the Windows line of operating systems.",
     "wikipediaSlug": "Internet_Explorer",
     "image": "Internet_Explorer_11_screenshot.png",
+    "imageRepo": "enwiki",
     "pageViews": 39065
   },
   {
@@ -27,6 +29,7 @@
     "fact": "Vivaldi is a Norwegian freeware, cross-platform web browser with a built-in email client developed by Vivaldi Technologies.",
     "wikipediaSlug": "Vivaldi_(web_browser)",
     "image": "Vivaldi_web_browser_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 20050
   },
   {
@@ -37,6 +40,7 @@
     "fact": "Opera Mini is a mobile web browser made by Opera.",
     "wikipediaSlug": "Opera_Mini",
     "image": "Opera_Mini_2015_icon.svg",
+    "imageRepo": "commons",
     "pageViews": 13356
   },
   {
@@ -47,6 +51,7 @@
     "fact": "Netscape Navigator is a brand of web browsers first developed and sold by Netscape Communications Corporation in 1994 that was progressively developed until its discontinuation in the late 1990s before the brand was briefly revived for the release of Netscape Navigator 9 under AOL in 2007.",
     "wikipediaSlug": "Netscape_Navigator",
     "image": "Netscape_icon.svg",
+    "imageRepo": "commons",
     "pageViews": 12212
   },
   {
@@ -57,6 +62,7 @@
     "fact": "Yandex Browser is a freeware web browser developed by the Russian technology corporation Yandex that uses the Blink web browser engine and is based on the Chromium open source project.",
     "wikipediaSlug": "Yandex_Browser",
     "image": "Yandex_Browser_macOS_2025-06-14.png",
+    "imageRepo": "enwiki",
     "pageViews": 8824
   },
   {
@@ -67,6 +73,7 @@
     "fact": "NCSA Mosaic is a discontinued web browser that was instrumental in popularizing the World Wide Web and the general Internet during the 1990s.",
     "wikipediaSlug": "NCSA_Mosaic",
     "image": "NCSA_Mosaic_Browser_Screenshot.png",
+    "imageRepo": "commons",
     "pageViews": 7948
   },
   {
@@ -77,6 +84,7 @@
     "fact": "SeaMonkey is a free and open-source Internet suite.",
     "wikipediaSlug": "SeaMonkey",
     "image": "Seamonkey_2.53.17.1_screenshot.png",
+    "imageRepo": "commons",
     "pageViews": 6104
   },
   {
@@ -87,6 +95,7 @@
     "fact": "Konqueror is a free and open-source web browser and file manager that provides web access and file-viewer functionality for file systems.",
     "wikipediaSlug": "Konqueror",
     "image": "Breezeicons-apps-48-konqueror.svg",
+    "imageRepo": "commons",
     "pageViews": 4818
   },
   {
@@ -97,6 +106,7 @@
     "fact": "Firefox for Android is a web browser developed by Mozilla for Android smartphones and tablet computers.",
     "wikipediaSlug": "Firefox_for_Android",
     "image": "Firefox_logo,_2019.svg",
+    "imageRepo": "commons",
     "pageViews": 4473
   }
 ]

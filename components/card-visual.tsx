@@ -92,8 +92,14 @@ export default function CardVisual(props: Props) {
   } = props;
 
   const imageCandidates = React.useMemo(
-    () => (loadImage ? createWikimediaImageCandidates(item.image) : []),
-    [item.image, loadImage],
+    () =>
+      loadImage
+        ? createWikimediaImageCandidates({
+            image: item.image,
+            imageRepo: item.imageRepo,
+          })
+        : [],
+    [item.image, item.imageRepo, loadImage],
   );
   const { imageSrc } = useCardImage(imageCandidates);
   const cardThemeStyle = useCardTheme(item.deckThemeHue);

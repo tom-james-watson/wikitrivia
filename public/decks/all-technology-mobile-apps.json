@@ -7,6 +7,7 @@
     "fact": "Apple Wallet is a digital wallet developed by Apple Inc. and included with iOS and watchOS that allows users to store Wallet passes such as coupons, boarding passes, student ID cards, government ID cards, business credentials, resort passes, car keys, home keys, event tickets, public transportation passes, store cards, and – starting with iOS 8.1 – credit cards, and debit cards for use via Apple Pay.",
     "wikipediaSlug": "Apple_Wallet",
     "image": "Apple_Wallet_screenshot.png",
+    "imageRepo": "enwiki",
     "pageViews": 53883
   },
   {
@@ -17,6 +18,7 @@
     "fact": "Pokémon Go is a 2016 augmented reality (AR) mobile game developed and published by Niantic, in partnership with Nintendo and The Pokémon Company, for iOS and Android devices.",
     "wikipediaSlug": "Pok%C3%A9mon_Go",
     "image": "Pokemon_Go.svg",
+    "imageRepo": "enwiki",
     "pageViews": 34984
   },
   {
@@ -27,6 +29,7 @@
     "fact": "Google Lens is an image recognition technology developed by Google, designed to bring up relevant information related to objects it identifies using visual analysis based on a neural network.",
     "wikipediaSlug": "Google_Lens",
     "image": "Google_Lens_Icon.svg",
+    "imageRepo": "commons",
     "pageViews": 32765
   },
   {
@@ -37,6 +40,7 @@
     "fact": "Obsidian is a proprietary personal knowledge base and note-taking application that operates on markdown files.",
     "wikipediaSlug": "Obsidian_(software)",
     "image": "2023_Obsidian_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 29639
   },
   {
@@ -46,7 +50,8 @@
     "year": 2011,
     "fact": "Line is a Japanese freeware app and service for instant messaging and social networking, operated by the Japanese company LY Corporation, co-owned by SoftBank Group and Naver.",
     "wikipediaSlug": "Line_(software)",
-    "image": "LINE_screenshot.png",
+    "image": "LINE_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 29434
   },
   {
@@ -57,6 +62,7 @@
     "fact": "WeChat or Weixin in Chinese is an instant messaging, social media, and mobile payment app developed by Tencent.",
     "wikipediaSlug": "WeChat",
     "image": "WeChat_logo.svg",
+    "imageRepo": "enwiki",
     "pageViews": 27772
   },
   {
@@ -67,6 +73,7 @@
     "fact": "Musical.ly was a social media service headquartered in Shanghai, on which platform users created and shared short lip-sync videos.",
     "wikipediaSlug": "Musical.ly",
     "image": "Musical.ly_vector_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 17225
   },
   {
@@ -77,6 +84,7 @@
     "fact": "Amino was a social media application originally developed by Narvii, Inc.",
     "wikipediaSlug": "Amino_(app)",
     "image": "The_logo_of_Amino_(app)_since_2023.png",
+    "imageRepo": "enwiki",
     "pageViews": 16773
   },
   {
@@ -87,6 +95,7 @@
     "fact": "FaceTime is a proprietary videotelephony product developed by Apple.",
     "wikipediaSlug": "FaceTime",
     "image": "FaceTime_iOS.svg",
+    "imageRepo": "commons",
     "pageViews": 16128
   },
   {
@@ -97,6 +106,7 @@
     "fact": "DeepSeek is a generative artificial intelligence chatbot developed by the Chinese company DeepSeek.",
     "wikipediaSlug": "DeepSeek_(chatbot)",
     "image": "DeepSeek_chatbot_example_screenshot.png",
+    "imageRepo": "commons",
     "pageViews": 14180
   },
   {
@@ -107,6 +117,7 @@
     "fact": "Clubhouse is an American social audio app for iOS and Android developed by Alpha Exploration Co. that facilitates real-time, audio-only communication within virtual \"rooms\".",
     "wikipediaSlug": "Clubhouse_(app)",
     "image": "Clubhouse_App_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 10638
   },
   {
@@ -117,6 +128,7 @@
     "fact": "Procreate is a raster graphics editor app for digital painting developed and published by the Australian company Savage Interactive for iOS and iPadOS.",
     "wikipediaSlug": "Procreate_(software)",
     "image": "Procreate_icon.png",
+    "imageRepo": "enwiki",
     "pageViews": 9746
   },
   {
@@ -127,6 +139,7 @@
     "fact": "Android Auto is a mobile app developed by Google to mirror features of a smartphone on a car's dashboard information and entertainment head unit.",
     "wikipediaSlug": "Android_Auto",
     "image": "Android_Auto_Screenshot.png",
+    "imageRepo": "enwiki",
     "pageViews": 9591
   },
   {
@@ -137,6 +150,7 @@
     "fact": "Threema is a paid cross-platform encrypted instant messaging app developed by Threema GmbH in Switzerland and launched in 2012.",
     "wikipediaSlug": "Threema",
     "image": "Threema_app_logo_SVG.svg",
+    "imageRepo": "commons",
     "pageViews": 7721
   },
   {
@@ -147,6 +161,7 @@
     "fact": "Maps.me is a mobile app for Android, iOS and BlackBerry that provides offline maps using OpenStreetMap data.",
     "wikipediaSlug": "Maps.me",
     "image": "MAPS.ME_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 6902
   },
   {
@@ -157,6 +172,7 @@
     "fact": "Periscope was an American live video streaming app for Android and iOS developed by Kayvon Beykpour and Joe Bernstein and acquired by Twitter, Inc. before its launch in March 2015.",
     "wikipediaSlug": "Periscope_(service)",
     "image": "Periscope_Logo.svg",
+    "imageRepo": "commons",
     "pageViews": 6453
   },
   {
@@ -167,6 +183,7 @@
     "fact": "Nintendo Music is a music streaming service by Nintendo that features their video game soundtracks.",
     "wikipediaSlug": "Nintendo_Music",
     "image": "Nintendo_Music.png",
+    "imageRepo": "enwiki",
     "pageViews": 6314
   },
   {
@@ -177,6 +194,7 @@
     "fact": "Microsoft Clipchamp is a freemium video editing tool developed by Australian company Clipchamp Pty Ltd., a subsidiary of Microsoft.",
     "wikipediaSlug": "Microsoft_Clipchamp",
     "image": "Microsoft_Clipchamp_(2025–present).svg",
+    "imageRepo": "commons",
     "pageViews": 4624
   },
   {
@@ -187,6 +205,7 @@
     "fact": "Firefox for Android is a web browser developed by Mozilla for Android smartphones and tablet computers.",
     "wikipediaSlug": "Firefox_for_Android",
     "image": "Firefox_logo,_2019.svg",
+    "imageRepo": "commons",
     "pageViews": 4473
   },
   {
@@ -197,6 +216,7 @@
     "fact": "Draw Something was a video game developed by OMGPop based on its browser game Draw My Thing, launched on February 6, 2012.",
     "wikipediaSlug": "Draw_Something",
     "image": "Draw_Something_logo.png",
+    "imageRepo": "enwiki",
     "pageViews": 3738
   },
   {
@@ -207,6 +227,7 @@
     "fact": "Jamboard was a digital interactive whiteboard developed by Google to work with Google Workspace, formerly known as G Suite.",
     "wikipediaSlug": "Jamboard",
     "image": "Jamboard1.jpg",
+    "imageRepo": "commons",
     "pageViews": 3353
   },
   {
@@ -217,6 +238,7 @@
     "fact": "Rocket League Sideswipe is a free-to-play mobile vehicular soccer video game published by Psyonix.",
     "wikipediaSlug": "Rocket_League_Sideswipe",
     "image": "RL_Sideswipe_Coverart.png",
+    "imageRepo": "enwiki",
     "pageViews": 2944
   },
   {
@@ -227,6 +249,7 @@
     "fact": "Miitomo was a freemium social networking mobile app developed by Nintendo for iOS and Android devices.",
     "wikipediaSlug": "Miitomo",
     "image": "Miitomo_Android_icon.webp",
+    "imageRepo": "enwiki",
     "pageViews": 2845
   },
   {
@@ -237,6 +260,7 @@
     "fact": "monobank is a Ukrainian neobank founded in 2017.",
     "wikipediaSlug": "Monobank_(Ukraine)",
     "image": "Black_card_mono.png",
+    "imageRepo": "commons",
     "pageViews": 2624
   },
   {
@@ -247,6 +271,7 @@
     "fact": "The PlayStation App is a software application for iOS and Android devices developed by PlayStation Mobile Inc.",
     "wikipediaSlug": "PlayStation_App",
     "image": "PlayStation_App_Icon.jpg",
+    "imageRepo": "commons",
     "pageViews": 2498
   },
   {
@@ -257,6 +282,7 @@
     "fact": "Tellonym is a cross-platform messaging app to have questions answered.",
     "wikipediaSlug": "Tellonym",
     "image": "Tellonym_logo.svg",
+    "imageRepo": "commons",
     "pageViews": 1305
   },
   {
@@ -267,6 +293,7 @@
     "fact": "Inoreader is a web-based content and RSS feed reader, a cloud-based service for web browsers and mobile devices running iOS and Android.",
     "wikipediaSlug": "Inoreader",
     "image": "Inoreader_icon.png",
+    "imageRepo": "commons",
     "pageViews": 1180
   }
 ]

@@ -1,3 +1,5 @@
+import { Card, ImageRepo } from "../types/cards";
+
 function add32(left: number, right: number): number {
   return (left + right) & 0xffffffff;
 }
@@ -198,8 +200,6 @@ function md5(text: string): string {
     .join("");
 }
 
-type WikimediaRepo = "commons" | "enwiki";
-
 function createThumbnailName(encodedImage: string, width: number): string {
   if (/\.svg$/iu.test(encodedImage)) {
     return `${width}px-${encodedImage}.png`;
@@ -215,7 +215,7 @@ function createThumbnailName(encodedImage: string, width: number): string {
 function createWikimediaThumbPath(
   image: string,
   width: number,
-  repo: WikimediaRepo,
+  repo: ImageRepo,
 ): string {
   const normalizedImage = image.replaceAll(" ", "_");
   const hash = md5(normalizedImage);
@@ -228,16 +228,21 @@ function createWikimediaThumbPath(
   return `https://upload.wikimedia.org/wikipedia/${repoPath}/thumb/${firstPath}/${secondPath}/${encodedImage}/${thumbnailName}`;
 }
 
+/**
+ * The thumbnail URLs to try for a card. Cards record which wiki hosts their
+ * file; only cards from before that was recorded (old builds or saved games)
+ * need to try both.
+ */
 export function createWikimediaImageCandidates(
-  image: string,
+  card: Pick<Card, "image" | "imageRepo">,
   width = 250,
 ): string[] {
-  return [
-    createWikimediaThumbPath(image, width, "commons"),
-    createWikimediaThumbPath(image, width, "enwiki"),
-  ];
-}
+  if (card.imageRepo) {
+    return [createWikimediaThumbPath(card.image, width, card.imageRepo)];
+  }
 
-export function createWikimediaImage(image: string, width = 250): string {
-  return createWikimediaImageCandidates(image, width)[0];
+  return [
+    createWikimediaThumbPath(card.image, width, "commons"),
+    createWikimediaThumbPath(card.image, width, "enwiki"),
+  ];
 }
